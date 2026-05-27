@@ -15,6 +15,8 @@ import socket
 import warnings
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.request import urlopen, Request
+from urllib.error import URLError, HTTPError
 
 import feedparser
 
@@ -243,16 +245,24 @@ def assess_chokepoints(incidents: list[dict]) -> list[dict]:
 USER_AGENT = "iran-watch/0.3 (https://github.com/helioskozak-cloud/iran-watch)"
 
 WH_FEEDS = [
-    # Official whitehouse.gov RSS — the working endpoints under the new admin
+    # Official whitehouse.gov RSS
     ("WH News",            "wh_news",         "https://www.whitehouse.gov/news/feed/"),
-    ("WH Presidential Actions", "wh_actions", "https://www.whitehouse.gov/presidential-actions/feed/"),
-    # Indirect Trump-statement coverage from major political wires
+    ("WH Actions",         "wh_actions",      "https://www.whitehouse.gov/presidential-actions/feed/"),
+    # Major political wires
     ("Politico WH",        "politico_wh",     "https://rss.politico.com/whitehouse.xml"),
     ("Politico Politics",  "politico_pol",    "https://rss.politico.com/politics-news.xml"),
-    ("AP Politics",        "ap_pol",          "https://feeds.apnews.com/apnews/politics"),
-    ("Reuters Politics",   "reuters_pol",     "https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best"),
-    # Bluesky: Trump-quote-heavy WH reporters; resolved at fetch time
-    # (these still go through fetch_situation.py — keep this list focused on RSS)
+    # Trump-quote aggregators
+    ("Mediaite Trump",     "mediaite",        "https://www.mediaite.com/category/trump/feed/"),
+    ("Mediaite (all)",     "mediaite_all",    "https://www.mediaite.com/feed/"),
+    ("Rupar Public Notice","rupar_substack",  "https://www.publicnotice.co/feed"),
+]
+
+# Bluesky accounts that aggregate Trump/WH clips and quotes
+WH_BLUESKY = [
+    "atrupar.com",                 # Aaron Rupar (clips)
+    "acyn.bsky.social",            # Acyn (clip aggregator)
+    "kylegriffin1.bsky.social",    # Kyle Griffin (MSNBC)
+    "atrupar.bsky.social",         # Rupar alt handle
 ]
 
 
@@ -274,6 +284,58 @@ WH_RELEVANCE = re.compile(
     r"oil|opec|middle east|levant|persian|netanyahu|khamenei|pezeshkian|"
     r"strike|missile|drone|ceasefire|hostage|terrorism|terrorist)\b", re.I
 )
+
+
+BSKY_API = "https://public.api.bsky.app/xrpc"
+
+
+def _http_get_json(url: str) -> dict | None:
+    try:
+        req = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+        with urlopen(req, timeout=12) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except (HTTPError, URLError, socket.timeout, json.JSONDecodeError, ValueError):
+        return None
+
+
+def fetch_wh_bluesky(handle: str) -> list[dict]:
+    """Pull recent posts from a Trump/WH-coverage Bluesky account."""
+    items = []
+    url = f"{BSKY_API}/app.bsky.feed.getAuthorFeed?actor={handle}&limit=25"
+    data = _http_get_json(url)
+    if not data or "feed" not in data:
+        print(f"  bsky:{handle}: unavailable", flush=True)
+        return items
+    kept = 0
+    for entry in data["feed"]:
+        post = entry.get("post", {}) or {}
+        record = post.get("record", {}) or {}
+        text = _clean_html(record.get("text", ""))
+        if not text:
+            continue
+        author = post.get("author", {}) or {}
+        author_handle = author.get("handle", handle)
+        post_uri = post.get("uri", "")
+        rkey = post_uri.split("/")[-1] if post_uri else ""
+        link = f"https://bsky.app/profile/{author_handle}/post/{rkey}" if rkey else f"https://bsky.app/profile/{author_handle}"
+        pub = record.get("createdAt") or datetime.now(timezone.utc).isoformat()
+        pub = pub.replace("Z", "+00:00")
+        is_relevant = bool(WH_RELEVANCE.search(text))
+        # Short label for the source column
+        short_handle = author_handle.split(".")[0]
+        items.append({
+            "id":         _hash(post_uri or link),
+            "title":      text[:300],
+            "link":       link,
+            "summary":    "" if len(text) <= 300 else text[300:600],
+            "source":     f"@{short_handle}",
+            "category":   "trump_bsky",
+            "published":  pub,
+            "iran_topic": is_relevant,
+        })
+        kept += 1
+    print(f"  bsky:{handle}: {kept} posts", flush=True)
+    return items
 
 
 def fetch_wh_statements() -> list[dict]:
@@ -318,9 +380,14 @@ def fetch_wh_statements() -> list[dict]:
             })
             kept += 1
         print(f"  {name}: {kept} statements", flush=True)
-    # Sort by publish time desc, cap at 40
+
+    # Bluesky pull
+    for handle in WH_BLUESKY:
+        items.extend(fetch_wh_bluesky(handle))
+
+    # Sort by publish time desc, cap at 60
     items.sort(key=lambda x: x.get("published", ""), reverse=True)
-    return items[:40]
+    return items[:60]
 
 
 def main():

@@ -116,11 +116,11 @@
   .topbar .t:hover{border-color:var(--green);color:var(--green)}
   .topbar .t.active{background:var(--green);color:#000;border-color:var(--green);font-weight:700}
 
-  /* ── Layout: feed + Trump column + side panels ────────────── */
-  .layout{display:grid;grid-template-columns:1fr 290px 300px;gap:0;align-items:flex-start}
-  .feed-col{min-width:0;border-right:1px solid var(--border)}
-  .trump-col{background:#0a0606;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;border-right:1px solid var(--border);max-height:calc(100vh - 0px);position:sticky;top:0;overflow-y:auto}
-  .side-col{background:#040404;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;position:sticky;top:0;max-height:calc(100vh - 0px);overflow-y:auto}
+  /* ── Layout: three even columns ───────────────────────────── */
+  .layout{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;align-items:flex-start}
+  .feed-col{min-width:0;border-right:1px solid var(--border);overflow:hidden}
+  .trump-col{background:#0a0606;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;border-right:1px solid var(--border);max-height:calc(100vh - 0px);position:sticky;top:0;overflow-y:auto;min-width:0}
+  .side-col{background:#040404;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;position:sticky;top:0;max-height:calc(100vh - 0px);overflow-y:auto;min-width:0}
   .side-col h3,.trump-col h3{color:var(--green);font-size:10px;letter-spacing:.18em;text-transform:uppercase;margin:14px 0 6px;font-weight:800;font-family:'JetBrains Mono',monospace}
   .side-col h3:first-child,.trump-col h3:first-child{margin-top:0}
   .trump-col h3{color:var(--amber)}
@@ -237,13 +237,12 @@
   .lightbox.open{display:flex}
   .lightbox img{max-width:100%;max-height:100%;object-fit:contain}
 
-  @media (max-width:1280px){
-    .layout{grid-template-columns:1fr 280px}
-    .trump-col{grid-row:2;grid-column:1 / -1;position:relative;max-height:none;border-top:1px solid var(--border);border-right:0}
-  }
-  @media (max-width:900px){
+  @media (max-width:1100px){
     .layout{grid-template-columns:1fr}
     .side-col,.trump-col{position:relative;max-height:none;border-top:1px solid var(--border);border-right:0}
+    .feed-col{border-right:0}
+  }
+  @media (max-width:760px){
     .row{grid-template-columns:60px 14px 1fr;gap:8px}
     .status-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
     .banner{font-size:10px;padding:6px 10px;gap:10px}
