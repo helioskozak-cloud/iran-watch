@@ -1,0 +1,37 @@
+name: Refresh situation monitor
+
+on:
+  schedule:
+    # Every 15 min during global waking hours (06:00-23:00 UTC ≈ covers Tehran 09:30-02:30)
+    - cron: "*/15 6-23 * * *"
+    # Hourly overnight UTC
+    - cron: "0 0-5 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: iran-watch-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Fetch situation
+        run: python scan/fetch_situation.py
+      - name: Commit and push
+        run: |
+          git config user.name "iran-watch-bot"
+          git config user.email "bot@iran-watch"
+          git add docs/data/situation.json
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "refresh: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main || true
+          git push || true

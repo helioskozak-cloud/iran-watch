@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IRAN-WATCH · SITUATION MONITOR</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#000;
+    --panel:#070707;
+    --row:#0c0c0c;
+    --row-alt:#101010;
+    --border:#1c1c1c;
+    --border-bright:#2a2a2a;
+    --text:#c8c8c8;
+    --bright:#fff;
+    --muted:#5e5e5e;
+    --dim:#2e2e2e;
+    --green:#39ff7a;
+    --green-dim:#39ff7a44;
+    --amber:#ffae00;
+    --red:#ff2e2e;
+    --crit:#ff0040;
+    --cyan:#26d9ff;
+    --magenta:#ff5ce0;
+    --yellow:#ffd84d;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',-apple-system,sans-serif;font-size:13px;line-height:1.4;overflow-x:hidden}
+  ::-webkit-scrollbar{width:9px;height:9px}
+  ::-webkit-scrollbar-track{background:#000}
+  ::-webkit-scrollbar-thumb{background:var(--border-bright)}
+  ::-webkit-scrollbar-thumb:hover{background:#404040}
+  a{color:var(--cyan);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  /* CRT scan-line effect for vibes */
+  body::before{
+    content:'';position:fixed;inset:0;pointer-events:none;z-index:200;
+    background:repeating-linear-gradient(0deg,transparent 0,transparent 2px,rgba(255,255,255,.013) 2px,rgba(255,255,255,.013) 4px);
+  }
+
+  /* ── Banner ───────────────────────────────────────────────── */
+  .banner{background:#000;border-bottom:1px solid var(--green-dim);padding:8px 14px;display:flex;align-items:center;gap:18px;font-family:'JetBrains Mono',monospace;font-size:11px;flex-wrap:wrap}
+  .banner .brand{color:var(--green);font-weight:700;letter-spacing:.18em;font-size:14px;display:flex;align-items:center;gap:8px}
+  .banner .brand::before{content:'';width:9px;height:9px;border-radius:50%;background:var(--green);box-shadow:0 0 8px var(--green);animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  .banner .brand span{color:var(--muted);font-weight:400;letter-spacing:.05em;margin-left:6px}
+  .banner .meta{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.1em}
+  .banner .meta strong{color:var(--text);font-weight:500;font-family:'JetBrains Mono',monospace}
+  .banner .clock{margin-left:auto;color:var(--green);font-weight:700;letter-spacing:.05em}
+  .banner .clock .lbl{color:var(--muted);font-weight:400;margin-right:6px;letter-spacing:.08em}
+
+  /* ── Sev strip ────────────────────────────────────────────── */
+  .sevstrip{background:#050505;border-bottom:1px solid var(--border);padding:6px 14px;display:flex;gap:14px;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;flex-wrap:wrap;align-items:center}
+  .sev-chip{display:inline-flex;align-items:center;gap:5px;color:var(--muted);cursor:pointer;user-select:none;padding:2px 6px;border:1px solid transparent}
+  .sev-chip:hover{color:var(--text)}
+  .sev-chip.active{border-color:currentColor}
+  .sev-chip .dot{width:8px;height:8px;border-radius:50%;background:currentColor;display:inline-block}
+  .sev-chip .num{color:var(--text);font-weight:700;margin-left:3px}
+  .sev-critical{color:var(--crit)}
+  .sev-high{color:var(--red)}
+  .sev-medium{color:var(--amber)}
+  .sev-low{color:var(--yellow)}
+  .sev-info{color:var(--muted)}
+  .sevstrip .ttl{color:var(--muted);margin-right:4px}
+
+  /* ── Toolbar ──────────────────────────────────────────────── */
+  .toolbar{background:#050505;border-bottom:1px solid var(--border);padding:8px 14px;display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-family:'JetBrains Mono',monospace;font-size:11px}
+  .toolbar input,.toolbar select{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 8px;border-radius:0;font-family:inherit;font-size:11px}
+  .toolbar input[type="text"]{width:200px}
+  .toolbar input:focus,.toolbar select:focus{border-color:var(--green);outline:none}
+  .toolbar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:500}
+  .toolbar button{background:none;border:1px solid var(--border-bright);color:var(--muted);padding:4px 10px;font-family:inherit;font-size:11px;cursor:pointer}
+  .toolbar button:hover{color:var(--green);border-color:var(--green)}
+  .toolbar .spacer{margin-left:auto;color:var(--muted);font-size:10px;letter-spacing:.06em;text-transform:uppercase}
+
+  /* ── Topic chips bar ──────────────────────────────────────── */
+  .topbar{background:#0a0a0a;border-bottom:1px solid var(--border);padding:7px 14px;display:flex;gap:5px;flex-wrap:wrap;align-items:center;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.06em}
+  .topbar .lbl{color:var(--muted);text-transform:uppercase;margin-right:6px}
+  .topbar .t{color:var(--text);border:1px solid var(--border-bright);padding:2px 7px;cursor:pointer;background:#000}
+  .topbar .t:hover{border-color:var(--green);color:var(--green)}
+  .topbar .t.active{background:var(--green);color:#000;border-color:var(--green);font-weight:700}
+
+  /* ── Feed ─────────────────────────────────────────────────── */
+  .grp{background:#000;color:var(--green);padding:14px 14px 6px;font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.16em;border-bottom:1px solid var(--border)}
+  .row{display:grid;grid-template-columns:70px 14px 1fr 140px;gap:10px;padding:8px 14px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
+  .row:nth-child(odd){background:var(--row-alt)}
+  .row:hover{background:#1a1a1a}
+  .row .time{font-family:'JetBrains Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap;line-height:1.3}
+  .row .time .rel{color:var(--dim);font-size:9px;display:block;letter-spacing:.05em}
+  .row .pin{width:6px;height:100%;min-height:20px;margin-top:2px}
+  .pin-critical{background:var(--crit);box-shadow:0 0 5px var(--crit)}
+  .pin-high{background:var(--red)}
+  .pin-medium{background:var(--amber)}
+  .pin-low{background:var(--yellow)}
+  .pin-info{background:var(--dim)}
+  .row .body{min-width:0}
+  .row .body .title{color:var(--bright);font-size:13px;font-weight:500;line-height:1.42;overflow-wrap:break-word}
+  .row .body .title a{color:inherit}
+  .row .body .title a:hover{color:var(--green);text-decoration:none}
+  .row .summary{display:none;color:var(--muted);font-size:12px;line-height:1.55;margin-top:5px;padding-top:5px;border-top:1px dashed var(--border)}
+  .row.expand .summary{display:block}
+  .row .tags{margin-top:5px;display:flex;flex-wrap:wrap;gap:3px}
+  .row .tags .topic{font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--green);border:1px solid var(--green-dim);padding:0 5px;cursor:pointer;text-transform:uppercase;letter-spacing:.06em}
+  .row .tags .topic:hover{background:var(--green-dim)}
+  .row .meta{font-family:'JetBrains Mono',monospace;font-size:10px;text-align:right;color:var(--muted);white-space:nowrap;letter-spacing:.04em;line-height:1.3;padding-top:2px}
+  .row .meta .src{display:block;color:var(--text)}
+  .row .meta .cat{display:block;color:var(--dim);font-size:9px;text-transform:uppercase;letter-spacing:.06em}
+
+  /* Category colors */
+  .cat-regional_news{color:var(--cyan) !important}
+  .cat-iran_state{color:var(--red) !important}
+  .cat-iran_voice{color:var(--magenta) !important}
+  .cat-osint{color:var(--amber) !important}
+  .cat-official{color:var(--green) !important}
+  .cat-reddit{color:#ff5722 !important}
+  .cat-x_bridge{color:#fff !important}
+  .cat-youtube{color:var(--red) !important}
+
+  /* ── Empty / loading ──────────────────────────────────────── */
+  .empty{padding:60px 20px;text-align:center;color:var(--muted)}
+  .empty h2{color:var(--text);font-weight:500;margin-bottom:8px;font-family:'JetBrains Mono',monospace;font-size:14px;letter-spacing:.12em;text-transform:uppercase}
+
+  /* ── Footer ───────────────────────────────────────────────── */
+  footer{padding:30px 14px;color:var(--dim);font-family:'JetBrains Mono',monospace;font-size:10px;text-transform:uppercase;letter-spacing:.1em;text-align:center;border-top:1px solid var(--border)}
+
+  @media (max-width:760px){
+    .row{grid-template-columns:60px 14px 1fr;gap:8px}
+    .row .meta{grid-column:2 / -1;text-align:left;padding-top:4px}
+    .banner{font-size:10px;padding:6px 10px}
+  }
+</style>
+</head>
+<body>
+
+<div class="banner">
+  <span class="brand">IRAN-WATCH <span>v0.1 · SITUATION MONITOR</span></span>
+  <span class="meta">UPDATED <strong id="updated">—</strong></span>
+  <span class="meta">SOURCES <strong id="srcCount">0</strong></span>
+  <span class="meta">STATUS <strong id="alertLevel" style="color:var(--green)">NOMINAL</strong></span>
+  <span class="clock"><span class="lbl">ZULU</span><span id="clock">—</span></span>
+</div>
+
+<div class="sevstrip" id="sevstrip">
+  <span class="ttl">SEV</span>
+  <span class="sev-chip sev-critical" data-sev="critical"><span class="dot"></span>CRIT<span class="num" id="ct-critical">0</span></span>
+  <span class="sev-chip sev-high" data-sev="high"><span class="dot"></span>HIGH<span class="num" id="ct-high">0</span></span>
+  <span class="sev-chip sev-medium" data-sev="medium"><span class="dot"></span>MED<span class="num" id="ct-medium">0</span></span>
+  <span class="sev-chip sev-low" data-sev="low"><span class="dot"></span>LOW<span class="num" id="ct-low">0</span></span>
+  <span class="sev-chip sev-info" data-sev="info"><span class="dot"></span>INFO<span class="num" id="ct-info">0</span></span>
+</div>
+
+<div class="topbar" id="topicbar">
+  <span class="lbl">TOPICS</span>
+</div>
+
+<div class="toolbar">
+  <span class="lbl">FIND</span>
+  <input type="text" id="search" placeholder="keyword / source / location" oninput="render()">
+  <span class="lbl">SRC</span>
+  <select id="srcFilter" onchange="render()"><option value="">All</option></select>
+  <span class="lbl">FEED</span>
+  <select id="catFilter" onchange="render()">
+    <option value="">All</option>
+    <option value="regional_news">Regional News</option>
+    <option value="iran_state">Iran State</option>
+    <option value="iran_voice">Iran Voices</option>
+    <option value="osint">OSINT / Analyst</option>
+    <option value="official">US Gov / Official</option>
+    <option value="reddit">Reddit</option>
+    <option value="x_bridge">X (Nitter Bridge)</option>
+    <option value="youtube">YouTube</option>
+  </select>
+  <button onclick="clearFilters()">CLEAR</button>
+  <span class="spacer" id="counts">0 / 0 SHOWN</span>
+</div>
+
+<div id="content"></div>
+
+<footer>OSINT &middot; PUBLIC RSS SOURCES ONLY &middot; HEADLINES NOT VERIFIED &middot; FILTERED BY KEYWORD &middot; NO INTELLIGENCE GUARANTEE</footer>
+
+<script>
+const STATE = {
+  headlines: [],
+  generated: null,
+  severityFilter: null,
+  topicFilter: null,
+};
+
+function tick(){
+  const now=new Date();
+  const hh=String(now.getUTCHours()).padStart(2,'0');
+  const mm=String(now.getUTCMinutes()).padStart(2,'0');
+  const ss=String(now.getUTCSeconds()).padStart(2,'0');
+  document.getElementById('clock').textContent=`${hh}:${mm}:${ss}`;
+}
+setInterval(tick, 1000);
+tick();
+
+function fmtTime(iso){
+  if(!iso) return {hh:'',rel:''};
+  const d=new Date(iso);
+  if(isNaN(d)) return {hh:iso,rel:''};
+  const now=new Date();
+  const diffMin=(now-d)/60000;
+  const hh=String(d.getUTCHours()).padStart(2,'0')+':'+String(d.getUTCMinutes()).padStart(2,'0')+'Z';
+  let rel='';
+  if(diffMin<1) rel='LIVE';
+  else if(diffMin<60) rel=Math.floor(diffMin)+'M AGO';
+  else if(diffMin<60*8) rel=Math.floor(diffMin/60)+'H AGO';
+  else rel=d.toLocaleDateString('en-US',{month:'numeric',day:'numeric',timeZone:'UTC'});
+  return {hh, rel};
+}
+
+function fmtUpdated(iso){
+  if(!iso) return '—';
+  const d=new Date(iso);
+  const diff=(new Date()-d)/1000;
+  if(diff<60) return 'JUST NOW';
+  if(diff<3600) return Math.floor(diff/60)+'M AGO';
+  return d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'UTC'})+'Z';
+}
+
+function escapeHtml(s){
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function groupKey(iso){
+  if(!iso) return '';
+  const d=new Date(iso);
+  const today=new Date(); today.setUTCHours(0,0,0,0);
+  const yest=new Date(today); yest.setUTCDate(yest.getUTCDate()-1);
+  const dStart=new Date(d); dStart.setUTCHours(0,0,0,0);
+  if(dStart.getTime()===today.getTime()) return 'TODAY · '+d.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}).toUpperCase();
+  if(dStart.getTime()===yest.getTime()) return 'YESTERDAY';
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'UTC'}).toUpperCase();
+}
+
+function applyFilters(headlines){
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  const src=document.getElementById('srcFilter').value;
+  const cat=document.getElementById('catFilter').value;
+  return headlines.filter(h=>{
+    if(src && h.source!==src) return false;
+    if(cat && h.category!==cat) return false;
+    if(STATE.severityFilter && h.severity!==STATE.severityFilter) return false;
+    if(STATE.topicFilter && !(h.topics||[]).includes(STATE.topicFilter)) return false;
+    if(q){
+      const hay=(h.title+' '+(h.summary||'')+' '+(h.topics||[]).join(' ')+' '+h.source).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function updateAlertLevel(){
+  const counts={critical:0,high:0,medium:0,low:0,info:0};
+  // Look at last 24 hours
+  const cutoff=new Date()-86400*1000;
+  STATE.headlines.forEach(h=>{
+    if(new Date(h.published)>cutoff) counts[h.severity||'info']=(counts[h.severity||'info']||0)+1;
+  });
+  let level='NOMINAL', color='var(--green)';
+  if(counts.critical>=3){level='CRITICAL';color='var(--crit)';}
+  else if(counts.critical>=1||counts.high>=5){level='ELEVATED';color='var(--red)';}
+  else if(counts.high>=2||counts.medium>=8){level='WATCH';color='var(--amber)';}
+  document.getElementById('alertLevel').textContent=level;
+  document.getElementById('alertLevel').style.color=color;
+}
+
+function updateSevCounts(){
+  const counts={critical:0,high:0,medium:0,low:0,info:0};
+  STATE.headlines.forEach(h => counts[h.severity||'info']=(counts[h.severity||'info']||0)+1);
+  Object.entries(counts).forEach(([k,v])=>{
+    const el=document.getElementById('ct-'+k);
+    if(el) el.textContent=v;
+  });
+}
+
+function updateTopicBar(){
+  const map={};
+  STATE.headlines.forEach(h => (h.topics||[]).forEach(t => { map[t]=(map[t]||0)+1; }));
+  const ordered = Object.entries(map).sort((a,b)=>b[1]-a[1]);
+  const bar = document.getElementById('topicbar');
+  bar.innerHTML='<span class="lbl">TOPICS</span>'+ordered.map(([t,c])=>`<span class="t ${STATE.topicFilter===t?'active':''}" onclick="pickTopic('${t}')">${t} <span style="opacity:.55">${c}</span></span>`).join('')+(STATE.topicFilter?' <button onclick="pickTopic(null)" style="background:none;border:1px solid var(--green);color:var(--green);padding:2px 8px;font-family:inherit;font-size:10px;cursor:pointer;margin-left:6px">✕ CLR</button>':'');
+}
+
+function render(){
+  const list = applyFilters(STATE.headlines);
+  document.getElementById('counts').textContent = list.length+' / '+STATE.headlines.length+' SHOWN';
+  const content = document.getElementById('content');
+
+  if(!list.length){
+    content.innerHTML = '<div class="empty"><h2>NO SIGNAL</h2><div>No headlines match the current filter set</div></div>';
+    return;
+  }
+
+  let html='';
+  let curGroup=null;
+  list.forEach(h=>{
+    const g=groupKey(h.published);
+    if(g!==curGroup){curGroup=g;html+=`<div class="grp">▸ ${g}</div>`;}
+    const t=fmtTime(h.published);
+    const sev=h.severity||'info';
+    const tags=(h.topics||[]).map(tp=>`<span class="topic" onclick="event.stopPropagation();pickTopic('${tp}')">${tp}</span>`).join('');
+    html+=`<div class="row" onclick="this.classList.toggle('expand')">
+      <div class="time">${t.hh}<span class="rel">${t.rel}</span></div>
+      <div class="pin pin-${sev}"></div>
+      <div class="body">
+        <div class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${escapeHtml(h.title)}</a></div>
+        ${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}
+        ${tags?`<div class="tags">${tags}</div>`:''}
+      </div>
+      <div class="meta"><span class="src cat-${h.category}">${escapeHtml(h.source)}</span><span class="cat">${(h.category||'').replace('_',' ')} · ${sev}</span></div>
+    </div>`;
+  });
+  content.innerHTML = html;
+}
+
+function pickSeverity(sev){
+  STATE.severityFilter = (STATE.severityFilter===sev) ? null : sev;
+  document.querySelectorAll('.sev-chip').forEach(c => c.classList.toggle('active', c.dataset.sev===STATE.severityFilter));
+  render();
+}
+
+function pickTopic(t){
+  STATE.topicFilter = (STATE.topicFilter===t) ? null : t;
+  updateTopicBar();
+  render();
+}
+
+function clearFilters(){
+  document.getElementById('search').value='';
+  document.getElementById('srcFilter').value='';
+  document.getElementById('catFilter').value='';
+  STATE.severityFilter=null;
+  STATE.topicFilter=null;
+  document.querySelectorAll('.sev-chip').forEach(c => c.classList.remove('active'));
+  updateTopicBar();
+  render();
+}
+
+document.querySelectorAll('.sev-chip').forEach(c => {
+  c.addEventListener('click', () => pickSeverity(c.dataset.sev));
+});
+
+function reload(){
+  fetch('data/situation.json?_t='+Date.now())
+    .then(r=>r.json())
+    .then(doc=>{
+      STATE.headlines = doc.headlines || [];
+      STATE.generated = doc.generated;
+
+      const sources = [...new Set(STATE.headlines.map(h=>h.source))].sort();
+      const srcSel = document.getElementById('srcFilter');
+      const curSrc = srcSel.value;
+      srcSel.innerHTML = '<option value="">All</option>'+sources.map(s=>`<option value="${escapeHtml(s)}"${s===curSrc?' selected':''}>${escapeHtml(s)}</option>`).join('');
+
+      document.getElementById('updated').textContent = fmtUpdated(STATE.generated);
+      document.getElementById('srcCount').textContent = sources.length;
+
+      updateSevCounts();
+      updateAlertLevel();
+      updateTopicBar();
+      render();
+    })
+    .catch(err=>{
+      document.getElementById('content').innerHTML='<div class="empty"><h2>FEED OFFLINE</h2><div>'+escapeHtml(String(err))+'</div></div>';
+    });
+}
+
+reload();
+setInterval(reload, 60000);
+setInterval(()=>{
+  document.getElementById('updated').textContent = fmtUpdated(STATE.generated);
+  updateAlertLevel();
+}, 15000);
+</script>
+</body>
+</html>
