@@ -1,20 +1,8 @@
 """
-fetch_situation.py — pulls headlines from a wide range of news, OSINT,
-social-media-bridge, and government RSS sources, filters to anything
-Iran/Middle-East-relevant, classifies by severity, and writes
-docs/data/situation.json.
-
-Designed to give an at-a-glance "what's happening in the region right now"
-view modeled on a tactical operations center / OSINT terminal.
-
-Sources include:
-- Reddit r/* subreddits relevant to the region
-- Mainstream Middle East news (Times of Israel, Al Jazeera, BBC ME, Iran International)
-- OSINT / defense analyst blogs (Long War Journal, War on the Rocks, ISW)
-- Iranian state and opposition media (where RSS available)
-- US government press feeds (Pentagon, State Department, Treasury sanctions)
-- YouTube channel feeds for analyst commentary
-- Mastodon / Bluesky bridges where useful
+fetch_situation.py — pulls headlines from RSS sources AND Bluesky posts,
+filters to Iran/MidEast-relevant items, classifies severity with conflict
+context, attaches embed media (images/external links) where available, and
+writes docs/data/situation.json.
 """
 import json
 import re
@@ -26,6 +14,8 @@ import warnings
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import urlopen, Request
+from urllib.error import URLError, HTTPError
 
 import feedparser
 
@@ -36,123 +26,185 @@ ROOT = Path(__file__).parent.parent
 DATA = ROOT / "docs" / "data"
 OUT = DATA / "situation.json"
 
-MAX_KEEP = 600
-USER_AGENT = "iran-watch/0.1 (https://github.com/helioskozak-cloud/iran-watch)"
+MAX_KEEP = 800
+USER_AGENT = "iran-watch/0.2 (https://github.com/helioskozak-cloud/iran-watch)"
 
-# ── Sources ──────────────────────────────────────────────────────────────────
-# (name, category, url)
-# Categories drive color coding in the UI.
+# ── RSS sources ──────────────────────────────────────────────────────────────
 FEEDS = [
-    # ── Mainstream regional / Middle East focus ─────────────────────────────
-    ("Times of Israel",    "regional_news",   "https://www.timesofisrael.com/feed/"),
-    ("Times of Israel ME", "regional_news",   "https://www.timesofisrael.com/topic/middle-east/feed/"),
-    ("Jerusalem Post",     "regional_news",   "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"),
-    ("Jerusalem Post ME",  "regional_news",   "https://www.jpost.com/rss/rssfeedsmiddleeastnews.aspx"),
-    ("Al Jazeera",         "regional_news",   "https://www.aljazeera.com/xml/rss/all.xml"),
-    ("Al Arabiya",         "regional_news",   "https://english.alarabiya.net/.mrss/en.xml"),
-    ("Al-Monitor",         "regional_news",   "https://www.al-monitor.com/rss.xml"),
-    ("Middle East Eye",    "regional_news",   "https://www.middleeasteye.net/rss/all"),
-    ("BBC Middle East",    "regional_news",   "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml"),
-    ("Reuters World",      "regional_news",   "https://www.reutersagency.com/feed/?best-topics=global-news&post_type=best"),
-
-    # ── Iran-specific outlets ───────────────────────────────────────────────
-    ("Iran International", "iran_voice",      "https://www.iranintl.com/en/rss.xml"),
-    ("Radio Farda",        "iran_voice",      "https://en.radiofarda.com/api/zsq-rb-mtjyt"),  # may 404 — kept as attempt
-    ("Tasnim News",        "iran_state",      "https://www.tasnimnews.com/en/rss/feed/0/7/2/featured-news"),
-    ("Tehran Times",       "iran_state",      "https://www.tehrantimes.com/rss"),
-    ("Press TV",           "iran_state",      "https://www.presstv.ir/rss.xml"),
-    ("IRNA",               "iran_state",      "https://en.irna.ir/rss"),
-
-    # ── OSINT / defense analyst ─────────────────────────────────────────────
-    ("Long War Journal",   "osint",           "https://www.longwarjournal.org/feed"),
-    ("War on the Rocks",   "osint",           "https://warontherocks.com/feed/"),
-    ("ISW",                "osint",           "https://www.understandingwar.org/rss.xml"),
-    ("Defense One",        "osint",           "https://www.defenseone.com/rss/all/"),
-    ("Breaking Defense",   "osint",           "https://breakingdefense.com/feed/"),
-    ("The Drive",          "osint",           "https://www.twz.com/feed"),
-    ("USNI News",          "osint",           "https://news.usni.org/feed"),
-
-    # ── US government ───────────────────────────────────────────────────────
-    ("DoD News",           "official",        "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10"),
-    ("State Dept",         "official",        "https://www.state.gov/rss-feeds/department-press-briefing-rss-feed/feed/"),
-    ("CENTCOM",            "official",        "https://www.centcom.mil/Desktop-Modules/ArticleCS/RSS.ashx?ContentType=1&Site=313"),
-    ("Treasury OFAC",      "official",        "https://ofac.treasury.gov/rss/recent-actions.xml"),
-
-    # ── Reddit (social proxy) ───────────────────────────────────────────────
-    ("r/worldnews",        "reddit",          "https://www.reddit.com/r/worldnews/hot/.rss?limit=30"),
-    ("r/IranProtests",     "reddit",          "https://www.reddit.com/r/IranProtests/new/.rss?limit=30"),
-    ("r/Iran",             "reddit",          "https://www.reddit.com/r/Iran/new/.rss?limit=30"),
-    ("r/Israel",           "reddit",          "https://www.reddit.com/r/Israel/hot/.rss?limit=30"),
-    ("r/MiddleEastNews",   "reddit",          "https://www.reddit.com/r/MiddleEastNews/new/.rss?limit=30"),
-    ("r/geopolitics",      "reddit",          "https://www.reddit.com/r/geopolitics/hot/.rss?limit=30"),
-    ("r/AnythingGoesNews", "reddit",          "https://www.reddit.com/r/AnythingGoesNews/hot/.rss?limit=30"),
-    ("r/syriancivilwar",   "reddit",          "https://www.reddit.com/r/syriancivilwar/new/.rss?limit=30"),
-    ("r/lebanon",          "reddit",          "https://www.reddit.com/r/lebanon/new/.rss?limit=30"),
-    ("r/yemen",            "reddit",          "https://www.reddit.com/r/yemen/new/.rss?limit=30"),
-
-    # ── Nitter bridges for key OSINT X accounts (likely flaky) ─────────────
-    # If these die we replace with alternatives.
-    ("X @sentdefender",    "x_bridge",        "https://nitter.privacydev.net/sentdefender/rss"),
-    ("X @AuroraIntel",     "x_bridge",        "https://nitter.privacydev.net/AuroraIntel/rss"),
-    ("X @OSINTtechnical",  "x_bridge",        "https://nitter.privacydev.net/OSINTtechnical/rss"),
-    ("X @TheStudyofWar",   "x_bridge",        "https://nitter.privacydev.net/TheStudyofWar/rss"),
-    ("X @IsraelinUSA",     "x_bridge",        "https://nitter.privacydev.net/IsraelinUSA/rss"),
-
-    # ── YouTube channels (analysts) ─────────────────────────────────────────
-    ("YT Caspian Report",  "youtube",         "https://www.youtube.com/feeds/videos.xml?user=CaspianReport"),
-    ("YT Perun",           "youtube",         "https://www.youtube.com/feeds/videos.xml?channel_id=UCgkAQc7gXjj9c0vV56sJ3jw"),
+    # Regional news
+    ("Times of Israel",    "regional_news", "https://www.timesofisrael.com/feed/"),
+    ("Times of Israel ME", "regional_news", "https://www.timesofisrael.com/topic/middle-east/feed/"),
+    ("Jerusalem Post",     "regional_news", "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"),
+    ("Al Jazeera",         "regional_news", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("Al Arabiya",         "regional_news", "https://english.alarabiya.net/.mrss/en.xml"),
+    ("Al-Monitor",         "regional_news", "https://www.al-monitor.com/rss.xml"),
+    ("Middle East Eye",    "regional_news", "https://www.middleeasteye.net/rss/all"),
+    ("BBC Middle East",    "regional_news", "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml"),
+    # Iran outlets
+    ("Iran International", "iran_voice",    "https://www.iranintl.com/en/rss.xml"),
+    ("Tasnim News",        "iran_state",    "https://www.tasnimnews.com/en/rss/feed/0/7/2/featured-news"),
+    ("Tehran Times",       "iran_state",    "https://www.tehrantimes.com/rss"),
+    ("Press TV",           "iran_state",    "https://www.presstv.ir/rss.xml"),
+    ("IRNA",               "iran_state",    "https://en.irna.ir/rss"),
+    # OSINT / defense
+    ("Long War Journal",   "osint",         "https://www.longwarjournal.org/feed"),
+    ("War on the Rocks",   "osint",         "https://warontherocks.com/feed/"),
+    ("ISW",                "osint",         "https://www.understandingwar.org/rss.xml"),
+    ("Defense One",        "osint",         "https://www.defenseone.com/rss/all/"),
+    ("Breaking Defense",   "osint",         "https://breakingdefense.com/feed/"),
+    ("The Drive",          "osint",         "https://www.twz.com/feed"),
+    ("USNI News",          "osint",         "https://news.usni.org/feed"),
+    # Official
+    ("DoD News",           "official",      "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10"),
+    ("State Dept",         "official",      "https://www.state.gov/rss-feeds/department-press-briefing-rss-feed/feed/"),
+    ("CENTCOM",            "official",      "https://www.centcom.mil/Desktop-Modules/ArticleCS/RSS.ashx?ContentType=1&Site=313"),
+    ("Treasury OFAC",      "official",      "https://ofac.treasury.gov/rss/recent-actions.xml"),
+    # Reddit
+    ("r/worldnews",        "reddit",        "https://www.reddit.com/r/worldnews/hot/.rss?limit=30"),
+    ("r/IranProtests",     "reddit",        "https://www.reddit.com/r/IranProtests/new/.rss?limit=30"),
+    ("r/Iran",             "reddit",        "https://www.reddit.com/r/Iran/new/.rss?limit=30"),
+    ("r/Israel",           "reddit",        "https://www.reddit.com/r/Israel/hot/.rss?limit=30"),
+    ("r/MiddleEastNews",   "reddit",        "https://www.reddit.com/r/MiddleEastNews/new/.rss?limit=30"),
+    ("r/geopolitics",      "reddit",        "https://www.reddit.com/r/geopolitics/hot/.rss?limit=30"),
+    ("r/syriancivilwar",   "reddit",        "https://www.reddit.com/r/syriancivilwar/new/.rss?limit=30"),
+    ("r/lebanon",          "reddit",        "https://www.reddit.com/r/lebanon/new/.rss?limit=30"),
+    ("r/yemen",            "reddit",        "https://www.reddit.com/r/yemen/new/.rss?limit=30"),
+    ("r/CombatFootage",    "reddit",        "https://www.reddit.com/r/CombatFootage/new/.rss?limit=30"),
+    ("r/CredibleDefense",  "reddit",        "https://www.reddit.com/r/CredibleDefense/hot/.rss?limit=30"),
+    # YouTube
+    ("YT Caspian Report",  "youtube",       "https://www.youtube.com/feeds/videos.xml?user=CaspianReport"),
 ]
 
-# ── Keyword filter ───────────────────────────────────────────────────────────
-# A headline must mention ≥1 of these to be kept (anchors the feed to the topic).
+# ── Bluesky handles ──────────────────────────────────────────────────────────
+# Pulled via the public AT Protocol API. Best-effort — handles that 404 are
+# silently skipped. Mix of mainstream news, OSINT investigators, and analysts.
+BLUESKY_HANDLES = [
+    "bellingcat.com",                  # Bellingcat OSINT (custom domain handle)
+    "nytimes.com",                     # NYT
+    "reuters.com",                     # Reuters
+    "bbcnews.bsky.social",             # BBC
+    "apnews.com",                      # AP
+    "ft.com",                          # Financial Times
+    "aljazeeraenglish.bsky.social",
+    "timesofisrael.bsky.social",
+    "haaretzcom.bsky.social",          # Haaretz
+    "iranintl.bsky.social",            # Iran International
+    "longwarjournal.bsky.social",
+    "isw.bsky.social",                 # Institute for the Study of War
+    "warontherocks.bsky.social",
+    "csis.org",                        # CSIS
+    "rusi.bsky.social",                # RUSI
+    "wapo.bsky.social",                # Washington Post
+    "maxiboot.bsky.social",            # Max Boot
+    "antho.bsky.social",
+    "rcallimachi.bsky.social",         # Rukmini Callimachi (NYT, terrorism)
+    "shashj.bsky.social",              # Shashank Joshi (Economist defence editor)
+    "narges-bajoghli.bsky.social",     # Iran analyst
+    "afshonostovar.bsky.social",       # Iran/IRGC expert
+    "raniaab.bsky.social",             # Rania Abouzeid (ME journalism)
+    "borzou.bsky.social",              # Borzou Daragahi (foreign correspondent)
+    "kim-ghattas.bsky.social",         # Kim Ghattas (ME analyst)
+    "alimaisam.bsky.social",
+    "obretix.bsky.social",             # OSINT imagery
+    "amaarpaq.bsky.social",
+    "joshrogin.bsky.social",
+]
+
+
+# ── Filtering ────────────────────────────────────────────────────────────────
 RELEVANCE_TERMS = [
-    # Iran proper
-    "iran", "iranian", "tehran", "isfahan", "bushehr", "natanz", "fordow", "hormuz",
-    "khamenei", "pezeshkian", "raisi", "khomeini",
-    "irgc", "quds force", "basij", "soleimani", "artesh", "shia", "shiite",
-    # Nuclear
-    "nuclear", "enrichment", "uranium", "iaea", "jcpoa",
-    # Regional theatres / proxies
-    "israel", "israeli", "idf", "mossad", "knesset", "netanyahu", "gallant", "gantz",
-    "tel aviv", "jerusalem", "haifa", "eilat", "negev", "golan",
-    "gaza", "hamas", "sinwar", "haniyeh",
-    "hezbollah", "nasrallah", "lebanon", "lebanese", "beirut",
-    "houthi", "ansarallah", "yemen", "sanaa", "red sea", "bab el-mandeb", "bab al-mandab",
-    "syria", "syrian", "assad", "damascus", "deir ez-zor", "deir ezzor",
-    "iraq", "iraqi", "baghdad", "anbar", "popular mobilization", "pmf",
-    "kataib", "saraya", "harakat",
-    # US / coalition relevance
-    "centcom", "fifth fleet", "carrier strike", "uss",
-    "sanction", "ofac",
-    # Diplomacy / events
-    "ceasefire", "hostage", "negotiation", "diplomacy", "summit",
-    # Energy / market spillovers
-    "brent", "wti", "opec", "tanker", "drone", "missile",
+    "iran","iranian","tehran","isfahan","bushehr","natanz","fordow","hormuz",
+    "khamenei","pezeshkian","raisi","khomeini","irgc","quds","basij","soleimani",
+    "nuclear","enrichment","uranium","iaea","jcpoa",
+    "israel","israeli","idf","mossad","knesset","netanyahu","gallant","gantz",
+    "tel aviv","jerusalem","haifa","eilat","negev","golan",
+    "gaza","hamas","sinwar","haniyeh",
+    "hezbollah","nasrallah","lebanon","lebanese","beirut",
+    "houthi","ansarallah","yemen","sanaa","red sea","bab el-mandeb","bab al-mandab","bab-el-mandeb",
+    "syria","syrian","assad","damascus","deir ez-zor","deir ezzor",
+    "iraq","iraqi","baghdad","anbar","pmf","kataib","saraya","harakat",
+    "centcom","fifth fleet","carrier strike","uss",
+    "sanction","ofac",
+    "ceasefire","hostage","negotiation","diplomacy","summit",
+    "brent","wti","opec","tanker","drone","missile","ballistic","cruise missile",
 ]
 RELEVANCE_RE = re.compile(r"\b(" + "|".join(re.escape(t) for t in RELEVANCE_TERMS) + r")\b", re.IGNORECASE)
+
+# Conflict-context words required for CRITICAL classification
+CONFLICT_CONTEXT = [
+    "iran","iranian","irgc","israel","israeli","idf","gaza","hamas","hezbollah",
+    "houthi","yemen","lebanon","syria","syrian","iraq","tehran","beirut","damascus",
+    "drone","missile","airstrike","ballistic","cruise missile","fighter jet",
+    "f-16","f-35","f-15","f-18","f-22","mig","sukhoi","su-",
+    "tanker","warship","destroyer","cruiser","frigate","submarine","aircraft carrier",
+    "centcom","quds","irgc","mossad","cia","mi6","soldier","troops","commander",
+    "military","forces","army","navy","air force","marine","fighter","militant",
+    "jihadist","militia","proxy","strike","retaliat","escalat","nuclear","enrichment",
+    "uranium","sanction","ofac","embassy","consulate","ambassador",
+    "fired","launched","struck","intercept","assassin","kidnap","abduct","raid",
+    "incursion","breach","casualt","killed","dead","wounded","injured","hostage",
+]
+CONFLICT_RE = re.compile(r"\b(" + "|".join(re.escape(t) for t in CONFLICT_CONTEXT) + r")\b", re.IGNORECASE)
 
 
 def is_relevant(text: str) -> bool:
     return bool(RELEVANCE_RE.search(text or ""))
 
 
-# ── Severity classifier ──────────────────────────────────────────────────────
-SEVERITY_RULES = [
-    ("critical", re.compile(r"\b(struck?|strikes?|airstrike|missile (?:launch|strike|hit)|killed?|dead|casualt|nuclear (?:test|detonat)|invad|war breaks?|assassin|exchanges? of fire|all-out war)\b", re.I)),
-    ("high",     re.compile(r"\b(attack|drone (?:strike|attack)|launch|deploy|mobiliz|skirmish|clash|tanker (?:seized|attack)|hostage|abduct|captured|exchange (?:fire|gunfire)|incursion|raid|ground operation|air defen[cs]e activated|under fire|cross-border)\b", re.I)),
-    ("medium",   re.compile(r"\b(sanction|threat|warns?|escalat|alert|condemn|reject|expel|recall ambassador|reinforc|surge|nuclear program|enrich|uranium|IRGC commander|drill|exercise|maneuver)\b", re.I)),
-    ("low",      re.compile(r"\b(meeting|talks?|negotiat|diplomat|summit|statement|brief|press conference|ceasefire (?:holds?|extended)|prisoner exchange|aid)\b", re.I)),
-]
+# Critical requires BOTH a severe verb AND conflict context
+CRITICAL_VERBS = re.compile(
+    r"\b(airstrike|struck|missile (?:launch|strike|hit|fired|barrage)|"
+    r"rocket (?:launch|strike|hit|fired|barrage)|"
+    r"killed|deaths?|fatalit|casualt|"
+    r"nuclear (?:test|detonat)|invad(?:e|ed|ing|es)|"
+    r"war breaks|all-out war|"
+    r"assassin(?:ation|ated)?|"
+    r"exchange of fire|direct attack|major attack|"
+    r"shot down|downed (?:drone|aircraft|jet)|"
+    r"destroyed (?:base|facility|infrastructure|warehouse)|"
+    r"intercepted (?:missiles?|drones?|launches?)|"
+    r"hijacked|seized (?:tanker|vessel|ship))\b", re.I
+)
+
+HIGH_PATTERNS = re.compile(
+    r"\b(attack|drone (?:strike|attack|swarm)|launch|deploy|mobiliz|skirmish|clash|"
+    r"tanker (?:seized|attack|incident)|hostage|abduct|captured|"
+    r"exchange (?:fire|gunfire)|incursion|raid|ground operation|"
+    r"air defen[cs]e activated|under fire|cross-border|"
+    r"engaged in combat|targeted (?:strike|operation)|precision strike|"
+    r"shells?|shelled|bombard|explosion|blast)\b", re.I
+)
+
+MEDIUM_PATTERNS = re.compile(
+    r"\b(sanction|threat|warns?|escalat|alert|condemn|reject|expel|recall ambassador|"
+    r"reinforc|surge|nuclear program|enrich|uranium|IRGC commander|"
+    r"drill|exercise|maneuver|joint exercise|naval exercise|"
+    r"summon|protest|demonstration|crackdown|arrest)\b", re.I
+)
+
+LOW_PATTERNS = re.compile(
+    r"\b(meeting|talks?|negotiat|diplomat|summit|statement|brief|press conference|"
+    r"ceasefire (?:holds?|extended)|prisoner exchange|aid|humanitarian|delegation)\b", re.I
+)
 
 
 def severity(text: str) -> str:
-    for level, pat in SEVERITY_RULES:
-        if pat.search(text or ""):
-            return level
+    """Tightened classifier — CRITICAL requires conflict context co-occurrence."""
+    t = text or ""
+    has_critical_verb = bool(CRITICAL_VERBS.search(t))
+    has_conflict_context = bool(CONFLICT_RE.search(t))
+    if has_critical_verb and has_conflict_context:
+        return "critical"
+    if has_critical_verb or HIGH_PATTERNS.search(t):
+        # Severe verb without context → downgrade to high; full HIGH match → high
+        return "high"
+    if MEDIUM_PATTERNS.search(t):
+        return "medium"
+    if LOW_PATTERNS.search(t):
+        return "low"
     return "info"
 
 
-# ── Topic tagging (light) ───────────────────────────────────────────────────
 TOPIC_RULES = [
     ("Iran",       re.compile(r"\b(iran|iranian|tehran|irgc|khamenei|natanz|fordow|bushehr|hormuz|pezeshkian)\b", re.I)),
     ("Israel",     re.compile(r"\b(israel|israeli|idf|knesset|netanyahu|tel aviv|jerusalem|mossad|gantz|gallant)\b", re.I)),
@@ -170,16 +222,11 @@ TOPIC_RULES = [
 
 
 def topics(text: str) -> list[str]:
-    found = []
-    for label, pat in TOPIC_RULES:
-        if pat.search(text or ""):
-            found.append(label)
-    return found[:4]
+    return [label for label, pat in TOPIC_RULES if pat.search(text or "")][:4]
 
 
-# ── Feed parsing ─────────────────────────────────────────────────────────────
-def _hash_url(url: str) -> str:
-    return hashlib.md5(url.encode("utf-8")).hexdigest()[:12]
+def _hash_url(s: str) -> str:
+    return hashlib.md5(s.encode("utf-8")).hexdigest()[:12]
 
 
 def _parse_published(entry) -> str | None:
@@ -193,10 +240,9 @@ def _parse_published(entry) -> str | None:
     return None
 
 
-def _clean_title(title: str) -> str:
-    title = re.sub(r"<[^>]+>", "", title or "").strip()
-    title = re.sub(r"\s+", " ", title)
-    return title
+def _clean(s: str) -> str:
+    s = re.sub(r"<[^>]+>", "", s or "").strip()
+    return re.sub(r"\s+", " ", s)
 
 
 def _domain(url: str) -> str:
@@ -206,8 +252,53 @@ def _domain(url: str) -> str:
         return ""
 
 
-def fetch_feed(name: str, category: str, url: str) -> list[dict]:
-    items: list[dict] = []
+def _extract_media_from_rss(entry) -> dict:
+    """Pull image/thumbnail from common RSS extension fields."""
+    media = {"images": [], "thumbnail": None}
+
+    # media:content
+    for m in entry.get("media_content", []) or []:
+        url = m.get("url")
+        if url and any(url.lower().endswith(ext) for ext in (".jpg", ".jpeg", ".png", ".gif", ".webp")):
+            media["images"].append(url)
+
+    # media:thumbnail
+    for m in entry.get("media_thumbnail", []) or []:
+        url = m.get("url")
+        if url:
+            media["thumbnail"] = url
+            break
+
+    # enclosure links
+    for link in entry.get("links", []) or []:
+        if (link.get("rel") == "enclosure" and "image" in (link.get("type") or "")):
+            url = link.get("href")
+            if url:
+                media["images"].append(url)
+
+    # Reddit-style: scrape from summary
+    summary = entry.get("summary", "") or ""
+    img_match = re.search(r'<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|gif|webp))[^"]*"', summary, re.I)
+    if img_match and not media["images"]:
+        media["images"].append(img_match.group(1))
+
+    # YouTube thumbnail via channel feeds
+    if entry.get("yt_videoid"):
+        media["thumbnail"] = f"https://i.ytimg.com/vi/{entry['yt_videoid']}/hqdefault.jpg"
+
+    # Dedupe + limit
+    seen = set()
+    uniq = []
+    for u in media["images"]:
+        if u not in seen:
+            seen.add(u)
+            uniq.append(u)
+    media["images"] = uniq[:4]
+    return media
+
+
+def fetch_rss(name: str, category: str, url: str) -> list[dict]:
+    items = []
     try:
         parsed = feedparser.parse(url, agent=USER_AGENT)
     except Exception as e:
@@ -218,19 +309,19 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
         print(f"  {name}: parse error / no entries", flush=True)
         return items
 
-    raw_count = 0
+    raw = 0
     for entry in parsed.entries[:40]:
-        title = _clean_title(entry.get("title", ""))
+        title = _clean(entry.get("title", ""))
         link = entry.get("link", "")
         if not title or not link:
             continue
-        raw_count += 1
-        summary = _clean_title(entry.get("summary", ""))[:600]
+        raw += 1
+        summary = _clean(entry.get("summary", ""))[:600]
         combined = f"{title} {summary}"
-        # Regional / OSINT / official feeds: only keep relevant items
         if category in ("regional_news", "reddit", "osint", "official", "youtube") and not is_relevant(combined):
             continue
         published = _parse_published(entry) or datetime.now(timezone.utc).isoformat()
+        media = _extract_media_from_rss(entry)
         items.append({
             "id":        _hash_url(link),
             "title":     title,
@@ -242,8 +333,106 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
             "published": published,
             "severity":  severity(combined),
             "topics":    topics(combined),
+            "media":     media,
+            "kind":      "rss",
         })
-    print(f"  {name}: {len(items)}/{raw_count} kept", flush=True)
+    print(f"  {name}: {len(items)}/{raw} kept", flush=True)
+    return items
+
+
+# ── Bluesky via AT Protocol public API ──────────────────────────────────────
+BSKY_API = "https://public.api.bsky.app/xrpc"
+
+
+def _http_get_json(url: str) -> dict | None:
+    try:
+        req = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+        with urlopen(req, timeout=12) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except (HTTPError, URLError, socket.timeout, json.JSONDecodeError, ValueError):
+        return None
+
+
+def fetch_bluesky(handle: str) -> list[dict]:
+    """Fetch a Bluesky author feed using the AT Protocol public XRPC."""
+    items = []
+    url = f"{BSKY_API}/app.bsky.feed.getAuthorFeed?actor={handle}&limit=30"
+    data = _http_get_json(url)
+    if not data or "feed" not in data:
+        print(f"  bsky:{handle}: unavailable", flush=True)
+        return items
+
+    raw = 0
+    for entry in data["feed"]:
+        post = entry.get("post", {}) or {}
+        record = post.get("record", {}) or {}
+        text = _clean(record.get("text", ""))
+        if not text:
+            continue
+        raw += 1
+        if not is_relevant(text):
+            continue
+
+        author = post.get("author", {}) or {}
+        author_handle = author.get("handle", handle)
+        author_name = author.get("displayName") or author_handle
+        # Construct a deep link
+        post_uri = post.get("uri", "")
+        rkey = post_uri.split("/")[-1] if post_uri else ""
+        link = f"https://bsky.app/profile/{author_handle}/post/{rkey}" if rkey else f"https://bsky.app/profile/{author_handle}"
+
+        # Embed media
+        media = {"images": [], "thumbnail": None, "external": None, "video": None, "quote": None}
+        embed = post.get("embed", {}) or {}
+        emb_type = embed.get("$type") or ""
+
+        # Images
+        if "images" in embed:
+            for img in embed.get("images", []):
+                u = img.get("fullsize") or img.get("thumb")
+                if u:
+                    media["images"].append(u)
+        # External link cards
+        if "external" in embed and embed["external"]:
+            ext = embed["external"]
+            media["external"] = {
+                "uri":  ext.get("uri"),
+                "title": ext.get("title"),
+                "description": _clean(ext.get("description", ""))[:240],
+                "thumb": ext.get("thumb"),
+            }
+        # Video
+        if "video" in emb_type.lower() or "playlist" in embed:
+            media["video"] = embed.get("playlist") or embed.get("thumbnail")
+            if embed.get("thumbnail"):
+                media["thumbnail"] = embed["thumbnail"]
+
+        # Engagement signals → boost severity for high-traction posts about conflict
+        likes = post.get("likeCount", 0)
+        replies = post.get("replyCount", 0)
+        reposts = post.get("repostCount", 0)
+
+        published = record.get("createdAt") or datetime.now(timezone.utc).isoformat()
+        published = published.replace("Z", "+00:00")
+
+        items.append({
+            "id":        _hash_url(post_uri or link),
+            "title":     text[:280],
+            "link":      link,
+            "summary":   "" if len(text) <= 280 else text[280:600],
+            "source":    f"@{author_handle.split('.')[0]}",
+            "author":    author_name,
+            "category":  "bluesky",
+            "domain":    "bsky.app",
+            "published": published,
+            "severity":  severity(text),
+            "topics":    topics(text),
+            "media":     media,
+            "engage":    {"likes": likes, "replies": replies, "reposts": reposts},
+            "kind":      "bsky",
+        })
+
+    print(f"  bsky:{handle}: {len(items)}/{raw} kept", flush=True)
     return items
 
 
@@ -252,8 +441,7 @@ def load_existing() -> list[dict]:
         return []
     try:
         with open(OUT, "r", encoding="utf-8") as f:
-            doc = json.load(f)
-        return doc.get("headlines", [])
+            return json.load(f).get("headlines", [])
     except Exception as e:
         print(f"WARN: existing load failed — {e}", flush=True)
         return []
@@ -261,17 +449,30 @@ def load_existing() -> list[dict]:
 
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
-    print(f"iran-watch fetcher · {len(FEEDS)} sources", flush=True)
+    print(f"iran-watch fetcher v0.2 · {len(FEEDS)} RSS sources + {len(BLUESKY_HANDLES)} bsky handles", flush=True)
 
-    fresh: list[dict] = []
+    fresh = []
+    print("\n[RSS]", flush=True)
     for name, category, url in FEEDS:
-        fresh.extend(fetch_feed(name, category, url))
+        fresh.extend(fetch_rss(name, category, url))
+        time.sleep(0.2)
+
+    print("\n[BLUESKY]", flush=True)
+    for handle in BLUESKY_HANDLES:
+        fresh.extend(fetch_bluesky(handle))
         time.sleep(0.25)
 
     existing = load_existing()
     seen_ids = {h["id"] for h in existing}
     new_items = [h for h in fresh if h["id"] not in seen_ids]
     print(f"\nFetched {len(fresh)} headlines ({len(new_items)} new since last run)", flush=True)
+
+    # Backfill: existing entries without 'media' field
+    for h in existing:
+        h.setdefault("media", {"images": [], "thumbnail": None})
+        h.setdefault("kind", "rss")
+        # Re-classify existing entries with the new severity logic
+        h["severity"] = severity(h.get("title", "") + " " + (h.get("summary", "") or ""))
 
     by_id = {h["id"]: h for h in existing}
     for h in fresh:
@@ -284,9 +485,12 @@ def main():
         sev_counts[h.get("severity", "info")] = sev_counts.get(h.get("severity", "info"), 0) + 1
     print(f"Severity mix: {sev_counts}", flush=True)
 
+    media_count = sum(1 for h in combined if (h.get("media") or {}).get("images"))
+    print(f"With image media: {media_count}", flush=True)
+
     payload = {
         "generated":  datetime.now(timezone.utc).isoformat(),
-        "feed_count": len(FEEDS),
+        "feed_count": len(FEEDS) + len(BLUESKY_HANDLES),
         "headlines":  combined,
         "severity":   sev_counts,
     }

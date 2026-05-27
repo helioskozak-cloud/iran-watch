@@ -1,0 +1,376 @@
+{
+ "generated": "2026-05-27T19:14:04.097206+00:00",
+ "prices": {
+  "BZ=F": {
+   "label": "Brent Crude",
+   "symbol": "BZ=F",
+   "price": 92.42,
+   "change": -7.16,
+   "change_pct": -7.19,
+   "spark": [
+    102.58000183105469,
+    103.54000091552734,
+    99.58000183105469,
+    92.41999816894531
+   ]
+  },
+  "CL=F": {
+   "label": "WTI Crude",
+   "symbol": "CL=F",
+   "price": 88.89,
+   "change": -5.0,
+   "change_pct": -5.33,
+   "spark": [
+    96.3499984741211,
+    96.5999984741211,
+    93.88999938964844,
+    88.88999938964844
+   ]
+  },
+  "GC=F": {
+   "label": "Gold",
+   "symbol": "GC=F",
+   "price": 4484.4,
+   "change": -16.0,
+   "change_pct": -0.36,
+   "spark": [
+    4539.7998046875,
+    4521.0,
+    4500.39990234375,
+    4484.39990234375
+   ]
+  },
+  "DX-Y.NYB": {
+   "label": "USD Index",
+   "symbol": "DX-Y.NYB",
+   "price": 99.2,
+   "change": 0.05,
+   "change_pct": 0.05,
+   "spark": [
+    99.19000244140625,
+    99.31999969482422,
+    99.1500015258789,
+    99.2040023803711
+   ]
+  },
+  "^GSPC": {
+   "label": "S&P 500",
+   "symbol": "^GSPC",
+   "price": 7526.23,
+   "change": 7.11,
+   "change_pct": 0.09,
+   "spark": [
+    7432.97021484375,
+    7445.72021484375,
+    7473.47021484375,
+    7519.1201171875,
+    7526.22998046875
+   ]
+  },
+  "USO": {
+   "label": "USO (Oil ETF)",
+   "symbol": "USO",
+   "price": 130.64,
+   "change": -6.36,
+   "change_pct": -4.64,
+   "spark": [
+    144.27000427246094,
+    142.5399932861328,
+    140.9199981689453,
+    137.0,
+    130.639404296875
+   ]
+  },
+  "^VIX": {
+   "label": "VIX",
+   "symbol": "^VIX",
+   "price": 16.49,
+   "change": -0.52,
+   "change_pct": -3.06,
+   "spark": [
+    16.760000228881836,
+    16.700000762939453,
+    16.59000015258789,
+    17.010000228881836,
+    16.489999771118164
+   ]
+  },
+  "NG=F": {
+   "label": "Nat Gas",
+   "symbol": "NG=F",
+   "price": 3.1,
+   "change": 0.2,
+   "change_pct": 7.01,
+   "spark": [
+    3.0179998874664307,
+    2.9070000648498535,
+    2.8940000534057617,
+    3.0969998836517334
+   ]
+  }
+ },
+ "treaties": [
+  {
+   "name": "JCPOA — Iran Nuclear Deal",
+   "parties": [
+    "Iran",
+    "P5+1"
+   ],
+   "signed": "2015-07-14",
+   "status": "COLLAPSED",
+   "last_event": "2018-05-08",
+   "notes": "US withdrew unilaterally May 2018. Iran began exceeding limits in 2019. Indirect talks have stalled."
+  },
+  {
+   "name": "Israel–Hezbollah Ceasefire (Nov 2024)",
+   "parties": [
+    "Israel",
+    "Hezbollah",
+    "Lebanon (mediator: US/France)"
+   ],
+   "signed": "2024-11-27",
+   "status": "UNCERTAIN",
+   "last_event": "2026-05-26",
+   "notes": "60-day initial period with phased IDF withdrawal. Both sides report intermittent violations; broader picture stays largely in force."
+  },
+  {
+   "name": "Iran–Saudi Diplomatic Restoration",
+   "parties": [
+    "Iran",
+    "Saudi Arabia (mediator: China)"
+   ],
+   "signed": "2023-03-10",
+   "status": "HOLDING",
+   "last_event": "2026-04-01",
+   "notes": "Beijing-brokered rapprochement; embassies reopened. Tensions persist over proxy conflicts."
+  },
+  {
+   "name": "Israel–UAE Abraham Accords",
+   "parties": [
+    "Israel",
+    "UAE",
+    "Bahrain",
+    "Morocco",
+    "Sudan"
+   ],
+   "signed": "2020-09-15",
+   "status": "HOLDING",
+   "last_event": "2026-03-01",
+   "notes": "Normalization holds but Gaza war has cooled engagement; Saudi accession deferred indefinitely."
+  },
+  {
+   "name": "Yemen Truce (UN-mediated)",
+   "parties": [
+    "Houthi (Ansar Allah)",
+    "Saudi-led coalition"
+   ],
+   "signed": "2022-04-02",
+   "status": "EXPIRED",
+   "last_event": "2022-10-02",
+   "notes": "Formal 6-month truce lapsed Oct 2022. De facto pause held until Red Sea Houthi campaign restarted late 2023."
+  },
+  {
+   "name": "Houthi Red Sea Ceasefire (US-Oman)",
+   "parties": [
+    "Houthi (Ansar Allah)",
+    "United States"
+   ],
+   "signed": "2025-05-06",
+   "status": "VIOLATED",
+   "last_event": "2026-04-10",
+   "notes": "US-Houthi de-escalation excluded Israel-bound vessels; Houthi missile strikes on Israel continued."
+  },
+  {
+   "name": "Iran–Iraq Border Security Agreement",
+   "parties": [
+    "Iran",
+    "Iraq"
+   ],
+   "signed": "2023-03-19",
+   "status": "HOLDING",
+   "last_event": "2026-02-15",
+   "notes": "Bilateral agreement on Kurdish armed groups along Iran-Iraq border; cooperation deepens."
+  },
+  {
+   "name": "Egypt–Israel Peace Treaty",
+   "parties": [
+    "Egypt",
+    "Israel"
+   ],
+   "signed": "1979-03-26",
+   "status": "HOLDING",
+   "last_event": "2026-05-01",
+   "notes": "Longest-standing Arab-Israeli treaty; under significant strain from Gaza war but holding."
+  },
+  {
+   "name": "Jordan–Israel Peace Treaty",
+   "parties": [
+    "Jordan",
+    "Israel"
+   ],
+   "signed": "1994-10-26",
+   "status": "HOLDING",
+   "last_event": "2026-04-15",
+   "notes": "Diplomatic ties strained over Gaza; ambassador recalls have occurred but treaty intact."
+  }
+ ],
+ "incidents": [
+  {
+   "title": "May 23: Progress in talks to end imposed war as IRGC continues to oversee Strait of Hormuz transits",
+   "link": "https://presstv.ir/Detail/2026/05/23/769171/May-23-progress-talks-with-US-Strait-Hormuz-transits",
+   "source": "Press TV",
+   "published": "2026-05-27T19:09:11.113601+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "May 24: Iran reaffirms military readiness for any new aggression as key gaps remain in deal",
+   "link": "https://presstv.ir/Detail/2026/05/24/769228/may24-iran-reaffirms-military-readiness-new-aggression-key-gaps-remain-deal",
+   "source": "Press TV",
+   "published": "2026-05-27T19:09:11.113206+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Oman negotiating new transit framework for Strait of Hormuz: Official",
+   "link": "https://presstv.ir/Detail/2026/05/27/769375/Iran-Ali-Bagheri-Kani-SNSC-Oman-Russia-Strait-of-Hormuz-US-war-Trump",
+   "source": "Press TV",
+   "published": "2026-05-27T19:09:11.107570+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US and Iran remain divided on Hormuz deal as White House rejects Tehran TV report reut.rs/4e9DH7a",
+   "link": "https://bsky.app/profile/reuters.com/post/3mmu6eusgzd2x",
+   "source": "@reuters",
+   "published": "2026-05-27T18:50:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US and Iran remain divided on Hormuz deal as White House rejects Tehran TV report",
+   "link": "https://www.reddit.com/r/worldnews/comments/1tpehhb/us_and_iran_remain_divided_on_hormuz_deal_as/",
+   "source": "r/worldnews",
+   "published": "2026-05-27T18:37:58+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran Signals No Hormuz Blockade Under Draft Deal, Says US Forces Could Withdraw From Region",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1tpajk7/iran_signals_no_hormuz_blockade_under_draft_deal/",
+   "source": "r/geopolitics",
+   "published": "2026-05-27T16:23:07+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "COSCO products tanker leaving Strait of Hormuz, oil traffic still limited",
+   "link": "https://www.al-monitor.com/originals/2026/05/cosco-products-tanker-leaving-strait-hormuz-oil-traffic-still-limited",
+   "source": "Al-Monitor",
+   "published": "2026-05-27T15:36:48+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "U.S. oil falls below $90 on report Iran agreement would restore Hormuz traffic in one month",
+   "link": "https://www.reddit.com/r/worldnews/comments/1tp848g/us_oil_falls_below_90_on_report_iran_agreement/",
+   "source": "r/worldnews",
+   "published": "2026-05-27T14:59:17+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The KC-46 has finally landed in Israel. The US needs to keep pushing forward.",
+   "link": "https://breakingdefense.com/2026/05/the-kc-46-has-finally-landed-in-israel-the-us-needs-to-keep-pushing-forward/",
+   "source": "Breaking Defense",
+   "published": "2026-05-27T14:01:00+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says draft deal with US would reopen Hormuz shipping, end naval blockade",
+   "link": "https://www.reddit.com/r/worldnews/comments/1tp4oc4/iran_says_draft_deal_with_us_would_reopen_hormuz/",
+   "source": "r/worldnews",
+   "published": "2026-05-27T12:52:22+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iranian anti-ship missiles attacked Korean vessel in Hormuz",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1tp1car/iranian_antiship_missiles_attacked_korean_vessel/",
+   "source": "r/geopolitics",
+   "published": "2026-05-27T10:18:07+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Strait of Hormuz will open ‘one way or the other’ after Camp David meeting",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1tohkxd/strait_of_hormuz_will_open_one_way_or_the_other/",
+   "source": "r/geopolitics",
+   "published": "2026-05-26T19:32:54+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US Centcom admits they still CANNOT escort ships through Strait of Hormuz",
+   "link": "https://www.reddit.com/r/iran/comments/1todvt2/us_centcom_admits_they_still_cannot_escort_ships/",
+   "source": "r/Iran",
+   "published": "2026-05-26T17:28:31+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "USNI News Fleet and Marine Tracker: May 26, 2026",
+   "link": "https://news.usni.org/2026/05/26/usni-news-fleet-and-marine-tracker-may-26-2026",
+   "source": "USNI News",
+   "published": "2026-05-26T17:21:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "What is happening in Iran right now?",
+   "link": "https://www.reddit.com/r/iran/comments/1to321j/what_is_happening_in_iran_right_now/",
+   "source": "r/Iran",
+   "published": "2026-05-26T10:36:40+00:00",
+   "severity": "info"
+  }
+ ],
+ "chokepoints": [
+  {
+   "name": "Strait of Hormuz",
+   "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
+   "status": "ACTIVE",
+   "incident_count": 11,
+   "recent": [
+    {
+     "title": "May 23: Progress in talks to end imposed war as IRGC continues to oversee Strait of Hormuz transits",
+     "link": "https://presstv.ir/Detail/2026/05/23/769171/May-23-progress-talks-with-US-Strait-Hormuz-transits",
+     "source": "Press TV",
+     "published": "2026-05-27T19:09:11.113601+00:00",
+     "severity": "low"
+    },
+    {
+     "title": "Iran, Oman negotiating new transit framework for Strait of Hormuz: Official",
+     "link": "https://presstv.ir/Detail/2026/05/27/769375/Iran-Ali-Bagheri-Kani-SNSC-Oman-Russia-Strait-of-Hormuz-US-war-Trump",
+     "source": "Press TV",
+     "published": "2026-05-27T19:09:11.107570+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "US and Iran remain divided on Hormuz deal as White House rejects Tehran TV report reut.rs/4e9DH7a",
+     "link": "https://bsky.app/profile/reuters.com/post/3mmu6eusgzd2x",
+     "source": "@reuters",
+     "published": "2026-05-27T18:50:25+00:00",
+     "severity": "info"
+    }
+   ]
+  },
+  {
+   "name": "Bab el-Mandeb / Red Sea",
+   "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
+  },
+  {
+   "name": "Suez Canal",
+   "description": "12% of global trade. Re-routings via Cape add ~10 days transit.",
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
+  },
+  {
+   "name": "Eastern Mediterranean",
+   "description": "Israeli ports + Levantine gas fields. Hezbollah cross-border range.",
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
+  }
+ ]
+}

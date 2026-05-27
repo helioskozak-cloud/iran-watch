@@ -26,11 +26,13 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Fetch situation
         run: python scan/fetch_situation.py
+      - name: Fetch infrastructure (prices, treaties, shipping)
+        run: python scan/fetch_infra.py
       - name: Commit and push
         run: |
           git config user.name "iran-watch-bot"
           git config user.email "bot@iran-watch"
-          git add docs/data/situation.json
+          git add docs/data/situation.json docs/data/infra.json
           git diff --cached --quiet && echo "No changes" || \
             git commit -m "refresh: $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase origin main || true
