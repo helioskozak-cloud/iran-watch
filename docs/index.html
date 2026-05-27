@@ -194,6 +194,10 @@
   .stmt.expand .body{display:block}
   .stmt .body a{color:var(--amber);font-size:10px}
   .stmt .relflag{display:inline-block;background:var(--crit);color:#fff;font-size:8px;font-weight:800;padding:1px 5px;letter-spacing:.12em;margin-right:5px;vertical-align:middle;animation:blink 2s steps(2) infinite;box-shadow:0 0 6px rgba(255,0,64,.6)}
+  .stmt-open{display:inline-block;margin-top:6px;color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:.12em;font-weight:700;border:1px solid #5a3a00;padding:2px 7px;text-decoration:none;background:#000;transition:all .12s}
+  .stmt-open:hover{background:var(--amber);color:#000;text-decoration:none}
+  .stmt.relevant .stmt-open{color:var(--crit);border-color:#5a1330}
+  .stmt.relevant .stmt-open:hover{background:var(--crit);color:#fff}
 
   .trump-col .filter-row{display:flex;gap:5px;margin-bottom:10px;font-size:10px}
   .trump-col .filter-row button{flex:1;background:#000;border:1px solid var(--border-bright);color:var(--muted);padding:5px 7px;font-family:inherit;font-size:9px;letter-spacing:.1em;cursor:pointer;text-transform:uppercase;font-weight:700}
@@ -230,13 +234,21 @@
   .row .body .title a:hover{color:var(--green);text-decoration:none}
   .row.sev-critical .body .title{color:#ffe5e9;font-weight:700;text-shadow:0 0 8px rgba(255,0,64,.3)}
 
-  .row .summary{display:none;color:var(--muted);font-size:12px;line-height:1.6;margin-top:6px;padding-top:6px;border-top:1px dashed var(--border)}
-  .row.expand .summary{display:block}
+  .row .summary{color:var(--muted);font-size:12px;line-height:1.6;margin-top:6px;padding-top:6px;border-top:1px dashed var(--border);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .row:hover .summary{-webkit-line-clamp:unset;overflow:visible}
 
   .row .meta{margin-top:6px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--muted);letter-spacing:.04em}
   .row .meta .src{color:var(--text);font-weight:700;letter-spacing:.06em}
   .row .meta .cat{color:var(--dim);text-transform:uppercase;letter-spacing:.08em}
   .row .meta .engage{color:var(--muted)}
+  .row .meta .openlink{margin-left:auto;color:var(--green);font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:.1em;font-weight:700;border:1px solid var(--green-dim);padding:3px 8px;text-decoration:none;background:#000;transition:all .12s}
+  .row .meta .openlink:hover{background:var(--green);color:#000;text-decoration:none;box-shadow:0 0 10px var(--green-dim)}
+  .row.kind-bsky .meta .openlink{color:var(--bluesky);border-color:rgba(0,133,255,.4)}
+  .row.kind-bsky .meta .openlink:hover{background:var(--bluesky);color:#fff;box-shadow:0 0 10px rgba(0,133,255,.5)}
+  .row.cat-reddit .meta .openlink{color:#ff5722;border-color:#5e2a14}
+  .row.cat-reddit .meta .openlink:hover{background:#ff5722;color:#fff}
+  .row.cat-youtube .meta .openlink{color:var(--red);border-color:#5a1818}
+  .row.cat-youtube .meta .openlink:hover{background:var(--red);color:#fff}
 
   /* Source color tags */
   .cat-regional_news .src{color:var(--cyan)}
@@ -636,13 +648,14 @@ function renderWhStatements(){
     const src = (s.source||'').toUpperCase().replace('WH ','WH·').replace('POLITICO ','POL·').replace('AP POL','AP').replace('REUTERS POL','REUTERS');
     const cls = s.iran_topic ? 'stmt relevant' : 'stmt';
     const flag = s.iran_topic ? '<span class="relflag">ME</span>' : '';
-    return `<div class="${cls}" onclick="this.classList.toggle('expand')">
+    return `<div class="${cls}" onclick="rowClick(event,'${escapeHtml(s.link)}')">
       <div class="hdr">
         <span class="src">${escapeHtml(src)}</span>
         <span class="when">${when}</span>
       </div>
       <div class="ttl">${flag}${escapeHtml(s.title)}</div>
-      ${s.summary?`<div class="body">${escapeHtml(s.summary)}<br><a href="${escapeHtml(s.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">read full →</a></div>`:''}
+      ${s.summary?`<div class="body" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden">${escapeHtml(s.summary)}</div>`:''}
+      <a href="${escapeHtml(s.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" class="stmt-open">OPEN ↗</a>
     </div>`;
   }).join('');
 }
@@ -716,7 +729,14 @@ function render(){
     const engage = isBsky && h.engage ? `<span class="engage">♥ ${h.engage.likes||0} · ↻ ${h.engage.reposts||0} · ◌ ${h.engage.replies||0}</span>` : '';
     const author = isBsky && h.author ? `<span class="author">${escapeHtml(h.author)}</span>` : '';
 
-    html+=`<div class="row sev-${sev} cat-${h.category} kind-${h.kind||'rss'}" onclick="this.classList.toggle('expand')">
+    // Open-link affordance — Bluesky/X posts get a stronger label, others get a generic open
+    const openLabel = h.kind === 'bsky' ? 'VIEW ON BSKY ↗'
+                    : h.category === 'reddit' ? 'OPEN REDDIT ↗'
+                    : h.category === 'youtube' ? 'WATCH ↗'
+                    : 'OPEN SOURCE ↗';
+    const openBtn = `<a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" class="openlink">${openLabel}</a>`;
+
+    html+=`<div class="row sev-${sev} cat-${h.category} kind-${h.kind||'rss'}" onclick="rowClick(event,'${escapeHtml(h.link)}')">
       <div class="time">${t.hh}<span class="rel">${t.rel}</span></div>
       <div class="pin pin-${sev}"></div>
       <div class="body">
@@ -730,11 +750,28 @@ function render(){
           ${author}
           <span class="cat">${(h.category||'').replace('_',' ')} · ${sev}</span>
           ${engage}
+          ${openBtn}
         </div>
       </div>
     </div>`;
   });
   content.innerHTML = html;
+}
+
+// Click-handler for an entire row. If the user has a text selection or
+// clicked an interactive child, do nothing. Otherwise open the source link.
+function rowClick(e, link){
+  // Suppress when text is selected (so people can copy headlines)
+  if(window.getSelection && window.getSelection().toString().length) return;
+  // Suppress when click was on a link, button, image, or topic chip — they
+  // have their own handlers via stopPropagation, but be defensive.
+  const tag = (e.target.tagName||'').toUpperCase();
+  if(tag==='A'||tag==='BUTTON'||tag==='IMG'||tag==='INPUT'||tag==='SELECT'||tag==='TEXTAREA') return;
+  if(e.target.closest && e.target.closest('.topic, .openlink, .extcard, .images img')) return;
+  // Middle/right click → don't interfere
+  if(e.button && e.button !== 0) return;
+  // Hold cmd/ctrl/shift → still open, but in same tab via default behaviour
+  if(link) window.open(link, '_blank', 'noopener,noreferrer');
 }
 
 function pickSeverity(sev){
