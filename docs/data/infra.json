@@ -1,43 +1,43 @@
 {
- "generated": "2026-05-27T19:14:04.097206+00:00",
+ "generated": "2026-05-27T19:20:44.431869+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.42,
-   "change": -7.16,
-   "change_pct": -7.19,
+   "price": 92.5,
+   "change": -7.08,
+   "change_pct": -7.11,
    "spark": [
     102.58000183105469,
     103.54000091552734,
     99.58000183105469,
-    92.41999816894531
+    92.5
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.89,
-   "change": -5.0,
-   "change_pct": -5.33,
+   "price": 88.97,
+   "change": -4.92,
+   "change_pct": -5.24,
    "spark": [
     96.3499984741211,
     96.5999984741211,
     93.88999938964844,
-    88.88999938964844
+    88.97000122070312
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4484.4,
-   "change": -16.0,
-   "change_pct": -0.36,
+   "price": 4483.4,
+   "change": -17.0,
+   "change_pct": -0.38,
    "spark": [
     4539.7998046875,
     4521.0,
     4500.39990234375,
-    4484.39990234375
+    4483.39990234375
    ]
   },
   "DX-Y.NYB": {
@@ -50,62 +50,62 @@
     99.19000244140625,
     99.31999969482422,
     99.1500015258789,
-    99.2040023803711
+    99.19599914550781
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7526.23,
-   "change": 7.11,
+   "price": 7525.93,
+   "change": 6.81,
    "change_pct": 0.09,
    "spark": [
     7432.97021484375,
     7445.72021484375,
     7473.47021484375,
     7519.1201171875,
-    7526.22998046875
+    7525.93017578125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 130.64,
-   "change": -6.36,
-   "change_pct": -4.64,
+   "price": 130.69,
+   "change": -6.31,
+   "change_pct": -4.61,
    "spark": [
     144.27000427246094,
     142.5399932861328,
     140.9199981689453,
     137.0,
-    130.639404296875
+    130.69000244140625
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.49,
-   "change": -0.52,
-   "change_pct": -3.06,
+   "price": 16.53,
+   "change": -0.48,
+   "change_pct": -2.82,
    "spark": [
     16.760000228881836,
     16.700000762939453,
     16.59000015258789,
     17.010000228881836,
-    16.489999771118164
+    16.530000686645508
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.1,
+   "price": 3.09,
    "change": 0.2,
-   "change_pct": 7.01,
+   "change_pct": 6.91,
    "spark": [
     3.0179998874664307,
     2.9070000648498535,
     2.8940000534057617,
-    3.0969998836517334
+    3.0940001010894775
    ]
   }
  },
@@ -251,6 +251,13 @@
    "severity": "info"
   },
   {
+   "title": "US denies Iranian MoU claim that deal would reopen Hormuz, end blockade",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-897505",
+   "source": "Jerusalem Post ME",
+   "published": "2026-05-27T16:27:32+00:00",
+   "severity": "medium"
+  },
+  {
    "title": "Iran Signals No Hormuz Blockade Under Draft Deal, Says US Forces Could Withdraw From Region",
    "link": "https://www.reddit.com/r/geopolitics/comments/1tpajk7/iran_signals_no_hormuz_blockade_under_draft_deal/",
    "source": "r/geopolitics",
@@ -265,6 +272,13 @@
    "severity": "info"
   },
   {
+   "title": "Iranian missile likely involved in attack on ship in Strait of Hormuz, South Korea says",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-897496",
+   "source": "Jerusalem Post ME",
+   "published": "2026-05-27T15:26:41+00:00",
+   "severity": "high"
+  },
+  {
    "title": "U.S. oil falls below $90 on report Iran agreement would restore Hormuz traffic in one month",
    "link": "https://www.reddit.com/r/worldnews/comments/1tp848g/us_oil_falls_below_90_on_report_iran_agreement/",
    "source": "r/worldnews",
@@ -272,10 +286,24 @@
    "severity": "info"
   },
   {
+   "title": "Bolton: Trump ‘palpably desperate’ to reach deal with Iran",
+   "link": "https://en.irna.ir/photo/86166568/Bolton-Trump-palpably-desperate-to-reach-deal-with-Iran",
+   "source": "IRNA",
+   "published": "2026-05-27T14:21:54+00:00",
+   "severity": "info"
+  },
+  {
    "title": "The KC-46 has finally landed in Israel. The US needs to keep pushing forward.",
    "link": "https://breakingdefense.com/2026/05/the-kc-46-has-finally-landed-in-israel-the-us-needs-to-keep-pushing-forward/",
    "source": "Breaking Defense",
    "published": "2026-05-27T14:01:00+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Velayati: Strait of Hormuz ‘real guarantor’ of any nuclear deal",
+   "link": "https://en.irna.ir/news/86166532/Velayati-Strait-of-Hormuz-real-guarantor-of-any-nuclear-deal",
+   "source": "IRNA",
+   "published": "2026-05-27T13:00:28+00:00",
    "severity": "info"
   },
   {
@@ -291,34 +319,6 @@
    "source": "r/geopolitics",
    "published": "2026-05-27T10:18:07+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Strait of Hormuz will open ‘one way or the other’ after Camp David meeting",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1tohkxd/strait_of_hormuz_will_open_one_way_or_the_other/",
-   "source": "r/geopolitics",
-   "published": "2026-05-26T19:32:54+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "US Centcom admits they still CANNOT escort ships through Strait of Hormuz",
-   "link": "https://www.reddit.com/r/iran/comments/1todvt2/us_centcom_admits_they_still_cannot_escort_ships/",
-   "source": "r/Iran",
-   "published": "2026-05-26T17:28:31+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: May 26, 2026",
-   "link": "https://news.usni.org/2026/05/26/usni-news-fleet-and-marine-tracker-may-26-2026",
-   "source": "USNI News",
-   "published": "2026-05-26T17:21:50+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "What is happening in Iran right now?",
-   "link": "https://www.reddit.com/r/iran/comments/1to321j/what_is_happening_in_iran_right_now/",
-   "source": "r/Iran",
-   "published": "2026-05-26T10:36:40+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,7 +326,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 12,
    "recent": [
     {
      "title": "May 23: Progress in talks to end imposed war as IRGC continues to oversee Strait of Hormuz transits",
@@ -371,6 +371,408 @@
    "status": "QUIET",
    "incident_count": 0,
    "recent": []
+  }
+ ],
+ "wh_statements": [
+  {
+   "id": "2371ac219873",
+   "title": "Trump threatens Oman in latest play to open the Strait of Hormuz",
+   "link": "https://www.politico.com/news/2026/05/27/trump-oman-hormuz-strait-iran-00938713",
+   "summary": "“Oman will behave just like everybody else or we’ll have to blow them up,” he told reporters at the White House.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-27T18:57:42+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "976f60a5467d",
+   "title": "Powering America’s Future: President Trump’s Policies Fuel Demand for Skilled American Workers",
+   "link": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
+   "summary": "As President Donald J. Trump’s America First agenda fuels a blue-collar resurgence, American workers are back in demand — and a new generation is answering the call. The Shift Is Already Underway A seismic shift from years past towards the trades is a clear sign that President Trump’s relentless push to restore the dignity of [&#8230;] The post Powering America’s Future: President Trump’s Policies Fuel Demand for Skilled American Workers appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-27T18:01:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b2245d5d9649",
+   "title": "Pam Bondi recovering from thyroid cancer treatment",
+   "link": "https://www.politico.com/news/2026/05/27/pam-bondi-thyroid-cancer-diagnosis-00938342",
+   "summary": "The former attorney general said she had surgery a few weeks ago but is “doing well.”",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T16:25:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "27af39496867",
+   "title": "‘Pretty damn bullish’: Democrats have high hopes for Paxton-Talarico showdown",
+   "link": "https://www.politico.com/news/2026/05/26/democrats-texas-senate-talarico-hopes-00937594",
+   "summary": "James Talarico’s fundraising prowess and strong polling bodes well against a flawed GOP candidate in Ken Paxton, Democrats say.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T03:58:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8f23d1dffd0d",
+   "title": "The Texas GOP finally turned on Cornyn",
+   "link": "https://www.politico.com/news/2026/05/26/cornyn-senate-career-ends-trump-paxton-00937548",
+   "summary": "The senator was a towering figure in Texas and national politics. His loss signals the end of an era for the Republican establishment.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T03:18:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4c27354b4d3f",
+   "title": "Former Rep. Colin Allred knocks off Rep. Julie Johnson in Texas House runoff",
+   "link": "https://www.politico.com/news/2026/05/26/allred-wins-texas-house-runoff-00937465",
+   "summary": "Allred will likely return to Washington after earning the Democratic nomination in the newly drawn deep-blue 33rd District.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T03:05:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb58649c4b88",
+   "title": "Sex therapist accused of antisemitism loses Democratic runoff for Texas House seat",
+   "link": "https://www.politico.com/news/2026/05/26/garcia-wins-texas-house-runoff-00937479",
+   "summary": "Johnny Garcia, a county sheriff's deputy backed by national Democrats, defeated Maureen Galindo, the controversial candidate, in the competitive 35th District.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T02:41:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "30c0a6894da6",
+   "title": "Rep. Chip Roy loses runoff for Texas attorney general to a MAGA challenger",
+   "link": "https://www.politico.com/news/2026/05/26/chip-roy-loses-texas-attorney-general-runoff-00937472",
+   "summary": "State Sen. Mayes Middleton won after casting Roy as insufficiently loyal to the president.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T01:58:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2821473a18fe",
+   "title": "Paxton wins Texas Senate runoff, defeating longtime incumbent Cornyn",
+   "link": "https://www.politico.com/news/2026/05/26/paxton-wins-texas-senate-runoff-00937454",
+   "summary": "The attorney general was boosted by President Donald Trump’s endorsement in the final days of the race.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T01:00:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2aad53da4072",
+   "title": "Rep. Christian Menefee defeats fellow Rep. Al Green in Texas House runoff",
+   "link": "https://www.politico.com/news/2026/05/26/menefee-wins-texas-house-runoff-00937460",
+   "summary": "The 38-year-old Democrat’s victory in the newly drawn Houston-based district is the party’s latest sign of generational change.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-27T00:34:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9d6a970911c7",
+   "title": "Mamdani promises housing ‘transformation’",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/26/mamdani-promises-housing-transformation-00936116",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-26T21:01:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "39f9daff94ed",
+   "title": "Clyburn’s seat survives for now as South Carolina Republicans buck Trump on redistricting",
+   "link": "https://www.politico.com/news/2026/05/26/south-carolina-redistricting-fails-clyburn-trump-00936000",
+   "summary": "President Donald Trump had ramped up pressure on the Palmetto State, but he fell short in his goal of ousting the state’s lone Democrat.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-26T18:02:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "94a407a26812",
+   "title": "Trump Administration’s Full-Scale War on Fraud",
+   "link": "https://www.whitehouse.gov/releases/2026/05/trump-administrations-full-scale-war-on-fraud/",
+   "summary": "President Donald J. Trump and Vice President JD Vance are unleashing an unrelenting, full-scale assault on the fraudsters, scammers, and corrupt operators who have looted billions from American taxpayers. The White House Task Force to Eliminate Fraud is moving at unprecedented speed and ferocity to root out the waste, abuse, and criminal exploitation of government [&#8230;] The post Trump Administration’s Full-Scale War on Fraud appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-26T13:56:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3cafd32b0933",
+   "title": "Shapiro weighs in on Trump, Harris and 2028 over South Philly pizza",
+   "link": "https://www.politico.com/video/2026/05/26/shapiro-weighs-in-on-trump-harris-and-2028-over-south-philly-pizza-2074129",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-26T08:45:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d354820f5672",
+   "title": "Presidential Message on National Missing Children’s Day",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-missing-childrens-day/",
+   "summary": "On this National Missing Children’s Day, we remember every child who has gone missing and not yet come home—each one a cherished soul&#160;and&#160;a profound loss felt&#160;by families&#160;across our Nation. &#160;Today, we renew our&#160;solemn&#160;obligation to fight for their safe return with every resource&#160;our&#160;great country has to offer. Under the&#160;previous&#160;administration,&#160;4&#160;years of radical open-border policies&#160;resulted in&#160;hundreds of thousands&#160;migrant&#160;children [&#8230;] The post Presidential Message on National Missing Children’s Day ap",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-26T00:14:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c51a0c688c2",
+   "title": "Vance to host state AGs at White House for fraud task force meeting",
+   "link": "https://www.politico.com/news/2026/05/25/vance-state-attorneys-general-fraud-task-force-00935539",
+   "summary": "The meeting, planned for Tuesday, is the latest development in the vice president’s fraud-fighting initiative.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-25T22:12:21+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2b15995130a8",
+   "title": "Canadians are folding on Vegas. Democrats see a royal flush.",
+   "link": "https://www.politico.com/news/2026/05/25/canadians-vegas-democrats-tariffs-nevada-00935098",
+   "summary": "Rep. Susie Lee (D-Nev.) and other Democrats are focusing on the dropoff of Canadian tourists heading into the midterms.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-25T11:55:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "71d906c84688",
+   "title": "Presidential Message on Pentecost",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-pentecost/",
+   "summary": "Melania and&#160;I join&#160;many&#160;Christians&#160;throughout our Nation&#160;and around the world&#160;who&#160;are&#160;joyfullycelebrating&#160;the miracle of Pentecost&#160;today&#160;and the birth of Christ’s Church. Fifty&#160;days after&#160;the&#160;glorious&#160;Resurrection&#160;of our Lord and Savior Jesus Christ&#160;on Easter Sunday,&#160;the&#160;Bible tells&#160;us&#160;that the&#160;Holy Spirit descended upon the&#160;Apostles&#160;in&#160;Jerusalem&#160;in&#160;tongues of fire,&#160;triumphantly fulfilling Christ’s promise and&#160;giving&#160;them the courage and divine a",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-24T20:26:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c1ec1e7ff315",
+   "title": "The DC mayor race’s ‘delicate dance’",
+   "link": "https://www.politico.com/news/2026/05/23/dc-mayor-election-trump-00935105",
+   "summary": "The shift in management is certain to spark a flurry of new fates for the capital, spanning public parks, national monuments and the Metropolitan Police Department.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-23T15:45:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e06d02aa1bd5",
+   "title": "Memorial Day, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The greatest fighting force the world has ever known is&#160;built upon the&#160;extraordinary service&#160;of selfless men and women who&#160;safeguard our liberty and preserve our way of life. &#160;Since the birth of our Nation nearly 250 years ago, countless souls have lost their lives in this [&#8230;] The post Memorial Day, 2026 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-23T03:11:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e06d02aa1bd5",
+   "title": "Memorial Day, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The greatest fighting force the world has ever known is&#160;built upon the&#160;extraordinary service&#160;of selfless men and women who&#160;safeguard our liberty and preserve our way of life. &#160;Since the birth of our Nation nearly 250 years ago, countless souls have lost their lives in this [&#8230;] The post Memorial Day, 2026 appeared first on The White House .",
+   "source": "WH Presidential Actions",
+   "category": "wh_actions",
+   "published": "2026-05-23T03:11:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "710d9224322d",
+   "title": "Japanese megacorp SoftBank donates $50M to Trump’s presidential library",
+   "link": "https://www.politico.com/news/2026/05/22/softbank-trump-library-donation-00934285",
+   "summary": "It is one of the largest publicly disclosed gifts to Trump’s presidential library.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-22T22:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "feb83cd81feb",
+   "title": "Trump had ‘many’ concerns about AI draft policy order",
+   "link": "https://www.politico.com/news/2026/05/22/trump-concerns-ai-policy-00934622",
+   "summary": "The artificial intelligence order pulled Thursday could still be rewritten.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-22T21:39:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10e311103c71",
+   "title": "Remarks by Director Michael Kratsios on the One Year Anniversary of President Trump’s Nuclear EOs",
+   "link": "https://www.whitehouse.gov/releases/2026/05/remarks-by-director-michael-kratsios-on-the-one-year-anniversary-of-president-trumps-nuclear-eos/",
+   "summary": "Director Michael KratsiosThe White House Office of Science and Technology Policy Remarks as Prepared for DeliveryOperation Gigawatt SummitDeer Valley, Utah Thank you. It is so good to be with you here in beautiful Utah. I want to thank Governor Cox for bringing us together today. Federalism is foundational to America’s greatness, and states like Utah [&#8230;] The post Remarks by Director Michael Kratsios on the One Year Anniversary of President Trump&#8217;s Nuclear EOs appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-22T21:15:36+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9b4630930567",
+   "title": "The Zelig-like DNC autopsy author",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/22/the-zelig-like-dnc-autopsy-author-00934377",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-22T20:34:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d0017475b44",
+   "title": "Presidential Message on National Maritime Day",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-maritime-day/",
+   "summary": "For over two and a half centuries, the dedicated members of the United States Merchant Marine have powered our economy, secured our commerce, and defended American interests at home and abroad. Today, we honor the brave Mariners who have borne our Nation’s strength across the seas, and we recommit to restoring and expanding America’s maritime dominance. The Merchant Marine has&#160;played an indispensable&#160;role in defending and advancing American interests since the [&#8230;] The post Presidential Message on National Maritime Day appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-22T18:48:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5c953d36c36f",
+   "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Sweden Regarding the Technology Prosperity Deal",
+   "link": "https://www.whitehouse.gov/releases/2026/05/technology-prosperity-deal-between-the-united-states-and-sweden/",
+   "summary": "The Government of the United States of America and the Government of Sweden (hereinafter referred to as the “Participants”), Expressing&#160;mutual interest in science and technology capabilities and standards to usher in a new age of innovation to fortify freedom and prosperity for generations to come, Affirming&#160;the value of bilateral science and technology collaboration to enrich [&#8230;] The post Memorandum of Understanding Between The Government of the United States of America and the Government of Sweden Regarding the Technology Prosperity Deal appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-22T17:09:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c665fc97a4d9",
+   "title": "Greenlanders ‘love and embrace the United States,’ Jeff Landry says after visit",
+   "link": "https://www.politico.com/news/2026/05/22/jeff-landry-greenland-visit-00933677",
+   "summary": "The war in Iran is proof of the vital role Greenland could play in aiding the West, Landry said Friday, due to its ample oil deposits.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-22T14:02:15+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "82eed29b51ae",
+   "title": "The nation’s cartoonists on the week in politics",
+   "link": "https://www.politico.com/gallery/2026/05/22/the-nations-cartoonists-on-the-week-in-politics-00933393",
+   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-22T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4a7daa64dee4",
+   "title": "Ukraine’s ambassador on Trump, Putin and the path to peace",
+   "link": "https://www.politico.com/video/2026/05/21/ukraines-ambassador-on-trump-putin-and-the-path-to-peace-2069123",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-22T03:59:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "068113ac2e4d",
+   "title": "Albany reels in ICE",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/21/albany-reels-in-ice-budget-sanctuary-new-york-mask-00932899",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-21T21:59:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "70961b9c0e19",
+   "title": "The $5.02 ghost: Trump’s team faces a symbolic blow to one of its favorite economic talking points",
+   "link": "https://www.politico.com/news/2026/05/21/the-5-02-ghost-trumps-team-braces-for-a-symbolic-blow-to-one-of-their-favorite-economic-talking-points-00932878",
+   "summary": "Trump officials are \"absolutely, totally freaked\" about the political symbolism of breaking Biden's high gas price record.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-21T21:17:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b343d643531",
+   "title": "Trump administration temporarily pauses deportation flights to Congo amid Ebola outbreak",
+   "link": "https://www.politico.com/news/2026/05/21/trump-administration-temporarily-pauses-deportation-flights-to-congo-amid-ebola-outbreak-00932722",
+   "summary": "The flights were stopped amid concerns that they could expose ICE officials and possibly help bring the disease closer to the U.S.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-21T21:06:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f36a161d1e8c",
+   "title": "The latest Paxton-Cornyn ad dustup is an ominous sign for the Texas GOP",
+   "link": "https://www.politico.com/news/2026/05/21/paxton-cornyn-texas-senate-ads-00932673",
+   "summary": "The fighting has gotten so ugly that some Republicans are fearful it will dampen turnout in the midterms.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-21T20:49:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ac438e5333f5",
+   "title": "Fact Sheet: President Donald J. Trump Reverses Biden-Era Refrigerant Rules",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-reverses-biden-era-refrigerant-rules/",
+   "summary": "DELIVERING A WIN FOR AMERICAN FAMILIES AND LOWERING THE COST OF LIVING:&#160;Today, President Donald J. Trump terminated the Biden Administration’s ridiculous regulations that imposed burdensome and costly requirements on refrigerators and air conditioners. These regulations needlessly and substantially increased the price of transporting and storing refrigerated goods, driving up the price of food and other [&#8230;] The post Fact Sheet: President Donald J. Trump Reverses Biden-Era Refrigerant Rules appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-21T15:54:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "21798eca3248",
+   "title": "'The report's so stupid': The DNC 2024 autopsy is roiling Democrats",
+   "link": "https://www.politico.com/news/2026/05/21/democratic-party-2024-autopsy-00931754",
+   "summary": "Democratic National Committee Chair Ken Martin is already working to weather the storm.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-21T15:03:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f1318a347509",
+   "title": "Colorado Democratic Party censures Jared Polis over Tina Peters clemency",
+   "link": "https://www.politico.com/news/2026/05/21/colorado-democratic-party-censure-jared-polis-00931682",
+   "summary": "Her case has become a rallying cry for Republicans who continue to falsely insist that the 2020 presidential election was stolen.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-21T14:12:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ba8b99bd46f0",
+   "title": "What Ebola and hantavirus are revealing about America’s public health system",
+   "link": "https://www.politico.com/news/2026/05/21/ebola-hantavirus-maga-public-health-00930368",
+   "summary": "Public health experts say neither virus poses an immediate threat to most Americans. But the trust deficit the viruses are exposing could be catastrophic when crisis arrives.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-21T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c6520649776d",
+   "title": "America 250: Presidential Message on Amelia Earhart’s Flight Across the Atlantic",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-amelia-earharts-flight-across-the-atlantic/",
+   "summary": "Today, our Nation proudly celebrates the 94th anniversary of Amelia Earhart’s first solo flight across the Atlantic Ocean—an extraordinary achievement and testament to the bravery, ingenuity, and unyielding spirit that define the American character. There are few Americans who embody the bold ambition of our Nation more than Amelia Earhart. &#160;Throughout her life, she pushed [&#8230;] The post America 250: Presidential Message on Amelia Earhart’s Flight Across the Atlantic appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-05-20T23:28:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7ec8173a03d9",
+   "title": "Jeff Bezos’ mixed bag for Mamdani",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/20/jeff-bezos-mixed-bag-for-mamdani-00930678",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-20T21:00:12+00:00",
+   "iran_topic": false
   }
  ]
 }

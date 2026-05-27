@@ -10,10 +10,13 @@ Writes docs/data/infra.json
 """
 import json
 import re
+import hashlib
 import socket
 import warnings
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+
+import feedparser
 
 socket.setdefaulttimeout(15)
 warnings.filterwarnings("ignore")
@@ -236,6 +239,90 @@ def assess_chokepoints(incidents: list[dict]) -> list[dict]:
     return results
 
 
+# ── White House + Trump statement tracker ───────────────────────────────────
+USER_AGENT = "iran-watch/0.3 (https://github.com/helioskozak-cloud/iran-watch)"
+
+WH_FEEDS = [
+    # Official whitehouse.gov RSS — the working endpoints under the new admin
+    ("WH News",            "wh_news",         "https://www.whitehouse.gov/news/feed/"),
+    ("WH Presidential Actions", "wh_actions", "https://www.whitehouse.gov/presidential-actions/feed/"),
+    # Indirect Trump-statement coverage from major political wires
+    ("Politico WH",        "politico_wh",     "https://rss.politico.com/whitehouse.xml"),
+    ("Politico Politics",  "politico_pol",    "https://rss.politico.com/politics-news.xml"),
+    ("AP Politics",        "ap_pol",          "https://feeds.apnews.com/apnews/politics"),
+    ("Reuters Politics",   "reuters_pol",     "https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best"),
+    # Bluesky: Trump-quote-heavy WH reporters; resolved at fetch time
+    # (these still go through fetch_situation.py — keep this list focused on RSS)
+]
+
+
+def _hash(s: str) -> str:
+    return hashlib.md5(s.encode("utf-8")).hexdigest()[:12]
+
+
+def _clean_html(s: str) -> str:
+    s = re.sub(r"<[^>]+>", " ", s or "")
+    s = re.sub(r"&\w+;", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+# Iran/Israel/MidEast keyword set for relevance flagging on WH/Trump posts
+WH_RELEVANCE = re.compile(
+    r"\b(iran|iranian|tehran|irgc|israel|israeli|idf|gaza|hamas|hezbollah|"
+    r"houthi|yemen|red sea|lebanon|hormuz|nuclear|enrichment|sanction|tariff|"
+    r"oil|opec|middle east|levant|persian|netanyahu|khamenei|pezeshkian|"
+    r"strike|missile|drone|ceasefire|hostage|terrorism|terrorist)\b", re.I
+)
+
+
+def fetch_wh_statements() -> list[dict]:
+    items = []
+    for name, category, url in WH_FEEDS:
+        try:
+            parsed = feedparser.parse(url, agent=USER_AGENT)
+        except Exception as e:
+            print(f"  {name}: fetch failed — {e}", flush=True)
+            continue
+        if parsed.bozo and not parsed.entries:
+            print(f"  {name}: parse error / no entries", flush=True)
+            continue
+        kept = 0
+        for entry in parsed.entries[:30]:
+            title = _clean_html(entry.get("title", ""))
+            link = entry.get("link", "")
+            if not title or not link:
+                continue
+            summary = _clean_html(entry.get("summary", ""))[:600]
+            pub = None
+            for key in ("published_parsed", "updated_parsed"):
+                t = entry.get(key)
+                if t:
+                    try:
+                        pub = datetime(*t[:6], tzinfo=timezone.utc).isoformat()
+                        break
+                    except Exception:
+                        pass
+            pub = pub or datetime.now(timezone.utc).isoformat()
+            combined = f"{title} {summary}"
+            is_relevant = bool(WH_RELEVANCE.search(combined))
+            items.append({
+                "id":         _hash(link),
+                "title":      title,
+                "link":       link,
+                "summary":    summary if summary != title else "",
+                "source":     name,
+                "category":   category,
+                "published":  pub,
+                "iran_topic": is_relevant,
+            })
+            kept += 1
+        print(f"  {name}: {kept} statements", flush=True)
+    # Sort by publish time desc, cap at 40
+    items.sort(key=lambda x: x.get("published", ""), reverse=True)
+    return items[:40]
+
+
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
     print("iran-watch infrastructure fetcher", flush=True)
@@ -251,12 +338,18 @@ def main():
     for c in chokepoints:
         print(f"  {c['name']}: {c['status']} ({c['incident_count']} hits)", flush=True)
 
+    print("\n[WH / TRUMP]", flush=True)
+    wh_statements = fetch_wh_statements()
+    iran_relevant_count = sum(1 for s in wh_statements if s.get("iran_topic"))
+    print(f"  Loaded {len(wh_statements)} statements ({iran_relevant_count} region-relevant)", flush=True)
+
     payload = {
-        "generated":   datetime.now(timezone.utc).isoformat(),
-        "prices":      prices,
-        "treaties":    TREATIES,
-        "incidents":   incidents,
-        "chokepoints": chokepoints,
+        "generated":     datetime.now(timezone.utc).isoformat(),
+        "prices":        prices,
+        "treaties":      TREATIES,
+        "incidents":     incidents,
+        "chokepoints":   chokepoints,
+        "wh_statements": wh_statements,
     }
     OUT.write_text(json.dumps(payload, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"\nWrote {OUT.relative_to(ROOT)}", flush=True)

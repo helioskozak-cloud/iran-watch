@@ -116,12 +116,35 @@
   .topbar .t:hover{border-color:var(--green);color:var(--green)}
   .topbar .t.active{background:var(--green);color:#000;border-color:var(--green);font-weight:700}
 
-  /* ── Layout: feed + side panels ───────────────────────────── */
-  .layout{display:grid;grid-template-columns:1fr 320px;gap:0;align-items:flex-start}
+  /* ── Layout: feed + Trump column + side panels ────────────── */
+  .layout{display:grid;grid-template-columns:1fr 290px 300px;gap:0;align-items:flex-start}
   .feed-col{min-width:0;border-right:1px solid var(--border)}
+  .trump-col{background:#0a0606;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;border-right:1px solid var(--border);max-height:calc(100vh - 0px);position:sticky;top:0;overflow-y:auto}
   .side-col{background:#040404;padding:10px;font-family:'JetBrains Mono',monospace;font-size:10px;position:sticky;top:0;max-height:calc(100vh - 0px);overflow-y:auto}
-  .side-col h3{color:var(--green);font-size:10px;letter-spacing:.18em;text-transform:uppercase;margin:14px 0 6px;font-weight:800;font-family:'JetBrains Mono',monospace}
-  .side-col h3:first-child{margin-top:0}
+  .side-col h3,.trump-col h3{color:var(--green);font-size:10px;letter-spacing:.18em;text-transform:uppercase;margin:14px 0 6px;font-weight:800;font-family:'JetBrains Mono',monospace}
+  .side-col h3:first-child,.trump-col h3:first-child{margin-top:0}
+  .trump-col h3{color:var(--amber)}
+
+  /* Trump-tracker statement cards */
+  .stmt{background:#0d0707;border:1px solid #2a1414;border-left:3px solid var(--amber);padding:8px 9px;margin-bottom:5px;font-size:10px;cursor:pointer;transition:background .12s}
+  .stmt:hover{background:#1a0d0d;border-color:var(--amber)}
+  .stmt.relevant{border-left-color:var(--crit);background:#170808}
+  .stmt.relevant:hover{background:#220a0a}
+  .stmt .hdr{display:flex;justify-content:space-between;align-items:baseline;gap:5px;margin-bottom:4px}
+  .stmt .when{color:var(--muted);font-size:9px;letter-spacing:.05em;white-space:nowrap;font-weight:500}
+  .stmt .src{color:var(--amber);font-size:9px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;white-space:nowrap}
+  .stmt.relevant .src{color:var(--crit)}
+  .stmt .ttl{color:var(--text);font-size:11px;font-weight:500;line-height:1.4;overflow-wrap:break-word}
+  .stmt.relevant .ttl{color:var(--bright);font-weight:600}
+  .stmt .body{display:none;color:var(--muted);font-size:10px;line-height:1.5;margin-top:6px;padding-top:6px;border-top:1px dashed #2a1414}
+  .stmt.expand .body{display:block}
+  .stmt .body a{color:var(--amber);font-size:10px}
+  .stmt .relflag{display:inline-block;background:var(--crit);color:#fff;font-size:8px;font-weight:700;padding:0 4px;letter-spacing:.1em;margin-right:5px;vertical-align:middle}
+
+  .trump-col .filter-row{display:flex;gap:5px;margin-bottom:8px;font-size:10px}
+  .trump-col .filter-row button{flex:1;background:#000;border:1px solid var(--border-bright);color:var(--muted);padding:4px 6px;font-family:inherit;font-size:9px;letter-spacing:.08em;cursor:pointer;text-transform:uppercase}
+  .trump-col .filter-row button.on{background:var(--amber);color:#000;border-color:var(--amber);font-weight:700}
+  .trump-col .filter-row button.relevant.on{background:var(--crit);border-color:var(--crit);color:#fff}
 
   /* Treaty card */
   .treaty{background:#0a0a0a;border:1px solid var(--border);border-left-width:3px;padding:7px 9px;margin-bottom:5px;font-size:10px}
@@ -214,9 +237,13 @@
   .lightbox.open{display:flex}
   .lightbox img{max-width:100%;max-height:100%;object-fit:contain}
 
+  @media (max-width:1280px){
+    .layout{grid-template-columns:1fr 280px}
+    .trump-col{grid-row:2;grid-column:1 / -1;position:relative;max-height:none;border-top:1px solid var(--border);border-right:0}
+  }
   @media (max-width:900px){
     .layout{grid-template-columns:1fr}
-    .side-col{position:relative;max-height:none;border-top:1px solid var(--border)}
+    .side-col,.trump-col{position:relative;max-height:none;border-top:1px solid var(--border);border-right:0}
     .row{grid-template-columns:60px 14px 1fr;gap:8px}
     .status-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
     .banner{font-size:10px;padding:6px 10px;gap:10px}
@@ -277,6 +304,14 @@
 
 <div class="layout">
   <div class="feed-col"><div id="content"></div></div>
+  <aside class="trump-col">
+    <h3>▸ POTUS / WH Tracker</h3>
+    <div class="filter-row">
+      <button id="wh-all" class="on" onclick="toggleWhFilter('all')">All</button>
+      <button id="wh-relevant" class="relevant" onclick="toggleWhFilter('relevant')">Iran/ME Only</button>
+    </div>
+    <div id="wh-statements"><div style="color:var(--muted)">Loading…</div></div>
+  </aside>
   <aside class="side-col">
     <h3>▸ Treaty Tracker</h3>
     <div id="treaties"><div style="color:var(--muted)">Loading…</div></div>
@@ -457,6 +492,44 @@ function renderChokeSidebar(){
   </div>`).join('');
 }
 
+function renderWhStatements(){
+  const stmts = (STATE.infra && STATE.infra.wh_statements) || [];
+  const filt = STATE.whFilter || 'all';
+  const list = filt === 'relevant' ? stmts.filter(s => s.iran_topic) : stmts;
+  const el = document.getElementById('wh-statements');
+  if(!list.length){
+    el.innerHTML='<div style="color:var(--muted);font-size:10px">'+ (filt==='relevant' ? 'No region-relevant statements in the recent batch.' : 'No statements loaded yet.') +'</div>';
+    return;
+  }
+  el.innerHTML = list.slice(0,40).map(s => {
+    const d = new Date(s.published);
+    let when;
+    const diff = (new Date() - d) / 60000;
+    if(isNaN(diff)) when = '';
+    else if(diff < 60) when = Math.max(1,Math.floor(diff))+'m ago';
+    else if(diff < 60*24) when = Math.floor(diff/60)+'h ago';
+    else when = d.toLocaleDateString('en-US',{month:'short',day:'numeric'}).toUpperCase();
+    const src = (s.source||'').toUpperCase().replace('WH ','WH·').replace('POLITICO ','POL·').replace('AP POL','AP').replace('REUTERS POL','REUTERS');
+    const cls = s.iran_topic ? 'stmt relevant' : 'stmt';
+    const flag = s.iran_topic ? '<span class="relflag">ME</span>' : '';
+    return `<div class="${cls}" onclick="this.classList.toggle('expand')">
+      <div class="hdr">
+        <span class="src">${escapeHtml(src)}</span>
+        <span class="when">${when}</span>
+      </div>
+      <div class="ttl">${flag}${escapeHtml(s.title)}</div>
+      ${s.summary?`<div class="body">${escapeHtml(s.summary)}<br><a href="${escapeHtml(s.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">read full →</a></div>`:''}
+    </div>`;
+  }).join('');
+}
+
+function toggleWhFilter(mode){
+  STATE.whFilter = mode;
+  document.getElementById('wh-all').classList.toggle('on', mode==='all');
+  document.getElementById('wh-relevant').classList.toggle('on', mode==='relevant');
+  renderWhStatements();
+}
+
 function renderIncidents(){
   const inc = (STATE.infra && STATE.infra.incidents) || [];
   if(!inc.length){document.getElementById('incidents').innerHTML='<div style="color:var(--muted)">No incidents in last 7 days</div>';return;}
@@ -604,6 +677,7 @@ function reload(){
       renderTreaties();
       renderChokeSidebar();
       renderIncidents();
+      renderWhStatements();
     }
   });
 }
