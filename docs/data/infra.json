@@ -1,56 +1,56 @@
 {
- "generated": "2026-05-29T11:54:42.634273+00:00",
+ "generated": "2026-05-29T12:01:18.805009+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.22,
-   "change": -2.49,
-   "change_pct": -2.66,
+   "price": 91.3,
+   "change": -2.41,
+   "change_pct": -2.57,
    "spark": [
     99.58000183105469,
     94.29000091552734,
     93.70999908447266,
-    91.22000122070312
+    91.30000305175781
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 87.59,
-   "change": -1.31,
-   "change_pct": -1.47,
+   "price": 87.73,
+   "change": -1.17,
+   "change_pct": -1.32,
    "spark": [
     93.88999938964844,
     88.68000030517578,
     88.9000015258789,
-    87.58999633789062
+    87.7300033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4561.9,
-   "change": 62.6,
-   "change_pct": 1.39,
+   "price": 4562.5,
+   "change": 63.2,
+   "change_pct": 1.4,
    "spark": [
     4500.39990234375,
     4447.5,
     4499.2998046875,
-    4561.89990234375
+    4562.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.05,
-   "change": 0.03,
-   "change_pct": 0.03,
+   "price": 99.06,
+   "change": 0.04,
+   "change_pct": 0.04,
    "spark": [
     99.16999816894531,
     99.20999908447266,
     99.0199966430664,
-    99.0469970703125
+    99.05500030517578
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.83,
-   "change": 0.09,
-   "change_pct": 0.57,
+   "price": 15.79,
+   "change": 0.05,
+   "change_pct": 0.32,
    "spark": [
     16.59000015258789,
     17.010000228881836,
     16.290000915527344,
     15.739999771118164,
-    15.829999923706055
+    15.789999961853027
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.32,
-   "change": 0.04,
-   "change_pct": 1.16,
+   "price": 3.34,
+   "change": 0.05,
+   "change_pct": 1.64,
    "spark": [
     2.8940000534057617,
     3.0399999618530273,
     3.2850000858306885,
-    3.322999954223633
+    3.3389999866485596
    ]
   }
  },
@@ -219,22 +219,29 @@
    "title": "May 28: Leader warns of enemy plots to sow discord as IRGC responds to fresh US aggression",
    "link": "https://presstv.ir/Detail/2026/05/28/769441/may-28-leader-warns-enemy-plots-sow-discord-irgc-responds-fresh-us-aggression",
    "source": "Press TV",
-   "published": "2026-05-29T11:53:52.458646+00:00",
+   "published": "2026-05-29T12:00:04.904785+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran forces trespassing US tanker back after illegal attempt at crossing Strait of Hormuz: Report",
    "link": "https://presstv.ir/Detail/2026/05/28/769397/Iran-forces-American-tanker-Strait-of-Hormuz-IRGC",
    "source": "Press TV",
-   "published": "2026-05-29T11:53:52.455672+00:00",
+   "published": "2026-05-29T12:00:04.901921+00:00",
    "severity": "info"
   },
   {
    "title": "Iran strongly condemns US threat of sanctions against Oman",
    "link": "https://presstv.ir/Detail/2026/05/28/769440/Iran-United-States-threat-sanctions-Oman-Strait-of-Hormuz",
    "source": "Press TV",
-   "published": "2026-05-29T11:53:52.453270+00:00",
+   "published": "2026-05-29T12:00:04.899447+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Thousands of crew members have been stranded in the Strait of Hormuz since the start of the war in Iran. On “The Daily,” two seafarers who got stuck in the strait explain what it is like to be trapped in a war zone, and what it would mean to get everyone out.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mmyi5racqn2b",
+   "source": "@nytimes",
+   "published": "2026-05-29T11:56:03.223335+00:00",
+   "severity": "info"
   },
   {
    "title": "When the Iran war choked the Strait of Hormuz, New Zealand was particularly vulnerable because it imports all of its refined fuel. In the country's remote village of Ruatahuna, the consequences have been severe.",
@@ -312,13 +319,6 @@
    "source": "Times of Israel",
    "published": "2026-05-28T20:09:52+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US to shut down Iranian airlines access to landing spots, ticket sales, treasury secretary says",
-   "link": "https://www.jpost.com/international/article-897676",
-   "source": "Jerusalem Post",
-   "published": "2026-05-28T19:30:39+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,13 +326,20 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 4,
+   "incident_count": 5,
    "recent": [
     {
      "title": "Iran forces trespassing US tanker back after illegal attempt at crossing Strait of Hormuz: Report",
      "link": "https://presstv.ir/Detail/2026/05/28/769397/Iran-forces-American-tanker-Strait-of-Hormuz-IRGC",
      "source": "Press TV",
-     "published": "2026-05-29T11:53:52.455672+00:00",
+     "published": "2026-05-29T12:00:04.901921+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Thousands of crew members have been stranded in the Strait of Hormuz since the start of the war in Iran. On “The Daily,” two seafarers who got stuck in the strait explain what it is like to be trapped in a war zone, and what it would mean to get everyone out.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mmyi5racqn2b",
+     "source": "@nytimes",
+     "published": "2026-05-29T11:56:03.223335+00:00",
      "severity": "info"
     },
     {
@@ -340,13 +347,6 @@
      "link": "https://bsky.app/profile/nytimes.com/post/3mmyflhwuqj2z",
      "source": "@nytimes",
      "published": "2026-05-29T11:10:01.882578+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran’s actions in Strait of Hormuz lawful, consistent with international law: Envoy",
-     "link": "https://en.irna.ir/news/86167370/Iran-s-actions-in-Strait-of-Hormuz-lawful-consistent-with-international",
-     "source": "IRNA",
-     "published": "2026-05-29T05:35:05+00:00",
      "severity": "info"
     }
    ]
