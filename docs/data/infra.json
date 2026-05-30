@@ -1,5 +1,5 @@
 {
- "generated": "2026-05-30T11:59:32.155831+00:00",
+ "generated": "2026-05-30T15:55:36.667864+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -219,8 +219,36 @@
    "title": "May 28: Leader warns of enemy plots to sow discord as IRGC responds to fresh US aggression",
    "link": "https://presstv.ir/Detail/2026/05/28/769441/may-28-leader-warns-enemy-plots-sow-discord-irgc-responds-fresh-us-aggression",
    "source": "Press TV",
-   "published": "2026-05-30T11:58:45.724329+00:00",
+   "published": "2026-05-30T15:54:53.096651+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Iran Parliament to vote on Hormuz Strait management plan 'soon'",
+   "link": "https://presstv.ir/Detail/2026/05/30/769530/Iran-parliament-Hormuz-management",
+   "source": "Press TV",
+   "published": "2026-05-30T15:54:53.090351+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump Ends US Naval Blockade: Is Normal Shipping Set to Resume in the Strait of Hormuz?",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1ts2uwr/trump_ends_us_naval_blockade_is_normal_shipping/",
+   "source": "r/geopolitics",
+   "published": "2026-05-30T15:24:10+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Ukraine reportedly strikes oil infrastructure, tanker in western Russia, occupied Crimea",
+   "link": "https://www.reddit.com/r/worldnews/comments/1trz3ag/ukraine_reportedly_strikes_oil_infrastructure/",
+   "source": "r/worldnews",
+   "published": "2026-05-30T12:49:31+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Ukrainian drones strike port, oil depot in southern Russia damaging a tanker as well, authorities say",
+   "link": "https://www.reddit.com/r/worldnews/comments/1trys06/ukrainian_drones_strike_port_oil_depot_in/",
+   "source": "r/worldnews",
+   "published": "2026-05-30T12:35:06+00:00",
+   "severity": "info"
   },
   {
    "title": "Iran's Strait of Hormuz authority says sanctions won't help US gain waterway's control",
@@ -242,13 +270,6 @@
    "source": "IRNA",
    "published": "2026-05-30T05:49:27+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Settlers attack Palestinians, vandalize property south of Nablus; Red Crescent: 7 wounded",
-   "link": "https://www.timesofisrael.com/liveblog-may-30-2026/",
-   "source": "Times of Israel",
-   "published": "2026-05-30T01:14:26+00:00",
-   "severity": "critical"
   },
   {
    "title": "Iran strongly condemns US threat of sanctions against Oman",
@@ -298,27 +319,6 @@
    "source": "USNI News",
    "published": "2026-05-29T16:53:46+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Trump says now making 'final determination' on Iran deal",
-   "link": "https://www.al-monitor.com/originals/2026/05/trump-says-now-making-final-determination-iran-deal",
-   "source": "Al-Monitor",
-   "published": "2026-05-29T16:30:23+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Trump says meeting Friday to make final decision on deal with Iran",
-   "link": "https://www.al-monitor.com/originals/2026/05/trump-says-meeting-friday-make-final-decision-deal-iran",
-   "source": "Al-Monitor",
-   "published": "2026-05-29T15:36:43+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Araqchi, Omani counterpart discuss management of Strait of Hormuz",
-   "link": "https://en.irna.ir/news/86167702/Araqchi-Omani-counterpart-discuss-management-of-Strait-of-Hormuz",
-   "source": "IRNA",
-   "published": "2026-05-29T14:51:51+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 5,
+   "incident_count": 6,
    "recent": [
+    {
+     "title": "Iran Parliament to vote on Hormuz Strait management plan 'soon'",
+     "link": "https://presstv.ir/Detail/2026/05/30/769530/Iran-parliament-Hormuz-management",
+     "source": "Press TV",
+     "published": "2026-05-30T15:54:53.090351+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Trump Ends US Naval Blockade: Is Normal Shipping Set to Resume in the Strait of Hormuz?",
+     "link": "https://www.reddit.com/r/geopolitics/comments/1ts2uwr/trump_ends_us_naval_blockade_is_normal_shipping/",
+     "source": "r/geopolitics",
+     "published": "2026-05-30T15:24:10+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran's Strait of Hormuz authority says sanctions won't help US gain waterway's control",
      "link": "https://presstv.ir/Detail/2026/05/29/769496/Iran-United-States-Strait-of-Hormuz-sanctions",
      "source": "Press TV",
      "published": "2026-05-30T08:44:01.043105+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "IRGC: Two dozen ships safely pass through Strait of Hormuz in 24 hours",
-     "link": "https://en.irna.ir/news/86167955/IRGC-Two-dozen-ships-safely-pass-through-Strait-of-Hormuz-in",
-     "source": "IRNA",
-     "published": "2026-05-30T05:49:27+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran, Oman FMs discuss administration of Hormuz Strait in ‘very productive’ call",
-     "link": "https://presstv.ir/Detail/2026/05/29/769480/Iran-Oman-Araghchi-Busaidi-",
-     "source": "Press TV",
-     "published": "2026-05-29T20:40:59.140787+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,266 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1a07307a7448",
+   "title": "CNN Hit on Trump 250 Vanilla Ice Concert Takes Dark Turn: Trump Acts ‘Have Literally Killed People!’",
+   "link": "https://www.mediaite.com/media/entertainment/cnn-hit-on-trump-250-vanilla-ice-concert-takes-dark-turn-trump-acts-have-literally-killed-people/",
+   "summary": "A CNN panel on the copious exodus of artists from the Trump-backed Freedom 250 “Great American State Fair” concert took a dark turn into death and slavery. The post CNN Hit on Trump 250 Vanilla Ice Concert Takes Dark Turn: Trump Acts ‘Have Literally Killed People!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T15:44:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f4cd7b2fea71",
+   "title": "‘This Is Israel Wanting Us to Go to This War’ Joe Rogan Debates Guest on Iran Conflict as Trump Criticism Grows",
+   "link": "https://www.mediaite.com/media/podcasts/this-is-israel-wanting-us-to-go-to-this-war-joe-rogan-debates-guest-on-iran-conflict-as-trump-criticism-grows/",
+   "summary": "Joe Rogan slammed the ongoing Iran war as his guest pressed him on the subject, just one area in which the podcaster has been increasingly critical of Trump. The post ‘This Is Israel Wanting Us to Go to This War’ Joe Rogan Debates Guest on Iran Conflict as Trump Criticism Grows first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T15:31:28+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "441cbb66ea37",
+   "title": "Interestingly, Spencer Pratt has an actual—not imagined—criminal record relating to a hit-and-run accident, but no mention of that from Fox. bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3mn3d7ibuoc2t",
+   "summary": "",
+   "source": "@robertscotthorton",
+   "category": "trump_bsky",
+   "published": "2026-05-30T15:05:31.489+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1eae01eb5907",
+   "title": "Socialism's next test: swing states",
+   "link": "https://www.politico.com/news/2026/05/30/wisconsin-democratic-socialism-midterms-00943605",
+   "summary": "Francesca Hong is part of an array of lefty candidates running in competitive states emboldened by a turn toward economic populism amid widespread cost-of-living concerns.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-30T15:05:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a50afd0078be",
+   "title": "Purple Heart Recipient Graham Platner Said Didn’t ‘Deserve to Live’ Goes After Dems Over Support on CNN: ‘It’s Just Sad’",
+   "link": "https://www.mediaite.com/media/tv/purple-heart-recipient-graham-platner-said-didnt-deserve-to-live-goes-after-dems-over-support-on-cnn-its-just-sad/",
+   "summary": "Purple Heart recipient Teddy Daniels blasted Democrats supporting Graham Platner, the Senate candidate who mocked Daniels and said he didn't \"deserve to live.\" The post Purple Heart Recipient Graham Platner Said Didn’t ‘Deserve to Live’ Goes After Dems Over Support on CNN: ‘It’s Just Sad’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T14:52:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "044f8828d1ae",
+   "title": "First \"they\" were eating the dogs. Now, \"they\" are raping the dogs. But if you kill the dogs, you get a cabinet position.",
+   "link": "https://bsky.app/profile/ice-follies.bsky.social/post/3mn3cehzxg22a",
+   "summary": "",
+   "source": "@ice-follies",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:50:25.264+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "812826c896de",
+   "title": "I’m sorry, what?",
+   "link": "https://bsky.app/profile/zanath.bsky.social/post/3mn3ccw7fzk2q",
+   "summary": "",
+   "source": "@zanath",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:49:33.015+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4dd151accde",
+   "title": "of all the things that never happened, this story from Rachel Campos-Duffy never happened the most",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3bzibowc2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:44:16.406+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "432975984225",
+   "title": "Okay, so we've moved from eating the dogs to raping the dogs....",
+   "link": "https://bsky.app/profile/oeishik.bsky.social/post/3mn3bxm3gls2z",
+   "summary": "",
+   "source": "@oeishik",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:43:13.299+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "44900296755f",
+   "title": "Spencer Pratt on Fox News: \"What these demons are doing to these poor dogs -- they're raping the dogs\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3bwm3gj72v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:42:39.729+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4c128cbf5b55",
+   "title": "Trump Spews Attack on Rape Accuser, Jan. 6 Conspiracies in Dead of Night Posts After Medical Report Hits",
+   "link": "https://www.mediaite.com/media/news/trump-spews-attack-on-rape-accuser-jan-6-conspiracies-in-dead-of-night-posts-after-medical-report-hits/",
+   "summary": "Trump was up late attacking rape accuser E. Jean Carroll and pushing debunked conspiracy theories shortly after his medical report was published. The post Trump Spews Attack on Rape Accuser, Jan. 6 Conspiracies in Dead of Night Posts After Medical Report Hits first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T14:40:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6dbbb9008ada",
+   "title": "It’s so funny that conservatives pretend to be the manliest men who hate Hollywood, but then vote for the dumbest bitches in the history of reality TV.",
+   "link": "https://bsky.app/profile/maxberger.bsky.social/post/3mn3brb5iwk2h",
+   "summary": "",
+   "source": "@maxberger",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:39:40.507+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5ae1d544520e",
+   "title": "Spencer Pratt on Fox News describes Gov. Newsom and Mayor Bass as \"alleged criminal partners\" and says \"they both should be in jail together\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3bmugipb2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:37:12.937+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a96434ee49d",
+   "title": "Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma",
+   "link": "https://www.politico.com/news/2026/05/30/trump-jumps-into-republican-primaries-for-governor-in-south-carolina-iowa-and-oklahoma-00943600",
+   "summary": "Contests in those states have pitted allies against each other in a fierce competition for the president's endorsement.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-05-30T14:31:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6db6efb66888",
+   "title": "lmao! Fox & Friends played a clip of old man Trump ranting about his ballroom to his daughter in law during an interview that will air tonight",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3b3thvkm2v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:27:41.508+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7b4e5f9b2ad5",
+   "title": "Finally caught @atrupar.com in an error. He misspelled “bullshit.”",
+   "link": "https://bsky.app/profile/hcrichardson.bsky.social/post/3mn3atycdwc23",
+   "summary": "",
+   "source": "@hcrichardson",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:23:18.147+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2b2f3ca62363",
+   "title": "CNN Host Torches Dem Candidate Over Nazi Tattoo Excuses: ‘That’s Not a Drunken Mistake’",
+   "link": "https://www.mediaite.com/media/tv/cnn-host-torches-dem-candidate-over-nazi-tattoo-excuses-thats-not-a-drunken-mistake/",
+   "summary": "CNN's Michael Smerconish isn't buying presumptive Democratic Senate candidate Graham Platner's explanations for once having a Nazi-linked tattoo. The post CNN Host Torches Dem Candidate Over Nazi Tattoo Excuses: ‘That’s Not a Drunken Mistake’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T14:22:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1dcd0f46afad",
+   "title": "Lmaooooooooooooooooo",
+   "link": "https://bsky.app/profile/anadarkocapital.bsky.social/post/3mn3arjcwxs2w",
+   "summary": "",
+   "source": "@anadarkocapital",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:21:55.331+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f719cb52920f",
+   "title": "McENANY: Are you still praying in that congressional chapel you took me to? MIKE JOHNSON: We've worn the carpet out. I'm really grateful for strong leadership from President Trump.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3aq3i55w2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:21:07.253+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d97c0e65ffa",
+   "title": "Johnson: \"The war powers act on the House floor is being forced. They're going around the speaker with a discharge to bring that to the floor. I don't believe it'll pass and I hope it doesn't, because we don't need to take away the authority from the commander in chief and the Pentagon right now.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3akbgein27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:17:52.162+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "81f5fe174f58",
+   "title": "McENANY: Bloomberg reports there were Iranian missile strikes that injured several Americans at a Kuwaiti air base. Where do you think things stand? MIKE JOHNSON: I talked to the president last night. He's dialed in on it. The Iranians' new leadership I think wants to bring an end to this conflict",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3aembgnr2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:14:42.173+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2ef9994dd484",
+   "title": "Speaker Mike Johnson: \"We're excited about the midterms. We're bullish.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn3a4vyxxg2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T14:10:23.979+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8961856e7347",
+   "title": "New in PN: @donaldonethics.bsky.social sounds off on Trump's J6 slush fund “It’s a signal to the violent element of his base that if you engage in violence for him, you will not just be safe from prosecution, but made whole and then some. So it’s not just backward-looking, it’s forward-looking.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn37gfpafs2i",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-30T13:57:48.700+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8c50153520af",
+   "title": "Bill Maher Nukes Trump-Backed Senate Pick: ‘What He Believes Will Blow Your F*cking Mind!’",
+   "link": "https://www.mediaite.com/media/news/bill-maher-nukes-trump-backed-senate-pick-what-he-believes-will-blow-your-fcking-mind/",
+   "summary": "Comedian and pundit Bill Maher nuked Trump-backed Senate candidate Ken Paxton (R-TX) with a litany of political positions he said will \"blow your f*cking mind!\" The post Bill Maher Nukes Trump-Backed Senate Pick: ‘What He Believes Will Blow Your F*cking Mind!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T13:53:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a6be94919445",
+   "title": "Trump Rages Over Renovation Critics in Epic Friday Night Rant — Drops ‘True FACTS’",
+   "link": "https://www.mediaite.com/media/news/trump-rages-over-renovation-critics-in-epic-friday-night-rant-drops-true-facts/",
+   "summary": "Trump raged at The New York Times over their coverage of the renovations he's undertaken around Washington, DC in a 400-word rant. The post Trump Rages Over Renovation Critics in Epic Friday Night Rant — Drops ‘True FACTS’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T13:08:59+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "48b748a0018b",
+   "title": "Bill Maher Twists Knife on Trump Over Disastrous Polls — ‘Even With White People Who Didn’t Go To College’",
+   "link": "https://www.mediaite.com/media/news/bill-maher-twists-knife-on-trump-over-disastrous-polls-even-with-white-people-who-didnt-go-to-college/",
+   "summary": "Comedian and pundit Bill Maher twisted the knife on President Donald Trump over his deadly approval polls \"even with White people\" with no college. The post Bill Maher Twists Knife on Trump Over Disastrous Polls — ‘Even With White People Who Didn’t Go To College’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-30T12:47:02+00:00",
+   "iran_topic": false
+  },
   {
    "id": "5b91d9dc1078",
    "title": "Trump Doctor’s Report Drops Late Friday Night — Details 238-Pound 6 ft 3 President’s Health, Cognitive Results",
@@ -712,266 +972,6 @@
    "source": "WH Actions",
    "category": "wh_actions",
    "published": "2026-05-29T21:50:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ac3a90d335b6",
-   "title": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/05/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. My Administration has eliminated a record number of unnecessary regulations to further our Nation&#8217;s prosperity and reduce regulatory burdens on industries critical to our national and economic security [&#8230;] The post Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-05-29T21:48:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ac3a90d335b6",
-   "title": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/05/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. My Administration has eliminated a record number of unnecessary regulations to further our Nation&#8217;s prosperity and reduce regulatory burdens on industries critical to our national and economic security [&#8230;] The post Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-05-29T21:48:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "88935b344f98",
-   "title": "‘Is He a Male Model?’ Trump Says He Wishes He Looked Like ‘Beautiful’ Jaxson Dart",
-   "link": "https://www.mediaite.com/media/tv/is-he-a-male-model-trump-says-he-wishes-he-looked-like-beautiful-jaxson-dart/",
-   "summary": "During a Friday preview of an upcoming Fox News interview between Lara Trump and President Donald Trump, the commander-in-chief recalled asking if \"beautiful\" NFL quarterback Jaxson Dart was \"a male model,\" adding that he wished he shared his good looks. The post ‘Is He a Male Model?’ Trump Says He Wishes He Looked Like ‘Beautiful’ Jaxson Dart first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T21:47:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bbc61a20efd1",
-   "title": "Fact Sheet: President Donald J. Trump Removes Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-removes-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
-   "summary": "RESCINDING OUTDATED AND BURDENSOME EXECUTIVE ORDERS: Today, President Donald J. Trump signed an Executive Order rescinding outdated restrictions on access to Federal lands, restoring balanced land management and reducing unnecessary regulatory burdens. REIGNING IN GOVERNMENT OVERREACH: President Trump believes the American people should be able to access and enjoy their public lands without being burdened [&#8230;] The post Fact Sheet: President Donald J. Trump Removes Unnecessary and Counterproductive Restrictions on Access to Federal Lands appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-05-29T21:44:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "acc010150e5b",
-   "title": "So this was his day pretty much.",
-   "link": "https://bsky.app/profile/schooley.bsky.social/post/3mmzivxbzzc2i",
-   "summary": "",
-   "source": "@schooley",
-   "category": "trump_bsky",
-   "published": "2026-05-29T21:42:14.658+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2a38a9aa8da",
-   "title": "I ain’t reading all that. I’m happy for you though, or sorry that happened",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmziivnlvs2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T21:34:56.732+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec64cb018a80",
-   "title": "‘NOT TRUE’: Pam Bondi Denies Blaming Blanche for Epstein Files Bungle in Closed-Door Hearing",
-   "link": "https://www.mediaite.com/media/news/not-true-pam-bondi-denies-blaming-blanche-for-epstein-files-bungle-in-closed-door-hearing/",
-   "summary": "In a Friday post on X, former Attorney General Pam Bondi denied placing the blame on Acting AG Todd Blanche for the mismanagement of the Epstein files, writing, \"NOT TRUE.\" The post ‘NOT TRUE’: Pam Bondi Denies Blaming Blanche for Epstein Files Bungle in Closed-Door Hearing first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T21:19:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9bbb99b0e691",
-   "title": "Tennis Player Blames Female Umpire for French Open Loss — Suggests She Didn’t Have ‘Strength’ to Handle Rowdy Spectators",
-   "link": "https://www.mediaite.com/media/sports/tennis-player-blames-female-umpire-for-french-open-loss-suggests-she-didnt-have-strength-to-handle-rowdy-spectators/",
-   "summary": "Paraguayan tennis player Daniel Vallejo said after his French Open loss Thursday that a woman should not have officiated his match. The post Tennis Player Blames Female Umpire for French Open Loss — Suggests She Didn’t Have ‘Strength’ to Handle Rowdy Spectators first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T21:06:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d22a97ae511c",
-   "title": "Trump: I wish I looked just like Jaxson Dart. Is he a male model? He is a handsome guy, a beautiful guy. Conservative guy. He said, I love you, sir. When Jaxson gets harassed a little bit, he's also is loved more because we have more people than they do.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mmzgnxpfw42u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-05-29T21:01:59.049+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "81241314e6f9",
-   "title": "Brisport walks off the $$$ plank",
-   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/29/brisport-walks-off-the-plank-00943245",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-05-29T20:54:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "365895dae748",
-   "title": "‘For God’s Sake!’ Furious Djokovic Blows Up at Cameraman During French Open Match",
-   "link": "https://www.mediaite.com/media/sports/for-gods-sake-furious-djokovic-blows-up-at-cameraman-during-french-open-match/",
-   "summary": "As Djokovic took a moment between sets a camera operator moved in for a close-up shot when the tennis player lost it and yelled at him. The post ‘For God’s Sake!’ Furious Djokovic Blows Up at Cameraman During French Open Match first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T20:54:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "28a07cf11db1",
-   "title": "Daily Wire Begs Country Stars To Perform For Trump’s 250th Celebration",
-   "link": "https://www.mediaite.com/media/news/daily-wire-begs-country-stars-to-perform-for-trumps-250th-celebration/",
-   "summary": "The Daily Wire is trying to throw the Trump administration a life preserver by begging country music stars to \"do the right thing\" and perform for Freedom 250. The post Daily Wire Begs Country Stars To Perform For Trump’s 250th Celebration first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T20:51:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8af6970992d4",
-   "title": "Sherrill tries to ‘lower the temperature’ at immigration detention facility",
-   "link": "https://www.politico.com/news/2026/05/29/sherrill-tries-to-lower-the-temperature-at-immigration-detention-facility-00943244",
-   "summary": "The governor announced plans to create protected protest zones at Delaney Hall.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-05-29T20:44:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "44d06ac76dbf",
-   "title": "‘Less Than $200 in Extra Gasoline Cost’: Scott Bessent Attempts to Quiet Economic Fears",
-   "link": "https://www.mediaite.com/media/news/less-than-200-in-extra-gasoline-cost-scott-bessent-attempts-to-quiet-economic-fears/",
-   "summary": "During an appearance at the 2026 Reagan National Economic Forum on Friday, Treasury Secretary Scott Bessent, in an attempt to quiet fears on the economy, said that Americans were only facing \"less than $200 in extra gasoline cost.\" The post ‘Less Than $200 in Extra Gasoline Cost’: Scott Bessent Attempts to Quiet Economic Fears first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T20:35:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ed2f7a987447",
-   "title": "yes it is",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzevstbx22i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T20:30:35.013+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9b30d94f7fd2",
-   "title": "It was wonderful to have some laughs talking about Fox News in the era of Late Trumpism with @decodingfoxnews.bsky.social today -- as you can see in the clip, we were even treated to her fantastic Judge Jeanine impersonation 😆 Full episode: www.publicnotice.co/p/juliet-jes...",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzes3depk2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T20:28:29.710+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bcd807dbaa24",
-   "title": "Juliet Jeske on Fox News during Late Trumpism",
-   "link": "https://www.publicnotice.co/p/juliet-jeske-pn-pod",
-   "summary": "If we didn't laugh, we'd cry.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-05-29T20:01:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c0de8a7623f6",
-   "title": "Trump Purchased UFC Parent Company Stock While Hyping White House Fight Night",
-   "link": "https://www.mediaite.com/media/news/trump-purchased-ufc-parent-company-stock-while-hyping-white-house-fight-night/",
-   "summary": "According to a Friday report from HuffPost, President Donald Trump purchased stock in the parent company of the UFC earlier this year as he continued promoting his plans for a high-profile UFC event on the White House grounds this summer. The post Trump Purchased UFC Parent Company Stock While Hyping White House Fight Night first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T19:45:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dcb281b88d07",
-   "title": "Trump Promotes Fox Host’s Book In Video Saying He Likes Any Book Dedicated To Him ‘Even If It’s No Good’",
-   "link": "https://www.mediaite.com/media/news/trump-promotes-fox-hosts-book-in-video-saying-he-likes-any-book-dedicated-to-him-even-if-its-no-good/",
-   "summary": "President Donald Trump promoted a new book by Fox News host Rachel Campos-Duffy in a video where he claims he likes any book that's dedicated to him \"even if it's no good.\" The post Trump Promotes Fox Host’s Book In Video Saying He Likes Any Book Dedicated To Him ‘Even If It’s No Good’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T19:43:04+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "de80bc694820",
-   "title": "In which the president of the United States is interviewed by his daughter-in-law, a Fox contributor-turned RNC chair-turned Fox host.",
-   "link": "https://bsky.app/profile/mattgertz.bsky.social/post/3mmzbznpfkk2w",
-   "summary": "",
-   "source": "@mattgertz",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:39:02.633+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d1cb50d6aee5",
-   "title": "LARA TRUMP: Having a conflict just in front of the midterms isn't ideal TRUMP: You have a very short window",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzbx77rm32t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:37:40.318+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "643ed43f5121",
-   "title": "Judge Orders Removal of Trump’s Name from Kennedy Center",
-   "link": "https://www.mediaite.com/media/news/judge-orders-removal-of-trumps-name-from-kennedy-center/",
-   "summary": "The judge sided with Rep. Joyce Beatty, a member of the Board of Trustees, who challenged both the name change and a proposed two-year closure. The post Judge Orders Removal of Trump’s Name from Kennedy Center first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-29T19:37:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e1a1b51893a5",
-   "title": "Bessent: \"I saw over the past couple weeks, 'What a terrible time to start up as Fed chair.' No, it's a great time. Interest rates have spiked, inflation has spiked.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzbuaezhd2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:36:00.876+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "542057d72f89",
-   "title": "Bessent: \"The president understands the more credible you are, the more work the financial markets will do for you\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzbqd5qyk2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:33:49.567+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7be0e437e8dd",
-   "title": "I looked up \"debasement\" in the dictionary...and there was a picture of Scott Bessent.",
-   "link": "https://bsky.app/profile/davidcorn.bsky.social/post/3mmzbpwc2wk2v",
-   "summary": "",
-   "source": "@davidcorn",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:33:36.090+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "048d767eaf79",
-   "title": "KUDLOW: Are we really gonna have a $250 bill w/Trump's picture? BESSENT: For the 150th there was a Coolidge coin w/his image on it. We are going to have the image of President Trump on a coin, & there's proposed legislation in the House to put President Trump on the $250 bill. He should be on there",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mmzbdiictn2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-29T19:26:38.948+00:00",
    "iran_topic": false
   }
  ]
