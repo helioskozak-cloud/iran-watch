@@ -1,5 +1,5 @@
 {
- "generated": "2026-05-31T10:00:15.523217+00:00",
+ "generated": "2026-05-31T15:06:04.651758+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,6 +216,41 @@
  ],
  "incidents": [
   {
+   "title": "Ukraine ‘deliberately’ attacked Europe’s largest nuclear power plant: Rosatom",
+   "link": "https://presstv.ir/Detail/2026/05/31/769561/Russia-condemns-Ukraine%E2%80%99s-%E2%80%98deliberate-strike%E2%80%99-on-Europe%E2%80%99s-largest-nuclear-power-plant",
+   "source": "Press TV",
+   "published": "2026-05-31T15:05:19.763961+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US military kills 3 more people aboard vessel in eastern Pacific Ocean",
+   "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll",
+   "source": "Press TV",
+   "published": "2026-05-31T15:05:19.763564+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
+   "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission",
+   "source": "Press TV",
+   "published": "2026-05-31T15:05:19.763135+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
+   "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
+   "source": "Press TV",
+   "published": "2026-05-31T15:05:19.762217+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Israeli forces cross Lebanon’s Litani River and seize 12th century castle",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-05-31T11:10:14+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "May 28: Leader warns of enemy plots to sow discord as IRGC responds to fresh US aggression",
    "link": "https://presstv.ir/Detail/2026/05/28/769441/may-28-leader-warns-enemy-plots-sow-discord-irgc-responds-fresh-us-aggression",
    "source": "Press TV",
@@ -242,27 +277,6 @@
    "source": "Press TV",
    "published": "2026-05-31T09:59:35.148289+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Ukraine ‘deliberately’ attacked Europe’s largest nuclear power plant: Rosatom",
-   "link": "https://presstv.ir/Detail/2026/05/31/769561/Russia-condemns-Ukraine%E2%80%99s-%E2%80%98deliberate-strike%E2%80%99-on-Europe%E2%80%99s-largest-nuclear-power-plant",
-   "source": "Press TV",
-   "published": "2026-05-31T09:59:35.147836+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US military kills 3 more people aboard vessel in eastern Pacific Ocean",
-   "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll",
-   "source": "Press TV",
-   "published": "2026-05-31T09:59:35.147134+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
-   "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
-   "source": "Press TV",
-   "published": "2026-05-31T09:59:35.146884+00:00",
-   "severity": "info"
   },
   {
    "title": "IRGC Navy: 28 ships pass through Strait of Hormuz under coordinated oversight",
@@ -305,20 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-05-30T23:36:37+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Situation regarding packages to Europe from Israel",
-   "link": "https://www.reddit.com/r/Israel/comments/1tscld2/situation_regarding_packages_to_europe_from_israel/",
-   "source": "r/Israel",
-   "published": "2026-05-30T21:50:08+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US says it struck ship trying to breach blockade and reach Iran",
-   "link": "https://www.timesofisrael.com/us-says-it-struck-ship-trying-to-breach-blockade-and-reach-iran/",
-   "source": "Times of Israel",
-   "published": "2026-05-30T20:51:03+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 5,
+   "incident_count": 6,
    "recent": [
+    {
+     "title": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
+     "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission",
+     "source": "Press TV",
+     "published": "2026-05-31T15:05:19.763135+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
+     "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
+     "source": "Press TV",
+     "published": "2026-05-31T15:05:19.762217+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran Parliament to vote on Hormuz Strait management plan 'soon'",
      "link": "https://presstv.ir/Detail/2026/05/30/769530/Iran-parliament-Hormuz-management",
      "source": "Press TV",
      "published": "2026-05-31T09:59:35.148746+00:00",
      "severity": "info"
-    },
-    {
-     "title": "IRGC Navy: 20 commercial ships transit Hormuz in 24 hours after obtaining permission",
-     "link": "https://presstv.ir/Detail/2026/05/30/769534/IRGC-Navy--20-ships-transit-Strait-Hormuz-obtaining-permission",
-     "source": "Press TV",
-     "published": "2026-05-31T09:59:35.148513+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran says IRGC Navy to control all Strait of Hormuz traffic ‘with full authority’",
-     "link": "https://presstv.ir/Detail/2026/05/30/769547/Iran-Armed-Forces-Hormuz-Strait",
-     "source": "Press TV",
-     "published": "2026-05-31T09:59:35.148289+00:00",
-     "severity": "medium"
     }
    ]
   },
@@ -375,6 +375,286 @@
  ],
  "wh_statements": [
   {
+   "id": "e52dff34db18",
+   "title": "BARTIROMO: What are you going to do about your perception? The Wall Street Journal describes you as 'scandal plagued' PAXTON: The reality is they could say the same thing about Donald Trump",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5tbovctd2v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:58:24.863+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e1981b8ca205",
+   "title": "Paxton: \"We need to listen to Donald Trump. What he's trying to accomplish, most Americans want.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t5wm4qv2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:56:18.735+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "19fc46ead623",
+   "title": "A country that doesn't impose costs on people this flagrantly hostile to its stated values is already dead. Trump will be gone one day but the rot will live on and fester in countless Respectable People like this",
+   "link": "https://bsky.app/profile/internethippo.bsky.social/post/3mn5t5fqf722k",
+   "summary": "",
+   "source": "@internethippo",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:56:01.061+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7947f38fe096",
+   "title": "Sen. Andy Kim: \"It's a choice. Delaney Hall is run by GEO Group. GEO Group is getting a nearly $1 billion contract to run Delaney Hall. They tell me there is one full-time doctor for 800 detainees. They could have more doctors if they wanted to, but that's cutting into their profits.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t4ynap42z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:55:47.313+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "24117e0ed9ad",
+   "title": "Sen. Chris Murphy: \"I just think ultimately Donald Trump has decided he does not want to help Ukraine, and there doesn't seem to be enough courage in the Republican caucus to fight back\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t3w4fve2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:55:11.108+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "acc1b1e418fc",
+   "title": "Sen. Andy Kim: \"People are angry, frustrated, feeling like they're seeing and hearing about things happening on our soil with our taxpayer dollars that are not in line with our values as a nation. I feel it too.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5slp4ouk26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:46:06.909+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b6fcdc5b2cc",
+   "title": "Burgum used to be a \"normal\" figure, w successful tech-biz career. When he was running for prez in 2024 primaries, against DJT, he told Meet the Press that he \"wouldn't do business\" w Trump, because \"you're judged by the company you keep.\" www.youtube.com/watch?v=VRJU... Indeed you are.",
+   "link": "https://bsky.app/profile/jfallows.bsky.social/post/3mn5skjzrv22e",
+   "summary": "",
+   "source": "@jfallows",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:45:28.029+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "03c265f10104",
+   "title": "In what universe is the President's daughter-in-law interviewing the President called \"journalism\"?",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mn5sf4qhos2y",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:42:26.320+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d99f244b4e49",
+   "title": "The Coolidge coin is actually quite a rare collectible precisely because the public didn't like it and the Treasury eventually melted most of them down. As a result, the rule against living persons on coins was instituted soon thereafter.",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mn5s2pvsfk2y",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:36:37.318+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "78db5c3b4f89",
+   "title": "Bessent on Trump's face appearing on a $250 bill: \"I think it's fitting. President Trump is the president during our 250th anniversary. Calvin Coolidge was president during the 150th anniversary and there was a coin printed for him. I think it's a great celebratory note for a great president.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rsckimi2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:31:54.868+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9cd3a0446c24",
+   "title": "BARTIROMO: If we continue to spend all the money on Medicare, Medicaid, Social Security, we won't have any money left to spend on anything else, right? BESSENT: We gotta work on the here and now. I always call it, 'crawl, walk, run.'",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rpbn4ai25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:30:13.237+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13f2d286f5c0",
+   "title": "‘Exodus’: Stunning NY Times Deep Dive Reveals More Than 10,000 Lawyers Have Left Trump Administration",
+   "link": "https://www.mediaite.com/media/news/exodus-stunning-ny-times-deep-dive-reveals-more-than-10000-lawyers-have-left-trump-administration/",
+   "summary": "The stunning report found that approximately one in five lawyers who worked in the federal government 18 months ago no longer do. The post ‘Exodus’: Stunning NY Times Deep Dive Reveals More Than 10,000 Lawyers Have Left Trump Administration first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T14:29:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66ac9b7801a5",
+   "title": "Bartiromo to Bessent: \"The Trump accounts have been incredibly successful. My niece just had a baby, she's seven weeks old, and I'm encouraging them to sign up for the Trump accounts. This was such a good idea.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rkaqf7a2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:27:24.527+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "26f2f9d1ebb1",
+   "title": "Bessent on tariffs: \"The EU is willing to pay 15% tariffs and take down the tariffs on us. It's an incredible deal.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rin3lqg2v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:26:30.366+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e9d38f726343",
+   "title": "\"People are so anti-President Trump.\" 🎯 He's on a roll today.",
+   "link": "https://bsky.app/profile/gottalaff.bsky.social/post/3mn5rhv7gjk2l",
+   "summary": "",
+   "source": "@gottalaff",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:26:05.200+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5adbb7a98407",
+   "title": "🤷‍♂️",
+   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mn5rfau5f22i",
+   "summary": "",
+   "source": "@kairyssdal",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:24:36.892+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "de5b07cbd09b",
+   "title": "Bessent: \"Many people have said to me, 'Are you surprised the market has gone up on bad news?' I say, I don't think the news is that bad. I think the news is bad. The quality of the reporting. The anti-Americanism. People are so anti-President Trump.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5red3yun2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:24:05.679+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dd1f8c798d68",
+   "title": "BARTIROMO: We are are seeing a spike in inflation BESSENT: It's a very limited spike",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rabkugt25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:21:49.851+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f1cc7b080888",
+   "title": "BARTIROMO: A lot of people have asked me recently, 'Will President Trump finish the job?' BESSENT: What does 'finish the job' mean?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5r5iwgy526",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:20:16.907+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6894481a6ec5",
+   "title": "BARTIROMO: So what are the markers you're gonna use to ensure Iran is keeping their promises? BESSENT: Again, we'll see",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qytxpdj2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:17:40.710+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8666913ea74c",
+   "title": "Burgum: \"His rapport and understanding of how construction works on complex projects, restorations, new construction, is unmatched in the presidency. Let's turn him loose. The things that he touches he makes better.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qvgx2ms27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:15:46.394+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7135797d4d0b",
+   "title": "Burgum: \"His rapport and understanding of how construction works on complex projects, restorations, new construction, is unmatched in the presidency. Let's turn him loose. The things that he touches he makes better.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qszxmql2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:14:25.584+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d2e8003eb81",
+   "title": "BASH: On reflecting pool, the Times reports you awarded 2 multimillion no bid contracts BURGUM: Well, this is expedited contracting BASH: Does that mean 'no bid'? BURGUM: You're implying something untoward is going on BASH: The company doing the pool has a 20% project margin. Standard is 6-12%",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qrdr2or27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:13:28.825+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6b31fe8169ee",
+   "title": "BASH: There are questions about the private funding for Freedom 250. It's not transparent. Should the public show know? BURGUM: Transparency is always a good thing. I work for the president I think i most transparent ever BASH: So you'll make the donors public? BURGUM: It's not about the donors",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qh3pa6l24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:07:44.842+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "411205a6661f",
+   "title": "BURGUM: The celebration of the 250 is a nonpartisan event BASH: But Trump called it a 'Make America Great Again rally,' which is the name of his political organization BURGUM: Well, it is, but that's something I think we all can certainly understand",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qam3t7224",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T14:04:07.149+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cc0ca28ed2d0",
+   "title": "‘120 Correct Answers Out of 120!’ Trump Boasts About His Latest Cognitive Test in Late-Night Truth Social Screed",
+   "link": "https://www.mediaite.com/media/news/120-correct-answers-out-of-120-trump-boasts-about-his-latest-cognitive-test-in-late-night-truth-social-screed/",
+   "summary": "President Donald Trump raved about the results of his latest cognitive test Saturday — proudly claiming he answered all questions correctly. The post ‘120 Correct Answers Out of 120!’ Trump Boasts About His Latest Cognitive Test in Late-Night Truth Social Screed first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T13:24:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9e8b6d66573a",
+   "title": "Trump Makes Puzzling Claim On Iran — Now Says ‘We’ve Actually Left Their Military Alone’ After Previously Saying US ‘Completely Destroyed’ it",
+   "link": "https://www.mediaite.com/media/news/trump-makes-puzzling-claim-on-iran-now-says-weve-actually-left-their-military-alone-after-previously-saying-us-completely-destroyed-it/",
+   "summary": "The president's confounding statement seems to contradict several prior comments in which he claimed the U.S. \"completely destroyed\" Iran's military. The post Trump Makes Puzzling Claim On Iran — Now Says ‘We’ve Actually Left Their Military Alone’ After Previously Saying US ‘Completely Destroyed’ it first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T12:47:27+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8f8f0aeabb0d",
+   "title": "Trump vents about judge who blocked Kennedy Center changes",
+   "link": "https://www.politico.com/news/2026/05/31/trump-vents-about-judge-who-blocked-kennedy-center-changes-00943727",
+   "summary": "Clearly angered by his latest legal setback, he said it was “impossible for me to be treated fairly.\"",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-05-31T11:23:29+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "579bd3286e15",
    "title": "We’re about six months away from the time in the election cycle when presidential candidates start officially launching their campaigns. Will Repubs jump in and act like Trump is a normal lame duck? Will Trump acknowledge he can’t run again?",
    "link": "https://bsky.app/profile/danahoule.bsky.social/post/3mn4oeg7yoc27",
@@ -382,36 +662,6 @@
    "source": "@danahoule",
    "category": "trump_bsky",
    "published": "2026-05-31T03:57:48.004+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b1197c047ab4",
-   "title": "hi does anyone know what this means",
-   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mn4jibpb7s26",
-   "summary": "",
-   "source": "@clearlyashley",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:30:28.772+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "897855f700d0",
-   "title": "cash bar",
-   "link": "https://bsky.app/profile/bcdreyer.social/post/3mn4jagrzoc23",
-   "summary": "",
-   "source": "@bcdreyer",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:26:05.669+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b51de203d9cf",
-   "title": "We all know exactly who he means & the fact that this doesn’t immediately end his presidency is a total failure of the constitutional order.",
-   "link": "https://bsky.app/profile/mcopelov.bsky.social/post/3mn4j3pusjc2l",
-   "summary": "",
-   "source": "@mcopelov",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:23:27.415+00:00",
    "iran_topic": false
   },
   {
@@ -432,216 +682,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-05-31T02:15:35.207+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "00a24aa4d1c4",
-   "title": "???????????",
-   "link": "https://bsky.app/profile/amay206.bsky.social/post/3mn4ikh3tanad",
-   "summary": "",
-   "source": "@amay206",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:13:47.793+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9bd8da5d4c28",
-   "title": "Trump continuing on his sexual journey towards coming out.",
-   "link": "https://bsky.app/profile/wajali.bsky.social/post/3mn4ifesf7k2o",
-   "summary": "",
-   "source": "@wajali",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:10:57.615+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "23262a0a3953",
-   "title": "How many days ago was it that he claimed they had completely destroyed the Iranian military?",
-   "link": "https://bsky.app/profile/masnick.com/post/3mn4i54gqa22g",
-   "summary": "",
-   "source": "@masnick",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:06:20.408+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "cfbd077129d8",
-   "title": "\"Number 69 is all time high.\"",
-   "link": "https://bsky.app/profile/zackford.bsky.social/post/3mn4hxgfjy224",
-   "summary": "",
-   "source": "@zackford",
-   "category": "trump_bsky",
-   "published": "2026-05-31T02:03:09.529+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bf551f77f555",
-   "title": "why does the white house have three pipelines running through it? are those post tensioning rigs for the concrete?",
-   "link": "https://bsky.app/profile/urban-achiever.bsky.social/post/3mn4hpofcyk22",
-   "summary": "",
-   "source": "@urban-achiever",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:58:49.474+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "14a362d54cd1",
-   "title": "Trump says he’s destroyed Iran’s military while Trump says we’ve left their military alone. Hard to know who to believe",
-   "link": "https://bsky.app/profile/electproject.bsky.social/post/3mn4hfrixrs2u",
-   "summary": "",
-   "source": "@electproject",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:53:17.196+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "660892dd084a",
-   "title": "The inauguration is at the Capitol because the legitimacy of the government is anchored in Congress, not the executive.",
-   "link": "https://bsky.app/profile/darinself.com/post/3mn4hedpka22z",
-   "summary": "",
-   "source": "@darinself",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:52:29.175+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d00cf924b61d",
-   "title": "Trump shows Lara Trump around his new presidential walk of fame at the White House: \"You have Barack Hussein Obama. And then you have the guy with the autopen. Sleepy Joe Biden. That's the autopen.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4hagvtvk22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:50:18.295+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "059db0862ce4",
-   "title": "Trump on his ballroom: \"This is all military. And then you have the drone ports and the sniper ports.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4h22zkfn2y",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:46:44.510+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3ebc33551a70",
-   "title": "Lara Trump interviews her father in law about his arch to imaginary triumphs",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gtbr6ip2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:42:56.695+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8e59e8b49168",
-   "title": "Trump to Lara Trump on his son (and her husband) Eric Trump: \"Your man is very good. Eric Trump is a very good builder.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gsv2b6a2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:42:43.361+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "65ef857eb4b1",
-   "title": "Trump on his ballroom: \"We're gonna have the inauguration here\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4grcja5a2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:41:50.373+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d773dc4a9da6",
-   "title": "Trump on the upcoming White House UFC fight: \"It's all free. It's going to soldiers.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gq7eufi2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:41:13.532+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "846e316d41ba",
-   "title": "Trump on his vision for a $1 billion+ White House ballroom: \"Cocktails, everything. And then they go into the dinner.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gkguxf22u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:38:00.067+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "33f61e68da30",
-   "title": "Trump shows Lara Trump around his imaginary ballroom",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gjjwut72m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:37:29.726+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d1d8d7fdb34b",
-   "title": "LARA TRUMP: The UFC event coincides with your 80th birthday, which is incredible TRUMP: I hate to hear that",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gjg63qh2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:37:25.767+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "71726b70ce94",
-   "title": "North Korean TV covers Kim Jong Un's new ballroom",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gfxo6in2y",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:35:29.900+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a54e27580966",
-   "title": "Trump: \"We have a war going on and the economy is booming. Today, we just hit another -- number 69 is all time high. Today. And we have a war going on.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gbqaddy2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:33:07.889+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5c42661e3f9b",
-   "title": "Trump: \"So when Jaxson gets harassed a little bit, he's actually love more, because we have more people than we do.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4gbggltl2y",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:32:57.607+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c50d9a30b263",
-   "title": "Trump on Jaxson Dart: \"Is he a male model or what? He's a beautiful guy. He said, 'I love you, sir.' He's a young boy. He just really started.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4g72uvhf2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:31:38.387+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ab10b0bba778",
-   "title": "Trump: \"I don't think a Republican can win in California, unless you pass the SAVE America Act. Then they're gonna have to show proof of citizenship, they're gonna have to get rid of their mail in voting. No other country -- France used to do it, and then ended it because it was rigged.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn4g3r44362p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T01:29:47.473+00:00",
    "iran_topic": false
   },
   {
@@ -855,36 +895,6 @@
    "iran_topic": false
   },
   {
-   "id": "f1c19ccfa1a8",
-   "title": "Democratic Lawmaker Brands Trump an ‘Adjudicated Rapist’ — MS NOW Host Jumps In To Give ‘Proper Terminology’",
-   "link": "https://www.mediaite.com/media/tv/democratic-lawmaker-brands-trump-an-adjudicated-rapist-ms-now-host-jumps-in-to-give-proper-terminology/",
-   "summary": "MS NOW anchor Alex Witt had to correct a liberal lawmaker for calling President Donald Trump an \"adjudicated rapist\" on her program on Saturday afternoon. The post Democratic Lawmaker Brands Trump an ‘Adjudicated Rapist’ — MS NOW Host Jumps In To Give ‘Proper Terminology’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T18:09:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b5035a9dd27a",
-   "title": "Neil deGrasse Tyson Loses It On Bill Maher Over ‘Buttholes’ and Aliens",
-   "link": "https://www.mediaite.com/media/news/neil-degrasse-tyson-loses-it-on-bill-maher-over-buttholes-and-aliens/",
-   "summary": "Bill Maher drew peals of laughter from star astrophysicist Neil deGrasse Tyson by zeroing in on the \"butthole\" aspect of alien abduction for two solid minutes. The post Neil deGrasse Tyson Loses It On Bill Maher Over ‘Buttholes’ and Aliens first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T18:00:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f0fa81abb0fd",
-   "title": "Trump Unleashes Barrage Of AI Fantasy Slop — Including Sweaty Dunk in Knicks Uni and Much More",
-   "link": "https://www.mediaite.com/media/news/trump-unleashes-barrage-of-ai-fantasy-slop-including-sweaty-dunk-in-knicks-uni-and-much-more/",
-   "summary": "President Donald Trump went on an AI posting binge on Saturday, throwing up images of him dunking in a New York Knicks jersey and a whole lot more. The post Trump Unleashes Barrage Of AI Fantasy Slop — Including Sweaty Dunk in Knicks Uni and Much More first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T17:53:16+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1eae01eb5907",
    "title": "Socialism's next test: Swing states",
    "link": "https://www.politico.com/news/2026/05/30/wisconsin-democratic-socialism-midterms-00943605",
@@ -962,16 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-05-29T22:17:22.681+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c9c2f230ee3f",
-   "title": "BREAKING: A federal judge in Miami just made a striking turnabout — essentially reopening Trump's $10 billion case against the IRS, saying that she wanted to investigate \"grievous allegations\" that the hasty deal to resolve it was \"premised on deception.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mmzkim2yq22o",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-05-29T22:10:34.167+00:00",
    "iran_topic": false
   }
  ]
