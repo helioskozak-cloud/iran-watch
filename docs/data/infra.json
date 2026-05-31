@@ -1,5 +1,5 @@
 {
- "generated": "2026-05-31T15:06:04.651758+00:00",
+ "generated": "2026-05-31T19:52:11.988576+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,6 +216,27 @@
  ],
  "incidents": [
   {
+   "title": "US military kills 3 more people aboard vessel in eastern Pacific Ocean",
+   "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll",
+   "source": "Press TV",
+   "published": "2026-05-31T19:51:24.421225+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
+   "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission",
+   "source": "Press TV",
+   "published": "2026-05-31T19:51:24.420786+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
+   "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
+   "source": "Press TV",
+   "published": "2026-05-31T19:51:24.419489+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Ukraine ‘deliberately’ attacked Europe’s largest nuclear power plant: Rosatom",
    "link": "https://presstv.ir/Detail/2026/05/31/769561/Russia-condemns-Ukraine%E2%80%99s-%E2%80%98deliberate-strike%E2%80%99-on-Europe%E2%80%99s-largest-nuclear-power-plant",
    "source": "Press TV",
@@ -223,24 +244,10 @@
    "severity": "info"
   },
   {
-   "title": "US military kills 3 more people aboard vessel in eastern Pacific Ocean",
-   "link": "https://presstv.ir/Detail/2026/05/31/769574/US-military-strike-targets-3-suspected-drug-traffickers-Pacific-Ocean-202-death-toll",
-   "source": "Press TV",
-   "published": "2026-05-31T15:05:19.763564+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
-   "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission",
-   "source": "Press TV",
-   "published": "2026-05-31T15:05:19.763135+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
-   "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
-   "source": "Press TV",
-   "published": "2026-05-31T15:05:19.762217+00:00",
+   "title": "Zobeiri: Guardian of the Persian Gulf’s millennia-old heritage",
+   "link": "https://www.tehrantimes.com/news/526909/Zobeiri-Guardian-of-the-Persian-Gulf-s-millennia-old-heritage",
+   "source": "Tehran Times",
+   "published": "2026-05-31T14:20:27+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-05-31T06:00:21+00:00",
    "severity": "info"
-  },
-  {
-   "title": "UK foreign minister due to visit China and India to discuss global issues",
-   "link": "https://www.al-monitor.com/originals/2026/05/uk-foreign-minister-due-visit-china-and-india-discuss-global-issues",
-   "source": "Al-Monitor",
-   "published": "2026-05-30T23:36:37+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
      "title": "IRGC Navy: 28 vessels permitted to cross Hormuz Strait in past 24 hours",
      "link": "https://presstv.ir/Detail/2026/05/31/769581/IRGC-Navy--28-commercial-vessels-cross-Strait-of-Hormuz-in-24-hours-after-obtaining-permission",
      "source": "Press TV",
-     "published": "2026-05-31T15:05:19.763135+00:00",
+     "published": "2026-05-31T19:51:24.420786+00:00",
      "severity": "info"
     },
     {
      "title": "IRGC shoots down intruding US MQ-1 Predator drone over Persian Gulf",
      "link": "https://presstv.ir/Detail/2026/05/31/769566/IRGC-shoots-down-US-MQ-1-Predator-drone-in-Iranian-skies-over-Persian-Gulf-",
      "source": "Press TV",
-     "published": "2026-05-31T15:05:19.762217+00:00",
+     "published": "2026-05-31T19:51:24.419489+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran Parliament to vote on Hormuz Strait management plan 'soon'",
-     "link": "https://presstv.ir/Detail/2026/05/30/769530/Iran-parliament-Hormuz-management",
-     "source": "Press TV",
-     "published": "2026-05-31T09:59:35.148746+00:00",
+     "title": "Zobeiri: Guardian of the Persian Gulf’s millennia-old heritage",
+     "link": "https://www.tehrantimes.com/news/526909/Zobeiri-Guardian-of-the-Persian-Gulf-s-millennia-old-heritage",
+     "source": "Tehran Times",
+     "published": "2026-05-31T14:20:27+00:00",
      "severity": "info"
     }
    ]
@@ -375,113 +375,473 @@
  ],
  "wh_statements": [
   {
-   "id": "e52dff34db18",
-   "title": "BARTIROMO: What are you going to do about your perception? The Wall Street Journal describes you as 'scandal plagued' PAXTON: The reality is they could say the same thing about Donald Trump",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5tbovctd2v",
+   "id": "c7455e5a8965",
+   "title": "Thanks much Dimitri!",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn6doskdt22t",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:58:24.863+00:00",
+   "published": "2026-05-31T19:52:04.788+00:00",
    "iran_topic": false
   },
   {
-   "id": "e1981b8ca205",
-   "title": "Paxton: \"We need to listen to Donald Trump. What he's trying to accomplish, most Americans want.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t5wm4qv2y",
+   "id": "6670a4ac70fd",
+   "title": "Mehdi Hasan Slams Jewish Organizations for Overlooking Young Republicans Going ‘Full Neo-Nazi’",
+   "link": "https://www.mediaite.com/media/mehdi-hasan-slams-jewish-organizations-for-overlooking-young-republicans-going-full-neo-nazi/",
+   "summary": "Progressive journalist Mehdi Hasan slammed major Jewish-American organizations for saying nothing about young Republicans going \"full neo-Nazi.\" The post Mehdi Hasan Slams Jewish Organizations for Overlooking Young Republicans Going ‘Full Neo-Nazi’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T19:47:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1691e65c2ff9",
+   "title": "Trump: “The DronePort at the Ballroom will be, perhaps, the most sophisticated anywhere in the World! It will safeguard our Nation’s Capital long into the future. Judge Leon should stop playing games w/ America’s Security! If anything happens, he will be held responsible for the Death & Destruction”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn6dfheqe22t",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:56:18.735+00:00",
+   "published": "2026-05-31T19:46:51.075+00:00",
    "iran_topic": false
   },
   {
-   "id": "19fc46ead623",
-   "title": "A country that doesn't impose costs on people this flagrantly hostile to its stated values is already dead. Trump will be gone one day but the rot will live on and fester in countless Respectable People like this",
-   "link": "https://bsky.app/profile/internethippo.bsky.social/post/3mn5t5fqf722k",
+   "id": "ad22f679bed0",
+   "title": "MS NOW Reveals Graham Platner Bailed On Scheduled Interview Amid New Sexting Revelations",
+   "link": "https://www.mediaite.com/media/news/ms-now-reveals-graham-platner-bailed-on-scheduled-interview-amid-new-sexting-revelations/",
+   "summary": "Eugene Daniels revealed that Maine Senate candidate Graham Platner cancelled an appearance on The Weekend after news broke of a new scandal. The post MS NOW Reveals Graham Platner Bailed On Scheduled Interview Amid New Sexting Revelations first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T19:35:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "186afccf9961",
+   "title": "Mike Pence to NBC on Trump's slush fund: \"It's a bad idea from the start. And I would encourage the administration just to drop it ... It's deeply offensive to me that you could have a fund that could even possibly compensate people who assaulted police officers or vandalized the Capitol on Jan. 6.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mn6chp6bo22s",
    "summary": "",
-   "source": "@internethippo",
+   "source": "@kylegriffin1",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:56:01.061+00:00",
+   "published": "2026-05-31T19:30:12.625+00:00",
    "iran_topic": false
   },
   {
-   "id": "7947f38fe096",
-   "title": "Sen. Andy Kim: \"It's a choice. Delaney Hall is run by GEO Group. GEO Group is getting a nearly $1 billion contract to run Delaney Hall. They tell me there is one full-time doctor for 800 detainees. They could have more doctors if they wanted to, but that's cutting into their profits.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t4ynap42z",
+   "id": "2ddfcda8639a",
+   "title": "Which is why we're negotiating with Iran...to open the strait we control.",
+   "link": "https://bsky.app/profile/darinself.com/post/3mn6b5u3j2k2f",
+   "summary": "",
+   "source": "@darinself",
+   "category": "trump_bsky",
+   "published": "2026-05-31T19:06:48.490+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9cb7220749c4",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/6nSDxeF...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn6agn6ye22x",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T18:53:49.512+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d0e72a0d1774",
+   "title": "Khanna on Epstein files: Comer has made this totally partisan. He used two to three months to go after the Clintons, who haven’t been in office for 20 years, and yet he didn’t have Pam Bondi under oath. He didn’t have her testimony public. He didn’t have Howard Lutnick under oath.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn6aer2hfh2e",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T18:52:46.137+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "debab97a082c",
+   "title": "MS NOW Anchor Feels ‘Deep Unease’ About Celebrating America’s 250th Birthday: US Has Never ‘Fully Reckoned With Its Racist Past’",
+   "link": "https://www.mediaite.com/media/ms-now-anchor-feels-deep-unease-about-celebrating-americas-250th-birthday-us-has-never-fully-reckoned-with-its-racist-past/",
+   "summary": "MS NOW's Ali Velshi told his viewers he feels a \"deep unease\" about celebrating the USA's 250th birthday, largely due to \"unresolved racial politics.\" The post MS NOW Anchor Feels ‘Deep Unease’ About Celebrating America’s 250th Birthday: US Has Never ‘Fully Reckoned With Its Racist Past’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T18:40:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4dfef6111bbd",
+   "title": "Pro-MAGA Host Hits Trump On Economy in Pointed Commentary: ‘Mr. President, Your Supporters Are Hurting’",
+   "link": "https://www.mediaite.com/media/news/pro-maga-host-hits-trump-on-economy-in-pointed-commentary-mr-president-your-supporters-are-hurting/",
+   "summary": "Pro-Trump NewsNation host Batya Ungar-Sargon issued a heartfelt plea to Donald Trump by declaring, \"Mr. President, your supporters are hurting.\" The post Pro-MAGA Host Hits Trump On Economy in Pointed Commentary: ‘Mr. President, Your Supporters Are Hurting’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T18:28:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "57b4f6a4751f",
+   "title": "The Pentagon is moving to recruit hundreds of troops to appear as spectators at Trump's UFC cage-fighting event at the White House — and requiring those who attend to pay for their travel and meet height and weight requirements.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mn66tn4vy22s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-05-31T18:25:18.168+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2b691f90d766",
+   "title": "House Democrat Blames ‘Hurt’ of LA Wildfires on Donald Trump",
+   "link": "https://www.mediaite.com/politics/house-democrat-blames-hurt-of-la-wildfires-on-donald-trump/",
+   "summary": "Rep. Ro Khanna (D) blamed Donald Trump for LA's poor response to the devasting wildfires that swept the city in early 2025, not Mayor Karen Bass The post House Democrat Blames ‘Hurt’ of LA Wildfires on Donald Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T18:23:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89fb2fb71604",
+   "title": "Fox’s Maria Bartiromo Confronts Ken Paxton: The Wall St. Journal Calls You ‘Scandal-Plagued’",
+   "link": "https://www.mediaite.com/media/news/foxs-maria-bartiromo-confronts-ken-paxton-the-wall-st-journal-calls-you-scandal-plagued/",
+   "summary": "Fox's Bartiromo confronted Trump-endorsed Senate candidate Ken Paxton about his record — noting the Wall St. Journal has referred to him as \"scandal-plagued.\" The post Fox’s Maria Bartiromo Confronts Ken Paxton: The Wall St. Journal Calls You ‘Scandal-Plagued’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T18:20:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3e0930f7d8ae",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/6nSDxeF...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn64dh5ofs23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:40:27.548+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3bebab5497d",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/6nSDxeF...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn64d65ye223",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:40:18.120+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c35da4114fac",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/6nSDxeF...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn64ctu3pk23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:40:07.311+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b7e4821091e",
+   "title": "Sanders: You know why Trump has a nucleus of support? People say, “I go out and I vote and I’m going nowhere. Democracy is not working. You know what I need? I need a strong guy.” It’s not just in this country. You’re seeing this all over the world.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn64aowdtj2y",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:38:54.765+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6c392eca4d40",
+   "title": "Sanders: What Mamdani is doing is showing that you can have a democratic socialist, progressive ideology and run a city.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn645ur6os2g",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:37:17.631+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "645c0206a861",
+   "title": "Jill Biden Defends Her Husband Flip-Flopping On Hunter Biden Pardon in Splashy CBS Interview: ‘The Process Was Not Fair to Hunter’",
+   "link": "https://www.mediaite.com/politics/jill-biden-defends-her-husband-flip-flopping-on-hunter-biden-pardon-in-splashy-cbs-interview-the-process-was-not-fair-to-hunter/",
+   "summary": "Jill Biden defended ex-President Joe Biden for breaking his word that he would never pardon his son Hunter Biden during her sit-down interview with CBS The post Jill Biden Defends Her Husband Flip-Flopping On Hunter Biden Pardon in Splashy CBS Interview: ‘The Process Was Not Fair to Hunter’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T17:36:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "81f356abc724",
+   "title": "Cocchiarella: The business people think they are the new sages— Sanders: Don’t even use the word business people. Because somebody who owns a company with 30 people is a businessperson. These people are not businesspeople. They are oligarchs.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mn642wdgdm2y",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:35:41.208+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f478bad0f4e",
+   "title": "Supreme Court Justice Samuel Alito's son quietly landed a political appointee job as a lawyer in the Treasury Department early last year — posing a potential conflict of interest as courts wrestle with challenges to Trump's deal to avoid future tax audits and the new slush fund to enrich his allies.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mn642ehnek2s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:35:22.738+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b8b3e3773569",
+   "title": "‘You Just Lied On Camera!’ MS NOW’s Ali Velshi Has Wild Run-in With Protester — Who Falsely Accused Him of Misreporting On ICE Protest",
+   "link": "https://www.mediaite.com/media/news/you-just-lied-on-camera-ms-nows-ali-velshi-has-wild-run-in-with-protester-who-falsely-accused-him-of-misreporting-on-ice-protest/",
+   "summary": "MS NOW's Ali Velshi got into a confrontation with an ICE protester Saturday night after the man accused Velshi of lying on camera about the situation. The post ‘You Just Lied On Camera!’ MS NOW’s Ali Velshi Has Wild Run-in With Protester — Who Falsely Accused Him of Misreporting On ICE Protest first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T17:34:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "50cb0781f5f9",
+   "title": "“Everything costs more and that’s a good thing” is a CRAZY economic message from the White House",
+   "link": "https://bsky.app/profile/angrystaffer.bsky.social/post/3mn62ftbak22v",
+   "summary": "",
+   "source": "@angrystaffer",
+   "category": "trump_bsky",
+   "published": "2026-05-31T17:05:59.872+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3448423dd241",
+   "title": "If you’re like me and can’t bring yourself to watch TV news, especially the Sunday shows, but also want to know what insanity is being said by our government, Aaron is a treasure. Consider subscribing/supporting 👇🏻👇🏻👇🏻",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mn622w5qb22x",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:59:53.804+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7ae1dba1d012",
+   "title": "Trump Official Won’t Commit to Taking Trump’s Name Off Kennedy Center Following Court Order: ‘Not Sure if That’s Gonna Be Appealed’",
+   "link": "https://www.mediaite.com/media/news/trump-official-wont-commit-to-taking-trumps-name-off-kennedy-center-following-court-order-not-sure-if-thats-gonna-be-appealed/",
+   "summary": "Interior Secretary Doug Burgum would not commit to removing Trump's name from the Kennedy Center when confronted about it Sunday — despite a new court order. The post Trump Official Won’t Commit to Taking Trump’s Name Off Kennedy Center Following Court Order: ‘Not Sure if That’s Gonna Be Appealed’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T16:51:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e5e748b62a8f",
+   "title": "At least $2 million in settlements has been agreed to after employees and other critics were fired or penalized over their posts about Charlie Kirk following his killing. The settlements illustrate the limits employers can have in regulating their workers' political rhetoric.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mn5zkv7ldc2o",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:50:55.945+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a5584f148ea0",
+   "title": "‘Deeply Offensive!’ Mike Pence Trashes Trump’s $1.8 Billion ‘Anti-Weaponization’ Fund — Denounces the Prospect of Jan. 6 Rioters Cashing in",
+   "link": "https://www.mediaite.com/media/news/deeply-offensive-mike-pence-trashes-trumps-1-8-billion-anti-weaponization-fund-denounces-the-prospect-of-jan-6-rioters-cashing-in/",
+   "summary": "The former VP teed off on Trump's $1.8 billion fund — condemning the prospect that those convicted of assaulting police officers on Jan. 6 could be compensated. The post ‘Deeply Offensive!’ Mike Pence Trashes Trump’s $1.8 Billion ‘Anti-Weaponization’ Fund — Denounces the Prospect of Jan. 6 Rioters Cashing in first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T16:25:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0cc59fa2c369",
+   "title": "I'm old enough to remember January 9, 2026. You'll never guess what happened next. (Nothing. Nothing happened next.)",
+   "link": "https://bsky.app/profile/ericcolumbus.bsky.social/post/3mn5y3ohqfk2u",
+   "summary": "",
+   "source": "@ericcolumbus",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:24:31.807+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "18d591562dc6",
+   "title": "It’s telling that when Hassett was asked about the spike in delinquent credit card balances, he talked about the potential harm to credit card companies, not people.",
+   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mn5xh2z47s2y",
+   "summary": "",
+   "source": "@markjacob",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:13:00.322+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "48eacb11b8f4",
+   "title": "Okay, honestly? It’s too easy to beat up on Kevin Hassett. There should be a mercy rule.",
+   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mn5x72fuhc2h",
+   "summary": "",
+   "source": "@kairyssdal",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:08:31.257+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "04f39c45246b",
+   "title": "the things I am not posting right now",
+   "link": "https://bsky.app/profile/bcdreyer.social/post/3mn5x6aufbk2y",
+   "summary": "",
+   "source": "@bcdreyer",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:08:04.470+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8ef6e741017c",
+   "title": "This answer alone should destroy this administration. This conversation is essentially: “people are hurting.” “ceos are fine.”",
+   "link": "https://bsky.app/profile/chrisgeidner.bsky.social/post/3mn5wxicy2s2v",
+   "summary": "",
+   "source": "@chrisgeidner",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:04:17.407+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91773337e11f",
+   "title": "holy shit nobody has ever answered a question worse",
+   "link": "https://bsky.app/profile/jamisonfoser.bsky.social/post/3mn5wtwrtd22l",
+   "summary": "",
+   "source": "@jamisonfoser",
+   "category": "trump_bsky",
+   "published": "2026-05-31T16:02:18.357+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f69cc758515",
+   "title": "Pence: \"This talk of a weaponization fund, the idea of creating a fund that could compensate people that assaulted police officers and vandalized the Capitol that day is totally unacceptable. My hope is the administration will drop it. Drop the idea entirely.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5wnk2iwf24",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:55:47.313+00:00",
+   "published": "2026-05-31T15:58:43.669+00:00",
    "iran_topic": false
   },
   {
-   "id": "24117e0ed9ad",
-   "title": "Sen. Chris Murphy: \"I just think ultimately Donald Trump has decided he does not want to help Ukraine, and there doesn't seem to be enough courage in the Republican caucus to fight back\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5t3w4fve2y",
+   "id": "ebb553ac68c3",
+   "title": "The countless hours I pour into bringing you the newsiest clips each week is only possible thanks to the support of paid subscribers. If you value my work, please consider becoming one. I'm extremely proud of our coverage at Public Notice and think you'll enjoy it.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5wbf3uqs2y",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:55:11.108+00:00",
+   "published": "2026-05-31T15:51:55.831+00:00",
    "iran_topic": false
   },
   {
-   "id": "acc1b1e418fc",
-   "title": "Sen. Andy Kim: \"People are angry, frustrated, feeling like they're seeing and hearing about things happening on our soil with our taxpayer dollars that are not in line with our values as a nation. I feel it too.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5slp4ouk26",
+   "id": "ec91539da9a2",
+   "title": "Crawford: \"The War Powers Act is flawed in and of itself. If we're gonna address the president's authorities, we need to probably create another war powers act from whole cloth that does not impede his ability to continue to do what's necessary to defend this nation. We can't hobble the president.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5vvghwfm2o",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:46:06.909+00:00",
+   "published": "2026-05-31T15:45:14.608+00:00",
    "iran_topic": false
   },
   {
-   "id": "5b6fcdc5b2cc",
-   "title": "Burgum used to be a \"normal\" figure, w successful tech-biz career. When he was running for prez in 2024 primaries, against DJT, he told Meet the Press that he \"wouldn't do business\" w Trump, because \"you're judged by the company you keep.\" www.youtube.com/watch?v=VRJU... Indeed you are.",
-   "link": "https://bsky.app/profile/jfallows.bsky.social/post/3mn5skjzrv22e",
-   "summary": "",
-   "source": "@jfallows",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:45:28.029+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "03c265f10104",
-   "title": "In what universe is the President's daughter-in-law interviewing the President called \"journalism\"?",
-   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mn5sf4qhos2y",
-   "summary": "",
-   "source": "@prchovanec",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:42:26.320+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d99f244b4e49",
-   "title": "The Coolidge coin is actually quite a rare collectible precisely because the public didn't like it and the Treasury eventually melted most of them down. As a result, the rule against living persons on coins was instituted soon thereafter.",
-   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mn5s2pvsfk2y",
-   "summary": "",
-   "source": "@prchovanec",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:36:37.318+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "78db5c3b4f89",
-   "title": "Bessent on Trump's face appearing on a $250 bill: \"I think it's fitting. President Trump is the president during our 250th anniversary. Calvin Coolidge was president during the 150th anniversary and there was a coin printed for him. I think it's a great celebratory note for a great president.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rsckimi2z",
+   "id": "bbb2d2779b43",
+   "title": "Intelligence Committee Chair Rick Crawford: \"The strait is under the United States' control right now\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5vrxbafr24",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:31:54.868+00:00",
+   "published": "2026-05-31T15:43:17.997+00:00",
    "iran_topic": false
   },
   {
-   "id": "9cd3a0446c24",
-   "title": "BARTIROMO: If we continue to spend all the money on Medicare, Medicaid, Social Security, we won't have any money left to spend on anything else, right? BESSENT: We gotta work on the here and now. I always call it, 'crawl, walk, run.'",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rpbn4ai25",
+   "id": "06a91a8f64b4",
+   "title": "Take that back. The DNC should give him an entire night at the convention. bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mn5vrvgdg22r",
+   "summary": "",
+   "source": "@bgrueskin",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:43:16.079+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "45a8c1a25692",
+   "title": "Intelligence Committee Chair Rick Crawford on Iran: \"The clear-eyed view is listening to the president, who has access to more information than anybody does. There may be some individuals who take delight in undermining the president through leaks. I would encourage them to get with Team America.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5vq25pek2v",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-05-31T14:30:13.237+00:00",
+   "published": "2026-05-31T15:42:13.914+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6c433cb9f126",
+   "title": "Like an AI generator of Democratic midterm ads: Louder Kevin - keep calling inflation “a technical matter” and keep working to make the government “meaner”",
+   "link": "https://bsky.app/profile/murshedz.bsky.social/post/3mn5vh4rlik2j",
+   "summary": "",
+   "source": "@murshedz",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:37:14.690+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b9dd548ad60",
+   "title": "KARL: The Exxon Mobil senior VP said prices will 'shoot up' after the next 2 to 3 weeks if a deal isn't struck HASSETT: There's a lot of pressure on Iran to finally agree to the president's terms",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5vghr5z52y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:36:52.642+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6e99d8ea7132",
+   "title": "Hassett: \"When you say 'American consumers are really down in the dumps,' what it is is Democrats are in the dumps. Republicans have actually stayed around 80% on that survey all the way through.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mn5v4rnqk32w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:31:27.452+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c17ab2446417",
+   "title": "“Government stats say incomes after adjusting for inflation are now declining YoY. What do you say to that?” “Yeah, well, we are also starving people and kicking them off health care”",
+   "link": "https://bsky.app/profile/gelliottmorris.com/post/3mn5v22effc26",
+   "summary": "",
+   "source": "@gelliottmorris",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:29:55.953+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c710ef27b891",
+   "title": "‘I Have Concerns’: Cory Booker Waffles On Graham Platner After Explosive New Revelations",
+   "link": "https://www.mediaite.com/media/news/i-have-concerns-cory-booker-waffles-on-graham-platner-after-explosive-new-revelations/",
+   "summary": "Sen. Cory Booker (D-NJ) waffled on the Senate candidacy of Maine Democrat Graham Platner when confronted Sunday by ABC's Jon Karl. The post ‘I Have Concerns’: Cory Booker Waffles On Graham Platner After Explosive New Revelations first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-05-31T15:28:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fe7db9660b54",
+   "title": "“Government stats say incomes after adjusting for inflation are now declining YoY. What do you say to that?” “Well, it’s true, but/and partly because we have reduced incomes for people by cutting their social programs.” Not a mystery why Trump’s approval on the economy is -50",
+   "link": "https://bsky.app/profile/gelliottmorris.com/post/3mn5uv2ktm22v",
+   "summary": "",
+   "source": "@gelliottmorris",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:27:08.392+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3449f0ec82d1",
+   "title": "Privatizing prisons and detention facilities is one of the worst public policy decisions this country has ever made. bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/ronfilipkowski.bsky.social/post/3mn5una7n7c2p",
+   "summary": "",
+   "source": "@ronfilipkowski",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:22:45.881+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0ebbe8609690",
+   "title": "Oh man, what happened to America after the great Coolidge presidency? Was it awesome? I bet it was awesome.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mn5tub463s2e",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-05-31T15:08:47.956+00:00",
    "iran_topic": false
   },
   {
@@ -492,136 +852,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-05-31T14:29:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "66ac9b7801a5",
-   "title": "Bartiromo to Bessent: \"The Trump accounts have been incredibly successful. My niece just had a baby, she's seven weeks old, and I'm encouraging them to sign up for the Trump accounts. This was such a good idea.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rkaqf7a2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:27:24.527+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26f2f9d1ebb1",
-   "title": "Bessent on tariffs: \"The EU is willing to pay 15% tariffs and take down the tariffs on us. It's an incredible deal.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rin3lqg2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:26:30.366+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e9d38f726343",
-   "title": "\"People are so anti-President Trump.\" 🎯 He's on a roll today.",
-   "link": "https://bsky.app/profile/gottalaff.bsky.social/post/3mn5rhv7gjk2l",
-   "summary": "",
-   "source": "@gottalaff",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:26:05.200+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5adbb7a98407",
-   "title": "🤷‍♂️",
-   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mn5rfau5f22i",
-   "summary": "",
-   "source": "@kairyssdal",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:24:36.892+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "de5b07cbd09b",
-   "title": "Bessent: \"Many people have said to me, 'Are you surprised the market has gone up on bad news?' I say, I don't think the news is that bad. I think the news is bad. The quality of the reporting. The anti-Americanism. People are so anti-President Trump.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5red3yun2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:24:05.679+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dd1f8c798d68",
-   "title": "BARTIROMO: We are are seeing a spike in inflation BESSENT: It's a very limited spike",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5rabkugt25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:21:49.851+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f1cc7b080888",
-   "title": "BARTIROMO: A lot of people have asked me recently, 'Will President Trump finish the job?' BESSENT: What does 'finish the job' mean?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5r5iwgy526",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:20:16.907+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6894481a6ec5",
-   "title": "BARTIROMO: So what are the markers you're gonna use to ensure Iran is keeping their promises? BESSENT: Again, we'll see",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qytxpdj2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:17:40.710+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8666913ea74c",
-   "title": "Burgum: \"His rapport and understanding of how construction works on complex projects, restorations, new construction, is unmatched in the presidency. Let's turn him loose. The things that he touches he makes better.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qvgx2ms27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:15:46.394+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7135797d4d0b",
-   "title": "Burgum: \"His rapport and understanding of how construction works on complex projects, restorations, new construction, is unmatched in the presidency. Let's turn him loose. The things that he touches he makes better.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qszxmql2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:14:25.584+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d2e8003eb81",
-   "title": "BASH: On reflecting pool, the Times reports you awarded 2 multimillion no bid contracts BURGUM: Well, this is expedited contracting BASH: Does that mean 'no bid'? BURGUM: You're implying something untoward is going on BASH: The company doing the pool has a 20% project margin. Standard is 6-12%",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qrdr2or27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:13:28.825+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b31fe8169ee",
-   "title": "BASH: There are questions about the private funding for Freedom 250. It's not transparent. Should the public show know? BURGUM: Transparency is always a good thing. I work for the president I think i most transparent ever BASH: So you'll make the donors public? BURGUM: It's not about the donors",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qh3pa6l24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:07:44.842+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "411205a6661f",
-   "title": "BURGUM: The celebration of the 250 is a nonpartisan event BASH: But Trump called it a 'Make America Great Again rally,' which is the name of his political organization BURGUM: Well, it is, but that's something I think we all can certainly understand",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mn5qam3t7224",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-05-31T14:04:07.149+00:00",
    "iran_topic": false
   },
   {
@@ -652,16 +882,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-05-31T11:23:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "579bd3286e15",
-   "title": "We’re about six months away from the time in the election cycle when presidential candidates start officially launching their campaigns. Will Repubs jump in and act like Trump is a normal lame duck? Will Trump acknowledge he can’t run again?",
-   "link": "https://bsky.app/profile/danahoule.bsky.social/post/3mn4oeg7yoc27",
-   "summary": "",
-   "source": "@danahoule",
-   "category": "trump_bsky",
-   "published": "2026-05-31T03:57:48.004+00:00",
    "iran_topic": false
   },
   {
@@ -726,9 +946,9 @@
   },
   {
    "id": "37b09a1835c6",
-   "title": "MAGA Fan Ticked Off By $640 Trump Watching Missing ‘T’",
+   "title": "MAGA Fan Ticked Off By $640 Trump Watch Missing ‘T’",
    "link": "https://www.mediaite.com/media/news/maga-fans-ticked-off-by-640-trump-watching-missing-t/",
-   "summary": "A Providence, R.I., man who bought a branded pink \"Trump\" watch for his wife for $640 ended up getting a \"Rump\" watch instead. The post MAGA Fan Ticked Off By $640 Trump Watching Missing ‘T’ first appeared on Mediaite .",
+   "summary": "A Providence, R.I., man who bought a branded pink \"Trump\" watch for his wife for $640 ended up getting a \"Rump\" watch instead. The post MAGA Fan Ticked Off By $640 Trump Watch Missing ‘T’ first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-05-31T00:20:03+00:00",
@@ -753,226 +973,6 @@
    "category": "mediaite_all",
    "published": "2026-05-30T22:57:21+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "a07c1c097faf",
-   "title": "Trump Mocks Thomas Massie and Tucker Carlson For Driving the ‘Loser’ Anti-MAGA Bandwagon",
-   "link": "https://www.mediaite.com/politics/trump-mocks-thomas-massie-and-tucker-carlson-for-driving-the-loser-anti-maga-bandwagon/",
-   "summary": "Trump mocked Tucker Carlson and lame duck Rep. Thomas Massie (R-KY) for driving the \"loser\" gang that has went against his MAGA movement The post Trump Mocks Thomas Massie and Tucker Carlson For Driving the ‘Loser’ Anti-MAGA Bandwagon first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T22:41:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cacb21cc8821",
-   "title": "Al Sharpton Makes Wild Comparison Between Trump’s UFC White House Event and ‘Fights for the Slave Masters’",
-   "link": "https://www.mediaite.com/media/al-sharpton-makes-wild-comparison-between-trumps-ufc-white-house-event-and-fights-for-the-slave-masters/",
-   "summary": "Al Sharpton argued Trump coordinated the upcoming UFC event at the White House because he is nostalgic for a time when fights were staged for slave masters. The post Al Sharpton Makes Wild Comparison Between Trump’s UFC White House Event and ‘Fights for the Slave Masters’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T22:10:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1aa64709eec9",
-   "title": "Trump Calls Out Pope Leo for Hanging With ‘Useless’ Chicago Mayor Brandon Johnson",
-   "link": "https://www.mediaite.com/politics/trump-calls-out-pope-leo-for-hanging-with-useless-chicago-mayor-brandon-johnson/",
-   "summary": "Trump potentially reignited his feud with Pope Leo XIV, posting someone at the Vatican should have told him not to waste time with Chicago Mayor Brandon Johnson The post Trump Calls Out Pope Leo for Hanging With ‘Useless’ Chicago Mayor Brandon Johnson first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T21:21:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "06a58b3873ca",
-   "title": "New York Times Hits Back At White House Spox’s Denial on JD Vance Story",
-   "link": "https://www.mediaite.com/media/news/new-york-times-hits-back-at-white-house-spoxs-denial-on-jd-vance-story/",
-   "summary": "The New York Times hit back at Steven Cheung's insistence that their story about Vice President J.D. Vance contained false information. The post New York Times Hits Back At White House Spox’s Denial on JD Vance Story first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T21:13:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "df150784b92a",
-   "title": "So many artists have pulled out of Trump's partisan America 250 event that Trump himself now has to \"headline\" the opening ceremony.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mn3wqsfh622b",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-05-30T20:55:13.616+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e2e700b10da1",
-   "title": "Pro-MAGA Pundit Brawls With CNN Panel Over Cost of Trump’s Pool Revamp: ‘So We Should Just Let Everything Go To Hell?’",
-   "link": "https://www.mediaite.com/media/news/pro-maga-pundit-brawls-with-cnn-panel-over-cost-of-trumps-pool-revamp-so-we-should-just-let-everything-go-to-hell/",
-   "summary": "Lydia Moynihan got her CNN panel all riled up when she defended President Donald Trump's $13 million refurbishing of the Lincoln Memorial Reflecting Pool The post Pro-MAGA Pundit Brawls With CNN Panel Over Cost of Trump’s Pool Revamp: ‘So We Should Just Let Everything Go To Hell?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T20:44:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d30d498d6a90",
-   "title": "Maine Senate Candidate Graham Platner’s Wife Flagged ‘Sexually Explicit Texts’ He Sent to Other Women: Report",
-   "link": "https://www.mediaite.com/media/news/maine-senate-candidate-graham-platners-wife-flagged-sexually-explicit-texts-he-sent-to-other-women-report/",
-   "summary": "Graham Platner,who's been under fire for his Nazi-coded tattoo and problematic Reddit posts, was reportedly caught sexting other women, according to his wife. The post Maine Senate Candidate Graham Platner’s Wife Flagged ‘Sexually Explicit Texts’ He Sent to Other Women: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T20:40:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d0e80f3d57c6",
-   "title": "Ben Shapiro Calls out the Ring Wing’s ‘Conspiracy Problem’",
-   "link": "https://www.mediaite.com/media/ben-shapiro-calls-out-the-ring-wings-conspiracy-problem/",
-   "summary": "Conservative pundit Ben Shapiro said his own side of the political aisle has a \"conspiracy problem\" — and it routinely boils down to antisemitism. The post Ben Shapiro Calls out the Ring Wing’s ‘Conspiracy Problem’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T20:09:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "44f2ad6b1892",
-   "title": "CNN Medical Expert Has Some Big Questions For Trump’s Doctor Following ‘Excellent Health’ Assessment",
-   "link": "https://www.mediaite.com/media/news/cnn-medical-expert-has-some-big-questions-for-trumps-doctor-following-excellent-health-assessment/",
-   "summary": "Jonathan Reiner had some big questions for Donald Trump's doctor following Dr. Sean Barbabella's latest report on the president's \"excellent health.\" The post CNN Medical Expert Has Some Big Questions For Trump’s Doctor Following ‘Excellent Health’ Assessment first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T20:01:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3a6b99cd3ecc",
-   "title": "CBS Throw Obvious Jab at Stephen Colbert for Losing $40 Million Per Year",
-   "link": "https://www.mediaite.com/media/cbs-throw-obvious-jab-at-stephen-colbert-for-losing-40-million-per-year/",
-   "summary": "CBS took a shot at Stephen Colbert — without calling him out by name — for losing a ton of money each year in a statement that championed his replacement. The post CBS Throw Obvious Jab at Stephen Colbert for Losing $40 Million Per Year first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T19:44:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "51ed25f2183c",
-   "title": "Critics on Both Sides Mock Trump Replacing Cancelling Artists with Himself at ‘Freedom 250’ Concert: ‘Lame and Boring’",
-   "link": "https://www.mediaite.com/media/news/critics-on-both-sides-mock-trump-replacing-cancelling-artists-with-himself-at-freedom-250-concert-lame-and-boring/",
-   "summary": "President Trump found critics on the left and right after revealing he's considering scratching a planned \"Freedom 250\" concert in favor of him giving a speech. The post Critics on Both Sides Mock Trump Replacing Cancelling Artists with Himself at ‘Freedom 250’ Concert: ‘Lame and Boring’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T19:42:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1014d12e8b1d",
-   "title": "James Carville Calls Out CNN Host Accusing Him of ‘Mindset’ Similar to Jan 6 Rioters About Trump: ‘I Am Not a Criminal’",
-   "link": "https://www.mediaite.com/media/tv/james-carville-calls-out-cnn-host-accusing-him-of-mindset-similar-to-jan-6-rioters-about-trump-i-am-not-a-criminal/",
-   "summary": "James Carville pushed back on CNN's Smerconish after being accused of having a \"mindset\" similar to January 6 Capitol rioters when it comes to President Trump. The post James Carville Calls Out CNN Host Accusing Him of ‘Mindset’ Similar to Jan 6 Rioters About Trump: ‘I Am Not a Criminal’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T19:01:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a486d2fdabca",
-   "title": "CNN’s Abby Phillip Stunned By Dell’s Skyrocketing Stock Price Since Trump Bought It: ‘Would Have Been a Scandal’ for Biden",
-   "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-stunned-by-dells-skyrocketing-stock-price-since-trump-bought-it-would-have-been-a-scandal-for-biden/",
-   "summary": "Abby Phillip was shocked to see how much Dell's stock has \"skyrocketed\" since Trump told fans to invest in the company — right after he did himself The post CNN’s Abby Phillip Stunned By Dell’s Skyrocketing Stock Price Since Trump Bought It: ‘Would Have Been a Scandal’ for Biden first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T18:47:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4ff9c4beff03",
-   "title": "Trump Lashes Out At Fans Slamming NFL Star Jaxson Dart: ‘THEY ARE LOSERS!’",
-   "link": "https://www.mediaite.com/media/sports/trump-lashes-out-at-fans-slamming-nfl-star-jaxson-dart-they-are-losers/",
-   "summary": "President Donald Trump lashed out Saturday at fans and teammates slamming NFL star Jaxson Dart for doubling down on his rally support. The post Trump Lashes Out At Fans Slamming NFL Star Jaxson Dart: ‘THEY ARE LOSERS!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-05-30T18:23:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1eae01eb5907",
-   "title": "Socialism's next test: Swing states",
-   "link": "https://www.politico.com/news/2026/05/30/wisconsin-democratic-socialism-midterms-00943605",
-   "summary": "Francesca Hong is part of an array of lefty candidates running in competitive states emboldened by a turn toward economic populism amid widespread cost-of-living concerns.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-05-30T15:05:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0a96434ee49d",
-   "title": "Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma",
-   "link": "https://www.politico.com/news/2026/05/30/trump-jumps-into-republican-primaries-for-governor-in-south-carolina-iowa-and-oklahoma-00943600",
-   "summary": "Contests in those states have pitted allies against each other in a fierce competition for the president's endorsement.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-05-30T14:31:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "859fd9a186a5",
-   "title": "\"A new low\" — watchdog sounds off on Trump's J6 slush fund",
-   "link": "https://www.publicnotice.co/p/donald-sherman-crew-interview-trump-corruption",
-   "summary": "\"It's an effort to signal to the violent element of his base.\"",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-05-30T10:17:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "63fbb699b915",
-   "title": "CONCORD, N.H. (AP) — Federal judge sides with voting rights groups, says New Hampshire must loosen requirements to prove citizenship to vote.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mmzvx6t6oc2m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-05-30T01:35:34.757+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fde1592df391",
-   "title": "BREAKING: The rookie federal prosecutor who brought the case against James Comey — accusing him of threatening Trump's life by posting a photo of seashells on Instagram — has stepped off the case.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mmzoygsezc2o",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-05-29T23:31:00.482+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "42f16940e3d7",
-   "title": "Trump Aides Reportedly Discussing Whether to Kill ‘Anti-Weaponization’ Fund",
-   "link": "https://www.mediaite.com/politics/trump/new-trump-aides-reportedly-discussing-whether-to-kill-anti-weaponization-fund/",
-   "summary": "Top advisers to President Donald Trump have discussed nixing the $1.8 billion \"anti-weaponization\" fund, The Wall Street Journal reported on Friday evening. The post Trump Aides Reportedly Discussing Whether to Kill ‘Anti-Weaponization’ Fund first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-05-29T23:21:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5d075079ba4c",
-   "title": "Full interview and more from MeidasTouch here: youtu.be/Owj8lTGoRRg",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mmzkurogqc2y",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-05-29T22:17:22.682+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8e7cd1c0f17",
-   "title": "Acton: We love the Cavs. Ramaswamy managed to score some $60,000 courtside tickets, but was apparently found spending all his time trying to get into the Knicks locker room. When you love Ohio, you’re trying to get into the Cavs locker room.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mmzkurnt7c2y",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-05-29T22:17:22.681+00:00",
-   "iran_topic": false
   }
  ]
 }
