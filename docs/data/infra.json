@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-01T19:29:18.484127+00:00",
+ "generated": "2026-06-01T19:31:31.140904+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -17,27 +17,27 @@
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.24,
-   "change": 4.88,
-   "change_pct": 5.59,
+   "price": 92.19,
+   "change": 4.83,
+   "change_pct": 5.53,
    "spark": [
     88.68000030517578,
     88.9000015258789,
     87.36000061035156,
-    92.23999786376953
+    92.19000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4516.3,
-   "change": -44.2,
-   "change_pct": -0.97,
+   "price": 4516.0,
+   "change": -44.5,
+   "change_pct": -0.98,
    "spark": [
     4447.5,
     4499.2998046875,
     4560.5,
-    4516.2998046875
+    4516.0
    ]
   },
   "DX-Y.NYB": {
@@ -45,54 +45,54 @@
    "symbol": "DX-Y.NYB",
    "price": 99.18,
    "change": 0.27,
-   "change_pct": 0.28,
+   "change_pct": 0.27,
    "spark": [
     99.20999908447266,
     99.0199966430664,
     98.91000366210938,
-    99.18499755859375
+    99.18199920654297
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7613.54,
-   "change": 33.48,
-   "change_pct": 0.44,
+   "price": 7612.77,
+   "change": 32.71,
+   "change_pct": 0.43,
    "spark": [
     7519.1201171875,
     7520.35986328125,
     7563.6298828125,
     7580.06005859375,
-    7613.5400390625
+    7612.77001953125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 135.09,
-   "change": 6.0,
-   "change_pct": 4.64,
+   "price": 135.06,
+   "change": 5.97,
+   "change_pct": 4.62,
    "spark": [
     137.0,
     131.02999877929688,
     130.77999877929688,
     129.08999633789062,
-    135.0850067138672
+    135.05999755859375
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.79,
-   "change": 0.47,
-   "change_pct": 3.07,
+   "price": 15.8,
+   "change": 0.48,
+   "change_pct": 3.13,
    "spark": [
     17.010000228881836,
     16.290000915527344,
     15.739999771118164,
     15.319999694824219,
-    15.789999961853027
+    15.800000190734863
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.17,
    "change": -0.12,
-   "change_pct": -3.65,
+   "change_pct": -3.62,
    "spark": [
     3.0399999618530273,
     3.2850000858306885,
     3.2899999618530273,
-    3.1700000762939453
+    3.1710000038146973
    ]
   }
  },
@@ -233,15 +233,22 @@
    "title": "IRGC Navy approves transit of 15 ships via Hormuz Strait in past 24 hours",
    "link": "https://presstv.ir/Detail/2026/06/01/769654/IRGC-Navy-coordinates-passage-15-ships-Strait-of-Hormuz-",
    "source": "Press TV",
-   "published": "2026-06-01T19:28:34.971942+00:00",
+   "published": "2026-06-01T19:30:36.241698+00:00",
    "severity": "info"
   },
   {
    "title": "Iran to allow more Japanese ships to pass Strait of Hormuz: Pezeshkian",
    "link": "https://presstv.ir/Detail/2026/06/01/769659/Iran-Pezeshkian-phone-call-Japan-PM-shipping-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-01T19:28:34.971520+00:00",
+   "published": "2026-06-01T19:30:36.241271+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Gaza-bound aid ship begins voyage from Sweden",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/gaza-bound-aid-ship-begins-voyage-from-sweden?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-01T19:09:14+00:00",
+   "severity": "low"
   },
   {
    "title": "Analysis: Could Hormuz be the crisis that finally makes the world rethink farming? reut.rs/4xkn5S7",
@@ -312,13 +319,6 @@
    "source": "Press TV",
    "published": "2026-06-01T15:29:38.220570+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Pezeshkian: Iran committed to diplomacy, ready to ensure shipping security in Strait of Hormuz",
-   "link": "https://en.irna.ir/news/86170617/Pezeshkian-Iran-committed-to-diplomacy-ready-to-ensure-shipping",
-   "source": "IRNA",
-   "published": "2026-06-01T14:53:30+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,7 +326,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 9,
+   "incident_count": 8,
    "recent": [
     {
      "title": "Iran deal on nukes, missiles, Hormuz, and terror cash: A guide for the perplexed - analysis",
@@ -339,14 +339,14 @@
      "title": "IRGC Navy approves transit of 15 ships via Hormuz Strait in past 24 hours",
      "link": "https://presstv.ir/Detail/2026/06/01/769654/IRGC-Navy-coordinates-passage-15-ships-Strait-of-Hormuz-",
      "source": "Press TV",
-     "published": "2026-06-01T19:28:34.971942+00:00",
+     "published": "2026-06-01T19:30:36.241698+00:00",
      "severity": "info"
     },
     {
      "title": "Iran to allow more Japanese ships to pass Strait of Hormuz: Pezeshkian",
      "link": "https://presstv.ir/Detail/2026/06/01/769659/Iran-Pezeshkian-phone-call-Japan-PM-shipping-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-01T19:28:34.971520+00:00",
+     "published": "2026-06-01T19:30:36.241271+00:00",
      "severity": "info"
     }
    ]
@@ -382,6 +382,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "16e34c613993",
+   "title": "Trump on his message to Americans suffering because of high gas prices: \"Once you explain that this is all about Iran having a nuclear weapon, people are willing to pay a little bit more.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnasxrxgek2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-01T19:30:51.763+00:00",
+   "iran_topic": true
+  },
   {
    "id": "70440bfe2a86",
    "title": "EAMON JAVERS Are you worried about oil prices— PRESIDENT TRUMP No EAMON JAVERS Given the apparent breakdown of negotiations? No? PRESIDENT TRUMP No, I don’t worry about that, no.",
@@ -940,16 +950,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-01T10:17:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6f48a6a4dc1b",
-   "title": "Most incredible Colin Robinson vibes from this guy.",
-   "link": "https://bsky.app/profile/goangelo.bsky.social/post/3mn6zy43ndk23",
-   "summary": "",
-   "source": "@goangelo",
-   "category": "trump_bsky",
-   "published": "2026-06-01T02:30:59.100+00:00",
    "iran_topic": false
   },
   {
