@@ -1,98 +1,98 @@
 {
- "generated": "2026-06-02T18:47:47.853404+00:00",
+ "generated": "2026-06-02T19:03:06.178927+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 96.08,
-   "change": 1.1,
-   "change_pct": 1.16,
+   "price": 96.11,
+   "change": 1.13,
+   "change_pct": 1.19,
    "spark": [
     93.70999908447266,
     92.05000305175781,
     94.9800033569336,
-    96.08000183105469
+    96.11000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 93.87,
-   "change": 1.71,
-   "change_pct": 1.86,
+   "price": 93.89,
+   "change": 1.73,
+   "change_pct": 1.88,
    "spark": [
     88.9000015258789,
     87.36000061035156,
     92.16000366210938,
-    93.87000274658203
+    93.88999938964844
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4516.2,
-   "change": 41.0,
-   "change_pct": 0.92,
+   "price": 4518.8,
+   "change": 43.6,
+   "change_pct": 0.97,
    "spark": [
     4499.2998046875,
     4560.5,
     4475.2001953125,
-    4516.2001953125
+    4518.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.26,
-   "change": 0.06,
-   "change_pct": 0.06,
+   "price": 99.22,
+   "change": 0.02,
+   "change_pct": 0.02,
    "spark": [
     99.0199966430664,
     98.91000366210938,
     99.19999694824219,
-    99.25700378417969
+    99.22200012207031
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7605.48,
-   "change": 5.52,
-   "change_pct": 0.07,
+   "price": 7609.46,
+   "change": 9.5,
+   "change_pct": 0.13,
    "spark": [
     7520.35986328125,
     7563.6298828125,
     7580.06005859375,
     7599.9599609375,
-    7605.47998046875
+    7609.4599609375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 137.47,
-   "change": 1.97,
-   "change_pct": 1.45,
+   "price": 137.49,
+   "change": 1.99,
+   "change_pct": 1.47,
    "spark": [
     131.02999877929688,
     130.77999877929688,
     129.08999633789062,
     135.5,
-    137.47000122070312
+    137.49000549316406
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.83,
-   "change": -0.22,
-   "change_pct": -1.37,
+   "price": 15.82,
+   "change": -0.23,
+   "change_pct": -1.43,
    "spark": [
     16.290000915527344,
     15.739999771118164,
     15.319999694824219,
     16.049999237060547,
-    15.829999923706055
+    15.819999694824219
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.17,
    "change": -0.01,
-   "change_pct": -0.31,
+   "change_pct": -0.41,
    "spark": [
     3.2850000858306885,
     3.2899999618530273,
     3.178999900817871,
-    3.1689999103546143
+    3.1659998893737793
    ]
   }
  },
@@ -226,15 +226,29 @@
    "title": "IRGC Navy: 24 vessels passed through Strait of Hormuz under its coordination",
    "link": "https://presstv.ir/Detail/2026/06/02/769707/Iran-IRGC-Navy-vessels-transit-Strait-of-Hormuz-coordination-security-arrangements",
    "source": "Press TV",
-   "published": "2026-06-02T18:47:05.395610+00:00",
+   "published": "2026-06-02T19:02:21.468706+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy strikes US-Israeli cargo ship MSC Sariska in retaliatory attack",
    "link": "https://presstv.ir/Detail/2026/06/01/769682/IRGC-Navy-strikes-US-Israeli-cargo-ship-MSC-Sariska-in-retaliation-for-attack-on-Iranian-vessel",
    "source": "Press TV",
-   "published": "2026-06-02T18:47:05.394711+00:00",
+   "published": "2026-06-02T19:02:21.467812+00:00",
    "severity": "high"
+  },
+  {
+   "title": "Hezbollah vows deep strikes inside occupied territories if Israel attacks Beirut",
+   "link": "https://presstv.ir/Detail/2026/06/02/769733/Lebanon-Hezbollah-Israel-attack-Beirut-retaliation-Qamati",
+   "source": "Press TV",
+   "published": "2026-06-02T19:02:21.467138+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rubio says Iran opening up on nuclear issue, as Trump insists talks ‘continuous’",
+   "link": "https://www.timesofisrael.com/rubio-says-iran-opening-up-on-nuclear-issue-as-trump-insists-talks-continuous/",
+   "source": "Times of Israel",
+   "published": "2026-06-02T18:49:56+00:00",
+   "severity": "low"
   },
   {
    "title": "US pushing Oman to break ties with Iran, sees neutrality as threat - report",
@@ -305,34 +319,20 @@
    "source": "War on the Rocks",
    "published": "2026-06-02T07:15:59+00:00",
    "severity": "info"
-  },
-  {
-   "title": "IRGC: US-Israeli-owned cargo ship hit in retaliatory missile operation",
-   "link": "https://en.irna.ir/news/86171038/IRGC-US-Israeli-owned-cargo-ship-hit-in-retaliatory-missile",
-   "source": "IRNA",
-   "published": "2026-06-02T05:44:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran Suspended Talks, Struck Kuwait, and Threatened Hormuz — the Audience Was the Senate",
-   "link": "https://www.reddit.com/r/worldnews/comments/1tuanax/iran_suspended_talks_struck_kuwait_and_threatened/",
-   "source": "r/worldnews",
-   "published": "2026-06-02T00:13:31+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 6,
+   "status": "ACTIVE",
+   "incident_count": 5,
    "recent": [
     {
      "title": "IRGC Navy: 24 vessels passed through Strait of Hormuz under its coordination",
      "link": "https://presstv.ir/Detail/2026/06/02/769707/Iran-IRGC-Navy-vessels-transit-Strait-of-Hormuz-coordination-security-arrangements",
      "source": "Press TV",
-     "published": "2026-06-02T18:47:05.395610+00:00",
+     "published": "2026-06-02T19:02:21.468706+00:00",
      "severity": "info"
     },
     {
@@ -374,6 +374,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "76334418b446",
+   "title": "Republican Congressman Straight Up Declares ‘Homosexuality Has No Place in America’",
+   "link": "https://www.mediaite.com/politics/republican-congressman-straight-up-declares-homosexuality-has-no-place-in-america/",
+   "summary": "Ogles, who has long stirred controversy with his bigoted, trollish rhetoric, added, 'Happy Nuclear Family Month.' The post Republican Congressman Straight Up Declares ‘Homosexuality Has No Place in America’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-02T18:48:50+00:00",
+   "iran_topic": true
+  },
   {
    "id": "6b451d042ff3",
    "title": "They're looking for a pretext to attack the ACA. Again.",
@@ -913,16 +923,6 @@
    "category": "mediaite_all",
    "published": "2026-06-02T15:26:20+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "68d1b158a95d",
-   "title": "‘Indefensible’: Left And Right Rage At Trump’s ‘Totally Unqualified’ Pick to Oversee America’s National Security",
-   "link": "https://www.mediaite.com/politics/indefensible-left-and-right-rage-at-trumps-totally-unqualified-pick-to-oversee-americas-national-security/",
-   "summary": "Trump's pick of Bill Pulte — known for pushing mortgage fraud claims against Trump's foes — as new National Intelligence Director, has created huge controversy. The post ‘Indefensible’: Left And Right Rage At Trump’s ‘Totally Unqualified’ Pick to Oversee America’s National Security first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-02T15:04:19+00:00",
-   "iran_topic": false
   },
   {
    "id": "897fc3e9c311",
