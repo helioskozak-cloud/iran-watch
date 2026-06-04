@@ -1,43 +1,43 @@
 {
- "generated": "2026-06-04T22:18:06.080149+00:00",
+ "generated": "2026-06-04T23:44:47.907418+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 95.21,
-   "change": -2.6,
-   "change_pct": -2.66,
+   "price": 95.2,
+   "change": -2.61,
+   "change_pct": -2.67,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
-    95.20999908447266
+    95.19999694824219
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.81,
-   "change": -3.21,
-   "change_pct": -3.34,
+   "price": 92.85,
+   "change": -3.17,
+   "change_pct": -3.3,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
-    92.80999755859375
+    92.8499984741211
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4501.8,
-   "change": 65.1,
-   "change_pct": 1.47,
+   "price": 4492.7,
+   "change": 56.0,
+   "change_pct": 1.26,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
-    4501.7998046875
+    4492.7001953125
    ]
   },
   "DX-Y.NYB": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.35,
+   "price": 3.36,
    "change": 0.14,
-   "change_pct": 4.32,
+   "change_pct": 4.51,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
-    3.3529999256134033
+    3.3589999675750732
    ]
   }
  },
@@ -219,14 +219,21 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-04T22:17:22.186932+00:00",
+   "published": "2026-06-04T23:44:05.309399+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-04T22:17:22.186235+00:00",
+   "published": "2026-06-04T23:44:05.308693+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oman resists US pressure to break ties with Iran over strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1tx2pxa/oman_resists_us_pressure_to_break_ties_with_iran/",
+   "source": "r/worldnews",
+   "published": "2026-06-04T22:29:50+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "@reuters",
    "published": "2026-06-03T16:01:29+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Egypt, Turkey push energy ties in Azerbaijan talks amid Hormuz crisis",
-   "link": "https://www.al-monitor.com/originals/2026/06/egypt-turkey-push-energy-ties-azerbaijan-talks-amid-hormuz-crisis",
-   "source": "Al-Monitor",
-   "published": "2026-06-03T15:47:25+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -328,6 +328,13 @@
    "status": "ACTIVE",
    "incident_count": 7,
    "recent": [
+    {
+     "title": "Oman resists US pressure to break ties with Iran over strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1tx2pxa/oman_resists_us_pressure_to_break_ties_with_iran/",
+     "source": "r/worldnews",
+     "published": "2026-06-04T22:29:50+00:00",
+     "severity": "info"
+    },
     {
      "title": "IRGC hits enemy vessel, US Fifth Fleet HQ, American airbase after violations near Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/03/769737/Iran-IRGC-attacks-United-States-Fifth-Fleet-airbase",
@@ -341,13 +348,6 @@
      "source": "Press TV",
      "published": "2026-06-04T18:38:26.375231+00:00",
      "severity": "high"
-    },
-    {
-     "title": "Trafigura profit, volumes, surge in first results since Hormuz closure reut.rs/4e9dkxj",
-     "link": "https://bsky.app/profile/reuters.com/post/3mnhy22laz42a",
-     "source": "@reuters",
-     "published": "2026-06-04T15:50:14+00:00",
-     "severity": "medium"
     }
    ]
   },
@@ -374,6 +374,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "925ffdcc170f",
+   "title": "Mamdani: In advance of what was an incredible game one, we made what I would have to call one of our easiest decisions thus far in City Hall. We finally said no to the bedtime lobby, and we suspended bedtimes for children across our city.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnis5y662a2t",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-04T23:37:43.593+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10bfd1757b56",
+   "title": "Breaking on MS NOW: House Oversight Ranking Member Robert Garcia says Todd Blanche should not be confirmed and, instead, \"he should be fired from the job.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnis3pih6c2j",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-04T23:36:27.558+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4599e1dc33dc",
+   "title": "‘I’ll Tell You To Shut Up Again’: Nancy Pelosi Demolishes Lindell TV Reporter",
+   "link": "https://www.mediaite.com/media/news/ill-tell-you-to-shut-up-again-nancy-pelosi-demolishes-lindell-tv-reporter/",
+   "summary": "Rep. Nancy Pelosi (D-CA) had strong words for Lindell TV reporter Alison Steinberg on Thursday, berating her repeatedly for &#8220;spouting untruths.&#8221; Steinberg approached the former House Speaker on the Hill, asking her about the debunked theory that Pelosi blocked the National Guard from intervening at the Capitol during the Jan. 6 insurrection. As she began to press [&#8230;] The post ‘I’ll Tell You To Shut Up Again’: Nancy Pelosi Demolishes Lindell TV Reporter first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T23:15:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d04f10d3e04",
+   "title": "AOC: This is what I want people to understand: this is our money. When you pay your taxes, that money is being stolen to pay for a vanity project like a ballroom or whatever it is that this guy wants to do, instead of what it should be used for…",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnipftvc5s23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-04T22:48:26.492+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "77b3e14acb4f",
+   "title": "Trump Posts Bonkers AI Video Of Him Filing Reflecting Pool With Tears",
+   "link": "https://www.mediaite.com/media/news/trump-posts-bonkers-ai-video-of-him-filing-reflecting-pool-with-tears/",
+   "summary": "President Donald Trump posted an AI-generated video on Truth Social depicting him filling the Reflecting Pool with a woman's tears. The post Trump Posts Bonkers AI Video Of Him Filing Reflecting Pool With Tears first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T22:46:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1a43abc2c536",
+   "title": "BREAKING: The House Oversight Committee has released the transcript of its interview with Pam Bondi. Bondi said Todd Blanche \"oversaw the entire\" Epstein investigation. oversight.house.gov/wp-content/u...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mniopvaelc24",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-04T22:36:09.706+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "735f87db512a",
+   "title": "Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself",
+   "link": "https://www.mediaite.com/politics/trump/trump-says-americas-250th-celebration-will-be-a-rally-to-end-all-rallies-featuring-himself/",
+   "summary": "President Donald Trump said on Thursday that the U.S. semiquincentennial celebration will now be a \"rally\" featuring a handful of musical acts, as well as \"a fine and highly dignified gentleman\" – himself. The post Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-04T22:30:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "735f87db512a",
+   "title": "Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself",
+   "link": "https://www.mediaite.com/politics/trump/trump-says-americas-250th-celebration-will-be-a-rally-to-end-all-rallies-featuring-himself/",
+   "summary": "President Donald Trump said on Thursday that the U.S. semiquincentennial celebration will now be a \"rally\" featuring a handful of musical acts, as well as \"a fine and highly dignified gentleman\" – himself. The post Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T22:30:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1a615b23a589",
+   "title": "I love how no one has the little bit of courage to tell him “sir, it looks bad when you’re drifting off on live TV” All terrified of becoming his latest fall guy 🤷🏻‍♂️🤦🏻‍♂️",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mnimxpvlwc2z",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-04T22:04:45.060+00:00",
+   "iran_topic": false
+  },
   {
    "id": "3168d7454808",
    "title": "Not a single word about overseeing intelligence and protecting national security. His most absurd appointment yet.",
@@ -705,16 +795,6 @@
    "iran_topic": false
   },
   {
-   "id": "2dd20fc9e69c",
-   "title": "Energy Secretary Chris Wright: \"Democratic green energy policies have driven up energy prices far more than a conflict in Iran\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnigwv2vg72d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:16:54.458+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "283baa0c4434",
    "title": "What fresh hell is THIS???",
    "link": "https://bsky.app/profile/digby56.bsky.social/post/3mnigulsp4f2a",
@@ -892,86 +972,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-04T17:25:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c982494e2756",
-   "title": "Candace Owens Makes a Hard Pitch On Russian State TV For Tucker Carlson to Run For President",
-   "link": "https://www.mediaite.com/politics/candace-owens-makes-a-hard-pitch-for-tucker-carlson-to-run-for-president-on-russian-state-tv/",
-   "summary": "\"He's also at a great place in his life; his children are older. I would gratefully get behind someone like Tucker Carlson.”\" The post Candace Owens Makes a Hard Pitch On Russian State TV For Tucker Carlson to Run For President first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T17:24:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cd5fdc94de40",
-   "title": "Jen Psaki Stunned By Trump Pick Getting Profane Sex-Themed Award in Unearthed Vid: ‘That’s A Real Video!’",
-   "link": "https://www.mediaite.com/media/news/jen-psaki-stunned-by-trump-pick-getting-profane-sex-themed-award-in-unearthed-vid-thats-a-real-video/",
-   "summary": "Jen Psaki was stunned by a resurfaced video of Bill Pulte — Trump's pick for acting DNI — getting a profane award, assuring viewers it wasn't AI. The post Jen Psaki Stunned By Trump Pick Getting Profane Sex-Themed Award in Unearthed Vid: ‘That’s A Real Video!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T17:17:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d06d0230186c",
-   "title": "House Dem Runs Mock Attack Ad Against Himself Claiming He’s Supported By ‘Radical Progressives’",
-   "link": "https://www.mediaite.com/media/news/house-dem-runs-mock-attack-ad-against-himself-claiming-hes-supported-by-radical-progressives/",
-   "summary": "Dan Goldman released a mock attack ad against himself to spread the message that he's the true progressive in the Democratic primary race. The post House Dem Runs Mock Attack Ad Against Himself Claiming He’s Supported By ‘Radical Progressives’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T17:12:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ae9af8aace0a",
-   "title": "Scott Bessent Brawls with House Dem in Tense Hearing Clash: ‘The Congresswoman is Slanderous!’",
-   "link": "https://www.mediaite.com/politics/scott-bessent-brawls-with-house-dem-in-tense-hearing-clash-the-congresswoman-is-slanderous/",
-   "summary": "Treasury Secretary Scott Bessent had a heated exchange with U.S. Rep Linda Sanchez (D-CA) in the early portion of Thursday's House hearing. The post Scott Bessent Brawls with House Dem in Tense Hearing Clash: ‘The Congresswoman is Slanderous!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T16:59:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b9e3a234bd28",
-   "title": "The new Trump Presidential Library, the entity responsible for preserving White House records, says it cannot find a single Twitter direct message sent by a president who tweeted more than 25,000 times during his first term — raising questions about compliance with the Presidential Records Act.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mni2ubtdts24",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:40:42.292+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0b2092b9badf",
-   "title": "Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence",
-   "link": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
-   "summary": "President Trump’s appointment of William J. Pulte to serve as Acting Director of National Intelligence is drawing praise from lawmakers in the nation’s capital. A battle-tested reformer with deep experience safeguarding highly sensitive information and overhauling massive government institutions, Pulte brings decisive leadership, proven integrity, and a fierce America First commitment to the Intelligence Community. [&#8230;] The post Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-04T13:36:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ce8bc6f32a0c",
-   "title": "Why does the media ignore Trump’s madness?",
-   "link": "https://www.publicnotice.co/p/trump-madness",
-   "summary": "His Truth Social posts show he's better suited in a mental institution than at a negotiating table.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-04T10:17:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "646301066e3b",
-   "title": "Trump Tells White House Gathering He Will Nominate Todd Blanche as Attorney General",
-   "link": "https://www.mediaite.com/politics/trump/trump-tells-white-house-gathering-he-will-nominate-todd-blanche-as-attorney-general/",
-   "summary": "President Donald Trump announced on Wednesday night that he will nominate acting Attorney General Todd Blanche for the AG position, which will require Senate confirmation. The post Trump Tells White House Gathering He Will Nominate Todd Blanche as Attorney General first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-04T04:05:09+00:00",
    "iran_topic": false
   }
  ]
