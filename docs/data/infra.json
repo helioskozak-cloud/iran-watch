@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-04T18:39:12.570363+00:00",
+ "generated": "2026-06-04T20:53:42.290984+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 95.16,
-   "change": -2.65,
-   "change_pct": -2.71,
+   "price": 95.23,
+   "change": -2.58,
+   "change_pct": -2.64,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
-    95.16000366210938
+    95.2300033569336
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 93.19,
-   "change": -2.83,
-   "change_pct": -2.95,
+   "price": 93.0,
+   "change": -3.02,
+   "change_pct": -3.15,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
-    93.19000244140625
+    93.0
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4505.5,
-   "change": 68.8,
-   "change_pct": 1.55,
+   "price": 4503.8,
+   "change": 67.1,
+   "change_pct": 1.51,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
-    4505.5
+    4503.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.4,
-   "change": -0.13,
-   "change_pct": -0.13,
+   "price": 99.45,
+   "change": -0.08,
+   "change_pct": -0.08,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
-    99.39600372314453
+    99.4489974975586
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7592.55,
-   "change": 38.87,
-   "change_pct": 0.51,
+   "price": 7584.31,
+   "change": 30.63,
+   "change_pct": 0.41,
    "spark": [
     7580.06005859375,
     7599.9599609375,
     7609.77978515625,
     7553.68017578125,
-    7592.5498046875
+    7584.31005859375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 136.89,
-   "change": -3.97,
-   "change_pct": -2.82,
+   "price": 136.74,
+   "change": -4.12,
+   "change_pct": -2.92,
    "spark": [
     129.08999633789062,
     135.5,
     137.27000427246094,
     140.86000061035156,
-    136.88999938964844
+    136.74000549316406
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.38,
-   "change": -0.68,
-   "change_pct": -4.23,
+   "price": 15.4,
+   "change": -0.66,
+   "change_pct": -4.11,
    "spark": [
     15.319999694824219,
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
-    15.380000114440918
+    15.399999618530273
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.34,
-   "change": 0.12,
-   "change_pct": 3.86,
+   "price": 3.35,
+   "change": 0.14,
+   "change_pct": 4.29,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
-    3.3380000591278076
+    3.3519999980926514
    ]
   }
  },
@@ -219,14 +219,14 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-04T18:38:26.379353+00:00",
+   "published": "2026-06-04T20:52:42.074336+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-04T18:38:26.378629+00:00",
+   "published": "2026-06-04T20:52:42.073608+00:00",
    "severity": "info"
   },
   {
@@ -242,6 +242,13 @@
    "source": "Press TV",
    "published": "2026-06-04T18:38:26.375231+00:00",
    "severity": "high"
+  },
+  {
+   "title": "How Iran war created unexpected economic beneficiaries",
+   "link": "https://www.al-monitor.com/originals/2026/06/how-iran-war-created-unexpected-economic-beneficiaries",
+   "source": "Al-Monitor",
+   "published": "2026-06-04T15:58:45+00:00",
+   "severity": "info"
   },
   {
    "title": "Task Force Ashland Returns to California from 4-month Indo-Pacific Deployment",
@@ -312,13 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-03T15:47:25+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Enemy compelled to accept new rules Iran imposed on battlefield: IRGC",
-   "link": "https://en.irna.ir/news/86172814/Enemy-compelled-to-accept-new-rules-Iran-imposed-on-battlefield",
-   "source": "IRNA",
-   "published": "2026-06-03T15:02:08+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -374,6 +374,376 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "287911799710",
+   "title": "HUNT: You believe the DOJ is in compliance with the law that Congress passed to release the Epstein files? LAWLER: I do. They did their level best.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mniisqsgg62r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:50:23.252+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "59d6c16e89c8",
+   "title": "‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton",
+   "link": "https://www.mediaite.com/politics/trump/they-found-a-lot-of-mail-in-ballots-trump-baselessly-accuses-california-of-rigging-elections-as-democrats-gain-on-spencer-pratt-and-steve-hilton/",
+   "summary": "President Donald Trump baselessly accused California of \"rigging\" the election as Democratic candidates are gaining in the vote counting and Republicans are losing ground. The post ‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-04T20:46:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "59d6c16e89c8",
+   "title": "‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton",
+   "link": "https://www.mediaite.com/politics/trump/they-found-a-lot-of-mail-in-ballots-trump-baselessly-accuses-california-of-rigging-elections-as-democrats-gain-on-spencer-pratt-and-steve-hilton/",
+   "summary": "President Donald Trump baselessly accused California of \"rigging\" the election as Democratic candidates are gaining in the vote counting and Republicans are losing ground. The post ‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T20:46:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "065bed775ec9",
+   "title": "If Biden had passed out at a meeting and pitched over to 45 degrees like this he'd have been forced to resign the presidency",
+   "link": "https://bsky.app/profile/whstancil.bsky.social/post/3mniik235as26",
+   "summary": "",
+   "source": "@whstancil",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:45:31.000+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9015f3bbc604",
+   "title": "Peter Navarro: \"Iran has frozen the strait. That's their inflation. The Democrats are gonna try to stick us with it, the legacy media is gonna try to help them do it, but that's Iran terror inflation.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mniifubjc52w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:43:10.684+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "a92b06a5f1cc",
+   "title": "Once again, the President does not have the legal authority to just invade countries at will",
+   "link": "https://bsky.app/profile/patdeklotz.bsky.social/post/3mniiea4dhs2c",
+   "summary": "",
+   "source": "@patdeklotz",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:42:16.003+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a2733b112f2d",
+   "title": "Trump announces Iran exit strategy: “We’ll go through Cuba” theonion.com/bush-announc...",
+   "link": "https://bsky.app/profile/ericcolumbus.bsky.social/post/3mniiaywp4s2x",
+   "summary": "",
+   "source": "@ericcolumbus",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:40:27.810+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b96f330c1ded",
+   "title": "Aren’t we at war?",
+   "link": "https://bsky.app/profile/samyoungman.bsky.social/post/3mnii6ou7ns2p",
+   "summary": "",
+   "source": "@samyoungman",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:39:10.139+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ea29d8309ea9",
+   "title": "This is ridiculous. And would set off massive alarms on any normal planet.",
+   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mnii4qvcjs2s",
+   "summary": "",
+   "source": "@djrothkopf",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:38:05.164+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6839b1b7d47f",
+   "title": "Trump says he's going to an NBA Finals game at MSG next Monday, and he might be there for Game 4 too",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnihzvhtey2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:36:29.285+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "04f49f4100e8",
+   "title": "Weren't we told a few weeks ago that they had evidence that the 2020 election had been rigged? Seems like the kind of thing they would have probably released if it existed.",
+   "link": "https://bsky.app/profile/michaelianblack.bsky.social/post/3mnihyalzm225",
+   "summary": "",
+   "source": "@michaelianblack",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:35:33.863+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "35b127e53781",
+   "title": "Trump on Cuba: \"It's sort of collapsed. And we're gonna handle that as soon as we finish-- I like to do one thing at a time. We'll take care of the Islamic Republic of Iran, and as son as that is done, on our way, back we'll just make a brief stopover.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnihwoyqsa2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:34:41.836+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d42d9b7044a4",
+   "title": "Q: The Black unemployment rate is 7.3%. You campaigned on 'Black jobs.' How do you explain this disparity? TRUMP: Well, we're doing very well with the Black jobs",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnihli3w6r2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:28:25.498+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "14d4a8e03f81",
+   "title": "Trump once again compares his war in Iran to Vietnam",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnihkbydo52m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:27:45.537+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1eb7a6cac9c7",
+   "title": "Trump: \"They started saying, 'affordability.' It's a con job.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnihiikj5d2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:26:45.317+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b3159352cbf8",
+   "title": "CBS Debunks Viral Claim It Was Considering Joe Rogan for ’60 Minutes’ Job",
+   "link": "https://www.mediaite.com/media/news/cbs-debunks-viral-claim-it-was-considering-joe-rogan-for-60-minutes-job/",
+   "summary": "CBS News responded to viral reports alleging that news chief Bari Weiss was considering podcaster Joe Rogan to join legendary news magazine 60 Minutes. The post CBS Debunks Viral Claim It Was Considering Joe Rogan for ’60 Minutes’ Job first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T20:20:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4ce3ed32dc5e",
+   "title": "Trump on Biden: \"Something happened to him during the debate. It could've been me. There's a reason he did badly.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnih3n6w2v2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:19:33.973+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2dd20fc9e69c",
+   "title": "Energy Secretary Chris Wright: \"Democratic green energy policies have driven up energy prices far more than a conflict in Iran\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnigwv2vg72d",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:16:54.458+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9aa1521fb8c8",
+   "title": "Q: As we get closer to the midterms, are you starting to factor in domestic reaction to your handling of Iran? TRUMP: No. I just do what's right.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnigv5y67b2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:15:56.695+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "283baa0c4434",
+   "title": "What fresh hell is THIS???",
+   "link": "https://bsky.app/profile/digby56.bsky.social/post/3mnigulsp4f2a",
+   "summary": "",
+   "source": "@digby56",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:15:37.081+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d17993581589",
+   "title": "Q: Is killing US troops your red line for ending the ceasefire? TRUMP: If they killed? Q: US troops TRUMP: What does that mean? Q: That you would restart the war with Iran if they killed US troops TRUMP: Well, it would be a good reason",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnigrgcoac2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:13:51.201+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "e94642339b19",
+   "title": "The other day, Dr. Oz was gushing over how much energy Trump has, claiming it was on historic levels.",
+   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mnighsxars2c",
+   "summary": "",
+   "source": "@justinbaragona",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:08:28.938+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1687611651ea",
+   "title": "Saying the quite part out loud",
+   "link": "https://bsky.app/profile/yusufsarfati.bsky.social/post/3mnigdobtbc2w",
+   "summary": "",
+   "source": "@yusufsarfati",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:06:09.825+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10d83055a528",
+   "title": "Trump: \"I've ended eight wars, and soon to be a ninth. It could be ten. I don't think a president has ended one war.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnigad4gqf2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:04:17.435+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d41a063fd211",
+   "title": "Q: Why do you think Bill Pulte is the best person for the acting DNI job? TRUMP: He may out some things about the rigged elections",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnigabmsx72a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:04:15.874+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d280e75a895f",
+   "title": "97 January 6 Rioters Pardoned by Trump Have Been Nabbed for Additional Crimes: Report",
+   "link": "https://www.mediaite.com/media/news/97-january-6-rioters-pardoned-by-trump-have-been-nabbed-for-additional-crimes-report/",
+   "summary": "Nearly 100 of the more than 1,500 J6 rioters granted clemency by Donald Trump have allegedly gone on to commit separate crimes The Lawfare Institute reported. The post 97 January 6 Rioters Pardoned by Trump Have Been Nabbed for Additional Crimes: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T20:03:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1de0fd9e171c",
+   "title": "Trump on his face potentially appearing on a $250 bill: \"I'm honored by it\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnig3ecnyi2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:01:30.914+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2fccb737450d",
+   "title": "Trump woke up from his power nap to take questions but he still sounds very tired",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnifz3gznk26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T20:00:14.432+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "76a8add19256",
+   "title": "Trump is now sitting back in his chair and dozing off",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnifquh3d523",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-04T19:55:38.738+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "922d3c3e051f",
+   "title": "Scott Bessent Straight Up Asks House Democrat to Say Sorry to Trump: ‘I Have Nothing to Apologize to This President For!’",
+   "link": "https://www.mediaite.com/media/tv/scott-bessent-straight-up-asks-house-democrat-to-say-sorry-to-trump-i-have-nothing-to-apologize-to-this-president-for/",
+   "summary": "Treasury Secretary Scott Bessent straight up asked Rep. Brad Schneider (D-IL) if he wanted to offer an apology to President Trump in a heated back-and-forth. The post Scott Bessent Straight Up Asks House Democrat to Say Sorry to Trump: ‘I Have Nothing to Apologize to This President For!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T19:49:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "06c4fc92d831",
+   "title": "The Daily Pour Becomes Nation’s Largest Producer of Whiskey Festivals with Acquisition of Whiskey Riot",
+   "link": "https://www.mediaite.com/crosspost/the-daily-pour-becomes-nations-largest-producer-of-whiskey-festivals-with-acquisition-of-whiskey-riot/",
+   "summary": "The Daily Pour announced the acquisition of Whiskey Riot — one of the most recognized whiskey festival brands across the United States. The deal marks the company&#8217;s third acquisition in 24 months, following the recent addition of The WhiskyX festivals, and underscores an active strategy to unite the fragmented premium spirits and non-alc events space. [&#8230;] The post The Daily Pour Becomes Nation’s Largest Producer of Whiskey Festivals with Acquisition of Whiskey Riot first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T19:48:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7226d8054dc0",
+   "title": "Two advisory board members of Stars and Stripes, the military newspaper that has long enjoyed editorial independence from the government, has sued the Defense Department — alleging that an effort to impose new restrictions on the paper was an act of illegal censorship.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnif6cble22s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-04T19:45:15.720+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d9aed7eec393",
+   "title": "‘SAVE COLLEGE SPORTS!’ Trump Calls on Congress to Pass Bill Introducing NIL Regulations in NCAA",
+   "link": "https://www.mediaite.com/media/sports/save-college-sports-trump-calls-on-congress-to-pass-bill-introducing-nil-regulations-in-ncaa/",
+   "summary": "President Donald Trump urged Congress on Thursday to pass a law that would establish a regulatory framework for the NCAA's name, image, and likeness guidelines. The post ‘SAVE COLLEGE SPORTS!’ Trump Calls on Congress to Pass Bill Introducing NIL Regulations in NCAA first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T19:39:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c10bc6512190",
+   "title": "‘You’re an Arsonist!’ Scott Bessent and Democrat Throw Terrible Polls in Each Other’s Faces During Heated Hearing Brawl",
+   "link": "https://www.mediaite.com/media/tv/youre-an-arsonist-scott-bessent-and-democrat-throw-terrible-polls-in-each-others-faces-during-heated-hearing-brawl/",
+   "summary": "Treasury Secretary Scott Bessent and Rep. Brendan Boyle (D-PA) threw bad polling at one another in a heated hearing brawl over the state of the economy. The post ‘You’re an Arsonist!’ Scott Bessent and Democrat Throw Terrible Polls in Each Other’s Faces During Heated Hearing Brawl first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T19:09:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2925a108ca48",
+   "title": "Watch the full video here: youtu.be/qVpih7hxtcg",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnibucq5x22s",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-04T18:45:59.416+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "278a51562405",
+   "title": "Kelly: What are the American people getting out of this conflict with Iran right now? Iran wasn’t about to develop a nuclear weapon. Their enrichment went up because Donald Trump tore up the JCPOA. So this conflict is of Donald Trump’s doing and making.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnibucpras2s",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-04T18:45:59.415+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2ddad7b06863",
+   "title": "‘LOSER!’ Trump Demands Fox News ‘Get Rid of Sloppy RINO Karl Rove’",
+   "link": "https://www.mediaite.com/media/news/loser-trump-demands-fox-news-get-rid-of-sloppy-rino-karl-rove/",
+   "summary": "Donald Trump demanded that Fox News get rid of Karl Rove, after the GOP strategist's analysis of how Democrats can retake the House of Representatives. The post ‘LOSER!’ Trump Demands Fox News ‘Get Rid of Sloppy RINO Karl Rove’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-04T18:43:23+00:00",
+   "iran_topic": false
+  },
   {
    "id": "2892640207ac",
    "title": "A little-noticed nonprofit founded by Trump donors has been raising millions of dollars to provide legal assistance to the president’s allies — including those who may want to sue the government over claims of unjust prosecution.",
@@ -475,16 +845,6 @@
    "iran_topic": false
   },
   {
-   "id": "0f012c113ddc",
-   "title": "Boyle to Bessent: \"So all the polls are wrong? I don't know even know what you're saying, Mr. Secretary. I'm citing the facts. Those are the facts you have a problem with.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mni4qhpflz2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T17:14:21.705+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d06d0230186c",
    "title": "House Dem Runs Mock Attack Ad Against Himself Claiming He’s Supported By ‘Radical Progressives’",
    "link": "https://www.mediaite.com/media/news/house-dem-runs-mock-attack-ad-against-himself-claiming-hes-supported-by-radical-progressives/",
@@ -492,16 +852,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-04T17:12:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f9d2232699ca",
-   "title": "BOYLE: Do you agree with the American people, or are they just wrong? BESSENT: Look, the American people were torched under Biden- BOYLE: Oh my goodness. I wish I had a dollar for every time you bring up Biden's name- I might have as much money as you have. Consumer sentiment is at an all time low",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mni4mj6akc2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T17:12:09.016+00:00",
    "iran_topic": false
   },
   {
@@ -525,36 +875,6 @@
    "iran_topic": true
   },
   {
-   "id": "65d3a8fd9a5f",
-   "title": "SALINAS: Are you aware that diesel prices in Oregon are over $6 a gallon right now and are really harming farmers? BROOKE ROLLINS: I do want to be fair that in the last administratio--- SALINAS: Reclaiming my time. We are not talking about the last administration.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mni3gx4a5k25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:51:08.582+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1622863dbad6",
-   "title": "Chu: Do you agree with the president when he said… Bessent: What was my dog’s name when I was a child and what was his favorite toy?",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mni3ftydck2e",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:50:31.755+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "64ffebb4928e",
-   "title": "If Scott Bessent absolutely insists, I'm sure we could assemble a panel of historians to evaluate precisely where his incompetent hackery ranks in the all-time list of Treasury Secretaries.",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mni37nlj7225",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:47:03.717+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b9e3a234bd28",
    "title": "The new Trump Presidential Library, the entity responsible for preserving White House records, says it cannot find a single Twitter direct message sent by a president who tweeted more than 25,000 times during his first term — raising questions about compliance with the Presidential Records Act.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mni2ubtdts24",
@@ -562,16 +882,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-04T16:40:42.292+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "76cd79ef4450",
-   "title": "Bessent: \"The state of our economy is strong. I defy this side of the aisle [Democrats] to tell me what's wrong with our economy.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mni2qgzwnx26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:38:33.517+00:00",
    "iran_topic": false
   },
   {
@@ -585,16 +895,6 @@
    "iran_topic": false
   },
   {
-   "id": "a8c1671fd54b",
-   "title": "The open disgust they have for the people they are supposed to serve is breathtaking",
-   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3mnhzsshewk2s",
-   "summary": "",
-   "source": "@grudgie",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:21:58.875+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1fdce2c1bb10",
    "title": "‘Hunger Is Getting Worse!’ McGovern Rips Into Trump Cabinet Member For Kicking Americans Off Food Stamps",
    "link": "https://www.mediaite.com/media/tv/hunger-is-getting-worse-mcgovern-rips-into-trump-cabinet-member-for-kicking-americans-off-food-stamps/",
@@ -602,266 +902,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-04T16:20:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d9c260b4659",
-   "title": "GOP Senator Vows to Kill Trump’s AG Nomination if He Doesn’t Condemn J6ers: He Wouldn’t ‘Have a Prayer’",
-   "link": "https://www.mediaite.com/media/tv/gop-senator-vows-to-kill-trumps-ag-nomination-if-he-doesnt-condemn-j6ers-he-wouldnt-have-a-prayer/",
-   "summary": "Tillis made clear that any perceived sympathy for those involved in the 2021 riot would be a dealbreaker. The post GOP Senator Vows to Kill Trump’s AG Nomination if He Doesn’t Condemn J6ers: He Wouldn’t ‘Have a Prayer’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T16:10:46+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d1d1a59c52da",
-   "title": "Kara Swisher Clashes With Sunny Hostin on The View Over Demand WH Reporters Defend Kaitlan Collins From Trump",
-   "link": "https://www.mediaite.com/media/news/kara-swisher-clashes-with-sunny-hostin-on-the-view-over-demand-wh-reporters-defend-kaitlan-collins-from-trump/",
-   "summary": "Kara Swisher clashed with Sunny Hostin Thursday over whether White House reporters should push back on President Donald Trump's attacks and insults. The post Kara Swisher Clashes With Sunny Hostin on The View Over Demand WH Reporters Defend Kaitlan Collins From Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T16:05:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "04a310a3961a",
-   "title": "I'm able to clip multiple hearings at once on big news days like today with help from @snapstream.com, the premier tool for social media video. If you want to clip like me, click the link for more info and to set up a demo.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhyujevxs25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:05:02.724+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a0c7ebaff6d4",
-   "title": "CHU: Was your prediction that Americans would face only 50 days of elevated prices wrong? We're at 100 days now BESSENT: How much has gasoline prices come down from the peak? That's an inconvenient fact CHU: Gas prices are up by 50 percent since Trump's war started",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhysdbjad2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:03:49.198+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "865ba3b41617",
-   "title": "CHU: Do you agree with President Trump that you also do not care about Americans' financial situation? BESSENT: Who was the president during World War 1? CHU: ... ... can you answer my question? BESSENT: Who was the president during World War 1?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhyp7qede2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:02:04.827+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "35ac1acc3c0e",
-   "title": "\"officials keep insisting that they’re just a 'couple days' away from a deal with Iran. It’s almost..like the..Tom Hanks film,\"The Money Pit,” where..contractors keep [saying] repairs will just take another 'two weeks'\" Falsely promising to do something in two weeks. Why does that sound so familiar",
-   "link": "https://bsky.app/profile/axidentaliberal.bsky.social/post/3mnhynxwamk2v",
-   "summary": "",
-   "source": "@axidentaliberal",
-   "category": "trump_bsky",
-   "published": "2026-06-04T16:01:23.090+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d3a9e4485349",
-   "title": "Steve Bannon Fumes At the GOP: ‘We Are Going to Lose the Senate’",
-   "link": "https://www.mediaite.com/media/news/steve-bannon-fumes-at-the-gop-we-are-going-to-lose-the-senate/",
-   "summary": "Bannon raged at the lack of energy within the MAGA base heading into the midterms, arguing that supporters aren’t excited to join get-out-the-vote operations The post Steve Bannon Fumes At the GOP: ‘We Are Going to Lose the Senate’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T16:00:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e8e9b89f902c",
-   "title": "DELBENE: You gave DOGE access to Treasury systems housing Americans' sensitive data. What specific measures, if any, have you taken to protect the affected individuals' data? BESSENT: Would you care to look up what does 'inadvertent' mean? DELBENE: You are in charge!",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhy72gd4z2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:53:02.384+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "05a5b66c87f4",
-   "title": "Orbanism. Hiding behind procedure and superficial compliance while dismantling both.",
-   "link": "https://bsky.app/profile/edgarallandoh.bsky.social/post/3mnhxq3asqc2b",
-   "summary": "",
-   "source": "@edgarallandoh",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:44:39.950+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5d5e0d485033",
-   "title": "BROWN: The reality is 4.5 million people were kicked off SNAP to pay for tax cuts for the wealthy through HR1. Families and children are not leaving the SNAP program because they are doing better. BROOKE ROLLINS (lying): They are",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhxjnmmdc25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:41:04.329+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b111ef37f46a",
-   "title": "Rep. Brown to Brooke Rollins: \"So this is what a golden age of agriculture looks like? Because if rising bankruptcies, falling farm income, and worsening financial conditions are a sign of a golden age, I'd hate to see what a downturn looks like.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhxfm67os25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:38:48.591+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aa4d67d499b6",
-   "title": "CNN Data Guru Says Americans Have ‘One Message’ for Bidens – ‘Go Away!’",
-   "link": "https://www.mediaite.com/media/tv/cnn-data-guru-says-americans-have-one-message-for-bidens-go-away/",
-   "summary": "The analysis comes as Jill Biden continues to tour in promotion of her new memoir, which has already opened 2024 wounds for many in the Democratic Party. The post CNN Data Guru Says Americans Have ‘One Message’ for Bidens – ‘Go Away!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T15:35:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4fa1266754d",
-   "title": "SANCHEZ: I think it's safe to say this is probably the most corrupt Treasury Department in our nation's history BESSENT: I AM GOING TO HAVE TO TAKE EXCEPTION WITH THAT! THAT IS SLANDEROUS",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhx4qjpxh2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:33:51.159+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a07cb381c481",
-   "title": "Fox News Continues Cable Domination as Industry Sheds Viewers From Last Month",
-   "link": "https://www.mediaite.com/media/fox-news-continues-cable-domination-as-industry-sheds-viewers-from-last-month/",
-   "summary": "Fox News continued its cable news ratings domination while the industry as a whole say double digit declines overall since last month. The post Fox News Continues Cable Domination as Industry Sheds Viewers From Last Month first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T15:30:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d93a4142b275",
-   "title": "Bessent tells Rep. Sanchez he can't comment on Trump's tax audit immunity deal because of ongoing litigation -- but he can't name the ongoing litigation 🙃",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhww4sfxp23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:30:09.146+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e6e6dbf279d4",
-   "title": "GOP House Intel Chair Tells Fox Trump’s DNI Pick’s Lack of Experience is Actually a Good Thing: Didn’t Try to ‘Coup’",
-   "link": "https://www.mediaite.com/media/news/gop-house-intel-chair-tells-fox-trumps-dni-picks-lack-of-experience-is-actually-a-good-thing-didnt-try-to-coup/",
-   "summary": "Rick Crawford told Fox News's Maria Bartiromo Thursday that Bill Pulte's lack of intelligence experience is actually a good thing. The post GOP House Intel Chair Tells Fox Trump’s DNI Pick’s Lack of Experience is Actually a Good Thing: Didn’t Try to ‘Coup’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T15:16:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "56b4449d35aa",
-   "title": "Let them eat ballroom.",
-   "link": "https://bsky.app/profile/bcfinucane.bsky.social/post/3mnhw4thxus2g",
-   "summary": "",
-   "source": "@bcfinucane",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:16:00.519+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f2076ade2942",
-   "title": "Larson to Bessent: \"You know, when I'm home in my district, I'm just gonna tell those people -- 'Jeez, you missed this whole thing. Don't you understand core inflation? You guys are better off! I mean, these gas prices, you should be doing cartwheels in the street!'\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhw4cbl5f25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:15:42.468+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4230dbaa29c4",
-   "title": "LARSON: Are we at war currently? BESSENT: The conflict has been halted LARSON: The conflict has been halted. So we're not at war? BESSENT: If you'd like me to call the Secretary of War, I can ask",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhw2unrrc2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:14:54.631+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5da9e0b92049",
-   "title": "McGOVERN: Do you believe pesticide companies deserve liability protection? BROOKE ROLLINS: We cannot destroy our framers' ability to plant McGOVERN: So even though you say glyphosate is safe, you believe they should have some sort of liability protection?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhvkbbwns2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:05:37.468+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3e848799757f",
-   "title": "McGOVERN: Do you stand by your comment that kicking people off food assistance is somehow 'good news'? BROOKE ROLLINS: Most of those were fraudulent McGOVERN: I've talked to people who lost benefits. They were kicked off of SNAP. Hunger is getting worse in the United States.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhvfitdgc2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T15:02:57.606+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f408caac5386",
-   "title": "THOMPSON: What should I constituents when they ask about costs? Farmers who are being hit by high costs of fuel & fertilizer, who can't get their product to market bc of the War in Iran -- should I tell them it's 'golden'? BESSENT: You should say we've had 2.6% growth since Trump took office",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnhv6l4whv25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T14:59:05.119+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "221e53a1fe51",
-   "title": "The usual bullshit: starting with the assumption that fraud rates are high, then working backwards to find someone to blame for the data not backing that up. In this case, the states must be giving the feds bad data, it couldn't simply be that Rollins' assumptions are wrong.",
-   "link": "https://bsky.app/profile/glegum.bsky.social/post/3mnhv4t4khs2u",
-   "summary": "",
-   "source": "@glegum",
-   "category": "trump_bsky",
-   "published": "2026-06-04T14:58:06.404+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a1badd6de8f1",
-   "title": "My favorite part is when Brooke Rollins says, \"Don't be rude\" as she's trying to defend cutting food benefits for children. Truly MAGA in a nutshell: They get to be horrible people and then act offended when someone criticizes them.",
-   "link": "https://bsky.app/profile/gravelinfluencer.bsky.social/post/3mnhuumo7fk2b",
-   "summary": "",
-   "source": "@gravelinfluencer",
-   "category": "trump_bsky",
-   "published": "2026-06-04T14:53:31.207+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "44e94bffeec5",
-   "title": "JUST IN: Trump Foe John Bolton to Plead Guilty in Classified Documents Probe, Pay $2M Fine",
-   "link": "https://www.mediaite.com/media/news/just-in-trump-foe-john-bolton-to-plead-guilty-in-classified-documents-probe-pay-2m-fine/",
-   "summary": "John Bolton, a vocal critic of President Donald Trump who was once his national security adviser, is expected plead guilty to mishandling classified documents and pay a hefty $2 million fine, CNN reported on Thursday. The post JUST IN: Trump Foe John Bolton to Plead Guilty in Classified Documents Probe, Pay $2M Fine first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T14:42:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e2c9732935c7",
-   "title": "Trump Riffs to Reporters on Reflecting Pool For Seven Solid Minutes — With Absurd Visual Aid",
-   "link": "https://www.mediaite.com/media/news/trump-riffs-to-reporters-on-reflecting-pool-for-seven-solid-minutes-with-absurd-visual-aid/",
-   "summary": "Trump riffed to reporters for seven solid minutes on the Reflecting Pool — including an absurd visual aide based on an odd boast about the project. The post Trump Riffs to Reporters on Reflecting Pool For Seven Solid Minutes — With Absurd Visual Aid first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T14:37:19+00:00",
    "iran_topic": false
   },
   {
@@ -932,46 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-04T01:49:18.852+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3ea94f2247b7",
-   "title": "MacFarlane: 60 minutes is still going to be on. Jen. After the greatest television program ratings deliverer of all—the NFL. It'll still be Patrick Mahomes and 60 minutes. It'll still be Josh Allen and 60 minutes, which means people are going to, if nothing else, stumble upon the new show.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mngiy2jsxg2w",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T01:48:01.644+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f14e87847d85",
-   "title": "MacFarlane: His loss is a loss that transcends just Scott Pelley. It's going to impact people far and wide inside the network. And respectfully, nobody wins. Nobody benefits if 60 minutes gets damaged. Not the news industry, not politicians, not our better angels as we seek truth in America",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mngitfuo6z2y",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T01:45:25.676+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3fbe44d60f6e",
-   "title": "A convicted Jan. 6 rioter who later said that he regretted his participation in the Capitol attack has been hired by the Trump admin to work inside a Pentagon office that manages highly classified military operations, according to four people familiar with the matter.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mngbky5vec2p",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-03T23:35:26.877+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26a90628b119",
-   "title": "Georgia Republicans want to avoid what happened to Randy Feenstra",
-   "link": "https://www.politico.com/news/2026/06/03/georgia-senate-trump-endorsement-fears-00949221",
-   "summary": "They know President Donald Trump’s endorsement will carry weight with runoff voters. But only if his preferred candidate has enough time to show it off.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-03T23:10:23+00:00",
    "iran_topic": false
   }
  ]
