@@ -1,116 +1,116 @@
 {
- "generated": "2026-06-05T12:27:43.652785+00:00",
+ "generated": "2026-06-05T15:35:56.181016+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.91,
-   "change": -0.12,
-   "change_pct": -0.13,
+   "price": 93.67,
+   "change": -1.36,
+   "change_pct": -1.43,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    94.91000366210938
+    93.66999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.77,
-   "change": -0.27,
-   "change_pct": -0.29,
+   "price": 91.07,
+   "change": -1.97,
+   "change_pct": -2.12,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    92.7699966430664
+    91.06999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4496.0,
-   "change": 20.2,
-   "change_pct": 0.45,
+   "price": 4376.9,
+   "change": -98.9,
+   "change_pct": -2.21,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4496.0
+    4376.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.22,
-   "change": -0.19,
-   "change_pct": -0.19,
+   "price": 99.88,
+   "change": 0.47,
+   "change_pct": 0.47,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    99.2239990234375
+    99.8759994506836
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7584.31,
-   "change": 30.63,
-   "change_pct": 0.41,
+   "price": 7490.18,
+   "change": -94.13,
+   "change_pct": -1.24,
    "spark": [
-    7580.06005859375,
     7599.9599609375,
     7609.77978515625,
     7553.68017578125,
-    7584.31005859375
+    7584.31005859375,
+    7490.18017578125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 136.74,
-   "change": -4.12,
-   "change_pct": -2.92,
+   "price": 133.61,
+   "change": -3.13,
+   "change_pct": -2.29,
    "spark": [
-    129.08999633789062,
     135.5,
     137.27000427246094,
     140.86000061035156,
-    136.74000549316406
+    136.74000549316406,
+    133.61000061035156
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.75,
-   "change": 0.35,
-   "change_pct": 2.27,
+   "price": 16.55,
+   "change": 1.15,
+   "change_pct": 7.47,
    "spark": [
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
-    15.75
+    16.549999237060547
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.28,
-   "change": -0.05,
-   "change_pct": -1.59,
+   "price": 3.25,
+   "change": -0.09,
+   "change_pct": -2.64,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.2829999923706055
+    3.247999906539917
    ]
   }
  },
@@ -221,17 +221,45 @@
  ],
  "incidents": [
   {
+   "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898491",
+   "source": "Jerusalem Post",
+   "published": "2026-06-05T16:51:44+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T12:27:02.326239+00:00",
+   "published": "2026-06-05T15:35:02.789086+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T12:27:02.325503+00:00",
+   "published": "2026-06-05T15:35:02.788356+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "22YO trying to go from zero to Commercial Pilot (CPL/ATPL) out of BEY. Need a brutal reality check on the roadmap.",
+   "link": "https://www.reddit.com/r/lebanon/comments/1txo5wm/22yo_trying_to_go_from_zero_to_commercial_pilot/",
+   "source": "r/lebanon",
+   "published": "2026-06-05T15:26:53+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-forces-board-sanctioned-tanker-indian-ocean-pentagon-says",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T14:36:44+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Factbox-What issues do the US and Iran need to resolve for any peace deal?",
+   "link": "https://www.al-monitor.com/originals/2026/06/factbox-what-issues-do-us-and-iran-need-resolve-any-peace-deal",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T14:36:44+00:00",
    "severity": "info"
   },
   {
@@ -296,34 +324,6 @@
    "source": "Press TV",
    "published": "2026-06-04T18:38:26.375467+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iranian strikes on US bases in Persian Gulf ‘legitimate self-defense’: Araghchi",
-   "link": "https://presstv.ir/Detail/2026/06/03/769786/Iran-FM-defends-strikes-on-US-bases-in-Persian-Gulf-as-legitimate-self%E2%80%91defense-against-aggression",
-   "source": "Press TV",
-   "published": "2026-06-04T18:38:26.375231+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "How Iran war created unexpected economic beneficiaries",
-   "link": "https://www.al-monitor.com/originals/2026/06/how-iran-war-created-unexpected-economic-beneficiaries",
-   "source": "Al-Monitor",
-   "published": "2026-06-04T15:58:45+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Task Force Ashland Returns to California from 4-month Indo-Pacific Deployment",
-   "link": "https://news.usni.org/2026/06/04/task-force-ashland-returns-to-california-from-4-month-indo-pacific-deployment",
-   "source": "USNI News",
-   "published": "2026-06-04T15:50:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trafigura profit, volumes, surge in first results since Hormuz closure reut.rs/4e9dkxj",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnhy22laz42a",
-   "source": "@reuters",
-   "published": "2026-06-04T15:50:14+00:00",
-   "severity": "medium"
   }
  ],
  "chokepoints": [
@@ -331,8 +331,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 6,
    "recent": [
+    {
+     "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-898491",
+     "source": "Jerusalem Post",
+     "published": "2026-06-05T16:51:44+00:00",
+     "severity": "info"
+    },
     {
      "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/znG4pOc...",
      "link": "https://bsky.app/profile/reuters.com/post/3mnjme7catk2w",
@@ -345,13 +352,6 @@
      "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mnjddmbkqf26",
      "source": "@warontherocks",
      "published": "2026-06-05T04:45:05.809+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "In Opinion “Whatever peace agreement the United States and Iran may cobble together, there will be no quick return to prewar energy flows through the Strait of Hormuz,” Christopher Smart writes. “But with every passing day, the world is learning to live without the Gulf’s seaborn",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mnj7axnkxd2p",
-     "source": "@nytimes",
-     "published": "2026-06-05T03:32:02.490170+00:00",
      "severity": "info"
     }
    ]
@@ -380,43 +380,403 @@
  ],
  "wh_statements": [
   {
-   "id": "b2eb5c0cb4ec",
-   "title": "Chris Hayes Drops Sexting Doozy on Graham Platner During Intense Grilling: ‘These Were Adult Women?’",
-   "link": "https://www.mediaite.com/media/tv/chris-hayes-drops-sexting-doozy-on-graham-platner-during-intense-grilling-these-were-adult-women/",
-   "summary": "MS NOW host Chris Hayes dropped a doozy of a sexting question on Graham Platner when he asked him if he confirmed the ages of the women involved. The post Chris Hayes Drops Sexting Doozy on Graham Platner During Intense Grilling: ‘These Were Adult Women?’ first appeared on Mediaite .",
+   "id": "cb455250569e",
+   "title": "‘Oh?’ Jim Cramer Not Buying Trump Official’s Claim ‘We Care’ About Americans Struggling to Buy Food",
+   "link": "https://www.mediaite.com/media/news/oh-jim-cramer-not-buying-trump-officials-claim-we-care-about-americans-struggling-to-buy-food/",
+   "summary": "CNBC anchor Jim Cramer appeared not to buy President Donald Trump’s chief economic adviser, Kevin Hassett's claim that the administration \"care[s] about everybody.\" The post ‘Oh?’ Jim Cramer Not Buying Trump Official’s Claim ‘We Care’ About Americans Struggling to Buy Food first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
-   "published": "2026-06-05T12:25:23+00:00",
+   "published": "2026-06-05T15:34:20+00:00",
    "iran_topic": false
   },
   {
-   "id": "603cc6f824b3",
-   "title": "Graham Platner Accuser Says the NY Times Betrayed Her in Stunning Statement: ‘This Really Was a Set Up’",
-   "link": "https://www.mediaite.com/media/news/graham-platner-accuser-says-the-ny-times-betrayed-her-in-stunning-statement-this-really-was-a-set-up/",
-   "summary": "Lyndsey Fifield, the ex-girlfriend of Graham Platner, accused The New York Times of betraying her in a stunning Friday morning statement. The post Graham Platner Accuser Says the NY Times Betrayed Her in Stunning Statement: ‘This Really Was a Set Up’ first appeared on Mediaite .",
+   "id": "f6c7e31ff602",
+   "title": "Katie Couric Skewers Bari Weiss for ‘Really Grotesque’ Approach to Netanyahu Interview",
+   "link": "https://www.mediaite.com/media/katie-couric-skewers-bari-weiss-for-really-grotesque-approach-to-netanyahu-interview/",
+   "summary": "Katie Couric went off on CBS News boss Bari Weiss for her \"really grotesque\" handling of a 60 Minutes interview with Israeli Prime Minister Benjamin Netanyahu The post Katie Couric Skewers Bari Weiss for ‘Really Grotesque’ Approach to Netanyahu Interview first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
-   "published": "2026-06-05T12:00:21+00:00",
+   "published": "2026-06-05T15:31:32+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "42056c8a4445",
+   "title": "Tom Emmer says fraudsters should be denaturalized and deported (but only the non-white ones!)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkhetev2c2q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T15:30:01.942+00:00",
    "iran_topic": false
   },
   {
-   "id": "864947ec47f3",
-   "title": "Corporate Donors to Trump’s Ballroom Reap $50B in Government Contracts, Watchdog Finds",
-   "link": "https://www.mediaite.com/media/news/corporate-donors-to-trumps-ballroom-reap-50b-in-government-contracts-watchdog-finds/",
-   "summary": "Public Citizen found that 14 of the 27 publicly known corporate donors to the $400 million ballroom project have secured additional federal business since. The post Corporate Donors to Trump’s Ballroom Reap $50B in Government Contracts, Watchdog Finds first appeared on Mediaite .",
+   "id": "63bcea79963b",
+   "title": "LISTEN: US Journalist Detained in Iran Appeals for Help in Recorded Call",
+   "link": "https://www.mediaite.com/media/tv/listen-us-journalist-detained-in-iran-appeals-for-help-in-recorded-call/",
+   "summary": "In a two-minute recorded phone call, Valizadeh urged Washington to intervene on behalf of several American detainees held by the Iranian regime. The post LISTEN: US Journalist Detained in Iran Appeals for Help in Recorded Call first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
-   "published": "2026-06-05T11:36:08+00:00",
+   "published": "2026-06-05T15:07:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d9f2b2a3a0f0",
+   "title": "CNN’s Abby Phillip Calls Out Liberals for ‘Attacking’ Platner Accusers",
+   "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-calls-out-liberals-for-attacking-platner-accusers/",
+   "summary": "Abby Phillip called out Democrats for attacking the ex-girlfriends of Graham Platner who have spoken out about his \"unsettling\" behavior. The post CNN’s Abby Phillip Calls Out Liberals for ‘Attacking’ Platner Accusers first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T15:00:51+00:00",
    "iran_topic": false
   },
   {
-   "id": "1ec44a4efee1",
-   "title": "Trump Trashes Preservation Advocate Trying to Block ‘Desperately Needed’ White House Ballroom: ‘Serial Plaintiff’",
-   "link": "https://www.mediaite.com/media/news/trump-trashes-preservation-advocate-trying-to-block-desperately-needed-white-house-ballroom-serial-plaintiff/",
-   "summary": "Trump unloaded on a preservation advocate who is bringing a legal challenge against the development of his White House ballroom project in a late-night post. The post Trump Trashes Preservation Advocate Trying to Block ‘Desperately Needed’ White House Ballroom: ‘Serial Plaintiff’ first appeared on Mediaite .",
+   "id": "2f5777c1517c",
+   "title": "Adam Carolla Goes OFF on Pride Month: ‘Insane’ and ‘Destructive’",
+   "link": "https://www.mediaite.com/media/adam-carolla-goes-off-on-pride-month-insane-and-destructive/",
+   "summary": "Adam Carolla went scorched earth on June being gay Pride Month, with the veteran podcaster arguing it is \"insane and destructive\" to lump Americans together The post Adam Carolla Goes OFF on Pride Month: ‘Insane’ and ‘Destructive’ first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
-   "published": "2026-06-05T10:24:57+00:00",
+   "published": "2026-06-05T14:57:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "09b0cfecc67f",
+   "title": "WATCH: Baltimore Drivers Stunned as Speeding Motorized Wheelchair Seen Weaving Through Traffic",
+   "link": "https://www.mediaite.com/online/watch-baltimore-drivers-stunned-as-speeding-motorized-wheelchair-seen-weaving-through-traffic/",
+   "summary": "The rider, wearing a motorsports helmet, appeared to keep pace with surrounding traffic as cars passed in adjacent lanes. The post WATCH: Baltimore Drivers Stunned as Speeding Motorized Wheelchair Seen Weaving Through Traffic first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:55:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2bc50af0efb4",
+   "title": "MS NOW Host Roasts Trump AG For Blurting ‘I Love You Sir’ at Presser: ‘Debasing Himself’",
+   "link": "https://www.mediaite.com/media/news/ms-now-host-roasts-trump-ag-for-blurting-i-love-you-sir-at-presser-debasing-himself/",
+   "summary": "Lawrence O’Donnell mocked Todd Blanche for \"debasing himself\" by blurting \"I love you sir\" at a press conference, referring to President Donald Trump. The post MS NOW Host Roasts Trump AG For Blurting ‘I Love You Sir’ at Presser: ‘Debasing Himself’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:52:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7019202206af",
+   "title": "Another Round of Layoffs Could Be on the Way for ESPN: Report",
+   "link": "https://www.mediaite.com/media/sports/another-round-of-layoffs-could-be-on-the-way-for-espn-report/",
+   "summary": "Another round of layoffs is potentially on the horizon for ESPN and could include even more on-air talent, Front Office Sports reported Thursday. The post Another Round of Layoffs Could Be on the Way for ESPN: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:44:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f755da407fb",
+   "title": "More than half of the publicly identified donors to Trump's White House ballroom project have won new or expanded federal contracts worth more than $50 billion during the past six months, according to a report released by a government watchdog group.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkemolls22m",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T14:40:44.129+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "144a4c4f8630",
+   "title": "‘Left Him Holding The Bag’: Dem Lawmaker Says Bondi Blamed Todd Blanche ‘For Everything’ in Epstein Hearing",
+   "link": "https://www.mediaite.com/media/news/left-him-holding-the-bag-dem-lawmaker-says-bondi-blamed-todd-blanche-for-everything-in-epstein-hearing/",
+   "summary": "Rep. Raja Krishnamoorthi (D-IL) told CNN's Kate Bolduan on Friday that former Attorney General Pam Bondi blamed acting Attorney General Todd Blanche \"for everything\" at her recent hearing surrounding Jeffrey Epstein. The post ‘Left Him Holding The Bag’: Dem Lawmaker Says Bondi Blamed Todd Blanche ‘For Everything’ in Epstein Hearing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:30:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0e47f7056f1d",
+   "title": "CNN’s Harry Enten Reports ‘Rural Revolt’ Against Trump With Shocking Drop In Polls: ‘Over 50 Point Switcheroo’",
+   "link": "https://www.mediaite.com/media/news/cnns-harry-enten-reports-rural-revolt-against-trump-with-shocking-drop-in-polls-over-50-point-switcheroo/",
+   "summary": "CNN data analyst Harry Enten said there has been a \"rural revolt\" against President Donald Trump, claiming a key base of voters who were once strongly supportive of the president have turned on him over economic struggles. The post CNN’s Harry Enten Reports ‘Rural Revolt’ Against Trump With Shocking Drop In Polls: ‘Over 50 Point Switcheroo’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:22:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f55b00e97997",
+   "title": "Trump Ally Gets Roasted in CNN Brawl Over $1.8B Slush Fund: ‘I’m Really Embarrassed For You!’",
+   "link": "https://www.mediaite.com/media/news/trump-ally-gets-roasted-in-cnn-brawl-over-1-8b-slush-fund-im-really-embarrassed-for-you/",
+   "summary": "A Trump ally got roasted by a fellow panelist during a brawl over the $1.8 billion slush fund that the administration claims it has abandoned for good. The post Trump Ally Gets Roasted in CNN Brawl Over $1.8B Slush Fund: ‘I’m Really Embarrassed For You!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:17:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4fd61d235651",
+   "title": "Jesse Watters: Clueless Democrats Thought ‘Creeps Who Get Nazi Tattoos’ Like Graham Platner Would Appeal to Men",
+   "link": "https://www.mediaite.com/media/tv/jesse-watters-clueless-democrats-thought-creeps-who-get-nazi-tattoos-like-graham-platner-would-appeal-to-men/",
+   "summary": "Jesse Watters argued the Democrats are so clueless about men that they thought running \"creeps who get Nazi tattoos\" like Graham Platner would work The post Jesse Watters: Clueless Democrats Thought ‘Creeps Who Get Nazi Tattoos’ Like Graham Platner Would Appeal to Men first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:16:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a16c5ed95c5a",
+   "title": "Van Jones Calls Graham Platner a ‘Moment of Truth’ for Dems: ‘Do You Want to Sign Off on the Donald Trump Standard?’",
+   "link": "https://www.mediaite.com/media/tv/van-jones-calls-graham-platner-a-moment-of-truth-for-dems-do-you-want-to-sign-off-on-the-donald-trump-standard/",
+   "summary": "CNN's Van Jones argued that Graham Platner's campaign for the Senate in Maine a moment of truth for the Democratic Party. The post Van Jones Calls Graham Platner a ‘Moment of Truth’ for Dems: ‘Do You Want to Sign Off on the Donald Trump Standard?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:16:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "63cd84a9988a",
+   "title": "‘Wow Is All I Can Say!’ Fox Anchor Marvels at New Jobs Report Numbers",
+   "link": "https://www.mediaite.com/media/tv/wow-is-all-i-can-say-fox-anchor-marvels-at-new-jobs-report-numbers/",
+   "summary": "Fox Business' David Asman marveled at the latest jobs report while putting out the news on Friday morning, noting the numbers doubled expectations. The post ‘Wow Is All I Can Say!’ Fox Anchor Marvels at New Jobs Report Numbers first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T14:11:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "59c9d8eff82b",
+   "title": "Q: Has China started buying American famers' product? What's the status on that? HASSETT: Um, I'd have to get an update on that",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcswjsow2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T14:08:26.286+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4c8011b1874a",
+   "title": "Ryan: \"This amendment is straightforward. It would prohibit the president from using my constituents' tax dollars to continue waging his ill-conceived & unconstitutional war in Iran... 97 days in, our best case -- our best case, which we're still not able to achieve -- is a return to the status quo\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcq44nkk2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T14:06:51.499+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f8642c01283e",
+   "title": "Hassett: \"The gas price story is a serious one. We understand that people are hurting on that. We've taken a number of measures to reduce the disruption, and we expect it to be temporary.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcfl4sor2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T14:00:58.118+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4afbbc458eaa",
+   "title": "\"I tried finding her at every Olympic Gold Meda hockey match and every ski resort and definitely every bar I could find, I really did try my hardest.\"",
+   "link": "https://bsky.app/profile/fergoe.blacksky.app/post/3mnkca73xbk2v",
+   "summary": "",
+   "source": "@fergoe",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:57:57.749+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "37039e7f7aec",
+   "title": "the buck stops... over there somewhere. no, a little further than that. nope, little bit more. one more scooch",
+   "link": "https://bsky.app/profile/lauren.rotatingsandwiches.com/post/3mnkbvbqj3k2l",
+   "summary": "",
+   "source": "@lauren",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:51:51.422+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "103f8d55fb79",
+   "title": "Hassett on high gas prices: \"It's our view that it's a temporary phenomenon that is a result of the president taking strong action to make sure these lunatics in Iran don't have a nuclear weapon\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbp66cgk2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:48:26.338+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "70ddeb994a17",
+   "title": "Kevin Hassett: \"Right now, Wall Street just doesn't understand that the Trump economy is really creating an economic golden age\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbosxenc2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:48:14.575+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99ca2e75401e",
+   "title": "Whistleblower Reveals DOGE Plan to Falsely Mark Millions of People Dead to ‘Push Immigrants Out’",
+   "link": "https://www.mediaite.com/media/news/whistleblower-reveals-doge-plan-to-falsely-mark-millions-of-people-dead-to-push-immigrants-out/",
+   "summary": "President Donald Trump&#8217;s administration planned to mark 2.7 million living people as dead in a push to make &#8220;immigrants so miserable that they self-deported,&#8221; a whistleblower alleges. Former senior Social Security executive Jeremiah Schofield, who worked at the agency for over 20 years, claims in a 49-page whistleblower disclosure to the Senate that the plan was part of [&#8230;] The post Whistleblower Reveals DOGE Plan to Falsely Mark Millions of People Dead to ‘Push Immigrants Out’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:47:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b2e28a12640",
+   "title": "Fraud czar Colin McDonald says he's \"coming after the koi fish\" purchased by fraudsters",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbgiujiy2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:43:35.484+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6886b2292836",
+   "title": "So independent!",
+   "link": "https://bsky.app/profile/zanath.bsky.social/post/3mnkb7ccqlk2j",
+   "summary": "",
+   "source": "@zanath",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:39:33.823+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5bbf221ec518",
+   "title": "Acting AG Todd Blanche says he's working to install \"roadblocks\" to prevent Democrats from prosecuting Trump and his associates in the future",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkb4hpeie2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:37:58.802+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4ff7672b4e59",
+   "title": "Hassett: \"Even if the strait stays closed, what will happen is they will start building pipelines to get into the Red Sea and so on, so markets adjust to these things\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkayxxvga2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:36:01.641+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "55b3ede8619c",
+   "title": "tRump admin motto: \"The buck stops there.\"",
+   "link": "https://bsky.app/profile/polyesterunis.com/post/3mnkaxwfr7c2o",
+   "summary": "",
+   "source": "@polyesterunis",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:35:26.457+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "69124e6cab01",
+   "title": "Graham Platner Blasts ‘My Totenkopf’ Nazi Tattoo Quote in New Interview",
+   "link": "https://www.mediaite.com/media/tv/graham-platner-blasts-my-totenkopf-nazi-tattoo-quote-in-new-interview/",
+   "summary": "Graham Platner says a quote about his Nazi-linked tattoo was probably fabricated by Lyndsey Fifield, the woman at the heart of a new bombshell report. The post Graham Platner Blasts ‘My Totenkopf’ Nazi Tattoo Quote in New Interview first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:33:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ac3e5e18c417",
+   "title": "Kash Patel blames others for Nancy Guthrie not being found: \"We are not the lead agency. We were not let in for four days. That's their choice.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkasz7v6z2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:32:41.625+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "60c467ba13f6",
+   "title": "Blanche: \"They're not peaceful protesters. When I hear the mainstream media refer to these men and women as 'protesters,' they are lying to the American people. They are lying. They are not protesters. They are rioters injecting violence. They don't even know what they're fighting.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkaofuqlp2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:30:07.118+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8e4f05ac9e02",
+   "title": "‘Morning Joe’ Host Claims Trump Was ‘Projecting’ His Own ‘Frailties’ When He Called Joe Biden ‘Sleepy’",
+   "link": "https://www.mediaite.com/media/tv/morning-joe-host-claims-trump-was-projecting-his-own-frailties-when-he-called-joe-biden-sleepy/",
+   "summary": "Jonathan Lemire argued President Donald Trump was \"projecting his own frailties\" when he dubbed ex-President Joe Biden \"sleepy Joe\" on Friday morning's shw. The post ‘Morning Joe’ Host Claims Trump Was ‘Projecting’ His Own ‘Frailties’ When He Called Joe Biden ‘Sleepy’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6b30c56e42da",
+   "title": "Ex-Trump Staffer Defends Graham Platner Amid New Allegations: He ‘Gets To Stay’",
+   "link": "https://www.mediaite.com/media/tv/ex-trump-staffer-defends-graham-platner-amid-new-allegations-he-gets-to-stay/",
+   "summary": "Ex-Trump staffer Caroline Sunshine, said that Maine Senate candidate Graham Platner \"should stay in the race,\" despite new allegations of misconduct by ex-girlfriends. The post Ex-Trump Staffer Defends Graham Platner Amid New Allegations: He ‘Gets To Stay’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:26:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f8b7124f50b5",
+   "title": "Blanche: \"Listen, any time President Trump nominates you, it's the honor of a lifetime. It was great to be with him last night when he said it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkaepgf6d2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:24:41.590+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3f0f2a36400",
+   "title": "‘One of the Worst People in Maine’: Fox’s Brian Kilmeade Goes Scorched Earth on Graham Platner After NYT Bombshell",
+   "link": "https://www.mediaite.com/media/tv/one-of-the-worst-people-in-maine-foxs-brian-kilmeade-goes-scorched-earth-on-graham-platner-after-nyt-bombshell/",
+   "summary": "Fox News host Brian Kilmeade unleashed on Maine Senate hopeful Graham Platner in the wake of a bombshell New York Times report accusing the Democrat of \"unsettling\" behavior towards women. The post ‘One of the Worst People in Maine’: Fox’s Brian Kilmeade Goes Scorched Earth on Graham Platner After NYT Bombshell first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:16:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5136b32dfa90",
+   "title": "Joe Kernen says he's ready to trade Minnesota to Canada",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnk7imopjq2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T13:08:59.191+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "871a85a3e7d8",
+   "title": "‘Are You Really This Stupid?’: Thomas Massie Slams Mark Levin for Pushing Bizarre Fake Marjorie Taylor Greene Story",
+   "link": "https://www.mediaite.com/media/news/are-you-really-this-stupid-thomas-massie-slams-mark-levin-for-pushing-bizarre-fake-marjorie-taylor-greene-story/",
+   "summary": "Rep. Thomas Massie (R-KY) went after conservative commentator Mark Levin for pushing a fake news story about Marjorie Taylor Greene. The post ‘Are You Really This Stupid?’: Thomas Massie Slams Mark Levin for Pushing Bizarre Fake Marjorie Taylor Greene Story first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T13:07:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "551fd6520193",
+   "title": "Hakeem Jeffries: \"Why does Donald Trump always have to ruin a good thing? The Knicks haven't been in the NBA Finals for 27 years, the city is trying to celebrate this, we've embraced this team, and this guy has to inject himself.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnk6tv6nsg2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T12:57:23.433+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4a4e30a278e2",
+   "title": "New in PN: What does government oppression really look like? \"Every single action described above has been taken against transgender people in the US & UK. And who are the loudest, most influential voices supporting this oppression? These same Christians who are convinced it's being done to them.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnk6dvi4bc2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T12:48:26.913+00:00",
    "iran_topic": false
   },
   {
@@ -427,16 +787,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-05T10:17:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eeef29128999",
-   "title": "Senate Approves $70B Funding for ICE, Border Patrol After All-Night ‘Slush Fund’ Debate",
-   "link": "https://www.mediaite.com/media/news/senate-approves-70b-funding-for-ice-border-patrol-after-all-night-slush-fund-debate/",
-   "summary": "The final vote followed a marathon Senate session dominated as much by intraparty Republican tensions as by immigration policy itself. The post Senate Approves $70B Funding for ICE, Border Patrol After All-Night ‘Slush Fund’ Debate first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T10:15:44+00:00",
    "iran_topic": false
   },
   {
@@ -460,16 +810,6 @@
    "iran_topic": false
   },
   {
-   "id": "11b7b75a9ae5",
-   "title": "Reporter Says Former GOP Congressman Threatened Him With ‘A Gun in Your Face’ During Wild Rant",
-   "link": "https://www.mediaite.com/media/news/reporter-says-former-gop-congressman-threatened-him-with-a-gun-in-your-face-during-wild-rant/",
-   "summary": "An NPR reporter said on Thursday that former Rep. George Santos went on a bizarre tirade against him that included the words \"a gun in your face.\" The post Reporter Says Former GOP Congressman Threatened Him With ‘A Gun in Your Face’ During Wild Rant first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T04:48:03+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d88e8ee11b27",
    "title": "Brian Armstrong on Dimon, Trump, and crypto’s future",
    "link": "https://www.politico.com/video/2026/06/04/brian-armstrong-on-dimon-trump-and-cryptos-future-2088702",
@@ -480,16 +820,6 @@
    "iran_topic": false
   },
   {
-   "id": "2e3ccdbb1226",
-   "title": "Motorist Captures Insanely Creepy Nighttime Video of Person in Halloween Mask Jumping in Front of His Car on Remote Road",
-   "link": "https://www.mediaite.com/media/weird/motorist-captures-insanely-creepy-nighttime-video-of-person-in-halloween-mask-jumping-in-front-of-his-car-on-remote-road/",
-   "summary": "A motorist in Massachusetts captured a wildly unsettling video of a person in a mask emerging from the woods and walking onto the road shortly before midnight on Wednesday. The post Motorist Captures Insanely Creepy Nighttime Video of Person in Halloween Mask Jumping in Front of His Car on Remote Road first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T03:47:50+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "79f422fb3971",
    "title": "Democrats are furious after latest Platner revelations",
    "link": "https://www.politico.com/news/2026/06/04/platner-democrats-furious-new-york-times-report-00951496",
@@ -497,26 +827,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-05T03:00:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0616e41c7e0f",
-   "title": "Former Trump Staffer Says Bondi ‘Laid The Groundwork’ For Todd Blanche To Have ‘Difficult Confirmation’",
-   "link": "https://www.mediaite.com/media/news/former-trump-staffer-says-bondi-laid-the-groundwork-for-todd-blanche-to-have-difficult-confirmation/",
-   "summary": "Deputy Communications Director for President Donald Trump's 2024 Campaign, Caroline Sunshine, said that former Attorney General Pam Bondi \"laid the groundwork\" for acting Attorney General Todd Blanche to have a \"difficult confirmation.\" The post Former Trump Staffer Says Bondi ‘Laid The Groundwork’ For Todd Blanche To Have ‘Difficult Confirmation’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T02:47:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0586a8b7675b",
-   "title": "Vanilla Ice Tells Laura Ingraham He’s Not Sure if Trump Still Wants Him to Perform at 250th Celebration",
-   "link": "https://www.mediaite.com/media/tv/vanilla-ice-tells-laura-ingraham-hes-not-sure-if-trump-still-wants-him-to-perform-at-250th-celebration/",
-   "summary": "Vanilla Ice said he is not sure if President Donald Trump still wants him to perform at the big semiquincentennial for the U.S. this month after a recent revamp. The post Vanilla Ice Tells Laura Ingraham He’s Not Sure if Trump Still Wants Him to Perform at 250th Celebration first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T01:53:46+00:00",
    "iran_topic": false
   },
   {
@@ -537,16 +847,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-05T01:45:32.479+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e743ca931a86",
-   "title": "Bondi Says Ghislaine Maxwell ‘Should Die in Prison’ Because She’s a ‘Monster’ Just Like Epstein",
-   "link": "https://www.mediaite.com/crime/bondi-says-ghislaine-maxwell-should-die-in-prison-because-shes-a-monster-just-like-epstein/",
-   "summary": "Former Attorney General Pam Bondi had a blunt reply when asked if Ghislaine Maxwell should receive a pardon. The post Bondi Says Ghislaine Maxwell ‘Should Die in Prison’ Because She’s a ‘Monster’ Just Like Epstein first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T01:40:28+00:00",
    "iran_topic": false
   },
   {
@@ -577,26 +877,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-05T01:00:38.477+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "48e70e7cfab5",
-   "title": "Platner Says Accuser Is Lying About Him Being ‘Rough’ With Her: ‘Not True’",
-   "link": "https://www.mediaite.com/media/tv/platner-says-accuser-is-lying-about-him-being-rough-with-her-not-true/",
-   "summary": "Presumptive Maine Democratic U.S. Senate nominee Graham Platner denied allegations by an ex-girlfriend who claims he physically hurt her. The post Platner Says Accuser Is Lying About Him Being ‘Rough’ With Her: ‘Not True’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T00:46:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "75373ca05572",
-   "title": "‘Commander-in-Sleep’: Liberals Have Field Day as a Tilting Trump Seems To Nod Off in Front of Reporters",
-   "link": "https://www.mediaite.com/media/news/commander-in-sleep-liberals-have-field-day-as-a-tilting-trump-seems-to-nod-off-in-front-of-reporters/",
-   "summary": "Liberals had a field day after President Trump appeared to visibly nod off in front of reporters, tilting back in his chair with closed eyes in the Oval Office. The post ‘Commander-in-Sleep’: Liberals Have Field Day as a Tilting Trump Seems To Nod Off in Front of Reporters first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T00:41:28+00:00",
    "iran_topic": false
   },
   {
@@ -670,16 +950,6 @@
    "iran_topic": false
   },
   {
-   "id": "4599e1dc33dc",
-   "title": "‘I’ll Tell You To Shut Up Again’: Nancy Pelosi Demolishes Lindell TV Reporter",
-   "link": "https://www.mediaite.com/media/news/ill-tell-you-to-shut-up-again-nancy-pelosi-demolishes-lindell-tv-reporter/",
-   "summary": "Rep. Nancy Pelosi (D-CA) had strong words for Lindell TV reporter Alison Steinberg on Thursday, berating her repeatedly for &#8220;spouting untruths.&#8221; Steinberg approached the former House Speaker on the Hill, asking her about the debunked theory that Pelosi blocked the National Guard from intervening at the Capitol during the Jan. 6 insurrection. As she began to press [&#8230;] The post ‘I’ll Tell You To Shut Up Again’: Nancy Pelosi Demolishes Lindell TV Reporter first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T23:15:19+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1d04f10d3e04",
    "title": "AOC: This is what I want people to understand: this is our money. When you pay your taxes, that money is being stolen to pay for a vanity project like a ballroom or whatever it is that this guy wants to do, instead of what it should be used for…",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnipftvc5s23",
@@ -687,16 +957,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-04T22:48:26.492+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "77b3e14acb4f",
-   "title": "Trump Posts Bonkers AI Video Of Him Filing Reflecting Pool With Tears",
-   "link": "https://www.mediaite.com/media/news/trump-posts-bonkers-ai-video-of-him-filing-reflecting-pool-with-tears/",
-   "summary": "President Donald Trump posted an AI-generated video on Truth Social depicting him filling the Reflecting Pool with a woman's tears. The post Trump Posts Bonkers AI Video Of Him Filing Reflecting Pool With Tears first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T22:46:49+00:00",
    "iran_topic": false
   },
   {
@@ -717,266 +977,6 @@
    "source": "Mediaite Trump",
    "category": "mediaite",
    "published": "2026-06-04T22:30:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "735f87db512a",
-   "title": "Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself",
-   "link": "https://www.mediaite.com/politics/trump/trump-says-americas-250th-celebration-will-be-a-rally-to-end-all-rallies-featuring-himself/",
-   "summary": "President Donald Trump said on Thursday that the U.S. semiquincentennial celebration will now be a \"rally\" featuring a handful of musical acts, as well as \"a fine and highly dignified gentleman\" – himself. The post Trump Announces America’s 250th Celebration Will Now Be a ‘Rally To End All Rallies’ Featuring Himself first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T22:30:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1a615b23a589",
-   "title": "I love how no one has the little bit of courage to tell him “sir, it looks bad when you’re drifting off on live TV” All terrified of becoming his latest fall guy 🤷🏻‍♂️🤦🏻‍♂️",
-   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mnimxpvlwc2z",
-   "summary": "",
-   "source": "@dimitridrekonja",
-   "category": "trump_bsky",
-   "published": "2026-06-04T22:04:45.060+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3168d7454808",
-   "title": "Not a single word about overseeing intelligence and protecting national security. His most absurd appointment yet.",
-   "link": "https://bsky.app/profile/davidcorn.bsky.social/post/3mnimkfmr3k2j",
-   "summary": "",
-   "source": "@davidcorn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:57:18.078+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a698d7edd85d",
-   "title": "There it is. Plain as day",
-   "link": "https://bsky.app/profile/lebassett.bsky.social/post/3mnim6sxdns2z",
-   "summary": "",
-   "source": "@lebassett",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:50:49.404+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9bb17a3bcece",
-   "title": "Trump: \"On June 24, we will be bringing you the Greatest Rally, EVER! We don’t want singers with no talent, but big fees to put you to sleep, we’ve told them all to stay home. All we want is you, me, a few speakers, and the Greatest Music ever played! We will have the fabulous Lee Greenwood ... \"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnim3mc2qs2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:49:01.749+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "36e86c0fa4d4",
-   "title": "‘Hell of a First Week!’ New ’60 Minutes’ EP Commits to ‘Journalistic Independence’ in Staff Email Meant to Calm the Waters",
-   "link": "https://www.mediaite.com/media/news/hell-of-a-first-week-new-60-minutes-ep-commits-to-journalistic-independence-in-staff-email-meant-to-calm-the-waters/",
-   "summary": "The new executive producer of 60 Minutes, Nick Bilton, sent an email to staffers on Thursday, seeking to calm the waters following days of turmoil. The post ‘Hell of a First Week!’ New ’60 Minutes’ EP Commits to ‘Journalistic Independence’ in Staff Email Meant to Calm the Waters first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T21:45:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "344db9241b26",
-   "title": "Walz: Let's be very clear, this president is a failure at business except when he got elected to office and can use corruption…",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mniluklzd62u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:45:04.959+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "af4ee7573309",
-   "title": "Trump eyes his next DC renovation: The Lincoln Memorial",
-   "link": "https://www.politico.com/news/2026/06/04/trump-lincoln-memorial-renovation-00951100",
-   "summary": "The president said he wants to build pedestrian access between the monument and the Potomac River.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-04T21:43:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dd2f833e3315",
-   "title": "Looking very awake sir!",
-   "link": "https://bsky.app/profile/bencollins.bsky.social/post/3mnilkcjsvk2h",
-   "summary": "",
-   "source": "@bencollins",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:39:21.094+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d73bc1d7105",
-   "title": "Viral Candace Owens Interview Brings New Attention to Ex-CNN, MSNBC Host Who Moved to Moscow to Broadcast for Russian State TV",
-   "link": "https://www.mediaite.com/media/viral-candace-owens-interview-brings-new-attention-to-ex-cnn-msnbc-host-who-moved-to-moscow-to-broadcast-for-russian-state-tv/",
-   "summary": "A viral interview featuring far-right podcaster Candace Owens has put the spotlight back on former CNN and MSNBC anchor Rick Sanchez. The post Viral Candace Owens Interview Brings New Attention to Ex-CNN, MSNBC Host Who Moved to Moscow to Broadcast for Russian State TV first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T21:33:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5ef20531bef3",
-   "title": "The Blacks. We love him. He's helping us with the Black jobs.",
-   "link": "https://bsky.app/profile/johntomlinson.bsky.social/post/3mnil6ttcyk2r",
-   "summary": "",
-   "source": "@johntomlinson",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:32:56.579+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "04c4d0d090cd",
-   "title": "MacFarlane: We're seeing this unhinged unspooled name calling, often misogynistic, often racist stuff emanating from Washington. 60 minutes would not platform it without the proper scrutiny. You lose that and you lose one of the few things that exist that don't sane wash",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mniksmtcdj22",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:26:06.444+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89f04f6abd3f",
-   "title": "FLAG: Trump says that his new acting DNI Bill Pulte is going to \"find out some things about the rigged elections.\" There are no rigged elections.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnik77mads2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:15:15.188+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2015f60aff76",
-   "title": "\"the Black jobs\"",
-   "link": "https://bsky.app/profile/mcopelov.bsky.social/post/3mnijpr4xmk27",
-   "summary": "",
-   "source": "@mcopelov",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:06:36.690+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f71e01e8f391",
-   "title": "Omfg @atrupar.com! You got the Hunter Biden seal of approval!",
-   "link": "https://bsky.app/profile/tiffanyclay.dev/post/3mnijp37mb22h",
-   "summary": "",
-   "source": "@tiffanyclay",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:06:13.704+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a93719fa4721",
-   "title": "It was 6.2% when he took office last year.",
-   "link": "https://bsky.app/profile/clayranck.bsky.social/post/3mnijle3b5c2k",
-   "summary": "",
-   "source": "@clayranck",
-   "category": "trump_bsky",
-   "published": "2026-06-04T21:04:08.784+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "06db5fb14af0",
-   "title": "Trump just said his new Director of National Intelligence \"may find out some things about the rigged elections.\" What??? How did no one ask what Trump wants his DNI to \"find out\" about the elections, what he wants his DNI to do to them, and why he thinks that's the DNI's job?",
-   "link": "https://bsky.app/profile/gregsargent.bsky.social/post/3mnij3dq7k22g",
-   "summary": "",
-   "source": "@gregsargent",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:55:11.552+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "64c3562e0fdf",
-   "title": "‘It Hurt’: Graham Platner’s Exes Accuse Him of Getting Physical and Other ‘Unsettling’ Behavior in Bombshell NY Times Story",
-   "link": "https://www.mediaite.com/media/news/it-hurt-graham-platners-exes-accuse-him-of-getting-physical-and-other-unsettling-behavior-in-bombshell-ny-times-story/",
-   "summary": "Ex-girlfriends of Graham Platner accused him of demeaning women, calling his controversial tattoo \"my Totenkopf,\" and even getting physical. The post ‘It Hurt’: Graham Platner’s Exes Accuse Him of Getting Physical and Other ‘Unsettling’ Behavior in Bombshell NY Times Story first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T20:54:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "287911799710",
-   "title": "HUNT: You believe the DOJ is in compliance with the law that Congress passed to release the Epstein files? LAWLER: I do. They did their level best.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mniisqsgg62r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:50:23.252+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "59d6c16e89c8",
-   "title": "‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton",
-   "link": "https://www.mediaite.com/politics/trump/they-found-a-lot-of-mail-in-ballots-trump-baselessly-accuses-california-of-rigging-elections-as-democrats-gain-on-spencer-pratt-and-steve-hilton/",
-   "summary": "President Donald Trump baselessly accused California of \"rigging\" the election as Democratic candidates are gaining in the vote counting and Republicans are losing ground. The post ‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-04T20:46:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "59d6c16e89c8",
-   "title": "‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton",
-   "link": "https://www.mediaite.com/politics/trump/they-found-a-lot-of-mail-in-ballots-trump-baselessly-accuses-california-of-rigging-elections-as-democrats-gain-on-spencer-pratt-and-steve-hilton/",
-   "summary": "President Donald Trump baselessly accused California of \"rigging\" the election as Democratic candidates are gaining in the vote counting and Republicans are losing ground. The post ‘They Found a Lot of Mail-In Ballots!’ Trump Baselessly Accuses California of ‘Rigging’ Elections as Democrats Gain on Spencer Pratt and Steve Hilton first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T20:46:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "065bed775ec9",
-   "title": "If Biden had passed out at a meeting and pitched over to 45 degrees like this he'd have been forced to resign the presidency",
-   "link": "https://bsky.app/profile/whstancil.bsky.social/post/3mniik235as26",
-   "summary": "",
-   "source": "@whstancil",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:45:31.000+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9015f3bbc604",
-   "title": "Peter Navarro: \"Iran has frozen the strait. That's their inflation. The Democrats are gonna try to stick us with it, the legacy media is gonna try to help them do it, but that's Iran terror inflation.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mniifubjc52w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:43:10.684+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "a92b06a5f1cc",
-   "title": "Once again, the President does not have the legal authority to just invade countries at will",
-   "link": "https://bsky.app/profile/patdeklotz.bsky.social/post/3mniiea4dhs2c",
-   "summary": "",
-   "source": "@patdeklotz",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:42:16.003+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a2733b112f2d",
-   "title": "Trump announces Iran exit strategy: “We’ll go through Cuba” theonion.com/bush-announc...",
-   "link": "https://bsky.app/profile/ericcolumbus.bsky.social/post/3mniiaywp4s2x",
-   "summary": "",
-   "source": "@ericcolumbus",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:40:27.810+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b96f330c1ded",
-   "title": "Aren’t we at war?",
-   "link": "https://bsky.app/profile/samyoungman.bsky.social/post/3mnii6ou7ns2p",
-   "summary": "",
-   "source": "@samyoungman",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:39:10.139+00:00",
    "iran_topic": false
   }
  ]
