@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-05T11:52:22.118692+00:00",
+ "generated": "2026-06-05T12:27:43.652785+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.59,
-   "change": -0.44,
-   "change_pct": -0.46,
+   "price": 94.91,
+   "change": -0.12,
+   "change_pct": -0.13,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    94.58999633789062
+    94.91000366210938
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.69,
-   "change": -0.35,
-   "change_pct": -0.38,
+   "price": 92.77,
+   "change": -0.27,
+   "change_pct": -0.29,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    92.69000244140625
+    92.7699966430664
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4492.0,
-   "change": 16.2,
-   "change_pct": 0.36,
+   "price": 4496.0,
+   "change": 20.2,
+   "change_pct": 0.45,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4492.0
+    4496.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.23,
-   "change": -0.18,
-   "change_pct": -0.18,
+   "price": 99.22,
+   "change": -0.19,
+   "change_pct": -0.19,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    99.22699737548828
+    99.2239990234375
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.62,
-   "change": 0.22,
-   "change_pct": 1.43,
+   "price": 15.75,
+   "change": 0.35,
+   "change_pct": 2.27,
    "spark": [
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
-    15.619999885559082
+    15.75
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.31,
-   "change": -0.03,
-   "change_pct": -0.78,
+   "price": 3.28,
+   "change": -0.05,
+   "change_pct": -1.59,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.309999942779541
+    3.2829999923706055
    ]
   }
  },
@@ -224,14 +224,14 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T11:51:36.905862+00:00",
+   "published": "2026-06-05T12:27:02.326239+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T11:51:36.905139+00:00",
+   "published": "2026-06-05T12:27:02.325503+00:00",
    "severity": "info"
   },
   {
@@ -244,6 +244,13 @@
   {
    "title": "Israel strikes Lebanese village after warning to several areas",
    "link": "https://www.al-monitor.com/originals/2026/06/israel-strikes-lebanese-village-after-warning-several-areas",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T09:30:18+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Israel strikes south Lebanon after warning to several areas",
+   "link": "https://www.al-monitor.com/originals/2026/06/israel-strikes-south-lebanon-after-warning-several-areas",
    "source": "Al-Monitor",
    "published": "2026-06-05T09:30:18+00:00",
    "severity": "critical"
@@ -317,13 +324,6 @@
    "source": "@reuters",
    "published": "2026-06-04T15:50:14+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Supreme Court president: Haredi rampage at justice’s home was attack on rule of law",
-   "link": "https://www.timesofisrael.com/supreme-court-president-haredi-rampage-at-justices-home-was-attack-on-rule-of-law/",
-   "source": "Times of Israel",
-   "published": "2026-06-04T11:48:54+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -379,6 +379,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b2eb5c0cb4ec",
+   "title": "Chris Hayes Drops Sexting Doozy on Graham Platner During Intense Grilling: ‘These Were Adult Women?’",
+   "link": "https://www.mediaite.com/media/tv/chris-hayes-drops-sexting-doozy-on-graham-platner-during-intense-grilling-these-were-adult-women/",
+   "summary": "MS NOW host Chris Hayes dropped a doozy of a sexting question on Graham Platner when he asked him if he confirmed the ages of the women involved. The post Chris Hayes Drops Sexting Doozy on Graham Platner During Intense Grilling: ‘These Were Adult Women?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T12:25:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "603cc6f824b3",
+   "title": "Graham Platner Accuser Says the NY Times Betrayed Her in Stunning Statement: ‘This Really Was a Set Up’",
+   "link": "https://www.mediaite.com/media/news/graham-platner-accuser-says-the-ny-times-betrayed-her-in-stunning-statement-this-really-was-a-set-up/",
+   "summary": "Lyndsey Fifield, the ex-girlfriend of Graham Platner, accused The New York Times of betraying her in a stunning Friday morning statement. The post Graham Platner Accuser Says the NY Times Betrayed Her in Stunning Statement: ‘This Really Was a Set Up’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T12:00:21+00:00",
+   "iran_topic": false
+  },
   {
    "id": "864947ec47f3",
    "title": "Corporate Donors to Trump’s Ballroom Reap $50B in Government Contracts, Watchdog Finds",
@@ -957,26 +977,6 @@
    "source": "@samyoungman",
    "category": "trump_bsky",
    "published": "2026-06-04T20:39:10.139+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ea29d8309ea9",
-   "title": "This is ridiculous. And would set off massive alarms on any normal planet.",
-   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mnii4qvcjs2s",
-   "summary": "",
-   "source": "@djrothkopf",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:38:05.164+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6839b1b7d47f",
-   "title": "Trump says he's going to an NBA Finals game at MSG next Monday, and he might be there for Game 4 too",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnihzvhtey2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:36:29.285+00:00",
    "iran_topic": false
   }
  ]
