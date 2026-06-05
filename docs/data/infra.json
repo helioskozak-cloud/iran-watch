@@ -1,56 +1,60 @@
 {
- "generated": "2026-06-05T01:55:13.268635+00:00",
+ "generated": "2026-06-05T09:37:33.296189+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 95.41,
-   "change": -2.4,
-   "change_pct": -2.45,
+   "price": 94.52,
+   "change": -0.51,
+   "change_pct": -0.54,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
-    95.41000366210938
+    95.02999877929688,
+    94.5199966430664
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 93.12,
-   "change": -2.9,
-   "change_pct": -3.02,
+   "price": 92.32,
+   "change": -0.72,
+   "change_pct": -0.77,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
-    93.12000274658203
+    93.04000091552734,
+    92.31999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4472.7,
-   "change": 36.0,
-   "change_pct": 0.81,
+   "price": 4492.7,
+   "change": 16.9,
+   "change_pct": 0.38,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
-    4472.7001953125
+    4475.7998046875,
+    4492.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.43,
-   "change": -0.1,
-   "change_pct": -0.1,
+   "price": 99.21,
+   "change": -0.2,
+   "change_pct": -0.2,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
-    99.4280014038086
+    99.41000366210938,
+    99.20999908447266
    ]
   },
   "^GSPC": {
@@ -84,28 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.4,
-   "change": -0.66,
-   "change_pct": -4.11,
+   "price": 15.66,
+   "change": 0.26,
+   "change_pct": 1.69,
    "spark": [
-    15.319999694824219,
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
-    15.399999618530273
+    15.399999618530273,
+    15.65999984741211
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.35,
-   "change": 0.13,
-   "change_pct": 4.17,
+   "price": 3.33,
+   "change": -0.01,
+   "change_pct": -0.33,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
-    3.3480000495910645
+    3.3359999656677246,
+    3.325000047683716
    ]
   }
  },
@@ -219,14 +224,49 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T01:54:30.506230+00:00",
+   "published": "2026-06-05T09:36:48.712752+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T01:54:30.505544+00:00",
+   "published": "2026-06-05T09:36:48.712177+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Israel strikes Lebanese village after warning to several areas",
+   "link": "https://www.al-monitor.com/originals/2026/06/israel-strikes-lebanese-village-after-warning-several-areas",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T09:30:18+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Middle East conflict pushing millions into hunger, WFP says",
+   "link": "https://www.al-monitor.com/originals/2026/06/middle-east-conflict-pushing-millions-hunger-wfp-says",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T09:01:46+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/znG4pOc...",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnjme7catk2w",
+   "source": "@reuters",
+   "published": "2026-06-05T07:26:29.855+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran's Hormuz toll system could generate $20 million a day from oil tankers alone. warontherocks.com/the-toll-boo...",
+   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mnjddmbkqf26",
+   "source": "@warontherocks",
+   "published": "2026-06-05T04:45:05.809+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "In Opinion “Whatever peace agreement the United States and Iran may cobble together, there will be no quick return to prewar energy flows through the Strait of Hormuz,” Christopher Smart writes. “But with every passing day, the world is learning to live without the Gulf’s seaborn",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mnj7axnkxd2p",
+   "source": "@nytimes",
+   "published": "2026-06-05T03:32:02.490170+00:00",
    "severity": "info"
   },
   {
@@ -284,41 +324,6 @@
    "source": "@reuters",
    "published": "2026-06-04T10:01:05+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran's Hormuz toll system could generate $20 million a day from oil tankers alone. warontherocks.com/the-toll-boo...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mngxvlvrna2b",
-   "source": "@warontherocks",
-   "published": "2026-06-04T06:15:05.142+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran vows to use ‘all capabilities’ to confront any new US aggression",
-   "link": "https://presstv.ir/Detail/2026/06/03/769754/Iran-condemns-US-aggression-against-Iranian-tanker,-telecom-mast-in-Qeshm",
-   "source": "Press TV",
-   "published": "2026-06-03T22:18:14.848513+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-   "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-03T20:05:58+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "French Navy Seizes Sanctioned Russian Tanker, 4th Since September",
-   "link": "https://news.usni.org/2026/06/03/french-navy-seizes-sanctioned-russian-tanker-4th-since-september",
-   "source": "USNI News",
-   "published": "2026-06-03T16:02:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "EU diplomatic arm proposes naval mission take 'primary role' in clearing Strait of Hormuz mines reut.rs/4xcaKPO",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnfi7abjqu2d",
-   "source": "@reuters",
-   "published": "2026-06-03T16:01:29+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 8,
    "recent": [
     {
-     "title": "Oman resists US pressure to break ties with Iran over strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1tx2pxa/oman_resists_us_pressure_to_break_ties_with_iran/",
-     "source": "r/worldnews",
-     "published": "2026-06-04T22:29:50+00:00",
+     "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/znG4pOc...",
+     "link": "https://bsky.app/profile/reuters.com/post/3mnjme7catk2w",
+     "source": "@reuters",
+     "published": "2026-06-05T07:26:29.855+00:00",
      "severity": "info"
     },
     {
-     "title": "IRGC hits enemy vessel, US Fifth Fleet HQ, American airbase after violations near Strait of Hormuz",
-     "link": "https://presstv.ir/Detail/2026/06/03/769737/Iran-IRGC-attacks-United-States-Fifth-Fleet-airbase",
-     "source": "Press TV",
-     "published": "2026-06-04T18:38:26.375467+00:00",
+     "title": "Iran's Hormuz toll system could generate $20 million a day from oil tankers alone. warontherocks.com/the-toll-boo...",
+     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mnjddmbkqf26",
+     "source": "@warontherocks",
+     "published": "2026-06-05T04:45:05.809+00:00",
      "severity": "info"
     },
     {
-     "title": "Iranian strikes on US bases in Persian Gulf ‘legitimate self-defense’: Araghchi",
-     "link": "https://presstv.ir/Detail/2026/06/03/769786/Iran-FM-defends-strikes-on-US-bases-in-Persian-Gulf-as-legitimate-self%E2%80%91defense-against-aggression",
-     "source": "Press TV",
-     "published": "2026-06-04T18:38:26.375231+00:00",
-     "severity": "high"
+     "title": "In Opinion “Whatever peace agreement the United States and Iran may cobble together, there will be no quick return to prewar energy flows through the Strait of Hormuz,” Christopher Smart writes. “But with every passing day, the world is learning to live without the Gulf’s seaborn",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mnj7axnkxd2p",
+     "source": "@nytimes",
+     "published": "2026-06-05T03:32:02.490170+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -374,6 +379,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "098bc429ae60",
+   "title": "Breaking: Senate Republicans just rammed through Trump's massive $70 billion bill to fund ICE and Border Patrol, 52-47. Sen. Lisa Murkowski was the only Republican to vote against the bill. It now heads to the House.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnjs6dhfac2m",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T09:10:35.342+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4cb41c0a0a8",
+   "title": "The nation’s cartoonists on the week in politics",
+   "link": "https://www.politico.com/gallery/2026/06/05/the-nations-cartoonists-on-the-week-in-politics-00951379",
+   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-05T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "11b7b75a9ae5",
+   "title": "Reporter Says Former GOP Congressman Threatened Him With ‘A Gun in Your Face’ During Wild Rant",
+   "link": "https://www.mediaite.com/media/news/reporter-says-former-gop-congressman-threatened-him-with-a-gun-in-your-face-during-wild-rant/",
+   "summary": "An NPR reporter said on Thursday that former Rep. George Santos went on a bizarre tirade against him that included the words \"a gun in your face.\" The post Reporter Says Former GOP Congressman Threatened Him With ‘A Gun in Your Face’ During Wild Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T04:48:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d88e8ee11b27",
+   "title": "Brian Armstrong on Dimon, Trump, and crypto’s future",
+   "link": "https://www.politico.com/video/2026/06/04/brian-armstrong-on-dimon-trump-and-cryptos-future-2088702",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-05T03:59:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e3ccdbb1226",
+   "title": "Motorist Captures Insanely Creepy Nighttime Video of Person in Halloween Mask Jumping in Front of His Car on Remote Road",
+   "link": "https://www.mediaite.com/media/weird/motorist-captures-insanely-creepy-nighttime-video-of-person-in-halloween-mask-jumping-in-front-of-his-car-on-remote-road/",
+   "summary": "A motorist in Massachusetts captured a wildly unsettling video of a person in a mask emerging from the woods and walking onto the road shortly before midnight on Wednesday. The post Motorist Captures Insanely Creepy Nighttime Video of Person in Halloween Mask Jumping in Front of His Car on Remote Road first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T03:47:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "79f422fb3971",
+   "title": "Democrats are furious after latest Platner revelations",
+   "link": "https://www.politico.com/news/2026/06/04/platner-democrats-furious-new-york-times-report-00951496",
+   "summary": "A New York Times report with new allegations about the Democrat’s Nazi symbol tattoo and conduct with women has the party freaking out over its Maine Senate chances.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-05T03:00:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0616e41c7e0f",
+   "title": "Former Trump Staffer Says Bondi ‘Laid The Groundwork’ For Todd Blanche To Have ‘Difficult Confirmation’",
+   "link": "https://www.mediaite.com/media/news/former-trump-staffer-says-bondi-laid-the-groundwork-for-todd-blanche-to-have-difficult-confirmation/",
+   "summary": "Deputy Communications Director for President Donald Trump's 2024 Campaign, Caroline Sunshine, said that former Attorney General Pam Bondi \"laid the groundwork\" for acting Attorney General Todd Blanche to have a \"difficult confirmation.\" The post Former Trump Staffer Says Bondi ‘Laid The Groundwork’ For Todd Blanche To Have ‘Difficult Confirmation’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T02:47:07+00:00",
+   "iran_topic": false
+  },
   {
    "id": "0586a8b7675b",
    "title": "Vanilla Ice Tells Laura Ingraham He’s Not Sure if Trump Still Wants Him to Perform at 250th Celebration",
@@ -902,76 +977,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-04T20:20:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d280e75a895f",
-   "title": "97 January 6 Rioters Pardoned by Trump Have Been Nabbed for Additional Crimes: Report",
-   "link": "https://www.mediaite.com/media/news/97-january-6-rioters-pardoned-by-trump-have-been-nabbed-for-additional-crimes-report/",
-   "summary": "Nearly 100 of the more than 1,500 J6 rioters granted clemency by Donald Trump have allegedly gone on to commit separate crimes The Lawfare Institute reported. The post 97 January 6 Rioters Pardoned by Trump Have Been Nabbed for Additional Crimes: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T20:03:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "922d3c3e051f",
-   "title": "Scott Bessent Straight Up Asks House Democrat to Say Sorry to Trump: ‘I Have Nothing to Apologize to This President For!’",
-   "link": "https://www.mediaite.com/media/tv/scott-bessent-straight-up-asks-house-democrat-to-say-sorry-to-trump-i-have-nothing-to-apologize-to-this-president-for/",
-   "summary": "Treasury Secretary Scott Bessent straight up asked Rep. Brad Schneider (D-IL) if he wanted to offer an apology to President Trump in a heated back-and-forth. The post Scott Bessent Straight Up Asks House Democrat to Say Sorry to Trump: ‘I Have Nothing to Apologize to This President For!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T19:49:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "06c4fc92d831",
-   "title": "The Daily Pour Becomes Nation’s Largest Producer of Whiskey Festivals with Acquisition of Whiskey Riot",
-   "link": "https://www.mediaite.com/crosspost/the-daily-pour-becomes-nations-largest-producer-of-whiskey-festivals-with-acquisition-of-whiskey-riot/",
-   "summary": "The Daily Pour announced the acquisition of Whiskey Riot — one of the most recognized whiskey festival brands across the United States. The deal marks the company&#8217;s third acquisition in 24 months, following the recent addition of The WhiskyX festivals, and underscores an active strategy to unite the fragmented premium spirits and non-alc events space. [&#8230;] The post The Daily Pour Becomes Nation’s Largest Producer of Whiskey Festivals with Acquisition of Whiskey Riot first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T19:48:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7226d8054dc0",
-   "title": "Two advisory board members of Stars and Stripes, the military newspaper that has long enjoyed editorial independence from the government, has sued the Defense Department — alleging that an effort to impose new restrictions on the paper was an act of illegal censorship.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnif6cble22s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-04T19:45:15.720+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d9aed7eec393",
-   "title": "‘SAVE COLLEGE SPORTS!’ Trump Calls on Congress to Pass Bill Introducing NIL Regulations in NCAA",
-   "link": "https://www.mediaite.com/media/sports/save-college-sports-trump-calls-on-congress-to-pass-bill-introducing-nil-regulations-in-ncaa/",
-   "summary": "President Donald Trump urged Congress on Thursday to pass a law that would establish a regulatory framework for the NCAA's name, image, and likeness guidelines. The post ‘SAVE COLLEGE SPORTS!’ Trump Calls on Congress to Pass Bill Introducing NIL Regulations in NCAA first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T19:39:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c10bc6512190",
-   "title": "‘You’re an Arsonist!’ Scott Bessent and Democrat Throw Terrible Polls in Each Other’s Faces During Heated Hearing Brawl",
-   "link": "https://www.mediaite.com/media/tv/youre-an-arsonist-scott-bessent-and-democrat-throw-terrible-polls-in-each-others-faces-during-heated-hearing-brawl/",
-   "summary": "Treasury Secretary Scott Bessent and Rep. Brendan Boyle (D-PA) threw bad polling at one another in a heated hearing brawl over the state of the economy. The post ‘You’re an Arsonist!’ Scott Bessent and Democrat Throw Terrible Polls in Each Other’s Faces During Heated Hearing Brawl first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T19:09:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2925a108ca48",
-   "title": "Watch the full video here: youtu.be/qVpih7hxtcg",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnibucq5x22s",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T18:45:59.416+00:00",
    "iran_topic": false
   }
  ]
