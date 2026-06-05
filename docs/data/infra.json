@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-05T09:37:33.296189+00:00",
+ "generated": "2026-06-05T11:52:22.118692+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.52,
-   "change": -0.51,
-   "change_pct": -0.54,
+   "price": 94.59,
+   "change": -0.44,
+   "change_pct": -0.46,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    94.5199966430664
+    94.58999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.32,
-   "change": -0.72,
-   "change_pct": -0.77,
+   "price": 92.69,
+   "change": -0.35,
+   "change_pct": -0.38,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    92.31999969482422
+    92.69000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4492.7,
-   "change": 16.9,
-   "change_pct": 0.38,
+   "price": 4492.0,
+   "change": 16.2,
+   "change_pct": 0.36,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4492.7001953125
+    4492.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.21,
-   "change": -0.2,
-   "change_pct": -0.2,
+   "price": 99.23,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    99.20999908447266
+    99.22699737548828
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 15.66,
-   "change": 0.26,
-   "change_pct": 1.69,
+   "price": 15.62,
+   "change": 0.22,
+   "change_pct": 1.43,
    "spark": [
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
-    15.65999984741211
+    15.619999885559082
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.33,
-   "change": -0.01,
-   "change_pct": -0.33,
+   "price": 3.31,
+   "change": -0.03,
+   "change_pct": -0.78,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.325000047683716
+    3.309999942779541
    ]
   }
  },
@@ -224,14 +224,21 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T09:36:48.712752+00:00",
+   "published": "2026-06-05T11:51:36.905862+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T09:36:48.712177+00:00",
+   "published": "2026-06-05T11:51:36.905139+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran declares support for Hezbollah with wider peace deal in doubt",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-declares-support-hezbollah-wider-peace-deal-doubt",
+   "source": "Al-Monitor",
+   "published": "2026-06-05T11:36:40+00:00",
    "severity": "info"
   },
   {
@@ -317,13 +324,6 @@
    "source": "Times of Israel",
    "published": "2026-06-04T11:48:54+00:00",
    "severity": "high"
-  },
-  {
-   "title": "More oil escapes Hormuz, keeping traders guessing reut.rs/4ejqQQ1",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnhejpt2vp2q",
-   "source": "@reuters",
-   "published": "2026-06-04T10:01:05+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 8,
+   "incident_count": 7,
    "recent": [
     {
      "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/znG4pOc...",
@@ -379,6 +379,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "864947ec47f3",
+   "title": "Corporate Donors to Trump’s Ballroom Reap $50B in Government Contracts, Watchdog Finds",
+   "link": "https://www.mediaite.com/media/news/corporate-donors-to-trumps-ballroom-reap-50b-in-government-contracts-watchdog-finds/",
+   "summary": "Public Citizen found that 14 of the 27 publicly known corporate donors to the $400 million ballroom project have secured additional federal business since. The post Corporate Donors to Trump’s Ballroom Reap $50B in Government Contracts, Watchdog Finds first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T11:36:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1ec44a4efee1",
+   "title": "Trump Trashes Preservation Advocate Trying to Block ‘Desperately Needed’ White House Ballroom: ‘Serial Plaintiff’",
+   "link": "https://www.mediaite.com/media/news/trump-trashes-preservation-advocate-trying-to-block-desperately-needed-white-house-ballroom-serial-plaintiff/",
+   "summary": "Trump unloaded on a preservation advocate who is bringing a legal challenge against the development of his White House ballroom project in a late-night post. The post Trump Trashes Preservation Advocate Trying to Block ‘Desperately Needed’ White House Ballroom: ‘Serial Plaintiff’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T10:24:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "983730eccbb7",
+   "title": "What does government oppression really look like?",
+   "link": "https://www.publicnotice.co/p/transgender-trump",
+   "summary": "You don't have to look far.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-05T10:17:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "eeef29128999",
+   "title": "Senate Approves $70B Funding for ICE, Border Patrol After All-Night ‘Slush Fund’ Debate",
+   "link": "https://www.mediaite.com/media/news/senate-approves-70b-funding-for-ice-border-patrol-after-all-night-slush-fund-debate/",
+   "summary": "The final vote followed a marathon Senate session dominated as much by intraparty Republican tensions as by immigration policy itself. The post Senate Approves $70B Funding for ICE, Border Patrol After All-Night ‘Slush Fund’ Debate first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T10:15:44+00:00",
+   "iran_topic": false
+  },
   {
    "id": "098bc429ae60",
    "title": "Breaking: Senate Republicans just rammed through Trump's massive $70 billion bill to fund ICE and Border Patrol, 52-47. Sen. Lisa Murkowski was the only Republican to vote against the bill. It now heads to the House.",
@@ -533,7 +573,7 @@
    "id": "75373ca05572",
    "title": "‘Commander-in-Sleep’: Liberals Have Field Day as a Tilting Trump Seems To Nod Off in Front of Reporters",
    "link": "https://www.mediaite.com/media/news/commander-in-sleep-liberals-have-field-day-as-a-tilting-trump-seems-to-nod-off-in-front-of-reporters/",
-   "summary": "Liberals had a field day on Thursday after President Donald Trump appeared to visibly nod off in front of reporters, tilting back in his chair with closed eyes in the Oval Office. Trump spoke to reporters during a lengthy Thursday press conference alongside EPA Administrator Lee Zeldin and other cabinet members. During multiple points throughout the conference, [&#8230;] The post ‘Commander-in-Sleep’: Liberals Have Field Day as a Tilting Trump Seems To Nod Off in Front of Reporters first appeared on Mediaite .",
+   "summary": "Liberals had a field day after President Trump appeared to visibly nod off in front of reporters, tilting back in his chair with closed eyes in the Oval Office. The post ‘Commander-in-Sleep’: Liberals Have Field Day as a Tilting Trump Seems To Nod Off in Front of Reporters first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T00:41:28+00:00",
@@ -937,46 +977,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-04T20:36:29.285+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "04f49f4100e8",
-   "title": "Weren't we told a few weeks ago that they had evidence that the 2020 election had been rigged? Seems like the kind of thing they would have probably released if it existed.",
-   "link": "https://bsky.app/profile/michaelianblack.bsky.social/post/3mnihyalzm225",
-   "summary": "",
-   "source": "@michaelianblack",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:35:33.863+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "35b127e53781",
-   "title": "Trump on Cuba: \"It's sort of collapsed. And we're gonna handle that as soon as we finish-- I like to do one thing at a time. We'll take care of the Islamic Republic of Iran, and as son as that is done, on our way, back we'll just make a brief stopover.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnihwoyqsa2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:34:41.836+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d42d9b7044a4",
-   "title": "Q: The Black unemployment rate is 7.3%. You campaigned on 'Black jobs.' How do you explain this disparity? TRUMP: Well, we're doing very well with the Black jobs",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnihli3w6r2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-04T20:28:25.498+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b3159352cbf8",
-   "title": "CBS Debunks Viral Claim It Was Considering Joe Rogan for ’60 Minutes’ Job",
-   "link": "https://www.mediaite.com/media/news/cbs-debunks-viral-claim-it-was-considering-joe-rogan-for-60-minutes-job/",
-   "summary": "CBS News responded to viral reports alleging that news chief Bari Weiss was considering podcaster Joe Rogan to join legendary news magazine 60 Minutes. The post CBS Debunks Viral Claim It Was Considering Joe Rogan for ’60 Minutes’ Job first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-04T20:20:56+00:00",
    "iran_topic": false
   }
  ]
