@@ -1,102 +1,102 @@
 {
- "generated": "2026-06-05T19:24:05.456911+00:00",
+ "generated": "2026-06-05T21:07:31.809509+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.79,
-   "change": -2.24,
-   "change_pct": -2.36,
+   "price": 92.84,
+   "change": -2.19,
+   "change_pct": -2.3,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    92.79000091552734
+    92.83999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.07,
-   "change": -2.97,
-   "change_pct": -3.19,
+   "price": 90.2,
+   "change": -2.84,
+   "change_pct": -3.05,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    90.06999969482422
+    90.19999694824219
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4340.6,
-   "change": -135.2,
-   "change_pct": -3.02,
+   "price": 4353.3,
+   "change": -122.5,
+   "change_pct": -2.74,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4340.60009765625
+    4353.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.09,
-   "change": 0.68,
-   "change_pct": 0.68,
+   "price": 100.1,
+   "change": 0.69,
+   "change_pct": 0.69,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    100.08799743652344
+    100.09600067138672
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7375.18,
-   "change": -209.13,
-   "change_pct": -2.76,
+   "price": 7383.74,
+   "change": -200.57,
+   "change_pct": -2.64,
    "spark": [
     7599.9599609375,
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
-    7375.18017578125
+    7383.740234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 132.82,
-   "change": -3.92,
-   "change_pct": -2.87,
+   "price": 133.02,
+   "change": -3.72,
+   "change_pct": -2.72,
    "spark": [
     135.5,
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
-    132.82000732421875
+    133.02000427246094
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.1,
-   "change": 4.7,
-   "change_pct": 30.52,
+   "price": 21.51,
+   "change": 6.11,
+   "change_pct": 39.68,
    "spark": [
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
-    20.100000381469727
+    21.510000228881836
    ]
   },
   "NG=F": {
@@ -104,13 +104,13 @@
    "symbol": "NG=F",
    "price": 3.22,
    "change": -0.12,
-   "change_pct": -3.57,
+   "change_pct": -3.45,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.2170000076293945
+    3.2209999561309814
    ]
   }
  },
@@ -221,17 +221,24 @@
  ],
  "incidents": [
   {
+   "title": "Man attacked by haredi protesters outside Jerusalem police station after Sohlberg rioters arrested",
+   "link": "https://www.jpost.com/israel-news/article-898506",
+   "source": "Jerusalem Post",
+   "published": "2026-06-05T21:32:26+00:00",
+   "severity": "medium"
+  },
+  {
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T19:23:22.201582+00:00",
+   "published": "2026-06-05T21:06:45.963512+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T19:23:22.200849+00:00",
+   "published": "2026-06-05T21:06:45.962797+00:00",
    "severity": "info"
   },
   {
@@ -317,13 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-05T09:30:18+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Middle East conflict pushing millions into hunger, WFP says",
-   "link": "https://www.al-monitor.com/originals/2026/06/middle-east-conflict-pushing-millions-hunger-wfp-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-05T09:01:46+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -379,6 +379,246 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "e96515fd150e",
+   "title": "Trump: Look at this guy over here. He is one hell of a specimen. This is one hell of a physical specimen. That’s what I like.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnl2a6rrd527",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-05T21:07:27.102+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9e91ebf7f204",
+   "title": "Trump: \"Growth stops inflation. They ought to go back to the old system. When we have good numbers, the market ought to go up, not go down.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnl27yed4m24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T21:07:20.473+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0d92e9c49ec9",
+   "title": "Trump makes up another word: \"I hope you people are very spiritized\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnl26ux3hw25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T21:06:43.338+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "25beb9022663",
+   "title": "Trump on Iran: \"It's really not much of a war. But it's a military conflict. It's practice.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnl25j2kgt2i",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T21:05:57.311+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d76fde3ab944",
+   "title": "Trump: \"A lot of people don't know 'dumb' has a B\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkzyit6xa2q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T21:03:09.300+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3fd4101eaa52",
+   "title": "Knicks fever hits the pols",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/05/knicks-fever-politicians-new-york-mamdani-hochul-fans-00952311",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-05T21:01:29+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "52fbcad4dc0d",
+   "title": "notable -- instead of doing his usual rally speech in Wisconsin, Trump is doing a roundtable, which allows him to stay seated",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkzsqxud325",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:59:56.516+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b2a9584c9d8c",
+   "title": "House Dem Blasts Graham Platner Amid ‘Distressing’ Waves of Allegations: ‘He Has Disqualified Himself’",
+   "link": "https://www.mediaite.com/politics/house-dem-blasts-graham-platner-amid-distressing-waves-of-allegations-he-has-disqualified-himself/",
+   "summary": "U.S. Rep. Madeleine Dean (D-PA) said she believes Maine Senate candidate Graham Platner has \"disqualified\" himself as a wave of scandalous allegations. The post House Dem Blasts Graham Platner Amid ‘Distressing’ Waves of Allegations: ‘He Has Disqualified Himself’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T20:53:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da847286a294",
+   "title": "The truth about Trump’s Truths",
+   "link": "https://www.politico.com/news/2026/06/05/trump-social-media-analysis-00952006",
+   "summary": "POLITICO takes a deep dive into Trump’s social media feed, revealing what the most powerful man in the world is focused on.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-05T20:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89e6e036b6ab",
+   "title": "James Carville Declares ‘F*cked Up’ Platner Could Be ‘100x More F*cked Up’ and Still Be Better Choice in Wild Rant",
+   "link": "https://www.mediaite.com/online/james-carville-declares-fcked-up-platner-could-be-100x-more-fcked-up-and-still-be-better-choice-in-wild-rant/",
+   "summary": "In a wild Friday YouTube rant, Democratic strategist James Carville deemed that \"f*cked up\" Maine Democratic Senate candidate Graham Platner could be \"100x more f*cked up\" and still be a better choice than Sen. Susan Collins (R-ME). The post James Carville Declares ‘F*cked Up’ Platner Could Be ‘100x More F*cked Up’ and Still Be Better Choice in Wild Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T20:29:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c1859fd02af4",
+   "title": "While we await Trump, let me also work in a plug for my newsletter. If you appreciate all the clipping I do week in and week out, please support my efforts by signing up. I think you'll enjoy Public Notice -- I'm very proud of our explanatory coverage -- and paid subscribers make my work possible.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnky35uxb222",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:28:51.021+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3e4d5d5e01cc",
+   "title": "here's video of Trump saying on Air Force One of extremely expensive NBA Finals tickets: \"You can watch it on TV. That's the way life goes.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkxvvhdic2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:25:54.414+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f02ef47fab55",
+   "title": "a look at the back of Trump's right hand as he briefly spoke to reporters in Wisconsin i'm not sure what's happening here, but aspirin and too much hand-shaking ain't it (Saul Loeb/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkxknday22s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:19:36.790+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "34f236a1a015",
+   "title": "Trump's hand was looking discolored and swollen today on Air Force One (Samuel Corum/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkxedxvi22s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:16:05.655+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f8e2eb862304",
+   "title": "funniest show of all time for my money",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkx3zcm2c2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:11:26.038+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d45f5b1a6e5f",
+   "title": "I'm going to clip as much of the Trump rally in Wisconsin as I can before I have to bounce in 90 minutes or so. I'll be doing so using @snapstream.com, the premier tool for social media video. If you want to clip like me, click the link for more info and to set up a demo.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkwzcn34k2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T20:09:55.154+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "38495f3ae101",
+   "title": "Q: \"What do you think that … the cheapest price for the game three you're going to is $8,000. Everyday Americans can't afford these sporting events.\" Trump: \"I know, but they could watch it on television. It's sort of semi free to watch it on television. But that's the way life goes for some.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkvx7knfk2u",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:50:51.079+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b505fa13bbe0",
+   "title": "Trump on high NBA Finals ticket prices",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkvugzibc2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:49:18.242+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6377def3ae65",
+   "title": "My opponents are all communists. In unrelated news, my government will be taking ownership of the means of production.",
+   "link": "https://bsky.app/profile/normative.bsky.social/post/3mnkvooga222i",
+   "summary": "",
+   "source": "@normative",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:46:04.673+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d2c104f66ecf",
+   "title": "First episode of the new PN Pod featuring me and @paulwaldman.bsky.social is live! We discussed corruption as the dominant narrative of the 2026 cycle, Platner’s personal foibles and the state of play in Maine, and also got into why President Deals has been unable to negotiate his way out of Iran.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkvigxjx22s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:42:35.525+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5e6ee1326f36",
+   "title": "Still got that fastball when he needs it",
+   "link": "https://bsky.app/profile/coachfinstock.bsky.social/post/3mnkv5yzslk2u",
+   "summary": "",
+   "source": "@coachfinstock",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:36:45.372+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "19d03d2632d1",
+   "title": "‘Senator Tillis Is a Loser!’ Trump Attacks GOP Senator Over Todd Blanche-January 6 Ultimatum",
+   "link": "https://www.mediaite.com/media/news/senator-tillis-is-a-loser-trump-attacks-gop-senator-over-todd-blanche-january-6-ultimatum/",
+   "summary": "Donald Trump blew up at Thom Tillis after a reporter asked the president about comments regarding acting Attorney General Todd Blanche. The post ‘Senator Tillis Is a Loser!’ Trump Attacks GOP Senator Over Todd Blanche-January 6 Ultimatum first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T19:33:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bf48433b83d2",
+   "title": "Trump walks away as a reporter asks him when was the last time he had discussions with Iran",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkuyg73yy2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:33:37.834+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "439216a9af98",
+   "title": "Trump's corruption as 2026's overarching narrative",
+   "link": "https://www.publicnotice.co/p/trumps-corruption-as-2026s-overarching",
+   "summary": "Introducing the new PN Pod with Aaron and Paul.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-05T19:26:07+00:00",
+   "iran_topic": false
+  },
   {
    "id": "694a468b91a1",
    "title": "Let them eat semi-free television broadcasts",
@@ -620,26 +860,6 @@
    "iran_topic": false
   },
   {
-   "id": "9919554ea274",
-   "title": "Trump, who didn't talk to reporters outside the White House, also didn't talk to reporters before boarding Air Force One",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkmwqdbc42m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T17:09:31.406+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "331391f674a7",
-   "title": "I'll be going live at 2pm eastern with the great @paulwaldman.bsky.social to discuss Trump's ill-fated insurrectionist slush fund, the implosion of Freedom 250, where things are going (or not going) in Iran, Platner, and we'll also take questions from viewers. Tune in:",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkmdyrxgs2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T16:59:02.768+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "428206e0cb9a",
    "title": "Top Trump Advisor Says Not to Worry About Draining Oil Reserves As New Pipelines Can Just Be Built",
    "link": "https://www.mediaite.com/media/news/top-trump-advisor-says-not-to-worry-about-draining-oil-reserves-as-new-pipelines-can-just-be-built/",
@@ -667,16 +887,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T16:41:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fead814ddb35",
-   "title": "Thats not how it works",
-   "link": "https://bsky.app/profile/gilmored85.bsky.social/post/3mnkl4los7c2d",
-   "summary": "",
-   "source": "@gilmored85",
-   "category": "trump_bsky",
-   "published": "2026-06-05T16:37:00.409+00:00",
    "iran_topic": false
   },
   {
@@ -720,46 +930,6 @@
    "iran_topic": false
   },
   {
-   "id": "e65792b888ab",
-   "title": "Republicans are taking the fattest, fastest L in history losing the war in Iran and they’re like, ‘Engh, this is fine. $10 a gallon gas is gonna be good for the economy. No fertilizer is gonna be great for public health, just you watch.’",
-   "link": "https://bsky.app/profile/jkarsh.bsky.social/post/3mnkizxeqyelh",
-   "summary": "",
-   "source": "@jkarsh",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:59:44.516+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "088ec301021c",
-   "title": "\"One of the most popular and profitable grifts in the world of the religious right and MAGA is the production of propaganda to convince Christians that they are horribly discriminated against, or even oppressed, by the government and government funded entities.\" — @brynntannehill.bsky.social",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkiz2l6pk2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:59:14.319+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e091646df9c3",
-   "title": "Quick. Keep building pipelines.",
-   "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3mnki7m7mhk2t",
-   "summary": "",
-   "source": "@carlquintanilla",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:45:00.397+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3e7ad9422cc8",
-   "title": "\"... straight men are afraid of gay men because they are afraid of being treated the way they treat women. ... most American Christians are afraid of transgender people because they’re afraid of being treated they way they treated African Americans decades ago, and transgender people today.\"",
-   "link": "https://bsky.app/profile/wendella.bsky.social/post/3mnkhx4i5lc2b",
-   "summary": "",
-   "source": "@wendella",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:40:15.466+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f48150bed817",
    "title": "Trump Fumes at Stock Market Dump After ‘Great’ Jobs Report",
    "link": "https://www.mediaite.com/politics/trump-fumes-at-stock-market-dump-after-great-jobs-report/",
@@ -767,66 +937,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T15:36:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cb455250569e",
-   "title": "‘Oh?’ Jim Cramer Not Buying Trump Official’s Claim ‘We Care’ About Americans Struggling to Buy Food",
-   "link": "https://www.mediaite.com/media/news/oh-jim-cramer-not-buying-trump-officials-claim-we-care-about-americans-struggling-to-buy-food/",
-   "summary": "CNBC anchor Jim Cramer appeared not to buy President Donald Trump’s chief economic adviser, Kevin Hassett's claim that the administration \"care[s] about everybody.\" The post ‘Oh?’ Jim Cramer Not Buying Trump Official’s Claim ‘We Care’ About Americans Struggling to Buy Food first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T15:34:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f6c7e31ff602",
-   "title": "Katie Couric Skewers Bari Weiss for ‘Really Grotesque’ Approach to Netanyahu Interview",
-   "link": "https://www.mediaite.com/media/katie-couric-skewers-bari-weiss-for-really-grotesque-approach-to-netanyahu-interview/",
-   "summary": "Katie Couric went off on CBS News boss Bari Weiss for her \"really grotesque\" handling of a 60 Minutes interview with Israeli Prime Minister Benjamin Netanyahu The post Katie Couric Skewers Bari Weiss for ‘Really Grotesque’ Approach to Netanyahu Interview first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T15:31:32+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "42056c8a4445",
-   "title": "Tom Emmer says fraudsters should be denaturalized and deported (but only the non-white ones!)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkhetev2c2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:30:01.942+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "db2d4db0a6a5",
-   "title": "Pipelines also famously impossible to sabotage.",
-   "link": "https://bsky.app/profile/benschleuss.bsky.social/post/3mnkhdiflbs2j",
-   "summary": "",
-   "source": "@benschleuss",
-   "category": "trump_bsky",
-   "published": "2026-06-05T15:29:16.876+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "63bcea79963b",
-   "title": "LISTEN: US Journalist Detained in Iran Appeals for Help in Recorded Call",
-   "link": "https://www.mediaite.com/media/tv/listen-us-journalist-detained-in-iran-appeals-for-help-in-recorded-call/",
-   "summary": "In a two-minute recorded phone call, Valizadeh urged Washington to intervene on behalf of several American detainees held by the Iranian regime. The post LISTEN: US Journalist Detained in Iran Appeals for Help in Recorded Call first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T15:07:11+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b065d726d7b6",
-   "title": "NYT headline when the economy added 266,000 jobs under Biden vs. NYT headline when BLS says the economy added 172,000 jobs under Trump.",
-   "link": "https://bsky.app/profile/meidastouch.com/post/3mnkf2qji7k2f",
-   "summary": "",
-   "source": "@meidastouch",
-   "category": "trump_bsky",
-   "published": "2026-06-05T14:48:35.917+00:00",
    "iran_topic": false
   },
   {
@@ -838,66 +948,6 @@
    "category": "trump_bsky",
    "published": "2026-06-05T14:40:44.129+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "59c9d8eff82b",
-   "title": "Q: Has China started buying American famers' product? What's the status on that? HASSETT: Um, I'd have to get an update on that",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcswjsow2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T14:08:26.286+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4c8011b1874a",
-   "title": "Ryan: \"This amendment is straightforward. It would prohibit the president from using my constituents' tax dollars to continue waging his ill-conceived & unconstitutional war in Iran... 97 days in, our best case -- our best case, which we're still not able to achieve -- is a return to the status quo\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcq44nkk2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T14:06:51.499+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f8642c01283e",
-   "title": "Hassett: \"The gas price story is a serious one. We understand that people are hurting on that. We've taken a number of measures to reduce the disruption, and we expect it to be temporary.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkcfl4sor2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T14:00:58.118+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4afbbc458eaa",
-   "title": "\"I tried finding her at every Olympic Gold Meda hockey match and every ski resort and definitely every bar I could find, I really did try my hardest.\"",
-   "link": "https://bsky.app/profile/fergoe.blacksky.app/post/3mnkca73xbk2v",
-   "summary": "",
-   "source": "@fergoe",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:57:57.749+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "37039e7f7aec",
-   "title": "the buck stops... over there somewhere. no, a little further than that. nope, little bit more. one more scooch",
-   "link": "https://bsky.app/profile/lauren.rotatingsandwiches.com/post/3mnkbvbqj3k2l",
-   "summary": "",
-   "source": "@lauren",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:51:51.422+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "103f8d55fb79",
-   "title": "Hassett on high gas prices: \"It's our view that it's a temporary phenomenon that is a result of the president taking strong action to make sure these lunatics in Iran don't have a nuclear weapon\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbp66cgk2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:48:26.338+00:00",
-   "iran_topic": true
   },
   {
    "id": "983730eccbb7",
@@ -927,56 +977,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-05T09:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d88e8ee11b27",
-   "title": "Brian Armstrong on Dimon, Trump, and crypto’s future",
-   "link": "https://www.politico.com/video/2026/06/04/brian-armstrong-on-dimon-trump-and-cryptos-future-2088702",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-05T03:59:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "79f422fb3971",
-   "title": "Democrats are furious after latest Platner revelations",
-   "link": "https://www.politico.com/news/2026/06/04/platner-democrats-furious-new-york-times-report-00951496",
-   "summary": "A New York Times report with new allegations about the Democrat’s Nazi symbol tattoo and conduct with women has the party freaking out over its Maine Senate chances.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-05T03:00:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "576ac08b7974",
-   "title": "Mamdani: Too often, a working New Yorker is trying to find any extra dollar they can to make ends meet—then they look at city government and they don't see the same application of effort.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnizjc4car2g",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-05T01:49:19.365+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bfbf5286a32b",
-   "title": "The Kennedy Center is beginning the process of removing references to Trump — a week after a federal judge ruled that his name had been illegally added to the performing arts center.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnizcjmolk2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T01:45:32.479+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "92ff224a1af2",
-   "title": "Watch the full video here: youtu.be/9TJd6S4zfyQ",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mniyqqavf22o",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-05T01:35:35.453+00:00",
    "iran_topic": false
   }
  ]
