@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-05T22:36:02.827265+00:00",
+ "generated": "2026-06-05T23:50:11.001153+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,35 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T22:35:14.168441+00:00",
+   "published": "2026-06-05T23:49:30.889570+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T22:35:14.167876+00:00",
+   "published": "2026-06-05T23:49:30.888887+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran has launched multiple drones towards the Strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
+   "source": "r/worldnews",
+   "published": "2026-06-05T23:12:46+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mnlb2mrvyk2q",
+   "source": "@apnews",
+   "published": "2026-06-05T23:09:36+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
+   "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
+   "source": "The Drive",
+   "published": "2026-06-05T22:58:52+00:00",
    "severity": "info"
   },
   {
@@ -303,55 +324,34 @@
    "source": "r/lebanon",
    "published": "2026-06-05T15:26:53+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
-   "link": "https://www.reddit.com/r/worldnews/comments/1txnv38/iran_says_it_fired_warning_missiles_drones_at_us/",
-   "source": "r/worldnews",
-   "published": "2026-06-05T15:15:58+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-forces-board-sanctioned-tanker-indian-ocean-pentagon-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-05T14:36:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Factbox-What issues do the US and Iran need to resolve for any peace deal?",
-   "link": "https://www.al-monitor.com/originals/2026/06/factbox-what-issues-do-us-and-iran-need-resolve-any-peace-deal",
-   "source": "Al-Monitor",
-   "published": "2026-06-05T14:36:44+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 3,
+   "status": "ELEVATED",
+   "incident_count": 5,
    "recent": [
     {
-     "title": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman reut.rs/3SnKMIR",
-     "link": "https://bsky.app/profile/reuters.com/post/3mnkmowlrmp2d",
-     "source": "@reuters",
-     "published": "2026-06-05T17:05:09+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-898491",
-     "source": "Jerusalem Post",
-     "published": "2026-06-05T16:51:44+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
-     "link": "https://www.reddit.com/r/worldnews/comments/1txnv38/iran_says_it_fired_warning_missiles_drones_at_us/",
+     "title": "Iran has launched multiple drones towards the Strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
      "source": "r/worldnews",
-     "published": "2026-06-05T15:15:58+00:00",
+     "published": "2026-06-05T23:12:46+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
+     "link": "https://bsky.app/profile/apnews.com/post/3mnlb2mrvyk2q",
+     "source": "@apnews",
+     "published": "2026-06-05T23:09:36+00:00",
+     "severity": "critical"
+    },
+    {
+     "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
+     "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
+     "source": "The Drive",
+     "published": "2026-06-05T22:58:52+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "78596138ae1c",
+   "title": "DOJ Lawyer Argues in Court That Trump Could Demolish Statue of Liberty if He Wants To",
+   "link": "https://www.mediaite.com/lawcrime/doj-lawyer-argues-in-court-that-trump-could-demolish-statue-of-liberty-if-he-wants-to/",
+   "summary": "Trump DOJ attorneys argued in court that the government would be able to \"bulldoze\" the Statue of Liberty during a hearing challenging the president's ballroom project. The post DOJ Lawyer Argues in Court That Trump Could Demolish Statue of Liberty if He Wants To first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T23:09:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "27cb129394ea",
+   "title": "Trump Tells Farmers, ‘Your Life Is Much Better Than My Life’",
+   "link": "https://www.mediaite.com/media/tv/trump-tells-farmers-your-life-is-much-better-than-my-life/",
+   "summary": "On Friday, during an appearance before farmers in Chippewa Falls, Wisconsin, President Donald Trump promised the crowd, \"Your life is much better than my life.\" The post Trump Tells Farmers, ‘Your Life Is Much Better Than My Life’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T22:57:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "97da3086e682",
+   "title": "California and New York Preparing to Sue to Block Paramount from Acquiring Warner Bros: Report",
+   "link": "https://www.mediaite.com/media/california-and-new-york-preparing-to-sue-to-block-paramount-from-acquiring-warner-bros-report/",
+   "summary": "A group of states led by California and New York is preparing to sue to block Paramount Skydance from acquiring Warner Bros. Reuters reported on Friday. The post California and New York Preparing to Sue to Block Paramount from Acquiring Warner Bros: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T22:45:20+00:00",
+   "iran_topic": false
+  },
   {
    "id": "bad3dc0c0c9b",
    "title": "Todd Blanche says he's putting \"roadblocks\" in place so that it's harder for Democrats to hold Trump accountable in the future.",
@@ -947,36 +977,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T17:54:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "026d251bbc0b",
-   "title": "CNN’s K-File Rebuts Graham Platner’s Nazi Tattoo Denial: How Did Ex-Girlfriend Know Before He Did?",
-   "link": "https://www.mediaite.com/media/tv/cnns-k-file-rebuts-graham-platners-nazi-tattoo-denial-how-did-ex-girlfriend-know-before-he-did/",
-   "summary": "\"This raises new questions about Platner's longstanding claim that he only recently learned about the symbol's Nazi associations last year.\" The post CNN’s K-File Rebuts Graham Platner’s Nazi Tattoo Denial: How Did Ex-Girlfriend Know Before He Did? first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T17:49:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a7d73ce84976",
-   "title": "New Jersey Police Sergeant Charged With Stealing AP Photographer’s Equipment During Delaney Hall Anti-ICE Protests",
-   "link": "https://www.mediaite.com/media/news/new-jersey-police-sergeant-charged-with-stealing-ap-photographers-equipment-during-delaney-hall-anti-ice-protests/",
-   "summary": "A New Jersey police sergeant has been charged with stealing an AP photographer's bag containing thousands of dollars worth of equipment. The post New Jersey Police Sergeant Charged With Stealing AP Photographer’s Equipment During Delaney Hall Anti-ICE Protests first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T17:39:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d62089a0f15",
-   "title": "Breaking: Providence, R.I. (AP) - Judge strikes down Trump immigration policies that halted asylum decisions and other benefits from 39 countries.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkoezoqb22n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T17:35:24.748+00:00",
    "iran_topic": false
   }
  ]
