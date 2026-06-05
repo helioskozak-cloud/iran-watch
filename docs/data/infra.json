@@ -1,116 +1,116 @@
 {
- "generated": "2026-06-05T17:32:42.870147+00:00",
+ "generated": "2026-06-05T19:24:05.456911+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.88,
-   "change": -2.15,
-   "change_pct": -2.26,
+   "price": 92.79,
+   "change": -2.24,
+   "change_pct": -2.36,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    92.87999725341797
+    92.79000091552734
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.01,
-   "change": -3.03,
-   "change_pct": -3.26,
+   "price": 90.07,
+   "change": -2.97,
+   "change_pct": -3.19,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    90.01000213623047
+    90.06999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4365.0,
-   "change": -110.8,
-   "change_pct": -2.48,
+   "price": 4340.6,
+   "change": -135.2,
+   "change_pct": -3.02,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4365.0
+    4340.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.02,
-   "change": 0.61,
-   "change_pct": 0.62,
+   "price": 100.09,
+   "change": 0.68,
+   "change_pct": 0.68,
    "spark": [
     99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    100.02300262451172
+    100.08799743652344
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7450.33,
-   "change": -133.98,
-   "change_pct": -1.77,
+   "price": 7375.18,
+   "change": -209.13,
+   "change_pct": -2.76,
    "spark": [
     7599.9599609375,
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
-    7450.330078125
+    7375.18017578125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 132.65,
-   "change": -4.09,
-   "change_pct": -2.99,
+   "price": 132.82,
+   "change": -3.92,
+   "change_pct": -2.87,
    "spark": [
     135.5,
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
-    132.65499877929688
+    132.82000732421875
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.79,
-   "change": 3.39,
-   "change_pct": 22.01,
+   "price": 20.1,
+   "change": 4.7,
+   "change_pct": 30.52,
    "spark": [
     16.049999237060547,
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
-    18.790000915527344
+    20.100000381469727
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.21,
+   "price": 3.22,
    "change": -0.12,
-   "change_pct": -3.69,
+   "change_pct": -3.57,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.2130000591278076
+    3.2170000076293945
    ]
   }
  },
@@ -224,15 +224,22 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T17:31:58.835884+00:00",
+   "published": "2026-06-05T19:23:22.201582+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T17:31:58.835133+00:00",
+   "published": "2026-06-05T19:23:22.200849+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Ottawa Wants Future Canadian Army HIMARS to Deploy Long-range Anti-ship Missiles",
+   "link": "https://news.usni.org/2026/06/05/ottawa-wants-future-canadian-army-himars-to-deploy-long-range-anti-ship-missiles",
+   "source": "USNI News",
+   "published": "2026-06-05T19:22:23+00:00",
+   "severity": "high"
   },
   {
    "title": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman reut.rs/3SnKMIR",
@@ -317,13 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-05T09:01:46+00:00",
    "severity": "low"
-  },
-  {
-   "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/znG4pOc...",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnjme7catk2w",
-   "source": "@reuters",
-   "published": "2026-06-05T07:26:29.855+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 4,
+   "incident_count": 3,
    "recent": [
     {
      "title": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman reut.rs/3SnKMIR",
@@ -379,6 +379,226 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "694a468b91a1",
+   "title": "Let them eat semi-free television broadcasts",
+   "link": "https://bsky.app/profile/davidryanmiller.com/post/3mnkudadlpc25",
+   "summary": "",
+   "source": "@davidryanmiller",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:21:47.065+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "42f26ef5a4b0",
+   "title": "Trump Urges ‘Less Shackled’ Bill Pulte to Fire Intelligence Officials: WSJ",
+   "link": "https://www.mediaite.com/media/news/trump-urges-less-shackled-bill-pulte-to-fire-intelligence-officials-wsj/",
+   "summary": "Per a Friday interview with The Wall Street Journal, President Donald Trump said acting Director of National Intelligence Bill Pulte is \"less shackled\" because he does not require Senate confirmation — and should use that freedom to begin firing employees across the U.S. intelligence community. The post Trump Urges ‘Less Shackled’ Bill Pulte to Fire Intelligence Officials: WSJ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T19:18:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3e8990fefa56",
+   "title": "State capitalism ftw",
+   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mnktacpx6v2k",
+   "summary": "",
+   "source": "@kairyssdal",
+   "category": "trump_bsky",
+   "published": "2026-06-05T19:02:15.374+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3481bedbb5fe",
+   "title": "Trump says he's interested in govt taking equity stakes in the giant AI companies like OpenAI or Anthropic: \"There's something very interesting about it, where it almost becomes a partnership. The American people can benefit from the success of AI, and by doing that, they're gonna like it better.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkswu4wqc2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T18:56:57.869+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e5cc41a0086f",
+   "title": "Trump Quips ‘That’s the Way Life Goes’ After Reporter Says ‘Everyday Americans’ Can’t Afford NBA Finals",
+   "link": "https://www.mediaite.com/media/sports/trump-quips-thats-the-way-life-goes-after-reporter-says-everyday-americans-cant-afford-nba-finals/",
+   "summary": "During a Friday press gaggle aboard Air Force One, President Donald Trump quipped, \"That's the way life goes\" after a reporter remarked that \"everyday Americans\" can't afford tickets to the NBA Finals. The post Trump Quips ‘That’s the Way Life Goes’ After Reporter Says ‘Everyday Americans’ Can’t Afford NBA Finals first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T18:49:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6cafa1bb7b51",
+   "title": "John Cornyn Backs Off Project to Rename Texas Highway After Donald Trump Following Loss to Trump-Backed Challenger",
+   "link": "https://www.mediaite.com/media/news/john-cornyn-backs-off-project-to-rename-texas-highway-after-donald-trump-following-loss-to-trump-backed-challenger/",
+   "summary": "John Cornyn has lost interest in renaming a Texas highway after President Donald Trump following his primary loss to Trump-backed Ken Paxton. The post John Cornyn Backs Off Project to Rename Texas Highway After Donald Trump Following Loss to Trump-Backed Challenger first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T18:28:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ed0593fa6d8",
+   "title": "Another way to do this would be to obey the law as President",
+   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3mnkrbbawj22c",
+   "summary": "",
+   "source": "@grudgie",
+   "category": "trump_bsky",
+   "published": "2026-06-05T18:26:59.692+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "546881c3e0a0",
+   "title": "Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/",
+   "summary": "SECURING THE BEST AI IN THE WORLD FOR AMERICA’S DEFENDERS:&#160;Today, President Donald J. Trump signed a National Security Presidential Memorandum on Artificial Intelligence (AI) in the National Security Enterprise, establishing a new framework to put the most advanced, secure, and reliable AI systems into the hands of America’s warfighters and intelligence professionals while ensuring their [&#8230;] The post Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-05T18:24:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0cedf16305b9",
+   "title": "National Security Presidential Memorandum/NSPM-11",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+   "summary": "MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATIONAL INTELLIGENCE THE DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY [&#8230;] The post National Security Presidential Memorandum/NSPM-11 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-05T18:22:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0cedf16305b9",
+   "title": "National Security Presidential Memorandum/NSPM-11",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+   "summary": "MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATIONAL INTELLIGENCE THE DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY [&#8230;] The post National Security Presidential Memorandum/NSPM-11 appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-05T18:22:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9ae0fca481ae",
+   "title": "i know no one cares, nothing matters, it’s all blasé to the median voter and pundit, but a sitting AG (even just acting) making these kinds of boldly partisan remarks would have been seen, in the past, as grounds for removal on a bipartisan basis",
+   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mnkqsqrsfc24",
+   "summary": "",
+   "source": "@golikehellmachine",
+   "category": "trump_bsky",
+   "published": "2026-06-05T18:18:52.658+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b77a2e5d29cf",
+   "title": "Anna Paulina Luna Discusses Why She Thinks Epstein Was an Intelligence Agent and Trump Opposed Releasing the Files",
+   "link": "https://www.mediaite.com/politics/anna-paulina-luna-discusses-why-she-thinks-epstein-was-an-intelligence-agent-and-trump-opposed-releasing-the-files/",
+   "summary": "During the sit-down, Douthat challenged the Florida Republican on why President Donald Trump didn’t want the Epstein files released The post Anna Paulina Luna Discusses Why She Thinks Epstein Was an Intelligence Agent and Trump Opposed Releasing the Files first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T18:18:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9fbd4de5df54",
+   "title": "NEW POLL: Americans Disapprove of Trump’s WH UFC Arena Troll — By Whopping 7 to 1",
+   "link": "https://www.mediaite.com/media/news/new-poll-americans-disapprove-of-trumps-wh-ufc-arena-troll-by-whopping-7-to-1/",
+   "summary": "Americans disapprove of Trump's Ultimate Fighting Championship (UFC) arena that’s being built at the White House — by more than double those who approve. The post NEW POLL: Americans Disapprove of Trump’s WH UFC Arena Troll — By Whopping 7 to 1 first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T18:12:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0bfc903e76ba",
+   "title": "Mark Levin Sounds Alarm Over Trump-Backed Saudi Nuclear Deal: ‘Everyone OK With This?’",
+   "link": "https://www.mediaite.com/media/news/mark-levin-sounds-alarm-over-trump-backed-saudi-nuclear-deal-everyone-ok-with-this/",
+   "summary": "Conservative radio host Mark Levin raised concerns Friday about a reported civil nuclear agreement being negotiated between President Donald Trump's administration and Saudi Arabia, sharing an article outlining warnings from lawmakers and nuclear policy experts who fear the deal could weaken long-standing nonproliferation standards. The post Mark Levin Sounds Alarm Over Trump-Backed Saudi Nuclear Deal: ‘Everyone OK With This?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T18:06:35+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5dad40253d3d",
+   "title": "Breaking WSJ: Trump says he wants Bill Pulte, his incoming, unqualified acting Director of National Intelligence, to begin firing a large number of employees as part of a shake-up of the intel community. Reminder: Just yesterday, Trump said Pulte won't be in this role permanently.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkpjjb4ws2f",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T17:55:49.039+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d8347cbc4ffb",
+   "title": "Chicago Bears Moving Forward With Plan to Relocate to Indiana",
+   "link": "https://www.mediaite.com/media/sports/chicago-bears-moving-forward-with-plan-to-relocate-to-indiana/",
+   "summary": "The Chicago Bears announced Friday the team's board of directors \"voted to advance\" plans for a relocation across state lines to Indiana. The post Chicago Bears Moving Forward With Plan to Relocate to Indiana first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T17:54:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "72fa0e723fba",
+   "title": "Q: The NBA Finals game you're going to, the cheapest ticket price is $8,000. Everyday Americans can't afford these sporting events. TRUMP: You can watch it on TV. It's sort of semi-free to watch it on TV. That's the way life goes.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkpe6rb2c2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T17:52:50.262+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c09789a85396",
+   "title": "Trump: \"I should be a stock broker\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnkp7g7ztc2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-05T17:50:10.314+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "026d251bbc0b",
+   "title": "CNN’s K-File Rebuts Graham Platner’s Nazi Tattoo Denial: How Did Ex-Girlfriend Know Before He Did?",
+   "link": "https://www.mediaite.com/media/tv/cnns-k-file-rebuts-graham-platners-nazi-tattoo-denial-how-did-ex-girlfriend-know-before-he-did/",
+   "summary": "\"This raises new questions about Platner's longstanding claim that he only recently learned about the symbol's Nazi associations last year.\" The post CNN’s K-File Rebuts Graham Platner’s Nazi Tattoo Denial: How Did Ex-Girlfriend Know Before He Did? first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T17:49:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a7d73ce84976",
+   "title": "New Jersey Police Sergeant Charged With Stealing AP Photographer’s Equipment During Delaney Hall Anti-ICE Protests",
+   "link": "https://www.mediaite.com/media/news/new-jersey-police-sergeant-charged-with-stealing-ap-photographers-equipment-during-delaney-hall-anti-ice-protests/",
+   "summary": "A New Jersey police sergeant has been charged with stealing an AP photographer's bag containing thousands of dollars worth of equipment. The post New Jersey Police Sergeant Charged With Stealing AP Photographer’s Equipment During Delaney Hall Anti-ICE Protests first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T17:39:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d62089a0f15",
+   "title": "Breaking: Providence, R.I. (AP) - Judge strikes down Trump immigration policies that halted asylum decisions and other benefits from 39 countries.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkoezoqb22n",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T17:35:24.748+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f351ca6394af",
+   "title": "‘Pod Save America’ Host Mistakenly Invited to Trump’s White House UFC Event — Then Uninvited",
+   "link": "https://www.mediaite.com/online/pod-save-america-host-mistakenly-invited-to-trumps-white-house-ufc-event-then-uninvited/",
+   "summary": "In a clip posted Thursday night on X, Pod Save America host Jon Favreau spilled the beans about being mistakenly invited — and then uninvited — to President Donald Trump's upcoming White House UFC fight night. The post ‘Pod Save America’ Host Mistakenly Invited to Trump’s White House UFC Event — Then Uninvited first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-05T17:32:07+00:00",
+   "iran_topic": false
+  },
   {
    "id": "1a7e702093d5",
    "title": "FLAG: Trump-appointed U.S. Attorney Bill Essayli says he's pursuing several election fraud investigations with the FBI over California's vote count. There is zero evidence of fraud. This comes after Trump claimed fraud was taking place — despite providing zero evidence to support that claim.",
@@ -600,46 +820,6 @@
    "iran_topic": true
   },
   {
-   "id": "d9f2b2a3a0f0",
-   "title": "CNN’s Abby Phillip Calls Out Liberals for ‘Attacking’ Platner Accusers",
-   "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-calls-out-liberals-for-attacking-platner-accusers/",
-   "summary": "Abby Phillip called out Democrats for attacking the ex-girlfriends of Graham Platner who have spoken out about his \"unsettling\" behavior. The post CNN’s Abby Phillip Calls Out Liberals for ‘Attacking’ Platner Accusers first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T15:00:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2f5777c1517c",
-   "title": "Adam Carolla Goes OFF on Pride Month: ‘Insane’ and ‘Destructive’",
-   "link": "https://www.mediaite.com/media/adam-carolla-goes-off-on-pride-month-insane-and-destructive/",
-   "summary": "Adam Carolla went scorched earth on June being gay Pride Month, with the veteran podcaster arguing it is \"insane and destructive\" to lump Americans together The post Adam Carolla Goes OFF on Pride Month: ‘Insane’ and ‘Destructive’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:57:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "09b0cfecc67f",
-   "title": "WATCH: Baltimore Drivers Stunned as Speeding Motorized Wheelchair Seen Weaving Through Traffic",
-   "link": "https://www.mediaite.com/online/watch-baltimore-drivers-stunned-as-speeding-motorized-wheelchair-seen-weaving-through-traffic/",
-   "summary": "The rider, wearing a motorsports helmet, appeared to keep pace with surrounding traffic as cars passed in adjacent lanes. The post WATCH: Baltimore Drivers Stunned as Speeding Motorized Wheelchair Seen Weaving Through Traffic first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:55:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2bc50af0efb4",
-   "title": "MS NOW Host Roasts Trump AG For Blurting ‘I Love You Sir’ at Presser: ‘Debasing Himself’",
-   "link": "https://www.mediaite.com/media/news/ms-now-host-roasts-trump-ag-for-blurting-i-love-you-sir-at-presser-debasing-himself/",
-   "summary": "Lawrence O’Donnell mocked Todd Blanche for \"debasing himself\" by blurting \"I love you sir\" at a press conference, referring to President Donald Trump. The post MS NOW Host Roasts Trump AG For Blurting ‘I Love You Sir’ at Presser: ‘Debasing Himself’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:52:09+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b065d726d7b6",
    "title": "NYT headline when the economy added 266,000 jobs under Biden vs. NYT headline when BLS says the economy added 172,000 jobs under Trump.",
    "link": "https://bsky.app/profile/meidastouch.com/post/3mnkf2qji7k2f",
@@ -650,16 +830,6 @@
    "iran_topic": false
   },
   {
-   "id": "7019202206af",
-   "title": "Another Round of Layoffs Could Be on the Way for ESPN: Report",
-   "link": "https://www.mediaite.com/media/sports/another-round-of-layoffs-could-be-on-the-way-for-espn-report/",
-   "summary": "Another round of layoffs is potentially on the horizon for ESPN and could include even more on-air talent, Front Office Sports reported Thursday. The post Another Round of Layoffs Could Be on the Way for ESPN: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:44:45+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3f755da407fb",
    "title": "More than half of the publicly identified donors to Trump's White House ballroom project have won new or expanded federal contracts worth more than $50 billion during the past six months, according to a report released by a government watchdog group.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkemolls22m",
@@ -667,56 +837,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-05T14:40:44.129+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "144a4c4f8630",
-   "title": "‘Left Him Holding The Bag’: Dem Lawmaker Says Bondi Blamed Todd Blanche ‘For Everything’ in Epstein Hearing",
-   "link": "https://www.mediaite.com/media/news/left-him-holding-the-bag-dem-lawmaker-says-bondi-blamed-todd-blanche-for-everything-in-epstein-hearing/",
-   "summary": "Rep. Raja Krishnamoorthi (D-IL) told CNN's Kate Bolduan on Friday that former Attorney General Pam Bondi blamed acting Attorney General Todd Blanche \"for everything\" at her recent hearing surrounding Jeffrey Epstein. The post ‘Left Him Holding The Bag’: Dem Lawmaker Says Bondi Blamed Todd Blanche ‘For Everything’ in Epstein Hearing first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:30:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0e47f7056f1d",
-   "title": "CNN’s Harry Enten Reports ‘Rural Revolt’ Against Trump With Shocking Drop In Polls: ‘Over 50 Point Switcheroo’",
-   "link": "https://www.mediaite.com/media/news/cnns-harry-enten-reports-rural-revolt-against-trump-with-shocking-drop-in-polls-over-50-point-switcheroo/",
-   "summary": "CNN data analyst Harry Enten said there has been a \"rural revolt\" against President Donald Trump, claiming a key base of voters who were once strongly supportive of the president have turned on him over economic struggles. The post CNN’s Harry Enten Reports ‘Rural Revolt’ Against Trump With Shocking Drop In Polls: ‘Over 50 Point Switcheroo’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:22:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f55b00e97997",
-   "title": "Trump Ally Gets Roasted in CNN Brawl Over $1.8B Slush Fund: ‘I’m Really Embarrassed For You!’",
-   "link": "https://www.mediaite.com/media/news/trump-ally-gets-roasted-in-cnn-brawl-over-1-8b-slush-fund-im-really-embarrassed-for-you/",
-   "summary": "A Trump ally got roasted by a fellow panelist during a brawl over the $1.8 billion slush fund that the administration claims it has abandoned for good. The post Trump Ally Gets Roasted in CNN Brawl Over $1.8B Slush Fund: ‘I’m Really Embarrassed For You!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:17:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4fd61d235651",
-   "title": "Jesse Watters: Clueless Democrats Thought ‘Creeps Who Get Nazi Tattoos’ Like Graham Platner Would Appeal to Men",
-   "link": "https://www.mediaite.com/media/tv/jesse-watters-clueless-democrats-thought-creeps-who-get-nazi-tattoos-like-graham-platner-would-appeal-to-men/",
-   "summary": "Jesse Watters argued the Democrats are so clueless about men that they thought running \"creeps who get Nazi tattoos\" like Graham Platner would work The post Jesse Watters: Clueless Democrats Thought ‘Creeps Who Get Nazi Tattoos’ Like Graham Platner Would Appeal to Men first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:16:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a16c5ed95c5a",
-   "title": "Van Jones Calls Graham Platner a ‘Moment of Truth’ for Dems: ‘Do You Want to Sign Off on the Donald Trump Standard?’",
-   "link": "https://www.mediaite.com/media/tv/van-jones-calls-graham-platner-a-moment-of-truth-for-dems-do-you-want-to-sign-off-on-the-donald-trump-standard/",
-   "summary": "CNN's Van Jones argued that Graham Platner's campaign for the Senate in Maine a moment of truth for the Democratic Party. The post Van Jones Calls Graham Platner a ‘Moment of Truth’ for Dems: ‘Do You Want to Sign Off on the Donald Trump Standard?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T14:16:30+00:00",
    "iran_topic": false
   },
   {
@@ -778,86 +898,6 @@
    "category": "trump_bsky",
    "published": "2026-06-05T13:48:26.338+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "70ddeb994a17",
-   "title": "Kevin Hassett: \"Right now, Wall Street just doesn't understand that the Trump economy is really creating an economic golden age\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbosxenc2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:48:14.575+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9b2e28a12640",
-   "title": "Fraud czar Colin McDonald says he's \"coming after the koi fish\" purchased by fraudsters",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkbgiujiy2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:43:35.484+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6886b2292836",
-   "title": "So independent!",
-   "link": "https://bsky.app/profile/zanath.bsky.social/post/3mnkb7ccqlk2j",
-   "summary": "",
-   "source": "@zanath",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:39:33.823+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5bbf221ec518",
-   "title": "Acting AG Todd Blanche says he's working to install \"roadblocks\" to prevent Democrats from prosecuting Trump and his associates in the future",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkb4hpeie2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:37:58.802+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4ff7672b4e59",
-   "title": "Hassett: \"Even if the strait stays closed, what will happen is they will start building pipelines to get into the Red Sea and so on, so markets adjust to these things\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkayxxvga2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:36:01.641+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "55b3ede8619c",
-   "title": "tRump admin motto: \"The buck stops there.\"",
-   "link": "https://bsky.app/profile/polyesterunis.com/post/3mnkaxwfr7c2o",
-   "summary": "",
-   "source": "@polyesterunis",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:35:26.457+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ac3e5e18c417",
-   "title": "Kash Patel blames others for Nancy Guthrie not being found: \"We are not the lead agency. We were not let in for four days. That's their choice.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkasz7v6z2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:32:41.625+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "60c467ba13f6",
-   "title": "Blanche: \"They're not peaceful protesters. When I hear the mainstream media refer to these men and women as 'protesters,' they are lying to the American people. They are lying. They are not protesters. They are rioters injecting violence. They don't even know what they're fighting.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkaofuqlp2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T13:30:07.118+00:00",
-   "iran_topic": false
   },
   {
    "id": "983730eccbb7",
@@ -937,46 +977,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-05T01:35:35.453+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1faa65af1c62",
-   "title": "Popok: I am troubled by how many people are willing to endanger their law licenses in the service of Tump. Is it the proximity to power? Luttig: It’s proximity to Trump. If the president is calling the judges corrupt and you represent the president, then that’s your mindset",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mniyovm7oc2o",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-05T01:34:33.958+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a04ab9737cb9",
-   "title": "Thousands of Albanians are protesting a luxury resort planned for a pristine strip of the Mediterranean coastline and backed by Ivanka and Jared. The protests are raising concerns about conservation, transparency and the project's ties to the Trump family.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mniwsagbb22n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T01:00:38.477+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a95bd5241829",
-   "title": "WASHINGTON (AP) - House passes bill to aid Ukraine and sanction Russia in a sign of impatience with Trump's approach to the war.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mniukl3r3s2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T00:20:33.748+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "925ffdcc170f",
-   "title": "Mamdani: In advance of what was an incredible game one, we made what I would have to call one of our easiest decisions thus far in City Hall. We finally said no to the bedtime lobby, and we suspended bedtimes for children across our city.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnis5y662a2t",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-04T23:37:43.593+00:00",
    "iran_topic": false
   }
  ]
