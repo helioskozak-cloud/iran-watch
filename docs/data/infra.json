@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T08:28:35.996683+00:00",
+ "generated": "2026-06-06T10:30:41.805978+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,35 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-06T08:27:54.819403+00:00",
+   "published": "2026-06-06T10:29:51.626117+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-06T08:27:54.818664+00:00",
+   "published": "2026-06-06T10:29:51.625543+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump has brought negotiations to a standstill: Major General Rezaei",
+   "link": "https://en.irna.ir/news/86174397/Trump-has-brought-negotiations-to-a-standstill-Major-General",
+   "source": "IRNA",
+   "published": "2026-06-06T08:40:30+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz reut.rs/3RRMx0X",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnmawrqfq52j",
+   "source": "@reuters",
+   "published": "2026-06-06T08:40:07+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "U.S. Strikes Iranian Radar Sites Following Drone Attacks in Strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1tybcqp/us_strikes_iranian_radar_sites_following_drone/",
+   "source": "r/worldnews",
+   "published": "2026-06-06T08:11:33+00:00",
    "severity": "info"
   },
   {
@@ -270,13 +291,6 @@
    "severity": "critical"
   },
   {
-   "title": "Iran fires missiles at Kuwait and Bahrain after US military hits Iranian radar sites",
-   "link": "https://www.timesofisrael.com/liveblog-june-06-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-06T00:13:55+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran has launched multiple drones towards the Strait of Hormuz",
    "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
    "source": "r/worldnews",
@@ -310,20 +324,6 @@
    "source": "USNI News",
    "published": "2026-06-05T21:41:02+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Man attacked by haredi protesters outside Jerusalem police station after Sohlberg rioters arrested",
-   "link": "https://www.jpost.com/israel-news/article-898506",
-   "source": "Jerusalem Post",
-   "published": "2026-06-05T21:32:26+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Ottawa Wants Future Canadian Army HIMARS to Deploy Long-range Anti-ship Missiles",
-   "link": "https://news.usni.org/2026/06/05/ottawa-wants-future-canadian-army-himars-to-deploy-long-range-anti-ship-missiles",
-   "source": "USNI News",
-   "published": "2026-06-05T19:22:23+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 4,
+   "incident_count": 6,
    "recent": [
+    {
+     "title": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz reut.rs/3RRMx0X",
+     "link": "https://bsky.app/profile/reuters.com/post/3mnmawrqfq52j",
+     "source": "@reuters",
+     "published": "2026-06-06T08:40:07+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "U.S. Strikes Iranian Radar Sites Following Drone Attacks in Strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1tybcqp/us_strikes_iranian_radar_sites_following_drone/",
+     "source": "r/worldnews",
+     "published": "2026-06-06T08:11:33+00:00",
+     "severity": "info"
+    },
     {
      "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
      "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
      "source": "The Drive",
      "published": "2026-06-06T02:46:24+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran has launched multiple drones towards the Strait of Hormuz, CNN reports reut.rs/4ec3ef1",
-     "link": "https://bsky.app/profile/reuters.com/post/3mnlieakxai2j",
-     "source": "@reuters",
-     "published": "2026-06-06T01:20:15+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran has launched multiple drones towards the Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
-     "source": "r/worldnews",
-     "published": "2026-06-05T23:12:46+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "32f7833a6d23",
+   "title": "Trump's cognitive impairment endangers us all",
+   "link": "https://www.publicnotice.co/p/trump-cognitive-impairment",
+   "summary": "It's undeniable if you actually watch him.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-06T10:17:33+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f59c5f0bfc2e",
    "title": "Reebok? You buy that from a T Rex or something?",
@@ -967,16 +977,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-05T19:26:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "42f26ef5a4b0",
-   "title": "Trump Urges ‘Less Shackled’ Bill Pulte to Fire Intelligence Officials: WSJ",
-   "link": "https://www.mediaite.com/media/news/trump-urges-less-shackled-bill-pulte-to-fire-intelligence-officials-wsj/",
-   "summary": "Per a Friday interview with The Wall Street Journal, President Donald Trump said acting Director of National Intelligence Bill Pulte is \"less shackled\" because he does not require Senate confirmation — and should use that freedom to begin firing employees across the U.S. intelligence community. The post Trump Urges ‘Less Shackled’ Bill Pulte to Fire Intelligence Officials: WSJ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T19:18:51+00:00",
    "iran_topic": false
   }
  ]
