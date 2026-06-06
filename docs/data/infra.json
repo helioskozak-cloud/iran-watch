@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T16:05:51.444944+00:00",
+ "generated": "2026-06-06T17:35:11.300667+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,14 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-06T16:04:51.638979+00:00",
+   "published": "2026-06-06T17:34:25.293778+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-06T16:04:51.638226+00:00",
+   "published": "2026-06-06T17:34:25.293057+00:00",
    "severity": "info"
   },
   {
@@ -291,6 +291,13 @@
    "severity": "low"
   },
   {
+   "title": "Iran targets Bahrain and Kuwait after new US strikes",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-bahrain-and-kuwait-after-new-us-strikes",
+   "source": "Al-Monitor",
+   "published": "2026-06-06T05:30:18+00:00",
+   "severity": "low"
+  },
+  {
    "title": "US energy secretary says lower gas prices will ultimately take resolution with Iran",
    "link": "https://www.jpost.com/international/article-898511",
    "source": "Jerusalem Post",
@@ -317,13 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-06T00:36:38+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Iran has launched multiple drones towards the Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
-   "source": "r/worldnews",
-   "published": "2026-06-05T23:12:46+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 8,
+   "incident_count": 7,
    "recent": [
     {
      "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
@@ -379,6 +379,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "3eb5419635a2",
+   "title": "Bill Maher Bashes Acts Like ‘C Plus C Music Factory’ For Dumping Trump 250 Event: ‘Don’t Love America’",
+   "link": "https://www.mediaite.com/media/entertainment/bill-maher-bashes-acts-like-c-plus-c-music-factory-for-dumping-trump-250-event-dont-love-america/",
+   "summary": "Bill Maher claimed that acts like \"C Plus C Music Factory\" dropping out of Trump's \"Freedom 250\" event makes Democrats \"look like they don't love America.\" The post Bill Maher Bashes Acts Like ‘C Plus C Music Factory’ For Dumping Trump 250 Event: ‘Don’t Love America’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T17:27:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5757e782784c",
+   "title": "Read that book twice. The definitive history of the war for my money",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnn5vvpaq22h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T17:18:36.601+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e7d8c831a62c",
+   "title": "Pete Hegseth Takes Shot at NATO In D-Day Speech: ‘Capable Allies Must Be Right There With Us’",
+   "link": "https://www.mediaite.com/media/news/pete-hegseth-takes-shot-at-nato-in-d-day-speech-capable-allies-must-be-right-there-with-us/",
+   "summary": "Pete Hegseth used the 82nd anniversary of D-Day to take a shot at NATO and European immigration policies in a speech meant to honor fallen allied troops. The post Pete Hegseth Takes Shot at NATO In D-Day Speech: ‘Capable Allies Must Be Right There With Us’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T16:57:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d38db50f947e",
+   "title": "seeking book recs on Sherman’s March. I know Bluesky will have the goods for me.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnn4agzldc2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T16:48:42.826+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ac1381a9003",
+   "title": "Hitler planned to destroy the allied landing in Northern Europe and then redeploy forces to the east to go back on offense against the Soviets. You’re right that it almost certainly would not have worked, but Stalin himself was begging for the allies to open a new front in Europe.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnn44uk4uc2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T16:46:42.782+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c47d764e3895",
+   "title": "‘Who Throws a Better Party Than Trump?’ Vanilla Ice Can’t Wrap His Head Around Fellow Acts Fleeing Freedom 250 Event",
+   "link": "https://www.mediaite.com/media/tv/who-throws-a-better-party-than-trump-vanilla-ice-cant-wrap-his-head-around-fellow-acts-fleeing-freedom-250-event/",
+   "summary": "Vanilla Ice can't wrap his head around musicians cancelling on President Donald Trump's Freedom 250 concert, exclaiming, \"Who throws a better party than Trump?\" The post ‘Who Throws a Better Party Than Trump?’ Vanilla Ice Can’t Wrap His Head Around Fellow Acts Fleeing Freedom 250 Event first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T16:41:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "739db3166f9c",
+   "title": "Allies were in a big slog in Italy at that time. German defenses were very effective there",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnn3ptofrc2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T16:39:25.665+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c9835018ff0b",
+   "title": "This is preposterously false. Ask Stalin. But since you can’t, take it from someone who reads nonstop about World War 2. Hitler knew that a successful allied landing in Northern Europe would be a deathblow and did everything he could to prevent it. But the allies landed where he didn’t expect it.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnn3ky7sbc2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T16:36:42.657+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f7372168a14a",
+   "title": "Trump Ally ‘Tongue-Tied’ When CNN’s Abby Phillip Hits Trump Over Allegations — ‘Many Of Which Were Validated In Court’",
+   "link": "https://www.mediaite.com/media/news/trump-ally-tongue-tied-when-cnns-abby-phillip-hits-trump-over-allegations-many-of-which-were-validated-in-court/",
+   "summary": "Pro-Trump scribe Lydia Moynihan was \"tongue-tied\" when CNN anchor Abby Phillip hit her with the allegations against Trump and asked if they're \"disqualifying.\" The post Trump Ally ‘Tongue-Tied’ When CNN’s Abby Phillip Hits Trump Over Allegations — ‘Many Of Which Were Validated In Court’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T16:18:12+00:00",
+   "iran_topic": false
+  },
   {
    "id": "31f9ea1b8266",
    "title": "OVERLOOKED: Trump says he wants Bill Pulte to release more classified documents related to issues like the 2020 election. Asked what kind of documents Pulte should consider releasing, Trump said, \"I would say everything—he should look at everything and make a determination.\"",
@@ -510,10 +600,20 @@
    "iran_topic": false
   },
   {
+   "id": "c9b3a3d73dc1",
+   "title": "82 years ago today my grandfather, who lied about his age to enlist in the military, was in one of the first waves of landing crafts to hit the beaches of Normandy. He's been gone a long time now, but today I remember him and the other brave souls who fought and died for a righteous cause.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnmtcafql225",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T14:08:39.317+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "5e6a9d8ae3da",
-   "title": "‘I’m not going down without a fight’: Nancy Mace is trying to rebuild her political future",
+   "title": "Nancy Mace knows her Epstein vote screwed her with Trump. She doesn’t care.",
    "link": "https://www.politico.com/news/2026/06/06/nancy-mace-primary-epstein-vote-trump-00952227",
-   "summary": "She bucked President Donald Trump to get the Epstein files released. He’s now backing one of her opponents for South Carolina governor.",
+   "summary": "She’s battling several controversies and headwinds — including the president endorsing her opponent.",
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-06T14:00:00+00:00",
@@ -820,36 +920,6 @@
    "iran_topic": false
   },
   {
-   "id": "78596138ae1c",
-   "title": "DOJ Lawyer Argues in Court That Trump Could Demolish Statue of Liberty if He Wants To",
-   "link": "https://www.mediaite.com/lawcrime/doj-lawyer-argues-in-court-that-trump-could-demolish-statue-of-liberty-if-he-wants-to/",
-   "summary": "Trump DOJ attorneys argued in court that the government would be able to \"bulldoze\" the Statue of Liberty during a hearing challenging the president's ballroom project. The post DOJ Lawyer Argues in Court That Trump Could Demolish Statue of Liberty if He Wants To first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T23:09:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "27cb129394ea",
-   "title": "Trump Tells Farmers, ‘Your Life Is Much Better Than My Life’",
-   "link": "https://www.mediaite.com/media/tv/trump-tells-farmers-your-life-is-much-better-than-my-life/",
-   "summary": "On Friday, during an appearance before farmers in Chippewa Falls, Wisconsin, President Donald Trump promised the crowd, \"Your life is much better than my life.\" The post Trump Tells Farmers, ‘Your Life Is Much Better Than My Life’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T22:57:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "97da3086e682",
-   "title": "California and New York Preparing to Sue to Block Paramount from Acquiring Warner Bros: Report",
-   "link": "https://www.mediaite.com/media/california-and-new-york-preparing-to-sue-to-block-paramount-from-acquiring-warner-bros-report/",
-   "summary": "A group of states led by California and New York is preparing to sue to block Paramount Skydance from acquiring Warner Bros. Reuters reported on Friday. The post California and New York Preparing to Sue to Block Paramount from Acquiring Warner Bros: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T22:45:20+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "bad3dc0c0c9b",
    "title": "Todd Blanche says he's putting \"roadblocks\" in place so that it's harder for Democrats to hold Trump accountable in the future.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnl752y5vc2g",
@@ -866,16 +936,6 @@
    "summary": "President Donald Trump accepted an Olympic gold medal given to him by U.S. speed skater Jordan Stolz on Friday. The post Trump Says ‘I’m Never Giving This Back’ After Receiving Medal From Olympic Athlete first appeared on Mediaite .",
    "source": "Mediaite Trump",
    "category": "mediaite",
-   "published": "2026-06-05T22:24:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8f2713b1c4de",
-   "title": "Trump Says ‘I’m Never Giving This Back’ After Receiving Medal From Olympic Athlete",
-   "link": "https://www.mediaite.com/politics/trump/trump-says-im-never-giving-this-back-after-receiving-medal-from-olympic-athlete/",
-   "summary": "President Donald Trump accepted an Olympic gold medal given to him by U.S. speed skater Jordan Stolz on Friday. The post Trump Says ‘I’m Never Giving This Back’ After Receiving Medal From Olympic Athlete first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
    "published": "2026-06-05T22:24:28+00:00",
    "iran_topic": false
   },
@@ -897,66 +957,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-05T22:21:16.911+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "99e6ac7fcdd4",
-   "title": "Wow — Derrick Van Orden helps Trump go down a single stair",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl5ilaaek2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T22:05:49.911+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8fde4de7b4f0",
-   "title": "Trump is fading as people go around the table kissing his ass",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl4q4ue5j2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:52:09.549+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e3011d88d048",
-   "title": "Thanks so much Patrick!",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl4kp6zx22h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:49:07.461+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9dff4a393fbe",
-   "title": "As a subscriber, I can honestly say that Public Notice is one of only 1-2 newsletters that I make sure to read every time. (The other is \"Letters from an American\" by @hcrichardson.bsky.social ). Aaron's newsletter is really good, and if you have a few coins, I encourage you to join up.",
-   "link": "https://bsky.app/profile/landh2oplaceumn.bsky.social/post/3mnl4iv3bas26",
-   "summary": "",
-   "source": "@landh2oplaceumn",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:48:06.519+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cdd8feee4911",
-   "title": "Trump urges the speakers who are about to start kissing his ass to go quickly because “I have to get back to fighting a war”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl4h2mnv22k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:47:05.210+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "444cec8d0e0d",
-   "title": "Trump on Joe Thomas: “He’s a good looking man”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl4bqqb422q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:44:07.071+00:00",
    "iran_topic": false
   },
   {
