@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T11:56:59.464931+00:00",
+ "generated": "2026-06-06T13:24:33.451476+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,35 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-06T11:56:15.986156+00:00",
+   "published": "2026-06-06T13:23:44.197818+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-06T11:56:15.985448+00:00",
+   "published": "2026-06-06T13:23:44.197096+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
+   "link": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
+   "source": "IRNA",
+   "published": "2026-06-06T12:22:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Russia Exposes Secret Gulf Energy War As US Munitions Limit Reached Near Strait of Hormuz",
+   "link": "https://www.reddit.com/r/MiddleEastNews/comments/1tyfv2d/russia_exposes_secret_gulf_energy_war_as_us/",
+   "source": "r/MiddleEastNews",
+   "published": "2026-06-06T12:22:31+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Exclusive | Iran envoy rejects UK's Hormuz narrative, says external forces cannot ensure regional security",
+   "link": "https://en.irna.ir/news/86174800/Exclusive-Iran-envoy-rejects-UK-s-Hormuz-narrative-says-external",
+   "source": "IRNA",
+   "published": "2026-06-06T12:16:29+00:00",
    "severity": "info"
   },
   {
@@ -258,6 +279,13 @@
   {
    "title": "US, Iran trade strikes despite visas for World Cup footballers",
    "link": "https://www.al-monitor.com/originals/2026/06/us-iran-trade-strikes-despite-visas-world-cup-footballers",
+   "source": "Al-Monitor",
+   "published": "2026-06-06T05:30:18+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes",
    "source": "Al-Monitor",
    "published": "2026-06-06T05:30:18+00:00",
    "severity": "low"
@@ -296,62 +324,34 @@
    "source": "r/worldnews",
    "published": "2026-06-05T23:12:46+00:00",
    "severity": "info"
-  },
-  {
-   "title": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mnlb2mrvyk2q",
-   "source": "@apnews",
-   "published": "2026-06-05T23:09:36+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Hundreds of Haredi rioters try to break into Jerusalem police station, attack cops in Beit Shemesh",
-   "link": "https://www.timesofisrael.com/hundreds-of-haredi-rioters-try-to-break-into-jerusalem-police-station-attack-cops-in-beit-shemesh/",
-   "source": "Times of Israel",
-   "published": "2026-06-05T22:08:50+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "U.S. Forces Interdict Ship Connected to Iran in Indian Ocean, Iranian Oil Exports See Decrease",
-   "link": "https://news.usni.org/2026/06/05/u-s-forces-interdict-ship-connected-to-iran-in-indian-ocean-iranian-oil-exports-see-decrease",
-   "source": "USNI News",
-   "published": "2026-06-05T21:57:22+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "USNI News Western Pacific Pulse: June 5, 2026",
-   "link": "https://news.usni.org/2026/06/05/usni-news-western-pacific-pulse-june-5-2026",
-   "source": "USNI News",
-   "published": "2026-06-05T21:41:02+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 6,
+   "status": "ACTIVE",
+   "incident_count": 8,
    "recent": [
     {
-     "title": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz reut.rs/3RRMx0X",
-     "link": "https://bsky.app/profile/reuters.com/post/3mnmawrqfq52j",
-     "source": "@reuters",
-     "published": "2026-06-06T08:40:07+00:00",
+     "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
+     "link": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
+     "source": "IRNA",
+     "published": "2026-06-06T12:22:40+00:00",
      "severity": "info"
     },
     {
-     "title": "U.S. Strikes Iranian Radar Sites Following Drone Attacks in Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1tybcqp/us_strikes_iranian_radar_sites_following_drone/",
-     "source": "r/worldnews",
-     "published": "2026-06-06T08:11:33+00:00",
+     "title": "Russia Exposes Secret Gulf Energy War As US Munitions Limit Reached Near Strait of Hormuz",
+     "link": "https://www.reddit.com/r/MiddleEastNews/comments/1tyfv2d/russia_exposes_secret_gulf_energy_war_as_us/",
+     "source": "r/MiddleEastNews",
+     "published": "2026-06-06T12:22:31+00:00",
      "severity": "info"
     },
     {
-     "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
-     "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
-     "source": "The Drive",
-     "published": "2026-06-06T02:46:24+00:00",
+     "title": "Exclusive | Iran envoy rejects UK's Hormuz narrative, says external forces cannot ensure regional security",
+     "link": "https://en.irna.ir/news/86174800/Exclusive-Iran-envoy-rejects-UK-s-Hormuz-narrative-says-external",
+     "source": "IRNA",
+     "published": "2026-06-06T12:16:29+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "eadfdbc3d19d",
+   "title": "New in PN: Trump's cognitive impairment endangers us all \"No one in the administration has offered a remotely plausible explanation for Trump’s various physical ailments, and any questions about his clear cognitive challenges are met by the White House with disdain, denial, mockery, and lies.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnmqmi3sqk25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T13:20:41.699+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d3a27892f7aa",
+   "title": "Hegseth uses his D-Day anniversary speech in Franch to take veiled shots at NATO and European immigration policies",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnmq7obbpc25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T13:13:31.962+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cfaa6f880ceb",
+   "title": "I wish more people had the time to actually listen to and watch Trump each day. If they did, even some of his supporters might come to and realize how bad it’s getting. Today at @Aaron Rupar’s PN: aaronrupar.substack.com/p/trump-cogn...",
+   "link": "https://bsky.app/profile/justinglawe.bsky.social/post/3mnmpxhcsz22n",
+   "summary": "",
+   "source": "@justinglawe",
+   "category": "trump_bsky",
+   "published": "2026-06-06T13:08:56.234+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fe5ad7dd32bc",
+   "title": "Trump Drops Bonkers AI Slop Bop With Insane Visuals — Riding A Lion, On the Moon, and More —In Early Morning Post",
+   "link": "https://www.mediaite.com/media/entertainment/trump-drops-bonkers-ai-slop-bop-with-insane-visuals-riding-a-lion-on-the-moon-and-more-in-early-morning-post/",
+   "summary": "Trump got up early on Saturday to post an AI music video featuring a Trump song and absolutely nuts visuals that included Trump on the moon and riding a lion. The post Trump Drops Bonkers AI Slop Bop With Insane Visuals — Riding A Lion, On the Moon, and More —In Early Morning Post first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T13:07:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cf1207e84c13",
+   "title": "Trump is beginning his day by posting deranged AI slop",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnmpaf2elk2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T12:56:02.111+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ecbdfa069754",
+   "title": "Trump Gives Stunning Response When Confronted Over $8000 Knicks Tix: ‘They Can Watch it on Television’",
+   "link": "https://www.mediaite.com/media/sports/trump-gives-stunning-response-when-confronted-over-8000-knicks-tix-they-can-watch-it-on-television/",
+   "summary": "Trump gave a stunning response when he was confronted over the high price for tickets to the NBA finals in New York, advising fans to just watch it on TV. The post Trump Gives Stunning Response When Confronted Over $8000 Knicks Tix: ‘They Can Watch it on Television’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T12:32:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "76c3c76a35bb",
+   "title": "Bill Maher Taunts Trump Over ‘Low Ratings’ Rant: ‘Yours is 35 Percent!’",
+   "link": "https://www.mediaite.com/media/news/bill-maher-taunts-trump-over-low-ratings-rant-yours-is-35-percent/",
+   "summary": "Comedian and pundit Bill Maher taunted President Donald Trump after Trump attacked him on Truth Social as a \"Low Ratings\" host with a \"Fake Laughing Machine.\" The post Bill Maher Taunts Trump Over ‘Low Ratings’ Rant: ‘Yours is 35 Percent!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T12:02:16+00:00",
+   "iran_topic": false
+  },
   {
    "id": "c428ccb2f731",
    "title": "How Tom Homan became Trump’s go-to negotiator in immigration battles",
@@ -860,36 +930,6 @@
    "iran_topic": false
   },
   {
-   "id": "5e6bd62ce672",
-   "title": "Trump announces he wants to do yet another farm bailout",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl2mozocs2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:14:26.895+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4428a13bed7",
-   "title": "Trump in Wisconsin: \"Canada treats you guys rough. They put on big tariffs.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl2kgrf7y2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:13:11.126+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "254a77994d76",
-   "title": "Trump: \"They came in and they said, 'affordability.' They made up the word.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl2eifpb72q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:09:51.513+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e96515fd150e",
    "title": "Trump: Look at this guy over here. He is one hell of a specimen. This is one hell of a physical specimen. That’s what I like.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnl2a6rrd527",
@@ -897,16 +937,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-05T21:07:27.102+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9e91ebf7f204",
-   "title": "Trump: \"Growth stops inflation. They ought to go back to the old system. When we have good numbers, the market ought to go up, not go down.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl27yed4m24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:07:20.473+00:00",
    "iran_topic": false
   },
   {
@@ -947,36 +977,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-05T20:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89e6e036b6ab",
-   "title": "James Carville Declares ‘F*cked Up’ Platner Could Be ‘100x More F*cked Up’ and Still Be Better Choice in Wild Rant",
-   "link": "https://www.mediaite.com/online/james-carville-declares-fcked-up-platner-could-be-100x-more-fcked-up-and-still-be-better-choice-in-wild-rant/",
-   "summary": "In a wild Friday YouTube rant, Democratic strategist James Carville deemed that \"f*cked up\" Maine Democratic Senate candidate Graham Platner could be \"100x more f*cked up\" and still be a better choice than Sen. Susan Collins (R-ME). The post James Carville Declares ‘F*cked Up’ Platner Could Be ‘100x More F*cked Up’ and Still Be Better Choice in Wild Rant first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T20:29:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "38495f3ae101",
-   "title": "Q: \"What do you think that … the cheapest price for the game three you're going to is $8,000. Everyday Americans can't afford these sporting events.\" Trump: \"I know, but they could watch it on television. It's sort of semi free to watch it on television. But that's the way life goes for some.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkvx7knfk2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T19:50:51.079+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "19d03d2632d1",
-   "title": "‘Senator Tillis Is a Loser!’ Trump Attacks GOP Senator Over Todd Blanche-January 6 Ultimatum",
-   "link": "https://www.mediaite.com/media/news/senator-tillis-is-a-loser-trump-attacks-gop-senator-over-todd-blanche-january-6-ultimatum/",
-   "summary": "Donald Trump blew up at Thom Tillis after a reporter asked the president about comments regarding acting Attorney General Todd Blanche. The post ‘Senator Tillis Is a Loser!’ Trump Attacks GOP Senator Over Todd Blanche-January 6 Ultimatum first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T19:33:49+00:00",
    "iran_topic": false
   }
  ]
