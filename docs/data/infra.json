@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-05T23:50:11.001153+00:00",
+ "generated": "2026-06-06T02:53:28.646787+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -221,17 +221,52 @@
  ],
  "incidents": [
   {
+   "title": "US energy secretary says lower gas prices will ultimately take resolution with Iran",
+   "link": "https://www.jpost.com/international/article-898511",
+   "source": "Jerusalem Post",
+   "published": "2026-06-06T04:27:41+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-05T23:49:30.889570+00:00",
+   "published": "2026-06-06T02:52:46.653828+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-05T23:49:30.888887+00:00",
+   "published": "2026-06-06T02:52:46.653100+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
+   "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
+   "source": "The Drive",
+   "published": "2026-06-06T02:46:24+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran has launched multiple drones towards the Strait of Hormuz, CNN reports reut.rs/4ec3ef1",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnlieakxai2j",
+   "source": "@reuters",
+   "published": "2026-06-06T01:20:15+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US attacks Iranian coastal sites after Iran launches drones in latest flare-up",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare",
+   "source": "Al-Monitor",
+   "published": "2026-06-06T00:36:38+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US military hits Iranian radar sites after drones launched toward Strait of Hormuz",
+   "link": "https://www.timesofisrael.com/liveblog-june-06-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-06T00:13:55+00:00",
    "severity": "info"
   },
   {
@@ -247,13 +282,6 @@
    "source": "@apnews",
    "published": "2026-06-05T23:09:36+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
-   "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
-   "source": "The Drive",
-   "published": "2026-06-05T22:58:52+00:00",
-   "severity": "info"
   },
   {
    "title": "Hundreds of Haredi rioters try to break into Jerusalem police station, attack cops in Beit Shemesh",
@@ -296,34 +324,6 @@
    "source": "@reuters",
    "published": "2026-06-05T17:05:09+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran says it fired warning missiles, drones at US warships in Gulf of Oman",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-898491",
-   "source": "Jerusalem Post",
-   "published": "2026-06-05T16:51:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "The activists in San Francisco who blocked the Golden Gate Bridge in 2024 — determined to make a statement on Tax Day against American tax dollars funding Israel’s military while it attacked Gaza — could face up to 14 or 15 years in state prison.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mnklu2trtn2z",
-   "source": "@nytimes",
-   "published": "2026-06-05T16:50:08.007224+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says reut.rs/4vpb7Vg",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnkkhey46r2d",
-   "source": "@reuters",
-   "published": "2026-06-05T16:25:08+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "22YO trying to go from zero to Commercial Pilot (CPL/ATPL) out of BEY. Need a brutal reality check on the roadmap.",
-   "link": "https://www.reddit.com/r/lebanon/comments/1txo5wm/22yo_trying_to_go_from_zero_to_commercial_pilot/",
-   "source": "r/lebanon",
-   "published": "2026-06-05T15:26:53+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 5,
+   "incident_count": 6,
    "recent": [
-    {
-     "title": "Iran has launched multiple drones towards the Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
-     "source": "r/worldnews",
-     "published": "2026-06-05T23:12:46+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "The U.S. military says it shot down four Iranian drones that were launched toward the Strait of Hormuz on Friday and then struck some of the Islamic Republic’s coastal surveillance radar sites in response.",
-     "link": "https://bsky.app/profile/apnews.com/post/3mnlb2mrvyk2q",
-     "source": "@apnews",
-     "published": "2026-06-05T23:09:36+00:00",
-     "severity": "critical"
-    },
     {
      "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
      "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
      "source": "The Drive",
-     "published": "2026-06-05T22:58:52+00:00",
+     "published": "2026-06-06T02:46:24+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Iran has launched multiple drones towards the Strait of Hormuz, CNN reports reut.rs/4ec3ef1",
+     "link": "https://bsky.app/profile/reuters.com/post/3mnlieakxai2j",
+     "source": "@reuters",
+     "published": "2026-06-06T01:20:15+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "US military hits Iranian radar sites after drones launched toward Strait of Hormuz",
+     "link": "https://www.timesofisrael.com/liveblog-june-06-2026/",
+     "source": "Times of Israel",
+     "published": "2026-06-06T00:13:55+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,116 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "43965bb94ddc",
+   "title": "‘The Man Is Asleep!’ Chris Hayes Chuckles at ‘Daily Thing’ of Trump Appearing to Nod Off Again",
+   "link": "https://www.mediaite.com/media/tv/the-man-is-asleep-chris-hayes-chuckles-at-daily-thing-of-trump-appearing-to-nod-off-again/",
+   "summary": "\"I gotta take a moment to play you this clip from a press conference.\" The post ‘The Man Is Asleep!’ Chris Hayes Chuckles at ‘Daily Thing’ of Trump Appearing to Nod Off Again first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T02:50:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9696db267b01",
+   "title": "Sen. Brian Schatz offers first show of support for scandal-ridden Graham Platner",
+   "link": "https://www.politico.com/news/2026/06/05/brian-schatz-graham-platner-maine-donors-00952600",
+   "summary": "He hasn’t formally endorsed yet, but he is scheduled to appear at a virtual donor event Sunday.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-06T02:24:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "705bc25443bc",
+   "title": "Nice night",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnllaz26uk2d",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T02:12:08.366+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c0a976f52d5",
+   "title": "BOSTON (AP) - Federal judge halts effort by Trump administration to force states to comply with conditions to get SNAP funding.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnli4mk7b22f",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-06T01:15:59.821+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7d1d599b22f5",
+   "title": "Susie Wiles Responds To Report She’s Quitting Trump Administration",
+   "link": "https://www.mediaite.com/online/susie-wiles-responds-to-report-shes-quitting-trump-administration/",
+   "summary": "The exclusive, published on Friday, cited five \"insiders\" who told the outlet that Wiles, who has worked for Trump since 2015, is \"drained\" by the current state of his cabinet. The post Susie Wiles Responds To Report She’s Quitting Trump Administration first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T00:51:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "33e344438ca1",
+   "title": "Trump Feverishly Tries To Reassure Markets After Stocks Plummet: ‘IT’S RAINING JOBS!’",
+   "link": "https://www.mediaite.com/politics/trump/trump-feverishly-tries-to-reassure-markets-after-stocks-plummet-its-raining-jobs/",
+   "summary": "President Donald Trump tried to quell fear in the markets on Friday after stocks plummeted. The post Trump Feverishly Tries To Reassure Markets After Stocks Plummet: ‘IT’S RAINING JOBS!’ first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-06T00:27:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "33e344438ca1",
+   "title": "Trump Feverishly Tries To Reassure Markets After Stocks Plummet: ‘IT’S RAINING JOBS!’",
+   "link": "https://www.mediaite.com/politics/trump/trump-feverishly-tries-to-reassure-markets-after-stocks-plummet-its-raining-jobs/",
+   "summary": "President Donald Trump tried to quell fear in the markets on Friday after stocks plummeted. The post Trump Feverishly Tries To Reassure Markets After Stocks Plummet: ‘IT’S RAINING JOBS!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T00:27:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "973bd68d41d5",
+   "title": "‘Slit Her Throat’: Jesse Watters Urges Gavin Newsom To End Kamala Harris’s Political Career and ‘Put Her Out of Her Misery’",
+   "link": "https://www.mediaite.com/media/tv/slit-her-throat-jesse-watters-urges-gavin-newsom-to-end-kamala-harriss-political-career-and-put-her-out-of-her-misery/",
+   "summary": "On Friday's edition of The Five, Fox News' Jesse Watters urged California Gov. Gavin Newsom to end former Vice President Kamala Harris's political career in a potential showdown for the Democratic nomination in 2028 and \"put her out of her misery.\" The post ‘Slit Her Throat’: Jesse Watters Urges Gavin Newsom To End Kamala Harris’s Political Career and ‘Put Her Out of Her Misery’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T00:14:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2135ec9c108c",
+   "title": "Senate Democrats Demand Government Stop Minting Gold Coin With Trump On It",
+   "link": "https://www.mediaite.com/politics/trump/senate-democrats-demand-government-stop-minting-gold-coin-with-trump-on-it/",
+   "summary": "Two Democratic senators have written to the U.S. Mint to urge the institution to halt production of gold coins with President Donald Trump on them, citing the possibility that the gold is from cartel-owned mines. The post Senate Democrats Demand Government Stop Minting Gold Coin With Trump On It first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-06T00:06:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2135ec9c108c",
+   "title": "Senate Democrats Demand Government Stop Minting Gold Coin With Trump On It",
+   "link": "https://www.mediaite.com/politics/trump/senate-democrats-demand-government-stop-minting-gold-coin-with-trump-on-it/",
+   "summary": "Two Democratic senators have written to the U.S. Mint to urge the institution to halt production of gold coins with President Donald Trump on them, citing the possibility that the gold is from cartel-owned mines. The post Senate Democrats Demand Government Stop Minting Gold Coin With Trump On It first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-06T00:06:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5904980e25cb",
+   "title": "BREAKING: WASHINGTON (AP) - Democrat Xavier Becerra advances to the general election for governor in California.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnldm3hfg223",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-05T23:55:10.064+00:00",
+   "iran_topic": false
+  },
   {
    "id": "78596138ae1c",
    "title": "DOJ Lawyer Argues in Court That Trump Could Demolish Statue of Liberty if He Wants To",
@@ -830,16 +940,6 @@
    "iran_topic": false
   },
   {
-   "id": "3e4d5d5e01cc",
-   "title": "here's video of Trump saying on Air Force One of extremely expensive NBA Finals tickets: \"You can watch it on TV. That's the way life goes.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkxvvhdic2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T20:25:54.414+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "38495f3ae101",
    "title": "Q: \"What do you think that … the cheapest price for the game three you're going to is $8,000. Everyday Americans can't afford these sporting events.\" Trump: \"I know, but they could watch it on television. It's sort of semi free to watch it on television. But that's the way life goes for some.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkvx7knfk2u",
@@ -877,106 +977,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T19:18:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e5cc41a0086f",
-   "title": "Trump Quips ‘That’s the Way Life Goes’ After Reporter Says ‘Everyday Americans’ Can’t Afford NBA Finals",
-   "link": "https://www.mediaite.com/media/sports/trump-quips-thats-the-way-life-goes-after-reporter-says-everyday-americans-cant-afford-nba-finals/",
-   "summary": "During a Friday press gaggle aboard Air Force One, President Donald Trump quipped, \"That's the way life goes\" after a reporter remarked that \"everyday Americans\" can't afford tickets to the NBA Finals. The post Trump Quips ‘That’s the Way Life Goes’ After Reporter Says ‘Everyday Americans’ Can’t Afford NBA Finals first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T18:49:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6cafa1bb7b51",
-   "title": "John Cornyn Backs Off Project to Rename Texas Highway After Donald Trump Following Loss to Trump-Backed Challenger",
-   "link": "https://www.mediaite.com/media/news/john-cornyn-backs-off-project-to-rename-texas-highway-after-donald-trump-following-loss-to-trump-backed-challenger/",
-   "summary": "John Cornyn has lost interest in renaming a Texas highway after President Donald Trump following his primary loss to Trump-backed Ken Paxton. The post John Cornyn Backs Off Project to Rename Texas Highway After Donald Trump Following Loss to Trump-Backed Challenger first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T18:28:06+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "546881c3e0a0",
-   "title": "Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/",
-   "summary": "SECURING THE BEST AI IN THE WORLD FOR AMERICA’S DEFENDERS:&#160;Today, President Donald J. Trump signed a National Security Presidential Memorandum on Artificial Intelligence (AI) in the National Security Enterprise, establishing a new framework to put the most advanced, secure, and reliable AI systems into the hands of America’s warfighters and intelligence professionals while ensuring their [&#8230;] The post Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-05T18:24:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0cedf16305b9",
-   "title": "National Security Presidential Memorandum/NSPM-11",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATIONAL INTELLIGENCE THE DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY [&#8230;] The post National Security Presidential Memorandum/NSPM-11 appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-05T18:22:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0cedf16305b9",
-   "title": "National Security Presidential Memorandum/NSPM-11",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE DIRECTOR OF NATIONAL INTELLIGENCE THE DIRECTOR OF THE CENTRAL INTELLIGENCE AGENCY THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY [&#8230;] The post National Security Presidential Memorandum/NSPM-11 appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-05T18:22:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b77a2e5d29cf",
-   "title": "Anna Paulina Luna Discusses Why She Thinks Epstein Was an Intelligence Agent and Trump Opposed Releasing the Files",
-   "link": "https://www.mediaite.com/politics/anna-paulina-luna-discusses-why-she-thinks-epstein-was-an-intelligence-agent-and-trump-opposed-releasing-the-files/",
-   "summary": "During the sit-down, Douthat challenged the Florida Republican on why President Donald Trump didn’t want the Epstein files released The post Anna Paulina Luna Discusses Why She Thinks Epstein Was an Intelligence Agent and Trump Opposed Releasing the Files first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T18:18:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9fbd4de5df54",
-   "title": "NEW POLL: Americans Disapprove of Trump’s WH UFC Arena Troll — By Whopping 7 to 1",
-   "link": "https://www.mediaite.com/media/news/new-poll-americans-disapprove-of-trumps-wh-ufc-arena-troll-by-whopping-7-to-1/",
-   "summary": "Americans disapprove of Trump's Ultimate Fighting Championship (UFC) arena that’s being built at the White House — by more than double those who approve. The post NEW POLL: Americans Disapprove of Trump’s WH UFC Arena Troll — By Whopping 7 to 1 first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T18:12:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0bfc903e76ba",
-   "title": "Mark Levin Sounds Alarm Over Trump-Backed Saudi Nuclear Deal: ‘Everyone OK With This?’",
-   "link": "https://www.mediaite.com/media/news/mark-levin-sounds-alarm-over-trump-backed-saudi-nuclear-deal-everyone-ok-with-this/",
-   "summary": "Conservative radio host Mark Levin raised concerns Friday about a reported civil nuclear agreement being negotiated between President Donald Trump's administration and Saudi Arabia, sharing an article outlining warnings from lawmakers and nuclear policy experts who fear the deal could weaken long-standing nonproliferation standards. The post Mark Levin Sounds Alarm Over Trump-Backed Saudi Nuclear Deal: ‘Everyone OK With This?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T18:06:35+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "5dad40253d3d",
-   "title": "Breaking WSJ: Trump says he wants Bill Pulte, his incoming, unqualified acting Director of National Intelligence, to begin firing a large number of employees as part of a shake-up of the intel community. Reminder: Just yesterday, Trump said Pulte won't be in this role permanently.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnkpjjb4ws2f",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-05T17:55:49.039+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8347cbc4ffb",
-   "title": "Chicago Bears Moving Forward With Plan to Relocate to Indiana",
-   "link": "https://www.mediaite.com/media/sports/chicago-bears-moving-forward-with-plan-to-relocate-to-indiana/",
-   "summary": "The Chicago Bears announced Friday the team's board of directors \"voted to advance\" plans for a relocation across state lines to Indiana. The post Chicago Bears Moving Forward With Plan to Relocate to Indiana first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-05T17:54:08+00:00",
    "iran_topic": false
   }
  ]
