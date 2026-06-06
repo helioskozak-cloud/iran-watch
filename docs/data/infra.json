@@ -1,46 +1,46 @@
 {
- "generated": "2026-06-06T02:53:28.646787+00:00",
+ "generated": "2026-06-06T06:29:47.427417+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.87,
-   "change": -2.16,
-   "change_pct": -2.27,
+   "price": 93.09,
+   "change": -1.94,
+   "change_pct": -2.04,
    "spark": [
     94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
-    92.87000274658203
+    93.08999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.25,
-   "change": -2.79,
-   "change_pct": -3.0,
+   "price": 90.54,
+   "change": -2.5,
+   "change_pct": -2.69,
    "spark": [
     92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    90.25
+    90.54000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4353.9,
-   "change": -121.9,
-   "change_pct": -2.72,
+   "price": 4337.1,
+   "change": -138.7,
+   "change_pct": -3.1,
    "spark": [
     4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4353.89990234375
+    4337.10009765625
    ]
   },
   "DX-Y.NYB": {
@@ -54,7 +54,7 @@
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    100.07099914550781
+    100.06999969482422
    ]
   },
   "^GSPC": {
@@ -102,15 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.22,
-   "change": -0.12,
-   "change_pct": -3.48,
+   "price": 3.23,
+   "change": -0.11,
+   "change_pct": -3.21,
    "spark": [
     3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.2200000286102295
+    3.2290000915527344
    ]
   }
  },
@@ -221,24 +221,31 @@
  ],
  "incidents": [
   {
-   "title": "US energy secretary says lower gas prices will ultimately take resolution with Iran",
-   "link": "https://www.jpost.com/international/article-898511",
-   "source": "Jerusalem Post",
-   "published": "2026-06-06T04:27:41+00:00",
-   "severity": "info"
-  },
-  {
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-06T02:52:46.653828+00:00",
+   "published": "2026-06-06T06:29:03.397009+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-06T02:52:46.653100+00:00",
+   "published": "2026-06-06T06:29:03.396270+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US, Iran trade strikes despite visas for World Cup footballers",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-trade-strikes-despite-visas-world-cup-footballers",
+   "source": "Al-Monitor",
+   "published": "2026-06-06T05:30:18+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US energy secretary says lower gas prices will ultimately take resolution with Iran",
+   "link": "https://www.jpost.com/international/article-898511",
+   "source": "Jerusalem Post",
+   "published": "2026-06-06T04:27:41+00:00",
    "severity": "info"
   },
   {
@@ -263,7 +270,7 @@
    "severity": "critical"
   },
   {
-   "title": "US military hits Iranian radar sites after drones launched toward Strait of Hormuz",
+   "title": "Iran fires missiles at Kuwait and Bahrain after US military hits Iranian radar sites",
    "link": "https://www.timesofisrael.com/liveblog-june-06-2026/",
    "source": "Times of Israel",
    "published": "2026-06-06T00:13:55+00:00",
@@ -317,13 +324,6 @@
    "source": "USNI News",
    "published": "2026-06-05T19:22:23+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman reut.rs/3SnKMIR",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnkmowlrmp2d",
-   "source": "@reuters",
-   "published": "2026-06-05T17:05:09+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 6,
+   "incident_count": 4,
    "recent": [
     {
      "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
@@ -348,10 +348,10 @@
      "severity": "info"
     },
     {
-     "title": "US military hits Iranian radar sites after drones launched toward Strait of Hormuz",
-     "link": "https://www.timesofisrael.com/liveblog-june-06-2026/",
-     "source": "Times of Israel",
-     "published": "2026-06-06T00:13:55+00:00",
+     "title": "Iran has launched multiple drones towards the Strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ty0m4e/iran_has_launched_multiple_drones_towards_the/",
+     "source": "r/worldnews",
+     "published": "2026-06-05T23:12:46+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f59c5f0bfc2e",
+   "title": "Reebok? You buy that from a T Rex or something?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnlqsmy3is2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T03:51:28.408+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d5aed3e176d9",
+   "title": "Twins-Royals. Not quite as intense as the NBA Finals. (Don’t worry, I watched the hoops on my phone. What a game.)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnlqqazo2s2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T03:50:08.762+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "914e0aab775b",
+   "title": "Very low energy.",
+   "link": "https://bsky.app/profile/sanho.bsky.social/post/3mnlpaoxyz22p",
+   "summary": "",
+   "source": "@sanho",
+   "category": "trump_bsky",
+   "published": "2026-06-06T03:23:32.781+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6b268f95d42f",
+   "title": "Yikes",
+   "link": "https://bsky.app/profile/jamespmanley.bsky.social/post/3mnlo4ajzek2z",
+   "summary": "",
+   "source": "@jamespmanley",
+   "category": "trump_bsky",
+   "published": "2026-06-06T03:03:09.682+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "eef21ccdfbdc",
+   "title": "Trump claims MLB “sort of has” a salary cap (no), then in the next breath claims “I know so much about sports”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnlnrdzbw52o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-06T02:57:04.214+00:00",
+   "iran_topic": false
+  },
   {
    "id": "43965bb94ddc",
    "title": "‘The Man Is Asleep!’ Chris Hayes Chuckles at ‘Daily Thing’ of Trump Appearing to Nod Off Again",
@@ -840,36 +890,6 @@
    "iran_topic": false
   },
   {
-   "id": "0d92e9c49ec9",
-   "title": "Trump makes up another word: \"I hope you people are very spiritized\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl26ux3hw25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:06:43.338+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "25beb9022663",
-   "title": "Trump on Iran: \"It's really not much of a war. But it's a military conflict. It's practice.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnl25j2kgt2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:05:57.311+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d76fde3ab944",
-   "title": "Trump: \"A lot of people don't know 'dumb' has a B\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkzyit6xa2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T21:03:09.300+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3fd4101eaa52",
    "title": "Knicks fever hits the pols",
    "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/05/knicks-fever-politicians-new-york-mamdani-hochul-fans-00952311",
@@ -877,16 +897,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-05T21:01:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "52fbcad4dc0d",
-   "title": "notable -- instead of doing his usual rally speech in Wisconsin, Trump is doing a roundtable, which allows him to stay seated",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnkzsqxud325",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T20:59:56.516+00:00",
    "iran_topic": false
   },
   {
@@ -927,16 +937,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-05T20:29:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c1859fd02af4",
-   "title": "While we await Trump, let me also work in a plug for my newsletter. If you appreciate all the clipping I do week in and week out, please support my efforts by signing up. I think you'll enjoy Public Notice -- I'm very proud of our explanatory coverage -- and paid subscribers make my work possible.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnky35uxb222",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-05T20:28:51.021+00:00",
    "iran_topic": false
   },
   {
