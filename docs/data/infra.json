@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T16:11:05.909036+00:00",
+ "generated": "2026-06-07T17:40:38.290373+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -219,14 +219,14 @@
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-07T16:10:02.530169+00:00",
+   "published": "2026-06-07T17:39:51.819972+00:00",
    "severity": "info"
   },
   {
    "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
    "link": "https://presstv.ir/Detail/2026/06/07/770002/Vessels-pay--1-5%E2%80%932-million-under-new-Strait-of-Hormuz-services-plan",
    "source": "Press TV",
-   "published": "2026-06-07T16:10:02.523792+00:00",
+   "published": "2026-06-07T17:39:51.812580+00:00",
    "severity": "info"
   },
   {
@@ -241,6 +241,13 @@
    "link": "https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-07T14:14:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Pet relocation feom lebanon to uae",
+   "link": "https://www.reddit.com/r/lebanon/comments/1tzblot/pet_relocation_feom_lebanon_to_uae/",
+   "source": "r/lebanon",
+   "published": "2026-06-07T13:03:49+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-06T20:21:24+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Restlessness of the Americans over reopening the Strait of Hormuz",
-   "link": "https://www.tehrantimes.com/news/527065/Restlessness-of-the-Americans-over-reopening-the-Strait-of-Hormuz",
-   "source": "Tehran Times",
-   "published": "2026-06-06T16:54:27+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,13 +326,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 4,
+   "incident_count": 3,
    "recent": [
     {
      "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
      "link": "https://presstv.ir/Detail/2026/06/07/770002/Vessels-pay--1-5%E2%80%932-million-under-new-Strait-of-Hormuz-services-plan",
      "source": "Press TV",
-     "published": "2026-06-07T16:10:02.523792+00:00",
+     "published": "2026-06-07T17:39:51.812580+00:00",
      "severity": "info"
     },
     {
@@ -374,6 +374,116 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "2cfeed2754eb",
+   "title": "Trump ends NBC interview over argument on ‘crooked’ elections",
+   "link": "https://www.politico.com/news/2026/06/07/trump-ends-nbc-interview-crooked-elections-00953046",
+   "summary": "He scolded host Kristen Welker: “You're a one-sided crooked network.\"",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-07T17:25:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b5c2ea4f922b",
+   "title": "Fox News Anchor Asks Hakeem Jeffries Point-Blank if Democrats Have an ‘Antisemitism Problem’",
+   "link": "https://www.mediaite.com/media/news/fox-news-anchor-asks-hakeem-jeffries-point-blank-if-democrats-have-an-antisemitism-problem/",
+   "summary": "House Minority Leader Hakeem Jeffries (D-NY) faced a barrage of questions on Fox News Sunday over hypocrisy and \"antisemitism\" in the Democratic party. The post Fox News Anchor Asks Hakeem Jeffries Point-Blank if Democrats Have an ‘Antisemitism Problem’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-07T17:16:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8a21a4432f40",
+   "title": "5 Most Stunning Moments from Trump’s Meet the Press Meltdown",
+   "link": "https://www.mediaite.com/media/news/5-most-stunning-moments-from-trumps-meet-the-press-meltdown/",
+   "summary": "President Trump's interview with NBC's Kristen Welker Sunday went totally off-the-rails. Here are the five most shocking moments. The post 5 Most Stunning Moments from Trump’s Meet the Press Meltdown first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-07T17:12:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b497d13376c",
+   "title": "Looking very strong, sir. Hobblemaxxing like no one has ever seen",
+   "link": "https://bsky.app/profile/freeloosedirt.bsky.social/post/3mnpnzdhfi22r",
+   "summary": "",
+   "source": "@freeloosedirt",
+   "category": "trump_bsky",
+   "published": "2026-06-07T17:12:11.032+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4c011fbd4e7",
+   "title": "A swollen looking President shrivels under tough questioning from a woman.￼",
+   "link": "https://bsky.app/profile/lukerussert.bsky.social/post/3mnpnuvsgs22k",
+   "summary": "",
+   "source": "@lukerussert",
+   "category": "trump_bsky",
+   "published": "2026-06-07T17:09:42.497+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9702606a7ca6",
+   "title": "lol Trump stomped on NBC's microphone when he stormed out of his Meet the Press interview (watch for it 6 seconds into this clip)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnpntqi4cc2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-07T17:09:03.344+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ce766d125b36",
+   "title": "The tell here is when he starts melting down about the lying news media and includes CBS News who are literally bending over backwards to do his bidding with a bona fide collaborator running the news division now! Not good enough for Trump however",
+   "link": "https://bsky.app/profile/jessehawken.bsky.social/post/3mnpmjai2gs23",
+   "summary": "",
+   "source": "@jessehawken",
+   "category": "trump_bsky",
+   "published": "2026-06-07T16:45:17.295+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f7b762a48ab",
+   "title": "Interviewers: You are doing it wrong if you don't push Trump to the point where he bails, and you can say \"I traveled all the way to Wisconsin for this interview.\"",
+   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mnpmhqm5wk2c",
+   "summary": "",
+   "source": "@donmoyn",
+   "category": "trump_bsky",
+   "published": "2026-06-07T16:44:27.098+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c16149dd8ff4",
+   "title": "The women who could make or break MAGA",
+   "link": "https://www.politico.com/news/2026/06/07/the-young-women-who-could-make-or-break-maga-00953007",
+   "summary": "Bubbling under the surface of Turning Point USA's Women's Leadership Summit are divisions within the GOP that have enveloped the online voices of the young female right.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-07T16:40:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1e62642668d2",
+   "title": "Go ahead, White House Correspondents Association. Invite this guy to your dinner next month. The one honoring the press and the First Amendment. See how far that gets you.",
+   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mnpm6fyct22j",
+   "summary": "",
+   "source": "@bgrueskin",
+   "category": "trump_bsky",
+   "published": "2026-06-07T16:39:13.971+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "228e6106c505",
+   "title": "Trump continues defense of 'Anti-Weaponization Fund'",
+   "link": "https://www.politico.com/news/2026/06/07/trump-anti-weaponization-fund-00952988",
+   "summary": "“I think the weaponization fund is a great idea,” President Donald Trump said.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-07T16:32:43+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f3a1c159446f",
    "title": "Can't recall a recent video that better captures Trump's essence. Misogynist goon sweatily belches out egregious lies to a woman reporter, insults and berates her when she asks for evidence, then storms off in anger, all while his spray-tan slowly slides down his face.",
@@ -432,6 +542,16 @@
    "source": "@rincewind",
    "category": "trump_bsky",
    "published": "2026-06-07T15:33:51.741+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b3a5b3c043f",
+   "title": "We all think this was great: A reporter finally pushing back. Trump flailing and quitting. A clear picture of a corrupt and weak leader for all to see. But if you watch to the end, it's clear Welker viewed it as a failure because she angered her subject, may lose access and embarrassed the network.",
+   "link": "https://bsky.app/profile/brandonfriedman.bsky.social/post/3mnphymwe6k27",
+   "summary": "",
+   "source": "@brandonfriedman",
+   "category": "trump_bsky",
+   "published": "2026-06-07T15:24:24.954+00:00",
    "iran_topic": false
   },
   {
@@ -515,6 +635,16 @@
    "iran_topic": false
   },
   {
+   "id": "153006103ae3",
+   "title": "If you appreciate all the time I put in to bringing you the newsiest clips week in & week out, I'd be grateful if you supported me by signing up for my newsletter. We publish incisive political reporting & commentary 5 (and often 6) mornings a week, & paid subscribers make my work possible. Thanks.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnpgvfiotc2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-07T15:04:42.762+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "ffe70a686c3e",
    "title": "Rep. Escobar to Nancy Mace on Platner: \"You've defended Donald Trump! You've defended far worse.\"",
    "link": "https://bsky.app/profile/atrupar.com/post/3mnpgriw3l42a",
@@ -575,83 +705,13 @@
    "iran_topic": false
   },
   {
-   "id": "fb2cc965dc5f",
-   "title": "WOW - Trump crashes out & cuts his interview w/ Welker short as she presses him on his lack of evidence for claiming elections are rigged \"You're either crooked or you're stupid. I've had enough. Thank you darling,\" he tells her\" \"I traveled all the way to Wisconsin for this interview,\" she pleads",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpg4dswvs2w",
+   "id": "304b66c9b5f5",
+   "title": "Trump 2020: ⁠“If we stop testing right now, we'd have very few [COVID] cases, if any.” Trump 2026: If we don't count them, we will have very few Americans held hostage, if any.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mnpeowx6lc2q",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@davidrlurie",
    "category": "trump_bsky",
-   "published": "2026-06-07T14:50:42.139+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c50e5206a836",
-   "title": "WELKER: Do you think anyone who attacked cops on J6 should get taxpayer money? TRUMP: I wouldn't be inclined to say so, but I'd have to see. They had FBI agents ushering them into the building W: There's no evidence of that T: Try looking at the tapes. Many of those people should be compensated",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpflo52ps2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:41:22.532+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4668ce2d0196",
-   "title": "Trump on his taxpayer-funded insurrectionist slush fund: \"If it was up to me, I'd pay them the kind of money they deserve. People have been destroyed. Many suicides. If they get it approved, that's great.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpfgbhehc2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:38:21.466+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b0f8602c453d",
-   "title": "Dangerously out of touch. Dangerously full of shit.",
-   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mnpewygyfs2z",
-   "summary": "",
-   "source": "@djrothkopf",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:29:48.699+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "838e68528bce",
-   "title": "WELKER: Gas is up. Diesel is up. TRUMP: It's all coming down as soon as the war is over. WELKER: 70% of farmers say they can't afford fertilizer. TRUMP: The farmers are doing very well.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpetnwk3s2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:27:57.012+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8227c1b1aacf",
-   "title": "\"The signs of this decline are available for anyone who chooses to see them. .. The president frequently appears unable to discuss complex matters like peace negotiations with Iran in any competent manner.\" Today seems like a really good day to retweet this Definitely read it:",
-   "link": "https://bsky.app/profile/monaburns.bsky.social/post/3mnpeqf7nlc2m",
-   "summary": "",
-   "source": "@monaburns",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:26:07.210+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "a8eebaeddc18",
-   "title": "Trump: \"We took over Venezuela in a matter of minutes\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpem4vhqc2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:23:44.269+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "802361aedf6e",
-   "title": "Trump: \"When people hear me say, 'Iran was gonna have a nuclear weapon, and they're crazy,' they say, 'You're doing the right thing.' I don't think it's unpopular.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpejqksp22w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:22:24.229+00:00",
+   "published": "2026-06-07T14:25:18.693+00:00",
    "iran_topic": true
   },
   {
@@ -662,26 +722,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-07T14:19:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5879dbf058af",
-   "title": "Trump gets distracted by rain, leading to an awkward moment of silence with Kristen Welker",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpeah3tbk2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:17:12.310+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a77d08f37f95",
-   "title": "Trump to Welker: \"Listen to me\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpe6u6kkk2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:16:18.923+00:00",
    "iran_topic": false
   },
   {
@@ -932,46 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-06T19:54:47.362+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f7d3887c8546",
-   "title": "Trump Imagines Obama Library Will Be a Giant Dumpster Surrounded By Homeless Tents",
-   "link": "https://www.mediaite.com/media/news/trump-imagines-obama-library-will-be-a-giant-dumpster-surrounded-by-homeless-tents/",
-   "summary": "Trump posted an AI-generated image of what he believes Obama's library will look like in 2036 — a giant grey dumpster with a big black bag of trash spilling out The post Trump Imagines Obama Library Will Be a Giant Dumpster Surrounded By Homeless Tents first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-06T19:18:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a216167caaae",
-   "title": "Trump Thanks Himself In Screed On His DC Building Projects",
-   "link": "https://www.mediaite.com/media/news/trump-thanks-himself-in-screed-on-his-dc-building-projects/",
-   "summary": "Donald Trump thanked himself outright Saturday in a Truth Social screed about his building projects, while declaring \"THE BEST IS YET TO COME.\" The post Trump Thanks Himself In Screed On His DC Building Projects first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-06T19:13:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c5cb8b117d30",
-   "title": "Mamdani Calls to Ignore Democratic Party Elders and Push for Abolishing ICE",
-   "link": "https://www.mediaite.com/media/tv/mamdani-calls-to-ignore-democratic-party-elders-and-push-for-abolishing-ice/",
-   "summary": "Zohran Mamdani (D) said it is time for the Democrats to ignore party leaders, embrace a \"new vision,\" and call for the abolishment of ICE The post Mamdani Calls to Ignore Democratic Party Elders and Push for Abolishing ICE first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-06T18:38:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2a5e7e7634e6",
-   "title": "Tucker Carlson Gushes Over ‘Charming’ Gavin Newsom: ‘Oh, He’s Unbelievable’",
-   "link": "https://www.mediaite.com/media/podcasts/tucker-carlson-gushes-over-charming-gavin-newsom-oh-hes-unbelievable/",
-   "summary": "If you listen to his latest podcast, it Tucker Carlson sounds like he has a bit of a political crush on California Gov. Gavin Newsom (D). The post Tucker Carlson Gushes Over ‘Charming’ Gavin Newsom: ‘Oh, He’s Unbelievable’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-06T18:25:35+00:00",
    "iran_topic": false
   }
  ]
