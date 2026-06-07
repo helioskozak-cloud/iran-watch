@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T03:38:18.769641+00:00",
+ "generated": "2026-06-07T07:53:27.749446+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -8,7 +8,6 @@
    "change": -1.94,
    "change_pct": -2.04,
    "spark": [
-    94.9800033569336,
     96.0,
     97.80999755859375,
     95.02999877929688,
@@ -22,7 +21,6 @@
    "change": -2.5,
    "change_pct": -2.69,
    "spark": [
-    92.16000366210938,
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
@@ -32,15 +30,14 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4337.1,
-   "change": -138.7,
-   "change_pct": -3.1,
+   "price": 4365.3,
+   "change": -110.5,
+   "change_pct": -2.47,
    "spark": [
-    4475.2001953125,
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4337.10009765625
+    4365.2998046875
    ]
   },
   "DX-Y.NYB": {
@@ -50,7 +47,6 @@
    "change": 0.66,
    "change_pct": 0.66,
    "spark": [
-    99.19999694824219,
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
@@ -106,7 +102,6 @@
    "change": -0.11,
    "change_pct": -3.21,
    "spark": [
-    3.178999900817871,
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
@@ -221,17 +216,31 @@
  ],
  "incidents": [
   {
+   "title": "US downs two Iranian attack drones 'threatening int'l maritime traffic' in Strait of Hormuz",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898548",
+   "source": "Jerusalem Post",
+   "published": "2026-06-07T08:01:09+00:00",
+   "severity": "high"
+  },
+  {
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-07T03:37:22.106024+00:00",
+   "published": "2026-06-07T07:52:41.857001+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-07T03:37:22.105309+00:00",
+   "published": "2026-06-07T07:52:41.856282+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say reut.rs/4o8mONC",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnomnqehyk2v",
+   "source": "@reuters",
+   "published": "2026-06-07T07:15:08+00:00",
    "severity": "info"
   },
   {
@@ -249,10 +258,17 @@
    "severity": "info"
   },
   {
-   "title": "US says it destroyed two Iranian drones targeting Hormuz shipping",
-   "link": "https://www.timesofisrael.com/liveblog-june-7-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-06T21:46:43+00:00",
+   "title": "Iran war live: US forces shoot down Iranian drones in Strait of Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-07T00:00:00+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "How the hell do I even enjoy Reddit?",
+   "link": "https://www.reddit.com/r/Israel/comments/1tyur9n/how_the_hell_do_i_even_enjoy_reddit/",
+   "source": "r/Israel",
+   "published": "2026-06-06T22:28:03+00:00",
    "severity": "info"
   },
   {
@@ -260,6 +276,27 @@
    "link": "https://www.jpost.com/middle-east/iran-news/article-898527",
    "source": "Jerusalem Post",
    "published": "2026-06-06T20:21:24+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Restlessness of the Americans over reopening the Strait of Hormuz",
+   "link": "https://www.tehrantimes.com/news/527065/Restlessness-of-the-Americans-over-reopening-the-Strait-of-Hormuz",
+   "source": "Tehran Times",
+   "published": "2026-06-06T16:54:27+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Retaliatory strikes on US bases reflect Iran’s firm response to continued aggression",
+   "link": "https://www.tehrantimes.com/news/527063/Retaliatory-strikes-on-US-bases-reflect-Iran-s-firm-response",
+   "source": "Tehran Times",
+   "published": "2026-06-06T16:52:17+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rezaei warns of wider conflict if diplomacy fails",
+   "link": "https://www.tehrantimes.com/news/527072/Rezaei-warns-of-wider-conflict-if-diplomacy-fails",
+   "source": "Tehran Times",
+   "published": "2026-06-06T16:36:15+00:00",
    "severity": "medium"
   },
   {
@@ -282,48 +319,6 @@
    "source": "IRNA",
    "published": "2026-06-06T12:16:29+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump has brought negotiations to a standstill: Major General Rezaei",
-   "link": "https://en.irna.ir/news/86174397/Trump-has-brought-negotiations-to-a-standstill-Major-General",
-   "source": "IRNA",
-   "published": "2026-06-06T08:40:30+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz reut.rs/3RRMx0X",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnmawrqfq52j",
-   "source": "@reuters",
-   "published": "2026-06-06T08:40:07+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Strikes Iranian Radar Sites Following Drone Attacks in Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1tybcqp/us_strikes_iranian_radar_sites_following_drone/",
-   "source": "r/worldnews",
-   "published": "2026-06-06T08:11:33+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US, Iran trade strikes despite visas for World Cup footballers",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-trade-strikes-despite-visas-world-cup-footballers",
-   "source": "Al-Monitor",
-   "published": "2026-06-06T05:30:18+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes",
-   "source": "Al-Monitor",
-   "published": "2026-06-06T05:30:18+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran targets Bahrain and Kuwait after new US strikes",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-bahrain-and-kuwait-after-new-us-strikes",
-   "source": "Al-Monitor",
-   "published": "2026-06-06T05:30:18+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -331,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
-     "title": "US says it destroyed two Iranian drones targeting Hormuz shipping",
-     "link": "https://www.timesofisrael.com/liveblog-june-7-2026/",
-     "source": "Times of Israel",
-     "published": "2026-06-06T21:46:43+00:00",
+     "title": "US downs two Iranian attack drones 'threatening int'l maritime traffic' in Strait of Hormuz",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-898548",
+     "source": "Jerusalem Post",
+     "published": "2026-06-07T08:01:09+00:00",
+     "severity": "high"
+    },
+    {
+     "title": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say reut.rs/4o8mONC",
+     "link": "https://bsky.app/profile/reuters.com/post/3mnomnqehyk2v",
+     "source": "@reuters",
+     "published": "2026-06-07T07:15:08+00:00",
      "severity": "info"
     },
     {
-     "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
-     "link": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
-     "source": "IRNA",
-     "published": "2026-06-06T12:22:40+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Russia Exposes Secret Gulf Energy War As US Munitions Limit Reached Near Strait of Hormuz",
-     "link": "https://www.reddit.com/r/MiddleEastNews/comments/1tyfv2d/russia_exposes_secret_gulf_energy_war_as_us/",
-     "source": "r/MiddleEastNews",
-     "published": "2026-06-06T12:22:31+00:00",
-     "severity": "info"
+     "title": "Iran war live: US forces shoot down Iranian drones in Strait of Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-07T00:00:00+00:00",
+     "severity": "medium"
     }
    ]
   },
