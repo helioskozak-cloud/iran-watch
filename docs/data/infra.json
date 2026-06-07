@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T07:53:27.749446+00:00",
+ "generated": "2026-06-07T08:49:37.588547+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,6 +216,27 @@
  ],
  "incidents": [
   {
+   "title": "Tel Aviv gambling house raid: Eight Chinese nationals arrested, NIS 1m. in cash seized",
+   "link": "https://www.jpost.com/israel-news/article-898554",
+   "source": "Jerusalem Post",
+   "published": "2026-06-07T10:26:26+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
+   "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
+   "source": "Press TV",
+   "published": "2026-06-07T08:48:36.799082+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
+   "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
+   "source": "Press TV",
+   "published": "2026-06-07T08:48:36.798391+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US downs two Iranian attack drones 'threatening int'l maritime traffic' in Strait of Hormuz",
    "link": "https://www.jpost.com/middle-east/iran-news/article-898548",
    "source": "Jerusalem Post",
@@ -223,17 +244,10 @@
    "severity": "high"
   },
   {
-   "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
-   "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
-   "source": "Press TV",
-   "published": "2026-06-07T07:52:41.857001+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
-   "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
-   "source": "Press TV",
-   "published": "2026-06-07T07:52:41.856282+00:00",
+   "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+   "link": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-07T07:33:38+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "IRNA",
    "published": "2026-06-06T12:22:40+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Russia Exposes Secret Gulf Energy War As US Munitions Limit Reached Near Strait of Hormuz",
-   "link": "https://www.reddit.com/r/MiddleEastNews/comments/1tyfv2d/russia_exposes_secret_gulf_energy_war_as_us/",
-   "source": "r/MiddleEastNews",
-   "published": "2026-06-06T12:22:31+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Exclusive | Iran envoy rejects UK's Hormuz narrative, says external forces cannot ensure regional security",
-   "link": "https://en.irna.ir/news/86174800/Exclusive-Iran-envoy-rejects-UK-s-Hormuz-narrative-says-external",
-   "source": "IRNA",
-   "published": "2026-06-06T12:16:29+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,7 +326,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 5,
    "recent": [
     {
      "title": "US downs two Iranian attack drones 'threatening int'l maritime traffic' in Strait of Hormuz",
