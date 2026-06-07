@@ -1,56 +1,60 @@
 {
- "generated": "2026-06-07T21:36:46.169392+00:00",
+ "generated": "2026-06-07T22:46:01.170696+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 93.09,
-   "change": -1.94,
-   "change_pct": -2.04,
+   "price": 95.62,
+   "change": 2.53,
+   "change_pct": 2.72,
    "spark": [
     96.0,
     97.80999755859375,
     95.02999877929688,
-    93.08999633789062
+    93.08999633789062,
+    95.62000274658203
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.54,
-   "change": -2.5,
-   "change_pct": -2.69,
+   "price": 92.87,
+   "change": 2.33,
+   "change_pct": 2.57,
    "spark": [
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
-    90.54000091552734
+    90.54000091552734,
+    92.87000274658203
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4365.3,
-   "change": -110.5,
-   "change_pct": -2.47,
+   "price": 4348.5,
+   "change": 11.4,
+   "change_pct": 0.26,
    "spark": [
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
-    4365.2998046875
+    4337.10009765625,
+    4348.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.07,
-   "change": 0.66,
-   "change_pct": 0.66,
+   "price": 100.14,
+   "change": 0.07,
+   "change_pct": 0.07,
    "spark": [
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
-    100.06999969482422
+    100.06999969482422,
+    100.14299774169922
    ]
   },
   "^GSPC": {
@@ -98,14 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.23,
-   "change": -0.11,
-   "change_pct": -3.21,
+   "price": 3.19,
+   "change": -0.04,
+   "change_pct": -1.21,
    "spark": [
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
-    3.2290000915527344
+    3.2290000915527344,
+    3.190000057220459
    ]
   }
  },
@@ -374,6 +379,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "4cedb591d56a",
+   "title": "Bummed New Yorkers Bash Trump Hitting Knicks Game After He’s ‘Pooped On’ The Big Apple",
+   "link": "https://www.mediaite.com/media/sports/bummed-new-yorkers-bash-trump-hitting-knicks-game-after-hes-pooped-on-the-big-apple/",
+   "summary": "CNN talked to several New Yorkers who are sad Trump is hitting MSG to watch his hometown Knicks play the San Antonio Spurs in the NBA Finals on Monday. The post Bummed New Yorkers Bash Trump Hitting Knicks Game After He’s ‘Pooped On’ The Big Apple first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-07T22:21:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "df3010205c72",
+   "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump’s birthday",
+   "link": "https://www.politico.com/news/2026/06/07/lawsuit-seeks-to-stop-the-ufc-fight-on-the-white-house-south-lawn-for-trumps-birthday-00953084",
+   "summary": "The filing contends the Trump administration’s authorization of the June 14 event was unlawful.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-07T22:04:29+00:00",
+   "iran_topic": false
+  },
   {
    "id": "e2e74727bd04",
    "title": "Trump Reacts to Iran Firing Missiles Into Israel in Phoner With Fox’s Yingst: ‘You’ve Shot Your Missiles, That’s Enough’",
@@ -952,26 +977,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-07T00:15:15.973+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8fe2f76e57e5",
-   "title": "JUST IN: Gunman On The Loose After Music Festival Shooting Leaves ‘Many Victims’",
-   "link": "https://www.mediaite.com/media/news/just-in-gunman-on-the-loose-after-music-festival-shooting-leaves-many-victims/",
-   "summary": "Toledo, Ohio, police said they received a report of a person shot near the Old West End Festival and arrived to find multiple shooting victims The post JUST IN: Gunman On The Loose After Music Festival Shooting Leaves ‘Many Victims’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-06T23:49:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b7f0fcce20c",
-   "title": "MacFarlane: This is like holding a winning lottery ticket next to an open flame. 60 minutes is a cash cow. It helps underwrite so much of CBS news. If they were to burn this, it does great damage.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnnt2mob7w2n",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-06T23:37:03.351+00:00",
    "iran_topic": false
   }
  ]
