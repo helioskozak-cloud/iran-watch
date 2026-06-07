@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T01:57:11.831705+00:00",
+ "generated": "2026-06-07T03:38:18.769641+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,21 @@
    "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
    "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
    "source": "Press TV",
-   "published": "2026-06-07T01:56:23.101919+00:00",
+   "published": "2026-06-07T03:37:22.106024+00:00",
    "severity": "critical"
   },
   {
    "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
    "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
    "source": "Press TV",
-   "published": "2026-06-07T01:56:23.101182+00:00",
+   "published": "2026-06-07T03:37:22.105309+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "As OPEC+ meets, Iran war hobbles power to shape oil market",
+   "link": "https://www.al-monitor.com/originals/2026/06/opec-meets-iran-war-hobbles-power-shape-oil-market",
+   "source": "Al-Monitor",
+   "published": "2026-06-07T02:30:18+00:00",
    "severity": "info"
   },
   {
@@ -239,6 +246,13 @@
    "link": "https://www.timesofisrael.com/the-hunt-for-the-red-lionfish-a-beautiful-and-dangerous-invader/",
    "source": "Times of Israel",
    "published": "2026-06-07T00:12:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US says it destroyed two Iranian drones targeting Hormuz shipping",
+   "link": "https://www.timesofisrael.com/liveblog-june-7-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-06T21:46:43+00:00",
    "severity": "info"
   },
   {
@@ -310,20 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-06T05:30:18+00:00",
    "severity": "low"
-  },
-  {
-   "title": "US energy secretary says lower gas prices will ultimately take resolution with Iran",
-   "link": "https://www.jpost.com/international/article-898511",
-   "source": "Jerusalem Post",
-   "published": "2026-06-06T04:27:41+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Shoots Down Iranian Drones Launched At Strait Of Hormuz: Official (Updated)",
-   "link": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
-   "source": "The Drive",
-   "published": "2026-06-06T02:46:24+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -333,6 +333,13 @@
    "status": "ACTIVE",
    "incident_count": 6,
    "recent": [
+    {
+     "title": "US says it destroyed two Iranian drones targeting Hormuz shipping",
+     "link": "https://www.timesofisrael.com/liveblog-june-7-2026/",
+     "source": "Times of Israel",
+     "published": "2026-06-06T21:46:43+00:00",
+     "severity": "info"
+    },
     {
      "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
      "link": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
@@ -345,13 +352,6 @@
      "link": "https://www.reddit.com/r/MiddleEastNews/comments/1tyfv2d/russia_exposes_secret_gulf_energy_war_as_us/",
      "source": "r/MiddleEastNews",
      "published": "2026-06-06T12:22:31+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Exclusive | Iran envoy rejects UK's Hormuz narrative, says external forces cannot ensure regional security",
-     "link": "https://en.irna.ir/news/86174800/Exclusive-Iran-envoy-rejects-UK-s-Hormuz-narrative-says-external",
-     "source": "IRNA",
-     "published": "2026-06-06T12:16:29+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1b9c94ec39d4",
+   "title": "BREAKING: In an interview with NYT, fired '60 Minutes' correspondent Scott Pelley says, \"right now, CBS News, in my view, is on fire.\" \"There's a subtle political bias that I've never seen at '60 Minutes' before or at CBS News before. We can save this. It's possible to land this plane.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mno3dxzql22e",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-07T02:05:27.317+00:00",
+   "iran_topic": false
+  },
   {
    "id": "822ff7a76402",
    "title": "There's now 78% of the vote in the race for Los Angeles mayor. Nithya Raman is now less than 1% away from overtaking Spencer Pratt. Karen Bass has already been projected to advance to the general election.",
@@ -967,16 +977,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-06T03:50:08.762+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "914e0aab775b",
-   "title": "Very low energy.",
-   "link": "https://bsky.app/profile/sanho.bsky.social/post/3mnlpaoxyz22p",
-   "summary": "",
-   "source": "@sanho",
-   "category": "trump_bsky",
-   "published": "2026-06-06T03:23:32.781+00:00",
    "iran_topic": false
   }
  ]
