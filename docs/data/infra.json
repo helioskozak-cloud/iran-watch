@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-08T17:39:25.483821+00:00",
+ "generated": "2026-06-08T19:52:48.125973+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.14,
-   "change": 1.05,
-   "change_pct": 1.13,
+   "price": 94.43,
+   "change": 1.34,
+   "change_pct": 1.44,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.13999938964844
+    94.43000030517578
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.99,
-   "change": 0.45,
-   "change_pct": 0.5,
+   "price": 91.48,
+   "change": 0.94,
+   "change_pct": 1.04,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    90.98999786376953
+    91.4800033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4364.4,
-   "change": 27.3,
-   "change_pct": 0.63,
+   "price": 4348.9,
+   "change": 11.8,
+   "change_pct": 0.27,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4364.39990234375
+    4348.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.96,
-   "change": -0.11,
-   "change_pct": -0.11,
+   "price": 100.01,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    99.96299743652344
+    100.01100158691406
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7423.63,
-   "change": 39.89,
-   "change_pct": 0.54,
+   "price": 7401.81,
+   "change": 18.07,
+   "change_pct": 0.24,
    "spark": [
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
-    7423.6298828125
+    7401.81005859375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 135.07,
-   "change": 2.04,
-   "change_pct": 1.54,
+   "price": 135.39,
+   "change": 2.37,
+   "change_pct": 1.78,
    "spark": [
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
-    135.06500244140625
+    135.38999938964844
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.82,
-   "change": -2.69,
-   "change_pct": -12.51,
+   "price": 18.86,
+   "change": -2.65,
+   "change_pct": -12.32,
    "spark": [
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    18.81999969482422
+    18.860000610351562
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.13,
-   "change": -0.1,
-   "change_pct": -3.13,
+   "price": 3.14,
+   "change": -0.09,
+   "change_pct": -2.85,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.128000020980835
+    3.13700008392334
    ]
   }
  },
@@ -216,6 +216,27 @@
  ],
  "incidents": [
   {
+   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
+   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
+   "source": "Press TV",
+   "published": "2026-06-08T19:51:46.141631+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
+   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
+   "source": "Press TV",
+   "published": "2026-06-08T19:51:46.141412+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "KC-135 Tanker Sporting New Large Antenna Points To Major Communications Upgrade",
+   "link": "https://www.twz.com/air/kc-135-tanker-sporting-new-large-antenna-points-to-major-communications-upgrade",
+   "source": "The Drive",
+   "published": "2026-06-08T19:40:53+00:00",
+   "severity": "info"
+  },
+  {
    "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
    "link": "https://www.jpost.com/middle-east/article-898749",
    "source": "Jerusalem Post",
@@ -223,17 +244,10 @@
    "severity": "info"
   },
   {
-   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-   "source": "Press TV",
-   "published": "2026-06-08T17:38:17.093164+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
-   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
-   "source": "Press TV",
-   "published": "2026-06-08T17:38:17.092956+00:00",
+   "title": "USNI News Fleet and Marine Tracker: June 8, 2026",
+   "link": "https://news.usni.org/2026/06/08/usni-news-fleet-and-marine-tracker-june-8-2026",
+   "source": "USNI News",
+   "published": "2026-06-08T17:48:30+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "@nytimes",
    "published": "2026-06-08T12:25:04.633238+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Airbus unveils U145 autonomous helicopter drone for cargo supply ops",
-   "link": "https://breakingdefense.com/2026/06/airbus-unveils-u145-autonomous-helicopter-drone-for-cargo-supply-ops/",
-   "source": "Breaking Defense",
-   "published": "2026-06-08T12:09:34+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea",
-   "link": "https://www.al-monitor.com/originals/2026/06/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea",
-   "source": "Al-Monitor",
-   "published": "2026-06-08T12:02:05+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -355,13 +355,13 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 5,
+   "incident_count": 4,
    "recent": [
     {
      "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
      "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
      "source": "Press TV",
-     "published": "2026-06-08T17:38:17.093164+00:00",
+     "published": "2026-06-08T19:51:46.141631+00:00",
      "severity": "critical"
     },
     {
@@ -397,13 +397,263 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T17:38:17.092956+00:00",
+     "published": "2026-06-08T19:51:46.141412+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "1475bd22f953",
+   "title": "NEWSNATION: You don't the president deserves any blame for Americans not trusting elections? He talks all the time about elections being rigged RON JOHNSON: Hillary Clinton was the first election denier. President Trump was tormented on a Russian collusion hoax. I can understand how he's frustrated",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsher4tqk2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:51:16.914+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ebba20b782ee",
+   "title": "Top Senate Republican Dismisses Trump’s Demand He Fire Parliamentarian: ‘That’s a Hard Job’",
+   "link": "https://www.mediaite.com/media/news/top-senate-republican-dismisses-trumps-demand-he-fire-parliamentarian-thats-a-hard-job/",
+   "summary": "Senate Majority Leader John Thune (R-SD) quickly dismissed President Donald Trump's demand that he fire Senate Parliamentarian Elizabeth MacDonough. The post Top Senate Republican Dismisses Trump’s Demand He Fire Parliamentarian: ‘That’s a Hard Job’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:51:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "531a71841e02",
+   "title": "‘What Else Should I Do?’ Savannah Guthrie Tears Up Discussing Return To Today Show With Mother Still Missing",
+   "link": "https://www.mediaite.com/media/news/what-else-should-i-do-savannah-guthrie-tears-up-discussing-return-to-today-show-with-mother-still-missing/",
+   "summary": "NBC News anchor Savannah Guthrie teared up while discussing her return to the Today Show, claiming her decision to come back to work after her mother's disappearance was \"not easy.\" The post ‘What Else Should I Do?’ Savannah Guthrie Tears Up Discussing Return To Today Show With Mother Still Missing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:50:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "41eb42b39628",
+   "title": "NEWSNATION: Trump has never had any evidence of rigged elections. Do you side with him? RON JOHNSON: There is so much evidence of irregularities in the 2020 election NN: There's never been anything proven at scale JOHNSON: People who do things cover it up NN: But why not present the evidence?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnshag7u6p2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:48:51.768+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ec58484352e6",
+   "title": "Knicks Fans Tell MS NOW They’re Fine With Trump Going to the Big Game: ‘The More the Merrier’",
+   "link": "https://www.mediaite.com/media/knicks-fans-tell-ms-now-theyre-fine-with-trump-going-to-the-big-game-the-more-the-merrier/",
+   "summary": "MS NOW talked to several other New York fans who did not seem to mind Trump hitting the Knicks game on Monday night, with one fan saying \"the more the merrier\" The post Knicks Fans Tell MS NOW They’re Fine With Trump Going to the Big Game: ‘The More the Merrier’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:45:21+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7a1c3a7476de",
+   "title": "Federal Judge Nukes Trump’s $100K H-1B Visa Fee by Ruling It’s an Unlawful Tax",
+   "link": "https://www.mediaite.com/lawcrime/federal-judge-nukes-trumps-100k-h-1b-visa-fee-by-ruling-its-an-unlawful-tax/",
+   "summary": "A federal judge has struck down President Donald Trump's executive order imposing a $100,000 payment on employers submitting petitions for new H-1B visas. The post Federal Judge Nukes Trump’s $100K H-1B Visa Fee by Ruling It’s an Unlawful Tax first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:44:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e1ebf335fdae",
+   "title": "Nomination Sent to the Senate",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
+   "summary": "NOMINATION SENT TO THE SENATE: Todd Blanche, of Florida, to be Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-08T19:38:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e1ebf335fdae",
+   "title": "Nomination Sent to the Senate",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
+   "summary": "NOMINATION SENT TO THE SENATE: Todd Blanche, of Florida, to be Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-08T19:38:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "88ee43c83909",
+   "title": "All the attention on the screwworm is making RFK Jr.'s brainworm jealous.",
+   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mnsg4vth2c2p",
+   "summary": "",
+   "source": "@missingthept",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:29:00.245+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cbdea97bbb9a",
+   "title": "Whoopi Goldberg Delivers an Extremely Rare Defense of Trump — Supports Him Going to Knicks Game: ‘He’s a Knicks Fan!’",
+   "link": "https://www.mediaite.com/media/news/whoopi-goldberg-delivers-an-extremely-rare-defense-of-trump-supports-him-going-to-knicks-game-hes-a-knicks-fan/",
+   "summary": "Whoopi Goldberg may have shocked The View's audience by supporting Donald Trump's high-security trip to watch the New York Nicks in game three. The post Whoopi Goldberg Delivers an Extremely Rare Defense of Trump — Supports Him Going to Knicks Game: ‘He’s a Knicks Fan!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:22:29+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "19cc74f9d2de",
+   "title": "RFK Jr and his cronies refuse to take a question about screwworm during a press conference",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsfjay5u72r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:18:00.780+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a742b5c14c6",
+   "title": "Tucker Carlson Suggests Assassination Attempt Turned Trump Into An ‘Enthusiastic Tool’ For Israel",
+   "link": "https://www.mediaite.com/media/tucker-carlson-suggests-assassination-attempt-turned-trump-into-an-enthusiastic-tool-for-israel/",
+   "summary": "Tucker Carlson accused Trump of morphing into an \"enthusiastic tool\" for Israel — which he said curiously happened right after the assassination attempt in 2024 The post Tucker Carlson Suggests Assassination Attempt Turned Trump Into An ‘Enthusiastic Tool’ For Israel first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:06:57+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "402343bce712",
+   "title": "Trump Takes a Swing at Mitch McConnell In Fiery Call For GOP to Fire Senate Parliamentarian",
+   "link": "https://www.mediaite.com/media/news/trump-takes-a-swing-at-mitch-mcconnell-in-fiery-call-for-gop-to-fire-senate-parliamentarian/",
+   "summary": "President Donald Trump took a swing at Senator Mitch McConnell (R-KY) in a Truth Social post on Monday, claiming the senator had \"proven to be very disloyal\" to Senate Majority Leader John Thune (R-SD). The post Trump Takes a Swing at Mitch McConnell In Fiery Call For GOP to Fire Senate Parliamentarian first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:04:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0d7f9336e2e4",
+   "title": "‘Malicious, False, Juvenile’: Right-Wing Activist Unleashes on Kash Patel as Feud Over Trump Assassination Attempt Heats Up",
+   "link": "https://www.mediaite.com/media/news/malicious-false-juvenile-right-wing-activist-unleashes-on-kash-patel-as-feud-over-trump-assassination-attempt-heats-up/",
+   "summary": "Tom Fitton unleashed on FBI director Kash Patel as the feud over the July 2024 attempt on President Donald Trump's life in Butler, Pennsylvania heats up. The post ‘Malicious, False, Juvenile’: Right-Wing Activist Unleashes on Kash Patel as Feud Over Trump Assassination Attempt Heats Up first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T19:01:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c6ff6821e1c9",
+   "title": "Jeffries: \"It's not clear to me that Donald Trump is a big Knicks fan. I mean, does this guy even know the difference between Karl Rove and Karl Anthony Towns? I don't think so. He's just injecting himself.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsdgxpuv72r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T18:40:56.476+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1a8c86a5308b",
+   "title": "President Trump says it would be safer for him if Game 3 of the NBA Finals were held in his ballroom.",
+   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mnsd3lwxys2a",
+   "summary": "",
+   "source": "@missingthept",
+   "category": "trump_bsky",
+   "published": "2026-06-08T18:34:35.096+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "504d36734954",
+   "title": "Trump’s Ex-Border Chief Greg Bovino Reportedly Eyeing 2028 White House Run With Slogan, ‘Men Fight Back’",
+   "link": "https://www.mediaite.com/media/news/trumps-ex-border-chief-greg-bovino-reportedly-eyeing-2028-white-house-run-with-slogan-men-fight-back/",
+   "summary": "Former Border Patrol chief Greg Bovino reportedly has his sights set on a higher office after his departure from the agency. The post Trump’s Ex-Border Chief Greg Bovino Reportedly Eyeing 2028 White House Run With Slogan, ‘Men Fight Back’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T18:33:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8713c78b11eb",
+   "title": "Hakeem Jeffries is wearing a Knicks hat during his presser",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnscniacjm2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T18:26:41.371+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "695c53ca084d",
+   "title": "The biggest story in America is a president who has completely lost touch with reality. Who thinks the FBI let all the January 6 rioters into the Capitol, that he really won the 2020 election, that the Iran War is going well. Who, when occasionally confronted w reality, panics.",
+   "link": "https://bsky.app/profile/chrismurphyct.bsky.social/post/3mnsce46ggk2w",
+   "summary": "",
+   "source": "@chrismurphyct",
+   "category": "trump_bsky",
+   "published": "2026-06-08T18:21:26.811+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fb56aa5fc099",
+   "title": "Michael Avenatti Scolds Sam Bankman-Fried for His ‘Refusal to Accept ANY Responsibility’ as He Pushes for a Trump Pardon (Yes, Really)",
+   "link": "https://www.mediaite.com/politics/michael-avenatti-scolds-sam-bankman-fried-for-his-refusal-to-accept-any-responsibility-as-he-pushes-for-a-trump-pardon-yes-really/",
+   "summary": "Michael Avenatti slammed his prison bunkmate Sam Bankman-Fried for wanting a pardon, saying he has not accepted \"ANY\" responsibility for his crimes The post Michael Avenatti Scolds Sam Bankman-Fried for His ‘Refusal to Accept ANY Responsibility’ as He Pushes for a Trump Pardon (Yes, Really) first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T18:19:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d968248d3a4",
+   "title": "Willie Brown Throws His Ex Under the Bus, Predicts Gavin Newsom Would Beat ‘Recent Loser’ Kamala Harris in 2028 Showdown",
+   "link": "https://www.mediaite.com/media/news/willie-brown-throws-his-ex-under-the-bus-predicts-gavin-newsom-would-beat-recent-loser-kamala-harris-in-2028-showdown/",
+   "summary": "Willie Brown threw Kamala Harris under the bus while discussing a prospective Democratic presidential primary showdown between herself and Gavin Newsom. The post Willie Brown Throws His Ex Under the Bus, Predicts Gavin Newsom Would Beat ‘Recent Loser’ Kamala Harris in 2028 Showdown first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T18:16:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "add0e3a1ed60",
+   "title": "isn't there a martial arts brawl somewhere tonight in Tuscaloosa that the president would enjoy more than attending his first NBA game in 30 years?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsbp77ix22l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T18:09:45.348+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5ec5cf22c6bb",
+   "title": "Mark Levin Nukes Steve Bannon, Demands to Know Where His Epstein Videotapes Are",
+   "link": "https://www.mediaite.com/media/news/mark-levin-nukes-steve-bannon-demands-to-know-where-his-epstein-videotapes-are/",
+   "summary": "Conservative commentator and Fox News host Mark Levin attacked Steve Bannon on Monday, questioning why he had yet to release recordings of his interview with convicted sex offender Jeffrey Epstein. The post Mark Levin Nukes Steve Bannon, Demands to Know Where His Epstein Videotapes Are first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T18:05:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a8366d47fbf7",
+   "title": "Attorney Suing Trump Admin Over UFC Lawn Fight Claims Display of ‘Corruption’ Will Be Included In Future US History Books",
+   "link": "https://www.mediaite.com/media/news/attorney-suing-trump-admin-over-ufc-lawn-fight-claims-display-of-corruption-will-be-included-in-future-us-history-books/",
+   "summary": "An attorney suing Trump to stop the planed White House UFC fight warned Monday that the display of \"corruption\" will be studied by future generations The post Attorney Suing Trump Admin Over UFC Lawn Fight Claims Display of ‘Corruption’ Will Be Included In Future US History Books first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:58:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2aae23a2ea0b",
+   "title": "Reuters: US JUDGE STRIKES DOWN PRESIDENT TRUMP'S $100,000 H-1B VISA FEE - COURT RULING",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsawkr6tc2h",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-08T17:55:58.602+00:00",
+   "iran_topic": false
+  },
   {
    "id": "891fbfab9c84",
    "title": "Stephen A. Smith Torches ‘Ridiculous’ Trump For Creating Chaos By Attending Knicks Game",
@@ -475,43 +725,33 @@
    "iran_topic": false
   },
   {
-   "id": "cf5c74d06cde",
-   "title": "‘Stolen Before Our Eyes’: MAGA World Erupts as Trump Claims LA Race ‘Rigged’",
-   "link": "https://www.mediaite.com/online/stolen-before-our-eyes-maga-world-erupts-as-trump-claims-la-race-rigged/",
-   "summary": "MAGA influencers and pundits have rallied behind Trump’s claims that Los Angeles' mayoral race vote count is “CROOKED” and “rigged.” The post ‘Stolen Before Our Eyes’: MAGA World Erupts as Trump Claims LA Race ‘Rigged’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:27:24+00:00",
+   "id": "2035c46b19ba",
+   "title": "@nberlat.bsky.social: \"Since his appointment as acting attorney general two months ago, Blanche has doubled down on his efforts to show Trump that he is the loyalest of all possible loyalists, a MAGA hat of a man with neither spine nor heart nor soul of his own.\" 🧾 open.substack.com/pub/aaronrup...",
+   "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3mns4w4anv22i",
+   "summary": "",
+   "source": "@pamspaulding",
+   "category": "trump_bsky",
+   "published": "2026-06-08T16:44:08.411+00:00",
    "iran_topic": false
   },
   {
-   "id": "4d838472e94e",
-   "title": "Sam Bankman-Fried Says He ‘Absolutely’ Wants a Pardon From Donald Trump",
-   "link": "https://www.mediaite.com/media/news/sam-bankman-fried-says-he-absolutely-wants-a-pardon-from-donald-trump/",
-   "summary": "Imprisoned crypto fraudster Sam Bankman-Fried told FOX Business correspondent Susan Li that he \"absolutely\" wants a pardon from President Donald Trump. The post Sam Bankman-Fried Says He ‘Absolutely’ Wants a Pardon From Donald Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:21:56+00:00",
+   "id": "fa37766ae2df",
+   "title": "Reminder: Trump’s own lackey has had to shut down right-wing conspiracy theories. And Trump’s own party isn’t playing into the conspiracy theory outrage machine either.",
+   "link": "https://bsky.app/profile/govpressoffice.gov.ca.gov/post/3mns4qti3jk2v",
+   "summary": "",
+   "source": "@govpressoffice",
+   "category": "trump_bsky",
+   "published": "2026-06-08T16:41:11.442+00:00",
    "iran_topic": false
   },
   {
-   "id": "76ac49296984",
-   "title": "Bill Maher Rips Media for ‘Mischaracterizing’ Charlie Kirk",
-   "link": "https://www.mediaite.com/media/bill-maher-rips-media-for-mischaracterizing-charlie-kirk/",
-   "summary": "Bill Maher said he is happy he got to speak to Charlie Kirk before he was murdered, in large part because the media \"mischaracterized\" what he believed. The post Bill Maher Rips Media for ‘Mischaracterizing’ Charlie Kirk first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:13:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d70083ad2983",
-   "title": "Alyssa Farah Griffin and Sunny Hostin Clash Over California’s Vote Counting: ‘Why Can Florida Do It Right in One Night?’",
-   "link": "https://www.mediaite.com/media/news/alyssa-farah-griffin-and-sunny-hostin-clash-over-californias-vote-counting-why-can-florida-do-it-right-in-one-night/",
-   "summary": "Alyssa Farah Griffin and Sunny Hostin clashed over how long it's taking California to count ballots, as some Republicans are accusing the state of voter fraud. The post Alyssa Farah Griffin and Sunny Hostin Clash Over California’s Vote Counting: ‘Why Can Florida Do It Right in One Night?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:06:34+00:00",
+   "id": "84686abfc224",
+   "title": "No amount of repetition makes a lie a truth. Every single case attempting to overturn the 2020 election was overturned, dismissed, or dropped, even by Trump-appointed judges.",
+   "link": "https://bsky.app/profile/levin.house.gov/post/3mns2u5nqrc2q",
+   "summary": "",
+   "source": "@levin",
+   "category": "trump_bsky",
+   "published": "2026-06-08T16:07:15.297+00:00",
    "iran_topic": false
   },
   {
@@ -525,16 +765,6 @@
    "iran_topic": false
   },
   {
-   "id": "e0233fba1ae0",
-   "title": "Ann Coulter Blows Up on Trump for Going to Knicks Game: ‘Of All the Selfish, Narcissistic Things’ He’s Done…",
-   "link": "https://www.mediaite.com/media/sports/ann-coulter-blows-up-on-trump-for-going-to-knicks-game-of-all-the-selfish-narcissistic-things-hes-done/",
-   "summary": "Conservative commentator Ann Coulter went off on President Donald Trump for his decision to attend Monday's NBA Finals game at Madison Square Garden. The post Ann Coulter Blows Up on Trump for Going to Knicks Game: ‘Of All the Selfish, Narcissistic Things’ He’s Done… first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:56:09+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d84d31cc6a5b",
    "title": "When Trump Fucks Up Blame Biden",
    "link": "https://bsky.app/profile/electproject.bsky.social/post/3mnrzmess5c2s",
@@ -545,36 +775,6 @@
    "iran_topic": false
   },
   {
-   "id": "e31a4669bf5d",
-   "title": "JUST IN: Clay Travis Leaving OutKick as Part of Fox News Digital Integration",
-   "link": "https://www.mediaite.com/media/news/just-in-clay-travis-leaving-outkick-after-15-years-as-part-of-fox-digital-shakeup/",
-   "summary": "Travis revealed he would leave the company after what he said was the site's most successful month on record and that Monday's show would be his last. The post JUST IN: Clay Travis Leaving OutKick as Part of Fox News Digital Integration first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:37:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d29ef3ed8355",
-   "title": "‘People Need to Go to Jail’: MAGA Lawmaker Accuses Democrats of Digging Through Garbage Cans to Rob Spencer Pratt",
-   "link": "https://www.mediaite.com/media/news/people-need-to-go-to-jail-maga-lawmaker-accuses-democrats-of-digging-through-garbage-cans-to-rob-spencer-pratt/",
-   "summary": "Randy Fine echoed Donald Trump's accusations that voting in California is corrupt and rigged because of the state's laborious vote counting system. The post ‘People Need to Go to Jail’: MAGA Lawmaker Accuses Democrats of Digging Through Garbage Cans to Rob Spencer Pratt first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:32:03+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ecfe1fb2fac6",
-   "title": "Ken Paxton’s Impeachment Defense Lawyer Turns on Him in Scathing Statement",
-   "link": "https://www.mediaite.com/media/news/ken-paxtons-impeachment-defense-lawyer-turns-on-him-in-scathing-statement/",
-   "summary": "Talarico is seeking to become the first Democrat elected to the U.S. Senate from Texas since Lloyd Bentsen in 1988. The post Ken Paxton’s Impeachment Defense Lawyer Turns on Him in Scathing Statement first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:25:55+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "886a8f558ff8",
    "title": "\"One thing is clear; Bondi’s failures were failures that Trump demanded. If a minimally principled AG is appointed during his term, it will be despite his furious efforts. That’s because one of the absolute core goals of his presidency is the perversion of justice and destruction of the rule of law\"",
    "link": "https://bsky.app/profile/atrupar.com/post/3mnrybdedfk2l",
@@ -582,26 +782,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-08T15:20:56.262+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "991428067cfa",
-   "title": "Republican Senator Blames Screwworm Outbreak on Joe Biden",
-   "link": "https://www.mediaite.com/media/news/republican-senator-blames-screwworm-outbreak-on-joe-biden/",
-   "summary": "Sen. Roger Marshall (R-KS) blamed an outbreak of a flesh eating parasite affecting cows on former President Joe Biden on Monday, claiming migrants who entered the country under his watch brought the virus with them. The post Republican Senator Blames Screwworm Outbreak on Joe Biden first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:16:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "81641a2397ea",
-   "title": "Bill Maher Makes Big Midterms Prediction: ‘Even They Can’t Blow It’",
-   "link": "https://www.mediaite.com/politics/bill-maher-makes-big-midterms-prediction-even-they-cant-blow-it/",
-   "summary": "Bill Maher said he believes Democrats have the election in the bag — thanks in large part to President Trump, who has \"f*cked up\" his immigration crackdown The post Bill Maher Makes Big Midterms Prediction: ‘Even They Can’t Blow It’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T15:06:10+00:00",
    "iran_topic": false
   },
   {
@@ -622,36 +802,6 @@
    "source": "@hammancheez",
    "category": "trump_bsky",
    "published": "2026-06-08T14:56:04.954+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff93eac4b43a",
-   "title": "Richard Gere Fumes ‘Maniac’ Trump Has ‘Dismantled’ Everything Good About USA",
-   "link": "https://www.mediaite.com/media/richard-gere-fumes-maniac-trump-has-dismantled-everything-good-about-usa/",
-   "summary": "Actor Richard Gere branded President Donald Trump a \"maniac\" and complained he has \"dismantled\" everything good about the US during his time in the White House. The post Richard Gere Fumes ‘Maniac’ Trump Has ‘Dismantled’ Everything Good About USA first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:47:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0e1ef6cd09e1",
-   "title": "Trump FCC Chief Brendan Carr Slams ‘Out of Touch’ Scott Pelley for Claiming He Didn’t Expect ’60 Minutes’ Firing",
-   "link": "https://www.mediaite.com/media/news/trump-fcc-chief-brendan-carr-slams-out-of-touch-scott-pelley-for-claiming-he-didnt-expect-60-minutes-firing/",
-   "summary": "FCC Chairman Brendan Carr called veteran news anchor Scott Pelley \"out of touch\" on Sunday for claiming in an interview that his firing from 60 Minutes came a surprise. The post Trump FCC Chief Brendan Carr Slams ‘Out of Touch’ Scott Pelley for Claiming He Didn’t Expect ’60 Minutes’ Firing first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:44:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e77d48a5ff70",
-   "title": "CNBC’s Sorkin Battles Top Trump DOJ Lawyer Who Suggested Fraud in LA Mayor’s Race",
-   "link": "https://www.mediaite.com/media/tv/cnbcs-sorkin-battles-top-trump-doj-lawyer-who-suggested-fraud-in-la-mayors-race/",
-   "summary": "Sorkin questioned whether a senior federal prosecutor should be publicly raising suspicions about election results without evidence. The post CNBC’s Sorkin Battles Top Trump DOJ Lawyer Who Suggested Fraud in LA Mayor’s Race first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:35:17+00:00",
    "iran_topic": false
   },
   {
@@ -725,26 +875,6 @@
    "iran_topic": false
   },
   {
-   "id": "0754a7d94181",
-   "title": "Randy Fine claims people are literally dumpster diving for fraudulent ballots in California 😆 cool story, bro",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnru23xocf2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:05:18.586+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dac1e2adbae7",
-   "title": "Even if true (and how 1984-ish of Cava Bag Boy to say that), last I checked Portland, Oregon and the state of Minnesota are both within the United States. So, you know, they're still Americans. Just like New Yorkers.",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnrttquazk2z",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:01:45.686+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "668108593598",
    "title": "total abuser brain. you can see him get just incandescent with rage as the insults don’t land. how is this not working.",
    "link": "https://bsky.app/profile/famousartthief.bsky.social/post/3mnrtpn4pks2w",
@@ -755,26 +885,6 @@
    "iran_topic": false
   },
   {
-   "id": "00b39a6336a5",
-   "title": "Tom Homan on Delaney Hall: \"I went there and had lunch. I sat in the cafeteria with detainees. Had the same meal they had. It was spaghetti and meat sauce, it was green beans, it was charro beans, it was rolls and butter, it was fruit, it was dessert. I ate it. Now is it a 5 star cuisine? No.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrtl7to7u2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:56:59.311+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b36dc29736e7",
-   "title": "Tom Homan on Delaney Hall: \"These are paid protesters. We've got facial recognition of people from Portland and many from Minnesota. This isn't home grown.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrtfzssyq2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:54:05.213+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "ed8996db690a",
    "title": "Ken Paxton's impeachment defense lawyer just endorsed James Talarico. Dan Cogdell says his former client \"has lost sight of his core mission, which is to represent the people of Texas.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnrt7i65b22d",
@@ -782,86 +892,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-08T13:50:25.485+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f1069d310e6",
-   "title": "He went from orange to red. While the President's tantrums are absurd, his delusions of voter fraud are dangerous. The President is an unhinged disgrace, and the American people deserve a Congress that will stand up to Trump's lies, not enable them.",
-   "link": "https://bsky.app/profile/murray.senate.gov/post/3mnrt5eaask2n",
-   "summary": "",
-   "source": "@murray",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:49:14.250+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2940ca1e9159",
-   "title": "“Last summer he orchestrated a much-reported meeting with Epstein’s convicted and imprisoned accomplice in child abuse, Ghislaine Maxwell … After Maxwell and Blanche chatted, Maxwell was moved to a minimum-security prison …”",
-   "link": "https://bsky.app/profile/tusk81.bsky.social/post/3mnrrbx6tuc2m",
-   "summary": "",
-   "source": "@tusk81",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:16:00.862+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cc5ee7a07bbd",
-   "title": "SORKIN: Do you think it helps, given where you sit in the world, to speculate about fraud without any direct evidence? US ATTORNEY CLAYTON: I'm not speculating about fraud. I'm not saying there is fraud. I'm saying that the opportunity for fraud makes no sense to me S: Trump says there was fraud",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrp7pdilk24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:38:57.967+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f14df2c5158c",
-   "title": "\"The American people are right to question it\" -- US Attorney for the Southern District of New York Jay Clayton was on CNBC this morning indulging conspiracy theories about how they're counting votes in California",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrp7lfak22f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:38:53.835+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d39121c047eb",
-   "title": "QUICK: How are farmers faring these days given higher fertilizer prices and diesel prices? BROOKE ROLLINS: There was almost a 40% increase in input prices under the last administration, no new trade deals under Biden (note the complete lack of pushback from CNBC hosts who just let her rant... )",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrop43cpj2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:29:40.895+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6e655214674a",
-   "title": "beyond parody -- Ag Secretary Brooke Rollins blames Biden for screwworm \"I do think it's important to note that under the last administration not much had been done to push back\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrobzerve2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:22:21.860+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d4986b31a6b",
-   "title": "New in PN: Bondi was the worst AG in history. Until now. \"Whether he becomes AG or not, Blanche has made clear what qualities Trump prizes in his appointees — contempt for any principle superseding his brain burps. MAGA wants AGs who are unfit to be AGs. Only hollowed-out fascists need apply.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrnncf5ac2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:10:46.734+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9d37cde9d00b",
-   "title": "Trump at the posting through it stage of his presidency.",
-   "link": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mnrnfe6fpk2e",
-   "summary": "",
-   "source": "@eliothiggins",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:06:20.175+00:00",
    "iran_topic": false
   },
   {
@@ -972,36 +1002,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-07T18:30:53.228+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "45509c5937e1",
-   "title": "Murphy: The very fact that we’re in this war—that the president seems to have been manipulated into it by Netanyahu, who told him that within a few days of bombing there would be a pro-U.S., pro-Israeli government in Tehran—just speaks to how weak his mental capacities are.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpsg2vd2k2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:30:53.227+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "757a6c1b2d1b",
-   "title": "The hair-loss drug Trump took for years is now absent from his medical records. White House officials say they're not obligated to disclose all of Trump's medications — including whether he still uses finasteride.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnppunj4vk2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:45:21.286+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2cfeed2754eb",
-   "title": "Trump ends NBC interview over discussion of ‘crooked’ elections",
-   "link": "https://www.politico.com/news/2026/06/07/trump-ends-nbc-interview-crooked-elections-00953046",
-   "summary": "He scolded host Kristen Welker: “You're a one-sided crooked network.\"",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-07T17:25:09+00:00",
    "iran_topic": false
   }
  ]
