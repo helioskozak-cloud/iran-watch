@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-08T08:54:05.782622+00:00",
+ "generated": "2026-06-08T10:25:41.151443+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 97.38,
-   "change": 4.29,
-   "change_pct": 4.61,
+   "price": 96.76,
+   "change": 3.67,
+   "change_pct": 3.94,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    97.37999725341797
+    96.76000213623047
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 94.69,
-   "change": 4.15,
-   "change_pct": 4.58,
+   "price": 94.5,
+   "change": 3.96,
+   "change_pct": 4.37,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    94.69000244140625
+    94.5
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4314.8,
-   "change": -22.3,
-   "change_pct": -0.51,
+   "price": 4319.1,
+   "change": -18.0,
+   "change_pct": -0.42,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4314.7998046875
+    4319.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.13,
-   "change": 0.06,
-   "change_pct": 0.06,
+   "price": 100.08,
+   "change": 0.01,
+   "change_pct": 0.01,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.13400268554688
+    100.08499908447266
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.88,
-   "change": -1.63,
-   "change_pct": -7.58,
+   "price": 19.61,
+   "change": -1.9,
+   "change_pct": -8.83,
    "spark": [
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    19.8799991607666
+    19.610000610351562
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.12,
-   "change": -0.11,
-   "change_pct": -3.41,
+   "price": 3.13,
+   "change": -0.1,
+   "change_pct": -3.13,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.11899995803833
+    3.128000020980835
    ]
   }
  },
@@ -216,6 +216,20 @@
  ],
  "incidents": [
   {
+   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
+   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
+   "source": "Press TV",
+   "published": "2026-06-08T10:24:46.528798+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
+   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
+   "source": "Press TV",
+   "published": "2026-06-08T10:24:46.528678+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
    "link": "https://www.jpost.com/middle-east/article-898676",
    "source": "Jerusalem Post",
@@ -223,11 +237,25 @@
    "severity": "info"
   },
   {
-   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-   "source": "Press TV",
-   "published": "2026-06-08T08:53:07.783537+00:00",
-   "severity": "critical"
+   "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-08T08:38:42+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u01h25/yemens_iranbacked_houthis_vow_to_block_israeli/",
+   "source": "r/worldnews",
+   "published": "2026-06-08T08:01:59+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Israel exchange fire in first clash since truce",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-israel-exchange-fire-first-clash-truce",
+   "source": "Al-Monitor",
+   "published": "2026-06-08T08:00:16+00:00",
+   "severity": "high"
   },
   {
    "title": "What Beirut’s Port Scanners Miss About Militant Supply Chains",
@@ -291,34 +319,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-07T14:14:50+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Pet relocation feom lebanon to uae",
-   "link": "https://www.reddit.com/r/lebanon/comments/1tzblot/pet_relocation_feom_lebanon_to_uae/",
-   "source": "r/lebanon",
-   "published": "2026-06-07T13:03:49+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Greece arrests suspected Hamas operative said planning terror attack on Israeli cruise ship",
-   "link": "https://www.timesofisrael.com/greece-arrests-suspected-hamas-operative-accused-of-planning-terror-attack/",
-   "source": "Times of Israel",
-   "published": "2026-06-07T10:54:33+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Tel Aviv gambling house raid: Eight Chinese nationals arrested, NIS 1m. in cash seized",
-   "link": "https://www.jpost.com/israel-news/article-898554",
-   "source": "Jerusalem Post",
-   "published": "2026-06-07T10:26:26+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "June 2: IRGC Navy strikes US-Israeli cargo ship after US attack, reaffirms full military readiness",
-   "link": "https://presstv.ir/Detail/2026/06/02/769734/june2-irgc-navy-strikes-us-israeli-cargo-ship-us-attack-reaffirms-full-readiness",
-   "source": "Press TV",
-   "published": "2026-06-07T08:48:36.799082+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -355,8 +355,15 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 2,
+   "incident_count": 4,
    "recent": [
+    {
+     "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
+     "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
+     "source": "Press TV",
+     "published": "2026-06-08T10:24:46.528678+00:00",
+     "severity": "critical"
+    },
     {
      "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
      "link": "https://www.jpost.com/middle-east/article-898676",
@@ -365,11 +372,11 @@
      "severity": "info"
     },
     {
-     "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-     "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-     "source": "Press TV",
-     "published": "2026-06-08T08:53:07.783537+00:00",
-     "severity": "critical"
+     "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-08T08:38:42+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -383,12 +390,50 @@
   {
    "name": "Eastern Mediterranean",
    "description": "Israeli ports + Levantine gas fields. Hezbollah cross-border range.",
-   "status": "QUIET",
-   "incident_count": 0,
-   "recent": []
+   "status": "ACTIVE",
+   "incident_count": 1,
+   "recent": [
+    {
+     "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
+     "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
+     "source": "Press TV",
+     "published": "2026-06-08T10:24:46.528798+00:00",
+     "severity": "info"
+    }
+   ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "488bac67dc3e",
+   "title": "Trump Rages at ‘CROOKED’ California Vote After Spencer Pratt Falls Behind in LA Race",
+   "link": "https://www.mediaite.com/media/news/trump-rages-at-crooked-california-vote-after-spencer-pratt-falls-behind-in-la-race/",
+   "summary": "Trump’s broadside also landed after he stormed out of an interview after a confrontation during a pre-recorded sitdown for Meet the Press. The post Trump Rages at ‘CROOKED’ California Vote After Spencer Pratt Falls Behind in LA Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T10:18:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "15a585c64241",
+   "title": "Pam Bondi was the worst AG in history. Until now.",
+   "link": "https://www.publicnotice.co/p/todd-blanche",
+   "summary": "Todd Blanche, it&#8217;s your turn.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-08T10:18:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "69c6f4b3be79",
+   "title": "A political nerd’s guide to Britain’s by-election",
+   "link": "https://www.politico.com/news/2026/06/08/political-nerd-guide-britain-by-elections-00952829",
+   "summary": "By-elections — the British equivalent of a U.S. special election — are held when a member of Parliament resigns, dies or becomes enmeshed in tabloid scandal and are flung out of office by angry voters.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-08T09:56:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "a4e2cfa00b68",
    "title": "Shuler: A couple years ago, I was sitting in a room on Capitol Hill next to the big-tech billionaire crew. Those tech guys talked about their vision for the future, all the possibilities they saw. Guess what one word did not come out of their mouths: workers.",
@@ -957,36 +1002,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-07T14:59:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "304b66c9b5f5",
-   "title": "Trump 2020: ⁠“If we stop testing right now, we'd have very few [COVID] cases, if any.” Trump 2026: If we don't count them, we will have very few Americans held hostage, if any.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3mnpeowx6lc2q",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-07T14:25:18.693+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b735ac96b249",
-   "title": "‘I’ve Had Enough!’ Trump Storms Out of Meet the Press Interview in Wild Fashion — Explodes On NBC’s Kristen Welker After She Hits Him With Fact Checks",
-   "link": "https://www.mediaite.com/media/news/ive-had-enough-trump-storms-out-of-meet-the-press-interview-in-wild-fashion-explodes-on-nbcs-kristen-welker-after-she-hits-him-with-fact-checks/",
-   "summary": "An irate Trump pulled the plug on his Meet the Press interview Sunday — lashing out at Welker and calling NBC \"a one-sided crooked network.\" The post ‘I’ve Had Enough!’ Trump Storms Out of Meet the Press Interview in Wild Fashion — Explodes On NBC’s Kristen Welker After She Hits Him With Fact Checks first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T14:19:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9d3522608185",
-   "title": "The MAHA moms who helped elect Trump are out of patience",
-   "link": "https://www.politico.com/news/2026/06/07/the-maha-moms-who-helped-elect-trump-are-out-of-patience-00952367",
-   "summary": "As Republicans fight to hold Congress, they shouldn’t count on the women who helped elect Trump in 2024, MAHA activists say.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-07T14:00:00+00:00",
    "iran_topic": false
   }
  ]
