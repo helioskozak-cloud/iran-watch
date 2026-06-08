@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-07T23:47:59.787658+00:00",
+ "generated": "2026-06-08T03:43:55.351912+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 95.42,
-   "change": 2.33,
-   "change_pct": 2.5,
+   "price": 96.29,
+   "change": 3.2,
+   "change_pct": 3.44,
    "spark": [
     96.0,
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    95.41999816894531
+    96.29000091552734
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 92.68,
-   "change": 2.14,
-   "change_pct": 2.36,
+   "price": 93.42,
+   "change": 2.88,
+   "change_pct": 3.18,
    "spark": [
     93.76000213623047,
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    92.68000030517578
+    93.41999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4360.4,
-   "change": 23.3,
-   "change_pct": 0.54,
+   "price": 4329.4,
+   "change": -7.7,
+   "change_pct": -0.18,
    "spark": [
     4489.10009765625,
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4360.39990234375
+    4329.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.11,
-   "change": 0.04,
-   "change_pct": 0.04,
+   "price": 100.06,
+   "change": -0.01,
+   "change_pct": -0.01,
    "spark": [
     99.22000122070312,
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.11199951171875
+    100.05500030517578
    ]
   },
   "^GSPC": {
@@ -104,13 +104,13 @@
    "symbol": "NG=F",
    "price": 3.18,
    "change": -0.05,
-   "change_pct": -1.42,
+   "change_pct": -1.64,
    "spark": [
     3.1670000553131104,
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.183000087738037
+    3.1760001182556152
    ]
   }
  },
@@ -221,6 +221,13 @@
  ],
  "incidents": [
   {
+   "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-08T00:00:00+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
    "link": "https://presstv.ir/Detail/2026/06/07/770002/Vessels-pay--1-5%E2%80%932-million-under-new-Strait-of-Hormuz-services-plan",
    "source": "Press TV",
@@ -317,13 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-07T02:30:18+00:00",
    "severity": "info"
-  },
-  {
-   "title": "The hunt for the red lionfish — a beautiful and dangerous invader",
-   "link": "https://www.timesofisrael.com/the-hunt-for-the-red-lionfish-a-beautiful-and-dangerous-invader/",
-   "source": "Times of Israel",
-   "published": "2026-06-07T00:12:25+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -379,6 +379,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "a4e2cfa00b68",
+   "title": "Shuler: A couple years ago, I was sitting in a room on Capitol Hill next to the big-tech billionaire crew. Those tech guys talked about their vision for the future, all the possibilities they saw. Guess what one word did not come out of their mouths: workers.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnqksznhbs25",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-08T01:47:37.932+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b4785e78ec3f",
+   "title": "NEW: A vote update in the LA mayor's race puts Nithya Raman ahead of Spencer Pratt by 3,000 votes. Karen Bass has already advanced to the general election. There's not enough vote yet to declare which other candidate will advance. This is a normal process. There is nothing wrong with this process.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnqi6hs3f22t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-08T01:00:20.635+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "27a482477b0e",
+   "title": "Nithya Raman Leapfrogs Spencer Pratt, Projected to Advance in LA Mayor’s Race",
+   "link": "https://www.mediaite.com/media/news/nithya-raman-leapfrogs-spencer-pratt-projected-to-advance-in-la-mayors-race/",
+   "summary": "Spencer Pratt’s (R) seemingly cozy lead on Los Angeles city council member Nithya Raman (D) in the city’s mayoral race has been erased. The post Nithya Raman Leapfrogs Spencer Pratt, Projected to Advance in LA Mayor’s Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T01:00:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cbb8556d36b8",
+   "title": "Trump had a very hard time walking out on that interview. His ankles are probably swollen to the size of tree trunks.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mnqfgi4x2k2t",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-08T00:11:08.202+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b504b9586eda",
+   "title": "MAGA Mark Levin Questions Why Trump Is ‘Turning’ on Israel",
+   "link": "https://www.mediaite.com/media/news/maga-mark-levin-questions-why-trump-is-turning-on-israel/",
+   "summary": "Mark Levin questioned why Donald Trump was \"turning\" on Israel by supposedly telling Bibi Netanyahu by phone on Sunday not to retaliate against Iran. The post MAGA Mark Levin Questions Why Trump Is ‘Turning’ on Israel first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T00:04:47+00:00",
+   "iran_topic": true
+  },
   {
    "id": "9aa996916dc4",
    "title": "Trump Declares Israel Has ‘No Choice’ But to Accept Any Iran Deal He Makes: ‘I Call the Shots’",
@@ -870,16 +920,6 @@
    "iran_topic": false
   },
   {
-   "id": "0fe55d63f82f",
-   "title": "Jacqui Heinrich complains after Jeffries calls her out for ignoring Republican bigotry and fixating on Democrats: \"I think it's appropriate to ask Republicans about Republicans, and Democrats about Democrats.\" (LOL -- as though Fox News never goads Republicans into criticizing Democrats ... )",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpholznlg26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:18:48.457+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "49302af6d914",
    "title": "NEW: Scott Pelley to NYT on Bari Weiss: \"I don't want to be hyperbolic. My impression at the time was that she was putting a thumb on the scale on behalf of the administration. Constantly looking out for the views of the president. We're reporting those views … but it was never enough.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnphiim2cs2n",
@@ -937,46 +977,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-07T14:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f24027e06152",
-   "title": "‘F*ck You, First of All!’ Lauren Boebert Scolds Fox News Reporter for Asking About Allegations She Had an Affair With Thomas Massie",
-   "link": "https://www.mediaite.com/media/news/fck-you-first-of-all-lauren-boebert-scolds-fox-news-reporter-for-asking-about-allegations-she-had-an-affair-with-thomas-massie/",
-   "summary": "Rep. Lauren Boebert (R-CO) went off on a reporter for Fox News Digital — who asked about an allegation that she had an affair with Rep. Thomas Massie (R-KY). The post ‘F*ck You, First of All!’ Lauren Boebert Scolds Fox News Reporter for Asking About Allegations She Had an Affair With Thomas Massie first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T13:28:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "06253fa83468",
-   "title": "Scott Pelley Goes Scorched Earth on Bari Weiss in New Interview — Accuses Her of ‘Putting a Thumb On the Scale’ for Trump and Calls for Her Ouster",
-   "link": "https://www.mediaite.com/media/news/scott-pelley-goes-scorched-earth-on-bari-weiss-in-new-interview-accuses-her-of-putting-a-thumb-on-the-scale-for-trump-and-calls-for-her-ouster/",
-   "summary": "The fired '60 Minutes' correspondent accused Weiss of \"incompetence\" and \"putting a thumb on the scale\" for Trump in a blockbuster sitdown with the NY Times. The post Scott Pelley Goes Scorched Earth on Bari Weiss in New Interview — Accuses Her of ‘Putting a Thumb On the Scale’ for Trump and Calls for Her Ouster first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T12:00:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1b9c94ec39d4",
-   "title": "BREAKING: In an interview with NYT, fired '60 Minutes' correspondent Scott Pelley says, \"right now, CBS News, in my view, is on fire.\" \"There's a subtle political bias that I've never seen at '60 Minutes' before or at CBS News before. We can save this. It's possible to land this plane.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mno3dxzql22e",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T02:05:27.317+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "822ff7a76402",
-   "title": "There's now 78% of the vote in the race for Los Angeles mayor. Nithya Raman is now less than 1% away from overtaking Spencer Pratt. Karen Bass has already been projected to advance to the general election.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnnyb7xnds2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T01:10:13.746+00:00",
    "iran_topic": false
   }
  ]
