@@ -1,98 +1,98 @@
 {
- "generated": "2026-06-08T19:52:48.125973+00:00",
+ "generated": "2026-06-08T21:47:38.596641+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.43,
-   "change": 1.34,
-   "change_pct": 1.44,
+   "price": 94.19,
+   "change": 1.1,
+   "change_pct": 1.18,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.43000030517578
+    94.19000244140625
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.48,
-   "change": 0.94,
-   "change_pct": 1.04,
+   "price": 91.28,
+   "change": 0.74,
+   "change_pct": 0.82,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    91.4800033569336
+    91.27999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4348.9,
-   "change": 11.8,
-   "change_pct": 0.27,
+   "price": 4353.8,
+   "change": 16.7,
+   "change_pct": 0.39,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4348.89990234375
+    4353.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.01,
-   "change": -0.06,
-   "change_pct": -0.06,
+   "price": 99.98,
+   "change": -0.09,
+   "change_pct": -0.09,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.01100158691406
+    99.97799682617188
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7401.81,
-   "change": 18.07,
-   "change_pct": 0.24,
+   "price": 7405.73,
+   "change": 21.99,
+   "change_pct": 0.3,
    "spark": [
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
-    7401.81005859375
+    7405.72998046875
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 135.39,
-   "change": 2.37,
-   "change_pct": 1.78,
+   "price": 135.15,
+   "change": 2.13,
+   "change_pct": 1.6,
    "spark": [
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
-    135.38999938964844
+    135.14999389648438
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.86,
-   "change": -2.65,
-   "change_pct": -12.32,
+   "price": 18.92,
+   "change": -2.59,
+   "change_pct": -12.04,
    "spark": [
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    18.860000610351562
+    18.920000076293945
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.14,
    "change": -0.09,
-   "change_pct": -2.85,
+   "change_pct": -2.69,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.13700008392334
+    3.1419999599456787
    ]
   }
  },
@@ -219,18 +219,39 @@
    "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
    "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
    "source": "Press TV",
-   "published": "2026-06-08T19:51:46.141631+00:00",
+   "published": "2026-06-08T21:46:39.271765+00:00",
    "severity": "critical"
   },
   {
    "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
    "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
    "source": "Press TV",
-   "published": "2026-06-08T19:51:46.141412+00:00",
+   "published": "2026-06-08T21:46:39.271575+00:00",
    "severity": "info"
   },
   {
-   "title": "KC-135 Tanker Sporting New Large Antenna Points To Major Communications Upgrade",
+   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+   "source": "Press TV",
+   "published": "2026-06-08T21:46:39.270600+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Carrier USS Theodore Roosevelt to Lead 2026 Rim of the Pacific Exercise",
+   "link": "https://news.usni.org/2026/06/08/carrier-uss-theodore-roosevelt-to-lead-2026-rim-of-the-pacific-exercise",
+   "source": "USNI News",
+   "published": "2026-06-08T20:31:00+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports",
+   "link": "https://www.timesofisrael.com/pm-called-off-major-iran-strike-after-trump-warned-israel-would-be-on-its-own-reports/",
+   "source": "Times of Israel",
+   "published": "2026-06-08T20:30:31+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "KC-135 Tanker Spotted With New Satellite Communications Antenna",
    "link": "https://www.twz.com/air/kc-135-tanker-sporting-new-large-antenna-points-to-major-communications-upgrade",
    "source": "The Drive",
    "published": "2026-06-08T19:40:53+00:00",
@@ -298,27 +319,6 @@
    "source": "Breaking Defense",
    "published": "2026-06-08T13:36:15+00:00",
    "severity": "info"
-  },
-  {
-   "title": "India says fire reported on oil tanker off Oman coast, Indian crew safe reut.rs/3Q7JSzu",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnrqoj6yfn2r",
-   "source": "@reuters",
-   "published": "2026-06-08T13:05:08+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u070yc/eu_sanctions_iranians_over_restricting_naval/",
-   "source": "r/worldnews",
-   "published": "2026-06-08T12:52:51+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "The Israeli military said it attacked Iran’s sprawling Mahshahr petrochemical complex on Monday, its first strike there since a cease-fire was agreed between the countries on April 7. Here's what to know.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mnrogulfcj2s",
-   "source": "@nytimes",
-   "published": "2026-06-08T12:25:04.633238+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -328,6 +328,13 @@
    "status": "ACTIVE",
    "incident_count": 3,
    "recent": [
+    {
+     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+     "source": "Press TV",
+     "published": "2026-06-08T21:46:39.270600+00:00",
+     "severity": "info"
+    },
     {
      "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
      "link": "https://www.jpost.com/middle-east/article-898749",
@@ -341,13 +348,6 @@
      "source": "@reuters",
      "published": "2026-06-08T14:30:38+00:00",
      "severity": "info"
-    },
-    {
-     "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u070yc/eu_sanctions_iranians_over_restricting_naval/",
-     "source": "r/worldnews",
-     "published": "2026-06-08T12:52:51+00:00",
-     "severity": "info"
     }
    ]
   },
@@ -355,27 +355,27 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 4,
+   "incident_count": 5,
    "recent": [
     {
      "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
      "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
      "source": "Press TV",
-     "published": "2026-06-08T19:51:46.141631+00:00",
+     "published": "2026-06-08T21:46:39.271765+00:00",
      "severity": "critical"
+    },
+    {
+     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+     "source": "Press TV",
+     "published": "2026-06-08T21:46:39.270600+00:00",
+     "severity": "info"
     },
     {
      "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
      "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u0ddfn/israel_hit_beirut_iran_fired_back_yemen_closed/",
      "source": "r/MiddleEastNews",
      "published": "2026-06-08T16:45:41+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Why the Houthis threatening Red Sea shipping could be worse for the oil market this time",
-     "link": "https://www.timesofisrael.com/why-the-houthis-threatening-red-sea-shipping-could-be-worse-for-the-oil-market-this-time/",
-     "source": "Times of Israel",
-     "published": "2026-06-08T16:14:37+00:00",
      "severity": "info"
     }
    ]
@@ -397,13 +397,173 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T19:51:46.141412+00:00",
+     "published": "2026-06-08T21:46:39.271575+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "226d56f9b1a7",
+   "title": "watch this video. look what a mess he looks like. when he’s not in the maga/ballroom/truth social bubble he just falls apart.",
+   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3mnsnhcag3k2u",
+   "summary": "",
+   "source": "@joshtpm",
+   "category": "trump_bsky",
+   "published": "2026-06-08T21:40:04.991+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91115c1a0a20",
+   "title": "Ah yes. The fact that there’s not a shred of evidence just shows how “diabolical” the conspirators are.",
+   "link": "https://bsky.app/profile/normative.bsky.social/post/3mnsmvgg5622o",
+   "summary": "",
+   "source": "@normative",
+   "category": "trump_bsky",
+   "published": "2026-06-08T21:30:05.392+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6204cc686fd",
+   "title": "CNN Anchor Plays Supercut of 10 Years of Trump’s ‘Rigged’ Election Rhetoric — Amid MAGA’s Insistence Spencer Pratt is Getting Robbed",
+   "link": "https://www.mediaite.com/media/news/cnn-anchor-plays-supercut-of-10-years-of-trumps-rigged-election-rhetoric-amid-magas-insistence-spencer-pratt-is-getting-robbed/",
+   "summary": "Kasie Hunt focused in on the danger of Donald Trump's continued rhetoric about \"rigged\" elections, in the wake of his new claims about California. The post CNN Anchor Plays Supercut of 10 Years of Trump’s ‘Rigged’ Election Rhetoric — Amid MAGA’s Insistence Spencer Pratt is Getting Robbed first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T21:29:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91a00a0a6dfa",
+   "title": "There are many in the fallen world of American politics who are more mendacious, more corrupt, more self-aggrandizing. But no one -- and I mean no one -- is as empty, soulless and craven as this man.",
+   "link": "https://bsky.app/profile/audacityofdespair.bsky.social/post/3mnsljmlkkk2t",
+   "summary": "",
+   "source": "@audacityofdespair",
+   "category": "trump_bsky",
+   "published": "2026-06-08T21:05:35.467+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "575fb0da4ee9",
+   "title": "\"everyone is twelve\" isn't even a theory anymore",
+   "link": "https://bsky.app/profile/randballsstu.bsky.social/post/3mnslhnl2ac23",
+   "summary": "",
+   "source": "@randballsstu",
+   "category": "trump_bsky",
+   "published": "2026-06-08T21:04:29.389+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "90be656999ab",
+   "title": "‘Stinks to High Heaven!’ Speaker Johnson Claims ‘Rigged’ Election Accusations Are ‘Impossible to Prove’",
+   "link": "https://www.mediaite.com/media/news/stinks-to-high-heaven-speaker-johnson-claims-rigged-election-accusations-are-impossible-to-prove/",
+   "summary": "CNN&#8217;s chief congressional correspondent, Manu Raju, spoke to House Speaker Mike Johnson (R-LA) on Monday and asked him about President Donald Trump’s ongoing claims that the Los Angeles mayoral race is “rigged” against Republicans. “Speaking of fraud, the president keeps saying that there&#8217;s election fraud in the California mayor&#8217;s race. What evidence is there to [&#8230;] The post ‘Stinks to High Heaven!’ Speaker Johnson Claims ‘Rigged’ Election Accusations Are ‘Impossible to Prove’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T20:41:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "49a054bd24c7",
+   "title": "the best evidence for voter fraud is ... that there is no evidence of fraud!",
+   "link": "https://bsky.app/profile/leahlitman.bsky.social/post/3mnsk45yes226",
+   "summary": "",
+   "source": "@leahlitman",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:40:10.209+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0677325efef4",
+   "title": "Live in performance at Greg Abbott's \"Tiny Desk Concert,\" the screwworm tribute band \"All Hat No Cattle.\"",
+   "link": "https://bsky.app/profile/markaldrich.bsky.social/post/3mnsjigc4ds2g",
+   "summary": "",
+   "source": "@markaldrich",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:29:07.827+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cf47fb9773ec",
+   "title": "AI Companies Blindsided By Trump Planning For Government to Acquire Equity in Their Firms: Report",
+   "link": "https://www.mediaite.com/media/news/ai-companies-blindsided-by-trump-planning-for-government-to-acquire-equity-in-their-firms-report/",
+   "summary": "The leaders of major A.I. companies were blindsided by Donald Trump's plan to discuss acquiring equity in their companies, according to NOTUS. The post AI Companies Blindsided By Trump Planning For Government to Acquire Equity in Their Firms: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T20:27:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2a33b44bfe7f",
+   "title": "Q: The USDA has seen a large reduction in force during the Trump administration. Has that impacted the work you're doing on screwworm? ROLLINS: There has been zero impact to this mission area based on that reduction in force. In fact, I think the work accelerated significantly when we came on board",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsj7oyejs2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:24:14.954+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5196a607579f",
+   "title": "No. There’s limits. We’re not doing Jan 6th for Spencer Pratt. Stop. Get help.",
+   "link": "https://bsky.app/profile/gravitysra1nbow.bsky.social/post/3mnsj5hhhg22p",
+   "summary": "",
+   "source": "@gravitysra1nbow",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:22:59.952+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc8bf05870ff",
+   "title": "Everyone knows instinctively that Mike Johnson is a corrupt puppet of the Trump administration too, so can we just get rid of him on vague vibes?",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mnsiqscx5s2u",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:15:55.132+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d845ae24243",
+   "title": "Mike Johnson just literally admitted this whole thing was vibes lol",
+   "link": "https://bsky.app/profile/coachfinstock.bsky.social/post/3mnsib2iafk22",
+   "summary": "",
+   "source": "@coachfinstock",
+   "category": "trump_bsky",
+   "published": "2026-06-08T20:07:06.822+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ec4c3ad87b05",
+   "title": "UFC Boss Dana White Makes Wildly Optimistic Prediction About White House Fight Card: ‘We’re Expecting Super Bowl-Type Numbers’",
+   "link": "https://www.mediaite.com/opinion/ufc-boss-dana-white-makes-wildly-optimistic-prediction-about-white-house-fight-card-were-expecting-super-bowl-type-numbers/",
+   "summary": "UFC President Dana White predicted the viewership for his White House event will rival the Super Bowl's. The claim doesn't appear to have any basis in reality. The post UFC Boss Dana White Makes Wildly Optimistic Prediction About White House Fight Card: ‘We’re Expecting Super Bowl-Type Numbers’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T20:06:43+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8c973ca93b7d",
+   "title": "Johnson: Gerrymandering states to remove Black majority districts is just representation Also Johnson: The lack of evidence of fraud in an election is sufficient evidence of a conspiracy in blue states.",
+   "link": "https://bsky.app/profile/darinself.com/post/3mnshsbelnk2q",
+   "summary": "",
+   "source": "@darinself",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:58:50.726+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "adb5411942c4",
+   "title": "RAJU: But what evidence is there to prove the California election is rigged? MIKE JOHNSON: Look, some of these efforts are so diabolical and so far upstream it's impossible to prove. But I think everybody knows instinctively that something is wrong here.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnshnuei322h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T19:56:22.798+00:00",
+   "iran_topic": false
+  },
   {
    "id": "1475bd22f953",
    "title": "NEWSNATION: You don't the president deserves any blame for Americans not trusting elections? He talks all the time about elections being rigged RON JOHNSON: Hillary Clinton was the first election denier. President Trump was tormented on a Russian collusion hoax. I can understand how he's frustrated",
@@ -685,46 +845,6 @@
    "iran_topic": false
   },
   {
-   "id": "372f2fb006ba",
-   "title": "‘3rd World Nation’: Trump Warns Dems Will Come for Steve Hilton Next in New ‘Rigged Elections’ Rant",
-   "link": "https://www.mediaite.com/politics/3rd-world-nation-trump-warns-dems-will-come-for-steve-hilton-next-in-new-rigged-elections-rant/",
-   "summary": "President Trump warned Democrats are now pushing to screw Republican gubernatorial candidate Steve Hilton next after Spencer Pratt fell behind in LA The post ‘3rd World Nation’: Trump Warns Dems Will Come for Steve Hilton Next in New ‘Rigged Elections’ Rant first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:06:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "baadec26bb78",
-   "title": "Ex-Biden Honcho Ron Klain Advising Ro Khanna as He Mulls 2028 White House Bid: Report",
-   "link": "https://www.mediaite.com/media/news/ex-biden-honcho-ron-klain-advising-ro-khanna-as-he-mulls-2028-white-house-bid-report/",
-   "summary": "Ron Klain, the former chief of staff to President Joe Biden, has reportedly been advising Ro Khanna, who is weighing a 2028 presidential run. The post Ex-Biden Honcho Ron Klain Advising Ro Khanna as He Mulls 2028 White House Bid: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:03:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "34de896a1d01",
-   "title": "Democratic Congressman Says He Would Support Replacing Graham Platner: ‘I’d Be All for It’",
-   "link": "https://www.mediaite.com/media/news/democratic-congressman-says-he-would-support-replacing-graham-platner-id-be-all-for-it/",
-   "summary": "Rep. Mike Quigley (D-IL) said on Monday that he would support replacing Senate candidate Graham Platner on the ballot in Maine, claiming that the Democratic Party needed to be \"consistent.\" The post Democratic Congressman Says He Would Support Replacing Graham Platner: ‘I’d Be All for It’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:59:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ac2e15d7c8f4",
-   "title": "WATCH: Harrowing Video Shows People Scrambling to Escape Crumbling Buildings After During Massive Philippines Earthquake",
-   "link": "https://www.mediaite.com/media/news/watch-harrowing-video-shows-people-scrambling-to-escape-crumbling-buildings-after-during-massive-philippines-earthquake/",
-   "summary": "Harrowing video from the Philippines showed the earth shaking and people scrambling as a major earthquake rocked the southern part of the country. The post WATCH: Harrowing Video Shows People Scrambling to Escape Crumbling Buildings After During Massive Philippines Earthquake first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T16:46:57+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2035c46b19ba",
    "title": "@nberlat.bsky.social: \"Since his appointment as acting attorney general two months ago, Blanche has doubled down on his efforts to show Trump that he is the loyalest of all possible loyalists, a MAGA hat of a man with neither spine nor heart nor soul of his own.\" 🧾 open.substack.com/pub/aaronrup...",
    "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3mns4w4anv22i",
@@ -772,116 +892,6 @@
    "source": "@electproject",
    "category": "trump_bsky",
    "published": "2026-06-08T15:45:00.626+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "886a8f558ff8",
-   "title": "\"One thing is clear; Bondi’s failures were failures that Trump demanded. If a minimally principled AG is appointed during his term, it will be despite his furious efforts. That’s because one of the absolute core goals of his presidency is the perversion of justice and destruction of the rule of law\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrybdedfk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T15:20:56.262+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20f818927473",
-   "title": "This is a new one, an extension of classic “ballots in a dumpster” rumors, suggesting that fraudsters are dumpster diving for ballots and then using them to vote. It absurd and ignores any number of structural reasons that wouldn’t work as well as a complete lack of evidence of that happening.",
-   "link": "https://bsky.app/profile/katestarbird.bsky.social/post/3mnrwzqneb22f",
-   "summary": "",
-   "source": "@katestarbird",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:58:48.012+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "32133416a5ef",
-   "title": "Sen. Roger Marshall on the failure of crystal pepsi : \"This is another thing we can thank Joe Biden for\" Sen. Roger Marshall on the cancellation of schmigadoon season 3 : \"This is another thing we can thank Joe Biden for\"",
-   "link": "https://bsky.app/profile/hammancheez.bsky.social/post/3mnrwuv56xc2k",
-   "summary": "",
-   "source": "@hammancheez",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:56:04.954+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "686a41dc9f5d",
-   "title": "Ravid has established himself as Trump's most dedicated stenographer.",
-   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3mnrvlotjkc27",
-   "summary": "",
-   "source": "@robertscotthorton",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:33:02.613+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69f01e042417",
-   "title": "Barak Ravid on CNN: \"I think we saw what President Trump said earlier today that both sides have basically agreed to hold their fire\" (Ravid said this an hour ago and it's already been proven to be wrong)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrvi5tpqm24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:31:04.061+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ab1645bf0fbd",
-   "title": "The year is 2056. President Barron Trump's team is dealing with a new outbreak of disease outbreaks. On an interview with Fox News, White House Chief of Staff Boebert states: \"This is all the fault of Obama and Biden.\"",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnruznm6k22z",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:22:57.344+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "523936119923",
-   "title": "shameless",
-   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mnrur74l2c2i",
-   "summary": "",
-   "source": "@clearlyashley",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:18:13.718+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7aa35bc4645e",
-   "title": "Rep. Buddy Carter: \"Think about Minnianapolois\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrupzpcrf2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:17:34.418+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0257db9fd477",
-   "title": "Rep. Buddy Carter calls Trump's taxpayer-funded insurrectionist slush fund \"an incredible project\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnruplddlz2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:17:19.348+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dcd9152bb9b7",
-   "title": "Sen. Roger Marshall on screwworm: \"This is another thing we can thank Joe Biden for\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrujq2bpr24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T14:14:02.967+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "668108593598",
-   "title": "total abuser brain. you can see him get just incandescent with rage as the insults don’t land. how is this not working.",
-   "link": "https://bsky.app/profile/famousartthief.bsky.social/post/3mnrtpn4pks2w",
-   "summary": "",
-   "source": "@famousartthief",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:59:27.551+00:00",
    "iran_topic": false
   },
   {
@@ -992,16 +1002,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-07T19:00:47.561+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5759b75f13d2",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpsg2vork2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:30:53.228+00:00",
    "iran_topic": false
   }
  ]
