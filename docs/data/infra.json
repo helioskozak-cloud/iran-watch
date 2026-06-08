@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-08T21:47:38.596641+00:00",
+ "generated": "2026-06-08T23:10:38.180691+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.19,
-   "change": 1.1,
-   "change_pct": 1.18,
+   "price": 94.35,
+   "change": 1.26,
+   "change_pct": 1.35,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.19000244140625
+    94.3499984741211
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.28,
-   "change": 0.74,
-   "change_pct": 0.82,
+   "price": 91.4,
+   "change": 0.86,
+   "change_pct": 0.95,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    91.27999877929688
+    91.4000015258789
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4353.8,
-   "change": 16.7,
-   "change_pct": 0.39,
+   "price": 4350.7,
+   "change": 13.6,
+   "change_pct": 0.31,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4353.7998046875
+    4350.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.98,
-   "change": -0.09,
-   "change_pct": -0.09,
+   "price": 100.0,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    99.97799682617188
+    100.0
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.14,
    "change": -0.09,
-   "change_pct": -2.69,
+   "change_pct": -2.85,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.1419999599456787
+    3.13700008392334
    ]
   }
  },
@@ -216,25 +216,32 @@
  ],
  "incidents": [
   {
-   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-   "source": "Press TV",
-   "published": "2026-06-08T21:46:39.271765+00:00",
-   "severity": "critical"
-  },
-  {
    "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
    "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
    "source": "Press TV",
-   "published": "2026-06-08T21:46:39.271575+00:00",
+   "published": "2026-06-08T23:09:41.074966+00:00",
    "severity": "info"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-08T21:46:39.270600+00:00",
+   "published": "2026-06-08T23:09:41.073980+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
+   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
+   "source": "Press TV",
+   "published": "2026-06-08T23:09:41.072413+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
+   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
+   "source": "Press TV",
+   "published": "2026-06-08T21:46:39.271765+00:00",
+   "severity": "critical"
   },
   {
    "title": "Carrier USS Theodore Roosevelt to Lead 2026 Rim of the Pacific Exercise",
@@ -312,13 +319,6 @@
    "source": "@nytimes",
    "published": "2026-06-08T13:40:05.968223+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US approves $2B sale of Anduril counter-drone systems to Kuwait",
-   "link": "https://breakingdefense.com/2026/06/us-approves-2b-sale-of-anduril-counter-drone-systems-to-kuwait/",
-   "source": "Breaking Defense",
-   "published": "2026-06-08T13:36:15+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -332,7 +332,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-08T21:46:39.270600+00:00",
+     "published": "2026-06-08T23:09:41.073980+00:00",
      "severity": "info"
     },
     {
@@ -358,18 +358,18 @@
    "incident_count": 5,
    "recent": [
     {
+     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+     "source": "Press TV",
+     "published": "2026-06-08T23:09:41.073980+00:00",
+     "severity": "info"
+    },
+    {
      "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
      "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
      "source": "Press TV",
      "published": "2026-06-08T21:46:39.271765+00:00",
      "severity": "critical"
-    },
-    {
-     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-     "source": "Press TV",
-     "published": "2026-06-08T21:46:39.270600+00:00",
-     "severity": "info"
     },
     {
      "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
@@ -397,13 +397,53 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T21:46:39.271575+00:00",
+     "published": "2026-06-08T23:09:41.074966+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "0cbe0a98ee9d",
+   "title": "Trump’s Ex-Border Patrol Chief Greg Bovino Declares He Wants to Deport Nearly One-Third of the People in the U.S.",
+   "link": "https://www.mediaite.com/media/news/trumps-ex-border-patrol-chief-greg-bovino-declares-he-wants-to-deport-nearly-one-third-of-the-people-in-the-u-s/",
+   "summary": "Trump's former Border Patrol Commander Gregory Bovino says he wants to deport 106 million people. The post Trump’s Ex-Border Patrol Chief Greg Bovino Declares He Wants to Deport Nearly One-Third of the People in the U.S. first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T22:55:21+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "48ac0699f125",
+   "title": "We all know something is wrong here and it ain’t the elections",
+   "link": "https://bsky.app/profile/electproject.bsky.social/post/3mnsrdjpd222l",
+   "summary": "",
+   "source": "@electproject",
+   "category": "trump_bsky",
+   "published": "2026-06-08T22:49:33.569+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d3502c56ea4",
+   "title": "Full interview and more from MeidasTouch here: youtu.be/pMNCCrolerQ",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnsoxotmos2c",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-08T22:07:08.810+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c9fe7404a8e",
+   "title": "Turek: It is a scary place to be a farmer in Iowa right now. We lead the nation in farm foreclosures. Everywhere we go, we’re hearing farmers talk about betrayal. You go into these rural communities, the Trump signs and Trump flags are coming down.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnsoxotgtc2c",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-08T22:07:08.809+00:00",
+   "iran_topic": false
+  },
   {
    "id": "226d56f9b1a7",
    "title": "watch this video. look what a mess he looks like. when he’s not in the maga/ballroom/truth social bubble he just falls apart.",
@@ -835,16 +875,6 @@
    "iran_topic": false
   },
   {
-   "id": "8d2f4df62865",
-   "title": "CNN Data Guru Blows Up Trump’s Claim of Rigged LA Election: ‘Dumbest Conspiracy Theory I Have Ever Heard!’",
-   "link": "https://www.mediaite.com/media/tv/cnn-data-guru-blows-up-trumps-claim-of-rigged-la-election-dumbest-conspiracy-theory-i-have-ever-heard/",
-   "summary": "\"And so Karen Bass and the Democratic establishment knew that there's basically no chance a Republican could be the next mayor of Los Angeles.\" The post CNN Data Guru Blows Up Trump’s Claim of Rigged LA Election: ‘Dumbest Conspiracy Theory I Have Ever Heard!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:30:45+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2035c46b19ba",
    "title": "@nberlat.bsky.social: \"Since his appointment as acting attorney general two months ago, Blanche has doubled down on his efforts to show Trump that he is the loyalest of all possible loyalists, a MAGA hat of a man with neither spine nor heart nor soul of his own.\" 🧾 open.substack.com/pub/aaronrup...",
    "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3mns4w4anv22i",
@@ -882,16 +912,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-08T16:00:37.888+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d84d31cc6a5b",
-   "title": "When Trump Fucks Up Blame Biden",
-   "link": "https://bsky.app/profile/electproject.bsky.social/post/3mnrzmess5c2s",
-   "summary": "",
-   "source": "@electproject",
-   "category": "trump_bsky",
-   "published": "2026-06-08T15:45:00.626+00:00",
    "iran_topic": false
   },
   {
@@ -982,26 +1002,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-07T19:46:50.032+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "75dd2e1eeb49",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpu4xtncs2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T19:01:35.520+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0330285745e9",
-   "title": "Garcia: This island that is now apparently being developed by Jared and Ivanka. They’re just openly talking about buying islands, building an enormous compound. What they’ll do on these compounds, I don’t know. Epstein had his own island. I guess the Trumps want their own island too.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpu3ledhf2f",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T19:00:47.561+00:00",
    "iran_topic": false
   }
  ]
