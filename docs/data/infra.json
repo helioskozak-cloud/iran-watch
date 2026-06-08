@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-08T14:34:22.887898+00:00",
+ "generated": "2026-06-08T17:39:25.483821+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.39,
-   "change": 1.3,
-   "change_pct": 1.4,
+   "price": 94.14,
+   "change": 1.05,
+   "change_pct": 1.13,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.38999938964844
+    94.13999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.31,
-   "change": 0.77,
-   "change_pct": 0.85,
+   "price": 90.99,
+   "change": 0.45,
+   "change_pct": 0.5,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    91.30999755859375
+    90.98999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4345.3,
-   "change": 8.2,
-   "change_pct": 0.19,
+   "price": 4364.4,
+   "change": 27.3,
+   "change_pct": 0.63,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4345.2998046875
+    4364.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.0,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 99.96,
+   "change": -0.11,
+   "change_pct": -0.11,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    99.99700164794922
+    99.96299743652344
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7440.85,
-   "change": 57.11,
-   "change_pct": 0.77,
+   "price": 7423.63,
+   "change": 39.89,
+   "change_pct": 0.54,
    "spark": [
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
-    7440.85009765625
+    7423.6298828125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 135.46,
-   "change": 2.44,
-   "change_pct": 1.83,
+   "price": 135.07,
+   "change": 2.04,
+   "change_pct": 1.54,
    "spark": [
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
-    135.46009826660156
+    135.06500244140625
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.86,
-   "change": -2.65,
-   "change_pct": -12.32,
+   "price": 18.82,
+   "change": -2.69,
+   "change_pct": -12.51,
    "spark": [
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    18.860000610351562
+    18.81999969482422
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.12,
-   "change": -0.11,
-   "change_pct": -3.28,
+   "price": 3.13,
+   "change": -0.1,
+   "change_pct": -3.13,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.122999906539917
+    3.128000020980835
    ]
   }
  },
@@ -216,17 +216,38 @@
  ],
  "incidents": [
   {
+   "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
+   "link": "https://www.jpost.com/middle-east/article-898749",
+   "source": "Jerusalem Post",
+   "published": "2026-06-08T18:10:24+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
    "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
    "source": "Press TV",
-   "published": "2026-06-08T14:33:20.135798+00:00",
+   "published": "2026-06-08T17:38:17.093164+00:00",
    "severity": "critical"
   },
   {
    "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
    "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
    "source": "Press TV",
-   "published": "2026-06-08T14:33:20.135590+00:00",
+   "published": "2026-06-08T17:38:17.092956+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
+   "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u0ddfn/israel_hit_beirut_iran_fired_back_yemen_closed/",
+   "source": "r/MiddleEastNews",
+   "published": "2026-06-08T16:45:41+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Why the Houthis threatening Red Sea shipping could be worse for the oil market this time",
+   "link": "https://www.timesofisrael.com/why-the-houthis-threatening-red-sea-shipping-could-be-worse-for-the-oil-market-this-time/",
+   "source": "Times of Israel",
+   "published": "2026-06-08T16:14:37+00:00",
    "severity": "info"
   },
   {
@@ -234,6 +255,20 @@
    "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
    "source": "@reuters",
    "published": "2026-06-08T14:30:38+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
+   "link": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-08T14:20:05+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "US special forces seized an oil tanker that our joint @bellingcat.com @thetimes.com project linked to the Kinahans. In March we covered how we found a bill of sale listing former UFC fighter Mounir Lazzez, a friend of Daniel Kinahan, as the director of a company that purchased th",
+   "link": "https://bsky.app/profile/oldpete45.bsky.social/post/3mnrtoy2xyk2t",
+   "source": "@oldpete45",
+   "published": "2026-06-08T13:59:05.474+00:00",
    "severity": "info"
   },
   {
@@ -284,41 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-08T12:02:05+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Explainer-Why are the Houthis threatening to attack Red Sea shipping and what does it mean for oil markets?",
-   "link": "https://www.al-monitor.com/originals/2026/06/explainer-why-are-houthis-threatening-attack-red-sea-shipping-and-what-does-it",
-   "source": "Al-Monitor",
-   "published": "2026-06-08T12:02:05+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "EU sanctions two Iranians, IRGC unit for participating in Hormuz blockade",
-   "link": "https://www.timesofisrael.com/eu-sanctions-two-iranians-irgc-unit-for-participating-in-hormuz-blockade/",
-   "source": "Times of Israel",
-   "published": "2026-06-08T11:59:16+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
-   "link": "https://www.jpost.com/middle-east/article-898676",
-   "source": "Jerusalem Post",
-   "published": "2026-06-08T09:20:45+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-08T08:38:42+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u01h25/yemens_iranbacked_houthis_vow_to_block_israeli/",
-   "source": "r/worldnews",
-   "published": "2026-06-08T08:01:59+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -328,6 +328,13 @@
    "status": "ACTIVE",
    "incident_count": 3,
    "recent": [
+    {
+     "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
+     "link": "https://www.jpost.com/middle-east/article-898749",
+     "source": "Jerusalem Post",
+     "published": "2026-06-08T18:10:24+00:00",
+     "severity": "info"
+    },
     {
      "title": "EU sanctions Iranians over restricting naval traffic in Hormuz reut.rs/4obLPHO",
      "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
@@ -341,13 +348,6 @@
      "source": "r/worldnews",
      "published": "2026-06-08T12:52:51+00:00",
      "severity": "info"
-    },
-    {
-     "title": "EU sanctions two Iranians, IRGC unit for participating in Hormuz blockade",
-     "link": "https://www.timesofisrael.com/eu-sanctions-two-iranians-irgc-unit-for-participating-in-hormuz-blockade/",
-     "source": "Times of Israel",
-     "published": "2026-06-08T11:59:16+00:00",
-     "severity": "medium"
     }
    ]
   },
@@ -355,28 +355,28 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 7,
+   "incident_count": 5,
    "recent": [
     {
      "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
      "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
      "source": "Press TV",
-     "published": "2026-06-08T14:33:20.135798+00:00",
+     "published": "2026-06-08T17:38:17.093164+00:00",
      "severity": "critical"
     },
     {
-     "title": "The Iran-backed Houthi militia in Yemen said on Monday that it would stop Israeli ships from operating in the Red Sea and had fired missiles at Israel, threatening to widen the Iran war and impede navigation through a crucial global trade route.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mnrsmzfdes26",
-     "source": "@nytimes",
-     "published": "2026-06-08T13:40:05.968223+00:00",
+     "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
+     "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u0ddfn/israel_hit_beirut_iran_fired_back_yemen_closed/",
+     "source": "r/MiddleEastNews",
+     "published": "2026-06-08T16:45:41+00:00",
      "severity": "info"
     },
     {
-     "title": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea",
-     "link": "https://www.al-monitor.com/originals/2026/06/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea",
-     "source": "Al-Monitor",
-     "published": "2026-06-08T12:02:05+00:00",
-     "severity": "high"
+     "title": "Why the Houthis threatening Red Sea shipping could be worse for the oil market this time",
+     "link": "https://www.timesofisrael.com/why-the-houthis-threatening-red-sea-shipping-could-be-worse-for-the-oil-market-this-time/",
+     "source": "Times of Israel",
+     "published": "2026-06-08T16:14:37+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -397,13 +397,273 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T14:33:20.135590+00:00",
+     "published": "2026-06-08T17:38:17.092956+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "891fbfab9c84",
+   "title": "Stephen A. Smith Torches ‘Ridiculous’ Trump For Creating Chaos By Attending Knicks Game",
+   "link": "https://www.mediaite.com/media/news/stephen-a-smith-torches-ridiculous-trump-for-creating-chaos-by-attending-knicks-game/",
+   "summary": "ESPN's Stephen A. Smith slammed Trump for being \"selfish\" and \"narcissistic\" by hitting the Knicks game and causing a ton of traffic in NYC The post Stephen A. Smith Torches ‘Ridiculous’ Trump For Creating Chaos By Attending Knicks Game first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:37:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ba4aa7c26fe8",
+   "title": "‘A Mockery of the System’: Sports World Stunned by Reinstatement of Texas Tech QB Who Was Suspended for Betting on Games",
+   "link": "https://www.mediaite.com/media/sports/a-mockery-of-the-system-sports-world-stunned-by-reinstatement-of-texas-tech-qb-who-was-suspended-for-betting-on-games/",
+   "summary": "The sports world was rocked by the Monday news that Texas Tech quarterback Brendan Sorsby would play in the upcoming season despite his gambling scandal. The post ‘A Mockery of the System’: Sports World Stunned by Reinstatement of Texas Tech QB Who Was Suspended for Betting on Games first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:35:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d2f4df62865",
+   "title": "CNN Data Guru Blows Up Trump’s Claim of Rigged LA Election: ‘Dumbest Conspiracy Theory I Have Ever Heard!’",
+   "link": "https://www.mediaite.com/media/tv/cnn-data-guru-blows-up-trumps-claim-of-rigged-la-election-dumbest-conspiracy-theory-i-have-ever-heard/",
+   "summary": "\"And so Karen Bass and the Democratic establishment knew that there's basically no chance a Republican could be the next mayor of Los Angeles.\" The post CNN Data Guru Blows Up Trump’s Claim of Rigged LA Election: ‘Dumbest Conspiracy Theory I Have Ever Heard!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:30:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "372f2fb006ba",
+   "title": "‘3rd World Nation’: Trump Warns Dems Will Come for Steve Hilton Next in New ‘Rigged Elections’ Rant",
+   "link": "https://www.mediaite.com/politics/3rd-world-nation-trump-warns-dems-will-come-for-steve-hilton-next-in-new-rigged-elections-rant/",
+   "summary": "President Trump warned Democrats are now pushing to screw Republican gubernatorial candidate Steve Hilton next after Spencer Pratt fell behind in LA The post ‘3rd World Nation’: Trump Warns Dems Will Come for Steve Hilton Next in New ‘Rigged Elections’ Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:06:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "baadec26bb78",
+   "title": "Ex-Biden Honcho Ron Klain Advising Ro Khanna as He Mulls 2028 White House Bid: Report",
+   "link": "https://www.mediaite.com/media/news/ex-biden-honcho-ron-klain-advising-ro-khanna-as-he-mulls-2028-white-house-bid-report/",
+   "summary": "Ron Klain, the former chief of staff to President Joe Biden, has reportedly been advising Ro Khanna, who is weighing a 2028 presidential run. The post Ex-Biden Honcho Ron Klain Advising Ro Khanna as He Mulls 2028 White House Bid: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T17:03:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "34de896a1d01",
+   "title": "Democratic Congressman Says He Would Support Replacing Graham Platner: ‘I’d Be All for It’",
+   "link": "https://www.mediaite.com/media/news/democratic-congressman-says-he-would-support-replacing-graham-platner-id-be-all-for-it/",
+   "summary": "Rep. Mike Quigley (D-IL) said on Monday that he would support replacing Senate candidate Graham Platner on the ballot in Maine, claiming that the Democratic Party needed to be \"consistent.\" The post Democratic Congressman Says He Would Support Replacing Graham Platner: ‘I’d Be All for It’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:59:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ac2e15d7c8f4",
+   "title": "WATCH: Harrowing Video Shows People Scrambling to Escape Crumbling Buildings After During Massive Philippines Earthquake",
+   "link": "https://www.mediaite.com/media/news/watch-harrowing-video-shows-people-scrambling-to-escape-crumbling-buildings-after-during-massive-philippines-earthquake/",
+   "summary": "Harrowing video from the Philippines showed the earth shaking and people scrambling as a major earthquake rocked the southern part of the country. The post WATCH: Harrowing Video Shows People Scrambling to Escape Crumbling Buildings After During Massive Philippines Earthquake first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:46:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cf5c74d06cde",
+   "title": "‘Stolen Before Our Eyes’: MAGA World Erupts as Trump Claims LA Race ‘Rigged’",
+   "link": "https://www.mediaite.com/online/stolen-before-our-eyes-maga-world-erupts-as-trump-claims-la-race-rigged/",
+   "summary": "MAGA influencers and pundits have rallied behind Trump’s claims that Los Angeles' mayoral race vote count is “CROOKED” and “rigged.” The post ‘Stolen Before Our Eyes’: MAGA World Erupts as Trump Claims LA Race ‘Rigged’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:27:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4d838472e94e",
+   "title": "Sam Bankman-Fried Says He ‘Absolutely’ Wants a Pardon From Donald Trump",
+   "link": "https://www.mediaite.com/media/news/sam-bankman-fried-says-he-absolutely-wants-a-pardon-from-donald-trump/",
+   "summary": "Imprisoned crypto fraudster Sam Bankman-Fried told FOX Business correspondent Susan Li that he \"absolutely\" wants a pardon from President Donald Trump. The post Sam Bankman-Fried Says He ‘Absolutely’ Wants a Pardon From Donald Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:21:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "76ac49296984",
+   "title": "Bill Maher Rips Media for ‘Mischaracterizing’ Charlie Kirk",
+   "link": "https://www.mediaite.com/media/bill-maher-rips-media-for-mischaracterizing-charlie-kirk/",
+   "summary": "Bill Maher said he is happy he got to speak to Charlie Kirk before he was murdered, in large part because the media \"mischaracterized\" what he believed. The post Bill Maher Rips Media for ‘Mischaracterizing’ Charlie Kirk first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:13:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d70083ad2983",
+   "title": "Alyssa Farah Griffin and Sunny Hostin Clash Over California’s Vote Counting: ‘Why Can Florida Do It Right in One Night?’",
+   "link": "https://www.mediaite.com/media/news/alyssa-farah-griffin-and-sunny-hostin-clash-over-californias-vote-counting-why-can-florida-do-it-right-in-one-night/",
+   "summary": "Alyssa Farah Griffin and Sunny Hostin clashed over how long it's taking California to count ballots, as some Republicans are accusing the state of voter fraud. The post Alyssa Farah Griffin and Sunny Hostin Clash Over California’s Vote Counting: ‘Why Can Florida Do It Right in One Night?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T16:06:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "855b6a1d186d",
+   "title": "NEW: The Kennedy Center just removed Trump's name from its website after a judge's ruling. The name on the exterior of the building has to come down no later than June 12.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mns2icnr2s2a",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-08T16:00:37.888+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e0233fba1ae0",
+   "title": "Ann Coulter Blows Up on Trump for Going to Knicks Game: ‘Of All the Selfish, Narcissistic Things’ He’s Done…",
+   "link": "https://www.mediaite.com/media/sports/ann-coulter-blows-up-on-trump-for-going-to-knicks-game-of-all-the-selfish-narcissistic-things-hes-done/",
+   "summary": "Conservative commentator Ann Coulter went off on President Donald Trump for his decision to attend Monday's NBA Finals game at Madison Square Garden. The post Ann Coulter Blows Up on Trump for Going to Knicks Game: ‘Of All the Selfish, Narcissistic Things’ He’s Done… first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:56:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d84d31cc6a5b",
+   "title": "When Trump Fucks Up Blame Biden",
+   "link": "https://bsky.app/profile/electproject.bsky.social/post/3mnrzmess5c2s",
+   "summary": "",
+   "source": "@electproject",
+   "category": "trump_bsky",
+   "published": "2026-06-08T15:45:00.626+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e31a4669bf5d",
+   "title": "JUST IN: Clay Travis Leaving OutKick as Part of Fox News Digital Integration",
+   "link": "https://www.mediaite.com/media/news/just-in-clay-travis-leaving-outkick-after-15-years-as-part-of-fox-digital-shakeup/",
+   "summary": "Travis revealed he would leave the company after what he said was the site's most successful month on record and that Monday's show would be his last. The post JUST IN: Clay Travis Leaving OutKick as Part of Fox News Digital Integration first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:37:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d29ef3ed8355",
+   "title": "‘People Need to Go to Jail’: MAGA Lawmaker Accuses Democrats of Digging Through Garbage Cans to Rob Spencer Pratt",
+   "link": "https://www.mediaite.com/media/news/people-need-to-go-to-jail-maga-lawmaker-accuses-democrats-of-digging-through-garbage-cans-to-rob-spencer-pratt/",
+   "summary": "Randy Fine echoed Donald Trump's accusations that voting in California is corrupt and rigged because of the state's laborious vote counting system. The post ‘People Need to Go to Jail’: MAGA Lawmaker Accuses Democrats of Digging Through Garbage Cans to Rob Spencer Pratt first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:32:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ecfe1fb2fac6",
+   "title": "Ken Paxton’s Impeachment Defense Lawyer Turns on Him in Scathing Statement",
+   "link": "https://www.mediaite.com/media/news/ken-paxtons-impeachment-defense-lawyer-turns-on-him-in-scathing-statement/",
+   "summary": "Talarico is seeking to become the first Democrat elected to the U.S. Senate from Texas since Lloyd Bentsen in 1988. The post Ken Paxton’s Impeachment Defense Lawyer Turns on Him in Scathing Statement first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:25:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "886a8f558ff8",
+   "title": "\"One thing is clear; Bondi’s failures were failures that Trump demanded. If a minimally principled AG is appointed during his term, it will be despite his furious efforts. That’s because one of the absolute core goals of his presidency is the perversion of justice and destruction of the rule of law\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrybdedfk2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T15:20:56.262+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "991428067cfa",
+   "title": "Republican Senator Blames Screwworm Outbreak on Joe Biden",
+   "link": "https://www.mediaite.com/media/news/republican-senator-blames-screwworm-outbreak-on-joe-biden/",
+   "summary": "Sen. Roger Marshall (R-KS) blamed an outbreak of a flesh eating parasite affecting cows on former President Joe Biden on Monday, claiming migrants who entered the country under his watch brought the virus with them. The post Republican Senator Blames Screwworm Outbreak on Joe Biden first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:16:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "81641a2397ea",
+   "title": "Bill Maher Makes Big Midterms Prediction: ‘Even They Can’t Blow It’",
+   "link": "https://www.mediaite.com/politics/bill-maher-makes-big-midterms-prediction-even-they-cant-blow-it/",
+   "summary": "Bill Maher said he believes Democrats have the election in the bag — thanks in large part to President Trump, who has \"f*cked up\" his immigration crackdown The post Bill Maher Makes Big Midterms Prediction: ‘Even They Can’t Blow It’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T15:06:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "20f818927473",
+   "title": "This is a new one, an extension of classic “ballots in a dumpster” rumors, suggesting that fraudsters are dumpster diving for ballots and then using them to vote. It absurd and ignores any number of structural reasons that wouldn’t work as well as a complete lack of evidence of that happening.",
+   "link": "https://bsky.app/profile/katestarbird.bsky.social/post/3mnrwzqneb22f",
+   "summary": "",
+   "source": "@katestarbird",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:58:48.012+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "32133416a5ef",
+   "title": "Sen. Roger Marshall on the failure of crystal pepsi : \"This is another thing we can thank Joe Biden for\" Sen. Roger Marshall on the cancellation of schmigadoon season 3 : \"This is another thing we can thank Joe Biden for\"",
+   "link": "https://bsky.app/profile/hammancheez.bsky.social/post/3mnrwuv56xc2k",
+   "summary": "",
+   "source": "@hammancheez",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:56:04.954+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff93eac4b43a",
+   "title": "Richard Gere Fumes ‘Maniac’ Trump Has ‘Dismantled’ Everything Good About USA",
+   "link": "https://www.mediaite.com/media/richard-gere-fumes-maniac-trump-has-dismantled-everything-good-about-usa/",
+   "summary": "Actor Richard Gere branded President Donald Trump a \"maniac\" and complained he has \"dismantled\" everything good about the US during his time in the White House. The post Richard Gere Fumes ‘Maniac’ Trump Has ‘Dismantled’ Everything Good About USA first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:47:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0e1ef6cd09e1",
+   "title": "Trump FCC Chief Brendan Carr Slams ‘Out of Touch’ Scott Pelley for Claiming He Didn’t Expect ’60 Minutes’ Firing",
+   "link": "https://www.mediaite.com/media/news/trump-fcc-chief-brendan-carr-slams-out-of-touch-scott-pelley-for-claiming-he-didnt-expect-60-minutes-firing/",
+   "summary": "FCC Chairman Brendan Carr called veteran news anchor Scott Pelley \"out of touch\" on Sunday for claiming in an interview that his firing from 60 Minutes came a surprise. The post Trump FCC Chief Brendan Carr Slams ‘Out of Touch’ Scott Pelley for Claiming He Didn’t Expect ’60 Minutes’ Firing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:44:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e77d48a5ff70",
+   "title": "CNBC’s Sorkin Battles Top Trump DOJ Lawyer Who Suggested Fraud in LA Mayor’s Race",
+   "link": "https://www.mediaite.com/media/tv/cnbcs-sorkin-battles-top-trump-doj-lawyer-who-suggested-fraud-in-la-mayors-race/",
+   "summary": "Sorkin questioned whether a senior federal prosecutor should be publicly raising suspicions about election results without evidence. The post CNBC’s Sorkin Battles Top Trump DOJ Lawyer Who Suggested Fraud in LA Mayor’s Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:35:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "686a41dc9f5d",
+   "title": "Ravid has established himself as Trump's most dedicated stenographer.",
+   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3mnrvlotjkc27",
+   "summary": "",
+   "source": "@robertscotthorton",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:33:02.613+00:00",
+   "iran_topic": false
+  },
   {
    "id": "69f01e042417",
    "title": "Barak Ravid on CNN: \"I think we saw what President Trump said earlier today that both sides have basically agreed to hold their fire\" (Ravid said this an hour ago and it's already been proven to be wrong)",
@@ -432,16 +692,6 @@
    "source": "@clearlyashley",
    "category": "trump_bsky",
    "published": "2026-06-08T14:18:13.718+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "089ec99e4304",
-   "title": "LIV Golf’s Remaining Saudi Funding May Not Be Enough to Keep Current Season Going: Report",
-   "link": "https://www.mediaite.com/media/sports/liv-golfs-remaining-saudi-funding-may-not-be-enough-to-keep-current-season-going-report/",
-   "summary": "The remainder of LIV Golf's Saudi funding could run out before the conclusion of the current season, according to a Front Office Sports report. The post LIV Golf’s Remaining Saudi Funding May Not Be Enough to Keep Current Season Going: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:17:45+00:00",
    "iran_topic": false
   },
   {
@@ -475,16 +725,6 @@
    "iran_topic": false
   },
   {
-   "id": "17d2481a9763",
-   "title": "‘It’s Coming’: Tom Homan Says He’s Reviewing Plan for ‘More ICE Agents Than You Have Ever Seen in New York City’",
-   "link": "https://www.mediaite.com/media/tv/its-coming-tom-homan-says-hes-reviewing-plan-for-more-ice-agents-than-you-have-ever-seen-in-new-york-city/",
-   "summary": "Border Czar Tom Homan said that his plan to put \"more ICE agents than you've ever seen in New York City\" would soon be enacted, claiming he was \"keeping my promise\" to Governor Kathy Hochul (D) after she signed anti-ICE legislation. The post ‘It’s Coming’: Tom Homan Says He’s Reviewing Plan for ‘More ICE Agents Than You Have Ever Seen in New York City’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:11:46+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "0754a7d94181",
    "title": "Randy Fine claims people are literally dumpster diving for fraudulent ballots in California 😆 cool story, bro",
    "link": "https://bsky.app/profile/atrupar.com/post/3mnru23xocf2a",
@@ -492,16 +732,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-08T14:05:18.586+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "378f4172c128",
-   "title": "‘Ludicrous!’ Fox & Friends Hosts Erupt as Spencer Pratt Slips in LA Mayor’s Race",
-   "link": "https://www.mediaite.com/media/news/ludicrous-fox-friends-hosts-erupt-as-spencer-pratt-slips-in-la-mayors-race/",
-   "summary": "The Fox &#038; Friends crew vented their frustration on Monday as their preferred candidate for Los Angeles mayor, former reality TV villain Spencer Pratt, slipped to third place in the vote. The post ‘Ludicrous!’ Fox & Friends Hosts Erupt as Spencer Pratt Slips in LA Mayor’s Race first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T14:04:54+00:00",
    "iran_topic": false
   },
   {
@@ -555,16 +785,6 @@
    "iran_topic": false
   },
   {
-   "id": "c5a365b92e64",
-   "title": "Karl Rove Warns ‘Terrific’ Democratic Candidates Could Cost GOP 2 Key Senate Seats",
-   "link": "https://www.mediaite.com/politics/karl-rove-warns-terrific-democratic-candidates-could-cost-gop-2-key-senate-seats/",
-   "summary": "Fox News' Karl Rove warned that Democrats' strong candidates for Senate in Iowa and Ohio could win in the two traditionally red states. The post Karl Rove Warns ‘Terrific’ Democratic Candidates Could Cost GOP 2 Key Senate Seats first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T13:50:15+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "7f1069d310e6",
    "title": "He went from orange to red. While the President's tantrums are absurd, his delusions of voter fraud are dangerous. The President is an unhinged disgrace, and the American people deserve a Congress that will stand up to Trump's lies, not enable them.",
    "link": "https://bsky.app/profile/murray.senate.gov/post/3mnrt5eaask2n",
@@ -575,26 +795,6 @@
    "iran_topic": false
   },
   {
-   "id": "955c0abf6fe2",
-   "title": "‘I’m The Bozo?’: Meghan McCain & Pod Save America Host Trade Insults in Wild Podcaster Brawl",
-   "link": "https://www.mediaite.com/media/news/im-the-bozo-meghan-mccain-pod-save-america-host-trade-insults-in-wild-podcaster-brawl/",
-   "summary": "Meghan McCain traded insults with Pod Save America host Tommy Vietor in a wild social media brawl on Sunday after the conservative commentator questioned the integrity of California elections. The post ‘I’m The Bozo?’: Meghan McCain & Pod Save America Host Trade Insults in Wild Podcaster Brawl first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T13:32:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69d3a43e81e8",
-   "title": "‘Testy Little B*tch’: Liberal Pundits Mock Trump Over Meet the Press Walkout",
-   "link": "https://www.mediaite.com/media/tv/testy-little-bitch-liberal-pundits-mock-trump-over-meet-the-press-walkout/",
-   "summary": "Trump's dramatic walkout quickly became a focal point for mocking by liberal pundits and criticism by seasoned Beltway journalists. The post ‘Testy Little B*tch’: Liberal Pundits Mock Trump Over Meet the Press Walkout first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T13:20:32+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2940ca1e9159",
    "title": "“Last summer he orchestrated a much-reported meeting with Epstein’s convicted and imprisoned accomplice in child abuse, Ghislaine Maxwell … After Maxwell and Blanche chatted, Maxwell was moved to a minimum-security prison …”",
    "link": "https://bsky.app/profile/tusk81.bsky.social/post/3mnrrbx6tuc2m",
@@ -602,16 +802,6 @@
    "source": "@tusk81",
    "category": "trump_bsky",
    "published": "2026-06-08T13:16:00.862+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "174ae14ec58f",
-   "title": "Tom Homan Praises Meal He Ate With Delaney Hall Detainees: ‘Didn’t Even Finish It All!’",
-   "link": "https://www.mediaite.com/media/tv/tom-homan-praises-meal-he-ate-with-delaney-hall-detainees-didnt-even-finish-it-all/",
-   "summary": "Border Czar Tom Homan praised the meal he ate with detainees at a controversial detention center, claiming he \"didn't even finish\" the meal despite ongoing protests over allegedly inedible food. The post Tom Homan Praises Meal He Ate With Delaney Hall Detainees: ‘Didn’t Even Finish It All!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T12:39:16+00:00",
    "iran_topic": false
   },
   {
@@ -675,46 +865,6 @@
    "iran_topic": false
   },
   {
-   "id": "ad65f1ef1fc4",
-   "title": "I had to double check that this wasn’t fake. Is there a single person in the world (other than Axios) who takes this utter nonsense seriously at this point?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnrn7bbeqs26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T12:02:55.797+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "36f295f6f012",
-   "title": "‘Repugnant’: MAGA Senator Snaps at Pete Hegseth for Excluding Mormons From Christian Groups",
-   "link": "https://www.mediaite.com/media/news/repugnant-maga-senator-snaps-at-pete-hegseth-for-excluding-mormons-from-christian-groups/",
-   "summary": "Lee raged after a Pentagon policy overhaul left The Church of Jesus Christ of Latter-day Saints off a list of Christian faith groups used by the U.S. military. The post ‘Repugnant’: MAGA Senator Snaps at Pete Hegseth for Excluding Mormons From Christian Groups first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T11:41:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "63986c30a07f",
-   "title": "Trump Demands Israel and Iran ‘Stop’ Shooting ‘Immediately’ After New Missile Strikes",
-   "link": "https://www.mediaite.com/media/news/trump-demands-israel-and-iran-stop-shooting-immediately-after-new-missile-strikes/",
-   "summary": "Israel announced hours earlier that it had launched strikes inside Iran, and Tehran retaliated with a barrage of its own against Israel. The post Trump Demands Israel and Iran ‘Stop’ Shooting ‘Immediately’ After New Missile Strikes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T10:31:17+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "488bac67dc3e",
-   "title": "Trump Rages at ‘CROOKED’ California Vote After Spencer Pratt Falls Behind in LA Race",
-   "link": "https://www.mediaite.com/media/news/trump-rages-at-crooked-california-vote-after-spencer-pratt-falls-behind-in-la-race/",
-   "summary": "Trump’s broadside also landed after he stormed out of an interview after a confrontation during a pre-recorded sitdown for Meet the Press. The post Trump Rages at ‘CROOKED’ California Vote After Spencer Pratt Falls Behind in LA Race first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T10:18:44+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "15a585c64241",
    "title": "Pam Bondi was the worst AG in history. Until now.",
    "link": "https://www.publicnotice.co/p/todd-blanche",
@@ -726,7 +876,7 @@
   },
   {
    "id": "69c6f4b3be79",
-   "title": "A political nerd’s guide to Britain’s by-election",
+   "title": "How a populist mayor from the British exurbs could remake England",
    "link": "https://www.politico.com/news/2026/06/08/political-nerd-guide-britain-by-elections-00952829",
    "summary": "By-elections — the British equivalent of a U.S. special election — are held when a member of Parliament resigns, dies or becomes enmeshed in tabloid scandal and are flung out of office by angry voters.",
    "source": "Politico Politics",
@@ -755,66 +905,6 @@
    "iran_topic": false
   },
   {
-   "id": "27a482477b0e",
-   "title": "Nithya Raman Leapfrogs Spencer Pratt, Projected to Advance in LA Mayor’s Race",
-   "link": "https://www.mediaite.com/media/news/nithya-raman-leapfrogs-spencer-pratt-projected-to-advance-in-la-mayors-race/",
-   "summary": "Spencer Pratt’s (R) seemingly cozy lead on Los Angeles city council member Nithya Raman (D) in the city’s mayoral race has been erased. The post Nithya Raman Leapfrogs Spencer Pratt, Projected to Advance in LA Mayor’s Race first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T01:00:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cbb8556d36b8",
-   "title": "Trump had a very hard time walking out on that interview. His ankles are probably swollen to the size of tree trunks.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3mnqfgi4x2k2t",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-08T00:11:08.202+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b504b9586eda",
-   "title": "MAGA Mark Levin Questions Why Trump Is ‘Turning’ on Israel",
-   "link": "https://www.mediaite.com/media/news/maga-mark-levin-questions-why-trump-is-turning-on-israel/",
-   "summary": "Mark Levin questioned why Donald Trump was \"turning\" on Israel by supposedly telling Bibi Netanyahu by phone on Sunday not to retaliate against Iran. The post MAGA Mark Levin Questions Why Trump Is ‘Turning’ on Israel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T00:04:47+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9aa996916dc4",
-   "title": "Trump Declares Israel Has ‘No Choice’ But to Accept Any Iran Deal He Makes: ‘I Call the Shots’",
-   "link": "https://www.mediaite.com/media/news/trump-declares-israel-has-no-choice-but-to-accept-any-iran-deal-he-makes-i-call-the-shots/",
-   "summary": "Trump said Israel has \"no choice\" but to accept whatever peace deal he strikes with Iran during an interview with the Financial Times on Sunday. The post Trump Declares Israel Has ‘No Choice’ But to Accept Any Iran Deal He Makes: ‘I Call the Shots’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T23:04:44+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3719a030481d",
-   "title": "Last-Minute Lawsuit Tries to Knock Out Trump’s UFC Event at White House",
-   "link": "https://www.mediaite.com/media/news/last-minute-lawsuit-tries-to-knock-out-trumps-ufc-fights-at-white-house/",
-   "summary": "Donald Trump's planned UFC fight on the White House South Lawn to mark his 80th birthday, as well as America's 250th, could be K.O.'d. The post Last-Minute Lawsuit Tries to Knock Out Trump’s UFC Event at White House first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T22:50:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4cedb591d56a",
-   "title": "Bummed New Yorkers Bash Trump Hitting Knicks Game After He’s ‘Pooped On’ The Big Apple",
-   "link": "https://www.mediaite.com/media/sports/bummed-new-yorkers-bash-trump-hitting-knicks-game-after-hes-pooped-on-the-big-apple/",
-   "summary": "CNN talked to several New Yorkers who are sad Trump is hitting MSG to watch his hometown Knicks play the San Antonio Spurs in the NBA Finals on Monday. The post Bummed New Yorkers Bash Trump Hitting Knicks Game After He’s ‘Pooped On’ The Big Apple first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T22:21:32+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "df3010205c72",
    "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump’s birthday",
    "link": "https://www.politico.com/news/2026/06/07/lawsuit-seeks-to-stop-the-ufc-fight-on-the-white-house-south-lawn-for-trumps-birthday-00953084",
@@ -822,56 +912,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-07T22:04:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e2e74727bd04",
-   "title": "Trump Reacts to Iran Firing Missiles Into Israel in Phoner With Fox’s Yingst: ‘You’ve Shot Your Missiles, That’s Enough’",
-   "link": "https://www.mediaite.com/media/news/trump-reacts-to-iran-firing-missiles-into-israel-in-phoner-with-foxs-yingst-youve-shot-your-missiles-thats-enough/",
-   "summary": "President Donald Trump spoke by phone with Fox News reporter Trey Yingst Sunday, shortly after Iran began firing waves of ballistic missiles toward Israel. The post Trump Reacts to Iran Firing Missiles Into Israel in Phoner With Fox’s Yingst: ‘You’ve Shot Your Missiles, That’s Enough’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T21:17:20+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "81b94c0a8cf9",
-   "title": "‘CLICK BAIT LIE!’ FBI Attacks Right-Wing Group Claiming Bureau is ‘Slow Rolling’ Release of Records Connected to Assassination Attempt On Trump",
-   "link": "https://www.mediaite.com/politics/click-bait-lie-fbi-attacks-right-wing-group-claiming-bureau-is-slow-rolling-release-of-records-connected-to-assassination-attempt-on-trump/",
-   "summary": "The FBI ripped a conservative outlet for pushing a \"CLICK BAIT LIE\" that said the bureau was \"slow rolling\" info on the 2024 assassination attempt against Trump The post ‘CLICK BAIT LIE!’ FBI Attacks Right-Wing Group Claiming Bureau is ‘Slow Rolling’ Release of Records Connected to Assassination Attempt On Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T21:06:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "62cdb3856173",
-   "title": "there’s the boy who cried wolf and then there’s the deranged president who’s been saying “we’re close to a deal” for three months",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpzoxh4zk2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T20:41:07.794+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2323836b1f59",
-   "title": "MS NOW’s Ali Velshi Tears Up in Emotional Sign Off Ahead of Move to 11pm — Delivers Clarion Call for Journalism: ‘Bearing Witness’ Never Mattered More",
-   "link": "https://www.mediaite.com/media/news/ms-nows-ali-velshi-tears-up-in-emotional-sign-off-ahead-of-move-to-11pm-delivers-clarion-call-for-journalism-bearing-witness-never-mattered-more/",
-   "summary": "Ali Velshi teared up as he spoke for nearly 20 minutes about the importance of journalism in holding the powerful to account in this age of extreme hostility. The post MS NOW’s Ali Velshi Tears Up in Emotional Sign Off Ahead of Move to 11pm — Delivers Clarion Call for Journalism: ‘Bearing Witness’ Never Mattered More first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T20:34:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0b19a9a19a93",
-   "title": "‘Just Inappropriate’: GOP Congressman Hits Hegseth for Railing Against Immigration During a D-Day Speech in Normandy",
-   "link": "https://www.mediaite.com/media/news/just-inappropriate-gop-congressman-hits-hegseth-for-railing-against-immigration-during-a-d-day-speech-in-normandy/",
-   "summary": "Rep. Michael McCaul criticized Pete Hegseth for ripping the \"invasion\" of Europe by Muslim immigrants during a speech honoring D-Day veterans The post ‘Just Inappropriate’: GOP Congressman Hits Hegseth for Railing Against Immigration During a D-Day Speech in Normandy first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T20:10:26+00:00",
    "iran_topic": false
   },
   {
@@ -883,16 +923,6 @@
    "category": "trump_bsky",
    "published": "2026-06-07T20:05:29.519+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "efb5e3799b5a",
-   "title": "CNN’s Jeremy Diamond Reports on Iran Firing Ballistic Missiles Toward Israel: ‘Real Risk’ This Could Tilt Region Back to ‘All Out War’",
-   "link": "https://www.mediaite.com/media/news/cnns-jeremy-diamond-reports-on-iran-firing-ballistic-missiles-toward-israel-real-risk-this-could-tilt-region-back-to-all-out-war/",
-   "summary": "CNN's Jeremy Diamond reported from Tel Aviv Sunday that Iran has launched at least two waves of ballistic missiles toward the state of Israel. The post CNN’s Jeremy Diamond Reports on Iran Firing Ballistic Missiles Toward Israel: ‘Real Risk’ This Could Tilt Region Back to ‘All Out War’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T20:01:06+00:00",
-   "iran_topic": true
   },
   {
    "id": "8090064e9009",
@@ -935,16 +965,6 @@
    "iran_topic": false
   },
   {
-   "id": "0641b97f65da",
-   "title": "Seems a little too emotional and high-strung to be president.",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mnptahc62c2a",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:45:38.645+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5759b75f13d2",
    "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpsg2vork2v",
@@ -982,26 +1002,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-07T17:25:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c16149dd8ff4",
-   "title": "The women who could make or break MAGA",
-   "link": "https://www.politico.com/news/2026/06/07/the-young-women-who-could-make-or-break-maga-00953007",
-   "summary": "Bubbling under the surface of Turning Point USA's Women's Leadership Summit are divisions within the GOP that have enveloped the online voices of the young female right.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-07T16:40:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "228e6106c505",
-   "title": "Trump continues defense of 'Anti-Weaponization Fund'",
-   "link": "https://www.politico.com/news/2026/06/07/trump-anti-weaponization-fund-00952988",
-   "summary": "“I think the weaponization fund is a great idea,” President Donald Trump said.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-07T16:32:43+00:00",
    "iran_topic": false
   }
  ]
