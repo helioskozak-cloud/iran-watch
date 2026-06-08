@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-08T10:25:41.151443+00:00",
+ "generated": "2026-06-08T14:34:22.887898+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 96.76,
-   "change": 3.67,
-   "change_pct": 3.94,
+   "price": 94.39,
+   "change": 1.3,
+   "change_pct": 1.4,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    96.76000213623047
+    94.38999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 94.5,
-   "change": 3.96,
-   "change_pct": 4.37,
+   "price": 91.31,
+   "change": 0.77,
+   "change_pct": 0.85,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    94.5
+    91.30999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4319.1,
-   "change": -18.0,
-   "change_pct": -0.42,
+   "price": 4345.3,
+   "change": 8.2,
+   "change_pct": 0.19,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4319.10009765625
+    4345.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.08,
-   "change": 0.01,
-   "change_pct": 0.01,
+   "price": 100.0,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.08499908447266
+    99.99700164794922
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7383.74,
-   "change": -200.57,
-   "change_pct": -2.64,
+   "price": 7440.85,
+   "change": 57.11,
+   "change_pct": 0.77,
    "spark": [
-    7599.9599609375,
     7609.77978515625,
     7553.68017578125,
     7584.31005859375,
-    7383.740234375
+    7383.740234375,
+    7440.85009765625
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 133.02,
-   "change": -3.72,
-   "change_pct": -2.72,
+   "price": 135.46,
+   "change": 2.44,
+   "change_pct": 1.83,
    "spark": [
-    135.5,
     137.27000427246094,
     140.86000061035156,
     136.74000549316406,
-    133.02000427246094
+    133.02000427246094,
+    135.46009826660156
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.61,
-   "change": -1.9,
-   "change_pct": -8.83,
+   "price": 18.86,
+   "change": -2.65,
+   "change_pct": -12.32,
    "spark": [
     15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    19.610000610351562
+    18.860000610351562
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.13,
-   "change": -0.1,
-   "change_pct": -3.13,
+   "price": 3.12,
+   "change": -0.11,
+   "change_pct": -3.28,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.128000020980835
+    3.122999906539917
    ]
   }
  },
@@ -216,18 +216,88 @@
  ],
  "incidents": [
   {
-   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
-   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
-   "source": "Press TV",
-   "published": "2026-06-08T10:24:46.528798+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
    "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
    "source": "Press TV",
-   "published": "2026-06-08T10:24:46.528678+00:00",
+   "published": "2026-06-08T14:33:20.135798+00:00",
    "severity": "critical"
+  },
+  {
+   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
+   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
+   "source": "Press TV",
+   "published": "2026-06-08T14:33:20.135590+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "EU sanctions Iranians over restricting naval traffic in Hormuz reut.rs/4obLPHO",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
+   "source": "@reuters",
+   "published": "2026-06-08T14:30:38+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The Iran-backed Houthi militia in Yemen said on Monday that it would stop Israeli ships from operating in the Red Sea and had fired missiles at Israel, threatening to widen the Iran war and impede navigation through a crucial global trade route.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mnrsmzfdes26",
+   "source": "@nytimes",
+   "published": "2026-06-08T13:40:05.968223+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US approves $2B sale of Anduril counter-drone systems to Kuwait",
+   "link": "https://breakingdefense.com/2026/06/us-approves-2b-sale-of-anduril-counter-drone-systems-to-kuwait/",
+   "source": "Breaking Defense",
+   "published": "2026-06-08T13:36:15+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "India says fire reported on oil tanker off Oman coast, Indian crew safe reut.rs/3Q7JSzu",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnrqoj6yfn2r",
+   "source": "@reuters",
+   "published": "2026-06-08T13:05:08+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u070yc/eu_sanctions_iranians_over_restricting_naval/",
+   "source": "r/worldnews",
+   "published": "2026-06-08T12:52:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The Israeli military said it attacked Iran’s sprawling Mahshahr petrochemical complex on Monday, its first strike there since a cease-fire was agreed between the countries on April 7. Here's what to know.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mnrogulfcj2s",
+   "source": "@nytimes",
+   "published": "2026-06-08T12:25:04.633238+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Airbus unveils U145 autonomous helicopter drone for cargo supply ops",
+   "link": "https://breakingdefense.com/2026/06/airbus-unveils-u145-autonomous-helicopter-drone-for-cargo-supply-ops/",
+   "source": "Breaking Defense",
+   "published": "2026-06-08T12:09:34+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea",
+   "link": "https://www.al-monitor.com/originals/2026/06/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea",
+   "source": "Al-Monitor",
+   "published": "2026-06-08T12:02:05+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Explainer-Why are the Houthis threatening to attack Red Sea shipping and what does it mean for oil markets?",
+   "link": "https://www.al-monitor.com/originals/2026/06/explainer-why-are-houthis-threatening-attack-red-sea-shipping-and-what-does-it",
+   "source": "Al-Monitor",
+   "published": "2026-06-08T12:02:05+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "EU sanctions two Iranians, IRGC unit for participating in Hormuz blockade",
+   "link": "https://www.timesofisrael.com/eu-sanctions-two-iranians-irgc-unit-for-participating-in-hormuz-blockade/",
+   "source": "Times of Israel",
+   "published": "2026-06-08T11:59:16+00:00",
+   "severity": "medium"
   },
   {
    "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
@@ -249,76 +319,6 @@
    "source": "r/worldnews",
    "published": "2026-06-08T08:01:59+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran, Israel exchange fire in first clash since truce",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-israel-exchange-fire-first-clash-truce",
-   "source": "Al-Monitor",
-   "published": "2026-06-08T08:00:16+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "What Beirut’s Port Scanners Miss About Militant Supply Chains",
-   "link": "https://warontherocks.com/what-beiruts-port-scanners-miss-about-militant-supply-chains/",
-   "source": "War on the Rocks",
-   "published": "2026-06-08T07:30:27+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted",
-   "link": "https://www.al-monitor.com/originals/2026/06/hormuz-strait-will-be-open-transit-fees-iran-envoy-moscow-quoted",
-   "source": "Al-Monitor",
-   "published": "2026-06-08T05:01:39+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran war live: Missiles fired at Israel after attacks as new war fears rise",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-08T00:00:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
-   "link": "https://presstv.ir/Detail/2026/06/07/770002/Vessels-pay--1-5%E2%80%932-million-under-new-Strait-of-Hormuz-services-plan",
-   "source": "Press TV",
-   "published": "2026-06-07T21:35:49.732057+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran fires missiles at Israel after it attacked Beirut",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-07T20:12:55+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Counts Far More Hormuz Ship Transits Than Commercial Tracking Data Shows",
-   "link": "https://www.reddit.com/r/worldnews/comments/1tzjoxp/us_counts_far_more_hormuz_ship_transits_than/",
-   "source": "r/worldnews",
-   "published": "2026-06-07T18:20:04+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "June 3: Iran strikes US naval, military assets across region after attacks on tanker, Qeshm facility",
-   "link": "https://presstv.ir/Detail/2026/06/03/769794/jun3-iran-strikes-us-naval-military-assets-across-region-after-attacks-tankers-telecom-site",
-   "source": "Press TV",
-   "published": "2026-06-07T17:39:51.819972+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US says shot down Iran drones as war reaches 100th day",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-says-shot-down-iran-drones-war-reaches-100th-day",
-   "source": "Al-Monitor",
-   "published": "2026-06-07T15:00:19+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Fifty-two hours on an Israeli prison ship",
-   "link": "https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-07T14:14:50+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -329,25 +329,25 @@
    "incident_count": 3,
    "recent": [
     {
-     "title": "Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted",
-     "link": "https://www.al-monitor.com/originals/2026/06/hormuz-strait-will-be-open-transit-fees-iran-envoy-moscow-quoted",
-     "source": "Al-Monitor",
-     "published": "2026-06-08T05:01:39+00:00",
+     "title": "EU sanctions Iranians over restricting naval traffic in Hormuz reut.rs/4obLPHO",
+     "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
+     "source": "@reuters",
+     "published": "2026-06-08T14:30:38+00:00",
      "severity": "info"
     },
     {
-     "title": "Ships paying up to $2 million under new maritime services plan in Hormuz: Report",
-     "link": "https://presstv.ir/Detail/2026/06/07/770002/Vessels-pay--1-5%E2%80%932-million-under-new-Strait-of-Hormuz-services-plan",
-     "source": "Press TV",
-     "published": "2026-06-07T21:35:49.732057+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "U.S. Counts Far More Hormuz Ship Transits Than Commercial Tracking Data Shows",
-     "link": "https://www.reddit.com/r/worldnews/comments/1tzjoxp/us_counts_far_more_hormuz_ship_transits_than/",
+     "title": "EU sanctions Iranians over restricting naval traffic in Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1u070yc/eu_sanctions_iranians_over_restricting_naval/",
      "source": "r/worldnews",
-     "published": "2026-06-07T18:20:04+00:00",
+     "published": "2026-06-08T12:52:51+00:00",
      "severity": "info"
+    },
+    {
+     "title": "EU sanctions two Iranians, IRGC unit for participating in Hormuz blockade",
+     "link": "https://www.timesofisrael.com/eu-sanctions-two-iranians-irgc-unit-for-participating-in-hormuz-blockade/",
+     "source": "Times of Israel",
+     "published": "2026-06-08T11:59:16+00:00",
+     "severity": "medium"
     }
    ]
   },
@@ -355,28 +355,28 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 4,
+   "incident_count": 7,
    "recent": [
     {
      "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
      "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
      "source": "Press TV",
-     "published": "2026-06-08T10:24:46.528678+00:00",
+     "published": "2026-06-08T14:33:20.135798+00:00",
      "severity": "critical"
     },
     {
-     "title": "Yemen’s Iran-backed Houthis vow to block Israeli ships from traversing Red Sea",
-     "link": "https://www.jpost.com/middle-east/article-898676",
-     "source": "Jerusalem Post",
-     "published": "2026-06-08T09:20:45+00:00",
+     "title": "The Iran-backed Houthi militia in Yemen said on Monday that it would stop Israeli ships from operating in the Red Sea and had fired missiles at Israel, threatening to widen the Iran war and impede navigation through a crucial global trade route.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mnrsmzfdes26",
+     "source": "@nytimes",
+     "published": "2026-06-08T13:40:05.968223+00:00",
      "severity": "info"
     },
     {
-     "title": "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/yemens-houthis-declare-ban-on-israeli-ships-sailing-the-red-sea?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-08T08:38:42+00:00",
-     "severity": "info"
+     "title": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea",
+     "link": "https://www.al-monitor.com/originals/2026/06/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea",
+     "source": "Al-Monitor",
+     "published": "2026-06-08T12:02:05+00:00",
+     "severity": "high"
     }
    ]
   },
@@ -397,13 +397,313 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T10:24:46.528798+00:00",
+     "published": "2026-06-08T14:33:20.135590+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "69f01e042417",
+   "title": "Barak Ravid on CNN: \"I think we saw what President Trump said earlier today that both sides have basically agreed to hold their fire\" (Ravid said this an hour ago and it's already been proven to be wrong)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrvi5tpqm24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:31:04.061+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ab1645bf0fbd",
+   "title": "The year is 2056. President Barron Trump's team is dealing with a new outbreak of disease outbreaks. On an interview with Fox News, White House Chief of Staff Boebert states: \"This is all the fault of Obama and Biden.\"",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnruznm6k22z",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:22:57.344+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "523936119923",
+   "title": "shameless",
+   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mnrur74l2c2i",
+   "summary": "",
+   "source": "@clearlyashley",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:18:13.718+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "089ec99e4304",
+   "title": "LIV Golf’s Remaining Saudi Funding May Not Be Enough to Keep Current Season Going: Report",
+   "link": "https://www.mediaite.com/media/sports/liv-golfs-remaining-saudi-funding-may-not-be-enough-to-keep-current-season-going-report/",
+   "summary": "The remainder of LIV Golf's Saudi funding could run out before the conclusion of the current season, according to a Front Office Sports report. The post LIV Golf’s Remaining Saudi Funding May Not Be Enough to Keep Current Season Going: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:17:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7aa35bc4645e",
+   "title": "Rep. Buddy Carter: \"Think about Minnianapolois\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrupzpcrf2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:17:34.418+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0257db9fd477",
+   "title": "Rep. Buddy Carter calls Trump's taxpayer-funded insurrectionist slush fund \"an incredible project\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnruplddlz2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:17:19.348+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dcd9152bb9b7",
+   "title": "Sen. Roger Marshall on screwworm: \"This is another thing we can thank Joe Biden for\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrujq2bpr24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:14:02.967+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "17d2481a9763",
+   "title": "‘It’s Coming’: Tom Homan Says He’s Reviewing Plan for ‘More ICE Agents Than You Have Ever Seen in New York City’",
+   "link": "https://www.mediaite.com/media/tv/its-coming-tom-homan-says-hes-reviewing-plan-for-more-ice-agents-than-you-have-ever-seen-in-new-york-city/",
+   "summary": "Border Czar Tom Homan said that his plan to put \"more ICE agents than you've ever seen in New York City\" would soon be enacted, claiming he was \"keeping my promise\" to Governor Kathy Hochul (D) after she signed anti-ICE legislation. The post ‘It’s Coming’: Tom Homan Says He’s Reviewing Plan for ‘More ICE Agents Than You Have Ever Seen in New York City’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:11:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0754a7d94181",
+   "title": "Randy Fine claims people are literally dumpster diving for fraudulent ballots in California 😆 cool story, bro",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnru23xocf2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:05:18.586+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "378f4172c128",
+   "title": "‘Ludicrous!’ Fox & Friends Hosts Erupt as Spencer Pratt Slips in LA Mayor’s Race",
+   "link": "https://www.mediaite.com/media/news/ludicrous-fox-friends-hosts-erupt-as-spencer-pratt-slips-in-la-mayors-race/",
+   "summary": "The Fox &#038; Friends crew vented their frustration on Monday as their preferred candidate for Los Angeles mayor, former reality TV villain Spencer Pratt, slipped to third place in the vote. The post ‘Ludicrous!’ Fox & Friends Hosts Erupt as Spencer Pratt Slips in LA Mayor’s Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T14:04:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dac1e2adbae7",
+   "title": "Even if true (and how 1984-ish of Cava Bag Boy to say that), last I checked Portland, Oregon and the state of Minnesota are both within the United States. So, you know, they're still Americans. Just like New Yorkers.",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnrttquazk2z",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-06-08T14:01:45.686+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "668108593598",
+   "title": "total abuser brain. you can see him get just incandescent with rage as the insults don’t land. how is this not working.",
+   "link": "https://bsky.app/profile/famousartthief.bsky.social/post/3mnrtpn4pks2w",
+   "summary": "",
+   "source": "@famousartthief",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:59:27.551+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "00b39a6336a5",
+   "title": "Tom Homan on Delaney Hall: \"I went there and had lunch. I sat in the cafeteria with detainees. Had the same meal they had. It was spaghetti and meat sauce, it was green beans, it was charro beans, it was rolls and butter, it was fruit, it was dessert. I ate it. Now is it a 5 star cuisine? No.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrtl7to7u2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:56:59.311+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b36dc29736e7",
+   "title": "Tom Homan on Delaney Hall: \"These are paid protesters. We've got facial recognition of people from Portland and many from Minnesota. This isn't home grown.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrtfzssyq2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:54:05.213+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ed8996db690a",
+   "title": "Ken Paxton's impeachment defense lawyer just endorsed James Talarico. Dan Cogdell says his former client \"has lost sight of his core mission, which is to represent the people of Texas.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnrt7i65b22d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:50:25.485+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c5a365b92e64",
+   "title": "Karl Rove Warns ‘Terrific’ Democratic Candidates Could Cost GOP 2 Key Senate Seats",
+   "link": "https://www.mediaite.com/politics/karl-rove-warns-terrific-democratic-candidates-could-cost-gop-2-key-senate-seats/",
+   "summary": "Fox News' Karl Rove warned that Democrats' strong candidates for Senate in Iowa and Ohio could win in the two traditionally red states. The post Karl Rove Warns ‘Terrific’ Democratic Candidates Could Cost GOP 2 Key Senate Seats first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T13:50:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f1069d310e6",
+   "title": "He went from orange to red. While the President's tantrums are absurd, his delusions of voter fraud are dangerous. The President is an unhinged disgrace, and the American people deserve a Congress that will stand up to Trump's lies, not enable them.",
+   "link": "https://bsky.app/profile/murray.senate.gov/post/3mnrt5eaask2n",
+   "summary": "",
+   "source": "@murray",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:49:14.250+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "955c0abf6fe2",
+   "title": "‘I’m The Bozo?’: Meghan McCain & Pod Save America Host Trade Insults in Wild Podcaster Brawl",
+   "link": "https://www.mediaite.com/media/news/im-the-bozo-meghan-mccain-pod-save-america-host-trade-insults-in-wild-podcaster-brawl/",
+   "summary": "Meghan McCain traded insults with Pod Save America host Tommy Vietor in a wild social media brawl on Sunday after the conservative commentator questioned the integrity of California elections. The post ‘I’m The Bozo?’: Meghan McCain & Pod Save America Host Trade Insults in Wild Podcaster Brawl first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T13:32:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "69d3a43e81e8",
+   "title": "‘Testy Little B*tch’: Liberal Pundits Mock Trump Over Meet the Press Walkout",
+   "link": "https://www.mediaite.com/media/tv/testy-little-bitch-liberal-pundits-mock-trump-over-meet-the-press-walkout/",
+   "summary": "Trump's dramatic walkout quickly became a focal point for mocking by liberal pundits and criticism by seasoned Beltway journalists. The post ‘Testy Little B*tch’: Liberal Pundits Mock Trump Over Meet the Press Walkout first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T13:20:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2940ca1e9159",
+   "title": "“Last summer he orchestrated a much-reported meeting with Epstein’s convicted and imprisoned accomplice in child abuse, Ghislaine Maxwell … After Maxwell and Blanche chatted, Maxwell was moved to a minimum-security prison …”",
+   "link": "https://bsky.app/profile/tusk81.bsky.social/post/3mnrrbx6tuc2m",
+   "summary": "",
+   "source": "@tusk81",
+   "category": "trump_bsky",
+   "published": "2026-06-08T13:16:00.862+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "174ae14ec58f",
+   "title": "Tom Homan Praises Meal He Ate With Delaney Hall Detainees: ‘Didn’t Even Finish It All!’",
+   "link": "https://www.mediaite.com/media/tv/tom-homan-praises-meal-he-ate-with-delaney-hall-detainees-didnt-even-finish-it-all/",
+   "summary": "Border Czar Tom Homan praised the meal he ate with detainees at a controversial detention center, claiming he \"didn't even finish\" the meal despite ongoing protests over allegedly inedible food. The post Tom Homan Praises Meal He Ate With Delaney Hall Detainees: ‘Didn’t Even Finish It All!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T12:39:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cc5ee7a07bbd",
+   "title": "SORKIN: Do you think it helps, given where you sit in the world, to speculate about fraud without any direct evidence? US ATTORNEY CLAYTON: I'm not speculating about fraud. I'm not saying there is fraud. I'm saying that the opportunity for fraud makes no sense to me S: Trump says there was fraud",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrp7pdilk24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:38:57.967+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f14df2c5158c",
+   "title": "\"The American people are right to question it\" -- US Attorney for the Southern District of New York Jay Clayton was on CNBC this morning indulging conspiracy theories about how they're counting votes in California",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrp7lfak22f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:38:53.835+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d39121c047eb",
+   "title": "QUICK: How are farmers faring these days given higher fertilizer prices and diesel prices? BROOKE ROLLINS: There was almost a 40% increase in input prices under the last administration, no new trade deals under Biden (note the complete lack of pushback from CNBC hosts who just let her rant... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrop43cpj2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:29:40.895+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6e655214674a",
+   "title": "beyond parody -- Ag Secretary Brooke Rollins blames Biden for screwworm \"I do think it's important to note that under the last administration not much had been done to push back\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrobzerve2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:22:21.860+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d4986b31a6b",
+   "title": "New in PN: Bondi was the worst AG in history. Until now. \"Whether he becomes AG or not, Blanche has made clear what qualities Trump prizes in his appointees — contempt for any principle superseding his brain burps. MAGA wants AGs who are unfit to be AGs. Only hollowed-out fascists need apply.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrnncf5ac2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:10:46.734+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9d37cde9d00b",
+   "title": "Trump at the posting through it stage of his presidency.",
+   "link": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mnrnfe6fpk2e",
+   "summary": "",
+   "source": "@eliothiggins",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:06:20.175+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ad65f1ef1fc4",
+   "title": "I had to double check that this wasn’t fake. Is there a single person in the world (other than Axios) who takes this utter nonsense seriously at this point?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnrn7bbeqs26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-08T12:02:55.797+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "36f295f6f012",
+   "title": "‘Repugnant’: MAGA Senator Snaps at Pete Hegseth for Excluding Mormons From Christian Groups",
+   "link": "https://www.mediaite.com/media/news/repugnant-maga-senator-snaps-at-pete-hegseth-for-excluding-mormons-from-christian-groups/",
+   "summary": "Lee raged after a Pentagon policy overhaul left The Church of Jesus Christ of Latter-day Saints off a list of Christian faith groups used by the U.S. military. The post ‘Repugnant’: MAGA Senator Snaps at Pete Hegseth for Excluding Mormons From Christian Groups first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T11:41:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "63986c30a07f",
+   "title": "Trump Demands Israel and Iran ‘Stop’ Shooting ‘Immediately’ After New Missile Strikes",
+   "link": "https://www.mediaite.com/media/news/trump-demands-israel-and-iran-stop-shooting-immediately-after-new-missile-strikes/",
+   "summary": "Israel announced hours earlier that it had launched strikes inside Iran, and Tehran retaliated with a barrage of its own against Israel. The post Trump Demands Israel and Iran ‘Stop’ Shooting ‘Immediately’ After New Missile Strikes first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T10:31:17+00:00",
+   "iran_topic": true
+  },
   {
    "id": "488bac67dc3e",
    "title": "Trump Rages at ‘CROOKED’ California Vote After Spencer Pratt Falls Behind in LA Race",
@@ -615,16 +915,6 @@
    "iran_topic": false
   },
   {
-   "id": "9599ba475b21",
-   "title": "‘Disgusting!’ Fox’s Maria Bartiromo GOES OFF Over NY Democrats’ Bill Which Would Purge the Words ‘Mother’ and ‘Father’ from State Law",
-   "link": "https://www.mediaite.com/media/news/disgusting-foxs-maria-bartiromo-goes-off-over-ny-democrats-bill-which-would-purge-the-words-mother-and-father-from-state-law/",
-   "summary": "Maria Bartiromo went ballistic on New York Democrats for pushing a new bill that will change the term \"mother\" to \"gestating parent\" in state documents. The post ‘Disgusting!’ Fox’s Maria Bartiromo GOES OFF Over NY Democrats’ Bill Which Would Purge the Words ‘Mother’ and ‘Father’ from State Law first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T19:16:27+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "75dd2e1eeb49",
    "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpu4xtncs2v",
@@ -655,16 +945,6 @@
    "iran_topic": false
   },
   {
-   "id": "de76cb6e7269",
-   "title": "NBC News Posts Litany of Fact Checks Following Trump’s Wild Meet the Press Interview",
-   "link": "https://www.mediaite.com/media/news/nbc-news-posts-litany-of-fact-checks-following-trumps-wild-meet-the-press-interview/",
-   "summary": "President Donald Trump's contentious interview with Kristen Welker of Meet The Press was ruthlessly fact-checked by NBC News on Sunday. The post NBC News Posts Litany of Fact Checks Following Trump’s Wild Meet the Press Interview first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T18:40:16+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5759b75f13d2",
    "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpsg2vork2v",
@@ -683,66 +963,6 @@
    "category": "trump_bsky",
    "published": "2026-06-07T18:30:53.227+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "fd47201809e7",
-   "title": "Tom Homan Fumes Over ‘Nazi’ Rhetoric About ICE — Claims it Spurred 8,000% Surge in Death Threats",
-   "link": "https://www.mediaite.com/politics/tom-homan-fumes-over-nazi-rhetoric-about-ice-claims-it-spurred-8000-surge-in-death-threats/",
-   "summary": "om Homan slammed liberals who compare ICE agents to Nazis, with Homan saying those twisted claims have spurred a massive spike in death threats against agents The post Tom Homan Fumes Over ‘Nazi’ Rhetoric About ICE — Claims it Spurred 8,000% Surge in Death Threats first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T18:23:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dc508aadeb0f",
-   "title": "Trump Calling Welker “crooked” “stupid” and then the ultimate—“darling”—for asking him what evidence he has that elections are rigged? What is “crooked” is the money for the ballroom, what is “stupid” are the tariffs. And what is “darling” is a first class journalist.",
-   "link": "https://bsky.app/profile/amyklobuchar.com/post/3mnprfh4b322y",
-   "summary": "",
-   "source": "@amyklobuchar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:12:38.740+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f55b4f78d88a",
-   "title": "There’s really only one conclusion here: Trump cannot live in the realm of reality. He pathologically makes claims that cannot be supported and acts as if he is delusional. If all elections are rigged, as he says, how did he win in 2016 in 2024? He is a danger to this country.",
-   "link": "https://bsky.app/profile/davidcorn.bsky.social/post/3mnprfa6fhk2w",
-   "summary": "",
-   "source": "@davidcorn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:12:31.470+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "81694ba81fba",
-   "title": "i'm sorry but I'm laughing at the exit here, perfect comic timing",
-   "link": "https://bsky.app/profile/jessehawken.bsky.social/post/3mnpqzf6qis2j",
-   "summary": "",
-   "source": "@jessehawken",
-   "category": "trump_bsky",
-   "published": "2026-06-07T18:05:54.071+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "795d62b53d2f",
-   "title": "The man with the nuclear codes",
-   "link": "https://bsky.app/profile/brendannyhan.bsky.social/post/3mnpqe3ec322g",
-   "summary": "",
-   "source": "@brendannyhan",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:53:59.124+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "c980fb2b4520",
-   "title": "‘Somebody Had to Stand Up!’ Scott Pelley Chokes Up Describing the Fiery Meeting That Led to His Ouster from ’60 Minutes’",
-   "link": "https://www.mediaite.com/media/somebody-had-to-stand-up-scott-pelley-chokes-up-describing-the-fiery-meeting-that-led-to-his-ouster-from-60-minutes/",
-   "summary": "Scott Pelley got choked up and nearly started to cry while claiming he had to \"stand up\" to his CBS bosses on behalf of his less famous 60 minutes coworkers The post ‘Somebody Had to Stand Up!’ Scott Pelley Chokes Up Describing the Fiery Meeting That Led to His Ouster from ’60 Minutes’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T17:51:17+00:00",
-   "iran_topic": false
   },
   {
    "id": "757a6c1b2d1b",
@@ -765,86 +985,6 @@
    "iran_topic": false
   },
   {
-   "id": "30f8dd0abb88",
-   "title": "listen, obviously Trump is the asshole here, but really, \"all the way to Wisconsin?\" It's not like you tracked Pol Pot down in the Cambodian jungle, it's just the midwest.",
-   "link": "https://bsky.app/profile/beijingpalmer.bsky.social/post/3mnpoq2ycqc2f",
-   "summary": "",
-   "source": "@beijingpalmer",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:24:53.900+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b5c2ea4f922b",
-   "title": "Fox News Anchor Asks Hakeem Jeffries Point-Blank if Democrats Have an ‘Antisemitism Problem’",
-   "link": "https://www.mediaite.com/media/news/fox-news-anchor-asks-hakeem-jeffries-point-blank-if-democrats-have-an-antisemitism-problem/",
-   "summary": "House Minority Leader Hakeem Jeffries (D-NY) faced a barrage of questions on Fox News Sunday over hypocrisy and \"antisemitism\" in the Democratic party. The post Fox News Anchor Asks Hakeem Jeffries Point-Blank if Democrats Have an ‘Antisemitism Problem’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T17:16:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8a21a4432f40",
-   "title": "5 Most Stunning Moments from Trump’s Meet the Press Meltdown",
-   "link": "https://www.mediaite.com/media/news/5-most-stunning-moments-from-trumps-meet-the-press-meltdown/",
-   "summary": "President Trump's interview with NBC's Kristen Welker Sunday went totally off-the-rails. Here are the five most shocking moments. The post 5 Most Stunning Moments from Trump’s Meet the Press Meltdown first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T17:12:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5b497d13376c",
-   "title": "Looking very strong, sir. Hobblemaxxing like no one has ever seen",
-   "link": "https://bsky.app/profile/freeloosedirt.bsky.social/post/3mnpnzdhfi22r",
-   "summary": "",
-   "source": "@freeloosedirt",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:12:11.032+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4c011fbd4e7",
-   "title": "A swollen looking President shrivels under tough questioning from a woman.￼",
-   "link": "https://bsky.app/profile/lukerussert.bsky.social/post/3mnpnuvsgs22k",
-   "summary": "",
-   "source": "@lukerussert",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:09:42.497+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9702606a7ca6",
-   "title": "lol Trump stomped on NBC's microphone when he stormed out of his Meet the Press interview (watch for it 6 seconds into this clip)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpntqi4cc2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T17:09:03.344+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ce766d125b36",
-   "title": "The tell here is when he starts melting down about the lying news media and includes CBS News who are literally bending over backwards to do his bidding with a bona fide collaborator running the news division now! Not good enough for Trump however",
-   "link": "https://bsky.app/profile/jessehawken.bsky.social/post/3mnpmjai2gs23",
-   "summary": "",
-   "source": "@jessehawken",
-   "category": "trump_bsky",
-   "published": "2026-06-07T16:45:17.295+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1f7b762a48ab",
-   "title": "Interviewers: You are doing it wrong if you don't push Trump to the point where he bails, and you can say \"I traveled all the way to Wisconsin for this interview.\"",
-   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mnpmhqm5wk2c",
-   "summary": "",
-   "source": "@donmoyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T16:44:27.098+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "c16149dd8ff4",
    "title": "The women who could make or break MAGA",
    "link": "https://www.politico.com/news/2026/06/07/the-young-women-who-could-make-or-break-maga-00953007",
@@ -855,16 +995,6 @@
    "iran_topic": false
   },
   {
-   "id": "1e62642668d2",
-   "title": "Go ahead, White House Correspondents Association. Invite this guy to your dinner next month. The one honoring the press and the First Amendment. See how far that gets you.",
-   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mnpm6fyct22j",
-   "summary": "",
-   "source": "@bgrueskin",
-   "category": "trump_bsky",
-   "published": "2026-06-07T16:39:13.971+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "228e6106c505",
    "title": "Trump continues defense of 'Anti-Weaponization Fund'",
    "link": "https://www.politico.com/news/2026/06/07/trump-anti-weaponization-fund-00952988",
@@ -872,136 +1002,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-07T16:32:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f3a1c159446f",
-   "title": "Can't recall a recent video that better captures Trump's essence. Misogynist goon sweatily belches out egregious lies to a woman reporter, insults and berates her when she asks for evidence, then storms off in anger, all while his spray-tan slowly slides down his face.",
-   "link": "https://bsky.app/profile/radleybalko.bsky.social/post/3mnpjvxz2gc2g",
-   "summary": "",
-   "source": "@radleybalko",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:58:43.397+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fd21114dc1df",
-   "title": "Trump says he never promised ‘no new wars’",
-   "link": "https://www.politico.com/news/2026/06/07/trump-says-never-promised-no-new-wars-00952870",
-   "summary": "“I didn't promise anything,” President Donald Trump said in an interview with NBC's Kristen Welker.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-07T15:50:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "887b7c4fbb0c",
-   "title": "When you get your health advice from RFK",
-   "link": "https://bsky.app/profile/anadarkocapital.bsky.social/post/3mnpizfzubc2a",
-   "summary": "",
-   "source": "@anadarkocapital",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:42:45.026+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "59bb3c699ebe",
-   "title": "The misogyny…",
-   "link": "https://bsky.app/profile/muellershewrote.com/post/3mnpivmmces23",
-   "summary": "",
-   "source": "@muellershewrote",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:40:37.704+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "affd90acec44",
-   "title": "Ugh even when network TV does something good & is actually adversarial & forceful like it should be, it has to add a caveat so they don’t seem “biased” - in this case “we both acknowledged the complications” of the rain in setting up the interview. What does that fucking mean & who gives a shit?!",
-   "link": "https://bsky.app/profile/letsgomathias.bsky.social/post/3mnpitz65mk2g",
-   "summary": "",
-   "source": "@letsgomathias",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:39:43.762+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46148110da28",
-   "title": "this is one of the clearest ways he's aging - he used to snap about stuff, sure, but it was more calculated and under control he's really losing the ability to self-regulate and getting angrier and more erratic",
-   "link": "https://bsky.app/profile/rincewind.run/post/3mnpijjhc522p",
-   "summary": "",
-   "source": "@rincewind",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:33:51.741+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5b3a5b3c043f",
-   "title": "We all think this was great: A reporter finally pushing back. Trump flailing and quitting. A clear picture of a corrupt and weak leader for all to see. But if you watch to the end, it's clear Welker viewed it as a failure because she angered her subject, may lose access and embarrassed the network.",
-   "link": "https://bsky.app/profile/brandonfriedman.bsky.social/post/3mnphymwe6k27",
-   "summary": "",
-   "source": "@brandonfriedman",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:24:24.954+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9a4664031419",
-   "title": "beyond parody -- literally moments after telling Jeffries \"I think it's appropriate to ask Republicans about Republicans, and Democrats about Democrats,\" Jacqui Heinrich asks GOP Sen. Dave McCormick a leading question to get him bagging on Democrats and then she starts criticizing Democrats herself",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnphyc2x5o2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:24:13.554+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2483d1b8a0c4",
-   "title": "PELLEY: I've been shot at, spent nights in foxholes filling up with water in the desert. I'm not aware that the president of the United States has ever done any of those things for his country. Please correct me if I'm wrong ... You become a journalist because you love the country.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnphrvoly22n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:20:39.257+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8835e49d9394",
-   "title": "NYT: [Trump] said you were part of this gang of 'stupid, crooked people that don’t care about your country.' SCOTT PELLEY: \"Stupid? I can take that. Stiff? Yeah, probably. Don't care about the country? I've never worn the uniform. But I've been in combat for this country, in Afghanistan and Iraq.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnphr5jnm22n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:20:13.927+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "49302af6d914",
-   "title": "NEW: Scott Pelley to NYT on Bari Weiss: \"I don't want to be hyperbolic. My impression at the time was that she was putting a thumb on the scale on behalf of the administration. Constantly looking out for the views of the president. We're reporting those views … but it was never enough.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnphiim2cs2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:15:23.551+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "153006103ae3",
-   "title": "If you appreciate all the time I put in to bringing you the newsiest clips week in & week out, I'd be grateful if you supported me by signing up for my newsletter. We publish incisive political reporting & commentary 5 (and often 6) mornings a week, & paid subscribers make my work possible. Thanks.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnpgvfiotc2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-07T15:04:42.762+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "18de645c5899",
-   "title": "‘Did You Break That Promise?’ NBC’s Kristen Welker Grills Trump On ‘No New Wars’ Pledge — President Snaps in Response, Calling Her ‘A Big Liberal’",
-   "link": "https://www.mediaite.com/media/news/did-you-break-that-promise-nbcs-kristen-welker-grills-trump-on-no-new-wars-pledge-president-snaps-in-response-calling-her-a-big-liberal/",
-   "summary": "Welker grilled Trump on his repeated campaign pledge not to start any new wars — a line of inquiry which was not well received by the president. The post ‘Did You Break That Promise?’ NBC’s Kristen Welker Grills Trump On ‘No New Wars’ Pledge — President Snaps in Response, Calling Her ‘A Big Liberal’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-07T14:59:13+00:00",
    "iran_topic": false
   }
  ]
