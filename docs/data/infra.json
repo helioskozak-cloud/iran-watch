@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-09T17:37:35.171020+00:00",
+ "generated": "2026-06-09T19:49:23.164632+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 90.95,
-   "change": -3.3,
-   "change_pct": -3.5,
+   "price": 91.49,
+   "change": -2.76,
+   "change_pct": -2.93,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    90.94999694824219
+    91.48999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 87.33,
-   "change": -3.97,
-   "change_pct": -4.35,
+   "price": 88.19,
+   "change": -3.11,
+   "change_pct": -3.41,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    87.33000183105469
+    88.19000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4289.0,
-   "change": -46.9,
-   "change_pct": -1.08,
+   "price": 4279.0,
+   "change": -56.9,
+   "change_pct": -1.31,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4289.0
+    4279.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.9,
-   "change": -0.15,
-   "change_pct": -0.15,
+   "price": 99.96,
+   "change": -0.09,
+   "change_pct": -0.09,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.90299987792969
+    99.95999908447266
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7335.54,
-   "change": -70.19,
-   "change_pct": -0.95,
+   "price": 7343.09,
+   "change": -62.64,
+   "change_pct": -0.85,
    "spark": [
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
     7405.72998046875,
-    7335.5400390625
+    7343.08984375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 130.93,
-   "change": -4.22,
-   "change_pct": -3.12,
+   "price": 131.43,
+   "change": -3.71,
+   "change_pct": -2.75,
    "spark": [
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
     135.14999389648438,
-    130.93099975585938
+    131.43499755859375
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.97,
-   "change": 2.05,
-   "change_pct": 10.84,
+   "price": 20.02,
+   "change": 1.1,
+   "change_pct": 5.81,
    "spark": [
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    20.969999313354492
+    20.020000457763672
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.15,
-   "change": -0.0,
-   "change_pct": -0.03,
+   "price": 3.14,
+   "change": -0.01,
+   "change_pct": -0.25,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.1459999084472656
+    3.1389999389648438
    ]
   }
  },
@@ -216,6 +216,13 @@
  ],
  "incidents": [
   {
+   "title": "The repricing of Iran: Why the Persian Gulf’s economic future runs through Tehran - opinion",
+   "link": "https://www.jpost.com/opinion/article-898821",
+   "source": "Jerusalem Post",
+   "published": "2026-06-09T20:00:00+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US must respond to Iran’s downing of Apache helicopter, Trump warns",
    "link": "https://www.jpost.com/middle-east/article-898893",
    "source": "Jerusalem Post",
@@ -226,15 +233,50 @@
    "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-09T17:36:21.923964+00:00",
+   "published": "2026-06-09T19:48:18.652232+00:00",
    "severity": "high"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-09T17:36:21.923410+00:00",
+   "published": "2026-06-09T19:48:18.651575+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will 'continue to rise' reut.rs/4uAZ5HO",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnuxj22cyr26",
+   "source": "@reuters",
+   "published": "2026-06-09T19:45:20+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "This Is The Corsair Drone Boat That Plucked The Downed Apache Crew Out Of The Gulf Of Oman",
+   "link": "https://www.twz.com/sea/this-is-the-corsair-drone-boat-that-plucked-the-downed-apache-crew-out-of-the-gulf-of-oman",
+   "source": "The Drive",
+   "published": "2026-06-09T19:40:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "In apparent first, Navy drone boat rescues helicopter crew downed at sea",
+   "link": "https://www.defenseone.com/defense-systems/2026/06/apparent-first-navy-drone-boat-rescues-helicopter-crew-downed-sea/414066/",
+   "source": "Defense One",
+   "published": "2026-06-09T19:09:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump",
+   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
+   "source": "The Drive",
+   "published": "2026-06-09T17:42:31+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US sea drone rescues crew from US Army helicopter that crashed near Hormuz",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-sea-drone-rescues-crew-us-army-helicopter-crashed-near-hormuz",
+   "source": "Al-Monitor",
+   "published": "2026-06-09T17:36:38+00:00",
+   "severity": "high"
   },
   {
    "title": "Trump Says Iran Shot Down U.S. Army Helicopter Over Strait of Hormuz, Vows to Respond",
@@ -277,48 +319,6 @@
    "source": "r/worldnews",
    "published": "2026-06-09T16:26:29+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
-   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
-   "source": "Press TV",
-   "published": "2026-06-09T15:37:09.771322+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "How America Lost Command of the Commons: And Why the Open Seas May Soon Be Tolled",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1u16q37/how_america_lost_command_of_the_commons_and_why/",
-   "source": "r/geopolitics",
-   "published": "2026-06-09T14:33:33+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US Navy rescues crew of Apache helicopter off coast of Oman",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-navy-rescues-crew-apache-helicopter-coast-oman",
-   "source": "Al-Monitor",
-   "published": "2026-06-09T14:18:50+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "'Please send help': Crew's distress call after ship hit by US missile",
-   "link": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-09T13:42:26+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons",
-   "link": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-09T13:34:16+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "AH-64 Apache Crew Rescued By Drone Boat After Going Down Near Strait Of Hormuz (Updated)",
-   "link": "https://www.twz.com/news-features/ah-64-apache-crew-rescued-by-drone-boat-after-going-down-near-strait-of-hormuz",
-   "source": "The Drive",
-   "published": "2026-06-09T13:29:37+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 8,
+   "incident_count": 11,
    "recent": [
+    {
+     "title": "The repricing of Iran: Why the Persian Gulf’s economic future runs through Tehran - opinion",
+     "link": "https://www.jpost.com/opinion/article-898821",
+     "source": "Jerusalem Post",
+     "published": "2026-06-09T20:00:00+00:00",
+     "severity": "info"
+    },
     {
      "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-09T17:36:21.923964+00:00",
+     "published": "2026-06-09T19:48:18.652232+00:00",
      "severity": "high"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T17:36:21.923410+00:00",
+     "published": "2026-06-09T19:48:18.651575+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Trump Says Iran Shot Down U.S. Army Helicopter Over Strait of Hormuz, Vows to Respond",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u1boum/trump_says_iran_shot_down_us_army_helicopter_over/",
-     "source": "r/worldnews",
-     "published": "2026-06-09T17:25:48+00:00",
-     "severity": "critical"
     }
    ]
   },
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T17:36:21.923410+00:00",
+     "published": "2026-06-09T19:48:18.651575+00:00",
      "severity": "info"
     }
    ]
@@ -382,6 +382,186 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "913aa7f24300",
+   "title": "whether you can prove fraud or not jfc",
+   "link": "https://bsky.app/profile/bcdreyer.social/post/3mnux2m2v7k2n",
+   "summary": "",
+   "source": "@bcdreyer",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:37:15.982+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e4ebfa8d5d75",
+   "title": "Rep. Nicole Malliotakis: \"ICE officers wear masks because they're afraid of these death threats they're receiving\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuwmuwrbg24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:29:35.465+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "43bb917b7b8a",
+   "title": "Pro-Trump PAC Drops AI-Generated Attack Ad of James Talarico In a Dress",
+   "link": "https://www.mediaite.com/media/news/pro-trump-pac-drops-ai-generated-attack-ad-of-james-talarico-in-a-dress/",
+   "summary": "The AI Talarico sings the musical’s hit number “My Favorite Things” with the lyrics changed to a satire of pro-trans messaging. The post Pro-Trump PAC Drops AI-Generated Attack Ad of James Talarico In a Dress first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T19:27:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4b51b745965d",
+   "title": "The boy who cried TACO.",
+   "link": "https://bsky.app/profile/jenonymous.bsky.social/post/3mnuvvz3cfc25",
+   "summary": "",
+   "source": "@jenonymous",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:16:48.114+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "592fe78e1978",
+   "title": "I know we're all used to hearing the quiet part out loud these days but \"especially in the minority communities,\" jeeeezus",
+   "link": "https://bsky.app/profile/jasondashbailey.com/post/3mnuvveskms22",
+   "summary": "",
+   "source": "@jasondashbailey",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:16:26.855+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4959bd0ed26a",
+   "title": "Minnesota GOP Senate candidate Michele Tafoya: \"Anyone who tries to scream 'racism' or 'xenophobia' is just flat out wrong. There is a large Somali population that was associated with the majority of this fraud. It is a strong voting block. If you questioned it, there were charges of racism.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuvma2epz2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:11:19.832+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3447257fe9c6",
+   "title": "GOP Senate Leader Claims Trump is ‘Weighing Seriously’ a New DNI Pick to Replace BIll Pulte — Who He Appointed Last Week",
+   "link": "https://www.mediaite.com/media/news/gop-senate-leader-claims-trump-is-weighing-seriously-a-new-dni-pick-to-replace-bill-pulte-who-he-appointed-last-week/",
+   "summary": "A week after President Trump appointed Bill Pulte to take over as Director of National Intelligence, it seems the White House is already looking to move on from him. The post GOP Senate Leader Claims Trump is ‘Weighing Seriously’ a New DNI Pick to Replace BIll Pulte — Who He Appointed Last Week first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T19:10:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8b151d8d39bd",
+   "title": "oh my god, he admit it",
+   "link": "https://bsky.app/profile/qjurecic.bsky.social/post/3mnuvkfj72c2j",
+   "summary": "",
+   "source": "@qjurecic",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:10:18.446+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "94ce135d7b8b",
+   "title": "Are y'all getting it yet?",
+   "link": "https://bsky.app/profile/lizzslockeroom.bsky.social/post/3mnuvdqiag22u",
+   "summary": "",
+   "source": "@lizzslockeroom",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:06:35.121+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c162eb76359",
+   "title": "I'm not sure many people in the world have more robust credentials for saying this than I do, but: James Comer represents a truly unique combination of power and dishonesty, even by DC standards.",
+   "link": "https://bsky.app/profile/pbump.com/post/3mnuut2uilk25",
+   "summary": "",
+   "source": "@pbump",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:57:15.582+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "08fb380cb088",
+   "title": "CNN’s Kailtan Collins: MAGA Doesn’t Realize Trump ‘Seeks Validation’ From the Same Media They Trash",
+   "link": "https://www.mediaite.com/media/cnns-kailtan-collins-maga-doesnt-realize-trump-seeks-validation-from-the-same-media-they-trash/",
+   "summary": "CNN's Kaitlan Collins said President Donald Trump's MAGA base doesn't realize he \"seeks validation\" from the same mainstream media outlets he calls \"fake news.\" The post CNN’s Kailtan Collins: MAGA Doesn’t Realize Trump ‘Seeks Validation’ From the Same Media They Trash first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T18:54:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "276148dda4c5",
+   "title": "CNN: President Trump has said the the war will be over within days at least 37 times before",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuuggndso26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:50:11.593+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "79fdfe8cfff6",
+   "title": "Comer: \"What we're seeing especially in the blue states is there is rampant fraud, especially in the minority communities\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnutyouksr2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:42:30.537+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0bf9248f26f8",
+   "title": "Comer: \"Is it illegal to for a decade turn a blind eye to the tune of billions of dollars wasted to fraud? ... I believe it is\" (Somehow he's not talking about Trump ... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnutx2yckb2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:41:36.132+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c2f1b5eed24b",
+   "title": "Q: Now the president is hinting at restarting military operations in Iran. Are Republican senators on the sidelines? THUNE: Senators are kept in the loop for the most part. I hope our members are inclined to continued the support the administration's efforts to strike a deal",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnut7cx5jl2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:28:19.176+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "36cd72acf73d",
+   "title": "‘ICE Is Not Welcome!’ Knicks Superfan Spike Lee Demands ICE Steer Clear of Parade If NY Wins NBA Finals",
+   "link": "https://www.mediaite.com/media/sports/ice-is-not-welcome-knicks-superfan-spike-lee-demands-ice-steer-clear-of-parade-if-ny-wins-nba-finals/",
+   "summary": "Acclaimed filmmaker and New York Knicks superfan Spike Lee wants ICE agents to steer clear of the team's championship parade if it manages to win the Finals. The post ‘ICE Is Not Welcome!’ Knicks Superfan Spike Lee Demands ICE Steer Clear of Parade If NY Wins NBA Finals first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T18:28:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fe6f62dac423",
+   "title": "Thune on if he's worried that Trump will criticize him if he doesn't do what he wants: \"That could happen\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnut54jeed2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T18:27:05.327+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ab98fa0eaaf1",
+   "title": "CNN Liberals Bust Out Laughing As Trump Allies Brawl With Each Other Over War: ‘Get Some Popcorn!’",
+   "link": "https://www.mediaite.com/media/tv/cnn-libs-bust-out-laughing-as-trump-allies-brawl-over-war-dont-interrupt/",
+   "summary": "Liberal CNN panelists busted out laughing and even applauded as two allies of President Donald Trump filleted each other over the Iran war. The post CNN Liberals Bust Out Laughing As Trump Allies Brawl With Each Other Over War: ‘Get Some Popcorn!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T18:17:45+00:00",
+   "iran_topic": true
+  },
   {
    "id": "23914a68bd0a",
    "title": "MLK’s Niece Brawls With House Democrat in Hearing — Rants About SPLC ‘Killing the Babies and Cutting the Penises Off’",
@@ -434,9 +614,9 @@
   },
   {
    "id": "555c975f7b3c",
-   "title": "BREAKING: Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter",
+   "title": "Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter",
    "link": "https://www.mediaite.com/media/news/breaking-trump-vows-to-respond-after-iran-shot-down-us-helicopter/",
-   "summary": "\"Nevertheless, the United States must, of necessity, respond to this attack. Thank you for your attention to this matter!\" The post BREAKING: Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter first appeared on Mediaite .",
+   "summary": "\"Nevertheless, the United States must, of necessity, respond to this attack. Thank you for your attention to this matter!\" The post Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-09T17:03:27+00:00",
@@ -593,16 +773,6 @@
    "iran_topic": false
   },
   {
-   "id": "3ccb80e610ce",
-   "title": "Melania Trump is reading very strongly about AI",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuik77lm32q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:17:33.194+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "558b133b210c",
    "title": "I’m sorry did you think this was a take home test?",
    "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnuiiuv6ps26",
@@ -610,36 +780,6 @@
    "source": "@bradmossesq",
    "category": "trump_bsky",
    "published": "2026-06-09T15:16:48.868+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dbdac6de2cb8",
-   "title": "RASKIN: Dr King, you're asserting a lot of things under oath, and you haven't brought the evidence with you KING: I can get some for ya",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuif5esxp2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:14:43.424+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f425bf05f93",
-   "title": "you *almost* have to respect the shamelessness of a man who spends every waking moment subservient to donald j. trump saying these words",
-   "link": "https://bsky.app/profile/tomtomorrow.bsky.social/post/3mnuici232c2f",
-   "summary": "",
-   "source": "@tomtomorrow",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:13:14.069+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eb40d4e3a214",
-   "title": "out of absolutely nowhere, Alveda King during a House hearing starts talking about chopping off baby penises",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnui7dst7m26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:11:28.912+00:00",
    "iran_topic": false
   },
   {
@@ -653,66 +793,6 @@
    "iran_topic": false
   },
   {
-   "id": "eaa332129c6c",
-   "title": "John Thune goes full RINO: \"Frankly, you have to prove if there was cheating. And clearly that is something to in California or anywhere else for that matter.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuhuetqpa26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:05:20.899+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2312d3d4d181",
-   "title": "Senate Leader John Thune defends Markwayne Mullin's plan to shut down international flights to major Democratic cities: \"There is a high level of frustration at the sanctuary city policies ... we've got to do something\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuhrhc7b62d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:03:42.809+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "db3cde4ed4a1",
-   "title": "He's so close to getting it",
-   "link": "https://bsky.app/profile/darinself.com/post/3mnuhcrhei227",
-   "summary": "",
-   "source": "@darinself",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:55:30.201+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "22a628f69435",
-   "title": "GOP Rep. Carlos Gimenez: \"I'm starting to feel like we're Charlie Brown and Iran is Lucy, and every time we go to kick the ball it's taken away. 'We're close to a deal, we're 2 days from a deal, we're 3 days from a deal,' and it's not happening.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuhacpltf2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:54:07.569+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "539f4af6fa40",
-   "title": "Jim Jordan lies that the Southern Poverty Law Center \"coordinated\" the white nationalist riot in Charlottesville",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuh24r4s52f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:50:40.018+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8ac4cd17838c",
-   "title": "Fox News carries Raskin's entire opening statement in which he ticks through the Trump administration's egregious corruption and extremism",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnugmecrbm2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:42:58.164+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "61b23215803d",
    "title": "Democratic Senate Frontrunner Dodges Question on Deleted ‘Defund the Police’ Posts When Confronted by CNN",
    "link": "https://www.mediaite.com/media/tv/democratic-senate-frontrunner-dodges-question-on-deleted-defund-the-police-posts-when-confronted-by-cnn/",
@@ -720,16 +800,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-09T14:40:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "53bcdb2e9b3c",
-   "title": "OMG -- Fox News carries Raskin's opening statement during a hearing where he highlights the fraud that was Trump University and contrasts it with the SPLC",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnug5nak2n2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:34:44.212+00:00",
    "iran_topic": false
   },
   {
@@ -763,36 +833,6 @@
    "iran_topic": false
   },
   {
-   "id": "ed5473bc33f2",
-   "title": "You did not have “changes in the results”; there were no results to change, because the ballots were still being counted.",
-   "link": "https://bsky.app/profile/normative.bsky.social/post/3mnufucpetk2g",
-   "summary": "",
-   "source": "@normative",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:29:31.231+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "52fe066f867e",
-   "title": "RAJU: The president keep saying the California election was rigged. What evidence have you seen? SCALISE: You had wide changes after election night in the results R: They're just counting the ballots SCALISE: Look, whether you can prove fraud or not, it does undermine voter integrity in the vote",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnufp3zbgk2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T14:26:36.443+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a4c0a6ab86bc",
-   "title": "Basketbrawl: 21 Busted in Wild Fights on the Streets of NYC After Knicks-Spurs Game",
-   "link": "https://www.mediaite.com/media/sports/basketbrawl-21-busted-in-wild-fights-on-the-streets-of-nyc-after-knicks-spurs-game/",
-   "summary": "The basketball watch party for the Knicks-Spurs game turned into basketbrawl when a number of started fighting after the third NBA Finals game on Monday night The post Basketbrawl: 21 Busted in Wild Fights on the Streets of NYC After Knicks-Spurs Game first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T13:58:02+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "26e3d7c2743e",
    "title": "because of woke you cant even denigrate an entire nationality wholesale anymore without being called a racist",
    "link": "https://bsky.app/profile/ndrew.bsky.social/post/3mnudzsgxl22l",
@@ -800,46 +840,6 @@
    "source": "@ndrew",
    "category": "trump_bsky",
    "published": "2026-06-09T13:56:48.020+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "25a22b44e438",
-   "title": "Fox’s Brian Kilmeade Insists Trump Got a ‘Mixed’ Reaction From Crowd at Knicks Game: ‘Pretty Amazing’ He Had ‘About Half the Stadium’",
-   "link": "https://www.mediaite.com/media/tv/foxs-brian-kilmeade-insists-trump-got-a-mixed-reaction-from-crowd-at-knicks-game-pretty-amazing-he-had-about-half-the-stadium/",
-   "summary": "Brian Kilmeade stood up for President Trump on Tuesday morning's Fox &#038; Friends, insisting the commander in chief's reception at Madison Square Garden the night before was \"mixed\" despite thunderous booing. The post Fox’s Brian Kilmeade Insists Trump Got a ‘Mixed’ Reaction From Crowd at Knicks Game: ‘Pretty Amazing’ He Had ‘About Half the Stadium’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T13:31:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "97c5ab293920",
-   "title": "Trump Ally Loses It During Wild CNN Fracas: ‘Don’t Call Me a Liar on National TV!’",
-   "link": "https://www.mediaite.com/media/tv/trump-ally-loses-it-during-wild-cnn-fracas-dont-call-me-a-liar-on-national-tv/",
-   "summary": "Abby Phillip sided against an ally of President Donald Trump in a fracas that saw panelists accuse each other of being \"liars\" on the issue of election fraud. The post Trump Ally Loses It During Wild CNN Fracas: ‘Don’t Call Me a Liar on National TV!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T13:26:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b6cb48139e10",
-   "title": "Mark Levin Rips Trump for ‘Bashing’ Netanyahu and Being ‘Deeply Desperate’ to Strike Iran Deal",
-   "link": "https://www.mediaite.com/media/mark-levin-rips-trump-for-bashing-netanyahu-and-being-deeply-desperate-to-strike-iran-deal/",
-   "summary": "MAGA fan Mark Levin called out President Donald Trump for \"bashing\" Israeli Prime Minister Benjamin Netanyahu because he is \"desperate\" to cut an Iran deal The post Mark Levin Rips Trump for ‘Bashing’ Netanyahu and Being ‘Deeply Desperate’ to Strike Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T13:23:05+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b9453b0ffe2b",
-   "title": "Graham Platner’s Ex-Campaign Chief Unloads in Scorching Washington Post Op-Ed Ahead of Primary: ‘Enough is Enough’",
-   "link": "https://www.mediaite.com/media/news/graham-platners-ex-campaign-chief-unloads-in-scorching-washington-post-op-ed-ahead-of-primary-enough-is-enough/",
-   "summary": "McDonald warned Platner “shouldn’t be a US senator” in a blistering public takedown of her one-time boss published on the eve of Maine’s Democratic primary. The post Graham Platner’s Ex-Campaign Chief Unloads in Scorching Washington Post Op-Ed Ahead of Primary: ‘Enough is Enough’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T12:42:19+00:00",
    "iran_topic": false
   },
   {
