@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T00:19:46.306149+00:00",
+ "generated": "2026-06-09T02:52:46.482526+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.25,
-   "change": 1.16,
-   "change_pct": 1.25,
+   "price": 93.57,
+   "change": 0.48,
+   "change_pct": 0.52,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.25
+    93.56999969482422
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.24,
-   "change": 0.7,
-   "change_pct": 0.77,
+   "price": 90.61,
+   "change": 0.07,
+   "change_pct": 0.08,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    91.23999786376953
+    90.61000061035156
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4342.0,
-   "change": 4.9,
-   "change_pct": 0.11,
+   "price": 4361.0,
+   "change": 23.9,
+   "change_pct": 0.55,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4342.0
+    4361.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.04,
-   "change": -0.03,
-   "change_pct": -0.03,
+   "price": 99.97,
+   "change": -0.1,
+   "change_pct": -0.1,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.03800201416016
+    99.96700286865234
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.13,
-   "change": -0.09,
-   "change_pct": -2.91,
+   "price": 3.15,
+   "change": -0.08,
+   "change_pct": -2.38,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.134999990463257
+    3.1519999504089355
    ]
   }
  },
@@ -216,25 +216,25 @@
  ],
  "incidents": [
   {
-   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
-   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
+   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
+   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
    "source": "Press TV",
-   "published": "2026-06-09T00:18:43.015878+00:00",
-   "severity": "info"
+   "published": "2026-06-09T02:51:47.345051+00:00",
+   "severity": "low"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-09T00:18:43.014848+00:00",
+   "published": "2026-06-09T02:51:47.344945+00:00",
    "severity": "info"
   },
   {
-   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
-   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
+   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
+   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
    "source": "Press TV",
-   "published": "2026-06-09T00:18:43.013368+00:00",
-   "severity": "low"
+   "published": "2026-06-09T00:18:43.015878+00:00",
+   "severity": "info"
   },
   {
    "title": "US military helped Israel intercept Iran's missiles: What to know",
@@ -332,7 +332,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T00:18:43.014848+00:00",
+     "published": "2026-06-09T02:51:47.344945+00:00",
      "severity": "info"
     },
     {
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T00:18:43.014848+00:00",
+     "published": "2026-06-09T02:51:47.344945+00:00",
      "severity": "info"
     },
     {
@@ -404,6 +404,246 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1dcf6cafce93",
+   "title": "Trump \"blinking\" at the NBA Finals in MSG (Saul Loeb/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnt6cx6xbc2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T02:41:52.798+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c4aee8f79d1",
+   "title": "‘What a Dumbass’: Knicks Player’s Old Tweets Bashing Trump Go Viral Ahead of President’s Trip to MSG",
+   "link": "https://www.mediaite.com/media/sports/what-a-dumbass-knicks-players-old-tweets-bashing-trump-go-viral-ahead-of-presidents-trip-to-msg/",
+   "summary": "Two six-year-old tweets by New York Knicks player Josh Hart went viral ahead of Game 3 of the NBA Finals on Monday for his blunt views about President Donald Trump. The post ‘What a Dumbass’: Knicks Player’s Old Tweets Bashing Trump Go Viral Ahead of President’s Trip to MSG first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T02:02:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "92126b06f3d0",
+   "title": "Trump takes a long blink during the NBA Finals",
+   "link": "https://bsky.app/profile/meidastouch.com/post/3mnt3ytljus2j",
+   "summary": "",
+   "source": "@meidastouch",
+   "category": "trump_bsky",
+   "published": "2026-06-09T02:00:25.991+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6834e193422e",
+   "title": "Cruz: \"They don't care if he's a sexual predator. They just want power.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnt3dktdnb25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:48:32.114+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91ed8522b507",
+   "title": "Maddow Gleefully Dunks on Trump for Getting Booed During National Anthem: ‘Just Kinda Smiled Through It’",
+   "link": "https://www.mediaite.com/media/news/maddow-gleefully-dunks-on-trump-for-getting-booed-during-national-anthem-just-kinda-smiled-through-it/",
+   "summary": "MS NOW's Rachel Maddow could not get enough of New York Knicks fans booing President Donald Trump on Monday night. The post Maddow Gleefully Dunks on Trump for Getting Booed During National Anthem: ‘Just Kinda Smiled Through It’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T01:39:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "799c68150104",
+   "title": "DHS Secretary Markwayne Mullin claims Mamdani is \"absolutely destroying a great city\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnt2cdkkjn2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:29:57.188+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c6f6d08f44f",
+   "title": "Donald Trump called your wife ugly, your father a murderer, and you a pussy, and yet you lick his boots.",
+   "link": "https://bsky.app/profile/mattortega.com/post/3mnszpz5dw62x",
+   "summary": "",
+   "source": "@mattortega",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:19:41.500+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8f216801d33b",
+   "title": "There is going to be a lot of insufferable hand-wringing — I think mostly from anti-anti-Trump pundits — about how this is disrespectful to the Office of the Presidency and Ruining Sports With Politics. I know it’s annoying but those people have no other skills and have catamites to feed",
+   "link": "https://bsky.app/profile/kenwhite.bsky.social/post/3mnszolnc422v",
+   "summary": "",
+   "source": "@kenwhite",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:18:54.633+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bd612ef13279",
+   "title": "trump called cruz’s wife ugly and he just took it",
+   "link": "https://bsky.app/profile/rickywlmsbong.bsky.social/post/3mnsznjadn22j",
+   "summary": "",
+   "source": "@rickywlmsbong",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:18:18.557+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5892adae0072",
+   "title": "Tim Scott is on Hannity's show doing some over the top simping for Lindsey Graham ahead of his primary tomorrow. I didn't think Graham was in any trouble -- until just now.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnszmbvml52l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:17:37.251+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6fbb9577bf43",
+   "title": "Ted Cruz on Talarico: \"If you were making a list of 1,000 adjectives to describe this guy, 'masculine' would not be one of them. I mean, if a stiff breeze came by it would blow him over like a feather.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnszdtofq22m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:12:53.904+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2dcf9be9b98e",
+   "title": "the president, whose skin is visibly melting, is so beautiful and strong that it brings entire arenas to yell in unison",
+   "link": "https://bsky.app/profile/utopia-defer.red/post/3mnsz2p4s4c2m",
+   "summary": "",
+   "source": "@utopia-defer",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:07:47.198+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "af40167fcc0d",
+   "title": "granddaughter",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsyv722lk2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:04:42.558+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "538fcb0a8f40",
+   "title": "The Necromancer President.",
+   "link": "https://bsky.app/profile/thepines.bsky.social/post/3mnsytemkek2t",
+   "summary": "",
+   "source": "@thepines",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:03:41.295+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99f62657285d",
+   "title": "Trump, with his afflicted right hand visible, stands during the national anthem while at MSG for the NBA Finals (Saul Loeb/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsynxvads2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T01:00:40.175+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "42b430f0fea9",
+   "title": "Breaking on MS NOW: Donald Trump was just \"thunderously booed\" during the National Anthem at the NBA Finals in New York, according to the pool report. He was shown on the Jumbotron and then booed so much that the shot was taken down.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsy54vrfk2m",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:51:15.015+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e627942635e1",
+   "title": "Thank you to all in attendance for your service.",
+   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mnsy3loi7s26",
+   "summary": "",
+   "source": "@ohnoshetwitnt",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:50:23.396+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "325247bc024a",
+   "title": "dawg they booed through “The Star-Spangled Banner” to get to the president",
+   "link": "https://bsky.app/profile/ellenteapot.ca/post/3mnsxrlsod22e",
+   "summary": "",
+   "source": "@ellenteapot",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:44:47.989+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f293df28ca7",
+   "title": "Damn it doesn't get much clearer than that lolllll",
+   "link": "https://bsky.app/profile/thorbenson.bsky.social/post/3mnsxofq23s2g",
+   "summary": "",
+   "source": "@thorbenson",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:43:00.942+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3ec2721f8ac8",
+   "title": "Knicks Fans LOUDLY Boo Trump During National Anthem at Finals Game",
+   "link": "https://www.mediaite.com/media/sports/knicks-fans-boo-trump-during-national-anthem-at-finals-game/",
+   "summary": "President Donald Trump was showered with boos on Monday night at Madison Square Garden during Game 3 of the NBA Finals between the New York Knicks and the San Antonio Spurs. The post Knicks Fans LOUDLY Boo Trump During National Anthem at Finals Game first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T00:42:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "245995d322f2",
+   "title": "Trump, shown on camera during the national anthem, is booed loudly at MSG",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsxjxxz6n25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:40:32.252+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ec0ecd0d504c",
+   "title": "JD Vance says it's \"shady\" for California to count all of the legally cast ballots",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsxh57e2w2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:38:57.078+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "194cdae995bf",
+   "title": "JD Vance: \"I don't know why Democrats can't just find normal, well-adjusted candidates\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnsxfefzo325",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:37:57.526+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d14b6e16f47",
+   "title": "Trump’s Knicks Game Excursion Causes Chaos and Infuriates Fans Outside Madison Square Garden",
+   "link": "https://www.mediaite.com/media/sports/trumps-knicks-game-excursion-causes-chaos-and-infuriates-fans-outside-madison-square-garden/",
+   "summary": "President Donald Trump's plans to attend Monday night's NBA Finals game between the New York Knicks and the San Antonio Spurs have sparked a major security snafu and long lines. The post Trump’s Knicks Game Excursion Causes Chaos and Infuriates Fans Outside Madison Square Garden first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T00:22:45+00:00",
+   "iran_topic": false
+  },
   {
    "id": "c0745bf05c82",
    "title": "‘I Would Vote for a Doorknob Over Susan Collins’: Maine Voters Dismiss Controversies Surrounding GOP Senator’s Challenger",
@@ -525,16 +765,6 @@
    "iran_topic": false
   },
   {
-   "id": "91a00a0a6dfa",
-   "title": "There are many in the fallen world of American politics who are more mendacious, more corrupt, more self-aggrandizing. But no one -- and I mean no one -- is as empty, soulless and craven as this man.",
-   "link": "https://bsky.app/profile/audacityofdespair.bsky.social/post/3mnsljmlkkk2t",
-   "summary": "",
-   "source": "@audacityofdespair",
-   "category": "trump_bsky",
-   "published": "2026-06-08T21:05:35.467+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "575fb0da4ee9",
    "title": "\"everyone is twelve\" isn't even a theory anymore",
    "link": "https://bsky.app/profile/randballsstu.bsky.social/post/3mnslhnl2ac23",
@@ -555,26 +785,6 @@
    "iran_topic": false
   },
   {
-   "id": "49a054bd24c7",
-   "title": "the best evidence for voter fraud is ... that there is no evidence of fraud!",
-   "link": "https://bsky.app/profile/leahlitman.bsky.social/post/3mnsk45yes226",
-   "summary": "",
-   "source": "@leahlitman",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:40:10.209+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0677325efef4",
-   "title": "Live in performance at Greg Abbott's \"Tiny Desk Concert,\" the screwworm tribute band \"All Hat No Cattle.\"",
-   "link": "https://bsky.app/profile/markaldrich.bsky.social/post/3mnsjigc4ds2g",
-   "summary": "",
-   "source": "@markaldrich",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:29:07.827+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "cf47fb9773ec",
    "title": "AI Companies Blindsided By Trump Planning For Government to Acquire Equity in Their Firms: Report",
    "link": "https://www.mediaite.com/media/news/ai-companies-blindsided-by-trump-planning-for-government-to-acquire-equity-in-their-firms-report/",
@@ -585,46 +795,6 @@
    "iran_topic": false
   },
   {
-   "id": "2a33b44bfe7f",
-   "title": "Q: The USDA has seen a large reduction in force during the Trump administration. Has that impacted the work you're doing on screwworm? ROLLINS: There has been zero impact to this mission area based on that reduction in force. In fact, I think the work accelerated significantly when we came on board",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsj7oyejs2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:24:14.954+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5196a607579f",
-   "title": "No. There’s limits. We’re not doing Jan 6th for Spencer Pratt. Stop. Get help.",
-   "link": "https://bsky.app/profile/gravitysra1nbow.bsky.social/post/3mnsj5hhhg22p",
-   "summary": "",
-   "source": "@gravitysra1nbow",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:22:59.952+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bc8bf05870ff",
-   "title": "Everyone knows instinctively that Mike Johnson is a corrupt puppet of the Trump administration too, so can we just get rid of him on vague vibes?",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mnsiqscx5s2u",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:15:55.132+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d845ae24243",
-   "title": "Mike Johnson just literally admitted this whole thing was vibes lol",
-   "link": "https://bsky.app/profile/coachfinstock.bsky.social/post/3mnsib2iafk22",
-   "summary": "",
-   "source": "@coachfinstock",
-   "category": "trump_bsky",
-   "published": "2026-06-08T20:07:06.822+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "ec4c3ad87b05",
    "title": "UFC Boss Dana White Makes Wildly Optimistic Prediction About White House Fight Card: ‘We’re Expecting Super Bowl-Type Numbers’",
    "link": "https://www.mediaite.com/opinion/ufc-boss-dana-white-makes-wildly-optimistic-prediction-about-white-house-fight-card-were-expecting-super-bowl-type-numbers/",
@@ -632,36 +802,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-08T20:06:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8c973ca93b7d",
-   "title": "Johnson: Gerrymandering states to remove Black majority districts is just representation Also Johnson: The lack of evidence of fraud in an election is sufficient evidence of a conspiracy in blue states.",
-   "link": "https://bsky.app/profile/darinself.com/post/3mnshsbelnk2q",
-   "summary": "",
-   "source": "@darinself",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:58:50.726+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "adb5411942c4",
-   "title": "RAJU: But what evidence is there to prove the California election is rigged? MIKE JOHNSON: Look, some of these efforts are so diabolical and so far upstream it's impossible to prove. But I think everybody knows instinctively that something is wrong here.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnshnuei322h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:56:22.798+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1475bd22f953",
-   "title": "NEWSNATION: You don't the president deserves any blame for Americans not trusting elections? He talks all the time about elections being rigged RON JOHNSON: Hillary Clinton was the first election denier. President Trump was tormented on a Russian collusion hoax. I can understand how he's frustrated",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsher4tqk2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:51:16.914+00:00",
    "iran_topic": false
   },
   {
@@ -682,16 +822,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-08T19:50:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "41eb42b39628",
-   "title": "NEWSNATION: Trump has never had any evidence of rigged elections. Do you side with him? RON JOHNSON: There is so much evidence of irregularities in the 2020 election NN: There's never been anything proven at scale JOHNSON: People who do things cover it up NN: But why not present the evidence?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnshag7u6p2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:48:51.768+00:00",
    "iran_topic": false
   },
   {
@@ -735,16 +865,6 @@
    "iran_topic": false
   },
   {
-   "id": "88ee43c83909",
-   "title": "All the attention on the screwworm is making RFK Jr.'s brainworm jealous.",
-   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mnsg4vth2c2p",
-   "summary": "",
-   "source": "@missingthept",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:29:00.245+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "cbdea97bbb9a",
    "title": "Whoopi Goldberg Delivers an Extremely Rare Defense of Trump — Supports Him Going to Knicks Game: ‘He’s a Knicks Fan!’",
    "link": "https://www.mediaite.com/media/news/whoopi-goldberg-delivers-an-extremely-rare-defense-of-trump-supports-him-going-to-knicks-game-hes-a-knicks-fan/",
@@ -752,16 +872,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-08T19:22:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "19cc74f9d2de",
-   "title": "RFK Jr and his cronies refuse to take a question about screwworm during a press conference",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsfjay5u72r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T19:18:00.780+00:00",
    "iran_topic": false
   },
   {
@@ -795,96 +905,6 @@
    "iran_topic": false
   },
   {
-   "id": "c6ff6821e1c9",
-   "title": "Jeffries: \"It's not clear to me that Donald Trump is a big Knicks fan. I mean, does this guy even know the difference between Karl Rove and Karl Anthony Towns? I don't think so. He's just injecting himself.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsdgxpuv72r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T18:40:56.476+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1a8c86a5308b",
-   "title": "President Trump says it would be safer for him if Game 3 of the NBA Finals were held in his ballroom.",
-   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mnsd3lwxys2a",
-   "summary": "",
-   "source": "@missingthept",
-   "category": "trump_bsky",
-   "published": "2026-06-08T18:34:35.096+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "504d36734954",
-   "title": "Trump’s Ex-Border Chief Greg Bovino Reportedly Eyeing 2028 White House Run With Slogan, ‘Men Fight Back’",
-   "link": "https://www.mediaite.com/media/news/trumps-ex-border-chief-greg-bovino-reportedly-eyeing-2028-white-house-run-with-slogan-men-fight-back/",
-   "summary": "Former Border Patrol chief Greg Bovino reportedly has his sights set on a higher office after his departure from the agency. The post Trump’s Ex-Border Chief Greg Bovino Reportedly Eyeing 2028 White House Run With Slogan, ‘Men Fight Back’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T18:33:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8713c78b11eb",
-   "title": "Hakeem Jeffries is wearing a Knicks hat during his presser",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnscniacjm2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T18:26:41.371+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "695c53ca084d",
-   "title": "The biggest story in America is a president who has completely lost touch with reality. Who thinks the FBI let all the January 6 rioters into the Capitol, that he really won the 2020 election, that the Iran War is going well. Who, when occasionally confronted w reality, panics.",
-   "link": "https://bsky.app/profile/chrismurphyct.bsky.social/post/3mnsce46ggk2w",
-   "summary": "",
-   "source": "@chrismurphyct",
-   "category": "trump_bsky",
-   "published": "2026-06-08T18:21:26.811+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "fb56aa5fc099",
-   "title": "Michael Avenatti Scolds Sam Bankman-Fried for His ‘Refusal to Accept ANY Responsibility’ as He Pushes for a Trump Pardon (Yes, Really)",
-   "link": "https://www.mediaite.com/politics/michael-avenatti-scolds-sam-bankman-fried-for-his-refusal-to-accept-any-responsibility-as-he-pushes-for-a-trump-pardon-yes-really/",
-   "summary": "Michael Avenatti slammed his prison bunkmate Sam Bankman-Fried for wanting a pardon, saying he has not accepted \"ANY\" responsibility for his crimes The post Michael Avenatti Scolds Sam Bankman-Fried for His ‘Refusal to Accept ANY Responsibility’ as He Pushes for a Trump Pardon (Yes, Really) first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T18:19:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d968248d3a4",
-   "title": "Willie Brown Throws His Ex Under the Bus, Predicts Gavin Newsom Would Beat ‘Recent Loser’ Kamala Harris in 2028 Showdown",
-   "link": "https://www.mediaite.com/media/news/willie-brown-throws-his-ex-under-the-bus-predicts-gavin-newsom-would-beat-recent-loser-kamala-harris-in-2028-showdown/",
-   "summary": "Willie Brown threw Kamala Harris under the bus while discussing a prospective Democratic presidential primary showdown between herself and Gavin Newsom. The post Willie Brown Throws His Ex Under the Bus, Predicts Gavin Newsom Would Beat ‘Recent Loser’ Kamala Harris in 2028 Showdown first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T18:16:06+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "add0e3a1ed60",
-   "title": "isn't there a martial arts brawl somewhere tonight in Tuscaloosa that the president would enjoy more than attending his first NBA game in 30 years?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsbp77ix22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-08T18:09:45.348+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5ec5cf22c6bb",
-   "title": "Mark Levin Nukes Steve Bannon, Demands to Know Where His Epstein Videotapes Are",
-   "link": "https://www.mediaite.com/media/news/mark-levin-nukes-steve-bannon-demands-to-know-where-his-epstein-videotapes-are/",
-   "summary": "Conservative commentator and Fox News host Mark Levin attacked Steve Bannon on Monday, questioning why he had yet to release recordings of his interview with convicted sex offender Jeffrey Epstein. The post Mark Levin Nukes Steve Bannon, Demands to Know Where His Epstein Videotapes Are first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T18:05:20+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2aae23a2ea0b",
    "title": "Reuters: US JUDGE STRIKES DOWN PRESIDENT TRUMP'S $100,000 H-1B VISA FEE - COURT RULING",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsawkr6tc2h",
@@ -892,26 +912,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-08T17:55:58.602+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fa37766ae2df",
-   "title": "Reminder: Trump’s own lackey has had to shut down right-wing conspiracy theories. And Trump’s own party isn’t playing into the conspiracy theory outrage machine either.",
-   "link": "https://bsky.app/profile/govpressoffice.gov.ca.gov/post/3mns4qti3jk2v",
-   "summary": "",
-   "source": "@govpressoffice",
-   "category": "trump_bsky",
-   "published": "2026-06-08T16:41:11.442+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "84686abfc224",
-   "title": "No amount of repetition makes a lie a truth. Every single case attempting to overturn the 2020 election was overturned, dismissed, or dropped, even by Trump-appointed judges.",
-   "link": "https://bsky.app/profile/levin.house.gov/post/3mns2u5nqrc2q",
-   "summary": "",
-   "source": "@levin",
-   "category": "trump_bsky",
-   "published": "2026-06-08T16:07:15.297+00:00",
    "iran_topic": false
   },
   {
