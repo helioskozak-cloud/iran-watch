@@ -1,98 +1,98 @@
 {
- "generated": "2026-06-09T19:49:23.164632+00:00",
+ "generated": "2026-06-09T21:45:31.981987+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.49,
-   "change": -2.76,
-   "change_pct": -2.93,
+   "price": 91.83,
+   "change": -2.42,
+   "change_pct": -2.57,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    91.48999786376953
+    91.83000183105469
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.19,
-   "change": -3.11,
-   "change_pct": -3.41,
+   "price": 88.7,
+   "change": -2.6,
+   "change_pct": -2.85,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    88.19000244140625
+    88.69999694824219
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4279.0,
-   "change": -56.9,
-   "change_pct": -1.31,
+   "price": 4284.8,
+   "change": -51.1,
+   "change_pct": -1.18,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4279.0
+    4284.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.96,
-   "change": -0.09,
-   "change_pct": -0.09,
+   "price": 99.99,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.95999908447266
+    99.98999786376953
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7343.09,
-   "change": -62.64,
-   "change_pct": -0.85,
+   "price": 7386.65,
+   "change": -19.08,
+   "change_pct": -0.26,
    "spark": [
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
     7405.72998046875,
-    7343.08984375
+    7386.64990234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 131.43,
-   "change": -3.71,
-   "change_pct": -2.75,
+   "price": 131.3,
+   "change": -3.85,
+   "change_pct": -2.85,
    "spark": [
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
     135.14999389648438,
-    131.43499755859375
+    131.3000030517578
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.02,
-   "change": 1.1,
-   "change_pct": 5.81,
+   "price": 19.87,
+   "change": 0.95,
+   "change_pct": 5.02,
    "spark": [
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    20.020000457763672
+    19.8700008392334
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.14,
    "change": -0.01,
-   "change_pct": -0.25,
+   "change_pct": -0.29,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.1389999389648438
+    3.138000011444092
    ]
   }
  },
@@ -216,6 +216,76 @@
  ],
  "incidents": [
   {
+   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+   "source": "Press TV",
+   "published": "2026-06-09T21:44:34.806327+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
+   "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
+   "source": "Press TV",
+   "published": "2026-06-09T21:44:34.805333+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US striking Iran in response to downing of helicopter, military says",
+   "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-09T21:43:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
+   "link": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
+   "source": "USNI News",
+   "published": "2026-06-09T21:31:22+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump (Updated)",
+   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
+   "source": "The Drive",
+   "published": "2026-06-09T21:29:25+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation",
+   "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
+   "source": "Times of Israel",
+   "published": "2026-06-09T21:18:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-09T21:17:31+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Iran says it didn't deliberately target US chopper over Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u1hn0j/iran_says_it_didnt_deliberately_target_us_chopper/",
+   "source": "r/worldnews",
+   "published": "2026-06-09T20:58:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Two shaheds drones collided mid-air above Ukraine",
+   "link": "https://www.reddit.com/r/CombatFootage/comments/1u1hmfs/two_shaheds_drones_collided_midair_above_ukraine/",
+   "source": "r/CombatFootage",
+   "published": "2026-06-09T20:57:41+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran shoots down US attack helicopter trespassing over the Strait, and the US invaders are hesitating to retaliate",
+   "link": "https://www.reddit.com/r/iran/comments/1u1h5cf/iran_shoots_down_us_attack_helicopter_trespassing/",
+   "source": "r/Iran",
+   "published": "2026-06-09T20:40:09+00:00",
+   "severity": "high"
+  },
+  {
    "title": "The repricing of Iran: Why the Persian Gulf’s economic future runs through Tehran - opinion",
    "link": "https://www.jpost.com/opinion/article-898821",
    "source": "Jerusalem Post",
@@ -237,13 +307,6 @@
    "severity": "high"
   },
   {
-   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-   "source": "Press TV",
-   "published": "2026-06-09T19:48:18.651575+00:00",
-   "severity": "info"
-  },
-  {
    "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will 'continue to rise' reut.rs/4uAZ5HO",
    "link": "https://bsky.app/profile/reuters.com/post/3mnuxj22cyr26",
    "source": "@reuters",
@@ -256,97 +319,34 @@
    "source": "The Drive",
    "published": "2026-06-09T19:40:43+00:00",
    "severity": "info"
-  },
-  {
-   "title": "In apparent first, Navy drone boat rescues helicopter crew downed at sea",
-   "link": "https://www.defenseone.com/defense-systems/2026/06/apparent-first-navy-drone-boat-rescues-helicopter-crew-downed-sea/414066/",
-   "source": "Defense One",
-   "published": "2026-06-09T19:09:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump",
-   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
-   "source": "The Drive",
-   "published": "2026-06-09T17:42:31+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "US sea drone rescues crew from US Army helicopter that crashed near Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-sea-drone-rescues-crew-us-army-helicopter-crashed-near-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-09T17:36:38+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Trump Says Iran Shot Down U.S. Army Helicopter Over Strait of Hormuz, Vows to Respond",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u1boum/trump_says_iran_shot_down_us_army_helicopter_over/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T17:25:48+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Trump blames Iran for helicopter attack, says US must respond",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-blames-iran-helicopter-attack-says-us-must-respond",
-   "source": "Al-Monitor",
-   "published": "2026-06-09T17:01:44+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "BREAKING: President Trump says Iran was responsible for downing a U.S. helicopter near the Strait of Hormuz and that the U.S. \"must\" respond.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mnuo3mk2v62z",
-   "source": "@apnews",
-   "published": "2026-06-09T16:56:46+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
-   "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-09T16:54:15+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Trump says U.S. must ‘respond’ after Iran shoots down helicopter over Hormuz Strait",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u1akg1/trump_says_us_must_respond_after_iran_shoots_down/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T16:47:29+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Army attack helicopter crashes near Straight of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u19z37/us_army_attack_helicopter_crashes_near_straight/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T16:26:29+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 11,
+   "status": "ACTIVE",
+   "incident_count": 8,
    "recent": [
-    {
-     "title": "The repricing of Iran: Why the Persian Gulf’s economic future runs through Tehran - opinion",
-     "link": "https://www.jpost.com/opinion/article-898821",
-     "source": "Jerusalem Post",
-     "published": "2026-06-09T20:00:00+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
-     "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
-     "source": "Press TV",
-     "published": "2026-06-09T19:48:18.652232+00:00",
-     "severity": "high"
-    },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T19:48:18.651575+00:00",
+     "published": "2026-06-09T21:44:34.806327+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
+     "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
+     "source": "Press TV",
+     "published": "2026-06-09T21:44:34.805333+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation",
+     "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
+     "source": "Times of Israel",
+     "published": "2026-06-09T21:18:43+00:00",
      "severity": "info"
     }
    ]
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T19:48:18.651575+00:00",
+     "published": "2026-06-09T21:44:34.806327+00:00",
      "severity": "info"
     }
    ]
@@ -382,6 +382,286 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "24c4c67661a8",
+   "title": "Trump thinks Iran deal ‘still close’ despite retaliatory strikes over downed helicopter",
+   "link": "https://www.politico.com/news/2026/06/09/trump-thinks-iran-deal-still-close-despite-retaliatory-strikes-over-downed-helicopter-00955250",
+   "summary": "The president has sporadically threatened additional military action since taking out Iran’s leadership in February, but has avoided full-scale attacks.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-09T21:44:56+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5ec3319e0625",
+   "title": "WH Attacks Washington Post Report On Handing Over Press Credentialing For UFC Event",
+   "link": "https://www.mediaite.com/media/news/wh-attacks-washington-post-report-on-handing-over-press-credentialing-for-ufc-event/",
+   "summary": "The White House is disputing a Washington Post report that Dana White's UFC will handle all press credentialing for the upcoming Freedom250 fight. The post WH Attacks Washington Post Report On Handing Over Press Credentialing For UFC Event first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T21:39:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c5f9aa75cb6",
+   "title": "Jaw-Dropping Reports Show Trump Family Cashing In Big On World Cup, WH UFC Event",
+   "link": "https://www.mediaite.com/politics/jaw-dropping-reports-show-trump-family-cashing-in-big-on-world-cup-wh-ufc-event/",
+   "summary": "The Trump family is cashing in on the UFC &#8220;Freedom 250&#8221; event at the White House this month by selling $12,000 &#8220;landmark&#8221; gold coins commemorating the MMA fights. And at the same time, the Trump organization has been getting paid by the organization behind the World Cup. HuffPost spotted the new medallions being hawked on RealTrumpCoins.com [&#8230;] The post Jaw-Dropping Reports Show Trump Family Cashing In Big On World Cup, WH UFC Event first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T21:22:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cbc29fed644d",
+   "title": "Chuck Todd Says He’d Bet on the 2028 GOP Nominee Being ‘Somebody With the Last Name of Trump’",
+   "link": "https://www.mediaite.com/media/podcasts/chuck-todd-says-hed-bet-on-the-2028-gop-nominee-being-somebody-with-the-last-name-of-trump/",
+   "summary": "Chuck Todd reacted to a betting site naming Vice President JD Vance as the most likely successor to President Donald Trump by sharing his own prediction. The post Chuck Todd Says He’d Bet on the 2028 GOP Nominee Being ‘Somebody With the Last Name of Trump’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T21:06:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a7782cb11171",
+   "title": "LIV Golf Boss Flustered When CNBC Host Puts Him on the Spot About Whether Remaining 2026 Events Will Be Played",
+   "link": "https://www.mediaite.com/media/sports/liv-golf-boss-flustered-when-cnbc-host-puts-him-on-the-spot-about-whether-remaining-2026-events-will-be-played/",
+   "summary": "The CEO of LIV Golf was put on the spot Tuesday by a CNBC host who asked him about reports that the league may not have the money to finish the season. The post LIV Golf Boss Flustered When CNBC Host Puts Him on the Spot About Whether Remaining 2026 Events Will Be Played first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:57:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f5e54b83af4",
+   "title": "Inside Mamdani aide’s private budget briefing for the DSA",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/09/inside-mamdani-aides-private-budget-briefing-for-the-dsa-00954884",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-09T20:56:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "75e52fc68d25",
+   "title": "whoa, man [pauses for deep bong hit] totally",
+   "link": "https://bsky.app/profile/kevinrothrock.me/post/3mnv3fgxkm22q",
+   "summary": "",
+   "source": "@kevinrothrock",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:54:54.696+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "81dde850fb91",
+   "title": "Epstein’s Exec Assistant Told Lawmakers She Arranged Calls Between Trump and Epstein ‘About Once a Quarter’ Before Their Falling-Out",
+   "link": "https://www.mediaite.com/media/news/epsteins-exec-assistant-told-lawmakers-she-arranged-calls-between-trump-and-epstein-about-once-a-quarter-before-their-falling-out/",
+   "summary": "Jeffrey Epstein's longtime executive assistant told the House Oversight Committee Tuesday that she regularly arranged phone calls between Trump and Epstein. The post Epstein’s Exec Assistant Told Lawmakers She Arranged Calls Between Trump and Epstein ‘About Once a Quarter’ Before Their Falling-Out first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:54:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e21d92546054",
+   "title": "BREAKING: US Bombs Iran In Retaliation For Downed Apache Helicopter",
+   "link": "https://www.mediaite.com/politics/us-iran-bombs-retaliation-apache-helicopter/",
+   "summary": "Trump said on Tuesday that Iran shooting down a U.S. Apache helicopter on Monday night “wasn’t a big deal” – just hours after vowing to “respond.” The post BREAKING: US Bombs Iran In Retaliation For Downed Apache Helicopter first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:52:23+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "68df8dedf14d",
+   "title": "\"Trump sought to play down the helicopter incident, saying that it 'wasn’t a big deal' and stressing that 'the pilot is fine.' The Apache crew spent two hours in the water as darkness fell. One senior US official described the crew’s escape from the downed aircraft as a 'hand of God' moment.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnv35kbhps2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:50:29.731+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f1068db85199",
+   "title": "JD Vance: \"The deal could happen in the next week, but the deal could also happen months from now\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnv343lruk2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:49:40.787+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "382732271792",
+   "title": "Vanilla Ice Doesn’t Want Entertainers Sharing Their Anti-Trump Takes: ‘Stay In Your Lane’",
+   "link": "https://www.mediaite.com/media/vanilla-ice-doesnt-want-entertainers-sharing-their-anti-trump-takes-stay-in-your-lane/",
+   "summary": "Vanilla Ice offered some free advice to entertainers who share their political takes — including their hatred for President Donald Trump: \"Stay in your lane.\" The post Vanilla Ice Doesn’t Want Entertainers Sharing Their Anti-Trump Takes: ‘Stay In Your Lane’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:37:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "397ccaf01915",
+   "title": "Quiet part out loud",
+   "link": "https://bsky.app/profile/brendannyhan.bsky.social/post/3mnv24vcjt22r",
+   "summary": "",
+   "source": "@brendannyhan",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:32:14.005+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d193a9ae9d8",
+   "title": "This is not ok. This is the stuff that makes societies unravel and devolve into chaos. Everyone partaking in this should be treated like a traitor. These are not Americans.",
+   "link": "https://bsky.app/profile/tedcruznipples.com/post/3mnv22mhbac2h",
+   "summary": "",
+   "source": "@tedcruznipples",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:30:57.614+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7ae1e2878f20",
+   "title": "hate it when Iran accidentally shoots down my Apache helicopter",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuzzugsg22p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:30:32.432+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "bc4a111b3ef4",
+   "title": "CNN Counts the Eye-Popping Amount of Times Trump Has Claimed Iran Deal Is Close",
+   "link": "https://www.mediaite.com/media/news/cnn-counts-the-eye-popping-amount-of-times-trump-has-claimed-iran-deal-is-close/",
+   "summary": "\"Yeah, and I'm really glad somebody finally took the time to count out how many times, because it felt like we were saying it every single day.\" The post CNN Counts the Eye-Popping Amount of Times Trump Has Claimed Iran Deal Is Close first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:29:08+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3213f20290b1",
+   "title": "The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda",
+   "link": "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/",
+   "summary": "After four years of Democrats’ dangerous open-border policies that fueled chaos and lawlessness across the country, President Trump has delivered the most secure border in history, with illegal crossings dropping to record lows—just as he promised. In spite of President Trump’s successes that have made our communities safer and crime drop to generational lows, congressional [&#8230;] The post The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-09T20:26:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "561e61123b64",
+   "title": "BREAKING MS NOW: ICE has detained over 500 babies and toddlers under Trump. On an average day, ICE has 25 children aged 3 or younger in custody, according to joint research by MS NOW and The Marshall Project.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnuzhm2vwk26",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:20:19.674+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0f2cf2df52e4",
+   "title": "Sen. Dave McCormick: \"We don't know whether there is an actual path to a deal. I assume there is. I think the president is probably closing in on what he thinks is a good deal.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuzc4pmyp2i",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:17:15.723+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "993656061d92",
+   "title": "Coming back from my 3rd bathroom trip after my 5th JnC",
+   "link": "https://bsky.app/profile/theupgrade.bsky.social/post/3mnuz3dpoe22z",
+   "summary": "",
+   "source": "@theupgrade",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:13:28.264+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "06d717ebb3d3",
+   "title": "Trump Border Czar Spars With Reporter Outside the WH Over Whether Or Not He’s ‘Punishing’ New York",
+   "link": "https://www.mediaite.com/media/news/trump-border-czar-spars-with-reporter-outside-the-wh-over-whether-or-not-hes-punishing-new-york/",
+   "summary": "Tom Homan took reporter questions outside the White House on Tuesday that centered on his threat to send a \"surge\" of ICE agents into New York. The post Trump Border Czar Spars With Reporter Outside the WH Over Whether Or Not He’s ‘Punishing’ New York first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:12:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c91383117b27",
+   "title": "jeez louise I've seen guys with BACs three times the legal limit on the roadside pull it together more convincingly than this",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuyy3cq722p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:11:38.788+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "284f40d0b2ce",
+   "title": "Rep. Ansari on Epstein assistant: \"She said she set up calls with Donald Trump before their alleged fallout about once a quarter\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuynk2zax2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:05:45.117+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3a89f19822de",
+   "title": "Republican Lawmaker Presses SPLC Boss On Whether Graham Platner’s Nazi Tattoo Should DQ Him From Senate",
+   "link": "https://www.mediaite.com/politics/republican-lawmaker-presses-splc-boss-on-whether-graham-platners-nazi-tattoo-should-dq-him-from-senate/",
+   "summary": "Rep. Brandon Gill pressed SPLC interim CEO Bryan Fair on whether Maine Senate candidate Graham Platner (D) should be disqualified from holding public office The post Republican Lawmaker Presses SPLC Boss On Whether Graham Platner’s Nazi Tattoo Should DQ Him From Senate first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T20:05:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0be1eb66da87",
+   "title": "Axios: \"If Paramount Skydance's deal with Warner Bros. Discovery goes through, Bari Weiss would oversee all news editorial across both CBS News and CNN.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnuyizzvzk2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T20:03:14.135+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ef7cf23fce14",
+   "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
+   "summary": "On Tuesday, June 9, 2026, the President signed into law: H.R. 3490, the &#8220;Gerald E. Connolly Esophageal Cancer Awareness Act of 2025,&#8221; which requires the Government Accountability Office to produce a report on esophageal cancer; and S. 2393, the &#8220;Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act,&#8221; which authorizes a major medical facility [&#8230;] The post Congressional Bills H.R. 3490 and S. 2393 Signed into Law appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-09T20:01:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "77ed4139297c",
+   "title": "McConnell Warns Trump Admin Defense Budget Will Put ‘Key Priorities at Unnecessary Risk’",
+   "link": "https://www.mediaite.com/media/news/mcconnell-warns-trump-admin-defense-budget-will-put-key-priorities-at-unnecessary-risk/",
+   "summary": "Sen. Mitch McConnell (R-KY) was highly critical of the Trump administration's defense budget request, shredding it during a committee hearing as putting \"key priorities at unnecessary risk\" of \"major disruptions.\" The post McConnell Warns Trump Admin Defense Budget Will Put ‘Key Priorities at Unnecessary Risk’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T19:58:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6b44a152e345",
+   "title": "This is one reason I get so mad at media coverage of elections that treats them like sporting events. The whole \"pulled ahead\" type language gives the conspiracy theorists someting to seize upon.",
+   "link": "https://bsky.app/profile/gravelinfluencer.bsky.social/post/3mnuxiwxlek2z",
+   "summary": "",
+   "source": "@gravelinfluencer",
+   "category": "trump_bsky",
+   "published": "2026-06-09T19:45:17.170+00:00",
+   "iran_topic": false
+  },
   {
    "id": "913aa7f24300",
    "title": "whether you can prove fraud or not jfc",
@@ -543,16 +823,6 @@
    "iran_topic": false
   },
   {
-   "id": "fe6f62dac423",
-   "title": "Thune on if he's worried that Trump will criticize him if he doesn't do what he wants: \"That could happen\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnut54jeed2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:27:05.327+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "ab98fa0eaaf1",
    "title": "CNN Liberals Bust Out Laughing As Trump Allies Brawl With Each Other Over War: ‘Get Some Popcorn!’",
    "link": "https://www.mediaite.com/media/tv/cnn-libs-bust-out-laughing-as-trump-allies-brawl-over-war-dont-interrupt/",
@@ -583,16 +853,6 @@
    "iran_topic": false
   },
   {
-   "id": "7d51601b4baf",
-   "title": "Trump yesterday claimed we were days away from deal -- now we're back to threatening to blow up Iran. The cycle of derp continues.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnupfri2322p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T17:20:20.821+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "0d1b4b7e1ce0",
    "title": "‘The Brother Wasn’t Awake!’ Stephen A. Smith Goes OFF on Trump for Attacking Him After Knicks Loss",
    "link": "https://www.mediaite.com/media/sports/the-brother-wasnt-awake-stephen-a-smith-goes-off-on-trump-for-attacking-him-after-knicks-loss/",
@@ -600,16 +860,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-09T17:08:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bd547dd1b631",
-   "title": "@paulwaldman.bsky.social: \"Despite the harm to the American economy, the Trump administration doesn’t seem to care; in fact, one sometimes gets the sense they’d be happy if nobody ever came to our shores.\" 🧾 A noxious orange cloud looms over the World Cup open.substack.com/pub/aaronrup...",
-   "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3mnuonuxgvt2e",
-   "summary": "",
-   "source": "@pamspaulding",
-   "category": "trump_bsky",
-   "published": "2026-06-09T17:06:59.163+00:00",
    "iran_topic": false
   },
   {
@@ -623,63 +873,13 @@
    "iran_topic": true
   },
   {
-   "id": "431d4242f64f",
-   "title": "Here’s Who Trump Brought with Him to the NBA Finals",
-   "link": "https://www.mediaite.com/politics/heres-who-trump-brought-with-him-to-the-nba-finals/",
-   "summary": "President Donald Trump attended Game 3 of the NBA Finals, and he brought with him an entourage composed of family and a few key members of his cabinet. The post Here’s Who Trump Brought with Him to the NBA Finals first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T16:25:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "36d243ed7997",
-   "title": "Jerry Seinfeld Dishes to Pro-Trump Podcaster Adam Carolla On How ‘Fired Up’ Larry David Gets About Politics",
-   "link": "https://www.mediaite.com/media/news/jerry-seinfeld-dishes-to-pro-trump-podcaster-adam-carolla-on-how-fired-up-larry-david-gets-about-politics/",
-   "summary": "If you are like Adam Carolla and wonder if Larry David gets pretty \"fired up\" about politics, Jerry Seinfeld confirmed that is indeed the case. The post Jerry Seinfeld Dishes to Pro-Trump Podcaster Adam Carolla On How ‘Fired Up’ Larry David Gets About Politics first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T16:25:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0be1a5e392ef",
-   "title": "\"The soccer will surely be exciting and the international rivalries intense, but Trump will hover over the event like a noxious cloud, turning things sour wherever his influence is felt. He may not manage to ruin it completely, but he’ll make it worse in every way he can.\" — @paulwaldman.bsky.social",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnulsc6jp22p",
+   "id": "4c81034df8a5",
+   "title": "Can Donald Trump ruin the World Cup? He's sure giving it his best shot. My latest at Public Notice: www.publicnotice.co/p/world-cup-...",
+   "link": "https://bsky.app/profile/paulwaldman.bsky.social/post/3mnulmeufds27",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@paulwaldman",
    "category": "trump_bsky",
-   "published": "2026-06-09T16:15:46.020+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2af36da71355",
-   "title": "GOP Congressman Calls Out Trump’s Stalled Iran Peace Talks: Feels Like ‘We’re Charlie Brown’ Kicking the Football",
-   "link": "https://www.mediaite.com/media/tv/gop-congressman-calls-out-trumps-stalled-iran-peace-talks-feels-like-were-charlie-brown-kicking-the-football/",
-   "summary": "Republican Congressman Carlos Gimenez has appeared to have lost his patience with the Trump administration's peace talks with Iran, telling Fox Business anchor Stuart Varney on Tuesday that \"I'm starting to feel like we're Charlie Brown\" and Iran keeps pulling back the football. The post GOP Congressman Calls Out Trump’s Stalled Iran Peace Talks: Feels Like ‘We’re Charlie Brown’ Kicking the Football first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T16:09:59+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f8aaf1a43fe0",
-   "title": "Fox’s Trey Yingst Reports Shocking Details On Unprecedented Rescue of Downed Apache Helicopter Pilots",
-   "link": "https://www.mediaite.com/media/tv/foxs-trey-yingst-reports-shocking-details-on-unprecedented-rescue-of-downed-apache-helicopter-pilots/",
-   "summary": "\"Now, it's not clear if the gunship went down due to enemy fire or a mechanical issue.\" The post Fox’s Trey Yingst Reports Shocking Details On Unprecedented Rescue of Downed Apache Helicopter Pilots first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T15:59:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0927843f10b1",
-   "title": "HUD Secretary Scott Turner claims \"illegals\" are \"taking homes from the American people\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnukpt42yo2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:56:28.439+00:00",
+   "published": "2026-06-09T16:12:27.506+00:00",
    "iran_topic": false
   },
   {
@@ -693,156 +893,6 @@
    "iran_topic": false
   },
   {
-   "id": "5b5468c0c054",
-   "title": "US ATTORNEY ESSAYLI: Is there enough fraud to sway an election? We don't know CUOMO: No ESSAYLI: You can't say 'no.' You haven't done an investigation CUOMO: I've covered elections for 30 years. You know how many cases of widespread fraud I covered? One! And it was the Trump administration",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnukg56mfi2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:51:04.335+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69834018094c",
-   "title": "‘You’re Not Happy’: Fox Biz Anchor’s Question on China Stops Trump Trade Adviser In His Tracks",
-   "link": "https://www.mediaite.com/media/youre-not-happy-fox-biz-anchors-question-on-china-stops-trump-trade-adviser-in-his-tracks/",
-   "summary": "Trump trade adviser Peter Navarro didn't want to talk about the administration's decision to sell AI chips to Chinese firms when Fox Business asked him about it The post ‘You’re Not Happy’: Fox Biz Anchor’s Question on China Stops Trump Trade Adviser In His Tracks first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T15:28:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2971061ddd74",
-   "title": "VARNEY: President Trump was booed at the NBA Finals. So it didn't offer unity, did it? MIKE LAWLER: Listen, I've seen Kathy Hochul drop the puck at a Rangers game and be booed mercilessly because everybody hates her",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuj57nyor2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:28:11.198+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "549216456cde",
-   "title": "Packers fan is right up there",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuiuazfss2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:23:10.688+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "05f344430654",
-   "title": "I said to myself, wait, this hearing was two weeks ago, why is Aaron posting about it now? That was \"The Southern Poverty Law Center: Manufacturing Hate\" on 5/20. This is \"The Southern Poverty Law Center: Manufacturing Hate: Part II\"",
-   "link": "https://bsky.app/profile/petersagal.bsky.social/post/3mnuirbvmh52n",
-   "summary": "",
-   "source": "@petersagal",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:21:30.948+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c14681ec1a24",
-   "title": "i think the worst thing you can be in Minnesota is probably a murderer",
-   "link": "https://bsky.app/profile/proptermalone.bsky.social/post/3mnuirax3v22k",
-   "summary": "",
-   "source": "@proptermalone",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:21:29.948+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e6bc6ae20adf",
-   "title": "Trump Torpedoed By Merciless Pool Reports on Knicks Game — From Conservative Reporter",
-   "link": "https://www.mediaite.com/media/news/trump-torpedoed-by-merciless-pool-reports-on-knicks-game-from-conservative-reporter/",
-   "summary": "President Donald Trump was the subject of some absolutely merciless pool reports on the Knicks game that refuted his claim of an \"amazing\" reception from fans. The post Trump Torpedoed By Merciless Pool Reports on Knicks Game — From Conservative Reporter first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T15:20:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8b22f12ad467",
-   "title": "‘It’s a Con!’ Bill O’Reilly Goes All in Pushing California Election Fraud Claims",
-   "link": "https://www.mediaite.com/media/news/its-a-con-bill-oreilly-goes-all-in-pushing-california-election-fraud-claims/",
-   "summary": "\"‘Oh, you don't have any evidence,’ about a vote in California when it was six days ago — it's absurd. It's a joke, and I mean that literally.\" The post ‘It’s a Con!’ Bill O’Reilly Goes All in Pushing California Election Fraud Claims first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T15:20:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "558b133b210c",
-   "title": "I’m sorry did you think this was a take home test?",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnuiiuv6ps26",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:16:48.868+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "65a5ac57d6c8",
-   "title": "I mean, yes",
-   "link": "https://bsky.app/profile/swin24.bsky.social/post/3mnuhx6jwf22w",
-   "summary": "",
-   "source": "@swin24",
-   "category": "trump_bsky",
-   "published": "2026-06-09T15:06:55.004+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "61b23215803d",
-   "title": "Democratic Senate Frontrunner Dodges Question on Deleted ‘Defund the Police’ Posts When Confronted by CNN",
-   "link": "https://www.mediaite.com/media/tv/democratic-senate-frontrunner-dodges-question-on-deleted-defund-the-police-posts-when-confronted-by-cnn/",
-   "summary": "Michigan Senate candidate Abdul El-Sayed (D) dodged questions from CNN on deleted social media where he defended the \"Defund the Police\" movement The post Democratic Senate Frontrunner Dodges Question on Deleted ‘Defund the Police’ Posts When Confronted by CNN first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T14:40:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6047c8a24dff",
-   "title": "Charlamagne Tha God Claims Trump ‘Sucked the Joy Out of the City’ by Attending NBA Finals Game at Madison Square Garden",
-   "link": "https://www.mediaite.com/media/sports/charlamagne-tha-god-claims-trump-sucked-the-joy-out-of-the-city-by-attending-nba-finals-game-at-madison-square-garden/",
-   "summary": "Charlamagne Tha God said Tuesday that President Donald Trump \"sucked the joy out of the city\" when he attended Game 3 of the NBA Finals in New York. The post Charlamagne Tha God Claims Trump ‘Sucked the Joy Out of the City’ by Attending NBA Finals Game at Madison Square Garden first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T14:33:52+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a239c5b7ee91",
-   "title": "Trump Goes Full Elmo on ‘Fantastic’ Knicks Playoff Game Loss: ‘Well Played by Both Teams — Had a Lot of Fun’",
-   "link": "https://www.mediaite.com/media/sports/trump-goes-full-elmo-on-fantastic-knicks-playoff-game-loss-well-played-by-both-teams-had-a-lot-of-fun/",
-   "summary": "Trump channeled embattled muppet Elmo when he was asked about the Knicks game, praising both teams and calling the game — which the Knicks lost — \"fantastic.\" The post Trump Goes Full Elmo on ‘Fantastic’ Knicks Playoff Game Loss: ‘Well Played by Both Teams — Had a Lot of Fun’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T14:32:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "86d74dd921fc",
-   "title": "Trump-Backed CA Gov. Candidate Steve Hilton Distances Himself from President’s ‘Rigged’ Election Claims",
-   "link": "https://www.mediaite.com/media/tv/trump-backed-ca-gov-candidate-steve-hilton-distances-himself-from-presidents-rigged-election-claims/",
-   "summary": "Trump has repeated claims, without providing evidence, that both the California governor’s race and the Los Angeles mayoral contest were “crooked” and “rigged.” The post Trump-Backed CA Gov. Candidate Steve Hilton Distances Himself from President’s ‘Rigged’ Election Claims first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T14:30:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26e3d7c2743e",
-   "title": "because of woke you cant even denigrate an entire nationality wholesale anymore without being called a racist",
-   "link": "https://bsky.app/profile/ndrew.bsky.social/post/3mnudzsgxl22l",
-   "summary": "",
-   "source": "@ndrew",
-   "category": "trump_bsky",
-   "published": "2026-06-09T13:56:48.020+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "911ce75bc7f9",
    "title": "A noxious orange cloud looms over the World Cup",
    "link": "https://www.publicnotice.co/p/world-cup-trump",
@@ -850,6 +900,26 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-09T10:18:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a2d25841bb42",
+   "title": "Lindsey Graham is fighting off an ‘America First’ primary challenge",
+   "link": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
+   "summary": "The senator is facing a well-funded challenge supported by some of President Donald Trump’s highest-profile MAGA defectors.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-09T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cdae44125916",
+   "title": "Some Maine Democrats are wavering on Graham Platner",
+   "link": "https://www.politico.com/news/2026/06/09/graham-platner-maine-voters-concerns-00953986",
+   "summary": "The oysterman maintains a strong base of support, but his scandals have left a bad taste with some Democratic and independent voters.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-09T09:00:00+00:00",
    "iran_topic": false
   },
   {
@@ -910,76 +980,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-09T00:02:27.254+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d3502c56ea4",
-   "title": "Full interview and more from MeidasTouch here: youtu.be/pMNCCrolerQ",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnsoxotmos2c",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-08T22:07:08.810+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c9fe7404a8e",
-   "title": "Turek: It is a scary place to be a farmer in Iowa right now. We lead the nation in farm foreclosures. Everywhere we go, we’re hearing farmers talk about betrayal. You go into these rural communities, the Trump signs and Trump flags are coming down.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnsoxotgtc2c",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-08T22:07:08.809+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e1ebf335fdae",
-   "title": "Nomination Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
-   "summary": "NOMINATION SENT TO THE SENATE: Todd Blanche, of Florida, to be Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-08T19:38:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e1ebf335fdae",
-   "title": "Nomination Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
-   "summary": "NOMINATION SENT TO THE SENATE: Todd Blanche, of Florida, to be Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-08T19:38:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2aae23a2ea0b",
-   "title": "Reuters: US JUDGE STRIKES DOWN PRESIDENT TRUMP'S $100,000 H-1B VISA FEE - COURT RULING",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsawkr6tc2h",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-08T17:55:58.602+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "855b6a1d186d",
-   "title": "NEW: The Kennedy Center just removed Trump's name from its website after a judge's ruling. The name on the exterior of the building has to come down no later than June 12.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mns2icnr2s2a",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-08T16:00:37.888+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ed8996db690a",
-   "title": "Ken Paxton's impeachment defense lawyer just endorsed James Talarico. Dan Cogdell says his former client \"has lost sight of his core mission, which is to represent the people of Texas.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnrt7i65b22d",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-08T13:50:25.485+00:00",
    "iran_topic": false
   }
  ]
