@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T06:49:27.078483+00:00",
+ "generated": "2026-06-09T09:31:39.571350+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 93.18,
-   "change": -1.07,
-   "change_pct": -1.14,
+   "price": 92.24,
+   "change": -2.01,
+   "change_pct": -2.13,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    93.18000030517578
+    92.23999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 89.92,
-   "change": -1.38,
-   "change_pct": -1.51,
+   "price": 88.98,
+   "change": -2.32,
+   "change_pct": -2.54,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    89.91999816894531
+    88.9800033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4361.4,
-   "change": 25.5,
-   "change_pct": 0.59,
+   "price": 4356.0,
+   "change": 20.1,
+   "change_pct": 0.46,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4361.39990234375
+    4356.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.89,
-   "change": -0.17,
-   "change_pct": -0.16,
+   "price": 99.82,
+   "change": -0.23,
+   "change_pct": -0.23,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.88500213623047
+    99.81600189208984
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.92,
-   "change": -2.59,
-   "change_pct": -12.04,
+   "price": 18.06,
+   "change": -0.86,
+   "change_pct": -4.55,
    "spark": [
-    15.770000457763672,
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
-    18.920000076293945
+    18.920000076293945,
+    18.059999465942383
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.15,
-   "change": 0.0,
-   "change_pct": 0.03,
+   "price": 3.17,
+   "change": 0.02,
+   "change_pct": 0.7,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.1480000019073486
+    3.1689999103546143
    ]
   }
  },
@@ -216,6 +216,69 @@
  ],
  "incidents": [
   {
+   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
+   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
+   "source": "Press TV",
+   "published": "2026-06-09T09:30:43.221692+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-09T09:30:43.221288+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+   "source": "Press TV",
+   "published": "2026-06-09T09:30:43.220778+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Houthis attack Israel and announce ban on Israeli vessels in the Red Sea",
+   "link": "https://www.longwarjournal.org/archives/2026/06/houthis-attack-israel-and-announce-ban-on-israeli-vessels-in-the-red-sea.php",
+   "source": "Long War Journal",
+   "published": "2026-06-09T09:16:22+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Anti-Israel Massie calls for USS Liberty probe, elevating conspiracy to US House floor",
+   "link": "https://www.timesofisrael.com/anti-israel-massie-calls-for-uss-liberty-probe-elevating-conspiracy-to-us-house-floor/",
+   "source": "Times of Israel",
+   "published": "2026-06-09T08:37:59+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Indian crew rescued after attack on oil tanker off Oman",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-09T08:37:36+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "US Army helicopter crashes near Strait of Hormuz; Trump says two pilots ‘fine’",
+   "link": "https://www.timesofisrael.com/us-army-helicopter-crashes-near-strait-of-hormuz-trump-says-two-pilots-fine/",
+   "source": "Times of Israel",
+   "published": "2026-06-09T07:49:46+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says pilots safe after US Army Apache goes down near Hormuz reut.rs/4vDFgjT",
+   "link": "https://bsky.app/profile/reuters.com/post/3mntnlois6l2r",
+   "source": "@reuters",
+   "published": "2026-06-09T07:15:11+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Fifth Qatari-controlled LNG tanker exits Hormuz strait reut.rs/3ScSQfw",
+   "link": "https://bsky.app/profile/reuters.com/post/3mntmznnlr42s",
+   "source": "@reuters",
+   "published": "2026-06-09T07:05:06+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Crew rescued after US Apache helicopter goes down near Strait of Hormuz",
    "link": "https://www.jpost.com/international/article-898795",
    "source": "Jerusalem Post",
@@ -223,32 +286,18 @@
    "severity": "critical"
   },
   {
-   "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
-   "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-09T06:48:30.711062+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
-   "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
-   "source": "Press TV",
-   "published": "2026-06-09T06:48:30.710292+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-   "source": "Press TV",
-   "published": "2026-06-09T06:48:30.710053+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Trump says US helicopter pilots who went down in Strait of Hormuz are fine",
    "link": "https://www.al-monitor.com/originals/2026/06/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine",
    "source": "Al-Monitor",
    "published": "2026-06-09T06:36:37+00:00",
    "severity": "critical"
+  },
+  {
+   "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
+   "link": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-09T06:15:49+00:00",
+   "severity": "info"
   },
   {
    "title": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
@@ -270,55 +319,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-09T05:16:56+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "The crew on board a helicopter that crashed around the Strait of Hormuz is fine, U.S. President Donald Trump says.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mntg5kbguv2x",
-   "source": "@apnews",
-   "published": "2026-06-09T05:02:01+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "A U.S. Army Apache helicopter gunship went down near the Strait of Hormuz on Monday, and the two crew members were safely rescued. It was not immediately clear whether the Apache was shot down by Iranian fire, experienced mechanical failure or encountered some other problem.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mntdhut3dh24",
-   "source": "@nytimes",
-   "published": "2026-06-09T04:14:06.751821+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "US helicopter crashes in Strait of Hormuz area, crew rescued safely",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u0u85i/us_helicopter_crashes_in_strait_of_hormuz_area/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T03:57:17+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says US in ‘final throes’ of Iran deal, Hormuz strait to open in days",
-   "link": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-09T02:41:11+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "‘Israel may not like that’: Touting potential ‘home run’ deal, Vance stresses key US objective is preventing Iran from getting nukes",
-   "link": "https://www.timesofisrael.com/liveblog-june-09-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-09T00:28:45+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
-   "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
-   "source": "Press TV",
-   "published": "2026-06-09T00:18:43.015878+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US military helped Israel intercept Iran's missiles: What to know",
-   "link": "https://www.reddit.com/r/lebanon/comments/1u0o2vo/us_military_helped_israel_intercept_irans/",
-   "source": "r/lebanon",
-   "published": "2026-06-08T23:15:28+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 8,
    "recent": [
-    {
-     "title": "Crew rescued after US Apache helicopter goes down near Strait of Hormuz",
-     "link": "https://www.jpost.com/international/article-898795",
-     "source": "Jerusalem Post",
-     "published": "2026-06-09T07:02:38+00:00",
-     "severity": "critical"
-    },
     {
      "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-09T06:48:30.711062+00:00",
+     "published": "2026-06-09T09:30:43.221288+00:00",
      "severity": "high"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T06:48:30.710053+00:00",
+     "published": "2026-06-09T09:30:43.220778+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "US Army helicopter crashes near Strait of Hormuz; Trump says two pilots ‘fine’",
+     "link": "https://www.timesofisrael.com/us-army-helicopter-crashes-near-strait-of-hormuz-trump-says-two-pilots-fine/",
+     "source": "Times of Israel",
+     "published": "2026-06-09T07:49:46+00:00",
      "severity": "info"
     }
    ]
@@ -355,14 +355,21 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ACTIVE",
-   "incident_count": 1,
+   "incident_count": 2,
    "recent": [
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T06:48:30.710053+00:00",
+     "published": "2026-06-09T09:30:43.220778+00:00",
      "severity": "info"
+    },
+    {
+     "title": "Houthis attack Israel and announce ban on Israeli vessels in the Red Sea",
+     "link": "https://www.longwarjournal.org/archives/2026/06/houthis-attack-israel-and-announce-ban-on-israeli-vessels-in-the-red-sea.php",
+     "source": "Long War Journal",
+     "published": "2026-06-09T09:16:22+00:00",
+     "severity": "high"
     }
    ]
   },
@@ -376,20 +383,32 @@
   {
    "name": "Eastern Mediterranean",
    "description": "Israeli ports + Levantine gas fields. Hezbollah cross-border range.",
-   "status": "ACTIVE",
-   "incident_count": 1,
-   "recent": [
-    {
-     "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
-     "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
-     "source": "Press TV",
-     "published": "2026-06-09T00:18:43.015878+00:00",
-     "severity": "info"
-    }
-   ]
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
   }
  ],
  "wh_statements": [
+  {
+   "id": "cdae44125916",
+   "title": "Some Maine Democrats are wavering on Graham Platner",
+   "link": "https://www.politico.com/news/2026/06/09/graham-platner-maine-voters-concerns-00953986",
+   "summary": "The oysterman maintains a strong base of support, but his scandals have left a bad taste with some Democratic and independent voters.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-09T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a2d25841bb42",
+   "title": "Lindsey Graham is spending big to ward off an ‘America First’ primary challenge",
+   "link": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
+   "summary": "The senator is facing a well-funded challenge supported by some of President Donald Trump’s highest-profile MAGA defectors.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-09T09:00:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "b232881faa61",
    "title": "Trump on being booed at the NBA Finals: I think it was mostly cheers. It was loud. And it was very enthusiastic",
@@ -968,26 +987,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-08T10:18:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69c6f4b3be79",
-   "title": "How a populist mayor from the British exurbs could remake England",
-   "link": "https://www.politico.com/news/2026/06/08/political-nerd-guide-britain-by-elections-00952829",
-   "summary": "By-elections — the British equivalent of a U.S. special election — are held when a member of Parliament resigns, dies or becomes enmeshed in tabloid scandal and are flung out of office by angry voters.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-08T09:56:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a4e2cfa00b68",
-   "title": "Shuler: A couple years ago, I was sitting in a room on Capitol Hill next to the big-tech billionaire crew. Those tech guys talked about their vision for the future, all the possibilities they saw. Guess what one word did not come out of their mouths: workers.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnqksznhbs25",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-08T01:47:37.932+00:00",
    "iran_topic": false
   }
  ]
