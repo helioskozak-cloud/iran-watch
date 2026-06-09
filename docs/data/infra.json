@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T02:52:46.482526+00:00",
+ "generated": "2026-06-09T06:49:27.078483+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 93.57,
-   "change": 0.48,
-   "change_pct": 0.52,
+   "price": 93.18,
+   "change": -1.07,
+   "change_pct": -1.14,
    "spark": [
-    97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    93.56999969482422
+    94.25,
+    93.18000030517578
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 90.61,
-   "change": 0.07,
-   "change_pct": 0.08,
+   "price": 89.92,
+   "change": -1.38,
+   "change_pct": -1.51,
    "spark": [
-    96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    90.61000061035156
+    91.30000305175781,
+    89.91999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4361.0,
-   "change": 23.9,
-   "change_pct": 0.55,
+   "price": 4361.4,
+   "change": 25.5,
+   "change_pct": 0.59,
    "spark": [
-    4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4361.0
+    4335.89990234375,
+    4361.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.97,
-   "change": -0.1,
-   "change_pct": -0.1,
+   "price": 99.89,
+   "change": -0.17,
+   "change_pct": -0.16,
    "spark": [
-    99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    99.96700286865234
+    100.05000305175781,
+    99.88500213623047
    ]
   },
   "^GSPC": {
@@ -99,13 +99,13 @@
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.15,
-   "change": -0.08,
-   "change_pct": -2.38,
+   "change": 0.0,
+   "change_pct": 0.03,
    "spark": [
-    3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.1519999504089355
+    3.1470000743865967,
+    3.1480000019073486
    ]
   }
  },
@@ -216,17 +216,94 @@
  ],
  "incidents": [
   {
+   "title": "Crew rescued after US Apache helicopter goes down near Strait of Hormuz",
+   "link": "https://www.jpost.com/international/article-898795",
+   "source": "Jerusalem Post",
+   "published": "2026-06-09T07:02:38+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-09T06:48:30.711062+00:00",
+   "severity": "high"
+  },
+  {
    "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
    "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
    "source": "Press TV",
-   "published": "2026-06-09T02:51:47.345051+00:00",
+   "published": "2026-06-09T06:48:30.710292+00:00",
    "severity": "low"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-09T02:51:47.344945+00:00",
+   "published": "2026-06-09T06:48:30.710053+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says US helicopter pilots who went down in Strait of Hormuz are fine",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine",
+   "source": "Al-Monitor",
+   "published": "2026-06-09T06:36:37+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1u0we4n/crew_rescued_after_us_helicopter_goes_down_near/",
+   "source": "r/geopolitics",
+   "published": "2026-06-09T05:50:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "How do you ship goods from the US to Lebanon? I used to use Shop&Ship in the past, but I’ve never shipped anything in the last two years. Is it still a very option? Or there is better alternatives?",
+   "link": "https://www.reddit.com/r/lebanon/comments/1u0wcek/how_do_you_ship_goods_from_the_us_to_lebanon_i/",
+   "source": "r/lebanon",
+   "published": "2026-06-09T05:48:03+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Thomas Massie calls for USS Liberty probe, elevating anti-Israel conspiracy theory to House floor",
+   "link": "https://www.jpost.com/american-politics/article-898790",
+   "source": "Jerusalem Post",
+   "published": "2026-06-09T05:16:56+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "The crew on board a helicopter that crashed around the Strait of Hormuz is fine, U.S. President Donald Trump says.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mntg5kbguv2x",
+   "source": "@apnews",
+   "published": "2026-06-09T05:02:01+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "A U.S. Army Apache helicopter gunship went down near the Strait of Hormuz on Monday, and the two crew members were safely rescued. It was not immediately clear whether the Apache was shot down by Iranian fire, experienced mechanical failure or encountered some other problem.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mntdhut3dh24",
+   "source": "@nytimes",
+   "published": "2026-06-09T04:14:06.751821+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US helicopter crashes in Strait of Hormuz area, crew rescued safely",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u0u85i/us_helicopter_crashes_in_strait_of_hormuz_area/",
+   "source": "r/worldnews",
+   "published": "2026-06-09T03:57:17+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says US in ‘final throes’ of Iran deal, Hormuz strait to open in days",
+   "link": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-09T02:41:11+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "‘Israel may not like that’: Touting potential ‘home run’ deal, Vance stresses key US objective is preventing Iran from getting nukes",
+   "link": "https://www.timesofisrael.com/liveblog-june-09-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-09T00:28:45+00:00",
    "severity": "info"
   },
   {
@@ -242,111 +319,34 @@
    "source": "r/lebanon",
    "published": "2026-06-08T23:15:28+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-   "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-   "source": "Press TV",
-   "published": "2026-06-08T21:46:39.271765+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Carrier USS Theodore Roosevelt to Lead 2026 Rim of the Pacific Exercise",
-   "link": "https://news.usni.org/2026/06/08/carrier-uss-theodore-roosevelt-to-lead-2026-rim-of-the-pacific-exercise",
-   "source": "USNI News",
-   "published": "2026-06-08T20:31:00+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports",
-   "link": "https://www.timesofisrael.com/pm-called-off-major-iran-strike-after-trump-warned-israel-would-be-on-its-own-reports/",
-   "source": "Times of Israel",
-   "published": "2026-06-08T20:30:31+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "KC-135 Tanker Spotted With New Satellite Communications Antenna",
-   "link": "https://www.twz.com/air/kc-135-tanker-sporting-new-large-antenna-points-to-major-communications-upgrade",
-   "source": "The Drive",
-   "published": "2026-06-08T19:40:53+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
-   "link": "https://www.jpost.com/middle-east/article-898749",
-   "source": "Jerusalem Post",
-   "published": "2026-06-08T18:10:24+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: June 8, 2026",
-   "link": "https://news.usni.org/2026/06/08/usni-news-fleet-and-marine-tracker-june-8-2026",
-   "source": "USNI News",
-   "published": "2026-06-08T17:48:30+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
-   "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u0ddfn/israel_hit_beirut_iran_fired_back_yemen_closed/",
-   "source": "r/MiddleEastNews",
-   "published": "2026-06-08T16:45:41+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Why the Houthis threatening Red Sea shipping could be worse for the oil market this time",
-   "link": "https://www.timesofisrael.com/why-the-houthis-threatening-red-sea-shipping-could-be-worse-for-the-oil-market-this-time/",
-   "source": "Times of Israel",
-   "published": "2026-06-08T16:14:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "EU sanctions Iranians over restricting naval traffic in Hormuz reut.rs/4obLPHO",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
-   "source": "@reuters",
-   "published": "2026-06-08T14:30:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
-   "link": "https://www.aljazeera.com/news/2026/6/8/why-was-israel-spared-scrutiny-for-the-1967-uss-liberty-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-08T14:20:05+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "US special forces seized an oil tanker that our joint @bellingcat.com @thetimes.com project linked to the Kinahans. In March we covered how we found a bill of sale listing former UFC fighter Mounir Lazzez, a friend of Daniel Kinahan, as the director of a company that purchased th",
-   "link": "https://bsky.app/profile/oldpete45.bsky.social/post/3mnrtoy2xyk2t",
-   "source": "@oldpete45",
-   "published": "2026-06-08T13:59:05.474+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 3,
+   "status": "ELEVATED",
+   "incident_count": 9,
    "recent": [
+    {
+     "title": "Crew rescued after US Apache helicopter goes down near Strait of Hormuz",
+     "link": "https://www.jpost.com/international/article-898795",
+     "source": "Jerusalem Post",
+     "published": "2026-06-09T07:02:38+00:00",
+     "severity": "critical"
+    },
+    {
+     "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
+     "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
+     "source": "Press TV",
+     "published": "2026-06-09T06:48:30.711062+00:00",
+     "severity": "high"
+    },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T02:51:47.344945+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "‘Oman's stance puzzling,' Frmr. US ambassador tells ‘Post’ as Gulf state silent on Hormuz plans",
-     "link": "https://www.jpost.com/middle-east/article-898749",
-     "source": "Jerusalem Post",
-     "published": "2026-06-08T18:10:24+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "EU sanctions Iranians over restricting naval traffic in Hormuz reut.rs/4obLPHO",
-     "link": "https://bsky.app/profile/reuters.com/post/3mnrvhfugrf2f",
-     "source": "@reuters",
-     "published": "2026-06-08T14:30:38+00:00",
+     "published": "2026-06-09T06:48:30.710053+00:00",
      "severity": "info"
     }
    ]
@@ -354,28 +354,14 @@
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "ELEVATED",
-   "incident_count": 4,
+   "status": "ACTIVE",
+   "incident_count": 1,
    "recent": [
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T02:51:47.344945+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
-     "link": "https://presstv.ir/Detail/2026/06/08/770053/Yemen-impose-complete-ban-Israeli-navigation--Red-Sea",
-     "source": "Press TV",
-     "published": "2026-06-08T21:46:39.271765+00:00",
-     "severity": "critical"
-    },
-    {
-     "title": "Israel hit Beirut, Iran fired back, Yemen closed the Red Sea — here's the full picture",
-     "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u0ddfn/israel_hit_beirut_iran_fired_back_yemen_closed/",
-     "source": "r/MiddleEastNews",
-     "published": "2026-06-08T16:45:41+00:00",
+     "published": "2026-06-09T06:48:30.710053+00:00",
      "severity": "info"
     }
    ]
@@ -404,6 +390,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b232881faa61",
+   "title": "Trump on being booed at the NBA Finals: I think it was mostly cheers. It was loud. And it was very enthusiastic",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mntfvdaaxg2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T04:57:25.462+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4cb90a6ea0d9",
+   "title": "‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs",
+   "link": "https://www.mediaite.com/media/sports/trump-curse-furious-knicks-fans-blame-president-for-jinxing-teams-winning-streak-as-they-lose-to-spurs/",
+   "summary": "New York Knicks fans accused President Donald Trump of jinxing the team by attending Game 3 of the NBA Finals in person. The post ‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-09T04:20:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4cb90a6ea0d9",
+   "title": "‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs",
+   "link": "https://www.mediaite.com/media/sports/trump-curse-furious-knicks-fans-blame-president-for-jinxing-teams-winning-streak-as-they-lose-to-spurs/",
+   "summary": "New York Knicks fans accused President Donald Trump of jinxing the team by attending Game 3 of the NBA Finals in person. The post ‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T04:20:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "48bfbdf648b8",
+   "title": "‘Who’s in the Background of That Photo?’ CNN’s Harry Enten Cites Crushing 2006 Mets Playoff Loss to Suggest Trump Is Bad Luck",
+   "link": "https://www.mediaite.com/media/tv/whos-in-the-background-of-that-photo-cnns-harry-enten-cites-crushing-2006-mets-playoff-loss-to-suggest-trump-is-bad-luck/",
+   "summary": "CNN data analyst Harry Enten reached all the way back to a 2006 New York Mets playoff game to suggest that President Donald Trump is a curse on New York sports teams. The post ‘Who’s in the Background of That Photo?’ CNN’s Harry Enten Cites Crushing 2006 Mets Playoff Loss to Suggest Trump Is Bad Luck first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T04:06:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f3b9ae22db15",
+   "title": "‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game",
+   "link": "https://www.mediaite.com/media/sports/trump-has-fallen-asleep-presidents-critics-shred-him-for-appearing-to-rest-his-eyes-at-nba-finals-game/",
+   "summary": "President Donald Trump drew mockery and criticism Monday evening as video clips appearing to show him resting his eyes during an NBC Finals game quickly spread on social media. The post ‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-09T03:37:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f3b9ae22db15",
+   "title": "‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game",
+   "link": "https://www.mediaite.com/media/sports/trump-has-fallen-asleep-presidents-critics-shred-him-for-appearing-to-rest-his-eyes-at-nba-finals-game/",
+   "summary": "President Donald Trump drew mockery and criticism Monday evening as video clips appearing to show him resting his eyes during an NBC Finals game quickly spread on social media. The post ‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T03:37:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a80e9d0b69ea",
+   "title": "Trump Watches Knicks Lose for First Time in 46 days, Team’s Winning Streak Ends at 13",
+   "link": "https://www.mediaite.com/media/sports/trump-watches-knicks-lose-for-first-time-in-46-days-teams-winning-streak-ends-at-13/",
+   "summary": "The New York Knicks had not lost a game for 46 days, and on Monday, the 45th and 47th president showed up to watch Game 3 of the NBA Finals from the owner's box in Madison Square Garden. The post Trump Watches Knicks Lose for First Time in 46 days, Team’s Winning Streak Ends at 13 first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T03:34:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f8b53e725d3a",
+   "title": "The Knicks' historic streak comes to an end the night Trump attends the NBA finals.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mntb6vbnm22b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T03:33:17.801+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b07738dea2b1",
+   "title": "Lee Zeldin looking like yaoi-fied Jeff Bezos",
+   "link": "https://bsky.app/profile/timprice.bsky.social/post/3mnt7l2cpes22",
+   "summary": "",
+   "source": "@timprice",
+   "category": "trump_bsky",
+   "published": "2026-06-09T03:04:18.244+00:00",
+   "iran_topic": false
+  },
   {
    "id": "1dcf6cafce93",
    "title": "Trump \"blinking\" at the NBA Finals in MSG (Saul Loeb/Getty)",
@@ -765,16 +841,6 @@
    "iran_topic": false
   },
   {
-   "id": "575fb0da4ee9",
-   "title": "\"everyone is twelve\" isn't even a theory anymore",
-   "link": "https://bsky.app/profile/randballsstu.bsky.social/post/3mnslhnl2ac23",
-   "summary": "",
-   "source": "@randballsstu",
-   "category": "trump_bsky",
-   "published": "2026-06-08T21:04:29.389+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "90be656999ab",
    "title": "‘Stinks to High Heaven!’ Speaker Johnson Claims ‘Rigged’ Election Accusations Are ‘Impossible to Prove’",
    "link": "https://www.mediaite.com/media/news/stinks-to-high-heaven-speaker-johnson-claims-rigged-election-accusations-are-impossible-to-prove/",
@@ -865,46 +931,6 @@
    "iran_topic": false
   },
   {
-   "id": "cbdea97bbb9a",
-   "title": "Whoopi Goldberg Delivers an Extremely Rare Defense of Trump — Supports Him Going to Knicks Game: ‘He’s a Knicks Fan!’",
-   "link": "https://www.mediaite.com/media/news/whoopi-goldberg-delivers-an-extremely-rare-defense-of-trump-supports-him-going-to-knicks-game-hes-a-knicks-fan/",
-   "summary": "Whoopi Goldberg may have shocked The View's audience by supporting Donald Trump's high-security trip to watch the New York Nicks in game three. The post Whoopi Goldberg Delivers an Extremely Rare Defense of Trump — Supports Him Going to Knicks Game: ‘He’s a Knicks Fan!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:22:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0a742b5c14c6",
-   "title": "Tucker Carlson Suggests Assassination Attempt Turned Trump Into An ‘Enthusiastic Tool’ For Israel",
-   "link": "https://www.mediaite.com/media/tucker-carlson-suggests-assassination-attempt-turned-trump-into-an-enthusiastic-tool-for-israel/",
-   "summary": "Tucker Carlson accused Trump of morphing into an \"enthusiastic tool\" for Israel — which he said curiously happened right after the assassination attempt in 2024 The post Tucker Carlson Suggests Assassination Attempt Turned Trump Into An ‘Enthusiastic Tool’ For Israel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:06:57+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "402343bce712",
-   "title": "Trump Takes a Swing at Mitch McConnell In Fiery Call For GOP to Fire Senate Parliamentarian",
-   "link": "https://www.mediaite.com/media/news/trump-takes-a-swing-at-mitch-mcconnell-in-fiery-call-for-gop-to-fire-senate-parliamentarian/",
-   "summary": "President Donald Trump took a swing at Senator Mitch McConnell (R-KY) in a Truth Social post on Monday, claiming the senator had \"proven to be very disloyal\" to Senate Majority Leader John Thune (R-SD). The post Trump Takes a Swing at Mitch McConnell In Fiery Call For GOP to Fire Senate Parliamentarian first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:04:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0d7f9336e2e4",
-   "title": "‘Malicious, False, Juvenile’: Right-Wing Activist Unleashes on Kash Patel as Feud Over Trump Assassination Attempt Heats Up",
-   "link": "https://www.mediaite.com/media/news/malicious-false-juvenile-right-wing-activist-unleashes-on-kash-patel-as-feud-over-trump-assassination-attempt-heats-up/",
-   "summary": "Tom Fitton unleashed on FBI director Kash Patel as the feud over the July 2024 attempt on President Donald Trump's life in Butler, Pennsylvania heats up. The post ‘Malicious, False, Juvenile’: Right-Wing Activist Unleashes on Kash Patel as Feud Over Trump Assassination Attempt Heats Up first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:01:58+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2aae23a2ea0b",
    "title": "Reuters: US JUDGE STRIKES DOWN PRESIDENT TRUMP'S $100,000 H-1B VISA FEE - COURT RULING",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsawkr6tc2h",
@@ -962,46 +988,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-08T01:47:37.932+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b4785e78ec3f",
-   "title": "NEW: A vote update in the LA mayor's race puts Nithya Raman ahead of Spencer Pratt by 3,000 votes. Karen Bass has already advanced to the general election. There's not enough vote yet to declare which other candidate will advance. This is a normal process. There is nothing wrong with this process.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnqi6hs3f22t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-08T01:00:20.635+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "df3010205c72",
-   "title": "Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump’s birthday",
-   "link": "https://www.politico.com/news/2026/06/07/lawsuit-seeks-to-stop-the-ufc-fight-on-the-white-house-south-lawn-for-trumps-birthday-00953084",
-   "summary": "The filing contends the Trump administration’s authorization of the June 14 event was unlawful.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-07T22:04:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "238363ce886c",
-   "title": "Trump stormed out of his interview with NBC's Kristen Welker after lying about the California elections and throwing insults at her.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnpxpa7yxk2r",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-07T20:05:29.519+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8090064e9009",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/Sl51KRk...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpwqkgasc2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T19:48:20.021+00:00",
    "iran_topic": false
   }
  ]
