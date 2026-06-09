@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-08T23:10:38.180691+00:00",
+ "generated": "2026-06-09T00:19:46.306149+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.35,
-   "change": 1.26,
-   "change_pct": 1.35,
+   "price": 94.25,
+   "change": 1.16,
+   "change_pct": 1.25,
    "spark": [
     97.80999755859375,
     95.02999877929688,
     93.08999633789062,
-    94.3499984741211
+    94.25
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.4,
-   "change": 0.86,
-   "change_pct": 0.95,
+   "price": 91.24,
+   "change": 0.7,
+   "change_pct": 0.77,
    "spark": [
     96.0199966430664,
     93.04000091552734,
     90.54000091552734,
-    91.4000015258789
+    91.23999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4350.7,
-   "change": 13.6,
-   "change_pct": 0.31,
+   "price": 4342.0,
+   "change": 4.9,
+   "change_pct": 0.11,
    "spark": [
     4436.7001953125,
     4475.7998046875,
     4337.10009765625,
-    4350.7001953125
+    4342.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.0,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 100.04,
+   "change": -0.03,
+   "change_pct": -0.03,
    "spark": [
     99.52999877929688,
     99.41000366210938,
     100.06999969482422,
-    100.0
+    100.03800201416016
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.14,
+   "price": 3.13,
    "change": -0.09,
-   "change_pct": -2.85,
+   "change_pct": -2.91,
    "spark": [
     3.2139999866485596,
     3.3359999656677246,
     3.2290000915527344,
-    3.13700008392334
+    3.134999990463257
    ]
   }
  },
@@ -219,22 +219,29 @@
    "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
    "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
    "source": "Press TV",
-   "published": "2026-06-08T23:09:41.074966+00:00",
+   "published": "2026-06-09T00:18:43.015878+00:00",
    "severity": "info"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-08T23:09:41.073980+00:00",
+   "published": "2026-06-09T00:18:43.014848+00:00",
    "severity": "info"
   },
   {
    "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
    "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
    "source": "Press TV",
-   "published": "2026-06-08T23:09:41.072413+00:00",
+   "published": "2026-06-09T00:18:43.013368+00:00",
    "severity": "low"
+  },
+  {
+   "title": "US military helped Israel intercept Iran's missiles: What to know",
+   "link": "https://www.reddit.com/r/lebanon/comments/1u0o2vo/us_military_helped_israel_intercept_irans/",
+   "source": "r/lebanon",
+   "published": "2026-06-08T23:15:28+00:00",
+   "severity": "info"
   },
   {
    "title": "Yemen bans Israeli navigation in Red Sea after missile strike on Tel Aviv",
@@ -312,13 +319,6 @@
    "source": "@oldpete45",
    "published": "2026-06-08T13:59:05.474+00:00",
    "severity": "info"
-  },
-  {
-   "title": "The Iran-backed Houthi militia in Yemen said on Monday that it would stop Israeli ships from operating in the Red Sea and had fired missiles at Israel, threatening to widen the Iran war and impede navigation through a crucial global trade route.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mnrsmzfdes26",
-   "source": "@nytimes",
-   "published": "2026-06-08T13:40:05.968223+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -332,7 +332,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-08T23:09:41.073980+00:00",
+     "published": "2026-06-09T00:18:43.014848+00:00",
      "severity": "info"
     },
     {
@@ -355,13 +355,13 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ELEVATED",
-   "incident_count": 5,
+   "incident_count": 4,
    "recent": [
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-08T23:09:41.073980+00:00",
+     "published": "2026-06-09T00:18:43.014848+00:00",
      "severity": "info"
     },
     {
@@ -397,13 +397,53 @@
      "title": "IRGC strikes Haifa industrial sites after petrochemical plant attacked",
      "link": "https://presstv.ir/Detail/2026/06/08/770058/IRGC-targets-Haifa-industrial-sites-in-retaliation-for-Mahshahr-petchem-attack-",
      "source": "Press TV",
-     "published": "2026-06-08T23:09:41.074966+00:00",
+     "published": "2026-06-09T00:18:43.015878+00:00",
      "severity": "info"
     }
    ]
   }
  ],
  "wh_statements": [
+  {
+   "id": "c0745bf05c82",
+   "title": "‘I Would Vote for a Doorknob Over Susan Collins’: Maine Voters Dismiss Controversies Surrounding GOP Senator’s Challenger",
+   "link": "https://www.mediaite.com/media/tv/i-would-vote-for-a-doorknob-over-susan-collins-maine-voters-dismiss-controversies-surrounding-gop-senators-challenger/",
+   "summary": "U.S. Marine veteran and Democratic U.S. Senate candidate Graham Platner is facing a wave of bad press, but that will not deter some voters from backing him against Sen. Susan Collins. The post ‘I Would Vote for a Doorknob Over Susan Collins’: Maine Voters Dismiss Controversies Surrounding GOP Senator’s Challenger first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T00:08:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a2902932a3f2",
+   "title": "BREAKING: WASHINGTON (AP) - Nithya Raman advances to November runoff in Los Angeles mayor's race.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsvfurlsc2g",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T00:02:27.254+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3106b0ff4f14",
+   "title": "Trump Warned Bibi to ‘Be Careful’ Or You ‘Will Be On Your Own’",
+   "link": "https://www.mediaite.com/media/news/trump-warned-bibi-to-be-careful-or-you-will-be-on-your-own/",
+   "summary": "\"I said, 'Bibi, you better be careful, or you will be on your own very soon,'\" Trump told Ravid. The post Trump Warned Bibi to ‘Be Careful’ Or You ‘Will Be On Your Own’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T23:19:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f83a336855fa",
+   "title": "JD Vance Claims Iranian Officials Are Negotiating With the U.S. – After They Pulled Out of Talks",
+   "link": "https://www.mediaite.com/media/tv/jd-vance-claims-iranian-officials-are-negotiating-with-the-u-s-after-they-pulled-out-of-talks/",
+   "summary": "Vice President JD Vance either broke some news on Monday or told a whopper about talks between Iran and the U.S. The post JD Vance Claims Iranian Officials Are Negotiating With the U.S. – After They Pulled Out of Talks first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-08T23:11:35+00:00",
+   "iran_topic": true
+  },
   {
    "id": "0cbe0a98ee9d",
    "title": "Trump’s Ex-Border Patrol Chief Greg Bovino Declares He Wants to Deport Nearly One-Third of the People in the U.S.",
@@ -422,6 +462,16 @@
    "source": "@electproject",
    "category": "trump_bsky",
    "published": "2026-06-08T22:49:33.569+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "efc7f6abb930",
+   "title": "mike johnson is legitimately in the running for single worst speaker in the history of the house",
+   "link": "https://bsky.app/profile/jamellebouie.net/post/3mnspbxunfk2o",
+   "summary": "",
+   "source": "@jamellebouie",
+   "category": "trump_bsky",
+   "published": "2026-06-08T22:12:53.830+00:00",
    "iran_topic": false
   },
   {
@@ -835,16 +885,6 @@
    "iran_topic": false
   },
   {
-   "id": "a8366d47fbf7",
-   "title": "Attorney Suing Trump Admin Over UFC Lawn Fight Claims Display of ‘Corruption’ Will Be Included In Future US History Books",
-   "link": "https://www.mediaite.com/media/news/attorney-suing-trump-admin-over-ufc-lawn-fight-claims-display-of-corruption-will-be-included-in-future-us-history-books/",
-   "summary": "An attorney suing Trump to stop the planed White House UFC fight warned Monday that the display of \"corruption\" will be studied by future generations The post Attorney Suing Trump Admin Over UFC Lawn Fight Claims Display of ‘Corruption’ Will Be Included In Future US History Books first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:58:25+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2aae23a2ea0b",
    "title": "Reuters: US JUDGE STRIKES DOWN PRESIDENT TRUMP'S $100,000 H-1B VISA FEE - COURT RULING",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsawkr6tc2h",
@@ -852,36 +892,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-08T17:55:58.602+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "891fbfab9c84",
-   "title": "Stephen A. Smith Torches ‘Ridiculous’ Trump For Creating Chaos By Attending Knicks Game",
-   "link": "https://www.mediaite.com/media/news/stephen-a-smith-torches-ridiculous-trump-for-creating-chaos-by-attending-knicks-game/",
-   "summary": "ESPN's Stephen A. Smith slammed Trump for being \"selfish\" and \"narcissistic\" by hitting the Knicks game and causing a ton of traffic in NYC The post Stephen A. Smith Torches ‘Ridiculous’ Trump For Creating Chaos By Attending Knicks Game first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:37:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ba4aa7c26fe8",
-   "title": "‘A Mockery of the System’: Sports World Stunned by Reinstatement of Texas Tech QB Who Was Suspended for Betting on Games",
-   "link": "https://www.mediaite.com/media/sports/a-mockery-of-the-system-sports-world-stunned-by-reinstatement-of-texas-tech-qb-who-was-suspended-for-betting-on-games/",
-   "summary": "The sports world was rocked by the Monday news that Texas Tech quarterback Brendan Sorsby would play in the upcoming season despite his gambling scandal. The post ‘A Mockery of the System’: Sports World Stunned by Reinstatement of Texas Tech QB Who Was Suspended for Betting on Games first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T17:35:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2035c46b19ba",
-   "title": "@nberlat.bsky.social: \"Since his appointment as acting attorney general two months ago, Blanche has doubled down on his efforts to show Trump that he is the loyalest of all possible loyalists, a MAGA hat of a man with neither spine nor heart nor soul of his own.\" 🧾 open.substack.com/pub/aaronrup...",
-   "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3mns4w4anv22i",
-   "summary": "",
-   "source": "@pamspaulding",
-   "category": "trump_bsky",
-   "published": "2026-06-08T16:44:08.411+00:00",
    "iran_topic": false
   },
   {
@@ -992,16 +1002,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-07T19:48:20.021+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "86393e999a2d",
-   "title": "A few things Don Lemon would do as president: I’d get rid of all that tacky shit that’s there. I would tear down that tacky ballroom—that garage-mahal-looking ballroom. I would strip that stupid-ass blue paint off the reflecting pool. And then I would tear that tacky arch down.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnpwnuufjl2q",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-07T19:46:50.032+00:00",
    "iran_topic": false
   }
  ]
