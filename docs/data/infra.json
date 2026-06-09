@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T09:31:39.571350+00:00",
+ "generated": "2026-06-09T12:26:47.079920+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.24,
-   "change": -2.01,
-   "change_pct": -2.13,
+   "price": 92.78,
+   "change": -1.47,
+   "change_pct": -1.56,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    92.23999786376953
+    92.77999877929688
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.98,
-   "change": -2.32,
-   "change_pct": -2.54,
+   "price": 89.42,
+   "change": -1.88,
+   "change_pct": -2.06,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    88.9800033569336
+    89.41999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4356.0,
-   "change": 20.1,
-   "change_pct": 0.46,
+   "price": 4363.4,
+   "change": 27.5,
+   "change_pct": 0.63,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4356.0
+    4363.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.82,
-   "change": -0.23,
-   "change_pct": -0.23,
+   "price": 99.72,
+   "change": -0.33,
+   "change_pct": -0.32,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.81600189208984
+    99.7249984741211
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.06,
-   "change": -0.86,
-   "change_pct": -4.55,
+   "price": 18.11,
+   "change": -0.81,
+   "change_pct": -4.28,
    "spark": [
     16.059999465942383,
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    18.059999465942383
+    18.110000610351562
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.17,
-   "change": 0.02,
-   "change_pct": 0.7,
+   "price": 3.18,
+   "change": 0.03,
+   "change_pct": 0.99,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.1689999103546143
+    3.177999973297119
    ]
   }
  },
@@ -219,21 +219,42 @@
    "title": "Leader’s adviser: Iran will shatter US naval blockade if talks fail",
    "link": "https://presstv.ir/Detail/2026/06/08/770100/Leader%E2%80%99s-adviser--Iran-will-shatter-US-naval-blockade-on-Hormuz-if-talks-fail",
    "source": "Press TV",
-   "published": "2026-06-09T09:30:43.221692+00:00",
+   "published": "2026-06-09T12:25:49.154938+00:00",
    "severity": "low"
   },
   {
    "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-09T09:30:43.221288+00:00",
+   "published": "2026-06-09T12:25:49.154536+00:00",
    "severity": "high"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-09T09:30:43.220778+00:00",
+   "published": "2026-06-09T12:25:49.154002+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "What were the reasons behind Israel’s attacks on Tyre?",
+   "link": "https://www.reddit.com/r/lebanon/comments/1u11k96/what_were_the_reasons_behind_israels_attacks_on/",
+   "source": "r/lebanon",
+   "published": "2026-06-09T10:52:01+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Oman coast: Indian crew rescued from tanker that caught fire after US strike",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u11jcc/oman_coast_indian_crew_rescued_from_tanker_that/",
+   "source": "r/worldnews",
+   "published": "2026-06-09T10:50:41+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says Iran deal could be reached in 'two or three days' and Strait of Hormuz will reopen 'immediately'",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1u10yn0/trump_says_iran_deal_could_be_reached_in_two_or/",
+   "source": "r/geopolitics",
+   "published": "2026-06-09T10:19:05+00:00",
    "severity": "info"
   },
   {
@@ -298,27 +319,6 @@
    "source": "BBC Middle East",
    "published": "2026-06-09T06:15:49+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1u0we4n/crew_rescued_after_us_helicopter_goes_down_near/",
-   "source": "r/geopolitics",
-   "published": "2026-06-09T05:50:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "How do you ship goods from the US to Lebanon? I used to use Shop&Ship in the past, but I’ve never shipped anything in the last two years. Is it still a very option? Or there is better alternatives?",
-   "link": "https://www.reddit.com/r/lebanon/comments/1u0wcek/how_do_you_ship_goods_from_the_us_to_lebanon_i/",
-   "source": "r/lebanon",
-   "published": "2026-06-09T05:48:03+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Thomas Massie calls for USS Liberty probe, elevating anti-Israel conspiracy theory to House floor",
-   "link": "https://www.jpost.com/american-politics/article-898790",
-   "source": "Jerusalem Post",
-   "published": "2026-06-09T05:16:56+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -332,21 +332,21 @@
      "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-09T09:30:43.221288+00:00",
+     "published": "2026-06-09T12:25:49.154536+00:00",
      "severity": "high"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T09:30:43.220778+00:00",
+     "published": "2026-06-09T12:25:49.154002+00:00",
      "severity": "info"
     },
     {
-     "title": "US Army helicopter crashes near Strait of Hormuz; Trump says two pilots ‘fine’",
-     "link": "https://www.timesofisrael.com/us-army-helicopter-crashes-near-strait-of-hormuz-trump-says-two-pilots-fine/",
-     "source": "Times of Israel",
-     "published": "2026-06-09T07:49:46+00:00",
+     "title": "Trump says Iran deal could be reached in 'two or three days' and Strait of Hormuz will reopen 'immediately'",
+     "link": "https://www.reddit.com/r/geopolitics/comments/1u10yn0/trump_says_iran_deal_could_be_reached_in_two_or/",
+     "source": "r/geopolitics",
+     "published": "2026-06-09T10:19:05+00:00",
      "severity": "info"
     }
    ]
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T09:30:43.220778+00:00",
+     "published": "2026-06-09T12:25:49.154002+00:00",
      "severity": "info"
     },
     {
@@ -390,6 +390,116 @@
  ],
  "wh_statements": [
   {
+   "id": "a9c5eb55a862",
+   "title": "Trump claims he's \"2 or 3 days\" from a deal with Iran (he's said this approximately 20 times since March)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnu6wsvwom2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T12:25:39.090+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6789c6aa6791",
+   "title": "Trump on Netanyahu: \"He hit back, and now they've called it quits. So they're gonna just leave each other alone for another week or something.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnu6sqao4v2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T12:23:22.071+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1a49888067b0",
+   "title": "Trump on Stephen A. Smith: \"You need a high IQ to run for president. I'm not sure that Stephen has that. I don't think he does actually.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnu6ppc3kp2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T12:21:40.409+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9c5307b08cf3",
+   "title": "Q: What did you think of the reception you got from Knicks fans tonight? TRUMP: I thought great. I thought it was amazing, actually. It was I think mostly cheers. (Trump was loudly booed)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnu6nv4rfl2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T12:20:39.414+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f83b2ea74529",
+   "title": "REPORTER: Will you guys go to the fifth game in San Antonio? ZELDIN: I don't know. We're busy with a lot of important stuff right now at EPA TRUMP: Like a war ZELDIN: I happened to be in New York",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnu6njholh2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T12:20:27.180+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3af3ea26b01",
+   "title": "Trump Confronted on ‘Reception’ From Knicks Fans — Claims It Was ‘Amazing’ Despite Being Lustily Booed",
+   "link": "https://www.mediaite.com/media/sports/trump-confronted-on-reception-from-knicks-fans-claims-it-was-amazing-despite-being-lustily-booed/",
+   "summary": "Trump was confronted by a reporter on the \"reception he got from New Yorkers at the Knicks game — where he was lustily booed — and claimed it was \"amazing.\" The post Trump Confronted on ‘Reception’ From Knicks Fans — Claims It Was ‘Amazing’ Despite Being Lustily Booed first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T12:18:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e9eadf5b422",
+   "title": "Morning Joe Crew Mocks Trump for ‘Pretty Clearly’ Falling Asleep at Knicks Game: ‘Not After All That Sleepy Joe Stuff!’",
+   "link": "https://www.mediaite.com/media/tv/morning-joe-crew-mocks-trump-for-pretty-clearly-falling-asleep-at-knicks-game-not-after-all-that-sleepy-joe-stuff/",
+   "summary": "Trump's courtside appearance on Monday night ignited speculation about whether the president briefly fell asleep while watching the action. The post Morning Joe Crew Mocks Trump for ‘Pretty Clearly’ Falling Asleep at Knicks Game: ‘Not After All That Sleepy Joe Stuff!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T12:12:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ade681feacfa",
+   "title": "Paramount Accuses Netflix of ‘Scorched-Earth’ Campaign to ‘Poison’ Warner Bros. Discovery Deal",
+   "link": "https://www.mediaite.com/media/news/paramount-accuses-netflix-of-scorched-earth-campaign-to-poison-warner-bros-discovery-deal/",
+   "summary": "In a Paramount letter to the DOJ the company's chief legal officer claims Netflix is trying to \"poison regulators\" and stakeholders against the deal. The post Paramount Accuses Netflix of ‘Scorched-Earth’ Campaign to ‘Poison’ Warner Bros. Discovery Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T10:51:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "23b64ae3732d",
+   "title": "Jimmy Kimmel Plants Loaded AI Diaper on Prez to Mock NBC Interview ‘Hissy Fit’: ‘Full-Blown Trumper Tantrum’",
+   "link": "https://www.mediaite.com/media/tv/jimmy-kimmel-plants-loaded-ai-diaper-on-prez-to-mock-nbc-interview-hissy-fit-full-blown-trumper-tantrum/",
+   "summary": "Kimmel mocked Trump for Trump for storming out of Sunday's Meet the Press interview when pressed to evidence his California election fraud “nonsense.” The post Jimmy Kimmel Plants Loaded AI Diaper on Prez to Mock NBC Interview ‘Hissy Fit’: ‘Full-Blown Trumper Tantrum’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T10:40:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d4c96288e7d",
+   "title": "Here’s What Trump Thinks About Stephen A. Smith Blaming Him for Knicks’ NBA Finals Loss",
+   "link": "https://www.mediaite.com/media/news/heres-what-trump-thinks-about-stephen-a-smith-blaming-him-for-knicks-nba-finals-loss/",
+   "summary": "Smith threatened to blame Trump after if the New York Knicks lost the NBA Finals game on Monday night, which they did. The post Here’s What Trump Thinks About Stephen A. Smith Blaming Him for Knicks’ NBA Finals Loss first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T10:28:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "911ce75bc7f9",
+   "title": "A noxious orange cloud looms over the World Cup",
+   "link": "https://www.publicnotice.co/p/world-cup-trump",
+   "summary": "If there's a way to spoil it, the FIFA Peace Prize winner will find it.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-09T10:18:05+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "cdae44125916",
    "title": "Some Maine Democrats are wavering on Graham Platner",
    "link": "https://www.politico.com/news/2026/06/09/graham-platner-maine-voters-concerns-00953986",
@@ -401,7 +511,7 @@
   },
   {
    "id": "a2d25841bb42",
-   "title": "Lindsey Graham is spending big to ward off an ‘America First’ primary challenge",
+   "title": "Lindsey Graham is fighting off an ‘America First’ primary challenge",
    "link": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
    "summary": "The senator is facing a well-funded challenge supported by some of President Donald Trump’s highest-profile MAGA defectors.",
    "source": "Politico Politics",
@@ -720,16 +830,6 @@
    "iran_topic": false
   },
   {
-   "id": "194cdae995bf",
-   "title": "JD Vance: \"I don't know why Democrats can't just find normal, well-adjusted candidates\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnsxfefzo325",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T00:37:57.526+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8d14b6e16f47",
    "title": "Trump’s Knicks Game Excursion Causes Chaos and Infuriates Fans Outside Madison Square Garden",
    "link": "https://www.mediaite.com/media/sports/trumps-knicks-game-excursion-causes-chaos-and-infuriates-fans-outside-madison-square-garden/",
@@ -790,26 +890,6 @@
    "iran_topic": false
   },
   {
-   "id": "48ac0699f125",
-   "title": "We all know something is wrong here and it ain’t the elections",
-   "link": "https://bsky.app/profile/electproject.bsky.social/post/3mnsrdjpd222l",
-   "summary": "",
-   "source": "@electproject",
-   "category": "trump_bsky",
-   "published": "2026-06-08T22:49:33.569+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "efc7f6abb930",
-   "title": "mike johnson is legitimately in the running for single worst speaker in the history of the house",
-   "link": "https://bsky.app/profile/jamellebouie.net/post/3mnspbxunfk2o",
-   "summary": "",
-   "source": "@jamellebouie",
-   "category": "trump_bsky",
-   "published": "2026-06-08T22:12:53.830+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1d3502c56ea4",
    "title": "Full interview and more from MeidasTouch here: youtu.be/pMNCCrolerQ",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnsoxotmos2c",
@@ -827,26 +907,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-08T22:07:08.809+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "226d56f9b1a7",
-   "title": "watch this video. look what a mess he looks like. when he’s not in the maga/ballroom/truth social bubble he just falls apart.",
-   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3mnsnhcag3k2u",
-   "summary": "",
-   "source": "@joshtpm",
-   "category": "trump_bsky",
-   "published": "2026-06-08T21:40:04.991+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "91115c1a0a20",
-   "title": "Ah yes. The fact that there’s not a shred of evidence just shows how “diabolical” the conspirators are.",
-   "link": "https://bsky.app/profile/normative.bsky.social/post/3mnsmvgg5622o",
-   "summary": "",
-   "source": "@normative",
-   "category": "trump_bsky",
-   "published": "2026-06-08T21:30:05.392+00:00",
    "iran_topic": false
   },
   {
@@ -877,56 +937,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-08T20:27:23+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec4c3ad87b05",
-   "title": "UFC Boss Dana White Makes Wildly Optimistic Prediction About White House Fight Card: ‘We’re Expecting Super Bowl-Type Numbers’",
-   "link": "https://www.mediaite.com/opinion/ufc-boss-dana-white-makes-wildly-optimistic-prediction-about-white-house-fight-card-were-expecting-super-bowl-type-numbers/",
-   "summary": "UFC President Dana White predicted the viewership for his White House event will rival the Super Bowl's. The claim doesn't appear to have any basis in reality. The post UFC Boss Dana White Makes Wildly Optimistic Prediction About White House Fight Card: ‘We’re Expecting Super Bowl-Type Numbers’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T20:06:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ebba20b782ee",
-   "title": "Top Senate Republican Dismisses Trump’s Demand He Fire Parliamentarian: ‘That’s a Hard Job’",
-   "link": "https://www.mediaite.com/media/news/top-senate-republican-dismisses-trumps-demand-he-fire-parliamentarian-thats-a-hard-job/",
-   "summary": "Senate Majority Leader John Thune (R-SD) quickly dismissed President Donald Trump's demand that he fire Senate Parliamentarian Elizabeth MacDonough. The post Top Senate Republican Dismisses Trump’s Demand He Fire Parliamentarian: ‘That’s a Hard Job’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:51:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "531a71841e02",
-   "title": "‘What Else Should I Do?’ Savannah Guthrie Tears Up Discussing Return To Today Show With Mother Still Missing",
-   "link": "https://www.mediaite.com/media/news/what-else-should-i-do-savannah-guthrie-tears-up-discussing-return-to-today-show-with-mother-still-missing/",
-   "summary": "NBC News anchor Savannah Guthrie teared up while discussing her return to the Today Show, claiming her decision to come back to work after her mother's disappearance was \"not easy.\" The post ‘What Else Should I Do?’ Savannah Guthrie Tears Up Discussing Return To Today Show With Mother Still Missing first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:50:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec58484352e6",
-   "title": "Knicks Fans Tell MS NOW They’re Fine With Trump Going to the Big Game: ‘The More the Merrier’",
-   "link": "https://www.mediaite.com/media/knicks-fans-tell-ms-now-theyre-fine-with-trump-going-to-the-big-game-the-more-the-merrier/",
-   "summary": "MS NOW talked to several other New York fans who did not seem to mind Trump hitting the Knicks game on Monday night, with one fan saying \"the more the merrier\" The post Knicks Fans Tell MS NOW They’re Fine With Trump Going to the Big Game: ‘The More the Merrier’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:45:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7a1c3a7476de",
-   "title": "Federal Judge Nukes Trump’s $100K H-1B Visa Fee by Ruling It’s an Unlawful Tax",
-   "link": "https://www.mediaite.com/lawcrime/federal-judge-nukes-trumps-100k-h-1b-visa-fee-by-ruling-its-an-unlawful-tax/",
-   "summary": "A federal judge has struck down President Donald Trump's executive order imposing a $100,000 payment on employers submitting petitions for new H-1B visas. The post Federal Judge Nukes Trump’s $100K H-1B Visa Fee by Ruling It’s an Unlawful Tax first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-08T19:44:18+00:00",
    "iran_topic": false
   },
   {
@@ -977,16 +987,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-08T13:50:25.485+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "15a585c64241",
-   "title": "Pam Bondi was the worst AG in history. Until now.",
-   "link": "https://www.publicnotice.co/p/todd-blanche",
-   "summary": "Todd Blanche, it&#8217;s your turn.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-08T10:18:18+00:00",
    "iran_topic": false
   }
  ]
