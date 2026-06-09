@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T21:45:31.981987+00:00",
+ "generated": "2026-06-09T23:05:59.216033+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.83,
-   "change": -2.42,
-   "change_pct": -2.57,
+   "price": 92.4,
+   "change": -1.85,
+   "change_pct": -1.96,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    91.83000183105469
+    92.4000015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.7,
-   "change": -2.6,
-   "change_pct": -2.85,
+   "price": 89.1,
+   "change": -2.2,
+   "change_pct": -2.41,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    88.69999694824219
+    89.0999984741211
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4284.8,
-   "change": -51.1,
-   "change_pct": -1.18,
+   "price": 4259.7,
+   "change": -76.2,
+   "change_pct": -1.76,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4284.7998046875
+    4259.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.99,
+   "price": 100.0,
    "change": -0.06,
-   "change_pct": -0.06,
+   "change_pct": -0.05,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.98999786376953
+    99.99500274658203
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.14,
    "change": -0.01,
-   "change_pct": -0.29,
+   "change_pct": -0.32,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.138000011444092
+    3.13700008392334
    ]
   }
  },
@@ -219,21 +219,49 @@
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-09T21:44:34.806327+00:00",
+   "published": "2026-06-09T23:05:02.509834+00:00",
    "severity": "info"
   },
   {
    "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
    "source": "Press TV",
-   "published": "2026-06-09T21:44:34.805333+00:00",
+   "published": "2026-06-09T23:05:02.509223+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Breaking News: The U.S. launched retaliatory strikes against Iran a day after an American helicopter was shot down near the Strait of Hormuz. Follow live updates.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mnvcfeqw7p2s",
+   "source": "@nytimes",
+   "published": "2026-06-09T23:00:08.530954+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Saudi jet fuel supply to Europe higher than before Hormuz closure, data shows reut.rs/4uuXrHj",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnvbbz6h7b26",
+   "source": "@reuters",
+   "published": "2026-06-09T22:40:21+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump (Updated)",
+   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
+   "source": "The Drive",
+   "published": "2026-06-09T22:25:37+00:00",
+   "severity": "critical"
   },
   {
    "title": "US striking Iran in response to downing of helicopter, military says",
    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Middle East",
    "published": "2026-06-09T21:43:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Kuwait Looks To Bypass Hormuz By Routing Oil Through Saudi, UAE Pipelines",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u1isce/kuwait_looks_to_bypass_hormuz_by_routing_oil/",
+   "source": "r/worldnews",
+   "published": "2026-06-09T21:40:40+00:00",
    "severity": "info"
   },
   {
@@ -244,10 +272,10 @@
    "severity": "info"
   },
   {
-   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump (Updated)",
-   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
-   "source": "The Drive",
-   "published": "2026-06-09T21:29:25+00:00",
+   "title": "US military hits Iranian targets around Strait of Hormuz after downing of helicopter",
+   "link": "https://www.timesofisrael.com/liveblog-june-10-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-09T21:28:34+00:00",
    "severity": "critical"
   },
   {
@@ -255,7 +283,7 @@
    "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
    "source": "Times of Israel",
    "published": "2026-06-09T21:18:43+00:00",
-   "severity": "info"
+   "severity": "high"
   },
   {
    "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
@@ -291,63 +319,35 @@
    "source": "Jerusalem Post",
    "published": "2026-06-09T20:00:00+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US must respond to Iran’s downing of Apache helicopter, Trump warns",
-   "link": "https://www.jpost.com/middle-east/article-898893",
-   "source": "Jerusalem Post",
-   "published": "2026-06-09T19:52:09+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Trump acknowledges US attack helicopter crash near Strait of Hormuz",
-   "link": "https://presstv.ir/Detail/2026/06/09/770112/Trump-helicopter-crash-Strait-of-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-09T19:48:18.652232+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "US energy chief says oil exports through Strait of Hormuz, Gulf will 'continue to rise' reut.rs/4uAZ5HO",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnuxj22cyr26",
-   "source": "@reuters",
-   "published": "2026-06-09T19:45:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "This Is The Corsair Drone Boat That Plucked The Downed Apache Crew Out Of The Gulf Of Oman",
-   "link": "https://www.twz.com/sea/this-is-the-corsair-drone-boat-that-plucked-the-downed-apache-crew-out-of-the-gulf-of-oman",
-   "source": "The Drive",
-   "published": "2026-06-09T19:40:43+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 8,
+   "status": "ELEVATED",
+   "incident_count": 9,
    "recent": [
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T21:44:34.806327+00:00",
+     "published": "2026-06-09T23:05:02.509834+00:00",
      "severity": "info"
     },
     {
      "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
      "source": "Press TV",
-     "published": "2026-06-09T21:44:34.805333+00:00",
+     "published": "2026-06-09T23:05:02.509223+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation",
-     "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
-     "source": "Times of Israel",
-     "published": "2026-06-09T21:18:43+00:00",
-     "severity": "info"
+     "title": "Breaking News: The U.S. launched retaliatory strikes against Iran a day after an American helicopter was shot down near the Strait of Hormuz. Follow live updates.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mnvcfeqw7p2s",
+     "source": "@nytimes",
+     "published": "2026-06-09T23:00:08.530954+00:00",
+     "severity": "critical"
     }
    ]
   },
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T21:44:34.806327+00:00",
+     "published": "2026-06-09T23:05:02.509834+00:00",
      "severity": "info"
     }
    ]
@@ -383,6 +383,106 @@
  ],
  "wh_statements": [
   {
+   "id": "a7828b1ca3ad",
+   "title": "Watch the full video here: youtu.be/JZGmfobPggc",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvcn45uuc22",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:04:27.985+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2350d3c31e99",
+   "title": "Raskin: This is not an administration that has a plan to lower gas prices. On the contrary, their illegal, unconstitutional war with Iran is driving them up. It’s a government that operates like The Sopranos. Like, what grift are they going to be able to get away with today?",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvcn45i6222",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:04:27.984+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "88217a0a9d3b",
+   "title": "Sen. Tuberville Slammed by GOP Colleague for ‘Remarkable’ Attack on Fellow Republicans",
+   "link": "https://www.mediaite.com/media/news/sen-tuberville-slammed-by-gop-colleague-for-remarkable-attack-on-fellow-republicans/",
+   "summary": "Sen. Tommy Tuberville (R-AL) was called out for his attacks on fellow Republicans on Monday in a scathing email sent by Sen. Thom Tillis (R-NC) to his GOP colleagues. The post Sen. Tuberville Slammed by GOP Colleague for ‘Remarkable’ Attack on Fellow Republicans first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:54:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5923dc810b59",
+   "title": "‘I Don’t Know What That Means’: Skeptical Jesse Watters Perplexed by Trump’s Latest War Claim",
+   "link": "https://www.mediaite.com/media/tv/i-dont-know-what-that-means-skeptical-jesse-watters-perplexed-by-trumps-latest-war-claim/",
+   "summary": "\"We've heard that for a very long time.\" The post ‘I Don’t Know What That Means’: Skeptical Jesse Watters Perplexed by Trump’s Latest War Claim first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:44:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "78c114847bb8",
+   "title": "Grand Juror Told Trump DOJ Prosecutor ‘Broadview Six’ Case Was a ‘Crock of Sh*t,’ Wild Transcript Reveals",
+   "link": "https://www.mediaite.com/lawcrime/grand-juror-told-trump-doj-prosecutor-broadview-six-case-was-a-crock-of-sht-wild-transcript-reveals/",
+   "summary": "An already unusual federal criminal case got even wilder Tuesday as grand jury transcripts were made public. The post Grand Juror Told Trump DOJ Prosecutor ‘Broadview Six’ Case Was a ‘Crock of Sh*t,’ Wild Transcript Reveals first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:38:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89df804f274c",
+   "title": "John Thune Receives Rare Praise on the Left For Insisting Rigged Election Allegations Require Evidence",
+   "link": "https://www.mediaite.com/politics/john-thune-receives-rare-praise-on-the-left-for-insisting-rigged-election-allegations-require-evidence/",
+   "summary": "“This is a totally fair criticism by @LeaderJohnThune and one shared by many Democrats in California. Appreciate him not spreading disinformation\" The post John Thune Receives Rare Praise on the Left For Insisting Rigged Election Allegations Require Evidence first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:14:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f7ccac926f96",
+   "title": "\"Only in blue states\". Bullshyt.",
+   "link": "https://bsky.app/profile/mccainsuzanne.bsky.social/post/3mnv7se74mc23",
+   "summary": "",
+   "source": "@mccainsuzanne",
+   "category": "trump_bsky",
+   "published": "2026-06-09T22:13:42.974+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4045aa23f08",
+   "title": "Fox’s Jesse Watters Wildly Understates Knicks Fans’ Reaction to Trump: ‘I Did Hear Some Boos’",
+   "link": "https://www.mediaite.com/media/tv/foxs-jesse-watters-wildly-understates-knicks-fans-reaction-to-trump-i-did-hear-some-boos/",
+   "summary": "President Donald Trump was loudly booed during Monday's NBA Finals game at Madison Square Garden, but to hear Jesse Watters tell it, the reaction was \"mixed.\" The post Fox’s Jesse Watters Wildly Understates Knicks Fans’ Reaction to Trump: ‘I Did Hear Some Boos’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:08:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5437ecda823b",
+   "title": "Kudos on just coming out and saying black people cheat. Why not wear the white robe/hood and burn a cross while you're at it? 😳😳😳",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mnv7f7v47s2o",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-09T22:06:22.243+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89e8577eab88",
+   "title": "Uncovered Bodycam Video Shows Pima Sheriff Handling Nancy Guthrie Case Caught With Undeclared Gun at Airport",
+   "link": "https://www.mediaite.com/media/news/uncovered-bodycam-video-shows-pima-sheriff-handling-nancy-guthrie-case-caught-with-undeclared-gun-at-airport/",
+   "summary": "New bodycam footage shows Pima County Sheriff Chris Nanos being stopped and questioned by airport cops after bringing an undeclared, loaded gun through TSA The post Uncovered Bodycam Video Shows Pima Sheriff Handling Nancy Guthrie Case Caught With Undeclared Gun at Airport first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T22:03:01+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "24c4c67661a8",
    "title": "Trump thinks Iran deal ‘still close’ despite retaliatory strikes over downed helicopter",
    "link": "https://www.politico.com/news/2026/06/09/trump-thinks-iran-deal-still-close-despite-retaliatory-strikes-over-downed-helicopter-00955250",
@@ -400,6 +500,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-09T21:39:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6cd587d76926",
+   "title": "I'm looking forward to a future where we no longer have to hear this type of story* *because Bari Weiss will fire anyone on CNN reporting it",
+   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mnv5s5cmm22y",
+   "summary": "",
+   "source": "@donmoyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T21:37:48.264+00:00",
    "iran_topic": false
   },
   {
@@ -464,9 +574,9 @@
   },
   {
    "id": "e21d92546054",
-   "title": "BREAKING: US Bombs Iran In Retaliation For Downed Apache Helicopter",
+   "title": "US Bombs Iran In Retaliation For Downed Apache Helicopter",
    "link": "https://www.mediaite.com/politics/us-iran-bombs-retaliation-apache-helicopter/",
-   "summary": "Trump said on Tuesday that Iran shooting down a U.S. Apache helicopter on Monday night “wasn’t a big deal” – just hours after vowing to “respond.” The post BREAKING: US Bombs Iran In Retaliation For Downed Apache Helicopter first appeared on Mediaite .",
+   "summary": "Trump said on Tuesday that Iran shooting down a U.S. Apache helicopter on Monday night “wasn’t a big deal” – just hours after vowing to “respond.” The post US Bombs Iran In Retaliation For Downed Apache Helicopter first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-09T20:52:23+00:00",
@@ -783,96 +893,6 @@
    "iran_topic": false
   },
   {
-   "id": "79fdfe8cfff6",
-   "title": "Comer: \"What we're seeing especially in the blue states is there is rampant fraud, especially in the minority communities\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnutyouksr2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:42:30.537+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0bf9248f26f8",
-   "title": "Comer: \"Is it illegal to for a decade turn a blind eye to the tune of billions of dollars wasted to fraud? ... I believe it is\" (Somehow he's not talking about Trump ... )",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnutx2yckb2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:41:36.132+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c2f1b5eed24b",
-   "title": "Q: Now the president is hinting at restarting military operations in Iran. Are Republican senators on the sidelines? THUNE: Senators are kept in the loop for the most part. I hope our members are inclined to continued the support the administration's efforts to strike a deal",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnut7cx5jl2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:28:19.176+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "36cd72acf73d",
-   "title": "‘ICE Is Not Welcome!’ Knicks Superfan Spike Lee Demands ICE Steer Clear of Parade If NY Wins NBA Finals",
-   "link": "https://www.mediaite.com/media/sports/ice-is-not-welcome-knicks-superfan-spike-lee-demands-ice-steer-clear-of-parade-if-ny-wins-nba-finals/",
-   "summary": "Acclaimed filmmaker and New York Knicks superfan Spike Lee wants ICE agents to steer clear of the team's championship parade if it manages to win the Finals. The post ‘ICE Is Not Welcome!’ Knicks Superfan Spike Lee Demands ICE Steer Clear of Parade If NY Wins NBA Finals first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T18:28:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ab98fa0eaaf1",
-   "title": "CNN Liberals Bust Out Laughing As Trump Allies Brawl With Each Other Over War: ‘Get Some Popcorn!’",
-   "link": "https://www.mediaite.com/media/tv/cnn-libs-bust-out-laughing-as-trump-allies-brawl-over-war-dont-interrupt/",
-   "summary": "Liberal CNN panelists busted out laughing and even applauded as two allies of President Donald Trump filleted each other over the Iran war. The post CNN Liberals Bust Out Laughing As Trump Allies Brawl With Each Other Over War: ‘Get Some Popcorn!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T18:17:45+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "23914a68bd0a",
-   "title": "MLK’s Niece Brawls With House Democrat in Hearing — Rants About SPLC ‘Killing the Babies and Cutting the Penises Off’",
-   "link": "https://www.mediaite.com/politics/mlks-niece-brawls-with-house-democrat-in-hearing-rants-about-splc-killing-the-babies-and-cutting-the-penises-off/",
-   "summary": "Alveda King slammed the SPLC for \"cutting the penises off\" kids and funding abortions during a wild confrontation with Democrat Jamie Raskin on Tuesday The post MLK’s Niece Brawls With House Democrat in Hearing — Rants About SPLC ‘Killing the Babies and Cutting the Penises Off’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T17:29:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e013d05f2b6a",
-   "title": "Fox Host Confronts GOP Congressman on Trump Getting Booed at Knicks Game: ‘Didn’t Offer Unity, Did it?’",
-   "link": "https://www.mediaite.com/media/news/fox-host-confronts-gop-congressman-on-trump-getting-booed-at-knicks-game-didnt-offer-unity-did-it/",
-   "summary": "\"It didn't seem like the game united New Yorkers. Mr. Trump was booed. So it didn't offer unity, did it? It was more like offering division at the game\" The post Fox Host Confronts GOP Congressman on Trump Getting Booed at Knicks Game: ‘Didn’t Offer Unity, Did it?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T17:22:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0d1b4b7e1ce0",
-   "title": "‘The Brother Wasn’t Awake!’ Stephen A. Smith Goes OFF on Trump for Attacking Him After Knicks Loss",
-   "link": "https://www.mediaite.com/media/sports/the-brother-wasnt-awake-stephen-a-smith-goes-off-on-trump-for-attacking-him-after-knicks-loss/",
-   "summary": "Stephen A. Smith went on a lengthy rant Tuesday responding to President Donald Trump implying he had a low IQ over his recent criticism. The post ‘The Brother Wasn’t Awake!’ Stephen A. Smith Goes OFF on Trump for Attacking Him After Knicks Loss first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T17:08:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "555c975f7b3c",
-   "title": "Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter",
-   "link": "https://www.mediaite.com/media/news/breaking-trump-vows-to-respond-after-iran-shot-down-us-helicopter/",
-   "summary": "\"Nevertheless, the United States must, of necessity, respond to this attack. Thank you for your attention to this matter!\" The post Trump Vows to ‘Respond’ After Iran Shot Down US Helicopter first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T17:03:27+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "4c81034df8a5",
    "title": "Can Donald Trump ruin the World Cup? He's sure giving it his best shot. My latest at Public Notice: www.publicnotice.co/p/world-cup-...",
    "link": "https://bsky.app/profile/paulwaldman.bsky.social/post/3mnulmeufds27",
@@ -960,26 +980,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-09T03:33:17.801+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "42b430f0fea9",
-   "title": "Breaking on MS NOW: Donald Trump was just \"thunderously booed\" during the National Anthem at the NBA Finals in New York, according to the pool report. He was shown on the Jumbotron and then booed so much that the shot was taken down.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsy54vrfk2m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-09T00:51:15.015+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a2902932a3f2",
-   "title": "BREAKING: WASHINGTON (AP) - Nithya Raman advances to November runoff in Los Angeles mayor's race.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnsvfurlsc2g",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-09T00:02:27.254+00:00",
    "iran_topic": false
   }
  ]
