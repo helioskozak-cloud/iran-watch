@@ -1,55 +1,55 @@
 {
- "generated": "2026-06-10T08:06:26.820748+00:00",
+ "generated": "2026-06-10T09:45:49.215278+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.49,
-   "change": 0.04,
-   "change_pct": 0.04,
+   "price": 91.03,
+   "change": -0.42,
+   "change_pct": -0.46,
    "spark": [
     93.08999633789062,
     94.25,
     91.44999694824219,
-    91.48999786376953
+    91.02999877929688
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.06,
-   "change": -0.14,
-   "change_pct": -0.16,
+   "price": 87.8,
+   "change": -0.4,
+   "change_pct": -0.45,
    "spark": [
     90.54000091552734,
     91.30000305175781,
     88.19999694824219,
-    88.05999755859375
+    87.80000305175781
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4208.4,
-   "change": -51.6,
-   "change_pct": -1.21,
+   "price": 4199.9,
+   "change": -60.1,
+   "change_pct": -1.41,
    "spark": [
     4337.10009765625,
     4335.89990234375,
     4260.0,
-    4208.39990234375
+    4199.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.89,
-   "change": -0.16,
-   "change_pct": -0.16,
+   "price": 99.88,
+   "change": -0.17,
+   "change_pct": -0.17,
    "spark": [
     100.06999969482422,
     100.05000305175781,
-    99.88999938964844
+    99.88300323486328
    ]
   },
   "^GSPC": {
@@ -81,27 +81,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.14,
-   "change": 1.22,
-   "change_pct": 6.45,
+   "price": 20.99,
+   "change": 2.07,
+   "change_pct": 10.94,
    "spark": [
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    20.139999389648438
+    20.989999771118164
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.17,
-   "change": 0.03,
-   "change_pct": 0.86,
+   "price": 3.15,
+   "change": 0.01,
+   "change_pct": 0.29,
    "spark": [
     3.2290000915527344,
     3.1470000743865967,
     3.140000104904175,
-    3.1670000553131104
+    3.1489999294281006
    ]
   }
  },
@@ -212,11 +212,53 @@
  ],
  "incidents": [
   {
+   "title": "For the first time ever: An autonomous drone boat rescues US pilots in Strait of Hormuz",
+   "link": "https://www.jpost.com/defense-and-tech/article-898958",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T12:03:33+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran seizes exiled soccer star Ali Karimi's villa, assets over alleged Israel ties",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898936",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T11:44:37+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Israel should have seized Iran's uranium during Operation Roaring Lion, Gallant says",
    "link": "https://www.jpost.com/middle-east/iran-news/article-898943",
    "source": "Jerusalem Post",
    "published": "2026-06-10T10:42:39+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
+   "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
+   "source": "Press TV",
+   "published": "2026-06-10T09:45:00.818195+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+   "source": "Press TV",
+   "published": "2026-06-10T09:45:00.817992+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
+   "source": "Press TV",
+   "published": "2026-06-10T09:45:00.816204+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US strikes Iran in response to downing of military helicopter",
+   "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-10T09:39:35+00:00",
+   "severity": "info"
   },
   {
    "title": "Cargo vessel exchanges fire with armed craft off of Yemen, UKMTO reports",
@@ -233,38 +275,10 @@
    "severity": "low"
   },
   {
-   "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
-   "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
-   "source": "Press TV",
-   "published": "2026-06-10T08:05:39.083434+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-   "source": "Press TV",
-   "published": "2026-06-10T08:05:39.083314+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
-   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
-   "source": "Press TV",
-   "published": "2026-06-10T08:05:39.082175+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran attacks US bases in Jordan and Bahrain",
    "link": "https://www.al-monitor.com/originals/2026/06/iran-attacks-us-bases-jordan-and-bahrain",
    "source": "Al-Monitor",
    "published": "2026-06-10T08:00:16+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US strikes Iran in response to downing of military helicopter",
-   "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-10T07:33:16+00:00",
    "severity": "info"
   },
   {
@@ -301,20 +315,6 @@
    "source": "r/worldnews",
    "published": "2026-06-10T04:39:47+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-us-bases-jordan-and-gulf-after-trump-orders-strikes-near-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-10T04:01:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
-   "link": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-10T02:58:08+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,24 +325,24 @@
    "incident_count": 6,
    "recent": [
     {
+     "title": "For the first time ever: An autonomous drone boat rescues US pilots in Strait of Hormuz",
+     "link": "https://www.jpost.com/defense-and-tech/article-898958",
+     "source": "Jerusalem Post",
+     "published": "2026-06-10T12:03:33+00:00",
+     "severity": "info"
+    },
+    {
      "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
      "source": "Press TV",
-     "published": "2026-06-10T08:05:39.083434+00:00",
+     "published": "2026-06-10T09:45:00.818195+00:00",
      "severity": "info"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-10T08:05:39.083314+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
-     "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
-     "source": "Press TV",
-     "published": "2026-06-10T08:05:39.082175+00:00",
+     "published": "2026-06-10T09:45:00.817992+00:00",
      "severity": "info"
     }
    ]
@@ -354,18 +354,18 @@
    "incident_count": 3,
    "recent": [
     {
+     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+     "source": "Press TV",
+     "published": "2026-06-10T09:45:00.817992+00:00",
+     "severity": "info"
+    },
+    {
      "title": "Cargo vessel exchanges fire with armed craft off of Yemen, UKMTO reports",
      "link": "https://www.jpost.com/middle-east/article-898930",
      "source": "Jerusalem Post",
      "published": "2026-06-10T09:22:51+00:00",
      "severity": "critical"
-    },
-    {
-     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-     "source": "Press TV",
-     "published": "2026-06-10T08:05:39.083314+00:00",
-     "severity": "info"
     },
     {
      "title": "Guards on a cargo ship off the coast of Yemen in the Gulf of Aden exchanged fire with gunmen in a small boat, the British military said. No group immediately claimed responsibility for the attack.",
