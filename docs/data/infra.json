@@ -1,111 +1,107 @@
 {
- "generated": "2026-06-10T03:30:10.373853+00:00",
+ "generated": "2026-06-10T08:06:26.820748+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.33,
-   "change": -1.92,
-   "change_pct": -2.04,
+   "price": 91.49,
+   "change": 0.04,
+   "change_pct": 0.04,
    "spark": [
-    95.02999877929688,
     93.08999633789062,
     94.25,
-    92.33000183105469
+    91.44999694824219,
+    91.48999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 89.07,
-   "change": -2.23,
-   "change_pct": -2.44,
+   "price": 88.06,
+   "change": -0.14,
+   "change_pct": -0.16,
    "spark": [
-    93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    89.06999969482422
+    88.19999694824219,
+    88.05999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4199.1,
-   "change": -136.8,
-   "change_pct": -3.16,
+   "price": 4208.4,
+   "change": -51.6,
+   "change_pct": -1.21,
    "spark": [
-    4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4199.10009765625
+    4260.0,
+    4208.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.93,
-   "change": -0.12,
-   "change_pct": -0.12,
+   "price": 99.89,
+   "change": -0.16,
+   "change_pct": -0.16,
    "spark": [
-    99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.92500305175781
+    99.88999938964844
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7386.65,
-   "change": -19.08,
-   "change_pct": -0.26,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7553.68017578125,
     7584.31005859375,
     7383.740234375,
-    7405.72998046875,
-    7386.64990234375
+    7405.72998046875
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 131.3,
-   "change": -3.85,
-   "change_pct": -2.85,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     140.86000061035156,
     136.74000549316406,
     133.02000427246094,
-    135.14999389648438,
-    131.3000030517578
+    135.14999389648438
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.87,
-   "change": 0.95,
-   "change_pct": 5.02,
+   "price": 20.14,
+   "change": 1.22,
+   "change_pct": 6.45,
    "spark": [
-    16.059999465942383,
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    19.8700008392334
+    20.139999389648438
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.13,
-   "change": -0.02,
-   "change_pct": -0.51,
+   "price": 3.17,
+   "change": 0.03,
+   "change_pct": 0.86,
    "spark": [
-    3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.13100004196167
+    3.140000104904175,
+    3.1670000553131104
    ]
   }
  },
@@ -216,108 +212,108 @@
  ],
  "incidents": [
   {
+   "title": "Israel should have seized Iran's uranium during Operation Roaring Lion, Gallant says",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898943",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T10:42:39+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Cargo vessel exchanges fire with armed craft off of Yemen, UKMTO reports",
+   "link": "https://www.jpost.com/middle-east/article-898930",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T09:22:51+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US-Iran nuclear talks saw progress on key issues before recent strikes - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898928",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T09:13:07+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
    "source": "Press TV",
-   "published": "2026-06-10T03:29:13.146095+00:00",
+   "published": "2026-06-10T08:05:39.083434+00:00",
    "severity": "info"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-10T03:29:13.145896+00:00",
+   "published": "2026-06-10T08:05:39.083314+00:00",
    "severity": "info"
   },
   {
-   "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
+   "source": "Press TV",
+   "published": "2026-06-10T08:05:39.082175+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran attacks US bases in Jordan and Bahrain",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-attacks-us-bases-jordan-and-bahrain",
+   "source": "Al-Monitor",
+   "published": "2026-06-10T08:00:16+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US strikes Iran in response to downing of military helicopter",
    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Middle East",
-   "published": "2026-06-10T03:12:34+00:00",
+   "published": "2026-06-10T07:33:16+00:00",
    "severity": "info"
   },
   {
-   "title": "Iran strikes Bahrain and Jordan in retaliation for US attacks in Hormuz",
+   "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz reut.rs/4fwXMFR",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnw5rlq4ck2r",
+   "source": "@reuters",
+   "published": "2026-06-10T07:10:09+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Guards on a cargo ship off the coast of Yemen in the Gulf of Aden exchanged fire with gunmen in a small boat, the British military said. No group immediately claimed responsibility for the attack.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mnw3zak3kq2g",
+   "source": "@apnews",
+   "published": "2026-06-10T06:38:38+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "US Air Force confident in fix for Boeing KC-46 refueling tanker reut.rs/3Qxa3Qn",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnw3b4tt4b26",
+   "source": "@reuters",
+   "published": "2026-06-10T06:25:09+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran’s Army and IRGC target US bases: Statement",
+   "link": "https://en.irna.ir/news/86178430/Iran-s-Army-and-IRGC-target-US-bases-Statement",
+   "source": "IRNA",
+   "published": "2026-06-10T05:39:49+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran targets US bases in Jordan and the Gulf, after Trump orders strikes near Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u1s4m7/iran_targets_us_bases_in_jordan_and_the_gulf/",
+   "source": "r/worldnews",
+   "published": "2026-06-10T04:39:47+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-targets-us-bases-jordan-and-gulf-after-trump-orders-strikes-near-hormuz",
+   "source": "Al-Monitor",
+   "published": "2026-06-10T04:01:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
    "link": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-10T02:58:08+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Sudan crisis worsens as civil war enters 4th year and Hormuz closure disrupts aid",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1u1psou/sudan_crisis_worsens_as_civil_war_enters_4th_year/",
-   "source": "r/geopolitics",
-   "published": "2026-06-10T02:45:05+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "US conducts repeated retaliatory strikes in Iran following attack of US helicopter",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-898908",
-   "source": "Jerusalem Post",
-   "published": "2026-06-10T00:25:02+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-   "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-09T23:35:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Breaking News: The U.S. launched retaliatory strikes against Iran a day after an American helicopter was shot down near the Strait of Hormuz. Follow live updates.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mnvcfeqw7p2s",
-   "source": "@nytimes",
-   "published": "2026-06-09T23:00:08.530954+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Saudi jet fuel supply to Europe higher than before Hormuz closure, data shows reut.rs/4uuXrHj",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnvbbz6h7b26",
-   "source": "@reuters",
-   "published": "2026-06-09T22:40:21+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "AH-64 Apache Shot Down By Iran, U.S. Will Retaliate: Trump (Updated)",
-   "link": "https://www.twz.com/news-features/ah-64-apache-shot-down-by-iran-u-s-will-retaliate-trump",
-   "source": "The Drive",
-   "published": "2026-06-09T22:25:37+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Kuwait Looks To Bypass Hormuz By Routing Oil Through Saudi, UAE Pipelines",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u1isce/kuwait_looks_to_bypass_hormuz_by_routing_oil/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T21:40:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
-   "link": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
-   "source": "USNI News",
-   "published": "2026-06-09T21:31:22+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US strikes Iran after Trump vows retaliation for downing of US helicopter over Hormuz",
-   "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
-   "source": "Times of Israel",
-   "published": "2026-06-09T21:18:43+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-09T21:17:31+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran says it didn't deliberately target US chopper over Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u1hn0j/iran_says_it_didnt_deliberately_target_us_chopper/",
-   "source": "r/worldnews",
-   "published": "2026-06-09T20:58:12+00:00",
    "severity": "info"
   }
  ],
@@ -325,28 +321,28 @@
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 11,
+   "status": "ACTIVE",
+   "incident_count": 6,
    "recent": [
     {
      "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
      "source": "Press TV",
-     "published": "2026-06-10T03:29:13.146095+00:00",
+     "published": "2026-06-10T08:05:39.083434+00:00",
      "severity": "info"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-10T03:29:13.145896+00:00",
+     "published": "2026-06-10T08:05:39.083314+00:00",
      "severity": "info"
     },
     {
-     "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
-     "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Middle East",
-     "published": "2026-06-10T03:12:34+00:00",
+     "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+     "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
+     "source": "Press TV",
+     "published": "2026-06-10T08:05:39.082175+00:00",
      "severity": "info"
     }
    ]
@@ -354,15 +350,29 @@
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "ACTIVE",
-   "incident_count": 1,
+   "status": "ELEVATED",
+   "incident_count": 3,
    "recent": [
+    {
+     "title": "Cargo vessel exchanges fire with armed craft off of Yemen, UKMTO reports",
+     "link": "https://www.jpost.com/middle-east/article-898930",
+     "source": "Jerusalem Post",
+     "published": "2026-06-10T09:22:51+00:00",
+     "severity": "critical"
+    },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-10T03:29:13.145896+00:00",
+     "published": "2026-06-10T08:05:39.083314+00:00",
      "severity": "info"
+    },
+    {
+     "title": "Guards on a cargo ship off the coast of Yemen in the Gulf of Aden exchanged fire with gunmen in a small boat, the British military said. No group immediately claimed responsibility for the attack.",
+     "link": "https://bsky.app/profile/apnews.com/post/3mnw3zak3kq2g",
+     "source": "@apnews",
+     "published": "2026-06-10T06:38:38+00:00",
+     "severity": "high"
     }
    ]
   },
@@ -382,6 +392,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "4a2d71243d67",
+   "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
+   "link": "https://www.politico.com/news/2026/06/10/democrats-line-up-graham-platner-maine-00955581",
+   "summary": "Democrats largely lined up behind their new Maine Senate nominee on Tuesday, while Republicans were quick to launch their attacks.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-10T04:53:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3d8eb0577cc3",
+   "title": "Teresa Benitez-Thompson wins crowded Dem primary for Nevada House seat",
+   "link": "https://www.politico.com/news/2026/06/10/benitez-thompson-wins-nevada-house-primary-00955586",
+   "summary": "Her victory has Democrats hopeful about flipping the district this cycle.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-10T04:19:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6e5cfa359183",
+   "title": "Trump Appears To Call Out Military Brass for ‘Proportional Response’ To Iran Downing Helicopter",
+   "link": "https://www.mediaite.com/media/news/trump-appears-to-call-out-military-brass-for-proportional-response-to-iran-downing-helicopter/",
+   "summary": "President Donald Trump appeared to call out U.S. military brass over what he believes was an insufficient response to Iran shooting down an Army helicopter. The post Trump Appears To Call Out Military Brass for ‘Proportional Response’ To Iran Downing Helicopter first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T03:37:10+00:00",
+   "iran_topic": true
+  },
   {
    "id": "9ae39d97a45c",
    "title": "the White House's UFC arena is all lit up tonight",
@@ -951,36 +991,6 @@
    "category": "trump_bsky",
    "published": "2026-06-09T20:30:32.432+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "bc4a111b3ef4",
-   "title": "CNN Counts the Eye-Popping Amount of Times Trump Has Claimed Iran Deal Is Close",
-   "link": "https://www.mediaite.com/media/news/cnn-counts-the-eye-popping-amount-of-times-trump-has-claimed-iran-deal-is-close/",
-   "summary": "\"Yeah, and I'm really glad somebody finally took the time to count out how many times, because it felt like we were saying it every single day.\" The post CNN Counts the Eye-Popping Amount of Times Trump Has Claimed Iran Deal Is Close first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:29:08+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3213f20290b1",
-   "title": "The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda",
-   "link": "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/",
-   "summary": "After four years of Democrats’ dangerous open-border policies that fueled chaos and lawlessness across the country, President Trump has delivered the most secure border in history, with illegal crossings dropping to record lows—just as he promised. In spite of President Trump’s successes that have made our communities safer and crime drop to generational lows, congressional [&#8230;] The post The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-09T20:26:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "561e61123b64",
-   "title": "BREAKING MS NOW: ICE has detained over 500 babies and toddlers under Trump. On an average day, ICE has 25 children aged 3 or younger in custody, according to joint research by MS NOW and The Marshall Project.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnuzhm2vwk26",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:20:19.674+00:00",
-   "iran_topic": false
   }
  ]
 }
