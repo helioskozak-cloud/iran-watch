@@ -1,55 +1,55 @@
 {
- "generated": "2026-06-10T09:45:49.215278+00:00",
+ "generated": "2026-06-10T12:47:50.097606+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.03,
-   "change": -0.42,
-   "change_pct": -0.46,
+   "price": 92.38,
+   "change": 0.93,
+   "change_pct": 1.02,
    "spark": [
     93.08999633789062,
     94.25,
     91.44999694824219,
-    91.02999877929688
+    92.37999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 87.8,
-   "change": -0.4,
-   "change_pct": -0.45,
+   "price": 89.28,
+   "change": 1.08,
+   "change_pct": 1.22,
    "spark": [
     90.54000091552734,
     91.30000305175781,
     88.19999694824219,
-    87.80000305175781
+    89.27999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4199.9,
-   "change": -60.1,
-   "change_pct": -1.41,
+   "price": 4194.5,
+   "change": -65.5,
+   "change_pct": -1.54,
    "spark": [
     4337.10009765625,
     4335.89990234375,
     4260.0,
-    4199.89990234375
+    4194.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.88,
-   "change": -0.17,
-   "change_pct": -0.17,
+   "price": 99.87,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     100.06999969482422,
     100.05000305175781,
-    99.88300323486328
+    99.86599731445312
    ]
   },
   "^GSPC": {
@@ -81,27 +81,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.99,
-   "change": 2.07,
-   "change_pct": 10.94,
+   "price": 21.27,
+   "change": 2.35,
+   "change_pct": 12.42,
    "spark": [
     15.399999618530273,
     21.510000228881836,
     18.920000076293945,
-    20.989999771118164
+    21.270000457763672
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.15,
-   "change": 0.01,
-   "change_pct": 0.29,
+   "price": 3.24,
+   "change": 0.1,
+   "change_pct": 3.06,
    "spark": [
     3.2290000915527344,
     3.1470000743865967,
     3.140000104904175,
-    3.1489999294281006
+    3.2360000610351562
    ]
   }
  },
@@ -212,10 +212,31 @@
  ],
  "incidents": [
   {
+   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
+   "source": "Press TV",
+   "published": "2026-06-10T12:46:50.086745+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The war in Iran and effective closure of the Strait of Hormuz has increased the prices of critical goods as hunger rises in scores of poor and unstable countries. Listen to \"The Daily.\"",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mnwojtzsdb2d",
+   "source": "@nytimes",
+   "published": "2026-06-10T12:10:03.393989+00:00",
+   "severity": "info"
+  },
+  {
    "title": "For the first time ever: An autonomous drone boat rescues US pilots in Strait of Hormuz",
    "link": "https://www.jpost.com/defense-and-tech/article-898958",
    "source": "Jerusalem Post",
    "published": "2026-06-10T12:03:33+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+   "link": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-10T11:50:48+00:00",
    "severity": "info"
   },
   {
@@ -244,13 +265,6 @@
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
    "published": "2026-06-10T09:45:00.817992+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
-   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
-   "source": "Press TV",
-   "published": "2026-06-10T09:45:00.816204+00:00",
    "severity": "info"
   },
   {
@@ -301,20 +315,6 @@
    "source": "@reuters",
    "published": "2026-06-10T06:25:09+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran’s Army and IRGC target US bases: Statement",
-   "link": "https://en.irna.ir/news/86178430/Iran-s-Army-and-IRGC-target-US-bases-Statement",
-   "source": "IRNA",
-   "published": "2026-06-10T05:39:49+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran targets US bases in Jordan and the Gulf, after Trump orders strikes near Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u1s4m7/iran_targets_us_bases_in_jordan_and_the_gulf/",
-   "source": "r/worldnews",
-   "published": "2026-06-10T04:39:47+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,24 +325,24 @@
    "incident_count": 6,
    "recent": [
     {
+     "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
+     "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
+     "source": "Press TV",
+     "published": "2026-06-10T12:46:50.086745+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "The war in Iran and effective closure of the Strait of Hormuz has increased the prices of critical goods as hunger rises in scores of poor and unstable countries. Listen to \"The Daily.\"",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mnwojtzsdb2d",
+     "source": "@nytimes",
+     "published": "2026-06-10T12:10:03.393989+00:00",
+     "severity": "info"
+    },
+    {
      "title": "For the first time ever: An autonomous drone boat rescues US pilots in Strait of Hormuz",
      "link": "https://www.jpost.com/defense-and-tech/article-898958",
      "source": "Jerusalem Post",
      "published": "2026-06-10T12:03:33+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
-     "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
-     "source": "Press TV",
-     "published": "2026-06-10T09:45:00.818195+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-     "source": "Press TV",
-     "published": "2026-06-10T09:45:00.817992+00:00",
      "severity": "info"
     }
    ]
@@ -392,6 +392,196 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "dd8df5e86844",
+   "title": "MIKA: Given your sexting, can you call for release of the Epstein files? PLATNER: Of course. I engaged in consensual romantic activities with adults. That seems like a fairly normal thing. Going to an island with billionaires to possibly assault children is a vastly, vastly different thing",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwqn4xxai23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:47:40.919+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b0b3bec8f18c",
+   "title": "Joe Scarborough Has Instant Response as Trump Unleashes Attack During Broadcast: ‘Thank You for Chiming In, Mr. President’",
+   "link": "https://www.mediaite.com/media/tv/joe-scarborough-has-instant-response-as-trump-unleashes-attack-during-broadcast-thank-you-for-chiming-in-mr-president/",
+   "summary": "Scarborough read Trump's screed aloud after the president blasted Morning Joe and accused him of suffering from “Trump derangement syndrome.” The post Joe Scarborough Has Instant Response as Trump Unleashes Attack During Broadcast: ‘Thank You for Chiming In, Mr. President’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T12:41:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3ae21ca3e37b",
+   "title": "Breaking: WASHINGTON (AP) - U.S. inflation rises to highest level in three years, highlighting affordability challenge as elections nears.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnwq7oaims2p",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:40:09.319+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9993bdf1965e",
+   "title": "Trump Tells Fox He’s ‘Close to Ordering New Strikes’ Against Iran Power Plants and More",
+   "link": "https://www.mediaite.com/media/news/trump-tells-fox-hes-close-to-ordering-new-strikes-against-iran-power-plants-and-more/",
+   "summary": "President Donald Trump told Fox News he's \"close\" to ordering new strikes against Iran, targeting the country's power plants and more. The post Trump Tells Fox He’s ‘Close to Ordering New Strikes’ Against Iran Power Plants and More first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T12:38:31+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "e08a21468ba1",
+   "title": "HUD Secretary Scott Turner on CNBC: \"Houses for American people are taken by those who are not here legally\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwpfsqau32n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:25:41.570+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cc5c7dc690f6",
+   "title": "HUD Secretary Scott Turner: \"The number one thing I hear that's crippling our housing development is regulations, so we've been very intentional about tearing down the regulatory environment. If you take that away, it brings down the cost of a house.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwp7qngeo2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:22:18.049+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f20648859a3d",
+   "title": "‘Is There More Out There?’ Morning Joe Host Confronts Graham Platner About Sexting Scandal After Big Win",
+   "link": "https://www.mediaite.com/media/tv/is-there-more-out-there-morning-joe-host-confronts-graham-platner-about-sexting-scandal-after-big-win/",
+   "summary": "Morning Joe's Mika Brzezinski pressed Maine Senate hopeful Graham Platner on his sexting scandal following his big win this week. The post ‘Is There More Out There?’ Morning Joe Host Confronts Graham Platner About Sexting Scandal After Big Win first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T12:18:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f25cb0c74fa3",
+   "title": "Fox News correspondent: \"President Trump told me that he is getting close to ordering new strikes against Iranian power plants and bridges, because he says the Iranians are tapping the United States along.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwol7kmbn2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:10:49.046+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "51b32c834fd5",
+   "title": "Ron Johnson: \"The injection-injured -- they need to be recognized, they need to be treated. I've talked to those groups, the injection-injured. Psychologically, they are at a low point. Suicides are up.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwoev3wt42q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T12:07:16.753+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dc8d43dd0fba",
+   "title": "New in PN: MAGA's kayfabe meltdown over California primary \"It’s worth paying attention when Trump and his supporters start making the same provably false claims about the upcoming midterms — particularly because the guardrails that stopped Trump from succeeding in his coup in 2020 are now gone.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwnfrfd322e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T11:49:52.724+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d818c2c683b",
+   "title": "Trump Threatens ‘Total Mess’ Iran Will Now Have to ‘Pay the Price’: ‘The Bully of the Middle East is DEAD’",
+   "link": "https://www.mediaite.com/media/news/trump-threatens-total-mess-iran-will-now-have-pay-the-price-the-bully-of-the-middle-east-is-dead/",
+   "summary": "Trump warned Iran \"will now have to pay the price\" days after the regime shot down a U.S. helicopter near the Strait of Hormuz, declaring that \"the Bully of the Middle East is DEAD!!!\" The post Trump Threatens ‘Total Mess’ Iran Will Now Have to ‘Pay the Price’: ‘The Bully of the Middle East is DEAD’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T11:48:32+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b7c6af7fab92",
+   "title": "Trump: “Iran is doing ZERO business, not paying their military, or any of their bills, and quickly becoming a FAILED NATION! Lots of oil is getting out. Praise be to Allah! President DONALD J. TRUMP”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwmyatucs23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T11:42:19.164+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d0cde042eded",
+   "title": "Trump: “Stephen A. Smith is an arrogant fool, a low IQ individual. In other words, he’s ‘dumb as a rock,’ and totally unqualified to ever think of running for high political office, or even low political office, for that matter!”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwmqf24ns23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T11:37:55.128+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "14bac818766e",
+   "title": "Trump; “The Bully of the Middle East is DEAD!!! They’ve taken too long to negotiate a deal that would have been great for them, now they will have to pay the price!!! President DONALD J. TRUMP”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnwmjfpwwc23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T11:34:00.961+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "322c3c3fd7fc",
+   "title": "‘Dumb as a Rock’: Trump Shreds ‘Arrogant Fool’ Stephen A. Smith in Early Morning Rant",
+   "link": "https://www.mediaite.com/media/news/dumb-as-a-rock-trump-shreds-arrogant-fool-stephen-a-smith-in-early-morning-rant/",
+   "summary": "President Trump had some fresh-squeezed rage with his breakfast on Wednesday morning as he ripped into ESPN commentator Stephen A. Smith in an early morning Truth Social tirade. The post ‘Dumb as a Rock’: Trump Shreds ‘Arrogant Fool’ Stephen A. Smith in Early Morning Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T11:09:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "82667fc88b3a",
+   "title": "Paramount Boss David Ellison Assures Lesley Stahl He’ll Preserve ’60 Minutes’ Editorial Freedom",
+   "link": "https://www.mediaite.com/media/news/paramount-boss-david-ellison-assures-lesley-stahl-hell-preserve-60-minutes-editorial-freedom/",
+   "summary": "Ellison privately assured veteran 60 Minutes correspondent Lesley Stahl that he will respect the show’s editorial independence, she revealed. The post Paramount Boss David Ellison Assures Lesley Stahl He’ll Preserve ’60 Minutes’ Editorial Freedom first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T10:28:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0e567d2de0ef",
+   "title": "Jimmy Kimmel Roasts Trump’s Apparent Nap at NBA Finals: ‘I Hope Joe Biden Was Watching’",
+   "link": "https://www.mediaite.com/media/tv/jimmy-kimmel-roasts-trumps-apparent-nap-at-nba-finals-i-hope-joe-biden-was-watching/",
+   "summary": "Kimmel mocked Trump as “the first sitting president to shut down a major United States city so he could take a nap in front of a soldout crowd.” The post Jimmy Kimmel Roasts Trump’s Apparent Nap at NBA Finals: ‘I Hope Joe Biden Was Watching’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T10:22:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "252ebfb214ff",
+   "title": "MAGA's kayfabe meltdown over California primary",
+   "link": "https://www.publicnotice.co/p/california-primary-fraud",
+   "summary": "If Spencer Pratt didn't exist, they'd have to invent him.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-10T10:17:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f4b2fd640660",
+   "title": "‘Sorry!’ CNN’s Anderson Cooper Cracks Up as He Lists Trump Merchandise Catalogue On-Air",
+   "link": "https://www.mediaite.com/media/tv/sorry-cnns-anderson-cooper-cracks-up-as-he-lists-trump-merchandise-catalogue-on-air/",
+   "summary": "Trump's gold-plated smartphone and its revised marketing language prompted visible amusement from Cooper. The post ‘Sorry!’ CNN’s Anderson Cooper Cracks Up as He Lists Trump Merchandise Catalogue On-Air first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T10:16:27+00:00",
+   "iran_topic": false
+  },
   {
    "id": "4a2d71243d67",
    "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
@@ -801,196 +991,6 @@
    "category": "trump_bsky",
    "published": "2026-06-09T22:13:42.974+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "d4045aa23f08",
-   "title": "Fox’s Jesse Watters Wildly Understates Knicks Fans’ Reaction to Trump: ‘I Did Hear Some Boos’",
-   "link": "https://www.mediaite.com/media/tv/foxs-jesse-watters-wildly-understates-knicks-fans-reaction-to-trump-i-did-hear-some-boos/",
-   "summary": "President Donald Trump was loudly booed during Monday's NBA Finals game at Madison Square Garden, but to hear Jesse Watters tell it, the reaction was \"mixed.\" The post Fox’s Jesse Watters Wildly Understates Knicks Fans’ Reaction to Trump: ‘I Did Hear Some Boos’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T22:08:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5437ecda823b",
-   "title": "Kudos on just coming out and saying black people cheat. Why not wear the white robe/hood and burn a cross while you're at it? 😳😳😳",
-   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mnv7f7v47s2o",
-   "summary": "",
-   "source": "@dimitridrekonja",
-   "category": "trump_bsky",
-   "published": "2026-06-09T22:06:22.243+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89e8577eab88",
-   "title": "Uncovered Bodycam Video Shows Pima Sheriff Handling Nancy Guthrie Case Caught With Undeclared Gun at Airport",
-   "link": "https://www.mediaite.com/media/news/uncovered-bodycam-video-shows-pima-sheriff-handling-nancy-guthrie-case-caught-with-undeclared-gun-at-airport/",
-   "summary": "New bodycam footage shows Pima County Sheriff Chris Nanos being stopped and questioned by airport cops after bringing an undeclared, loaded gun through TSA The post Uncovered Bodycam Video Shows Pima Sheriff Handling Nancy Guthrie Case Caught With Undeclared Gun at Airport first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T22:03:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "24c4c67661a8",
-   "title": "Trump thinks Iran deal ‘still close’ despite retaliatory strikes over downed helicopter",
-   "link": "https://www.politico.com/news/2026/06/09/trump-thinks-iran-deal-still-close-despite-retaliatory-strikes-over-downed-helicopter-00955250",
-   "summary": "The president has sporadically threatened additional military action since taking out Iran’s leadership in February, but has avoided full-scale attacks.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-09T21:44:56+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "5ec3319e0625",
-   "title": "WH Attacks Washington Post Report On Handing Over Press Credentialing For UFC Event",
-   "link": "https://www.mediaite.com/media/news/wh-attacks-washington-post-report-on-handing-over-press-credentialing-for-ufc-event/",
-   "summary": "The White House is disputing a Washington Post report that Dana White's UFC will handle all press credentialing for the upcoming Freedom250 fight. The post WH Attacks Washington Post Report On Handing Over Press Credentialing For UFC Event first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T21:39:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6cd587d76926",
-   "title": "I'm looking forward to a future where we no longer have to hear this type of story* *because Bari Weiss will fire anyone on CNN reporting it",
-   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mnv5s5cmm22y",
-   "summary": "",
-   "source": "@donmoyn",
-   "category": "trump_bsky",
-   "published": "2026-06-09T21:37:48.264+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c5f9aa75cb6",
-   "title": "Jaw-Dropping Reports Show Trump Family Cashing In Big On World Cup, WH UFC Event",
-   "link": "https://www.mediaite.com/politics/jaw-dropping-reports-show-trump-family-cashing-in-big-on-world-cup-wh-ufc-event/",
-   "summary": "The Trump family is cashing in on the UFC &#8220;Freedom 250&#8221; event at the White House this month by selling $12,000 &#8220;landmark&#8221; gold coins commemorating the MMA fights. And at the same time, the Trump organization has been getting paid by the organization behind the World Cup. HuffPost spotted the new medallions being hawked on RealTrumpCoins.com [&#8230;] The post Jaw-Dropping Reports Show Trump Family Cashing In Big On World Cup, WH UFC Event first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T21:22:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cbc29fed644d",
-   "title": "Chuck Todd Says He’d Bet on the 2028 GOP Nominee Being ‘Somebody With the Last Name of Trump’",
-   "link": "https://www.mediaite.com/media/podcasts/chuck-todd-says-hed-bet-on-the-2028-gop-nominee-being-somebody-with-the-last-name-of-trump/",
-   "summary": "Chuck Todd reacted to a betting site naming Vice President JD Vance as the most likely successor to President Donald Trump by sharing his own prediction. The post Chuck Todd Says He’d Bet on the 2028 GOP Nominee Being ‘Somebody With the Last Name of Trump’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T21:06:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a7782cb11171",
-   "title": "LIV Golf Boss Flustered When CNBC Host Puts Him on the Spot About Whether Remaining 2026 Events Will Be Played",
-   "link": "https://www.mediaite.com/media/sports/liv-golf-boss-flustered-when-cnbc-host-puts-him-on-the-spot-about-whether-remaining-2026-events-will-be-played/",
-   "summary": "The CEO of LIV Golf was put on the spot Tuesday by a CNBC host who asked him about reports that the league may not have the money to finish the season. The post LIV Golf Boss Flustered When CNBC Host Puts Him on the Spot About Whether Remaining 2026 Events Will Be Played first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:57:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5f5e54b83af4",
-   "title": "Inside Mamdani aide’s private budget briefing for the DSA",
-   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/09/inside-mamdani-aides-private-budget-briefing-for-the-dsa-00954884",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-09T20:56:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "75e52fc68d25",
-   "title": "whoa, man [pauses for deep bong hit] totally",
-   "link": "https://bsky.app/profile/kevinrothrock.me/post/3mnv3fgxkm22q",
-   "summary": "",
-   "source": "@kevinrothrock",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:54:54.696+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "81dde850fb91",
-   "title": "Epstein’s Exec Assistant Told Lawmakers She Arranged Calls Between Trump and Epstein ‘About Once a Quarter’ Before Their Falling-Out",
-   "link": "https://www.mediaite.com/media/news/epsteins-exec-assistant-told-lawmakers-she-arranged-calls-between-trump-and-epstein-about-once-a-quarter-before-their-falling-out/",
-   "summary": "Jeffrey Epstein's longtime executive assistant told the House Oversight Committee Tuesday that she regularly arranged phone calls between Trump and Epstein. The post Epstein’s Exec Assistant Told Lawmakers She Arranged Calls Between Trump and Epstein ‘About Once a Quarter’ Before Their Falling-Out first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:54:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e21d92546054",
-   "title": "US Bombs Iran In Retaliation For Downed Apache Helicopter",
-   "link": "https://www.mediaite.com/politics/us-iran-bombs-retaliation-apache-helicopter/",
-   "summary": "Trump said on Tuesday that Iran shooting down a U.S. Apache helicopter on Monday night “wasn’t a big deal” – just hours after vowing to “respond.” The post US Bombs Iran In Retaliation For Downed Apache Helicopter first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:52:23+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "68df8dedf14d",
-   "title": "\"Trump sought to play down the helicopter incident, saying that it 'wasn’t a big deal' and stressing that 'the pilot is fine.' The Apache crew spent two hours in the water as darkness fell. One senior US official described the crew’s escape from the downed aircraft as a 'hand of God' moment.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnv35kbhps2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:50:29.731+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f1068db85199",
-   "title": "JD Vance: \"The deal could happen in the next week, but the deal could also happen months from now\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnv343lruk2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:49:40.787+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "382732271792",
-   "title": "Vanilla Ice Doesn’t Want Entertainers Sharing Their Anti-Trump Takes: ‘Stay In Your Lane’",
-   "link": "https://www.mediaite.com/media/vanilla-ice-doesnt-want-entertainers-sharing-their-anti-trump-takes-stay-in-your-lane/",
-   "summary": "Vanilla Ice offered some free advice to entertainers who share their political takes — including their hatred for President Donald Trump: \"Stay in your lane.\" The post Vanilla Ice Doesn’t Want Entertainers Sharing Their Anti-Trump Takes: ‘Stay In Your Lane’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:37:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "397ccaf01915",
-   "title": "Quiet part out loud",
-   "link": "https://bsky.app/profile/brendannyhan.bsky.social/post/3mnv24vcjt22r",
-   "summary": "",
-   "source": "@brendannyhan",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:32:14.005+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d193a9ae9d8",
-   "title": "This is not ok. This is the stuff that makes societies unravel and devolve into chaos. Everyone partaking in this should be treated like a traitor. These are not Americans.",
-   "link": "https://bsky.app/profile/tedcruznipples.com/post/3mnv22mhbac2h",
-   "summary": "",
-   "source": "@tedcruznipples",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:30:57.614+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7ae1e2878f20",
-   "title": "hate it when Iran accidentally shoots down my Apache helicopter",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuzzugsg22p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:30:32.432+00:00",
-   "iran_topic": true
   }
  ]
 }
