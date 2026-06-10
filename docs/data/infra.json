@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-10T01:31:08.402783+00:00",
+ "generated": "2026-06-10T03:30:10.373853+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.85,
-   "change": -2.4,
-   "change_pct": -2.55,
+   "price": 92.33,
+   "change": -1.92,
+   "change_pct": -2.04,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    91.8499984741211
+    92.33000183105469
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.53,
-   "change": -2.77,
-   "change_pct": -3.03,
+   "price": 89.07,
+   "change": -2.23,
+   "change_pct": -2.44,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    88.52999877929688
+    89.06999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4229.4,
-   "change": -106.5,
-   "change_pct": -2.46,
+   "price": 4199.1,
+   "change": -136.8,
+   "change_pct": -3.16,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4229.39990234375
+    4199.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.98,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 99.93,
+   "change": -0.12,
+   "change_pct": -0.12,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.98100280761719
+    99.92500305175781
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.13,
    "change": -0.02,
-   "change_pct": -0.48,
+   "change_pct": -0.51,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.131999969482422
+    3.13100004196167
    ]
   }
  },
@@ -219,22 +219,36 @@
    "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
    "source": "Press TV",
-   "published": "2026-06-10T01:30:11.244915+00:00",
+   "published": "2026-06-10T03:29:13.146095+00:00",
    "severity": "info"
   },
   {
    "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
    "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
    "source": "Press TV",
-   "published": "2026-06-10T01:30:11.244704+00:00",
+   "published": "2026-06-10T03:29:13.145896+00:00",
    "severity": "info"
   },
   {
-   "title": "US strikes Iran in response to downing of helicopter, military says",
+   "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Middle East",
-   "published": "2026-06-10T00:33:25+00:00",
+   "published": "2026-06-10T03:12:34+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran strikes Bahrain and Jordan in retaliation for US attacks in Hormuz",
+   "link": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-10T02:58:08+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Sudan crisis worsens as civil war enters 4th year and Hormuz closure disrupts aid",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1u1psou/sudan_crisis_worsens_as_civil_war_enters_4th_year/",
+   "source": "r/geopolitics",
+   "published": "2026-06-10T02:45:05+00:00",
+   "severity": "medium"
   },
   {
    "title": "US conducts repeated retaliatory strikes in Iran following attack of US helicopter",
@@ -286,18 +300,11 @@
    "severity": "info"
   },
   {
-   "title": "US military hits Iranian targets around Strait of Hormuz after downing of helicopter",
-   "link": "https://www.timesofisrael.com/liveblog-june-10-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-09T21:28:34+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Trump accuses Iran of downing US helicopter over Hormuz, vows retaliation",
+   "title": "US strikes Iran after Trump vows retaliation for downing of US helicopter over Hormuz",
    "link": "https://www.timesofisrael.com/trump-accuses-iran-of-downing-us-helicopter-over-hormuz-vows-retaliation/",
    "source": "Times of Israel",
    "published": "2026-06-09T21:18:43+00:00",
-   "severity": "high"
+   "severity": "medium"
   },
   {
    "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
@@ -312,13 +319,6 @@
    "source": "r/worldnews",
    "published": "2026-06-09T20:58:12+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Two shaheds drones collided mid-air above Ukraine",
-   "link": "https://www.reddit.com/r/CombatFootage/comments/1u1hmfs/two_shaheds_drones_collided_midair_above_ukraine/",
-   "source": "r/CombatFootage",
-   "published": "2026-06-09T20:57:41+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
      "source": "Press TV",
-     "published": "2026-06-10T01:30:11.244915+00:00",
+     "published": "2026-06-10T03:29:13.146095+00:00",
      "severity": "info"
     },
     {
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-10T01:30:11.244704+00:00",
+     "published": "2026-06-10T03:29:13.145896+00:00",
      "severity": "info"
     },
     {
-     "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-     "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+     "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+     "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Middle East",
-     "published": "2026-06-09T23:35:20+00:00",
+     "published": "2026-06-10T03:12:34+00:00",
      "severity": "info"
     }
    ]
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-10T01:30:11.244704+00:00",
+     "published": "2026-06-10T03:29:13.145896+00:00",
      "severity": "info"
     }
    ]
@@ -382,6 +382,86 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "9ae39d97a45c",
+   "title": "the White House's UFC arena is all lit up tonight",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnvqxj5xhz2v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T03:20:49.512+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b5aa3a30058e",
+   "title": "‘Where’s His Wife?’ Kellyanne Conway Falsely Suggests Platner’s Wife Ditched Victory Speech",
+   "link": "https://www.mediaite.com/media/tv/wheres-his-wife-kellyanne-conway-falsely-suggests-platners-wife-ditched-victory-speech/",
+   "summary": "Fox News contributor Kellyanne Conway wondered aloud on Tuesday where Graham Platner's wife was during his victory speech. The post ‘Where’s His Wife?’ Kellyanne Conway Falsely Suggests Platner’s Wife Ditched Victory Speech first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T03:10:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "859121f31837",
+   "title": "Former Trump Official Marvels at President’s ‘Next-Level’ Self-Dealing",
+   "link": "https://www.mediaite.com/media/news/former-trump-official-marvels-at-presidents-next-level-self-dealing/",
+   "summary": "Alyssa Farah Griffin, Former White House Communications Director for President Donald Trump, marveled at the president's \"next level\" self-dealing. The post Former Trump Official Marvels at President’s ‘Next-Level’ Self-Dealing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T03:04:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6a9498a72ddf",
+   "title": "Platner: \"Susan Collins has voted to send billions of our taxpayer dollars to fund other people's wars. How do you justify closing hospitals in Maine while using our tax dollars to destroy them halfway across the world? If you reflect Maine's values, why are you funding masked agents ... \"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnvlqy7nvp2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:47:41.709+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "729165303a2c",
+   "title": "Platner: Susan Collins has voted to send billions of our taxpayer dollars to fund other people's wars. Susan Collins, how do you justify closing hospitals while using our tax dollars to destroy them halfway around the world?",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvlllmset2m",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:44:40.634+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4b89a7a1826d",
+   "title": "Platner: No matter the challenge or the expense, I will fight for you. I have been willing to die for my country. There is nothing that I will not do for the state of Maine.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvl63iblm2o",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:37:06.582+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4ca9ff465805",
+   "title": "Platner: To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith and support. And I will spend every day of this campaign and if I have the privilege every day in the United States senate doing exactly that",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvkx34sf52z",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:33:12.235+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0db24ed6fadf",
+   "title": "In addition to football, women, Black people, all ethnic food, medicine, science, literature, and all good music, it appears the left got counting in the divorce",
+   "link": "https://bsky.app/profile/katzish.bsky.social/post/3mnvknxb7622w",
+   "summary": "",
+   "source": "@katzish",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:28:06.352+00:00",
+   "iran_topic": false
+  },
   {
    "id": "244cd8cb8b63",
    "title": "BREAKING: WASHINGTON (AP) — Graham Platner wins Democratic nomination for U.S. Senate in Maine.",
@@ -900,86 +980,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-09T20:20:19.674+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0f2cf2df52e4",
-   "title": "Sen. Dave McCormick: \"We don't know whether there is an actual path to a deal. I assume there is. I think the president is probably closing in on what he thinks is a good deal.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuzc4pmyp2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:17:15.723+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "993656061d92",
-   "title": "Coming back from my 3rd bathroom trip after my 5th JnC",
-   "link": "https://bsky.app/profile/theupgrade.bsky.social/post/3mnuz3dpoe22z",
-   "summary": "",
-   "source": "@theupgrade",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:13:28.264+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "06d717ebb3d3",
-   "title": "Trump Border Czar Spars With Reporter Outside the WH Over Whether Or Not He’s ‘Punishing’ New York",
-   "link": "https://www.mediaite.com/media/news/trump-border-czar-spars-with-reporter-outside-the-wh-over-whether-or-not-hes-punishing-new-york/",
-   "summary": "Tom Homan took reporter questions outside the White House on Tuesday that centered on his threat to send a \"surge\" of ICE agents into New York. The post Trump Border Czar Spars With Reporter Outside the WH Over Whether Or Not He’s ‘Punishing’ New York first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:12:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c91383117b27",
-   "title": "jeez louise I've seen guys with BACs three times the legal limit on the roadside pull it together more convincingly than this",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuyy3cq722p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:11:38.788+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "284f40d0b2ce",
-   "title": "Rep. Ansari on Epstein assistant: \"She said she set up calls with Donald Trump before their alleged fallout about once a quarter\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuynk2zax2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:05:45.117+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3a89f19822de",
-   "title": "Republican Lawmaker Presses SPLC Boss On Whether Graham Platner’s Nazi Tattoo Should DQ Him From Senate",
-   "link": "https://www.mediaite.com/politics/republican-lawmaker-presses-splc-boss-on-whether-graham-platners-nazi-tattoo-should-dq-him-from-senate/",
-   "summary": "Rep. Brandon Gill pressed SPLC interim CEO Bryan Fair on whether Maine Senate candidate Graham Platner (D) should be disqualified from holding public office The post Republican Lawmaker Presses SPLC Boss On Whether Graham Platner’s Nazi Tattoo Should DQ Him From Senate first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T20:05:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0be1eb66da87",
-   "title": "Axios: \"If Paramount Skydance's deal with Warner Bros. Discovery goes through, Bari Weiss would oversee all news editorial across both CBS News and CNN.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuyizzvzk2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T20:03:14.135+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ef7cf23fce14",
-   "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
-   "summary": "On Tuesday, June 9, 2026, the President signed into law: H.R. 3490, the &#8220;Gerald E. Connolly Esophageal Cancer Awareness Act of 2025,&#8221; which requires the Government Accountability Office to produce a report on esophageal cancer; and S. 2393, the &#8220;Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act,&#8221; which authorizes a major medical facility [&#8230;] The post Congressional Bills H.R. 3490 and S. 2393 Signed into Law appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-09T20:01:10+00:00",
    "iran_topic": false
   }
  ]
