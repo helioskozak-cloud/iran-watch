@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-09T23:05:59.216033+00:00",
+ "generated": "2026-06-10T01:31:08.402783+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 92.4,
-   "change": -1.85,
-   "change_pct": -1.96,
+   "price": 91.85,
+   "change": -2.4,
+   "change_pct": -2.55,
    "spark": [
     95.02999877929688,
     93.08999633789062,
     94.25,
-    92.4000015258789
+    91.8499984741211
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 89.1,
-   "change": -2.2,
-   "change_pct": -2.41,
+   "price": 88.53,
+   "change": -2.77,
+   "change_pct": -3.03,
    "spark": [
     93.04000091552734,
     90.54000091552734,
     91.30000305175781,
-    89.0999984741211
+    88.52999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4259.7,
-   "change": -76.2,
-   "change_pct": -1.76,
+   "price": 4229.4,
+   "change": -106.5,
+   "change_pct": -2.46,
    "spark": [
     4475.7998046875,
     4337.10009765625,
     4335.89990234375,
-    4259.7001953125
+    4229.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.0,
-   "change": -0.06,
-   "change_pct": -0.05,
+   "price": 99.98,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     99.41000366210938,
     100.06999969482422,
     100.05000305175781,
-    99.99500274658203
+    99.98100280761719
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.14,
-   "change": -0.01,
-   "change_pct": -0.32,
+   "price": 3.13,
+   "change": -0.02,
+   "change_pct": -0.48,
    "spark": [
     3.3359999656677246,
     3.2290000915527344,
     3.1470000743865967,
-    3.13700008392334
+    3.131999969482422
    ]
   }
  },
@@ -216,17 +216,38 @@
  ],
  "incidents": [
   {
-   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-   "source": "Press TV",
-   "published": "2026-06-09T23:05:02.509834+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
    "source": "Press TV",
-   "published": "2026-06-09T23:05:02.509223+00:00",
+   "published": "2026-06-10T01:30:11.244915+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+   "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+   "source": "Press TV",
+   "published": "2026-06-10T01:30:11.244704+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US strikes Iran in response to downing of helicopter, military says",
+   "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-10T00:33:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US conducts repeated retaliatory strikes in Iran following attack of US helicopter",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-898908",
+   "source": "Jerusalem Post",
+   "published": "2026-06-10T00:25:02+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+   "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-09T23:35:20+00:00",
    "severity": "info"
   },
   {
@@ -249,13 +270,6 @@
    "source": "The Drive",
    "published": "2026-06-09T22:25:37+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "US striking Iran in response to downing of helicopter, military says",
-   "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-09T21:43:25+00:00",
-   "severity": "info"
   },
   {
    "title": "Kuwait Looks To Bypass Hormuz By Routing Oil Through Saudi, UAE Pipelines",
@@ -305,20 +319,6 @@
    "source": "r/CombatFootage",
    "published": "2026-06-09T20:57:41+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran shoots down US attack helicopter trespassing over the Strait, and the US invaders are hesitating to retaliate",
-   "link": "https://www.reddit.com/r/iran/comments/1u1h5cf/iran_shoots_down_us_attack_helicopter_trespassing/",
-   "source": "r/Iran",
-   "published": "2026-06-09T20:40:09+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "The repricing of Iran: Why the Persian Gulf’s economic future runs through Tehran - opinion",
-   "link": "https://www.jpost.com/opinion/article-898821",
-   "source": "Jerusalem Post",
-   "published": "2026-06-09T20:00:00+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -329,25 +329,25 @@
    "incident_count": 9,
    "recent": [
     {
-     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
-     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
-     "source": "Press TV",
-     "published": "2026-06-09T23:05:02.509834+00:00",
-     "severity": "info"
-    },
-    {
      "title": "Strait of Hormuz never hospitable to hostile presence; foreign forces urged to leave: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/09/770156/Iran-warning-enemies-Strait-of-Hormuz-foreign-forces-urged-to-leave",
      "source": "Press TV",
-     "published": "2026-06-09T23:05:02.509223+00:00",
+     "published": "2026-06-10T01:30:11.244915+00:00",
      "severity": "info"
     },
     {
-     "title": "Breaking News: The U.S. launched retaliatory strikes against Iran a day after an American helicopter was shot down near the Strait of Hormuz. Follow live updates.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mnvcfeqw7p2s",
-     "source": "@nytimes",
-     "published": "2026-06-09T23:00:08.530954+00:00",
-     "severity": "critical"
+     "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
+     "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
+     "source": "Press TV",
+     "published": "2026-06-10T01:30:11.244704+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+     "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-09T23:35:20+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -361,7 +361,7 @@
      "title": "Hormuz to Bab el-Mandeb: Qaani announces new resistance belt to choke Israeli aggression",
      "link": "https://presstv.ir/Detail/2026/06/08/770098/Hormuz-to-Bab-el-Mandeb--Qaani-announces-new-resistance-belt-to-choke-Israeli-aggression",
      "source": "Press TV",
-     "published": "2026-06-09T23:05:02.509834+00:00",
+     "published": "2026-06-10T01:30:11.244704+00:00",
      "severity": "info"
     }
    ]
@@ -382,6 +382,236 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "244cd8cb8b63",
+   "title": "BREAKING: WASHINGTON (AP) — Graham Platner wins Democratic nomination for U.S. Senate in Maine.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnvkjsltm225",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:25:47.240+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "476a349e192c",
+   "title": "Basic math is a conspiracy, thus sayeth The MAGA Brain",
+   "link": "https://bsky.app/profile/eclecticbrotha1.bsky.social/post/3mnvk62vpls2x",
+   "summary": "",
+   "source": "@eclecticbrotha1",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:19:13.300+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f04cdd42644e",
+   "title": "House Republican Fakes Phone Call To Dodge Question About ‘Mike Johnson’s Secret Plan’",
+   "link": "https://www.mediaite.com/media/news/house-republican-fakes-phone-call-to-dodge-question-about-mike-johnsons-secret-plan/",
+   "summary": "Rep. Rob Wittman faked a phone call for over a minute in order to dodge a question about House Speaker Mike Johnson's (R-LA) recent comments on Social Security. The post House Republican Fakes Phone Call To Dodge Question About ‘Mike Johnson’s Secret Plan’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T01:14:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2f3210bb7948",
+   "title": "Nancy Mace just lost her GOP primary for South Carolina governor.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnvjoervoc25",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-10T01:10:26.789+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "268aa495caa3",
+   "title": "Nancy Mace loses GOP primary for South Carolina governor",
+   "link": "https://www.politico.com/news/2026/06/09/mace-loses-south-carolina-governor-primary-00955489",
+   "summary": "The representative, who has a history of bucking and then cozying up to the president, failed to make the runoff Tuesday.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-10T01:06:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13f7a425f60a",
+   "title": "Nancy Mace Gets Smoked in Republican Primary After Trump Snub",
+   "link": "https://www.mediaite.com/politics/nancy-mace-gets-smoked-in-republican-primary-after-trump-snub/",
+   "summary": "Rep. Nancy Mace came up well short in her attempt to be the next governor of South Carolina in Tuesday's Republican primary. The post Nancy Mace Gets Smoked in Republican Primary After Trump Snub first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T00:56:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "014fcb5345ed",
+   "title": "Laura Ingraham Expresses Frustration With Iran War: ‘How Are They Continuing to Hit Us?’",
+   "link": "https://www.mediaite.com/media/news/laura-ingraham-expresses-frustration-with-iran-war-how-are-they-continuing-to-hit-us/",
+   "summary": "Fox News host Laura Ingraham expressed frustration with President Donald Trump's ongoing war in Iran on Tuesday, questioning how the Iranians were still able to strike U.S. targets if their military was destroyed. The post Laura Ingraham Expresses Frustration With Iran War: ‘How Are They Continuing to Hit Us?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-10T00:37:31+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "16513818a316",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/_aAEmFI...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvh7jggq22z",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-10T00:26:20.856+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "33851843bb5e",
+   "title": "Meiselas: Screaming at Kristen Welker: “I really won the 2020 election.” It’s like, shut up, man. Grow up. It’s 2026. This is how he’s bankrupted so many things. You’re pretending that this blockade is going to crush Iran. You told us 60 days ago that Iran had three days left",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvh3laa6h2w",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-10T00:24:08.386+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8be115225bd1",
+   "title": "Is anyone going to tell these guys how absolutely flaming they sound?",
+   "link": "https://bsky.app/profile/normative.bsky.social/post/3mnvgqo3zdc27",
+   "summary": "",
+   "source": "@normative",
+   "category": "trump_bsky",
+   "published": "2026-06-10T00:18:02.442+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4919e26ad571",
+   "title": "Evidence isn't produced & when asked Scalise claims whether or not evidence can be found, the fact that they've claimed that there is a conspiracy has made voters unsure about the \"integrity\" of the vote. The accusation of conspiracy is proof of the conspiracy. Self-sealing. bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/jenmercieca.bsky.social/post/3mnvfhn776c2q",
+   "summary": "",
+   "source": "@jenmercieca",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:55:05.766+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8984024569a4",
+   "title": "NEW: The AP now projects Republican Steve Hilton will advance to the general election in the California governor's race. He'll face Democrat Xavier Becerra. A Republican advancing in this race would seem to undermine unfounded GOP claims that the state is rigging its elections.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnvfee6twc2b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:53:15.654+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "642d918e7a88",
+   "title": "has anyone asked ted what “masculinity” has to do with anything",
+   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mnvfd3iqwk2t",
+   "summary": "",
+   "source": "@darthbluesky",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:52:32.986+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f44cccead00f",
+   "title": "Trump Administration Has Detained More Than 500 Babies and Toddlers: Report",
+   "link": "https://www.mediaite.com/media/news/trump-administration-has-detained-more-than-500-babies-and-toddlers-report/",
+   "summary": "Immigration and Customs Enforcement has detained at least five hundred babies and toddlers since President Donald Trump began his second term, according to a new report. The post Trump Administration Has Detained More Than 500 Babies and Toddlers: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-09T23:46:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "206a4138ff8b",
+   "title": "Policy disagreements about legal election procedures and preference for in-person voting on Election Day DOES NOT EQUAL FRAUD AND RIGGED ELECTIONS.",
+   "link": "https://bsky.app/profile/amandacarpenter.bsky.social/post/3mnvenrrnwc2k",
+   "summary": "",
+   "source": "@amandacarpenter",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:40:38.149+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a1ab3788f474",
+   "title": "The White House press corps won't be allowed on White House grounds Sunday — unless the UFC gives them press credentials. The UFC is hosting a fight on the South Lawn that day. The White House normally handles credentialing for large-scale events, but it's ceding control to the UFC.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnven535q22b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:40:16.441+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6ec4d3255c0",
+   "title": "Watch the full video here: youtu.be/M0OO9vYVVR4",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvel5vr5s2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:39:10.192+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d699e77ca8bb",
+   "title": "Summer Lee: Chairman Comer—I use the word “chairman” really loosely now, because honestly, he’s not acting like a chairman. And I have to ask: Is Donald Trump the chairman of this committee, or are you the chairman of this committee?",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnvel5vehk2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:39:10.191+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "958878481365",
+   "title": "You all will be shocked, I'm sure, to learn that the program for monitoring and interdicting NWS spread from South America was part of foreign aid through USAID. Aid which was cut by DOGE because foreign aid is dumb and obviously doesn't do anything to help America.",
+   "link": "https://bsky.app/profile/andrewparker.bsky.social/post/3mnvebtnae22l",
+   "summary": "",
+   "source": "@andrewparker",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:33:57.449+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da0b8ae76cff",
+   "title": "The average person on medicaid who’s able bodied has a fucking job because medicaid is not enough for anyone to live on",
+   "link": "https://bsky.app/profile/hammancheez.bsky.social/post/3mnvdzhbawc2j",
+   "summary": "",
+   "source": "@hammancheez",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:29:16.037+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aabca8e48e66",
+   "title": "I am a strong, masculine heterosexual conservative. Here’s why I can’t criticize Democrats without making it sound like I’m talking about a penis.",
+   "link": "https://bsky.app/profile/nytpitchbot.bsky.social/post/3mnvdf34l322n",
+   "summary": "",
+   "source": "@nytpitchbot",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:17:52.213+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d5acb042c1b6",
+   "title": "Brooke Rollins says it’s “insanity” to not report cases of a disease after they are detected 🤔",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnvd4fin272m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:13:01.053+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "51d5d0cd9e30",
+   "title": "Brooke Rollins says the screwworm is around for at least a couple months",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnvczes7ky2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-09T23:11:19.623+00:00",
+   "iran_topic": false
+  },
   {
    "id": "a7828b1ca3ad",
    "title": "Watch the full video here: youtu.be/JZGmfobPggc",
@@ -750,236 +980,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-09T20:01:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "77ed4139297c",
-   "title": "McConnell Warns Trump Admin Defense Budget Will Put ‘Key Priorities at Unnecessary Risk’",
-   "link": "https://www.mediaite.com/media/news/mcconnell-warns-trump-admin-defense-budget-will-put-key-priorities-at-unnecessary-risk/",
-   "summary": "Sen. Mitch McConnell (R-KY) was highly critical of the Trump administration's defense budget request, shredding it during a committee hearing as putting \"key priorities at unnecessary risk\" of \"major disruptions.\" The post McConnell Warns Trump Admin Defense Budget Will Put ‘Key Priorities at Unnecessary Risk’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T19:58:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b44a152e345",
-   "title": "This is one reason I get so mad at media coverage of elections that treats them like sporting events. The whole \"pulled ahead\" type language gives the conspiracy theorists someting to seize upon.",
-   "link": "https://bsky.app/profile/gravelinfluencer.bsky.social/post/3mnuxiwxlek2z",
-   "summary": "",
-   "source": "@gravelinfluencer",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:45:17.170+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "913aa7f24300",
-   "title": "whether you can prove fraud or not jfc",
-   "link": "https://bsky.app/profile/bcdreyer.social/post/3mnux2m2v7k2n",
-   "summary": "",
-   "source": "@bcdreyer",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:37:15.982+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4ebfa8d5d75",
-   "title": "Rep. Nicole Malliotakis: \"ICE officers wear masks because they're afraid of these death threats they're receiving\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuwmuwrbg24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:29:35.465+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "43bb917b7b8a",
-   "title": "Pro-Trump PAC Drops AI-Generated Attack Ad of James Talarico In a Dress",
-   "link": "https://www.mediaite.com/media/news/pro-trump-pac-drops-ai-generated-attack-ad-of-james-talarico-in-a-dress/",
-   "summary": "The AI Talarico sings the musical’s hit number “My Favorite Things” with the lyrics changed to a satire of pro-trans messaging. The post Pro-Trump PAC Drops AI-Generated Attack Ad of James Talarico In a Dress first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T19:27:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4b51b745965d",
-   "title": "The boy who cried TACO.",
-   "link": "https://bsky.app/profile/jenonymous.bsky.social/post/3mnuvvz3cfc25",
-   "summary": "",
-   "source": "@jenonymous",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:16:48.114+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "592fe78e1978",
-   "title": "I know we're all used to hearing the quiet part out loud these days but \"especially in the minority communities,\" jeeeezus",
-   "link": "https://bsky.app/profile/jasondashbailey.com/post/3mnuvveskms22",
-   "summary": "",
-   "source": "@jasondashbailey",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:16:26.855+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4959bd0ed26a",
-   "title": "Minnesota GOP Senate candidate Michele Tafoya: \"Anyone who tries to scream 'racism' or 'xenophobia' is just flat out wrong. There is a large Somali population that was associated with the majority of this fraud. It is a strong voting block. If you questioned it, there were charges of racism.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuvma2epz2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:11:19.832+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3447257fe9c6",
-   "title": "GOP Senate Leader Claims Trump is ‘Weighing Seriously’ a New DNI Pick to Replace BIll Pulte — Who He Appointed Last Week",
-   "link": "https://www.mediaite.com/media/news/gop-senate-leader-claims-trump-is-weighing-seriously-a-new-dni-pick-to-replace-bill-pulte-who-he-appointed-last-week/",
-   "summary": "A week after President Trump appointed Bill Pulte to take over as Director of National Intelligence, it seems the White House is already looking to move on from him. The post GOP Senate Leader Claims Trump is ‘Weighing Seriously’ a New DNI Pick to Replace BIll Pulte — Who He Appointed Last Week first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T19:10:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8b151d8d39bd",
-   "title": "oh my god, he admit it",
-   "link": "https://bsky.app/profile/qjurecic.bsky.social/post/3mnuvkfj72c2j",
-   "summary": "",
-   "source": "@qjurecic",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:10:18.446+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "94ce135d7b8b",
-   "title": "Are y'all getting it yet?",
-   "link": "https://bsky.app/profile/lizzslockeroom.bsky.social/post/3mnuvdqiag22u",
-   "summary": "",
-   "source": "@lizzslockeroom",
-   "category": "trump_bsky",
-   "published": "2026-06-09T19:06:35.121+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c162eb76359",
-   "title": "I'm not sure many people in the world have more robust credentials for saying this than I do, but: James Comer represents a truly unique combination of power and dishonesty, even by DC standards.",
-   "link": "https://bsky.app/profile/pbump.com/post/3mnuut2uilk25",
-   "summary": "",
-   "source": "@pbump",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:57:15.582+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "08fb380cb088",
-   "title": "CNN’s Kailtan Collins: MAGA Doesn’t Realize Trump ‘Seeks Validation’ From the Same Media They Trash",
-   "link": "https://www.mediaite.com/media/cnns-kailtan-collins-maga-doesnt-realize-trump-seeks-validation-from-the-same-media-they-trash/",
-   "summary": "CNN's Kaitlan Collins said President Donald Trump's MAGA base doesn't realize he \"seeks validation\" from the same mainstream media outlets he calls \"fake news.\" The post CNN’s Kailtan Collins: MAGA Doesn’t Realize Trump ‘Seeks Validation’ From the Same Media They Trash first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-09T18:54:52+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "276148dda4c5",
-   "title": "CNN: President Trump has said the the war will be over within days at least 37 times before",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnuuggndso26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-09T18:50:11.593+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4c81034df8a5",
-   "title": "Can Donald Trump ruin the World Cup? He's sure giving it his best shot. My latest at Public Notice: www.publicnotice.co/p/world-cup-...",
-   "link": "https://bsky.app/profile/paulwaldman.bsky.social/post/3mnulmeufds27",
-   "summary": "",
-   "source": "@paulwaldman",
-   "category": "trump_bsky",
-   "published": "2026-06-09T16:12:27.506+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6390f899261d",
-   "title": "First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
-   "summary": "“Today is about opening doors,” said First Lady Melania Trump. “When new doors open, passions flow, courage blossoms, and dreams are realized. AI inspires.” Mrs. Trump awarded America’s six student National Champion Teams at the White House today during the first Presidential Artificial Intelligence Challenge National Champion Awards Ceremony. The First Lady acknowledged the program’s [&#8230;] The post First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-09T15:51:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "911ce75bc7f9",
-   "title": "A noxious orange cloud looms over the World Cup",
-   "link": "https://www.publicnotice.co/p/world-cup-trump",
-   "summary": "If there's a way to spoil it, the FIFA Peace Prize winner will find it.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-09T10:18:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a2d25841bb42",
-   "title": "Lindsey Graham is fighting off an ‘America First’ primary challenge",
-   "link": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
-   "summary": "The senator is facing a well-funded challenge supported by some of President Donald Trump’s highest-profile MAGA defectors.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-09T09:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cdae44125916",
-   "title": "Some Maine Democrats are wavering on Graham Platner",
-   "link": "https://www.politico.com/news/2026/06/09/graham-platner-maine-voters-concerns-00953986",
-   "summary": "The oysterman maintains a strong base of support, but his scandals have left a bad taste with some Democratic and independent voters.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-09T09:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b232881faa61",
-   "title": "Trump on being booed at the NBA Finals: I think it was mostly cheers. It was loud. And it was very enthusiastic",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mntfvdaaxg2u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-09T04:57:25.462+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4cb90a6ea0d9",
-   "title": "‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs",
-   "link": "https://www.mediaite.com/media/sports/trump-curse-furious-knicks-fans-blame-president-for-jinxing-teams-winning-streak-as-they-lose-to-spurs/",
-   "summary": "New York Knicks fans accused President Donald Trump of jinxing the team by attending Game 3 of the NBA Finals in person. The post ‘TRUMP CURSE’: Furious Knicks Fans Blame President for Jinxing Team’s Winning Streak as They Lose to Spurs first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-09T04:20:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f3b9ae22db15",
-   "title": "‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game",
-   "link": "https://www.mediaite.com/media/sports/trump-has-fallen-asleep-presidents-critics-shred-him-for-appearing-to-rest-his-eyes-at-nba-finals-game/",
-   "summary": "President Donald Trump drew mockery and criticism Monday evening as video clips appearing to show him resting his eyes during an NBC Finals game quickly spread on social media. The post ‘TRUMP HAS FALLEN ASLEEP’: President’s Critics Shred Him for Appearing to Rest His Eyes at NBA Finals Game first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-09T03:37:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f8b53e725d3a",
-   "title": "The Knicks' historic streak comes to an end the night Trump attends the NBA finals.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mntb6vbnm22b",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-09T03:33:17.801+00:00",
    "iran_topic": false
   }
  ]
