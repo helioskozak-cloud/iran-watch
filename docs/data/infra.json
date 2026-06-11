@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-11T01:42:43.297358+00:00",
+ "generated": "2026-06-11T03:41:48.935101+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.27,
-   "change": 2.82,
-   "change_pct": 3.08,
+   "price": 94.67,
+   "change": 3.22,
+   "change_pct": 3.52,
    "spark": [
     93.08999633789062,
     94.25,
     91.44999694824219,
-    94.2699966430664
+    94.66999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.47,
-   "change": 3.27,
-   "change_pct": 3.71,
+   "price": 91.79,
+   "change": 3.59,
+   "change_pct": 4.07,
    "spark": [
     90.54000091552734,
     91.30000305175781,
     88.19999694824219,
-    91.47000122070312
+    91.79000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4130.4,
-   "change": -129.6,
-   "change_pct": -3.04,
+   "price": 4088.5,
+   "change": -171.5,
+   "change_pct": -4.03,
    "spark": [
     4337.10009765625,
     4335.89990234375,
     4260.0,
-    4130.39990234375
+    4088.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.9,
-   "change": -0.01,
-   "change_pct": -0.01,
+   "price": 99.96,
+   "change": 0.05,
+   "change_pct": 0.05,
    "spark": [
     100.06999969482422,
     100.05000305175781,
     99.91000366210938,
-    99.89900207519531
+    99.95800018310547
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.19,
    "change": 0.05,
-   "change_pct": 1.62,
+   "change_pct": 1.72,
    "spark": [
     3.2290000915527344,
     3.1470000743865967,
     3.140000104904175,
-    3.190999984741211
+    3.194000005722046
    ]
   }
  },
@@ -219,29 +219,50 @@
    "title": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
    "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman",
    "source": "Press TV",
-   "published": "2026-06-11T01:41:55.093986+00:00",
+   "published": "2026-06-11T03:41:02.199507+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
    "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
    "source": "Press TV",
-   "published": "2026-06-11T01:41:55.092830+00:00",
+   "published": "2026-06-11T03:41:02.198332+00:00",
    "severity": "high"
   },
   {
    "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
    "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
    "source": "Press TV",
-   "published": "2026-06-11T01:41:55.092326+00:00",
+   "published": "2026-06-11T03:41:02.197825+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
    "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
    "source": "Press TV",
-   "published": "2026-06-11T01:41:55.092104+00:00",
+   "published": "2026-06-11T03:41:02.197597+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Trump claims he directly spoke with Iranian officials, was asked to stop strikes",
+   "link": "https://www.jpost.com/international/article-899032",
+   "source": "Jerusalem Post",
+   "published": "2026-06-11T02:54:39+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran announces closure of Strait of Hormuz after US attacks reut.rs/4dY0vXG",
+   "link": "https://bsky.app/profile/reuters.com/post/3mny5iak7ii2j",
+   "source": "@reuters",
+   "published": "2026-06-11T02:10:15+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Drone rescue highlights US Navy's autonomous push",
+   "link": "https://www.al-monitor.com/originals/2026/06/drone-rescue-highlights-us-navys-autonomous-push",
+   "source": "Al-Monitor",
+   "published": "2026-06-11T02:00:25+00:00",
+   "severity": "critical"
   },
   {
    "title": "Iran announces closure of Strait of Hormuz following US strikes",
@@ -258,14 +279,14 @@
    "severity": "critical"
   },
   {
-   "title": "Iran war live: Tehran retaliates after US launches attacks across Iran",
+   "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-11T00:00:00+00:00",
    "severity": "info"
   },
   {
-   "title": "Iran attacks Bahrain, Kuwait, closes Hormuz Strait after fresh US strikes",
+   "title": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
    "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-10T23:57:12+00:00",
@@ -298,27 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-10T23:01:41+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Palestinians accuse Israeli settlers of impeding firefighters near West Bank village",
-   "link": "https://www.timesofisrael.com/palestinians-accuse-israeli-settlers-of-impeding-firefighters-near-west-bank-village/",
-   "source": "Times of Israel",
-   "published": "2026-06-10T22:21:46+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "US launches further ‘self-defense strikes’ on Iran, which claims to close Hormuz in response",
-   "link": "https://www.timesofisrael.com/liveblog-june-11-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-10T21:46:32+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC downs MQ-9 in Strait of Hormuz as Iran responds to US aggression",
-   "link": "https://presstv.ir/Detail/2026/06/10/770168/Iran-IRGC-US-MQ-9-drone-Jam-Strait-of-Hormuz-CENTCOM-Apache-helicopter-Bahrain-Jordan",
-   "source": "Press TV",
-   "published": "2026-06-10T21:34:20.315336+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 12,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
      "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
      "source": "Press TV",
-     "published": "2026-06-11T01:41:55.092830+00:00",
+     "published": "2026-06-11T03:41:02.198332+00:00",
      "severity": "high"
     },
     {
      "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
      "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
      "source": "Press TV",
-     "published": "2026-06-11T01:41:55.092326+00:00",
+     "published": "2026-06-11T03:41:02.197825+00:00",
      "severity": "info"
     },
     {
      "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
      "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
      "source": "Press TV",
-     "published": "2026-06-11T01:41:55.092104+00:00",
+     "published": "2026-06-11T03:41:02.197597+00:00",
      "severity": "medium"
     }
    ]
@@ -374,6 +374,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1ddd8f0e8b00",
+   "title": "Marjorie Taylor Greene Calls Trump a ‘Traitor’ Over Handling of Epstein Files",
+   "link": "https://www.mediaite.com/media/news/marjorie-taylor-greene-calls-trump-a-traitor-over-handling-of-epstein-files/",
+   "summary": "Marjorie Taylor Greene told Kaitlan Collins that those who suppressed the files relating to Jeffrey Epstein \"should be considered traitors,\" claiming that term also applied to President Donald Trump. The post Marjorie Taylor Greene Calls Trump a ‘Traitor’ Over Handling of Epstein Files first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T02:47:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "55423190bc06",
+   "title": "Translation: \"In deference to a megalomaniac-tyrant, and because I'm an abject coward, I will not acknowledge reality.\"",
+   "link": "https://bsky.app/profile/drjackbrown.bsky.social/post/3mny7ajtxfk26",
+   "summary": "",
+   "source": "@drjackbrown",
+   "category": "trump_bsky",
+   "published": "2026-06-11T02:41:44.134+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4eb06e8c91a6",
+   "title": "Psaki: Trump called you a thug and said you are the worst than any human being that's ever run for office. Platner: Well, coming from certainly the worst person to have ever run for office, I take it as an immense compliment.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mny5mq4pr425",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T02:12:43.309+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "200a0921b791",
+   "title": "They absolutely know they’re committing war crimes. It’s 100% intentional. They’re not even trying to hide it. They boast about it. They’re proud of it.. They are war criminals, committing war crimes.",
+   "link": "https://bsky.app/profile/charles.littlegreenfootballs.com/post/3mny5cbllp32q",
+   "summary": "",
+   "source": "@charles",
+   "category": "trump_bsky",
+   "published": "2026-06-11T02:06:52+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f9e5d102deb1",
    "title": "‘Shame On His Team’: Marjorie Taylor Greene Blames Trump’s Staff for ‘Making Him Look Like a Fool’",
@@ -765,16 +805,6 @@
    "iran_topic": false
   },
   {
-   "id": "a4dcf70faa11",
-   "title": "Ron Johnson claims \"hundreds of thousands\" of Americans died from covid vaccines",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnxnt543bk2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:30:00.951+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "877acc6a8625",
    "title": "Some Senate Dems still won’t commit to Graham Platner",
    "link": "https://www.politico.com/news/2026/06/10/graham-platner-senate-democrats-divided-00957515",
@@ -782,16 +812,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-10T21:18:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "64c03bf44bd8",
-   "title": "If this bozo was Secretary of Defense before D-Day, he'd have warned the Nazis when and where the invasion of Europe would be so they'd be ready.",
-   "link": "https://bsky.app/profile/petergleick.bsky.social/post/3mnxmpshgys25",
-   "summary": "",
-   "source": "@petergleick",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:10:15.384+00:00",
    "iran_topic": false
   },
   {
@@ -935,16 +955,6 @@
    "iran_topic": false
   },
   {
-   "id": "5f50423e3d9d",
-   "title": "Jasmine Crockett Delivers Bonkers Defense of Karmelo Anthony After Guilty Verdict: I Wouldn’t Be ‘Limited to Fists’",
-   "link": "https://www.mediaite.com/media/jasmine-crockett-delivers-bonkers-defense-of-karmelo-anthony-after-guilty-verdict-i-wouldnt-be-limited-to-fists/",
-   "summary": "Jasmine Crockett made several inaccurate and twisted comments about the murder of teenager Austin Metcalf, one day after his killer was convicted of murder The post Jasmine Crockett Delivers Bonkers Defense of Karmelo Anthony After Guilty Verdict: I Wouldn’t Be ‘Limited to Fists’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T18:33:06+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2694dc8ab41b",
    "title": "Q: \"Are you concerned, Mr. President, about the latest inflation number which came out this morning?\" Trump: \"No, I love it. The numbers were great. You know what I really love? I love the inflation.\" He then talks about taking Iran's oil. Inflation just hit its highest level in 3 years.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnxbbqopok2t",
@@ -962,16 +972,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-10T17:34:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "55d83fddf620",
-   "title": "MacFarlane: What do you think your constituents think about this slush fund? McGovern: They think Trump is a corrupt son of a bitch who doesn’t give a shit about them.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnx7tu2lpc2k",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-10T17:19:52.633+00:00",
    "iran_topic": false
   }
  ]
