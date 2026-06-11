@@ -1,55 +1,56 @@
 {
- "generated": "2026-06-10T23:16:05.686011+00:00",
+ "generated": "2026-06-11T01:42:43.297358+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 95.92,
-   "change": 4.47,
-   "change_pct": 4.89,
+   "price": 94.27,
+   "change": 2.82,
+   "change_pct": 3.08,
    "spark": [
     93.08999633789062,
     94.25,
     91.44999694824219,
-    95.91999816894531
+    94.2699966430664
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 93.12,
-   "change": 4.92,
-   "change_pct": 5.58,
+   "price": 91.47,
+   "change": 3.27,
+   "change_pct": 3.71,
    "spark": [
     90.54000091552734,
     91.30000305175781,
     88.19999694824219,
-    93.12000274658203
+    91.47000122070312
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4071.3,
-   "change": -188.7,
-   "change_pct": -4.43,
+   "price": 4130.4,
+   "change": -129.6,
+   "change_pct": -3.04,
    "spark": [
     4337.10009765625,
     4335.89990234375,
     4260.0,
-    4071.300048828125
+    4130.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.91,
-   "change": -0.14,
-   "change_pct": -0.14,
+   "price": 99.9,
+   "change": -0.01,
+   "change_pct": -0.01,
    "spark": [
     100.06999969482422,
     100.05000305175781,
-    99.91000366210938
+    99.91000366210938,
+    99.89900207519531
    ]
   },
   "^GSPC": {
@@ -99,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.19,
    "change": 0.05,
-   "change_pct": 1.5,
+   "change_pct": 1.62,
    "spark": [
     3.2290000915527344,
     3.1470000743865967,
     3.140000104904175,
-    3.187000036239624
+    3.190999984741211
    ]
   }
  },
@@ -218,8 +219,71 @@
    "title": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
    "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman",
    "source": "Press TV",
-   "published": "2026-06-10T23:15:02.379566+00:00",
+   "published": "2026-06-11T01:41:55.093986+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
+   "source": "Press TV",
+   "published": "2026-06-11T01:41:55.092830+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
+   "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
+   "source": "Press TV",
+   "published": "2026-06-11T01:41:55.092326+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
+   "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
+   "source": "Press TV",
+   "published": "2026-06-11T01:41:55.092104+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Iran announces closure of Strait of Hormuz following US strikes",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-11T01:18:55+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US military says none of its warships struck in Strait of Hormuz",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-military-says-none-its-warships-struck-strait-hormuz",
+   "source": "Al-Monitor",
+   "published": "2026-06-11T00:01:42+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Iran war live: Tehran retaliates after US launches attacks across Iran",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-11T00:00:00+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran attacks Bahrain, Kuwait, closes Hormuz Strait after fresh US strikes",
+   "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-10T23:57:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran Says It Struck Ships In Strait Of Hormuz After U.S. Launches New Strikes",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u2j3u7/iran_says_it_struck_ships_in_strait_of_hormuz/",
+   "source": "r/worldnews",
+   "published": "2026-06-10T23:56:21+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
+   "link": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-10T23:55:27+00:00",
+   "severity": "info"
   },
   {
    "title": "Iran announces closure of Strait of Hormuz after US attacks",
@@ -243,7 +307,7 @@
    "severity": "high"
   },
   {
-   "title": "US launches further ‘self-defense strikes’ on Iran, which declares closure of Hormuz in response",
+   "title": "US launches further ‘self-defense strikes’ on Iran, which claims to close Hormuz in response",
    "link": "https://www.timesofisrael.com/liveblog-june-11-2026/",
    "source": "Times of Israel",
    "published": "2026-06-10T21:46:32+00:00",
@@ -255,98 +319,35 @@
    "source": "Press TV",
    "published": "2026-06-10T21:34:20.315336+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Three Indian seafarers still missing after attack on tanker off Oman, India says reut.rs/43o1muH",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnxl2hocxr2z",
-   "source": "@reuters",
-   "published": "2026-06-10T20:40:25+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Trump says US will attack Iran 'very hard' and has taken oil through Hormuz reut.rs/4v2N1jz",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnxjemgzyr2n",
-   "source": "@reuters",
-   "published": "2026-06-10T20:10:18+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Baqaei: US attacked Iranian nation's pulse of life",
-   "link": "https://en.irna.ir/news/86179390/Baqaei-US-attacked-Iranian-nation-s-pulse-of-life",
-   "source": "IRNA",
-   "published": "2026-06-10T19:41:34+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "As Iran weakens, Gulf states are looking beyond the Strait of Hormuz - analysis",
-   "link": "https://www.jpost.com/middle-east/article-899007",
-   "source": "Jerusalem Post",
-   "published": "2026-06-10T18:41:21+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
-   "link": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-10T17:48:54+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Missile striking Palau flagged tanker Settebello.",
-   "link": "https://www.reddit.com/r/CombatFootage/comments/1u28wfx/missile_striking_palau_flagged_tanker_settebello/",
-   "source": "r/CombatFootage",
-   "published": "2026-06-10T17:29:07+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "MEA summons US Charge d’Affaires Jason Meeks over attack on tanker off Oman coast, lodge strong protest",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1u278gt/mea_summons_us_charge_daffaires_jason_meeks_over/",
-   "source": "r/geopolitics",
-   "published": "2026-06-10T16:31:18+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Two crew missing after suspected US strike on tanker off Oman reut.rs/3Se4x5G",
-   "link": "https://bsky.app/profile/reuters.com/post/3mnx4afpkco2g",
-   "source": "@reuters",
-   "published": "2026-06-10T16:15:18+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump on Iran: We're going to be attacking them very hard",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-iran-were-going-be-attacking-them-very-hard",
-   "source": "Al-Monitor",
-   "published": "2026-06-10T16:01:42+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 7,
+   "status": "ELEVATED",
+   "incident_count": 12,
    "recent": [
     {
-     "title": "Iran announces closure of Strait of Hormuz after US attacks",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u2hvle/iran_announces_closure_of_strait_of_hormuz_after/",
-     "source": "r/worldnews",
-     "published": "2026-06-10T23:03:30+00:00",
+     "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+     "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
+     "source": "Press TV",
+     "published": "2026-06-11T01:41:55.092830+00:00",
+     "severity": "high"
+    },
+    {
+     "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
+     "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
+     "source": "Press TV",
+     "published": "2026-06-11T01:41:55.092326+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran announces closure of Strait of Hormuz after US attacks",
-     "link": "https://www.al-monitor.com/originals/2026/06/iran-announces-closure-strait-hormuz-after-us-attacks",
-     "source": "Al-Monitor",
-     "published": "2026-06-10T23:01:41+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "US launches further ‘self-defense strikes’ on Iran, which declares closure of Hormuz in response",
-     "link": "https://www.timesofisrael.com/liveblog-june-11-2026/",
-     "source": "Times of Israel",
-     "published": "2026-06-10T21:46:32+00:00",
-     "severity": "info"
+     "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
+     "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
+     "source": "Press TV",
+     "published": "2026-06-11T01:41:55.092104+00:00",
+     "severity": "medium"
     }
    ]
   },
@@ -373,6 +374,146 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f9e5d102deb1",
+   "title": "‘Shame On His Team’: Marjorie Taylor Greene Blames Trump’s Staff for ‘Making Him Look Like a Fool’",
+   "link": "https://www.mediaite.com/media/news/shame-on-his-team-marjorie-taylor-greene-blames-trumps-staff-for-making-him-look-like-a-fool/",
+   "summary": "Former congresswoman Marjorie Taylor Greene told CNN's Kaitlan Collins on Wednesday that President Donald Trump's staff made him \"look like a fool\" in his interview with NBC’s Kristen Welker. The post ‘Shame On His Team’: Marjorie Taylor Greene Blames Trump’s Staff for ‘Making Him Look Like a Fool’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T01:37:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "45c60abf7fe6",
+   "title": "Kennedy: I wanna see those text messages—the sexting.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mny3kfrimw2b",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T01:35:38.539+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b94184df16de",
+   "title": "Fox’s Laura Ingraham Tells Republican Senator, ‘People Are Hurting’ Financially Amid Trump’s War",
+   "link": "https://www.mediaite.com/media/tv/foxs-laura-ingraham-tells-republican-senator-people-are-hurting-financially-amid-trumps-war/",
+   "summary": "Fox News host Laura Ingraham acknowledged an alarming inflation report on Wednesday, telling one Republican senator, \"People are hurting.\" The post Fox’s Laura Ingraham Tells Republican Senator, ‘People Are Hurting’ Financially Amid Trump’s War first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T01:09:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f0fc7b80cc86",
+   "title": "Erin Burnett Asks Congressman if Bill Gates Was a ‘Victim’ of Epstein After Blackmail Claims",
+   "link": "https://www.mediaite.com/media/news/erin-burnett-asks-congressman-if-bill-gates-was-a-victim-of-epstein-after-blackmail-claims/",
+   "summary": "CNN host Erin Burnett asked Rep. Robert Garcia (D-CA) if Bill Gates was a \"victim\" of Jeffrey Epstein after the Microsoft co-founder told Congress on Wednesday that Epstein had blackmailed him. The post Erin Burnett Asks Congressman if Bill Gates Was a ‘Victim’ of Epstein After Blackmail Claims first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T00:54:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89222f003b72",
+   "title": "WSJ Files Scathing Motion Against Trump in Epstein Lawsuit, Calls His Claims Dishonest",
+   "link": "https://www.mediaite.com/media/news/wsj-files-scathing-motion-against-trump-in-epstein-lawsuit-calls-his-claims-dishonest/",
+   "summary": "The Wall Street Journal filed a scathing motion to dismiss that excoriates Trump's legal team for \"groundless\" and dishonest arguments. The post WSJ Files Scathing Motion Against Trump in Epstein Lawsuit, Calls His Claims Dishonest first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T00:49:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ad2db92a1bef",
+   "title": "‘Name the Time and Place’: Stephen A. Smith Hits Back at Trump for Calling Him ‘Low IQ’",
+   "link": "https://www.mediaite.com/media/news/name-the-time-and-place-stephen-a-smith-hits-back-at-trump-for-calling-him-low-iq/",
+   "summary": "Stephen A. Smith responded to President Donald Trump's attacks against him on Wednesday, telling the president directly that if he thought \"those one liners gonna work, you got another thing coming.\" The post ‘Name the Time and Place’: Stephen A. Smith Hits Back at Trump for Calling Him ‘Low IQ’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T00:31:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8a6e315883e3",
+   "title": "This is just history repeating itself. These people are making the same arguments Nazis made in the 1930s to justify limiting the number of Jewish students allowed to enroll in German universities.",
+   "link": "https://bsky.app/profile/omrimarian.bsky.social/post/3mnxx2sqovs2x",
+   "summary": "",
+   "source": "@omrimarian",
+   "category": "trump_bsky",
+   "published": "2026-06-11T00:15:22.203+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13c4bea51461",
+   "title": "Hayes: That line shooting up right at the end, that is entirely unilaterally caused by one man—Donald Trump. Most things that happen in an economy under the president are not just solely the president's fault. This is the rarest of exceptions. It's entirely on Trump.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnxwzu7alx2a",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T00:14:50.025+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1b5e2d20afc7",
+   "title": "Sheehy lies his ass off: \"We don't in any way dismiss the inflation numbers, but let's not forget, the gas prices we see today, the inflation we see today, those were the gas prices and inflation under Obama and Biden. This is a temporary bump.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnxulvpnau22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:31:14.424+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dc4358224a45",
+   "title": "Laura Ingraham: \"Minnesota Senator Tim Sheehy\" (Sheehy doesn't bother correcting her)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnxugil62v2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:28:12.878+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "414fc5bb64bf",
+   "title": "House Intelligence Democrats are demanding that Bill Pulte, Trump's controversial pick to be acting director of national intelligence, submit to a full security check before assuming the post — including an examination of his financial holdings and foreign contacts.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnxucziysc2h",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:26:16.502+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8be1face313d",
+   "title": "Fox correspondent: \"I asked the president what will happen if the Iranians don't sign an agreement that was put forward by American negotiators. President Trump said, 'We'll bomb the s**t out of them tomorrow night.'\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnxubzexzy2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:25:42.737+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1a3a0f806270",
+   "title": "Mike Johnson looks like the 'how do you do, fellow kids' meme",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnxu3sew6g2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:22:14.068+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f26b8ff9565",
+   "title": "Mike Johnson says Republicans gifted Trump a baseball bat and ball today. He adds that Trump is too busy to be at the congressional baseball game tonight but he's \"here in spirit.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnxtvujw5d2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-10T23:18:54.994+00:00",
+   "iran_topic": false
+  },
   {
    "id": "8627db954bcb",
    "title": "‘Democrats Just Won The Midterms’: Liberals Take Victory Lap Over Trump Declaring ‘I Love the Inflation’",
@@ -644,16 +785,6 @@
    "iran_topic": false
   },
   {
-   "id": "52eaa220396f",
-   "title": "what even is this event, why is the secretary of defense doing a pre-fight hype event dressed like he’s on vacation at a resort",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mnxn3ohh4k22",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:16:53.842+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "64c03bf44bd8",
    "title": "If this bozo was Secretary of Defense before D-Day, he'd have warned the Nazis when and where the invasion of Europe would be so they'd be ready.",
    "link": "https://bsky.app/profile/petergleick.bsky.social/post/3mnxmpshgys25",
@@ -664,16 +795,6 @@
    "iran_topic": false
   },
   {
-   "id": "6db26b0302c7",
-   "title": "The policy of the Trump Administration is straightforwardly that there are too many black people achieving things",
-   "link": "https://bsky.app/profile/jesseltaylor.bsky.social/post/3mnxmo3zqms2h",
-   "summary": "",
-   "source": "@jesseltaylor",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:09:18.312+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "57de61596824",
    "title": "Madison Square Garden Accuses Mamdani of Turning Venue into ‘Police State’ in Scathing Statement on Security Restrictions",
    "link": "https://www.mediaite.com/media/sports/madison-square-garden-accuses-mamdani-of-turning-venue-into-police-state-in-scathing-statement-on-security-restrictions/",
@@ -681,36 +802,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-10T21:07:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f35b6b18f02b",
-   "title": "Until we share it on Signal",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mnxmdxgd622k",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:03:37.936+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8a7eaa860fa5",
-   "title": "I teach at CUNY. The student body is majority minority because we prioritize educating kids from NYC. Is she suggesting we bus in kids from upstate New York?",
-   "link": "https://bsky.app/profile/elmcitytree.blacksky.app/post/3mnxm4dvbac22",
-   "summary": "",
-   "source": "@elmcitytree",
-   "category": "trump_bsky",
-   "published": "2026-06-10T20:59:22.573+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "04d72e9a83f9",
-   "title": "She's straightforwardly saying schools’ federal funds are at risk unless they reduce their Black student population to something Trump is more comfortable with By design, the safest way for schools to avoid suspicion is to not admit Black students at all ballsandstrikes.org/law-politics...",
-   "link": "https://bsky.app/profile/audrelawdamercy.blacksky.app/post/3mnxldmqsbs2d",
-   "summary": "",
-   "source": "@audrelawdamercy",
-   "category": "trump_bsky",
-   "published": "2026-06-10T20:45:33.003+00:00",
    "iran_topic": false
   },
   {
@@ -854,46 +945,6 @@
    "iran_topic": false
   },
   {
-   "id": "0012e6326434",
-   "title": "DHS Chief Markwayne Mullin Snipes at Trump Buddy Zohran Mamdani: ‘I Have Zero Respect’ for Him",
-   "link": "https://www.mediaite.com/media/news/dhs-chief-markwayne-mullin-snipes-at-trump-buddy-zohran-mamdani-i-have-zero-respect-for-him/",
-   "summary": "Department of Homeland Security boss Markwayne Mullin raged against Zohran Mamdani on Wednesday, saying he has \"zero respect\" for the New York City mayor that he dubbed a \"socialist communist.\" The post DHS Chief Markwayne Mullin Snipes at Trump Buddy Zohran Mamdani: ‘I Have Zero Respect’ for Him first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T18:25:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ef297681d768",
-   "title": "House Dem Says ‘Explosive’ NY Times Report Shows Todd Blanche ‘At the Heart’ of Epstein-Trump Cover-Up",
-   "link": "https://www.mediaite.com/politics/house-dem-says-explosive-ny-times-report-shows-todd-blanche-at-the-heart-of-epstein-trump-cover-up/",
-   "summary": "“We are all glad to hear that Mr. Comer has had a change of heart in making sure that Todd Blanche is brought before this committee” The post House Dem Says ‘Explosive’ NY Times Report Shows Todd Blanche ‘At the Heart’ of Epstein-Trump Cover-Up first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T18:15:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "86908132ff78",
-   "title": "Trump Says He’s Not Looking to Renew Trade Deal With Canada — Despite Ontario’s Vow to Lift US Liquor Ban if Deal Reached",
-   "link": "https://thedailypour.com/news/ontario-us-alcohol-ban-trump/",
-   "summary": "Read the rest of this entry &#187; The post Trump Says He’s Not Looking to Renew Trade Deal With Canada — Despite Ontario’s Vow to Lift US Liquor Ban if Deal Reached first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T17:56:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0461efac421a",
-   "title": "Steve Bannon Excoriates Republican-Led Senate — Accuses Them of ‘Working Counter’ to Trump and ‘The MAGA Project’",
-   "link": "https://www.mediaite.com/media/podcasts/steve-bannon-excoriates-republican-led-senate-accuses-them-of-working-counter-to-trump-and-the-maga-project/",
-   "summary": "Steve Bannon laid into Republicans in the Senate, accusing them of \"working counter\" to President Donald Trump's MAGA agenda. The post Steve Bannon Excoriates Republican-Led Senate — Accuses Them of ‘Working Counter’ to Trump and ‘The MAGA Project’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T17:46:44+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2694dc8ab41b",
    "title": "Q: \"Are you concerned, Mr. President, about the latest inflation number which came out this morning?\" Trump: \"No, I love it. The numbers were great. You know what I really love? I love the inflation.\" He then talks about taking Iran's oil. Inflation just hit its highest level in 3 years.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnxbbqopok2t",
@@ -914,16 +965,6 @@
    "iran_topic": false
   },
   {
-   "id": "a786021863a4",
-   "title": "CNN’s Data Guru Makes the Case Netanyahu May Finally Be Losing Power In Israel",
-   "link": "https://www.mediaite.com/politics/cnns-data-guru-makes-the-case-netanyahu-may-finally-losing-power-in-israel/",
-   "summary": "CNN Chief Data Analyst Harry Enten told viewers Israeli Prime Minister Benjamin Netanyahu may be out of office sooner than later, based on polls and markets The post CNN’s Data Guru Makes the Case Netanyahu May Finally Be Losing Power In Israel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T17:29:35+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "55d83fddf620",
    "title": "MacFarlane: What do you think your constituents think about this slush fund? McGovern: They think Trump is a corrupt son of a bitch who doesn’t give a shit about them.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnx7tu2lpc2k",
@@ -931,46 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-10T17:19:52.633+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a3b8587aee2b",
-   "title": "Public First Poll for POLITICO (Makerfield)",
-   "link": "https://www.politico.com/f/?id=0000019e-b262-d4e8-afde-f2665fec0000",
-   "summary": "A survey on UK adults' views ahead of the Makerfield by-election.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-10T16:35:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7a5f79d3b01b",
-   "title": "Trump signs measure into law to fund immigration agencies until the end of his term",
-   "link": "https://www.politico.com/news/2026/06/10/trump-signs-measure-into-law-to-fund-immigration-agencies-until-the-end-of-his-term-00956298",
-   "summary": "The bill ends the congressional stalemate that kept the government partially shut down for four months.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-10T16:31:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "681757818829",
-   "title": "S. 2 Signed into Law",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",
-   "summary": "On Wednesday, June 10, 2026, the President signed into law: S. 2, the &#8220;Secure America Act,&#8221; which provides funding to the Department of Homeland security, U.S. Customs and Border Protection, and U.S. Customs Enforcement through Fiscal Year 2029 for immigration enforcement and related activities. The post S. 2 Signed into Law appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-10T16:25:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "efa2a3fc368a",
-   "title": "Reporter: Are you concerned, Mr. President, about the latest inflation number which came out this morning? Trump: No, I love it. I love the inflation.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnx3wrxq7h2n",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-10T16:09:56.011+00:00",
    "iran_topic": false
   }
  ]
