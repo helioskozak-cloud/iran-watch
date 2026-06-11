@@ -1,111 +1,107 @@
 {
- "generated": "2026-06-11T03:41:48.935101+00:00",
+ "generated": "2026-06-11T08:45:36.970524+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 94.67,
-   "change": 3.22,
-   "change_pct": 3.52,
+   "price": 91.89,
+   "change": -1.21,
+   "change_pct": -1.3,
    "spark": [
-    93.08999633789062,
     94.25,
     91.44999694824219,
-    94.66999816894531
+    93.0999984741211,
+    91.88999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 91.79,
-   "change": 3.59,
-   "change_pct": 4.07,
+   "price": 88.97,
+   "change": -1.06,
+   "change_pct": -1.18,
    "spark": [
-    90.54000091552734,
     91.30000305175781,
     88.19999694824219,
-    91.79000091552734
+    90.02999877929688,
+    88.97000122070312
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4088.5,
-   "change": -171.5,
-   "change_pct": -4.03,
+   "price": 4116.6,
+   "change": 8.4,
+   "change_pct": 0.2,
    "spark": [
-    4337.10009765625,
     4335.89990234375,
     4260.0,
-    4088.5
+    4108.2001953125,
+    4116.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.96,
-   "change": 0.05,
-   "change_pct": 0.05,
+   "price": 100.03,
+   "change": 0.12,
+   "change_pct": 0.12,
    "spark": [
-    100.06999969482422,
     100.05000305175781,
     99.91000366210938,
-    99.95800018310547
+    100.03299713134766
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7266.99,
-   "change": -119.66,
-   "change_pct": -1.62,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7584.31005859375,
     7383.740234375,
     7405.72998046875,
-    7386.64990234375,
-    7266.990234375
+    7386.64990234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 134.3,
-   "change": 3.0,
-   "change_pct": 2.28,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     136.74000549316406,
     133.02000427246094,
     135.14999389648438,
-    131.3000030517578,
-    134.3000030517578
+    131.3000030517578
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 22.22,
-   "change": 2.35,
-   "change_pct": 11.83,
+   "price": 20.68,
+   "change": 0.81,
+   "change_pct": 4.08,
    "spark": [
-    15.399999618530273,
     21.510000228881836,
     18.920000076293945,
     19.8700008392334,
-    22.219999313354492
+    20.68000030517578
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.19,
-   "change": 0.05,
-   "change_pct": 1.72,
+   "price": 3.12,
+   "change": -0.06,
+   "change_pct": -2.01,
    "spark": [
-    3.2290000915527344,
     3.1470000743865967,
     3.140000104904175,
-    3.194000005722046
+    3.184999942779541,
+    3.121000051498413
    ]
   }
  },
@@ -216,138 +212,138 @@
  ],
  "incidents": [
   {
-   "title": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
-   "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman",
-   "source": "Press TV",
-   "published": "2026-06-11T03:41:02.199507+00:00",
-   "severity": "medium"
+   "title": "WATCH: IDF destroys Hezbollah anti-tank launcher, seizes weapons, kills terrorists",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-899054",
+   "source": "Jerusalem Post",
+   "published": "2026-06-11T10:53:52+00:00",
+   "severity": "high"
   },
   {
-   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
-   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
-   "source": "Press TV",
-   "published": "2026-06-11T03:41:02.198332+00:00",
-   "severity": "high"
+   "title": "IRGC general threatens to 'turn entire region into hell' if Strait of Hormuz destabilized",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899049",
+   "source": "Jerusalem Post",
+   "published": "2026-06-11T09:21:19+00:00",
+   "severity": "info"
   },
   {
    "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
    "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
    "source": "Press TV",
-   "published": "2026-06-11T03:41:02.197825+00:00",
+   "published": "2026-06-11T08:44:41.294563+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
+   "source": "Press TV",
+   "published": "2026-06-11T08:44:41.294150+00:00",
+   "severity": "high"
   },
   {
    "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
    "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
    "source": "Press TV",
-   "published": "2026-06-11T03:41:02.197597+00:00",
+   "published": "2026-06-11T08:44:41.293731+00:00",
    "severity": "medium"
   },
   {
-   "title": "Trump claims he directly spoke with Iranian officials, was asked to stop strikes",
-   "link": "https://www.jpost.com/international/article-899032",
-   "source": "Jerusalem Post",
-   "published": "2026-06-11T02:54:39+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran announces closure of Strait of Hormuz after US attacks reut.rs/4dY0vXG",
-   "link": "https://bsky.app/profile/reuters.com/post/3mny5iak7ii2j",
+   "title": "Hormuz reopening could be OPEC’s undoing reut.rs/49VIM0x",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnytbi3fdv23",
    "source": "@reuters",
-   "published": "2026-06-11T02:10:15+00:00",
+   "published": "2026-06-11T08:40:10+00:00",
    "severity": "info"
   },
   {
-   "title": "Drone rescue highlights US Navy's autonomous push",
-   "link": "https://www.al-monitor.com/originals/2026/06/drone-rescue-highlights-us-navys-autonomous-push",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T02:00:25+00:00",
+   "title": "Three Indian sailors killed in US strike on oil tanker",
+   "link": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-11T08:07:34+00:00",
    "severity": "critical"
   },
   {
-   "title": "Iran announces closure of Strait of Hormuz following US strikes",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-11T01:18:55+00:00",
+   "title": "LIVE: Vessel traffic in Strait of Hormuz www.youtube.com/live/4Dd0TlA...",
+   "link": "https://bsky.app/profile/reuters.com/post/3mnyqkwkpok2d",
+   "source": "@reuters",
+   "published": "2026-06-11T07:51:46.619+00:00",
    "severity": "info"
   },
   {
-   "title": "US military says none of its warships struck in Strait of Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-military-says-none-its-warships-struck-strait-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T00:01:42+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-11T00:00:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
-   "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-10T23:57:12+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran Says It Struck Ships In Strait Of Hormuz After U.S. Launches New Strikes",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u2j3u7/iran_says_it_struck_ships_in_strait_of_hormuz/",
+   "title": "Three missing Indian seafarers dead after US strike on tanker in Gulf of Oman",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u2ry4b/three_missing_indian_seafarers_dead_after_us/",
    "source": "r/worldnews",
-   "published": "2026-06-10T23:56:21+00:00",
+   "published": "2026-06-11T07:14:42+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Strait of Hormuz fully closed after US strikes on Iran",
+   "link": "https://en.irna.ir/news/86179680/Strait-of-Hormuz-fully-closed-after-US-strikes-on-Iran",
+   "source": "IRNA",
+   "published": "2026-06-11T07:12:23+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "BREAKING: An Indian official said three Indian mariners were killed on board a tanker targeted by the U.S. military over allegedly violating America’s blockade on Iran.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mnynku2kq22n",
+   "source": "@apnews",
+   "published": "2026-06-11T06:58:02+00:00",
    "severity": "critical"
   },
   {
-   "title": "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
-   "link": "https://www.aljazeera.com/video/quotable/2026/6/10/trumps-claim-of-escorting-oil-through-hormuz-wont-ease-crisis?traffic_source=rss",
+   "title": "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+   "link": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-06-10T23:55:27+00:00",
+   "published": "2026-06-11T05:52:48+00:00",
    "severity": "info"
   },
   {
-   "title": "Iran announces closure of Strait of Hormuz after US attacks",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u2hvle/iran_announces_closure_of_strait_of_hormuz_after/",
-   "source": "r/worldnews",
-   "published": "2026-06-10T23:03:30+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran announces closure of Strait of Hormuz after US attacks",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-announces-closure-strait-hormuz-after-us-attacks",
+   "title": "US and Iran trade attacks for a second day, undermining shaky ceasefire",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-and-iran-trade-attacks-second-day-undermining-shaky-ceasefire",
    "source": "Al-Monitor",
-   "published": "2026-06-10T23:01:41+00:00",
+   "published": "2026-06-11T04:36:39+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US launches strikes for second straight night in bid to force Iran to agree on deal",
+   "link": "https://www.timesofisrael.com/us-launches-strikes-for-second-straight-night-in-bid-to-force-iran-to-agree-on-deal/",
+   "source": "Times of Israel",
+   "published": "2026-06-11T03:41:44+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
+   "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman",
+   "source": "Press TV",
+   "published": "2026-06-11T03:41:02.199507+00:00",
+   "severity": "medium"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 11,
+   "status": "ACTIVE",
+   "incident_count": 8,
    "recent": [
     {
-     "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
-     "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
-     "source": "Press TV",
-     "published": "2026-06-11T03:41:02.198332+00:00",
-     "severity": "high"
+     "title": "IRGC general threatens to 'turn entire region into hell' if Strait of Hormuz destabilized",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899049",
+     "source": "Jerusalem Post",
+     "published": "2026-06-11T09:21:19+00:00",
+     "severity": "info"
     },
     {
      "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
      "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
      "source": "Press TV",
-     "published": "2026-06-11T03:41:02.197825+00:00",
+     "published": "2026-06-11T08:44:41.294563+00:00",
      "severity": "info"
     },
     {
-     "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
-     "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
+     "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+     "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
      "source": "Press TV",
-     "published": "2026-06-11T03:41:02.197597+00:00",
-     "severity": "medium"
+     "published": "2026-06-11T08:44:41.294150+00:00",
+     "severity": "high"
     }
    ]
   },
@@ -374,6 +370,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "4332015a50e3",
+   "title": "Poll: Voter cynicism remains a potent threat to incumbents across the globe",
+   "link": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
+   "summary": "New research from London-based Public First suggests many of the grievances that fueled the widespread anti-incumbent backlash in 2024 remain entrenched.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-11T04:01:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc674c68f7ba",
+   "title": "You’re that excited for the Nets rebranding? 😛",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnydhh5x522b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T03:57:11.164+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5e4483919f83",
+   "title": "the thrill of extremely unlikely victory (Al Bello/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnycybgtas2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T03:48:41.845+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "48e67422cd57",
+   "title": "CNN Responds to Speculation Daniel Dale Is Being Sidelined to Placate Trump",
+   "link": "https://www.mediaite.com/media/tv/cnn-responds-to-speculation-daniel-dale-is-being-sidelined-to-placate-trump/",
+   "summary": "CNN's resident fact-checker has not been seen on the network's television airwaves in months. The post CNN Responds to Speculation Daniel Dale Is Being Sidelined to Placate Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T03:47:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d3a99981ebe7",
+   "title": "looks like the party is on outside MSG lol (Charly Triballeau/AFP via Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mnycqzydgs2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T03:44:39.144+00:00",
+   "iran_topic": false
+  },
   {
    "id": "1ddd8f0e8b00",
    "title": "Marjorie Taylor Greene Calls Trump a ‘Traitor’ Over Handling of Epstein Files",
@@ -765,26 +811,6 @@
    "iran_topic": false
   },
   {
-   "id": "1cfa42930d70",
-   "title": "\"I faked them all\" -- Eric Bolling admits on air that he lied about being vaccinated to Newsmax in order to stay employed",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnxo6kudfs2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:36:24.476+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d68efe5420e8",
-   "title": "You have to admit, the tactic of \"Trying to logically corner everyone into admitting that America currently controls the Strait of Hormuz\" is novel AND hilarious Presumably the hope is that the Iranians will be like \"Ohhhh, you right you right\" and then simply stop doing all the bad stuff",
-   "link": "https://bsky.app/profile/whstancil.bsky.social/post/3mnxo5arrks2d",
-   "summary": "",
-   "source": "@whstancil",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:35:40.351+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "b36c5832979e",
    "title": "Trump will not attend US opening match of World Cup",
    "link": "https://www.politico.com/news/2026/06/10/trump-will-not-attend-u-s-opening-match-of-world-cup-00957650",
@@ -792,16 +818,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-10T21:35:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46beea73a653",
-   "title": "BOLLING: Dr Fauci may have killed literally millions of people. Is there no way in hell to prosecute this SOB? RON JOHNSON: His pardon only applies to state charges. There are potentially things on state charges.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnxo3beg4c2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-10T21:34:33.854+00:00",
    "iran_topic": false
   },
   {
@@ -945,16 +961,6 @@
    "iran_topic": true
   },
   {
-   "id": "3c9f11fac6c4",
-   "title": "‘Wow!’ GOP Rep. Floored in House Hearing By ActBlue CEO Pleading the Fifth on a Question About Her Name",
-   "link": "https://www.mediaite.com/media/tv/wow-gop-rep-floored-in-house-hearing-by-actblue-ceo-pleading-the-fifth-on-a-question-about-her-name/",
-   "summary": "Rep. Barry Loudermilk (R-GA) was shocked when ActBlue CEO Regina Wallace-Jones refused to answer any questions at a hearing, including one on her own name. The post ‘Wow!’ GOP Rep. Floored in House Hearing By ActBlue CEO Pleading the Fifth on a Question About Her Name first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-10T18:41:39+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2694dc8ab41b",
    "title": "Q: \"Are you concerned, Mr. President, about the latest inflation number which came out this morning?\" Trump: \"No, I love it. The numbers were great. You know what I really love? I love the inflation.\" He then talks about taking Iran's oil. Inflation just hit its highest level in 3 years.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnxbbqopok2t",
@@ -963,16 +969,6 @@
    "category": "trump_bsky",
    "published": "2026-06-10T17:45:32.603+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "f52cfc9aca4c",
-   "title": "President Trump Is Restoring American Greatness One Win at a Time",
-   "link": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
-   "summary": "Since returning to office, President Donald J. Trump has unleashed a bold America First agenda that is crushing bureaucracy, restoring fairness, and rebuilding American dominance. Through sweeping deregulation, pro-growth policies, and decisive enforcement, the Trump Administration is slashing waste, protecting American workers, and stacking victory after victory. Here are a few recent wins you may [&#8230;] The post President Trump Is Restoring American Greatness One Win at a Time appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-10T17:34:42+00:00",
-   "iran_topic": false
   }
  ]
 }
