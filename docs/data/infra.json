@@ -1,107 +1,111 @@
 {
- "generated": "2026-06-11T08:45:36.970524+00:00",
+ "generated": "2026-06-11T10:14:21.913654+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 91.89,
-   "change": -1.21,
-   "change_pct": -1.3,
+   "price": 92.26,
+   "change": -0.84,
+   "change_pct": -0.9,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
-    91.88999938964844
+    92.26000213623047
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 88.97,
-   "change": -1.06,
-   "change_pct": -1.18,
+   "price": 89.38,
+   "change": -0.65,
+   "change_pct": -0.72,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
-    88.97000122070312
+    89.37999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4116.6,
-   "change": 8.4,
-   "change_pct": 0.2,
+   "price": 4111.0,
+   "change": 2.8,
+   "change_pct": 0.07,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
-    4116.60009765625
+    4111.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.03,
-   "change": 0.12,
-   "change_pct": 0.12,
+   "price": 100.11,
+   "change": 0.16,
+   "change_pct": 0.16,
    "spark": [
     100.05000305175781,
     99.91000366210938,
-    100.03299713134766
+    99.94999694824219,
+    100.10900115966797
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7266.99,
+   "change": -119.66,
+   "change_pct": -1.62,
    "spark": [
     7584.31005859375,
     7383.740234375,
     7405.72998046875,
-    7386.64990234375
+    7386.64990234375,
+    7266.990234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 134.3,
+   "change": 3.0,
+   "change_pct": 2.28,
    "spark": [
     136.74000549316406,
     133.02000427246094,
     135.14999389648438,
-    131.3000030517578
+    131.3000030517578,
+    134.3000030517578
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 20.68,
-   "change": 0.81,
-   "change_pct": 4.08,
+   "price": 20.66,
+   "change": -1.56,
+   "change_pct": -7.02,
    "spark": [
     21.510000228881836,
     18.920000076293945,
     19.8700008392334,
-    20.68000030517578
+    22.219999313354492,
+    20.65999984741211
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.12,
-   "change": -0.06,
-   "change_pct": -2.01,
+   "change": -0.07,
+   "change_pct": -2.07,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
-    3.121000051498413
+    3.11899995803833
    ]
   }
  },
@@ -219,6 +223,27 @@
    "severity": "high"
   },
   {
+   "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
+   "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
+   "source": "Press TV",
+   "published": "2026-06-11T10:13:40.924824+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
+   "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
+   "source": "Press TV",
+   "published": "2026-06-11T10:13:40.924482+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
+   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
+   "source": "Press TV",
+   "published": "2026-06-11T10:13:40.923876+00:00",
+   "severity": "high"
+  },
+  {
    "title": "IRGC general threatens to 'turn entire region into hell' if Strait of Hormuz destabilized",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899049",
    "source": "Jerusalem Post",
@@ -226,25 +251,11 @@
    "severity": "info"
   },
   {
-   "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
-   "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
-   "source": "Press TV",
-   "published": "2026-06-11T08:44:41.294563+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
-   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
-   "source": "Press TV",
-   "published": "2026-06-11T08:44:41.294150+00:00",
+   "title": "Ukraine strikes Mariupol port, 'significantly limiting' its use",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1u2twop/ukraine_strikes_mariupol_port_significantly/",
+   "source": "r/geopolitics",
+   "published": "2026-06-11T09:11:58+00:00",
    "severity": "high"
-  },
-  {
-   "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
-   "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
-   "source": "Press TV",
-   "published": "2026-06-11T08:44:41.293731+00:00",
-   "severity": "medium"
   },
   {
    "title": "Hormuz reopening could be OPEC’s undoing reut.rs/49VIM0x",
@@ -308,13 +319,6 @@
    "source": "Times of Israel",
    "published": "2026-06-11T03:41:44+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "India summons US diplomat, lodges 'strong protest' after tanker strike off Oman",
-   "link": "https://presstv.ir/Detail/2026/06/10/770216/India-summons-United-States-diplomat-attack-tanker-Oman",
-   "source": "Press TV",
-   "published": "2026-06-11T03:41:02.199507+00:00",
-   "severity": "medium"
   }
  ],
  "chokepoints": [
@@ -325,24 +329,24 @@
    "incident_count": 8,
    "recent": [
     {
-     "title": "IRGC general threatens to 'turn entire region into hell' if Strait of Hormuz destabilized",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899049",
-     "source": "Jerusalem Post",
-     "published": "2026-06-11T09:21:19+00:00",
-     "severity": "info"
+     "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
+     "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
+     "source": "Press TV",
+     "published": "2026-06-11T10:13:40.924824+00:00",
+     "severity": "medium"
     },
     {
      "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
      "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
      "source": "Press TV",
-     "published": "2026-06-11T08:44:41.294563+00:00",
+     "published": "2026-06-11T10:13:40.924482+00:00",
      "severity": "info"
     },
     {
      "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
      "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
      "source": "Press TV",
-     "published": "2026-06-11T08:44:41.294150+00:00",
+     "published": "2026-06-11T10:13:40.923876+00:00",
      "severity": "high"
     }
    ]
@@ -372,7 +376,7 @@
  "wh_statements": [
   {
    "id": "4332015a50e3",
-   "title": "Poll: Voter cynicism remains a potent threat to incumbents across the globe",
+   "title": "New poll results show the UK political drama is a warning sign for Trump",
    "link": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
    "summary": "New research from London-based Public First suggests many of the grievances that fueled the widespread anti-incumbent backlash in 2024 remain entrenched.",
    "source": "Politico Politics",
