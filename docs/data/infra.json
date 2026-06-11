@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-11T20:13:39.639237+00:00",
+ "generated": "2026-06-11T22:17:28.767704+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 88.79,
-   "change": -4.31,
-   "change_pct": -4.63,
+   "price": 87.88,
+   "change": -5.22,
+   "change_pct": -5.61,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
-    88.79000091552734
+    87.87999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 86.15,
-   "change": -3.88,
-   "change_pct": -4.31,
+   "price": 85.24,
+   "change": -4.79,
+   "change_pct": -5.32,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
-    86.1500015258789
+    85.23999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4231.7,
-   "change": 123.5,
-   "change_pct": 3.01,
+   "price": 4229.0,
+   "change": 120.8,
+   "change_pct": 2.94,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
-    4231.7001953125
+    4229.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.64,
-   "change": -0.31,
-   "change_pct": -0.31,
+   "price": 99.68,
+   "change": -0.27,
+   "change_pct": -0.28,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
-    99.6449966430664
+    99.67500305175781
    ]
   },
   "^GSPC": {
@@ -70,42 +70,42 @@
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 128.82,
-   "change": -5.48,
-   "change_pct": -4.08,
+   "price": 128.83,
+   "change": -5.47,
+   "change_pct": -4.07,
    "spark": [
     133.02000427246094,
     135.14999389648438,
     131.3000030517578,
     134.3000030517578,
-    128.82000732421875
+    128.8300018310547
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.45,
-   "change": -2.77,
-   "change_pct": -12.47,
+   "price": 19.44,
+   "change": -2.78,
+   "change_pct": -12.51,
    "spark": [
     21.510000228881836,
     18.920000076293945,
     19.8700008392334,
     22.219999313354492,
-    19.450000762939453
+    19.440000534057617
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.07,
+   "price": 3.08,
    "change": -0.11,
-   "change_pct": -3.52,
+   "change_pct": -3.36,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
-    3.072999954223633
+    3.078000068664551
    ]
   }
  },
@@ -216,6 +216,48 @@
  ],
  "incidents": [
   {
+   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
+   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
+   "source": "Press TV",
+   "published": "2026-06-11T22:16:47.010753+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
+   "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
+   "source": "Press TV",
+   "published": "2026-06-11T22:16:47.007931+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
+   "link": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
+   "source": "USNI News",
+   "published": "2026-06-11T22:13:36+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Trump says attack on Kharg Island off the table for now",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-attack-kharg-island-table-now",
+   "source": "Al-Monitor",
+   "published": "2026-06-11T20:36:46+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Trump says he believes Iran's supreme leader has approved deal with US",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-he-believes-irans-supreme-leader-has-approved-deal-us",
+   "source": "Al-Monitor",
+   "published": "2026-06-11T20:36:46+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz reut.rs/4aqepQ2",
+   "link": "https://bsky.app/profile/reuters.com/post/3mo224ibnaz2s",
+   "source": "@reuters",
+   "published": "2026-06-11T20:15:18+00:00",
+   "severity": "info"
+  },
+  {
    "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
    "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
    "source": "Press TV",
@@ -228,13 +270,6 @@
    "source": "Press TV",
    "published": "2026-06-11T20:13:02.640341+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
-   "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
-   "source": "Press TV",
-   "published": "2026-06-11T20:13:02.639823+00:00",
-   "severity": "info"
   },
   {
    "title": "Trump says great settlement on Iran to be signed soon and strait will open",
@@ -284,41 +319,6 @@
    "source": "r/lebanon",
    "published": "2026-06-11T15:36:25+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran thinks it calls the shots over Lebanon ceasefire, says PM",
-   "link": "https://www.reddit.com/r/lebanon/comments/1u31hh9/iran_thinks_it_calls_the_shots_over_lebanon/",
-   "source": "r/lebanon",
-   "published": "2026-06-11T15:00:03+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Three sailors dead from US strikes on tanker off Oman, India confirms",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899099",
-   "source": "Jerusalem Post",
-   "published": "2026-06-11T13:31:55+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
-   "link": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-11T12:57:11+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "India demands end to US attacks on ships after three sailors killed",
-   "link": "https://www.al-monitor.com/originals/2026/06/india-demands-end-us-attacks-ships-after-three-sailors-killed",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T12:36:49+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Three Indian sailors killed in US strike on oil tanker",
-   "link": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-11T12:31:26+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 8,
    "recent": [
     {
-     "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
-     "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
+     "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
+     "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-11T20:13:02.640551+00:00",
+     "published": "2026-06-11T22:16:47.010753+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
-     "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
-     "source": "Press TV",
-     "published": "2026-06-11T20:13:02.640341+00:00",
-     "severity": "high"
     },
     {
      "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
      "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
      "source": "Press TV",
-     "published": "2026-06-11T20:13:02.639823+00:00",
+     "published": "2026-06-11T22:16:47.007931+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz reut.rs/4aqepQ2",
+     "link": "https://bsky.app/profile/reuters.com/post/3mo224ibnaz2s",
+     "source": "@reuters",
+     "published": "2026-06-11T20:15:18+00:00",
      "severity": "info"
     }
    ]
@@ -375,144 +375,514 @@
  ],
  "wh_statements": [
   {
-   "id": "a01ac45dfe84",
-   "title": "Trump: \"The strait is open. But the straits have been open for a number of months already and you just didn't know about it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzreo7ts22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:09:06.091+00:00",
+   "id": "ff40c00cd62c",
+   "title": "WATCH: Trump’s DNI Pick Was on CNBC Pushing Rigged Election Claims Days Before Nomination",
+   "link": "https://www.mediaite.com/media/news/watch-trumps-dni-pick-was-on-cnbc-pushing-rigged-election-claims-days-before-nomination/",
+   "summary": "Just days before he was announced as Donald Trump's new pick for DNI, Jay Clayton was pushing rigged election claims on CNBC. The post WATCH: Trump’s DNI Pick Was on CNBC Pushing Rigged Election Claims Days Before Nomination first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T22:09:13+00:00",
    "iran_topic": false
   },
   {
-   "id": "f48334084444",
-   "title": "Trump: \"We won this war militarily very early on. The only thing we didn't win is the fake news.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzr745iy2n",
+   "id": "5c77d32136aa",
+   "title": "Buttigieg: It has been more than a decade now of feeling like Washington is punching you in the face every time you look at your phone or watch TV. Imagine if you could look at what was going on with your leaders and actually feel your blood pressure go down a little bit instead of up.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2ahqtbfm2b",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@acyn",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:09:00.257+00:00",
+   "published": "2026-06-11T22:08:59.407+00:00",
    "iran_topic": false
   },
   {
-   "id": "1f6b2722bfd2",
-   "title": "We get (rightly) exercised about misspending $13 million on a reflecting pool. Meanwhile the president is literally vaporizing a quarter of a billion on his illegal war of choice and it's just a Wednesday night",
-   "link": "https://bsky.app/profile/timdickinson.bsky.social/post/3mnzzp6oybs2s",
-   "summary": "",
-   "source": "@timdickinson",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:07:52.778+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8506b9212057",
-   "title": "Q: You said this was just a concept of that agreement. Is this just essentially setting the stage for deeper talks? TRUMP: It's a very strong memorandum of understanding",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzznbdqgp24",
+   "id": "04bada3f1370",
+   "title": "\"Stand Up For Science has a good guide on how to draft a useful comment in opposition to the new rule, one which, in a grim irony, relies extensively on a guide created by OMB itself during Trump’s first term. We never thought we’d look back on that first term as a high point, but here we are.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo2adn2bxc2l",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:06:48.378+00:00",
+   "published": "2026-06-11T22:06:41.369+00:00",
    "iran_topic": false
   },
   {
-   "id": "040956e1905b",
-   "title": "Q: You have said before the Iran and the US were close to a deal. It has not happened yet. Why are you so convinced that this time is different? TRUMP: Because they've taken a pounding. They've taken a pounding like very few people could take. And they want to make a deal a lot more than I do.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzl6ingm2p",
+   "id": "6d8adcec1c70",
+   "title": "Buttigieg: How you vote doesn't make you a bad person. How you vote doesn't make you a good person. And really all of us are capable of good and bad things. But part of why leadership matters so much is that it's calling to what is best in us or it's calling to what is worst in us.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2a7tjiw72u",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@acyn",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:05:38.285+00:00",
+   "published": "2026-06-11T22:04:33.796+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "125551816c61",
+   "title": "Ex-Staffer for Leading Dem Senate Candidate Charged for Terror Campaign Against University Leaders",
+   "link": "https://www.mediaite.com/politics/ex-staffer-for-leading-dem-senate-candidate-charged-for-terrorizing-university-leaders/",
+   "summary": "A former staffer for Abdul El-Sayed has been indicted for allegedly conspiring to \"terrorize\" leaders at UMich into severing ties with Israel. The post Ex-Staffer for Leading Dem Senate Candidate Charged for Terror Campaign Against University Leaders first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:59:04+00:00",
    "iran_topic": true
   },
   {
-   "id": "c0df1478069a",
-   "title": "Burgum: \"You could launch on attack on the US in the northeast with a bunch of autonomous drones coming through a wind tower field\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzjs3rf22g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:04:51.725+00:00",
+   "id": "e022ae0a95dd",
+   "title": "Trump Goes Scorched Earth On GOP Senators While Needing Their Votes",
+   "link": "https://www.mediaite.com/politics/trump-goes-scorched-earth-on-gop-senators-while-needing-their-votes/",
+   "summary": "\"John Thune's a good man. He was a loyal worker for Mitch McConnell. He worked for Mitch McConnell. He worked very hard. He was very loyal to him.\" The post Trump Goes Scorched Earth On GOP Senators While Needing Their Votes first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:52:44+00:00",
    "iran_topic": false
   },
   {
-   "id": "70cc21ea2e44",
-   "title": "Q: How confident are you there will be a signing this weekend? You've come close to sealing a deal with Iran before TRUMP: It'll be soon. Maybe this weekend Q: Has the Supreme Leader approved this deal? TRUMP: I understand the answer is yes",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzjejug52v",
+   "id": "6fdc7aa08226",
+   "title": "Buttigieg: The folks in charge are offering a different account of what it means to be an American. To them, the answer is ancestry. You're an American based on how many of your ancestors are in a Civil War battlefield even if some of them were fighting against the US.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo27h7hyt426",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@acyn",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:04:37.507+00:00",
+   "published": "2026-06-11T21:50:47.467+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9f72cb301435",
+   "title": "A health inspector has flagged the Trump National Golf Club Hudson Valley in Hopewell Junction, NY, for a \"critical violation\" at its restaurant, according to inspection records. The violation stems from the restaurant having \"food from [an] unapproved source, spoiled, adulterated on premises.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo27gj3zhc2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:50:24.154+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da9d643ce662",
+   "title": "Q: How do we build a majority to win? Buttigieg: This is the most extraordinary thing. The majority is there on the issues and yet they make members of that majority feel like they're alone. You're not alone if you think that health care ought to be a right for every American.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo27bglhtz2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:47:33.602+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ca8dd35531c",
+   "title": "Buttigieg: Let's talk one more thing, one more radical proposition on the executive branch. What if everybody's vote counted the same?",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26ty2amk26",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:40:02.151+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1a4fe7ff27dc",
+   "title": "Buttigieg: We didn't know it, but we've all been trusting our lives to the restraint of whoever the president might be. And now we have a president who is completely unrestrained. And so the only answer to that is a functioning Congress. It turns out we do not have a functioning Congress.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26mbjsqp26",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:35:43.673+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb8d3b4e58cd",
+   "title": "Buttigieg: We sit in a in a country that's got the wrong number of people on the Supreme Court, possibly the wrong number of representatives in the House of Representatives. And by the way, when you consider the disenfranchisement of the people of DC, we have the wrong number of states in the US",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26kpazgr2n",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:34:50.951+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e7a0d4e294c",
+   "title": "Buttigieg: Nowhere in the Constitution does it say that there have to be nine Supreme Court justices. That one doesn't even take a constitutional amendment. It just takes a readiness to set up a court that fits this country.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26h6gtao2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:32:52.643+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aa679648dfdb",
+   "title": "Trump Chucks His Staff Under the Bus Over Losing Endorsement: ‘If I Had Been Given the Proper Information…’",
+   "link": "https://www.mediaite.com/media/news/trump-chucks-his-staff-under-the-bus-over-losing-endorsement-if-i-had-been-given-the-proper-information/",
+   "summary": "Trump threw his staff under the bus over a losing endorsement, claiming he would not have made the same decision if \"given the proper information.\" The post Trump Chucks His Staff Under the Bus Over Losing Endorsement: ‘If I Had Been Given the Proper Information…’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:26:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0f4212797e1e",
+   "title": "Serena Williams’s Epic Tennis Comeback Cut Short — For Now",
+   "link": "https://www.mediaite.com/media/sports/serena-williamss-tennis-epic-comeback-cut-short-for-now/",
+   "summary": "Serena Williams's highly-anticipated return to tennis was cut short after her doubles partner was injured and unable to continue the tournament. The post Serena Williams’s Epic Tennis Comeback Cut Short — For Now first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:21:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "999c2725ac71",
+   "title": "It is very funny that he used the phrase \"peace in our time\" that is most associated with Neville Chamberlain's failed appeasement at Munch in 1938.",
+   "link": "https://bsky.app/profile/mattortega.com/post/3mo25ore46d2g",
+   "summary": "",
+   "source": "@mattortega",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:19:13.074+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "154327b28fd6",
+   "title": "Do my Republican colleagues also \"love\" inflation? I assume so since they continue to vote to protect Trump's tariffs and to continue Trump's war with Iran.",
+   "link": "https://bsky.app/profile/murray.senate.gov/post/3mo25my5iqc2z",
+   "summary": "",
+   "source": "@murray",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:18:13.772+00:00",
    "iran_topic": true
   },
   {
-   "id": "dd063eabc96f",
-   "title": "Burgum: \"You could launch on attack on the US in the northeast with a bunch of autonomous drones coming through a wind tower field\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzhj2ffx2n",
+   "id": "ff6e71835421",
+   "title": "Rep. Haridopolos: \"I credit the president. He held firm and made sure we have peace in our time.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo25kjrrwp2g",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:03:35.132+00:00",
+   "published": "2026-06-11T21:16:51.535+00:00",
    "iran_topic": false
   },
   {
-   "id": "3d576ecfdcd8",
-   "title": "Trump seems groggy as he listens to a question from a reporter",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzdysosf2i",
+   "id": "53a2ed0c7680",
+   "title": "The Knicks are the (only) talk of the town",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/11/the-knicks-are-the-only-talk-of-the-town-00959617",
    "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:01:37.439+00:00",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-11T21:15:01+00:00",
    "iran_topic": false
   },
   {
-   "id": "8c153f9abccf",
-   "title": "Trump: \"So a scallop will die of old age? How do they taste when they're dead?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzzct22vc22",
+   "id": "acbc6f146667",
+   "title": "Trump Confirms Bill Pulte Will Be Running U.S. Intelligence For a ‘Short While’",
+   "link": "https://www.mediaite.com/politics/trump-confirms-bill-pulte-will-be-running-u-s-intelligence-for-a-short-while/",
+   "summary": "President Donald Trump confirmed Thursday that Bill Pulte will continue running U.S. intelligence for a \"short while\" until his latest nominee takes over. The post Trump Confirms Bill Pulte Will Be Running U.S. Intelligence For a ‘Short While’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:03:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "965875bf24b6",
+   "title": "Nomination and Withdrawal Sent to the Senate",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
+   "summary": "NOMINATION SENT TO THE SENATE: Walter Clayton, of New York, to be Director of National Intelligence, vice Tulsi Gabbard. WITHDRAWAL SENT TO THE SENATE: Walter Clayton, of New York, to be United States Attorney for the Southern District of New York for the term of four years. The post Nomination and Withdrawal Sent to the Senate appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-11T21:03:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "965875bf24b6",
+   "title": "Nomination and Withdrawal Sent to the Senate",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
+   "summary": "NOMINATION SENT TO THE SENATE: Walter Clayton, of New York, to be Director of National Intelligence, vice Tulsi Gabbard. WITHDRAWAL SENT TO THE SENATE: Walter Clayton, of New York, to be United States Attorney for the Southern District of New York for the term of four years. The post Nomination and Withdrawal Sent to the Senate appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-11T21:03:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f255d752c27",
+   "title": "Trump Threatens to Take Over Washington DC If Mamdani-Style Candidate Wins Mayoral Race",
+   "link": "https://www.mediaite.com/media/news/trump-threatens-to-take-over-washington-dc-if-mamdani-style-candidate-wins-mayoral-race/",
+   "summary": "Donald Trump took reporter questions during an Oval Office meeting, with one asking about the upcoming mayoral race for Washington, D.C.'s next mayor. The post Trump Threatens to Take Over Washington DC If Mamdani-Style Candidate Wins Mayoral Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T21:00:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "16d0912acef0",
+   "title": "Enormous etchings of the numerals \"86 47\" have appeared on the ‌grounds of the National ‌Mall.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo24mv4mxc2j",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-11T21:00:16.858+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f1c00efcd35",
+   "title": "According to the National Immigration Forum, roughly 30 percent of construction industry workers are immigrants. Undocumented immigrants make up 10-19 percent of the construction workforce.",
+   "link": "https://bsky.app/profile/hunterw.bsky.social/post/3mo24aarqz22i",
+   "summary": "",
+   "source": "@hunterw",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:53:12.876+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3968dab78ac5",
+   "title": "‘Can We See It?’ Mark Levin Says It’s ‘Amazing’ Trump’s Iran Deal Came Together ‘So Fast’",
+   "link": "https://www.mediaite.com/media/news/can-we-see-it-mark-levin-says-its-amazing-trumps-iran-deal-came-together-so-fast/",
+   "summary": "“If all these governments have agreed on this deal, it’s amazing how all these governments signed up\" The post ‘Can We See It?’ Mark Levin Says It’s ‘Amazing’ Trump’s Iran Deal Came Together ‘So Fast’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T20:52:29+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "75de0f844081",
+   "title": "The time honored retreat of the racist is to say people like them built the country.",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mo243zwh622s",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:50:51.472+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4a5bb36d0f4",
+   "title": "This shows we don't have real democracy in DC. Legally, Trump can't federalize the District because he doesn't like an election result. But he try. He can interfere with self-governance more than he already has. And just his ability threaten this straight up tyranny semi-credibly is anti-democratic.",
+   "link": "https://bsky.app/profile/dfriedman.bsky.social/post/3mo242hh3r22c",
+   "summary": "",
+   "source": "@dfriedman",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:49:58.540+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "219e222e494c",
+   "title": "Sorry did he just say that wind tower fields were “tens of thousands of miles” large?",
+   "link": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3mo23wveejc2p",
+   "summary": "",
+   "source": "@reichlinmelnick",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:47:58.913+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6e5730b0a86c",
+   "title": "Trump Pressed On Why ‘This Time Is Different’ When He Says Iran Deal Is Near",
+   "link": "https://www.mediaite.com/politics/trump-pressed-on-why-this-time-is-different-when-he-says-iran-deal-is-near/",
+   "summary": "A reporter pressed President Donald Trump on why \"this time it's different\" when he suggests that an Iran Deal is near — a claim Trump has made repeatedly. The post Trump Pressed On Why ‘This Time Is Different’ When He Says Iran Deal Is Near first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T20:45:07+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "bb74131240f8",
+   "title": "There has to be at least a little wall space in the Louvre for this",
+   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mo23n3dur226",
+   "summary": "",
+   "source": "@bgrueskin",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:42:29.623+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "43ca0761ea99",
+   "title": "Trump announces \"maybe I'll seize the capital of the US if voters displease me\" and it'll be nothing more than a blip on the news at best",
+   "link": "https://bsky.app/profile/danifroom.bsky.social/post/3mo23j2cnyk2n",
+   "summary": "",
+   "source": "@danifroom",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:40:14.338+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "43a33b98ade3",
+   "title": "🤣",
+   "link": "https://bsky.app/profile/jamespmanley.bsky.social/post/3mo23fwipws25",
+   "summary": "",
+   "source": "@jamespmanley",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:38:29.679+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ab4dba0606d4",
+   "title": "oh my god lmao",
+   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mo234aqofc2v",
+   "summary": "",
+   "source": "@clearlyashley",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:33:04.881+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "001d0bcef92a",
+   "title": "Trump: \"Guys like me built the country. I watch all these ingrates, they're always complaining, complaining. They didn't build anything, they couldn't build anything. Look at what's happened in Minnesota. Somalia.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22ztzs3d2d",
    "summary": "",
    "source": "@atrupar",
    "category": "trump_bsky",
-   "published": "2026-06-11T20:00:57.829+00:00",
+   "published": "2026-06-11T20:31:44.356+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d5abf9d591ac",
+   "title": "Again, half of the things Trump says or does feels like they'd take place in a prequel to Alex Garland's Civil War.",
+   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mo22xyvaa22z",
+   "summary": "",
+   "source": "@justinbaragona",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:30:42.425+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7fe5604cc4ba",
+   "title": "turns out every writer who imagined a dystopian future where authoritarians openly lied to you through the television vastly overestimated the intelligence and commitment of their fictional antagonists",
+   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mo22w4cgac24",
+   "summary": "",
+   "source": "@golikehellmachine",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:29:38.893+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a9502fa0c014",
+   "title": "75th Anniversary of the White House Navy Mess, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family.&#160; For 75 years, the elite service members assigned to the Presidential Food Service have [&#8230;] The post 75th Anniversary of the White House Navy Mess, 2026 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-11T20:27:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a9502fa0c014",
+   "title": "75th Anniversary of the White House Navy Mess, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family.&#160; For 75 years, the elite service members assigned to the Presidential Food Service have [&#8230;] The post 75th Anniversary of the White House Navy Mess, 2026 appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-11T20:27:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0e6cd8165a47",
+   "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
+   "summary": "UNLEASHING ECONOMIC OPPORTUNITY IN THE PACIFIC:&#160;Today, President Donald J. Trump signed a proclamation to restore commercial fishing access to nearly half a million square miles in the Pacific, advancing the America First Fishing Policy. PUTTING AMERICA FIRST IN SEAFOOD COMPETITIVENESS:&#160;President Trump is committed to removing unnecessary restrictions on American fishermen in order to enhance U.S. [&#8230;] The post Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-11T20:26:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b4ee43d23585",
+   "title": "Q: Do you regret endorsing Randy Feenstra? TRUMP: Uh. The man running against him was all Trump. A gentleman in Georgia that I endorsed. (Feenstra is from Iowa)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22qjy2za2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:26:31.846+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb138d6dc448",
+   "title": "Restoring American Commercial Fishing in the Pacific",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION Building on prior actions to strengthen American seafood production and support working fishing communities, this proclamation restores access to hundreds of thousands of square miles of Pacific waters for commercial fishing managed under existing Federal law. &#160;I have determined that restoring access to responsibly [&#8230;] The post Restoring American Commercial Fishing in the Pacific appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-11T20:25:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb138d6dc448",
+   "title": "Restoring American Commercial Fishing in the Pacific",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION Building on prior actions to strengthen American seafood production and support working fishing communities, this proclamation restores access to hundreds of thousands of square miles of Pacific waters for commercial fishing managed under existing Federal law. &#160;I have determined that restoring access to responsibly [&#8230;] The post Restoring American Commercial Fishing in the Pacific appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-11T20:25:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "18c1da203f86",
+   "title": "Trump Goes On Bonkers Rant About ‘Fisherwoman’ Vs ‘Fisherman’: ‘How About Fisherpeople?’",
+   "link": "https://www.mediaite.com/media/news/trump-goes-on-bonkers-rant-about-fisherwoman-vs-fisherman-how-about-fisherpeople/",
+   "summary": "Donald Trump went on a wild rant about the politically correct word for women who fish for a living during an executive order signing Thursday. The post Trump Goes On Bonkers Rant About ‘Fisherwoman’ Vs ‘Fisherman’: ‘How About Fisherpeople?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T20:23:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9ce8f457bb36",
+   "title": "Q: Here in Washington DC, there's a Democratic primary for mayor. One of the two leading candidates is running a Zohran Mamdani campaign focusing on socialist policies. How would you feel if she wins? TRUMP: Maybe we take back Washington and run it on a federal basis. We won't put up with it.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22jeacb724",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:22:30.937+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "87c92b9a914c",
+   "title": "Trump says of farmers \"I am looking at doing a form of help because of fertilizer\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22ityoz42v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:22:13.912+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "156cf8dc3553",
+   "title": "Trump says of farmers \"I am looking at doing a form of help because of fertilizer\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22gg6enj2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:20:52.300+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3cee9154e755",
+   "title": "These are simply the dumbest people of all time.",
+   "link": "https://bsky.app/profile/bencollins.bsky.social/post/3mo22g2tvuk2g",
+   "summary": "",
+   "source": "@bencollins",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:20:40.498+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bf16d57915f1",
+   "title": "Trump: \"Mitch McConnell gave so much money to Democrats. He gave them money. I had to go get the wall money from the military. I just took it out of the military.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22cvfjng2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:18:54.050+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "22e08106b8a8",
+   "title": "Trump: \"The whole voting system is corrupt in Minnesota. I won Minnesota three times, easily. I won almost every county but they didn't give it to me. It's a corrupt system.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo22bfrzgm2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T20:18:04.127+00:00",
    "iran_topic": false
   },
   {
    "id": "2a8303139903",
-   "title": "BREAKING: Trump Says ‘We Just Made a Great Settlement’ With Iran",
+   "title": "Trump Says ‘We Just Made a Great Settlement’ With Iran",
    "link": "https://www.mediaite.com/media/news/breaking-trump-says-we-just-made-a-great-settlement-with-iran/",
-   "summary": "President Donald Trump told reporters in the Oval Office on Thursday that “We just made great settlement of the war with Iran.” Trump added that the deal may take more time before it’s actually signed, “We&#8217;re going to be subject to finalization of documents, which should get done over the next few days. Probably have [&#8230;] The post BREAKING: Trump Says ‘We Just Made a Great Settlement’ With Iran first appeared on Mediaite .",
+   "summary": "\"How confident are you there will be a signing this weekend? You've come close to sealing a deal with Iran before\" The post Trump Says ‘We Just Made a Great Settlement’ With Iran first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-11T19:57:44+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "77ec53b61369",
-   "title": "TRUMP: Where are you from? SOME GUY: Portland, Oregon TRUMP: Liberal! Probably more people than you think are Republicans if we could count the votes properly",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzytppi7w2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:52:31.036+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c11a5de2f280",
-   "title": "Trump struggles to awake as Burgum talks",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzypbfavm2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:50:01.800+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a67da173db5c",
-   "title": "Trump tries to take questions from reporters but Lutnick jumps in so he can gargle Dear Leader a bit first",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzyndx64d2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:48:57.370+00:00",
-   "iran_topic": false
   },
   {
    "id": "999921efe9df",
@@ -522,56 +892,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-11T19:47:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "56a5aa817e8d",
-   "title": "Trump claims that electric batteries are bad for fishermen because they cause their boats to sink",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzygnlnqb2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:45:12.594+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c95e7c6022a2",
-   "title": "Trump lies that before he came around, \"you had go to Japan to get a Maine lobster\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzyecnwj62i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:43:54.028+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "455dfcb40331",
-   "title": "Trump again tells his delusional story about how Steve Hilton was \"approved\" to advance in the California election only because California officials were feeling \"heat\" after he started yelling about the \"rigged election\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzycxr4q52s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:43:09.045+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5ccdf81b3a92",
-   "title": "Trump says the Iran deal signing ceremony will happen this weekend in Europe but \"I won't be able to be there\" (the UFC fight at the White House is Sunday)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzy6micqj22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:40:43.007+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "79c3ff3834fe",
-   "title": "Trump: \"We've been taking out many ships that nobody knew. Not even the fake news knew it. We bombed their radar and everything so they couldn't see. We took out night some nights 25 ships, some nights 15, the last four or five we did 25, 22, 21, 26, 18, & 14. Who else would remember those numbers?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mnzy3prfdi22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:39:05.788+00:00",
    "iran_topic": false
   },
   {
@@ -605,36 +925,6 @@
    "iran_topic": false
   },
   {
-   "id": "588e84889b90",
-   "title": "This is one of the dumbest things I've ever heard.",
-   "link": "https://bsky.app/profile/esqueer.net/post/3mnzx7xzs5c2k",
-   "summary": "",
-   "source": "@esqueer",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:23:34.993+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "50ea28e47894",
-   "title": "this could work, but only if you also incorporate the blockchain and Web 3.0 somehow. maybe they could find screwworm in the metaverse. give me 20 billion dollars",
-   "link": "https://bsky.app/profile/whstancil.bsky.social/post/3mnzwpkc5p22c",
-   "summary": "",
-   "source": "@whstancil",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:14:23.716+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff1881f5f0c0",
-   "title": "You might be thinking to yourself, “Wow, what a stupid idea.” But as someone who flies drones for a living, I can assure you the idea is even dumber than you believe.",
-   "link": "https://bsky.app/profile/andrewhirsh.bsky.social/post/3mnzwfrkqfc2e",
-   "summary": "",
-   "source": "@andrewhirsh",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:08:55.794+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d2fd65e70bb8",
    "title": "CNBC’s Jim Cramer Roasts Trump Amid Oil ‘Shock’: ‘Highly Emotional Man Running the Military’",
    "link": "https://www.mediaite.com/media/news/cnbcs-jim-cramer-roasts-trump-amid-oil-shock-highly-emotional-man-running-the-military/",
@@ -646,9 +936,9 @@
   },
   {
    "id": "3ff4e676dc3f",
-   "title": "BREAKING: Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer",
+   "title": "Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer",
    "link": "https://www.mediaite.com/media/sports/breaking-phil-mickelson-banned-from-golf-club-amid-accusations-of-inappropriate-conduct-with-female-staffer/",
-   "summary": "LIV Golf superstar Phil Mickelson has been banned from his hometown golf club after allegations of inappropriate, nonconsensual conduct involving a female staffer at the club, according to a shocking Golf Digest report. The post BREAKING: Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer first appeared on Mediaite .",
+   "summary": "LIV Golf superstar Phil Mickelson has been banned from his hometown golf club after allegations of inappropriate, nonconsensual conduct involving a female staffer at the club, according to a shocking Golf Digest report. The post Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-11T18:55:31+00:00",
@@ -665,26 +955,6 @@
    "iran_topic": false
   },
   {
-   "id": "8f49da02bdbe",
-   "title": "This was the audition for DNI. He got the part. ⬇️",
-   "link": "https://bsky.app/profile/kristygreenberg.bsky.social/post/3mnzuzzd5mk2e",
-   "summary": "",
-   "source": "@kristygreenberg",
-   "category": "trump_bsky",
-   "published": "2026-06-11T18:44:27.538+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "49c5ced40bd3",
-   "title": "I just want everyone to know that every single day 5 million people tell @bencollins.bsky.social that it's hard to differentiate between The Onion and real news now. Every day. Every hour. Every single time a new person talks to him. And honestly, I can't blame them with this one.",
-   "link": "https://bsky.app/profile/katmabu.bsky.social/post/3mnzuzmzd3c2k",
-   "summary": "",
-   "source": "@katmabu",
-   "category": "trump_bsky",
-   "published": "2026-06-11T18:44:14.632+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "71f757ff84ea",
    "title": "Breaking: Trump says he's nominating Jay Clayton, the current U.S. Attorney for the SDNY, to be Director of National Intelligence. Just this week on CNBC, Clayton said the \"American people are right to question\" California's elections. To be clear: There is no evidence of fraud in those elections.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnztxyxl722a",
@@ -696,282 +966,12 @@
   },
   {
    "id": "6f22811aa0b9",
-   "title": "NEW: Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte",
+   "title": "Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte",
    "link": "https://www.mediaite.com/media/news/new-trump-nominates-jay-clayton-as-dni-moving-on-from-bill-pulte/",
-   "summary": "Pulter is still set to take over as acting director on June 19th, which has sparked anger and concern in both the House and Senate, The post NEW: Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte first appeared on Mediaite .",
+   "summary": "President Donald Trump nominated Jay Clayton, a former head of the SEC, to be the next Director of National Intelligence. Clayton&#8217;s nomination means that acting DNC Bill Pulte will not be formally nominated after stirring controversy with Trump putting him in the role. &#8220;I am pleased to announce the Nomination of very Highly Respected Jay [&#8230;] The post Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-11T18:22:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "193fe09d4722",
-   "title": "NEW: Washington Post Slapped With Massive Class Action Lawsuit for Alleged Price Gouging of Its Most Loyal Subscribers via ‘Surveillance Pricing’",
-   "link": "https://www.mediaite.com/lawcrime/new-washington-post-slapped-with-massive-class-action-lawsuit-for-alleged-price-gouging-of-its-most-loyal-subscribers-via-surveillance-pricing/",
-   "summary": "A class action lawsuit was filed against The Washington Post Thursday, potentially threatening to cost the paper \"millions, if not billions, in damages,\" according to one of the plaintiffs' lawyers. The post NEW: Washington Post Slapped With Massive Class Action Lawsuit for Alleged Price Gouging of Its Most Loyal Subscribers via ‘Surveillance Pricing’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T17:55:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "465147c1f14a",
-   "title": "Trump Reportedly Evaluated by 22 Medical Specialists in a Single Health Visit — Leaving More Questions About His Health",
-   "link": "https://www.mediaite.com/media/news/trump-reportedly-evaluated-by-22-medical-specialists-in-a-single-health-visit-leaving-more-questions-about-his-health/",
-   "summary": "President Donald Trump was reportedly evaluated by 22 medical specialists during his latest checkup, prompting further questions about the state of his health. The post Trump Reportedly Evaluated by 22 Medical Specialists in a Single Health Visit — Leaving More Questions About His Health first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T17:53:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5fb4a80dfb7b",
-   "title": "BREAKING: Trump Cancels Planned Strikes Against Iran",
-   "link": "https://www.mediaite.com/media/news/breaking-trump-cancels-planned-strikes-against-iran/",
-   "summary": "President Donald Trump announced he has canceled strikes against Iran just hours after promising a \"very hard night\" for the country. The post BREAKING: Trump Cancels Planned Strikes Against Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T17:43:07+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "4fb483d79a52",
-   "title": "Trump AG Dodges Questions on White House UFC Event and Whether Judge Will Block It",
-   "link": "https://www.mediaite.com/media/news/trump-ag-dodges-questions-on-white-house-ufc-event-and-whether-judge-will-block-it/",
-   "summary": "Acting Attorney General Todd Blanche shut down questions about the UFC event at the White House and whether a judge will attempt to block it from happening. The post Trump AG Dodges Questions on White House UFC Event and Whether Judge Will Block It first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T17:30:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e2d9d3c05f49",
-   "title": "Trump Goes on Bonkers Riff on Cops Who ‘Shout’ at Protesters: ‘They Take Away His Life, His Pension — They Take Away His Car’",
-   "link": "https://www.mediaite.com/media/tv/trump-goes-on-bonkers-riff-on-cops-who-shout-at-protesters-they-take-away-his-life-his-pension-they-take-away-his-car/",
-   "summary": "Trump went on a bonkers riff in which he claimed cops who \"shout\" at rioters are stripped of their entire lives — and even have their cars taken away from them. The post Trump Goes on Bonkers Riff on Cops Who ‘Shout’ at Protesters: ‘They Take Away His Life, His Pension — They Take Away His Car’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T17:14:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a4b8a99fd6b8",
-   "title": "‘Bad policy and even worse politics’: DeSantis spurns potential White House AI preemption",
-   "link": "https://www.politico.com/news/2026/06/11/florida-desantis-ai-preemption-white-house-trump-00958788",
-   "summary": "The Trump administration’s longstanding opposition to state AI laws ultimately killed legislation in Florida, and now Gov. Ron DeSantis fears policies in other states could fall by the wayside.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-11T17:12:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f738370e653e",
-   "title": "A Biden ambassador reveals how the previous White House misread the border",
-   "link": "https://www.politico.com/news/2026/06/11/ken-salazar-biden-border-security-2028-00958607",
-   "summary": "Ken Salazar detailed his qualms with the Biden administration’s border plan — and how he wants to stop 2028 Democrats from repeating those mistakes.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-11T17:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e91488c50685",
-   "title": "‘Come at Me and I’m Gonna Punch You in the Mouth!’ View Guest Host Rejects Michelle Obama’s Call to Keep it ‘Classy’ With the Right",
-   "link": "https://www.mediaite.com/media/tv/come-at-me-and-im-gonna-punch-you-in-the-mouth-view-guest-host-rejects-michelle-obamas-call-to-keep-it-classy-with-the-right/",
-   "summary": "View guest host Sophia Bush rejected calls to keep political discourse with the right \"classy,\" saying the left has kept things \"classy for too long.\" The post ‘Come at Me and I’m Gonna Punch You in the Mouth!’ View Guest Host Rejects Michelle Obama’s Call to Keep it ‘Classy’ With the Right first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T16:27:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "96c8c71876d2",
-   "title": "‘It’s Total Confusion’: MS NOW Analyst Argues Trump ‘Kneecapping’ Any Actual Strategy to End Iran War",
-   "link": "https://www.mediaite.com/media/tv/its-total-confusion-ms-now-analyst-argues-trump-kneecapping-any-actual-strategy-to-end-iran-war/",
-   "summary": "\"Maybe he'll go in, maybe he won't go in. We don't really know. And so it does kneecap his ability to be taken seriously at the negotiating table.\" The post ‘It’s Total Confusion’: MS NOW Analyst Argues Trump ‘Kneecapping’ Any Actual Strategy to End Iran War first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T16:22:00+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "10844b75dbbe",
-   "title": "Just 10% of respondents in a Reuters/Ipsos poll — including just 21% of Republicans — said the Trump admin had helped efforts to hold people connected to Jeffrey Epstein accountable. Only one in five respondents said the alleged clients of Epstein have been held accountable.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnzmzocg4c2w",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T16:21:06.045+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a57ff436e49b",
-   "title": "JUST IN: Suspect in Fatal Shooting of MN Lawmaker Melissa Hortman, Husband Changes Plea in Deal With Prosecutors",
-   "link": "https://www.mediaite.com/media/news/just-in-suspect-in-fatal-shooting-of-mn-lawmaker-melissa-hortman-husband-changes-plea-in-deal-with-prosecutors/",
-   "summary": "Vance Boelter will avoid the death penalty after guilty pleas to the killing of former Minnesota House Speaker Melissa Hortman and her husband. The post JUST IN: Suspect in Fatal Shooting of MN Lawmaker Melissa Hortman, Husband Changes Plea in Deal With Prosecutors first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T16:20:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c99a73237b50",
-   "title": "Frost on UFC White House event: It’s a vanity project. It’s using taxpayer dollars and government resources to prop up Trump. He’s building this entire arena at the White House at a time when people can’t afford to live. Nobody has any damn money.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnzmpj2q7k25",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T16:15:25.007+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2dbd4a008fe1",
-   "title": "First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
-   "summary": "First Lady Melania Trump launched her Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous upon reaching the age of majority. “Fostering the Future Accounts give foster children the same chance for asset ownership and long-term wealth building as every other American child. By investing in our [&#8230;] The post First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings Investment Vehicle for Foster Youth appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T16:13:47+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "33fc406d7c8d",
-   "title": "Jen Psaki Roasts Trump Over ‘Nipple Abuse’ Meeting — In Same Situation Room as Bin Laden Raid",
-   "link": "https://www.mediaite.com/media/news/jen-psaki-roasts-trump-over-nipple-abuse-meeting-in-same-situation-room-as-bin-laden-raid/",
-   "summary": "MS NOW's Jen Psaki mocked the stunning meeting on unconfirmed claims of “nipple abuse” by Trump, comparing it to the iconic viewing of the Osama bin Laden raid. The post Jen Psaki Roasts Trump Over ‘Nipple Abuse’ Meeting — In Same Situation Room as Bin Laden Raid first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T15:50:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "afbe17a5ba5c",
-   "title": "CNN Anchor Grills Dem Governor on Accusations He Misrepresented Military Record and More: ‘How Do You Explain This?’",
-   "link": "https://www.mediaite.com/media/tv/cnn-anchor-grills-dem-governor-on-accusations-he-misrepresented-military-record-and-more-how-do-you-explain-this/",
-   "summary": "CNN's Kate Bolduan pressed Maryland Governor Wes Moore (D) about increasing scrutiny over his military record and accusations he's misrepresented his resume. The post CNN Anchor Grills Dem Governor on Accusations He Misrepresented Military Record and More: ‘How Do You Explain This?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T15:22:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6daceb3fb049",
-   "title": "‘Pissed’ Trump Currently ‘Frustrated With Everyone’ in His Orbit: Politico",
-   "link": "https://www.mediaite.com/media/news/pissed-trump-currently-frustrated-with-everyone-in-his-orbit-politico/",
-   "summary": "President Trump has grown increasingly \"pissed\" at pretty much everyone around him as he faces opposition to recent policies he's tried to enact, according to a bombshell Politico report on Thursday. The post ‘Pissed’ Trump Currently ‘Frustrated With Everyone’ in His Orbit: Politico first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T15:16:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "848052d6a306",
-   "title": "UPDATE: Pentagon Hazmat Lockdown Caused By False Alarm",
-   "link": "https://www.mediaite.com/media/news/breaking-pentagon-locked-down-as-hazmat-teams-search-the-building/",
-   "summary": "\"Rhere is something apparently affecting the air quality of the Pentagon,\" reported CNN's Brian Todd The post UPDATE: Pentagon Hazmat Lockdown Caused By False Alarm first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T15:13:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d7e532b2e8a6",
-   "title": "Garcia: \"They're having meetings in the Situation Room about covering up the Epstein files and protecting Donald Trump, and so this is to us a huge smoking gun.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnzj3lnir22z",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T15:10:35.405+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a13d5d3fcc15",
-   "title": "BREAKING: House Oversight Ranking Member Robert Garcia says he plans to formally ask Chairman Comer to bring JD Vance, Susie Wiles, and Kash Patel before the Committee in light of the new NYT Epstein reporting.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnzj3dj7ns2z",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T15:10:26.875+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "021e4a6c5c8b",
-   "title": "Reuters: U.S. HOUSE REJECTS SHORT-TERM FISA EXTENSION SOUGHT BY TRUMP",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnzhrk5ftk2q",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T14:47:04.543+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2aefb5d8cf5",
-   "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/",
-   "summary": "Today, Melania and I join in prayer with Catholic Bishops gathered in Orlando, Florida, as they consecrate the United States of America to the Sacred Heart of Jesus on the occasion of our 250th year of American Independence—a powerful moment in our national story and a poignant reminder that America has always been guided by [&#8230;] The post Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T12:36:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c5ba79d3dc6e",
-   "title": "Capitol agenda: Democrats' H.R. 1 problem",
-   "link": "https://www.politico.com/live-updates/2026/06/11/congress/house-democrats-agenda-jeffries-affordability-00958367",
-   "summary": "House Democrats differ on what policies to prioritize if they win back a majority.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-11T12:01:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b1b380718b9",
-   "title": "The murder of expertise",
-   "link": "https://www.publicnotice.co/p/omb-rule-science-funding",
-   "summary": "Russ Vought as science czar would just about do it.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-11T10:17:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4332015a50e3",
-   "title": "New poll results show the UK political drama is a warning sign for Trump",
-   "link": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
-   "summary": "New research from London-based Public First suggests many of the grievances that fueled the widespread anti-incumbent backlash in 2024 remain entrenched.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-11T04:01:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4eb06e8c91a6",
-   "title": "Psaki: Trump called you a thug and said you are the worst than any human being that's ever run for office. Platner: Well, coming from certainly the worst person to have ever run for office, I take it as an immense compliment.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mny5mq4pr425",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T02:12:43.309+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "45c60abf7fe6",
-   "title": "Kennedy: I wanna see those text messages—the sexting.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mny3kfrimw2b",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T01:35:38.539+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "13c4bea51461",
-   "title": "Hayes: That line shooting up right at the end, that is entirely unilaterally caused by one man—Donald Trump. Most things that happen in an economy under the president are not just solely the president's fault. This is the rarest of exceptions. It's entirely on Trump.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mnxwzu7alx2a",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T00:14:50.025+00:00",
    "iran_topic": false
   }
  ]
