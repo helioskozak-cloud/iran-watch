@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-12T08:24:34.727560+00:00",
+ "generated": "2026-06-12T10:01:56.164210+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -18,43 +18,43 @@
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 84.29,
-   "change": -3.42,
-   "change_pct": -3.9,
+   "price": 84.04,
+   "change": -3.67,
+   "change_pct": -4.18,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.29000091552734
+    84.04000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4223.7,
-   "change": 133.4,
-   "change_pct": 3.26,
+   "price": 4244.7,
+   "change": 154.4,
+   "change_pct": 3.77,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4223.7001953125
+    4244.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.8,
-   "change": -0.06,
-   "change_pct": -0.06,
+   "price": 99.69,
+   "change": -0.17,
+   "change_pct": -0.17,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.7979965209961
+    99.69100189208984
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.88,
-   "change": -0.56,
-   "change_pct": -2.88,
+   "price": 18.53,
+   "change": -0.91,
+   "change_pct": -4.68,
    "spark": [
     18.920000076293945,
     19.8700008392334,
     22.219999313354492,
     19.440000534057617,
-    18.8799991607666
+    18.530000686645508
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.05,
-   "change": -0.04,
-   "change_pct": -1.2,
+   "price": 3.06,
+   "change": -0.03,
+   "change_pct": -0.94,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.049999952316284
+    3.058000087738037
    ]
   }
  },
@@ -221,17 +221,45 @@
  ],
  "incidents": [
   {
+   "title": "Ceasefire deal would end Lebanon fighting and reopen Hormuz, release billions to Iran - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899213",
+   "source": "Jerusalem Post",
+   "published": "2026-06-12T12:08:46+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-12T08:23:47.169604+00:00",
+   "published": "2026-06-12T10:01:16.023389+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
    "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
    "source": "Press TV",
-   "published": "2026-06-12T08:23:47.164467+00:00",
+   "published": "2026-06-12T10:01:16.018249+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "A tense calm gripped the Persian Gulf on Friday after President Trump said he had called off more U.S. strikes on Iran and claimed that a peace deal was “in pretty final shape.” Iran offered no public confirmation of such progress. Follow live updates.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mo3hwe3ov32o",
+   "source": "@nytimes",
+   "published": "2026-06-12T09:55:05.403191+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "LIVE: Vessel traffic in Strait of Hormuz as Iran says no final decision on US deal www.youtube.com/live/Ud6BQHt...",
+   "link": "https://bsky.app/profile/reuters.com/post/3mo3fcojgos2q",
+   "source": "@reuters",
+   "published": "2026-06-12T09:08:17.807+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u3pmtv/proposed_iranus_deal_would_reopen_hormuz_strait/",
+   "source": "r/worldnews",
+   "published": "2026-06-12T08:40:30+00:00",
    "severity": "info"
   },
   {
@@ -284,13 +312,6 @@
    "severity": "info"
   },
   {
-   "title": "Trump claims US has ‘ended the war’ with Iran despite Tehran saying no decision reached on deal",
-   "link": "https://www.timesofisrael.com/liveblog-june-12-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-11T22:43:48+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
    "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
    "source": "Press TV",
@@ -303,27 +324,6 @@
    "source": "USNI News",
    "published": "2026-06-11T22:13:36+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Trump says attack on Kharg Island off the table for now",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-attack-kharg-island-table-now",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T20:36:46+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Trump says he believes Iran's supreme leader has approved deal with US",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-he-believes-irans-supreme-leader-has-approved-deal-us",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T20:36:46+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz reut.rs/4aqepQ2",
-   "link": "https://bsky.app/profile/reuters.com/post/3mo224ibnaz2s",
-   "source": "@reuters",
-   "published": "2026-06-11T20:15:18+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 8,
+   "incident_count": 11,
    "recent": [
+    {
+     "title": "Ceasefire deal would end Lebanon fighting and reopen Hormuz, release billions to Iran - report",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899213",
+     "source": "Jerusalem Post",
+     "published": "2026-06-12T12:08:46+00:00",
+     "severity": "info"
+    },
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-12T08:23:47.169604+00:00",
+     "published": "2026-06-12T10:01:16.023389+00:00",
      "severity": "info"
     },
     {
      "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
      "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
      "source": "Press TV",
-     "published": "2026-06-12T08:23:47.164467+00:00",
+     "published": "2026-06-12T10:01:16.018249+00:00",
      "severity": "info"
-    },
-    {
-     "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-12T07:49:29+00:00",
-     "severity": "critical"
     }
    ]
   },
@@ -379,6 +379,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "7588a0d3554d",
+   "title": "The nation’s cartoonists on the week in politics",
+   "link": "https://www.politico.com/gallery/2026/06/12/the-nations-cartoonists-on-the-week-in-politics-00960253",
+   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T09:00:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "05428a90c9fb",
    "title": "BREAKING MS NOW: FBI agents on Thursday raided the Cleveland offices of the Ohio Organizing Collaborative — a pro-democracy organization that helps register voters in that state, according to three people briefed on the search.",
@@ -967,16 +977,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-11T21:00:16.858+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f1c00efcd35",
-   "title": "According to the National Immigration Forum, roughly 30 percent of construction industry workers are immigrants. Undocumented immigrants make up 10-19 percent of the construction workforce.",
-   "link": "https://bsky.app/profile/hunterw.bsky.social/post/3mo24aarqz22i",
-   "summary": "",
-   "source": "@hunterw",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:53:12.876+00:00",
    "iran_topic": false
   }
  ]
