@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-12T20:37:45.380149+00:00",
+ "generated": "2026-06-12T22:14:48.799761+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 86.77,
-   "change": -3.61,
-   "change_pct": -3.99,
+   "price": 86.71,
+   "change": -3.67,
+   "change_pct": -4.06,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
-    86.7699966430664
+    86.70999908447266
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 84.24,
-   "change": -3.47,
-   "change_pct": -3.96,
+   "price": 84.29,
+   "change": -3.42,
+   "change_pct": -3.9,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.23999786376953
+    84.29000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4235.5,
-   "change": 145.2,
-   "change_pct": 3.55,
+   "price": 4239.9,
+   "change": 149.6,
+   "change_pct": 3.66,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4235.5
+    4239.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.77,
-   "change": -0.09,
-   "change_pct": -0.09,
+   "price": 99.81,
+   "change": -0.05,
+   "change_pct": -0.05,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.77200317382812
+    99.80699920654297
    ]
   },
   "^GSPC": {
@@ -104,13 +104,13 @@
    "symbol": "NG=F",
    "price": 3.14,
    "change": 0.05,
-   "change_pct": 1.59,
+   "change_pct": 1.75,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.135999917984009
+    3.1410000324249268
    ]
   }
  },
@@ -221,10 +221,31 @@
  ],
  "incidents": [
   {
+   "title": "No nuclear talks without implementation of interim deal, Iran's Araghchi says",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899230",
+   "source": "Jerusalem Post",
+   "published": "2026-06-12T23:35:19+00:00",
+   "severity": "low"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-12T20:37:01.352092+00:00",
+   "published": "2026-06-12T22:14:05.622028+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "News Analysis: In the two months since the U.S. and Iran declared a cease-fire, the line between peace and war has been all but erased across the Middle East. With the Strait of Hormuz shut down, also, the conflict has also wielded a devastating new form of leverage.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mo4nndi6ea2v",
+   "source": "@nytimes",
+   "published": "2026-06-12T21:10:04.959503+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+   "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-12T21:04:05+00:00",
    "severity": "info"
   },
   {
@@ -233,6 +254,13 @@
    "source": "Jerusalem Post",
    "published": "2026-06-12T20:30:11+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "India joins elite club with successful ballistic missile defence, anti-ship missile trials",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u45unr/india_joins_elite_club_with_successful_ballistic/",
+   "source": "r/worldnews",
+   "published": "2026-06-12T19:56:37+00:00",
+   "severity": "info"
   },
   {
    "title": "USNI News Western Pacific Pulse: June 12, 2026",
@@ -296,34 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-12T12:00:18+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Iran says deal with US closer than ever as Trump lashes out",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-says-deal-us-closer-ever-trump-lashes-out",
-   "source": "Al-Monitor",
-   "published": "2026-06-12T12:00:18+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "India summons top US diplomat for second time to protest strikes on ships off Oman, source says",
-   "link": "https://www.al-monitor.com/originals/2026/06/india-summons-top-us-diplomat-second-time-protest-strikes-ships-oman-source-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-12T11:01:59+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "A tense calm gripped the Persian Gulf on Friday after President Trump said he had called off more U.S. strikes on Iran and claimed that a peace deal was “in pretty final shape.” Iran offered no public confirmation of such progress. Follow live updates.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mo3hwe3ov32o",
-   "source": "@nytimes",
-   "published": "2026-06-12T09:55:05.403191+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Family mourn Indian sailor killed in US strike on oil tanker",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-12T09:51:11+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -331,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 4,
+   "incident_count": 5,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-12T20:37:01.352092+00:00",
+     "published": "2026-06-12T22:14:05.622028+00:00",
      "severity": "info"
     },
     {
-     "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
-     "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
-     "source": "Press TV",
-     "published": "2026-06-12T16:33:32.624185+00:00",
+     "title": "News Analysis: In the two months since the U.S. and Iran declared a cease-fire, the line between peace and war has been all but erased across the Middle East. With the Strait of Hormuz shut down, also, the conflict has also wielded a devastating new form of leverage.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mo4nndi6ea2v",
+     "source": "@nytimes",
+     "published": "2026-06-12T21:10:04.959503+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump blames Iran for attack on Indian ships near Strait of Hormuz: ‘Totally unacceptable’",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u3y29h/trump_blames_iran_for_attack_on_indian_ships_near/",
-     "source": "r/worldnews",
-     "published": "2026-06-12T15:12:33+00:00",
-     "severity": "high"
+     "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+     "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-12T21:04:05+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -388,6 +388,156 @@
  ],
  "wh_statements": [
   {
+   "id": "cc722d43fe35",
+   "title": "LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center",
+   "link": "https://www.mediaite.com/politics/trump/live-stream-workers-begin-removing-trumps-name-from-kennedy-center/",
+   "summary": "Workers in Washington, D.C. have begun the process of removing President Donald Trump's name from the Kennedy Center after a judge's order. The post LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-12T22:05:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cc722d43fe35",
+   "title": "LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center",
+   "link": "https://www.mediaite.com/politics/trump/live-stream-workers-begin-removing-trumps-name-from-kennedy-center/",
+   "summary": "Workers in Washington, D.C. have begun the process of removing President Donald Trump's name from the Kennedy Center after a judge's order. The post LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T22:05:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b7d5ab2f29e",
+   "title": "Republicans use World Cup to squeeze Dems on FISA extension",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/republicans-fisa-expiry-democrats-world-cup-2026-00961085",
+   "summary": "“You should just pull out every stop right now to make sure that there are no problems,” said Indiana Sen. Todd Young.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T22:04:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8275ba17ffb7",
+   "title": "Missouri NOT probing FIFA ticket prices — yet",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/missouri-fifa-world-cup-ticket-prices-00960905",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T21:59:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6eaf3b138f3b",
+   "title": "The Washington National Opera, which recently severed its longstanding relationship with The Kennedy Center, has filed a lawsuit that demands more than $17 million from the center that the opera company estimates it's owed.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo4pv4d25k2z",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-12T21:50:13.414+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a585100ec1d6",
+   "title": "Elephant at Texas GOP Convention Shocks Audience by Peeing All Over the Floor",
+   "link": "https://www.mediaite.com/media/weird/elephant-at-texas-gop-convention-shocks-audience-by-peeing-all-over-the-floor/",
+   "summary": "An elephant caused quite the disruption at the Texas Republican Party's annual convention in Houston. The post Elephant at Texas GOP Convention Shocks Audience by Peeing All Over the Floor first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T21:36:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "982fa5926101",
+   "title": "‘No Wonder!’ CNN’s Enten Argues WH UFC Fight Why 80% of Independents See Trump as ‘Out of Touch’",
+   "link": "https://www.mediaite.com/media/news/no-wonder-cnns-enten-argues-wh-ufc-fight-why-80-of-independents-see-trump-as-out-of-touch/",
+   "summary": "CNN data guru Harry Enten argued on Friday that this weekend's UFC event at the White House is exactly why new polling shows that 80% of independent voters see President Donald Trump as \"out of touch,\" remarking, \"No wonder!\" The post ‘No Wonder!’ CNN’s Enten Argues WH UFC Fight Why 80% of Independents See Trump as ‘Out of Touch’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T21:31:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "90d32b394ede",
+   "title": "CNN Reports Trump Stopped ‘High Risk’ Ground Mission to Get Iran’s Uranium",
+   "link": "https://www.mediaite.com/media/tv/cnn-reports-trump-stopped-pentagon-prep-for-ground-mission-to-get-irans-uranium/",
+   "summary": "\"So while this is very much a plan that is in the books and is still very much on the table if things do fall apart, it is also extremely risky\" The post CNN Reports Trump Stopped ‘High Risk’ Ground Mission to Get Iran’s Uranium first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T21:30:01+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ca38bc7abe09",
+   "title": "MrBeast Makes YouTube History By Surpassing 500M Subscribers",
+   "link": "https://www.mediaite.com/media/news/mrbeast-makes-youtube-history-by-surpassing-500m-subscribers/",
+   "summary": "Content creator MrBeast — real name Jimmy Donaldson — made YouTube history Friday when his channel surpassed half-a-billion subscribers. The post MrBeast Makes YouTube History By Surpassing 500M Subscribers first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T21:29:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "591c269c77df",
+   "title": "PR fail: Mamdani’s Boricua bungle",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/12/pr-fail-mamdanis-boricua-bungle-00960641",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T21:12:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8758d753c52c",
+   "title": "‘Knife’s edge’: US-Mexico relationship teeters as World Cup begins",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/us-mexico-relationship-fifa-world-cup-2026-00960937",
+   "summary": "As the World Cup kicks off, cracks are emerging in Mexican President Claudia Sheinbaum’s carefully tended relationship with President Donald Trump — over trade, cartels and a brewing extradition standoff.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T21:01:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f39e5029dbf",
+   "title": "First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
+   "summary": "First Lady Melania Trump had a remarkable week focused on empowering children and youth through two major accomplishments: the first ever Presidential AI Challenge National Campion Awards Ceremony at the White House and the launch of Fostering the Future Accounts for youth in foster care. Presidential AI Challenge: On Tuesday, June 9, Mrs. Trump honored [&#8230;] The post First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T20:58:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9cc088a55a35",
+   "title": "Red State AG Slams Ken Paxton for Threatening Legal Action if Schools Boycott Texas Tech for Bringing Back QB Who Bet on Games",
+   "link": "https://www.mediaite.com/media/sports/red-state-ag-slams-ken-paxton-for-threatening-legal-action-if-schools-boycott-texas-tech-for-bringing-back-qb-who-bet-on-games/",
+   "summary": "Oklahoma Attorney General Gentner Drummond called out Texas AG Ken Paxton on Friday for threatening legal action against schools that refuse to play Texas Tech. The post Red State AG Slams Ken Paxton for Threatening Legal Action if Schools Boycott Texas Tech for Bringing Back QB Who Bet on Games first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:55:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f15e2e77ad16",
+   "title": "All-Star Fox Sports Panel Floored After Alexi Lalas Drops NSFW Dig at James Corden",
+   "link": "https://www.mediaite.com/media/tv/all-star-fox-sports-panel-floored-after-alexi-lalas-drops-nsfw-dig-at-james-corden/",
+   "summary": "The burn occupies a special corner of British football culture generally reserved for fans whose devotion is seen as crossing into cringe territory. The post All-Star Fox Sports Panel Floored After Alexi Lalas Drops NSFW Dig at James Corden first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:51:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "03b4d55469d9",
+   "title": "At least six states have RSVP'd 'no' to Trump's America 250 state fair. www.notus.org/donald-trump...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo4mavhjts2z",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-12T20:45:13.907+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "af0b62e5fd6c",
    "title": "House Republican on Fox News Labels Jasmine Crockett a ‘Race-Baiting Thug’",
    "link": "https://www.mediaite.com/media/tv/house-republican-on-fox-news-labels-jasmine-crockett-a-race-baiting-thug/",
@@ -409,9 +559,9 @@
   },
   {
    "id": "c15d4ee2be5c",
-   "title": "Trump keeps extending the Iran war. Republicans are losing patience.",
+   "title": "Trump's GOP allies draw a line in the sand on Iran",
    "link": "https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925",
-   "summary": "GOP strategists and county chairs say the Trump administration must exit by Labor Day — or it could spell trouble for the midterms.",
+   "summary": "Their new deadline for the war: Labor Day.",
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-12T20:29:56+00:00",
@@ -758,26 +908,6 @@
    "iran_topic": false
   },
   {
-   "id": "84b3de91978f",
-   "title": "In 5 Minutes on Fox News, Larry Kudlow Exposes What’s Behind Trump’s Farcical Iran Deal",
-   "link": "https://www.mediaite.com/opinion/in-5-minutes-on-fox-news-larry-kudlow-exposes-whats-behind-trumps-farcical-iran-deal/",
-   "summary": "\"I'll just say this — whatever deal we're making, okay, I trust the president and so forth, but no money. Don't give them any money\" The post In 5 Minutes on Fox News, Larry Kudlow Exposes What’s Behind Trump’s Farcical Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T18:09:18+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "aa6e03d97949",
-   "title": "White House UFC Events Will Proceed After Judge Rules in Trump’s Favor",
-   "link": "https://www.mediaite.com/media/news/white-house-ufc-events-will-proceed-after-judge-rules-in-trumps-favor/",
-   "summary": "Donald Trump's UFC event commemorating his 80th birthday as well as America's 250th, will proceed as planned after a federal judge paved the way. The post White House UFC Events Will Proceed After Judge Rules in Trump’s Favor first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T17:55:26+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e416491e1cf3",
    "title": "not beating the new gilded age allegations",
    "link": "https://bsky.app/profile/richterscale.bsky.social/post/3mo4clswbqc2r",
@@ -805,16 +935,6 @@
    "source": "@gregsargent",
    "category": "trump_bsky",
    "published": "2026-06-12T17:48:05.870+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b758147617d2",
-   "title": "Three-Time Trump Voters Blast President on MS NOW: ‘Get It Together, Man!’",
-   "link": "https://www.mediaite.com/media/tv/three-time-trump-voters-blast-president-on-ms-now-get-it-together-man/",
-   "summary": "Two voters who backed President Donald Trump in all three of his presidential campaigns expressed growing frustration with his administration during a Friday appearance on MS NOW's Morning Joe, with one pleading, “Get it together, man!” The post Three-Time Trump Voters Blast President on MS NOW: ‘Get It Together, Man!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T17:46:25+00:00",
    "iran_topic": false
   },
   {
@@ -865,126 +985,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-12T17:34:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f3be18ac1a34",
-   "title": "‘F*CK YOU!’ Alex Jones Calls Ben Shapiro a Traitorous, ‘Beady-Eyed Rat’ in Unhinged Attack",
-   "link": "https://www.mediaite.com/media/podcasts/fck-you-alex-jones-calls-ben-shapiro-a-traitorous-beady-eyed-rat-in-unhinged-attack/",
-   "summary": "Alex Jones kicked his feud with Ben Shapiro up a notch with a Friday scorched-Earth rant where he called Shapiro a traitor and \"beady-eyed rat.\" The post ‘F*CK YOU!’ Alex Jones Calls Ben Shapiro a Traitorous, ‘Beady-Eyed Rat’ in Unhinged Attack first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T17:30:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "72521dae6fea",
-   "title": "Reminder that if you've ever been curious how I'm able to post news clip in damn near real time, the answer is @snapstream.com, the premier tool for social media video. Want to clip like me? Click the link for more info and to set up a demo.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo4aeoj7qk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T17:12:35.939+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "16b3d27c98cc",
-   "title": "“The past was alterable. The past never had been altered. Oceania was at war with Eastasia. Oceania had always been at war with Eastasia.” George Orwell 1984",
-   "link": "https://bsky.app/profile/drjackbrown.bsky.social/post/3mo4aedzdp223",
-   "summary": "",
-   "source": "@drjackbrown",
-   "category": "trump_bsky",
-   "published": "2026-06-12T17:12:24.933+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7d275b4e04dc",
-   "title": "Going live with @paulwaldman.bsky.social at 2pm eastern to discuss Trump's 39th (and counting) attempt at an Iran deal, whether he can sell a cave as a win, war crimes becoming official US policy, and we'll take questions too. Tune in:",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo4a7ffzk22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T17:09:38.625+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "081d4092762a",
-   "title": "Republican Sen. Jon Husted says the war with Iran went well, except for the “peace aspect.” Does the Republican Party have an online training session where they arm politicians with brilliant explanations like this?",
-   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mo47vld4n22q",
-   "summary": "",
-   "source": "@markjacob",
-   "category": "trump_bsky",
-   "published": "2026-06-12T17:04:09.277+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d21275555743",
-   "title": "chat is it healthy when it looks like you're having a grand mal while \"exercising\"?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo47ap6ix22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:52:28.676+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e133c051c167",
-   "title": "can we talk about how this admin spends so much time saying 'whoa whoa whoa a policy is NOT illegal just bc it has a disparate impact on Black people' and at the same time is like 'whoa whoa whoa a school has Black students? must be an illegal admissions policy!' ballsandstrikes.org/law-politics...",
-   "link": "https://bsky.app/profile/audrelawdamercy.blacksky.app/post/3mo4747zwt224",
-   "summary": "",
-   "source": "@audrelawdamercy",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:49:58.580+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e678ada35770",
-   "title": "Judge Orders Trump Admin to Submit Sworn Statement It Will Not Move Forward With Anti-Weaponization Fund",
-   "link": "https://www.mediaite.com/media/news/judge-orders-trump-admin-to-submit-sworn-statement-saying-anti-weaponization-fund-will-not-move-forward/",
-   "summary": "A judge has given the Trump administration one week to submit a sworn statement saying it will not move forward with the $1.8 billion anti-weaponization fund. The post Judge Orders Trump Admin to Submit Sworn Statement It Will Not Move Forward With Anti-Weaponization Fund first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T16:38:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d50f3440009",
-   "title": "THEY'RE SO SHINY YOU CAN SEE A REFLECTION OF YOURSELF NOT BEING ABLE TO AFFORD GROCERIES!",
-   "link": "https://bsky.app/profile/rexhuppke.bsky.social/post/3mo46bd2mak23",
-   "summary": "",
-   "source": "@rexhuppke",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:34:55.778+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "831bbae5d588",
-   "title": "\"I have a feeling that Bari will not be overseeing '60 Minutes' for very much longer ... Everything she's touched has turned to shit. Everything she's touched has gone colossally wrong. And I don't think she's showed any talent for this position.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo45qebnm22u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:25:26.633+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bb49dce33164",
-   "title": "BREAKING: At Least 1 Dead, 11 Others Injured in Shooting in Midland, Texas; Shooter Dead",
-   "link": "https://www.mediaite.com/media/news/breaking-at-least-1-dead-11-others-injured-in-active-shooter-situation-in-midland-texas/",
-   "summary": "At least one person has been killed and 11 others injured in an active shooter situation in Midland, Texas, according to reports. The post BREAKING: At Least 1 Dead, 11 Others Injured in Shooting in Midland, Texas; Shooter Dead first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T16:23:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8ddaa3ef0e9f",
-   "title": "‘Oh Dear God!’ Jon Stewart Horrified by Eerie Elon Musk Theory",
-   "link": "https://www.mediaite.com/media/podcasts/oh-dear-god-jon-stewart-horrified-by-eerie-elon-musk-theory/",
-   "summary": "Jon Stewart winced in horror as writer Quinn Slobodian shared a theory on Elon Musk's worldview after co-authoring a book about the tech billionaire. The post ‘Oh Dear God!’ Jon Stewart Horrified by Eerie Elon Musk Theory first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T16:20:19+00:00",
    "iran_topic": false
   }
  ]
