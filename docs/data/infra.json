@@ -1,116 +1,116 @@
 {
- "generated": "2026-06-12T10:01:56.164210+00:00",
+ "generated": "2026-06-12T13:44:19.481427+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 86.73,
-   "change": -3.65,
-   "change_pct": -4.04,
+   "price": 88.41,
+   "change": -1.97,
+   "change_pct": -2.18,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
-    86.7300033569336
+    88.41000366210938
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 84.04,
-   "change": -3.67,
-   "change_pct": -4.18,
+   "price": 85.57,
+   "change": -2.14,
+   "change_pct": -2.44,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.04000091552734
+    85.56999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4244.7,
-   "change": 154.4,
-   "change_pct": 3.77,
+   "price": 4219.3,
+   "change": 129.0,
+   "change_pct": 3.15,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4244.7001953125
+    4219.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.69,
-   "change": -0.17,
-   "change_pct": -0.17,
+   "price": 99.75,
+   "change": -0.11,
+   "change_pct": -0.11,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.69100189208984
+    99.7490005493164
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7394.3,
-   "change": 127.31,
-   "change_pct": 1.75,
+   "price": 7377.19,
+   "change": -17.11,
+   "change_pct": -0.23,
    "spark": [
-    7383.740234375,
     7405.72998046875,
     7386.64990234375,
     7266.990234375,
-    7394.2998046875
+    7394.2998046875,
+    7377.18994140625
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 128.83,
-   "change": -5.47,
-   "change_pct": -4.07,
+   "price": 128.55,
+   "change": -0.28,
+   "change_pct": -0.22,
    "spark": [
-    133.02000427246094,
     135.14999389648438,
     131.3000030517578,
     134.3000030517578,
-    128.8300018310547
+    128.8300018310547,
+    128.5500030517578
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.53,
-   "change": -0.91,
-   "change_pct": -4.68,
+   "price": 19.26,
+   "change": -0.18,
+   "change_pct": -0.93,
    "spark": [
     18.920000076293945,
     19.8700008392334,
     22.219999313354492,
     19.440000534057617,
-    18.530000686645508
+    19.260000228881836
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.06,
-   "change": -0.03,
-   "change_pct": -0.94,
+   "price": 3.08,
+   "change": -0.01,
+   "change_pct": -0.19,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.058000087738037
+    3.0810000896453857
    ]
   }
  },
@@ -221,6 +221,27 @@
  ],
  "incidents": [
   {
+   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
+   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
+   "source": "Press TV",
+   "published": "2026-06-12T13:43:34.620041+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
+   "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
+   "source": "Press TV",
+   "published": "2026-06-12T13:43:34.615672+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "New today for War on the Rocks members: The Evolution of Ukraine's Asymmetrical Combat Tactics Strike, Counterstrike, Repeat The Houthis Threaten the Red Sea warontherocks.com/",
+   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mo3sdb5p3e2r",
+   "source": "@warontherocks",
+   "published": "2026-06-12T13:01:15.674+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Ceasefire deal would end Lebanon fighting and reopen Hormuz, release billions to Iran - report",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899213",
    "source": "Jerusalem Post",
@@ -228,18 +249,18 @@
    "severity": "info"
   },
   {
-   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
-   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
-   "source": "Press TV",
-   "published": "2026-06-12T10:01:16.023389+00:00",
-   "severity": "info"
+   "title": "Iran insists on nuclear enrichment under any deal with US",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-insists-nuclear-enrichment-under-any-deal-us",
+   "source": "Al-Monitor",
+   "published": "2026-06-12T12:00:18+00:00",
+   "severity": "medium"
   },
   {
-   "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
-   "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
-   "source": "Press TV",
-   "published": "2026-06-12T10:01:16.018249+00:00",
-   "severity": "info"
+   "title": "India summons top US diplomat for second time to protest strikes on ships off Oman, source says",
+   "link": "https://www.al-monitor.com/originals/2026/06/india-summons-top-us-diplomat-second-time-protest-strikes-ships-oman-source-says",
+   "source": "Al-Monitor",
+   "published": "2026-06-12T11:01:59+00:00",
+   "severity": "critical"
   },
   {
    "title": "A tense calm gripped the Persian Gulf on Friday after President Trump said he had called off more U.S. strikes on Iran and claimed that a peace deal was “in pretty final shape.” Iran offered no public confirmation of such progress. Follow live updates.",
@@ -247,6 +268,20 @@
    "source": "@nytimes",
    "published": "2026-06-12T09:55:05.403191+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Family mourn Indian sailor killed in US strike on oil tanker",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-12T09:51:11+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "India summons US diplomat second time in 2 days over strike on tanker",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u3qg96/india_summons_us_diplomat_second_time_in_2_days/",
+   "source": "r/worldnews",
+   "published": "2026-06-12T09:29:45+00:00",
+   "severity": "low"
   },
   {
    "title": "LIVE: Vessel traffic in Strait of Hormuz as Iran says no final decision on US deal www.youtube.com/live/Ud6BQHt...",
@@ -289,41 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-12T05:36:44+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "US's Wednesday strikes on Iran damaged drinking water facility near Strait of Hormuz - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899190",
-   "source": "Jerusalem Post",
-   "published": "2026-06-12T05:34:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says Iran war deal close as Strait of Hormuz tensions linger reut.rs/443hLEW",
-   "link": "https://bsky.app/profile/reuters.com/post/3mo2z573bbh24",
-   "source": "@reuters",
-   "published": "2026-06-12T05:30:28+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US confirms third strike on Indian-crewed tankers this week",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-confirms-third-strike-indian-crewed-tankers-week",
-   "source": "Al-Monitor",
-   "published": "2026-06-12T04:36:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
-   "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
-   "source": "Press TV",
-   "published": "2026-06-11T22:16:47.007931+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
-   "link": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
-   "source": "USNI News",
-   "published": "2026-06-11T22:13:36+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 11,
+   "incident_count": 8,
    "recent": [
-    {
-     "title": "Ceasefire deal would end Lebanon fighting and reopen Hormuz, release billions to Iran - report",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899213",
-     "source": "Jerusalem Post",
-     "published": "2026-06-12T12:08:46+00:00",
-     "severity": "info"
-    },
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-12T10:01:16.023389+00:00",
+     "published": "2026-06-12T13:43:34.620041+00:00",
      "severity": "info"
     },
     {
      "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
      "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
      "source": "Press TV",
-     "published": "2026-06-12T10:01:16.018249+00:00",
+     "published": "2026-06-12T13:43:34.615672+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Ceasefire deal would end Lebanon fighting and reopen Hormuz, release billions to Iran - report",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899213",
+     "source": "Jerusalem Post",
+     "published": "2026-06-12T12:08:46+00:00",
      "severity": "info"
     }
    ]
@@ -359,9 +359,17 @@
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "QUIET",
-   "incident_count": 0,
-   "recent": []
+   "status": "ACTIVE",
+   "incident_count": 1,
+   "recent": [
+    {
+     "title": "New today for War on the Rocks members: The Evolution of Ukraine's Asymmetrical Combat Tactics Strike, Counterstrike, Repeat The Houthis Threaten the Red Sea warontherocks.com/",
+     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mo3sdb5p3e2r",
+     "source": "@warontherocks",
+     "published": "2026-06-12T13:01:15.674+00:00",
+     "severity": "info"
+    }
+   ]
   },
   {
    "name": "Suez Canal",
@@ -379,6 +387,246 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "0990545cf577",
+   "title": "Trump: \"The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing. What they said, including their weak and pathetic statement on having a deal, bears no relation to the truth.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3umi7h522l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:42:12.861+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dd329be9bcbf",
+   "title": "\"Trump’s suggestion that he's a secular messiah was not new and indeed is the thesis of the Qanon movement. But his move into overt apostasy was a measure of how far he was willing to go in pushing boundaries with even the evangelical Christians who had been key to his own political resurrection.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3ufj35us2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:38:18.888+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "46d9ea229907",
+   "title": "One annoying thing about Aaron's clips is how he transcribes what they said and you think \"that can't really be what they said, Aaron must've made a mistake\" so you feel obliged as a good citizen to listen to it yourself and inevitably Aaron was right, that's really what they said.",
+   "link": "https://bsky.app/profile/maxkennerly.bsky.social/post/3mo3uaaqtl22r",
+   "summary": "",
+   "source": "@maxkennerly",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:35:22.389+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a009c0d57a94",
+   "title": "Morning Joe interviewed 3-time Trump voters who are disillusioned: \"It's been 2 years now. You said you'd bring down grocery prices. I'm the most angry person when I grocery shop\" \"He's backtracked on every single pitch he had during his election ... I'm not a big supporter of him at this point\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3u735wkw22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:34:42.912+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b354dd6a02fc",
+   "title": "Bosnia beat Italy. Utica never recovered.",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/bosnia-italy-utica-new-york-00960249",
+   "summary": "A refugee community in upstate New York gets ready to root for the home team.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T13:29:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b762126fb46c",
+   "title": "Rep. Carlos Gimenez: \"All of the southeastern United States is actually now threatened by Cuba. Cuba has always been a national security threat to the United States ... once we finish with Iran, then President Trump is going to turn his attention to Cuba\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3tkgbdyh2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:23:09.915+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8a4c11dd8c48",
+   "title": "CNN’s Bakari Sellers Calls Out Scott Jennings Trump Scoop With Him Sitting Right There: ‘That Wasn’t True’",
+   "link": "https://www.mediaite.com/media/tv/cnns-bakari-sellers-calls-out-scott-jennings-trump-scoop-with-him-sitting-right-there-that-wasnt-true/",
+   "summary": "Bakari Sellers called out a Scott Jennings scoop about Trump trumpeting an imminent Iran deal — with Jennings sitting right next to him at the Newsnight table. The post CNN’s Bakari Sellers Calls Out Scott Jennings Trump Scoop With Him Sitting Right There: ‘That Wasn’t True’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T13:22:53+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ea0fd5e24000",
+   "title": "Tucker Carlson Claims ‘Terrified’ Dan Bongino Told Him Trump Shut Down Butler Assassination Investigation Himself",
+   "link": "https://www.mediaite.com/media/news/tucker-carlson-claims-terrified-dan-bongino-told-him-trump-shut-down-butler-assassination-investigation-himself/",
+   "summary": "Tucker Carlson claimed a \"hysterical\" Dan Bongino told him President Trump was the one who shut down an investigation the Butler assassination attempt. The post Tucker Carlson Claims ‘Terrified’ Dan Bongino Told Him Trump Shut Down Butler Assassination Investigation Himself first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T13:16:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "29160658aae5",
+   "title": "GOP Rep. Carlos Gimenez: \"I think Iran has another Lucy or two in them -- 'Charlie Brown, kick the football,' and then you yank the football at the end. Until I see it in writing I'm going to be skeptical\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3t4vdjeb26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:15:35.960+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "375344e3295d",
+   "title": "Love to invent incredibly unlikely threats, set off a massive war that does serious damage to U.S. interests at obscene fiscal costs to fight that incredibly unlikely threat, then declare victory on a claim that the incredibly unlikely threat now definitely won't happen.",
+   "link": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3mo3sxjabss2z",
+   "summary": "",
+   "source": "@reichlinmelnick",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:12:35.551+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5ebc2b9a7aef",
+   "title": "Rep. Randy Fine: \"I trust Donald Trump. I place my faith in him. The only thing I wish is that people would support the president more.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3stuaq5b2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:10:32.830+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ddefd70cd674",
+   "title": "Burgum: \"Now with the threat of having a terrorist group having a nuclear weapon and their will to use it, their desire to use it, is gonna be a game-changer for America and exciting times ahead\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3sj5sbg224",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:04:33.739+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "85347b3f952c",
+   "title": "Burgum: \"Solar projects don't make any sense in the northern parts of our country, where there's less sunlight, more cloud\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3sc4z4qs2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T13:00:38.034+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3dcd300cefd2",
+   "title": "New in PN: Will Dems become the party of faith? \"It's just possible that Trump — whose appeals to a certain cohort of the religiously observant have morphed into an almost gleeful celebration of amorality — may have, entirely unintentionally, opened a door to a new kind of faith-inspired politics.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo3robfxrc2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T12:49:31.617+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "875c87bb8298",
+   "title": "FLAG WSJ: Trump and his allies have discussed pushing lawmakers to pass a resolution aimed at voiding his first-term impeachments, according to people familiar with the matter. The resolution would allow Trump to claim a symbolic victory. It would have no legal significance.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo3rglfbyc2v",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-12T12:45:13.646+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4b88a3059ca",
+   "title": "‘Deeply Perverted’: MS NOW Host Roasts Marco Rubio for Comparing White House UFC Event to Moon Landing",
+   "link": "https://www.mediaite.com/media/tv/deeply-perverted-ms-now-host-roasts-marco-rubio-for-comparing-white-house-ufc-event-to-moon-landing/",
+   "summary": "Rubio framed the UFC event as an example of the boldness and ambition he said have defined the United States since its founding. The post ‘Deeply Perverted’: MS NOW Host Roasts Marco Rubio for Comparing White House UFC Event to Moon Landing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T12:31:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e95cb8787bfb",
+   "title": "Not another political World Cup",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/not-another-political-world-cup-00960302",
+   "summary": "Headaches abound for FIFA as the biggest sporting event in the world kicks off in North America.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T12:07:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3ce40ea97afc",
+   "title": "I just want one reporter to ask the follow-up of “how does that work, exactly?” 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mo3nwedirk25",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-12T11:42:28.151+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a5ef3c4def90",
+   "title": "Daniel Dale Hits CNN to Fact-Check Trump — Hours After Damning Report on His 3-Month Absence",
+   "link": "https://www.mediaite.com/media/tv/daniel-dale-hits-cnn-to-fact-check-trump-hours-after-damning-report-on-his-3-month-absence/",
+   "summary": "Daniel Dale hit the airwaves to fact-check Trump for the first time in over three months — less than 24 hours after a damning report on the absence. The post Daniel Dale Hits CNN to Fact-Check Trump — Hours After Damning Report on His 3-Month Absence first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T11:39:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "240d368cc411",
+   "title": "Donald Trump's celebration of moral debasement, greed and performative cruelty threatens the GOP's longtime claim to be the party of faith. Will the Democratic Party take its place? I ask the question in Public Notice.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mo3nk5ydy22r",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-12T11:35:38.839+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9c3b4ee54533",
+   "title": "James Talarico Fires Back at Ted Cruz, Ken Paxton for Questioning His Masculinity: ‘Here’s What Real Men Don’t Do’",
+   "link": "https://www.mediaite.com/media/tv/james-talarico-fires-back-at-ted-cruz-ken-paxton-for-questioning-his-masculinity-heres-what-real-men-dont-do/",
+   "summary": "Talarico said he welcomed the debate on masculinity and reframing it around responsibility and character, with a nod to his father and jab at GOP rivals. The post James Talarico Fires Back at Ted Cruz, Ken Paxton for Questioning His Masculinity: ‘Here’s What Real Men Don’t Do’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T11:22:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1fdccae24383",
+   "title": "WATCH: Soccer Panel’s Awkward Silence Goes Viral After Nightmare World Cup Opener Leaves Pundits Speechless",
+   "link": "https://www.mediaite.com/online/watch-soccer-panels-awkward-silence-goes-viral-after-nightmare-world-cup-opener-leaves-pundits-speechless/",
+   "summary": "The stunned reaction from a panel of former South Africa stars may have summed it up the country's World Cup loss better than any post-match analysis could. The post WATCH: Soccer Panel’s Awkward Silence Goes Viral After Nightmare World Cup Opener Leaves Pundits Speechless first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T10:41:02+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2f79e1116502",
+   "title": "Kimmel Shows Everything ‘Trillionaire’ Elon Musk Could Buy When SpaceX Goes Public – With a Little Help From Your 401(k)",
+   "link": "https://www.mediaite.com/media/tv/kimmel-shows-everything-trillionaire-elon-musk-could-buy-when-spacex-goes-public-with-a-little-help-from-your-401k/",
+   "summary": "The sheer volume of wealth that Musk would inherit, Kimmel argued, was “so large” it was difficult to “fathom” - so he drafted a fantasy shopping list to help. The post Kimmel Shows Everything ‘Trillionaire’ Elon Musk Could Buy When SpaceX Goes Public – With a Little Help From Your 401(k) first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T10:29:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "90b531062ada",
+   "title": "Will Democrats become the party of faith?",
+   "link": "https://www.publicnotice.co/p/democrats-faith-2028",
+   "summary": "The GOP's debasement presents an opportunity.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-12T10:18:11+00:00",
+   "iran_topic": false
+  },
   {
    "id": "7588a0d3554d",
    "title": "The nation’s cartoonists on the week in politics",
@@ -401,7 +649,7 @@
   },
   {
    "id": "ff389c9611fb",
-   "title": "The small-town voters deciding the UK’s future are demanding change, our focus group found",
+   "title": "‘There needs to be change’: Voters in the major UK by-election are angry",
    "link": "https://www.politico.com/news/2026/06/12/uk-makerfield-election-burnham-kenyon-issues-00959685",
    "summary": "Residents are deeply frustrated with politics — and some would rather burn the system down than back Labour candidate Andy Burnham to challenge Prime Minister Keir Starmer.",
    "source": "Politico Politics",
@@ -690,16 +938,6 @@
    "iran_topic": false
   },
   {
-   "id": "b50ee6f89d2d",
-   "title": "Iran Pumps the Brakes on Trump’s Claim About a Deal: ‘We Have Not Yet Reached’ an Agreement",
-   "link": "https://www.mediaite.com/media/news/iran-pumps-the-brakes-on-trumps-claim-about-a-deal-we-have-not-yet-reached-an-agreement/",
-   "summary": "The Iranian government said that despite President Donald Trump's claims about a deal to end the war, one has not been reached. The post Iran Pumps the Brakes on Trump’s Claim About a Deal: ‘We Have Not Yet Reached’ an Agreement first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T22:50:45+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "3c799dc77785",
    "title": "only works if you add Jewish space laser technology",
    "link": "https://bsky.app/profile/michaelemann.bsky.social/post/3mo2caz5bfk2f",
@@ -718,16 +956,6 @@
    "category": "trump_bsky",
    "published": "2026-06-11T22:40:23.009+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "eb767ec88843",
-   "title": "Kudlow Crows About Trump’s ‘Secret Stash of Oil’ Saving the Day On Inflation",
-   "link": "https://www.mediaite.com/media/tv/kudlow-crows-about-trumps-secret-stash-of-oil-saving-the-day-on-inflation/",
-   "summary": "Former Trump economic advisor and Fox Business host, Larry Kudlow, praised President Donald Trump’s “secret stash of oil” as he marveled at the stock market booming after the president announced some kind of deal with Iran is near. “Quick look at markets right now — the Dow holding on to those gains after President Trump&#8217;s [&#8230;] The post Kudlow Crows About Trump’s ‘Secret Stash of Oil’ Saving the Day On Inflation first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T22:28:59+00:00",
-   "iran_topic": true
   },
   {
    "id": "c541c3ba7c0c",
@@ -750,16 +978,6 @@
    "iran_topic": false
   },
   {
-   "id": "ff40c00cd62c",
-   "title": "WATCH: Trump’s DNI Pick Was on CNBC Pushing Rigged Election Claims Days Before Nomination",
-   "link": "https://www.mediaite.com/media/news/watch-trumps-dni-pick-was-on-cnbc-pushing-rigged-election-claims-days-before-nomination/",
-   "summary": "Just days before he was announced as Donald Trump's new pick for DNI, Jay Clayton was pushing rigged election claims on CNBC. The post WATCH: Trump’s DNI Pick Was on CNBC Pushing Rigged Election Claims Days Before Nomination first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T22:09:13+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5c77d32136aa",
    "title": "Buttigieg: It has been more than a decade now of feeling like Washington is punching you in the face every time you look at your phone or watch TV. Imagine if you could look at what was going on with your leaders and actually feel your blood pressure go down a little bit instead of up.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2ahqtbfm2b",
@@ -767,216 +985,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-11T22:08:59.407+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c7daa876e0f2",
-   "title": "Why are Congressional Democrats such 🗑️? Top House Democrat waiving the surrender flag but thankfully @atrupar.com went into his mentions to talk some basic sense.",
-   "link": "https://bsky.app/profile/murshedz.bsky.social/post/3mo2aguntmc2v",
-   "summary": "",
-   "source": "@murshedz",
-   "category": "trump_bsky",
-   "published": "2026-06-11T22:08:30.013+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "04bada3f1370",
-   "title": "\"Stand Up For Science has a good guide on how to draft a useful comment in opposition to the new rule, one which, in a grim irony, relies extensively on a guide created by OMB itself during Trump’s first term. We never thought we’d look back on that first term as a high point, but here we are.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo2adn2bxc2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T22:06:41.369+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d8adcec1c70",
-   "title": "Buttigieg: How you vote doesn't make you a bad person. How you vote doesn't make you a good person. And really all of us are capable of good and bad things. But part of why leadership matters so much is that it's calling to what is best in us or it's calling to what is worst in us.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2a7tjiw72u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T22:04:33.796+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "125551816c61",
-   "title": "Ex-Staffer for Leading Dem Senate Candidate Charged for Terror Campaign Against University Leaders",
-   "link": "https://www.mediaite.com/politics/ex-staffer-for-leading-dem-senate-candidate-charged-for-terrorizing-university-leaders/",
-   "summary": "A former staffer for Abdul El-Sayed has been indicted for allegedly conspiring to \"terrorize\" leaders at UMich into severing ties with Israel. The post Ex-Staffer for Leading Dem Senate Candidate Charged for Terror Campaign Against University Leaders first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:59:04+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "e022ae0a95dd",
-   "title": "Trump Goes Scorched Earth On GOP Senators While Needing Their Votes",
-   "link": "https://www.mediaite.com/politics/trump-goes-scorched-earth-on-gop-senators-while-needing-their-votes/",
-   "summary": "\"John Thune's a good man. He was a loyal worker for Mitch McConnell. He worked for Mitch McConnell. He worked very hard. He was very loyal to him.\" The post Trump Goes Scorched Earth On GOP Senators While Needing Their Votes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:52:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6fdc7aa08226",
-   "title": "Buttigieg: The folks in charge are offering a different account of what it means to be an American. To them, the answer is ancestry. You're an American based on how many of your ancestors are in a Civil War battlefield even if some of them were fighting against the US.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo27h7hyt426",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:50:47.467+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9f72cb301435",
-   "title": "A health inspector has flagged the Trump National Golf Club Hudson Valley in Hopewell Junction, NY, for a \"critical violation\" at its restaurant, according to inspection records. The violation stems from the restaurant having \"food from [an] unapproved source, spoiled, adulterated on premises.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo27gj3zhc2t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:50:24.154+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "da9d643ce662",
-   "title": "Q: How do we build a majority to win? Buttigieg: This is the most extraordinary thing. The majority is there on the issues and yet they make members of that majority feel like they're alone. You're not alone if you think that health care ought to be a right for every American.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo27bglhtz2u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:47:33.602+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6ca8dd35531c",
-   "title": "Buttigieg: Let's talk one more thing, one more radical proposition on the executive branch. What if everybody's vote counted the same?",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26ty2amk26",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:40:02.151+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1a4fe7ff27dc",
-   "title": "Buttigieg: We didn't know it, but we've all been trusting our lives to the restraint of whoever the president might be. And now we have a president who is completely unrestrained. And so the only answer to that is a functioning Congress. It turns out we do not have a functioning Congress.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26mbjsqp26",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:35:43.673+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb8d3b4e58cd",
-   "title": "Buttigieg: We sit in a in a country that's got the wrong number of people on the Supreme Court, possibly the wrong number of representatives in the House of Representatives. And by the way, when you consider the disenfranchisement of the people of DC, we have the wrong number of states in the US",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26kpazgr2n",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:34:50.951+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2e7a0d4e294c",
-   "title": "Buttigieg: Nowhere in the Constitution does it say that there have to be nine Supreme Court justices. That one doesn't even take a constitutional amendment. It just takes a readiness to set up a court that fits this country.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo26h6gtao2u",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:32:52.643+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aa679648dfdb",
-   "title": "Trump Chucks His Staff Under the Bus Over Losing Endorsement: ‘If I Had Been Given the Proper Information…’",
-   "link": "https://www.mediaite.com/media/news/trump-chucks-his-staff-under-the-bus-over-losing-endorsement-if-i-had-been-given-the-proper-information/",
-   "summary": "Trump threw his staff under the bus over a losing endorsement, claiming he would not have made the same decision if \"given the proper information.\" The post Trump Chucks His Staff Under the Bus Over Losing Endorsement: ‘If I Had Been Given the Proper Information…’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:26:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0f4212797e1e",
-   "title": "Serena Williams’s Epic Tennis Comeback Cut Short — For Now",
-   "link": "https://www.mediaite.com/media/sports/serena-williamss-tennis-epic-comeback-cut-short-for-now/",
-   "summary": "Serena Williams's highly-anticipated return to tennis was cut short after her doubles partner was injured and unable to continue the tournament. The post Serena Williams’s Epic Tennis Comeback Cut Short — For Now first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:21:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "999c2725ac71",
-   "title": "It is very funny that he used the phrase \"peace in our time\" that is most associated with Neville Chamberlain's failed appeasement at Munch in 1938.",
-   "link": "https://bsky.app/profile/mattortega.com/post/3mo25ore46d2g",
-   "summary": "",
-   "source": "@mattortega",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:19:13.074+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "154327b28fd6",
-   "title": "Do my Republican colleagues also \"love\" inflation? I assume so since they continue to vote to protect Trump's tariffs and to continue Trump's war with Iran.",
-   "link": "https://bsky.app/profile/murray.senate.gov/post/3mo25my5iqc2z",
-   "summary": "",
-   "source": "@murray",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:18:13.772+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "ff6e71835421",
-   "title": "Rep. Haridopolos: \"I credit the president. He held firm and made sure we have peace in our time.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo25kjrrwp2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:16:51.535+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "53a2ed0c7680",
-   "title": "The Knicks are the (only) talk of the town",
-   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/11/the-knicks-are-the-only-talk-of-the-town-00959617",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-11T21:15:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "965875bf24b6",
-   "title": "Nomination and Withdrawal Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
-   "summary": "NOMINATION SENT TO THE SENATE: Walter Clayton, of New York, to be Director of National Intelligence, vice Tulsi Gabbard. WITHDRAWAL SENT TO THE SENATE: Walter Clayton, of New York, to be United States Attorney for the Southern District of New York for the term of four years. The post Nomination and Withdrawal Sent to the Senate appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T21:03:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "965875bf24b6",
-   "title": "Nomination and Withdrawal Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
-   "summary": "NOMINATION SENT TO THE SENATE: Walter Clayton, of New York, to be Director of National Intelligence, vice Tulsi Gabbard. WITHDRAWAL SENT TO THE SENATE: Walter Clayton, of New York, to be United States Attorney for the Southern District of New York for the term of four years. The post Nomination and Withdrawal Sent to the Senate appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-11T21:03:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "16d0912acef0",
-   "title": "Enormous etchings of the numerals \"86 47\" have appeared on the ‌grounds of the National ‌Mall.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo24mv4mxc2j",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T21:00:16.858+00:00",
    "iran_topic": false
   }
  ]
