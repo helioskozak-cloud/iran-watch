@@ -1,116 +1,116 @@
 {
- "generated": "2026-06-12T18:31:02.105880+00:00",
+ "generated": "2026-06-12T20:37:45.380149+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 87.32,
-   "change": -3.06,
-   "change_pct": -3.39,
+   "price": 86.77,
+   "change": -3.61,
+   "change_pct": -3.99,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
-    87.31999969482422
+    86.7699966430664
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 84.92,
-   "change": -2.79,
-   "change_pct": -3.18,
+   "price": 84.24,
+   "change": -3.47,
+   "change_pct": -3.96,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.91999816894531
+    84.23999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4252.2,
-   "change": 161.9,
-   "change_pct": 3.96,
+   "price": 4235.5,
+   "change": 145.2,
+   "change_pct": 3.55,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4252.2001953125
+    4235.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.75,
-   "change": -0.11,
-   "change_pct": -0.11,
+   "price": 99.77,
+   "change": -0.09,
+   "change_pct": -0.09,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.74600219726562
+    99.77200317382812
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7427.08,
-   "change": 32.78,
-   "change_pct": 0.44,
+   "price": 7431.46,
+   "change": 37.16,
+   "change_pct": 0.5,
    "spark": [
     7405.72998046875,
     7386.64990234375,
     7266.990234375,
     7394.2998046875,
-    7427.080078125
+    7431.4599609375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 126.16,
-   "change": -2.67,
-   "change_pct": -2.07,
+   "price": 125.43,
+   "change": -3.4,
+   "change_pct": -2.64,
    "spark": [
     135.14999389648438,
     131.3000030517578,
     134.3000030517578,
     128.8300018310547,
-    126.16000366210938
+    125.43000030517578
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.31,
-   "change": -1.13,
-   "change_pct": -5.81,
+   "price": 17.68,
+   "change": -1.76,
+   "change_pct": -9.05,
    "spark": [
     18.920000076293945,
     19.8700008392334,
     22.219999313354492,
     19.440000534057617,
-    18.309999465942383
+    17.68000030517578
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.11,
-   "change": 0.03,
-   "change_pct": 0.84,
+   "price": 3.14,
+   "change": 0.05,
+   "change_pct": 1.59,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.11299991607666
+    3.135999917984009
    ]
   }
  },
@@ -221,6 +221,13 @@
  ],
  "incidents": [
   {
+   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
+   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
+   "source": "Press TV",
+   "published": "2026-06-12T20:37:01.352092+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US-Iran deal to include dismantling of Iranian nuclear program, US official says",
    "link": "https://www.jpost.com/international/article-899228",
    "source": "Jerusalem Post",
@@ -228,10 +235,10 @@
    "severity": "medium"
   },
   {
-   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
-   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
-   "source": "Press TV",
-   "published": "2026-06-12T18:30:13.480835+00:00",
+   "title": "USNI News Western Pacific Pulse: June 12, 2026",
+   "link": "https://news.usni.org/2026/06/12/usni-news-western-pacific-pulse-june-12-2026",
+   "source": "USNI News",
+   "published": "2026-06-12T19:08:47+00:00",
    "severity": "info"
   },
   {
@@ -317,13 +324,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-12T09:51:11+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "India summons US diplomat second time in 2 days over strike on tanker",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u3qg96/india_summons_us_diplomat_second_time_in_2_days/",
-   "source": "r/worldnews",
-   "published": "2026-06-12T09:29:45+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -337,7 +337,7 @@
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-12T18:30:13.480835+00:00",
+     "published": "2026-06-12T20:37:01.352092+00:00",
      "severity": "info"
     },
     {
@@ -387,6 +387,356 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "af0b62e5fd6c",
+   "title": "House Republican on Fox News Labels Jasmine Crockett a ‘Race-Baiting Thug’",
+   "link": "https://www.mediaite.com/media/tv/house-republican-on-fox-news-labels-jasmine-crockett-a-race-baiting-thug/",
+   "summary": "During a Friday appearance on Fox News, Rep. Brandon Gill (R-TX) labeled Rep. Jasmine Crockett (D-TX) a \"race-baiting thug\" over her defense of Karmelo Anthony, the Texas teenager who filed a notice of appeal this week after being convicted of murder. The post House Republican on Fox News Labels Jasmine Crockett a ‘Race-Baiting Thug’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:35:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6e55e27a3a5f",
+   "title": "Freedom 250’s fair on National Mall highlights conservative groups",
+   "link": "https://www.politico.com/news/2026/06/12/freedom-250-national-mall-fair-conservative-groups-00960904",
+   "summary": "In May, several musical artists dropped out of planned performances at the fair after learning of its ties to Trump.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T20:30:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c15d4ee2be5c",
+   "title": "Trump keeps extending the Iran war. Republicans are losing patience.",
+   "link": "https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925",
+   "summary": "GOP strategists and county chairs say the Trump administration must exit by Labor Day — or it could spell trouble for the midterms.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T20:29:56+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4d0f3a8ecab4",
+   "title": "BREAKING: Trump DOJ Approves Paramount’s Acquisition of Warner Bros.",
+   "link": "https://www.mediaite.com/media/news/breaking-trump-doj-approves-paramounts-acquisition-of-warner-bros/",
+   "summary": "Donald Trump's Department of Justice has approved Paramount's $111 billion acquisition of Warner Bros. Discovery, the parent company of CNN and HBO Max. The post BREAKING: Trump DOJ Approves Paramount’s Acquisition of Warner Bros. first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:28:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f93d9f2c2d94",
+   "title": "America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
+   "summary": "On June 12, 1776, Virginia unanimously proclaimed the Virginia Declaration of Rights—the first official declaration of individual liberties in the American Colonies and one of the most consequential documents in the history of human freedom. &#160;Its immortal truths inspired both the Declaration of Independence and the Constitution, forever shaping the destiny of our Republic. As [&#8230;] The post America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T20:21:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f1d102fb116",
+   "title": "Get rid of your electric vehicle because gas prices are rising! Doug Burgum",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mo4kkh3v6k2y",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-12T20:14:46.907+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "62fc193e79fa",
+   "title": "UFC Commentator Slams Dana White For Reviving Trump’s Reputation Post Jan 6",
+   "link": "https://www.mediaite.com/media/news/ufc-commentator-slams-dana-white-for-reviving-trumps-reputation-post-jan-6/",
+   "summary": "Luke Thomas said the weekend's White House octagon events are serving as payback for UFC head Dana White, who revived Donald Trump's reputation. The post UFC Commentator Slams Dana White For Reviving Trump’s Reputation Post Jan 6 first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:08:53+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c2f387cbf96e",
+   "title": "‘We Need Some Relief’: GOP Senators Warn Trump Economic Fallout From Iran Could Cost Votes",
+   "link": "https://www.mediaite.com/media/tv/we-need-some-relief-gop-senators-warn-trump-economic-fallout-from-iran-could-cost-votes/",
+   "summary": "During a CNN montage that aired on Friday, three Republican senators warned President Donald Trump that the economic fallout from his war with Iran is bound to cost the GOP votes in the 2026 midterms and beyond. The post ‘We Need Some Relief’: GOP Senators Warn Trump Economic Fallout From Iran Could Cost Votes first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T20:03:58+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "27412e94d6c5",
+   "title": "Pete Buttigieg Floats Overhaul of ‘Rogue’ Supreme Court: Doesn’t ‘Have to be Nine’",
+   "link": "https://www.mediaite.com/media/news/pete-buttigieg-floats-overhaul-of-rogue-supreme-court-doesnt-have-to-be-nine/",
+   "summary": "Buttigieg floated an overhaul of what he described as a “rogue” Supreme Court and insisted that the court could be easily reformed to better “fit this country.” The post Pete Buttigieg Floats Overhaul of ‘Rogue’ Supreme Court: Doesn’t ‘Have to be Nine’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T19:58:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "81fe897a59b9",
+   "title": "‘You Better Back It the F*ck Up!’ Dan Bongino Produces Texts Blowing Up Wild Tucker Carlson Accusation",
+   "link": "https://www.mediaite.com/media/news/you-better-back-it-the-fck-up-dan-bongino-produces-texts-blowing-up-wild-tucker-carlson-accusation/",
+   "summary": "On Friday's edition of his show, Bongino unleashed on Carlson while producing text messages that appeared to blow up his narrative. The post ‘You Better Back It the F*ck Up!’ Dan Bongino Produces Texts Blowing Up Wild Tucker Carlson Accusation first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T19:54:43+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6669d45a0339",
+   "title": "A deal with Iran is near but not final, senior US official says",
+   "link": "https://www.politico.com/news/2026/06/12/a-deal-with-iran-is-near-but-not-final-senior-us-official-says-00960804",
+   "summary": "The senior US official put the chance of success for a near-term deal at 80 to 85 percent but said the nuclear details will take months to materialize.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-12T19:53:14+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4e22aa9c89ae",
+   "title": "Trump believes that we will win",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-usmnt-message-support-00960757",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T19:51:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "77231082fa25",
+   "title": "‘Straight Up Piece of Sh*t’: Mark Levin Rages At Piers Morgan Over Potential Dem Midterm Wins",
+   "link": "https://www.mediaite.com/media/straight-up-piece-of-sht-mark-levin-rages-at-piers-morgan-over-potential-dem-midterm-wins/",
+   "summary": "Piers Morgan and Mark Levin exchanged shots, each placing blame on the other if Democrats end up in control of the House after the midterm elections. The post ‘Straight Up Piece of Sh*t’: Mark Levin Rages At Piers Morgan Over Potential Dem Midterm Wins first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T19:50:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "716f3ad5a0b1",
+   "title": "No need to examine and defend the details. Whatever Trump agrees to will be a \"good deal.\" Problem solved. It's a cult.",
+   "link": "https://bsky.app/profile/larryglickman.bsky.social/post/3mo4irl7ths2o",
+   "summary": "",
+   "source": "@larryglickman",
+   "category": "trump_bsky",
+   "published": "2026-06-12T19:42:58.626+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bcb72e9d70b4",
+   "title": "Burgum: \"California was dependent on oil coming from the Strait of Hormuz. That was self-inflicted. They are gonna have high gas prices. You can thank Gavin Newsom for that.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo4ipcr4rx2v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T19:41:42.595+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dc9952904f53",
+   "title": "Burgum: \"We've got the negotiator in chief, the dealmaker in chief, President Trump. We know he's not gonna agree to a bad deal. Whatever deal is reached is gonna be a good deal.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo4igjel4w26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T19:36:47.453+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bbf4315daaea",
+   "title": "Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/",
+   "summary": "PROTECTING CRITICAL MILITARY AND INTELLIGENCE MISSIONS:&#160;Today, President Donald J. Trump signed a National Security Presidential Memorandum to bolster the cybersecurity of America’s National Security Systems (NSS) and modernize NSS governance to meet the cyber challenges of 2026 and beyond.&#160; DEFENDING NATIONAL SECURITY SYSTEMS ACROSS THE FEDERAL GOVERNMENT:&#160;President Trump is prioritizing these foundational systems to guarantee [&#8230;] The post Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats appeared first on ",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T19:36:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "57007e9838c1",
+   "title": "JD Vance Rips Critics Who Say You ‘Can’t Trust’ Iran — After Trump Does Exactly That",
+   "link": "https://www.mediaite.com/politics/jd-vance-rips-people-who-say-you-cant-trust-iran-after-trump-slammed-dishonorable-leadership/",
+   "summary": "\"Second, people who say you can't trust a word said by the IRGC who apparently believe anonymously sourced social media posts.\" The post JD Vance Rips Critics Who Say You ‘Can’t Trust’ Iran — After Trump Does Exactly That first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T19:35:10+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9eec35720d9c",
+   "title": "Judge rejects lawsuit to stop UFC Freedom 250 fight at the White House",
+   "link": "https://www.politico.com/news/2026/06/12/judge-blocks-ufc-event-lawsuit-00960727",
+   "summary": "Stopping the event, scheduled for Sunday, would carry enormous costs, the judge noted.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-12T19:33:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d3ffea644f45",
+   "title": "There may not actually be a huge debate among Democrats over public policy; there's an emerging consensus re the need for post-Trump structural reforms. The cleavage may turn out to be about whether to mirror Trumpers' \"dirtbag\" approach to politics, or, instead, promise a moral repair of the nation",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mo4hvnol3s2y",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-12T19:27:21.683+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ea8814b2a2f",
+   "title": "S. 254 Signed into Law",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/",
+   "summary": "On Friday, June 12, 2026, the President signed into law: S. 254, the &#8220;Alaska&#8217;s Right to Ivory Sales and Tradition Act&#8221; or the &#8220;ARTIST Act,&#8221; which amends the Marine Mammal Protection Act of 1972 to prohibit States from enacting State-level prohibitions on the interstate commerce, importation, sale, transfer, trade, barter, or possession of marine mammal [&#8230;] The post S. 254 Signed into Law appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T19:26:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "231267c584e4",
+   "title": "National Homeownership Month, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION During National Homeownership Month, my Administration recommits to making housing more affordable so that young Americans and hardworking families can raise children, build memories, and create a future in a home of their own. For too long, reckless spending, burdensome regulations, and failed housing [&#8230;] The post National Homeownership Month, 2026 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T19:24:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "231267c584e4",
+   "title": "National Homeownership Month, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION During National Homeownership Month, my Administration recommits to making housing more affordable so that young Americans and hardworking families can raise children, build memories, and create a future in a home of their own. For too long, reckless spending, burdensome regulations, and failed housing [&#8230;] The post National Homeownership Month, 2026 appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-12T19:24:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c320f50eb272",
+   "title": "Flag Day and National Flag Week, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 14, 1777, the delegates of the Second Continental Congress adopted a resolution declaring &#8220;that the flag of the United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new Constellation.&#8221; [&#8230;] The post Flag Day and National Flag Week, 2026 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T19:22:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c320f50eb272",
+   "title": "Flag Day and National Flag Week, 2026",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 14, 1777, the delegates of the Second Continental Congress adopted a resolution declaring &#8220;that the flag of the United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new Constellation.&#8221; [&#8230;] The post Flag Day and National Flag Week, 2026 appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-12T19:22:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e5e40cf05d92",
+   "title": "New episode of the PN Pod with me and @paulwaldman.bsky.social is live! We discussed Trump's Art of the Cave in Iran, the deleted Idiocracy scene that is the UFC fight at the White House, war crimes as official US policy, and more. Check it out:",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo4hhgkvyc2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-12T19:19:24.462+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "96a95a0b2bad",
+   "title": "National Security Presidential Memorandum/NSPM-12",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
+   "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF THE INTERIOR THE SECRETARY OF AGRICULTURE THE SECRETARY OF COMMERCE THE SECRETARY OF LABOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT THE SECRETARY OF [&#8230;] The post National Security Presidential Memorandum/NSPM-12 appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-12T19:19:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "96a95a0b2bad",
+   "title": "National Security Presidential Memorandum/NSPM-12",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
+   "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF THE INTERIOR THE SECRETARY OF AGRICULTURE THE SECRETARY OF COMMERCE THE SECRETARY OF LABOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT THE SECRETARY OF [&#8230;] The post National Security Presidential Memorandum/NSPM-12 appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-12T19:19:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a850c71045c7",
+   "title": "The Art of the Cave",
+   "link": "https://www.publicnotice.co/p/the-art-of-the-cave",
+   "summary": "Can Trump sell his loss to Iran as a win?",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-12T19:17:41+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "76c1b97b3d72",
+   "title": "Spencer Pratt Declares ‘War’ In Very Dark Rage Video: ‘No Idea How Bad Things Are About to Get’",
+   "link": "https://www.mediaite.com/media/news/spencer-pratt-declares-war-in-very-dark-rage-video-no-idea-how-bad-things-are-about-to-get/",
+   "summary": "Spencer Pratt, who failed to advance to the November run-offs, released a very dark rage video Friday where he declared \"war\" on LA's status quo. The post Spencer Pratt Declares ‘War’ In Very Dark Rage Video: ‘No Idea How Bad Things Are About to Get’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T19:14:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "663cbd4f0a23",
+   "title": "‘We’re F*cked’: Joe Rogan Says He’d Never Approve of Trump’s WH Fights If He Ran UFC",
+   "link": "https://www.mediaite.com/media/podcasts/were-fcked-joe-rogan-says-hed-never-approve-of-trumps-wh-fights-if-he-ran-ufc/",
+   "summary": "Joe Rogan declared he would not have approved of the White House UFC fights if he were in charge of the sport — just days before he's set to be at the event. The post ‘We’re F*cked’: Joe Rogan Says He’d Never Approve of Trump’s WH Fights If He Ran UFC first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T18:59:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e653ab9688d1",
+   "title": "‘Show Me Your Phone!’ Hunter Biden Draws Comparisons to Graham Platner In Empathetic Defense",
+   "link": "https://www.mediaite.com/media/podcasts/show-me-your-phone-hunter-biden-draws-comparisons-to-graham-platner-in-empathetic-defense/",
+   "summary": "Coming to the defense of Maine Democratic Senate candidate Graham Platner on California Gov. Gavin Newsom's podcast Friday, Hunter Biden invoked a message of redemption that seemed informed by his own years of personal controversy, telling critics, \"Show me your phone!\" The post ‘Show Me Your Phone!’ Hunter Biden Draws Comparisons to Graham Platner In Empathetic Defense first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T18:56:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "49dc4d0d0a7d",
+   "title": "‘Be Honest, Fat Joe—’ Wolf Blitzer Asks Rap Superstar if He Saw Knicks Miracle Run Coming",
+   "link": "https://www.mediaite.com/media/news/be-honest-fat-joe-wolf-blitzer-asks-rap-superstar-if-he-saw-knicks-miracle-run-coming/",
+   "summary": "CNN anchor Wolf Blitzer asked Fat Joe if he saw the miraculous comeback by the New York Knicks coming and praised the \"unity\" the series has promoted. The post ‘Be Honest, Fat Joe—’ Wolf Blitzer Asks Rap Superstar if He Saw Knicks Miracle Run Coming first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T18:49:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d192405562ed",
+   "title": "How I failed to make it to my first World Cup match",
+   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/world-cup-travel-delays-weather-00960722",
+   "summary": "A wall of thunderstorms kiboshed a POLITICO reporter’s assignment to attend Canada vs. Bosnia.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T18:37:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d977c1a0ad3c",
+   "title": "more yiKKKes",
+   "link": "https://bsky.app/profile/chancethelawyer.bsky.social/post/3mo4eixzrss2e",
+   "summary": "",
+   "source": "@chancethelawyer",
+   "category": "trump_bsky",
+   "published": "2026-06-12T18:26:35.104+00:00",
+   "iran_topic": false
+  },
   {
    "id": "809bd3946cef",
    "title": "Opera Company Demands $17 Million From Kennedy Center in Explosive Lawsuit",
@@ -445,6 +795,16 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-12T17:50:18.829+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "00c4d54cb0db",
+   "title": "\"Like Talarico, some prospective Dem presidential candidates are signaling they intend to run campaigns based on messages of curing the moral rot that Trumpism has wrought upon the nation.\" @davidrlurie.com over at @atrupar.com's joint: www.publicnotice.co/p/democrats-...",
+   "link": "https://bsky.app/profile/gregsargent.bsky.social/post/3mo4ce5rlhk2k",
+   "summary": "",
+   "source": "@gregsargent",
+   "category": "trump_bsky",
+   "published": "2026-06-12T17:48:05.870+00:00",
    "iran_topic": false
   },
   {
@@ -625,366 +985,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-12T16:20:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "58a1886250b5",
-   "title": "BREAKING: US and Iran Have Reached ‘Final, Agreed Upon’ Peace Deal, Per Pakistan",
-   "link": "https://www.mediaite.com/media/news/just-in-iranian-foreign-minister-announces-deal-with-trump-has-never-been-closer/",
-   "summary": "Iran's foreign Minister Seyed Abbas Araghchi announced on X Friday that \"The Islamabad Memorandum of Understanding\" is close. The post BREAKING: US and Iran Have Reached ‘Final, Agreed Upon’ Peace Deal, Per Pakistan first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T16:15:47+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "33106e7c4a10",
-   "title": "Trump: \"Re-gilding of the massive Arts of War sculptures, located between The Lincoln Memorial and site of The Triumphal Arch, rapidly continues. The sculptures will be fully regilded by July 3. The photos were taken yesterday. The Gilders’ Studio has flown in Gilders from around the Country!\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo44wb6c5c2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:10:50.959+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "08afc7473e71",
-   "title": "Sam Bankman-Fried’s Crypto Fraud Appeal Denied, Days After His Plea for Trump Pardon",
-   "link": "https://www.mediaite.com/media/news/sam-bankman-frieds-crypto-fraud-appeal-denied-days-after-his-plea-for-trump-pardon/",
-   "summary": "Convicted crypto fraudster Sam Bankman-Fried's attempt to have his conviction overturned has been denied by a federal appeals court. The post Sam Bankman-Fried’s Crypto Fraud Appeal Denied, Days After His Plea for Trump Pardon first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T16:10:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c8c74f852ab2",
-   "title": "Husted seems very dim to me",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo44t2eesc2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:09:03.158+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "434095c8844a",
-   "title": "yeah that brown+8 poll is legit",
-   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mo44p2deck2i",
-   "summary": "",
-   "source": "@clearlyashley",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:06:48.906+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1f9f1b2a2fa3",
-   "title": "REPORTER: I'm curious, first of all, do you still think that this war is still going much better than you expected? JON HUSTED: Well, the military aspect of it went very well. The peace aspect has not proven to be as efficient.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo44lzptls2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T16:05:07.604+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3cfe1c7f6ae2",
-   "title": "Imagine Hitler retweeting Stalin",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo442ejdzc2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T15:55:14.941+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "82fe2bf2f86d",
-   "title": "Conservative Radio Host Blasts Trump for ‘Beclowning’ Himself on Iran",
-   "link": "https://www.mediaite.com/politics/conservative-radio-host-blasts-trump-for-beclowning-himself-on-iran/",
-   "summary": "“The President should be embarrassed. Instead, he’ll be mad at everyone except the man in his mirror.” The post Conservative Radio Host Blasts Trump for ‘Beclowning’ Himself on Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:51:02+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "aca0d3bf0ec0",
-   "title": "‘No End to the Grift!’ Ana Navarro Goes Off on Trump’s $12K Commemorative UFC Coin",
-   "link": "https://www.mediaite.com/media/news/no-end-to-the-grift-ana-navarro-goes-off-on-trumps-12k-commemorative-ufc-coin/",
-   "summary": "Ana Navarro was gobsmacked that Donald Trump is selling a gold UFC coin with his face on it that's worth far less than its $12,000 price tag. The post ‘No End to the Grift!’ Ana Navarro Goes Off on Trump’s $12K Commemorative UFC Coin first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:46:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c6fd2dfd3736",
-   "title": "Fox’s Brian Kilmeade Casts Doubt on Trump’s Supposed New Deal With Iran: ‘Too Vague for Me to Even Comment On’",
-   "link": "https://www.mediaite.com/media/tv/foxs-brian-kilmeade-casts-doubt-on-trumps-supposed-new-deal-with-iran-too-vague-for-me-to-even-comment-on/",
-   "summary": "Fox News host Brian Kilmeade cast fresh doubt on President Trump's new peace deal on Friday, calling it \"too vague for me to even comment on.\" The post Fox’s Brian Kilmeade Casts Doubt on Trump’s Supposed New Deal With Iran: ‘Too Vague for Me to Even Comment On’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:37:33+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f61554a8cb64",
-   "title": "‘Democrats Are Missing the Mark’: DCCC Chair Grilled Over Intraparty Turmoil on CNN",
-   "link": "https://www.mediaite.com/media/tv/democrats-are-missing-the-mark-dccc-chair-grilled-over-intraparty-turmoil-on-cnn/",
-   "summary": "CNN's Kate Bolduan grilled Democratic Congressional Campaign Committee Chair Suzan DelBene (D-WA) about intraparty turmoil on Friday. The post ‘Democrats Are Missing the Mark’: DCCC Chair Grilled Over Intraparty Turmoil on CNN first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:15:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "31c1c80a2ee1",
-   "title": "CNN’s Abby Phillip Laughs in Trump Ally’s Face for Claiming ‘Men Are Having Their Moment’",
-   "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-laughs-in-trump-allys-face-for-claiming-men-are-having-their-moment/",
-   "summary": "CNN anchor Abby Phillip laughed out loud when Trump ally Carla Sands claimed that \"Men are having their moment\" after getting \"the short shrift in the US.\" The post CNN’s Abby Phillip Laughs in Trump Ally’s Face for Claiming ‘Men Are Having Their Moment’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:07:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d9bbb900be0",
-   "title": "DC Reflecting Pool Growing Algae Just Days After Trump’s $14M Renovation",
-   "link": "https://www.mediaite.com/media/news/dc-reflecting-pool-growing-algae-just-days-after-trumps-14m-renovation/",
-   "summary": "The Reflecting Pool has already begun to grow algae just days after President Donald Trump's major renovation was officially complete. The post DC Reflecting Pool Growing Algae Just Days After Trump’s $14M Renovation first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T15:05:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4e4e363bc921",
-   "title": "NEWSMAX: A new poll shows the president losing almost half of his support from independents. Could this be trouble for November? RNC CHAIR JOE GRUTERS: No. I don't necessarily believe any of those polls.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3z6huxfd22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T15:03:51.405+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb962e17e775",
-   "title": "BREAKING: Judge Brinkema is giving the Trump admin one week to submit a sworn statement — signed by the Attorney General and Treasury Secretary — that the slush fund will not go forward.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo3yxtfuss2t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T15:00:08.671+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ad7f9831bca1",
-   "title": "Reuters: US JUDGE INDEFINITELY BLOCKS TRUMP'S ANTI-WEAPONIZATION FUND",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo3yqdpml22t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:55:57.333+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "02d951d9b840",
-   "title": "22 medical specialists assessed Trump as part of his latest checkup. That figure is nearly double the number of specialists who assessed Trump for his past medical checkups as president. It's also the most medical specialists to assess a president for a single visit — ever.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo3y5hhlnc22",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:45:23.729+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e8e4111ae301",
-   "title": "SpaceX Expected to Be Worth $1.77T as Elon Musk’s Company Goes Public in the Largest IPO in History",
-   "link": "https://www.mediaite.com/media/news/spacex-expected-to-be-worth-1-77t-as-elon-musks-company-goes-public-in-the-largest-ipo-in-history/",
-   "summary": "Elon Musk's SpaceX went public Friday morning in the largest initial public offering in history that is expected to make him the world's first trillionaire. The post SpaceX Expected to Be Worth $1.77T as Elon Musk’s Company Goes Public in the Largest IPO in History first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T14:45:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f5f7b68c9695",
-   "title": "REPORTER: At what point do you think the Senate needs to weigh in with a war powers vote? Ground troops on Kharg island? HUSTED: I want it to come to an end but Iran is the aggressor. It is them.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3xq6d4uk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:37:57.939+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "93f4255f344e",
-   "title": "REPORTER: Isn't stopping the war in Iran part of the solution for prices? HUSTED: Yes. Iran needs to stop the war.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3xgsq7mk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:32:43.795+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "5a9283f47d59",
-   "title": "I have good news for anyone wanting to end the war in Iraq",
-   "link": "https://bsky.app/profile/tiffanyclay.dev/post/3mo3xdrfjp22u",
-   "summary": "",
-   "source": "@tiffanyclay",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:31:01.733+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8f8e49c6d24a",
-   "title": "Husted: \"That's why I'm for bringing the war-- conflict with Iraq to an end as soon as possible\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3xb5muh22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T14:29:33.893+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3378b267c64a",
-   "title": "GOP Senator Tells Fox News He’s ‘Skeptical’ of Trump’s Iran Deal: ‘I Hope That We’re Not Going to Give Up Too Much’",
-   "link": "https://www.mediaite.com/media/tv/gop-senator-tells-fox-news-hes-skeptical-of-trumps-iran-deal-i-hope-that-were-not-going-to-give-up-too-much/",
-   "summary": "Senator Kevin Cramer (R-ND) expressed skepticism about President Donald Trump's potential agreement with Iran on Friday morning. The post GOP Senator Tells Fox News He’s ‘Skeptical’ of Trump’s Iran Deal: ‘I Hope That We’re Not Going to Give Up Too Much’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T14:12:54+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "db96293f8ae5",
-   "title": "Watch: Thousands protest Mexican President Claudia Sheinbaum",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/mexico-protests-claudia-sheinbaum-00960440",
-   "summary": "Protesters marched toward the historic Azteca Stadium and began throwing cones, rocks and plant pots into the security perimeter as the match kicked off.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T14:11:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3a94baf86753",
-   "title": "Pentagon Releases New Batch of UFO Files Including New Mystery Orb Images, Videos",
-   "link": "https://www.mediaite.com/media/news/pentagon-releases-new-batch-of-ufo-files-including-new-mystery-orb-images-videos/",
-   "summary": "The Pentagon released a third batch of documents related to UFOs on Friday, which include images and videos of mysterious orbs in the sky. The post Pentagon Releases New Batch of UFO Files Including New Mystery Orb Images, Videos first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T14:07:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0798653bdbdf",
-   "title": "Trump Says Iran Leaked ‘Fake’ Details of Deal, Calls Iran’s Leaders ‘Dishonorable People’",
-   "link": "https://www.mediaite.com/media/news/breaking-trump-says-iran-leaked-fake-details-of-deal-calls-irans-leaders-dishonorable-people/",
-   "summary": "President Trump released a statement on social media on Friday morning saying that the details Iranian state media leaked of a purported deal were \"Fake News.\" The post Trump Says Iran Leaked ‘Fake’ Details of Deal, Calls Iran’s Leaders ‘Dishonorable People’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T13:59:35+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "0990545cf577",
-   "title": "Trump: \"The terms that Iran leaked out to the Fake News have NOTHING to do with the terms that were agreed to, in writing. What they said, including their weak and pathetic statement on having a deal, bears no relation to the truth.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3umi7h522l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T13:42:12.861+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "dd329be9bcbf",
-   "title": "\"Trump’s suggestion that he's a secular messiah was not new and indeed is the thesis of the Qanon movement. But his move into overt apostasy was a measure of how far he was willing to go in pushing boundaries with even the evangelical Christians who had been key to his own political resurrection.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo3ufj35us2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T13:38:18.888+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46d9ea229907",
-   "title": "One annoying thing about Aaron's clips is how he transcribes what they said and you think \"that can't really be what they said, Aaron must've made a mistake\" so you feel obliged as a good citizen to listen to it yourself and inevitably Aaron was right, that's really what they said.",
-   "link": "https://bsky.app/profile/maxkennerly.bsky.social/post/3mo3uaaqtl22r",
-   "summary": "",
-   "source": "@maxkennerly",
-   "category": "trump_bsky",
-   "published": "2026-06-12T13:35:22.389+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b354dd6a02fc",
-   "title": "Bosnia beat Italy. Utica never recovered.",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/bosnia-italy-utica-new-york-00960249",
-   "summary": "A refugee community in upstate New York gets ready to root for the home team.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T13:29:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "875c87bb8298",
-   "title": "FLAG WSJ: Trump and his allies have discussed pushing lawmakers to pass a resolution aimed at voiding his first-term impeachments, according to people familiar with the matter. The resolution would allow Trump to claim a symbolic victory. It would have no legal significance.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo3rglfbyc2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T12:45:13.646+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e95cb8787bfb",
-   "title": "Not another political World Cup",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/not-another-political-world-cup-00960302",
-   "summary": "Headaches abound for FIFA as the biggest sporting event in the world kicks off in North America.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T12:07:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "90b531062ada",
-   "title": "Will Democrats become the party of faith?",
-   "link": "https://www.publicnotice.co/p/democrats-faith-2028",
-   "summary": "The GOP's debasement presents an opportunity.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-12T10:18:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7588a0d3554d",
-   "title": "The nation’s cartoonists on the week in politics",
-   "link": "https://www.politico.com/gallery/2026/06/12/the-nations-cartoonists-on-the-week-in-politics-00960253",
-   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T09:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "05428a90c9fb",
-   "title": "BREAKING MS NOW: FBI agents on Thursday raided the Cleveland offices of the Ohio Organizing Collaborative — a pro-democracy organization that helps register voters in that state, according to three people briefed on the search.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo2wvaojyc2p",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T04:50:14.702+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff389c9611fb",
-   "title": "‘There needs to be change’: Voters in the major UK by-election are angry",
-   "link": "https://www.politico.com/news/2026/06/12/uk-makerfield-election-burnham-kenyon-issues-00959685",
-   "summary": "Residents are deeply frustrated with politics — and some would rather burn the system down than back Labour candidate Andy Burnham to challenge Prime Minister Keir Starmer.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T04:01:00+00:00",
    "iran_topic": false
   }
  ]
