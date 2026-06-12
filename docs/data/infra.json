@@ -1,56 +1,60 @@
 {
- "generated": "2026-06-12T03:41:26.239199+00:00",
+ "generated": "2026-06-12T08:24:34.727560+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 89.28,
-   "change": -3.82,
-   "change_pct": -4.1,
+   "price": 86.73,
+   "change": -3.65,
+   "change_pct": -4.04,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
-    89.27999877929688
+    90.37999725341797,
+    86.7300033569336
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 86.64,
-   "change": -3.39,
-   "change_pct": -3.77,
+   "price": 84.29,
+   "change": -3.42,
+   "change_pct": -3.9,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
-    86.63999938964844
+    87.70999908447266,
+    84.29000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4222.8,
-   "change": 114.6,
-   "change_pct": 2.79,
+   "price": 4223.7,
+   "change": 133.4,
+   "change_pct": 3.26,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
-    4222.7998046875
+    4090.300048828125,
+    4223.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.77,
-   "change": -0.18,
-   "change_pct": -0.18,
+   "price": 99.8,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
-    99.76599884033203
+    99.86000061035156,
+    99.7979965209961
    ]
   },
   "^GSPC": {
@@ -84,28 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.44,
-   "change": -2.78,
-   "change_pct": -12.51,
+   "price": 18.88,
+   "change": -0.56,
+   "change_pct": -2.88,
    "spark": [
-    21.510000228881836,
     18.920000076293945,
     19.8700008392334,
     22.219999313354492,
-    19.440000534057617
+    19.440000534057617,
+    18.8799991607666
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.08,
-   "change": -0.11,
-   "change_pct": -3.45,
+   "price": 3.05,
+   "change": -0.04,
+   "change_pct": -1.2,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
-    3.075000047683716
+    3.0869998931884766,
+    3.049999952316284
    ]
   }
  },
@@ -216,6 +221,48 @@
  ],
  "incidents": [
   {
+   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
+   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
+   "source": "Press TV",
+   "published": "2026-06-12T08:23:47.169604+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
+   "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
+   "source": "Press TV",
+   "published": "2026-06-12T08:23:47.164467+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+   "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-12T07:49:29+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
+   "link": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
+   "source": "War on the Rocks",
+   "published": "2026-06-12T07:30:38+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Three Indian sailors killed in US strike on oil tanker",
+   "link": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-12T05:58:57+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Trump says Iran war deal close as Strait of Hormuz tensions linger",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger",
+   "source": "Al-Monitor",
+   "published": "2026-06-12T05:36:44+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "US's Wednesday strikes on Iran damaged drinking water facility near Strait of Hormuz - report",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899190",
    "source": "Jerusalem Post",
@@ -223,21 +270,21 @@
    "severity": "info"
   },
   {
-   "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
-   "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
-   "source": "Press TV",
-   "published": "2026-06-12T03:40:46.945579+00:00",
+   "title": "Trump says Iran war deal close as Strait of Hormuz tensions linger reut.rs/443hLEW",
+   "link": "https://bsky.app/profile/reuters.com/post/3mo2z573bbh24",
+   "source": "@reuters",
+   "published": "2026-06-12T05:30:28+00:00",
    "severity": "info"
   },
   {
-   "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
-   "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
-   "source": "Press TV",
-   "published": "2026-06-12T03:40:46.940689+00:00",
+   "title": "US confirms third strike on Indian-crewed tankers this week",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-confirms-third-strike-indian-crewed-tankers-week",
+   "source": "Al-Monitor",
+   "published": "2026-06-12T04:36:38+00:00",
    "severity": "info"
   },
   {
-   "title": "Netanyahu reportedly not given heads-up about Trump’s Iran deal announcement, was caught off guard",
+   "title": "Trump claims US has ‘ended the war’ with Iran despite Tehran saying no decision reached on deal",
    "link": "https://www.timesofisrael.com/liveblog-june-12-2026/",
    "source": "Times of Israel",
    "published": "2026-06-11T22:43:48+00:00",
@@ -277,77 +324,35 @@
    "source": "@reuters",
    "published": "2026-06-11T20:15:18+00:00",
    "severity": "info"
-  },
-  {
-   "title": "IRGC aerospace cmdr.: We will turn region into hell for those making Strait of Hormuz insecure",
-   "link": "https://presstv.ir/Detail/2026/06/11/770225/irgc-aerospace-commander-will-turn-region-hell-those-making-strait-hormuzinsecure",
-   "source": "Press TV",
-   "published": "2026-06-11T20:13:02.640551+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran’s top military command orders closure of Strait of Hormuz to all vessels after fresh US attacks",
-   "link": "https://presstv.ir/Detail/2026/06/10/770220/Iran-closes-Strait-of-Hormuz-United-States-attacks-Hormozgan",
-   "source": "Press TV",
-   "published": "2026-06-11T20:13:02.640341+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Trump says great settlement on Iran to be signed soon and strait will open",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-great-settlement-iran-be-signed-soon-and-strait-will-open",
-   "source": "Al-Monitor",
-   "published": "2026-06-11T20:02:07+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Elon Musk’s Companies Could Be Attacked By Iran, State Media Reports",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u365rn/elon_musks_companies_could_be_attacked_by_iran/",
-   "source": "r/worldnews",
-   "published": "2026-06-11T17:50:10+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IRGC Navy warns any vessel approaching Strait of Hormuz will face 'decisive action'",
-   "link": "https://presstv.ir/Detail/2026/06/10/770222/irgc-navy-warns-vessel-approaching-strait-hormuz-decisive-action-us-aggression",
-   "source": "Press TV",
-   "published": "2026-06-11T17:46:59.436290+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "CENTCOM releases video, Guinea-Bissau tanker strike 06/11/2026",
-   "link": "https://www.reddit.com/r/CombatFootage/comments/1u33rr3/centcom_releases_video_guineabissau_tanker_strike/",
-   "source": "r/CombatFootage",
-   "published": "2026-06-11T16:23:14+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
+   "status": "ELEVATED",
    "incident_count": 8,
    "recent": [
-    {
-     "title": "US's Wednesday strikes on Iran damaged drinking water facility near Strait of Hormuz - report",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899190",
-     "source": "Jerusalem Post",
-     "published": "2026-06-12T05:34:40+00:00",
-     "severity": "info"
-    },
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-12T03:40:46.945579+00:00",
+     "published": "2026-06-12T08:23:47.169604+00:00",
      "severity": "info"
     },
     {
      "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
      "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
      "source": "Press TV",
-     "published": "2026-06-12T03:40:46.940689+00:00",
+     "published": "2026-06-12T08:23:47.164467+00:00",
      "severity": "info"
+    },
+    {
+     "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+     "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-12T07:49:29+00:00",
+     "severity": "critical"
     }
    ]
   },
@@ -375,6 +380,36 @@
  ],
  "wh_statements": [
   {
+   "id": "05428a90c9fb",
+   "title": "BREAKING MS NOW: FBI agents on Thursday raided the Cleveland offices of the Ohio Organizing Collaborative — a pro-democracy organization that helps register voters in that state, according to three people briefed on the search.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo2wvaojyc2p",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-12T04:50:14.702+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff389c9611fb",
+   "title": "The small-town voters deciding the UK’s future are demanding change, our focus group found",
+   "link": "https://www.politico.com/news/2026/06/12/uk-makerfield-election-burnham-kenyon-issues-00959685",
+   "summary": "Residents are deeply frustrated with politics — and some would rather burn the system down than back Labour candidate Andy Burnham to challenge Prime Minister Keir Starmer.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T04:01:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "138392072e7a",
+   "title": "Lee Zeldin on rising gas prices, energy dominance and AI data centers",
+   "link": "https://www.politico.com/video/2026/06/11/lee-zeldin-on-rising-gas-prices-energy-dominance-and-ai-data-centers-2096933",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-12T03:59:00+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "2c4227df1ea0",
    "title": "‘You Don’t Know Sports!’ Stephen A. Smith Brawls With Sean Hannity Over Whether Trump ‘Disrupted’ the Knicks’ Mojo",
    "link": "https://www.mediaite.com/media/tv/you-dont-know-sports-stephen-a-smith-brawls-with-sean-hannity-over-whether-trump-disrupted-the-knicks-mojo/",
@@ -393,6 +428,16 @@
    "category": "mediaite_all",
    "published": "2026-06-12T02:46:52+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "4c34596af16e",
+   "title": "I do sort of enjoy how AI is this sort of all-purpose proposed solution for everything. \"We're going to use AI to make Fribbles even thicker!\" No you're no. That's not a thing.",
+   "link": "https://bsky.app/profile/glegum.bsky.social/post/3mo2piunjms25",
+   "summary": "",
+   "source": "@glegum",
+   "category": "trump_bsky",
+   "published": "2026-06-12T02:38:03.240+00:00",
+   "iran_topic": false
   },
   {
    "id": "32c60d9cb6e1",
@@ -932,46 +977,6 @@
    "source": "@hunterw",
    "category": "trump_bsky",
    "published": "2026-06-11T20:53:12.876+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "75de0f844081",
-   "title": "The time honored retreat of the racist is to say people like them built the country.",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mo243zwh622s",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:50:51.472+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4a5bb36d0f4",
-   "title": "This shows we don't have real democracy in DC. Legally, Trump can't federalize the District because he doesn't like an election result. But he try. He can interfere with self-governance more than he already has. And just his ability threaten this straight up tyranny semi-credibly is anti-democratic.",
-   "link": "https://bsky.app/profile/dfriedman.bsky.social/post/3mo242hh3r22c",
-   "summary": "",
-   "source": "@dfriedman",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:49:58.540+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "219e222e494c",
-   "title": "Sorry did he just say that wind tower fields were “tens of thousands of miles” large?",
-   "link": "https://bsky.app/profile/reichlinmelnick.bsky.social/post/3mo23wveejc2p",
-   "summary": "",
-   "source": "@reichlinmelnick",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:47:58.913+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bb74131240f8",
-   "title": "There has to be at least a little wall space in the Louvre for this",
-   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mo23n3dur226",
-   "summary": "",
-   "source": "@bgrueskin",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:42:29.623+00:00",
    "iran_topic": false
   }
  ]
