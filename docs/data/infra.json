@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-12T00:00:13.726310+00:00",
+ "generated": "2026-06-12T03:41:26.239199+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 88.73,
-   "change": -4.37,
-   "change_pct": -4.69,
+   "price": 89.28,
+   "change": -3.82,
+   "change_pct": -4.1,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
-    88.7300033569336
+    89.27999877929688
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 86.18,
-   "change": -3.85,
-   "change_pct": -4.28,
+   "price": 86.64,
+   "change": -3.39,
+   "change_pct": -3.77,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
-    86.18000030517578
+    86.63999938964844
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4239.6,
-   "change": 131.4,
-   "change_pct": 3.2,
+   "price": 4222.8,
+   "change": 114.6,
+   "change_pct": 2.79,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
-    4239.60009765625
+    4222.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.73,
-   "change": -0.22,
-   "change_pct": -0.22,
+   "price": 99.77,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
-    99.73300170898438
+    99.76599884033203
    ]
   },
   "^GSPC": {
@@ -99,13 +99,13 @@
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.08,
-   "change": -0.1,
-   "change_pct": -3.27,
+   "change": -0.11,
+   "change_pct": -3.45,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
-    3.0810000896453857
+    3.075000047683716
    ]
   }
  },
@@ -216,10 +216,24 @@
  ],
  "incidents": [
   {
+   "title": "US's Wednesday strikes on Iran damaged drinking water facility near Strait of Hormuz - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899190",
+   "source": "Jerusalem Post",
+   "published": "2026-06-12T05:34:40+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-11T23:59:35.131434+00:00",
+   "published": "2026-06-12T03:40:46.945579+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
+   "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
+   "source": "Press TV",
+   "published": "2026-06-12T03:40:46.940689+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "r/CombatFootage",
    "published": "2026-06-11T16:23:14+00:00",
    "severity": "high"
-  },
-  {
-   "title": "America Says Strait of Hormuz Traffic Is Rising. On Wednesday, the Number of Ships Getting Through Hit Zero",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u33ox5/america_says_strait_of_hormuz_traffic_is_rising/",
-   "source": "r/worldnews",
-   "published": "2026-06-11T16:20:18+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Hormuz Shut, How US Outsmarted Iran To Move Millions Of Oil Barrels",
-   "link": "https://www.reddit.com/r/MiddleEastNews/comments/1u33dyj/hormuz_shut_how_us_outsmarted_iran_to_move/",
-   "source": "r/MiddleEastNews",
-   "published": "2026-06-11T16:09:08+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -329,24 +329,24 @@
    "incident_count": 8,
    "recent": [
     {
+     "title": "US's Wednesday strikes on Iran damaged drinking water facility near Strait of Hormuz - report",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899190",
+     "source": "Jerusalem Post",
+     "published": "2026-06-12T05:34:40+00:00",
+     "severity": "info"
+    },
+    {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-11T23:59:35.131434+00:00",
+     "published": "2026-06-12T03:40:46.945579+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran's maritime authority says Hormuz Strait closed following US attacks",
-     "link": "https://presstv.ir/Detail/2026/06/11/770250/Iran-PGSA-Strait-of-Hormuz-Persian-Gulf-US-tension",
+     "title": "IRGC Navy foils US-provoked attempt to illegally transit Strait of Hormuz: Report",
+     "link": "https://presstv.ir/Detail/2026/06/12/770284/IRGC-Navy-foils-US-provoked-attempt-to-violate-Strait-of-Hormuz--Report",
      "source": "Press TV",
-     "published": "2026-06-11T22:16:47.007931+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Trump says 'great' Iran settlement will trigger opening of Strait of Hormuz reut.rs/4aqepQ2",
-     "link": "https://bsky.app/profile/reuters.com/post/3mo224ibnaz2s",
-     "source": "@reuters",
-     "published": "2026-06-11T20:15:18+00:00",
+     "published": "2026-06-12T03:40:46.940689+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,136 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "2c4227df1ea0",
+   "title": "‘You Don’t Know Sports!’ Stephen A. Smith Brawls With Sean Hannity Over Whether Trump ‘Disrupted’ the Knicks’ Mojo",
+   "link": "https://www.mediaite.com/media/tv/you-dont-know-sports-stephen-a-smith-brawls-with-sean-hannity-over-whether-trump-disrupted-the-knicks-mojo/",
+   "summary": "Stephen A. Smith and Sean Hannity had an animated exchange Thursday over Smith's criticism of President Donald Trump for attending the Knicks game. The post ‘You Don’t Know Sports!’ Stephen A. Smith Brawls With Sean Hannity Over Whether Trump ‘Disrupted’ the Knicks’ Mojo first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T02:57:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cd1b4d64fd3f",
+   "title": "CNN’s Scott Jennings Warns Trump That an Iran Deal Is Worth ‘Nothing’ Without Major Safeguards",
+   "link": "https://www.mediaite.com/media/news/cnns-scott-jennings-warns-trump-that-an-iran-deal-is-worth-nothing-without-major-safeguards/",
+   "summary": "CNN's Scott Jennings warned on Thursday that a deal between President Donald Trump and Iran would be \"worth nothing\" without major safeguards in place. The post CNN’s Scott Jennings Warns Trump That an Iran Deal Is Worth ‘Nothing’ Without Major Safeguards first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T02:46:52+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "32c60d9cb6e1",
+   "title": "Curtis Sliwa Sides With Mamdani in Feud With NY Knicks Owner: ‘I’m Coming After You!’",
+   "link": "https://www.mediaite.com/media/sports/curtis-sliwa-sides-with-mamdani-in-feud-with-ny-knicks-owner-im-coming-after-you/",
+   "summary": "Former Republican mayoral candidate Curtis Sliwa sided with New York Mayor Zohran Mamdani in his feud with Knicks owner James Dolan. The post Curtis Sliwa Sides With Mamdani in Feud With NY Knicks Owner: ‘I’m Coming After You!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T02:17:02+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0095546316ba",
+   "title": "‘Falsehood After Falsehood’: Adam Schiff Shreds Trump Over Iran War Contradictions",
+   "link": "https://www.mediaite.com/media/news/falsehood-after-falsehood-adam-schiff-shreds-trump-over-iran-war-contradictions/",
+   "summary": "Senator Adam Schiff (D-CA) called out President Donald Trump on Thursday for \"telling falsehood after falsehood\" about the war with Iran, claiming that Americans no longer \"know when to believe him.\" The post ‘Falsehood After Falsehood’: Adam Schiff Shreds Trump Over Iran War Contradictions first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T01:39:44+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d03460890b8a",
+   "title": "Talarico: It looks a lot more like professional wrestling, right? You've got these old guys lathered up in their fake tan, throwing cheesy nicknames at each other. And those nicknames, they don't lower the cost of groceries.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2m325cca2l",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-12T01:36:37.881+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "46dd2f2ef1b1",
+   "title": "Talarico: Here's what real men don't do. They don't lie and cheat their way through life. They don't sell their soul to the highest bidder. Real men serve others, weak men serve themselves. So I welcome this debate. I don't think Paxton or Cruz are in a position to tell anyone what a real man is.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2lxcjprm23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-12T01:34:32.232+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c05e91d9f686",
+   "title": "Spencer Pratt \"did worse than Donald Trump did in L.A. in 2024, and worse than Trump did in 2020. And he did considerably worse than Rick Caruso, a Republican turned independent turned Democrat, did in 2022's mayoral primary.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo2kuuhrxs2d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-12T01:15:16.995+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e6f9bec6c5c0",
+   "title": "Nancy Mace Says Election Loss Means ‘Revenge’ Against Trump: ‘I’ll Be Adding to the Unemployment Number’",
+   "link": "https://www.mediaite.com/politics/nancy-mace-says-election-loss-means-revenge-against-trump-ill-be-adding-to-the-unemployment-number/",
+   "summary": "Rep. Nancy Mace found an incredible silver lining in her blowout loss in Tuesday's Republican gubernatorial primary in South Carolina. The post Nancy Mace Says Election Loss Means ‘Revenge’ Against Trump: ‘I’ll Be Adding to the Unemployment Number’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T01:02:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1247de58b3b3",
+   "title": "‘EXPEL THE BUM’: Trump Demands Congress Boot Democrat Who Led Impeachment Effort and Should ‘Be in Jail Right Now!’",
+   "link": "https://www.mediaite.com/media/news/expel-the-bum-trump-demands-congress-boot-democrat-who-led-impeachment-effort-and-should-be-in-jail-right-now/",
+   "summary": "President Donald Trump demanded Congress expel Rep. Jamie Raskin, calling him a \"loser\" and claiming that he would \"be in jail right now\" if former President Joe Biden had not pardoned him. The post ‘EXPEL THE BUM’: Trump Demands Congress Boot Democrat Who Led Impeachment Effort and Should ‘Be in Jail Right Now!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T00:57:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3f834294c1f",
+   "title": "Top Oversight Dem Officially Asks Committee Call JD Vance, Other Top Trump Officials for Epstein Questioning",
+   "link": "https://www.mediaite.com/media/news/top-oversight-dem-officially-committee-call-jd-vance-other-top-trump-officials-for-epstein-questioning/",
+   "summary": "Rep. Robert Garcia (D-CA) officially requested that James Comer (R-KY) call Vice President JD Vance and other top administration officials to give testimony surrounding Jeffrey Epstein. The post Top Oversight Dem Officially Asks Committee Call JD Vance, Other Top Trump Officials for Epstein Questioning first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T00:38:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10273d4e1f60",
+   "title": "After Trump threatened to attack Iran, a scramble to stop him",
+   "link": "https://www.politico.com/news/2026/06/11/gulf-leaders-called-trump-to-stop-him-from-hitting-iran-it-worked-for-now-00960157",
+   "summary": "Senior officials from Qatar, the UAE and Pakistan rang Trump as he was threatening to strike Iran \"very hard tonight.\" Their assurance of a deal in reach convinced him to pull back.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-12T00:36:23+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9c3a53d41c49",
+   "title": "Deeply Unflattering Inflatable Elon Musk Mysteriously Appears in Times Square",
+   "link": "https://www.mediaite.com/media/news/deeply-unflattering-inflatable-elon-musk-mysteriously-appears-in-times-square/",
+   "summary": "An unflattering depiction of Elon Musk in the form of a giant, shirtless inflatable has mysteriously appeared in Times Square. The post Deeply Unflattering Inflatable Elon Musk Mysteriously Appears in Times Square first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T00:04:02+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "be159b887904",
+   "title": "John Cornyn Blames Trump for Coming Midterm ‘Disaster,’ Predicts He’ll Pay for It With ‘the Most Miserable Two Years of His Life’",
+   "link": "https://www.mediaite.com/media/news/john-cornyn-blames-trump-for-coming-midterm-disaster-predicts-hell-pay-for-it-with-the-most-miserable-two-years-of-his-life/",
+   "summary": "Senator John Cornyn (R-TX) argued President Donald Trump is setting the GOP up for a midterm \"disaster\" in a new interview. The post John Cornyn Blames Trump for Coming Midterm ‘Disaster,’ Predicts He’ll Pay for It With ‘the Most Miserable Two Years of His Life’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-12T00:00:48+00:00",
+   "iran_topic": false
+  },
   {
    "id": "0e3d1340246d",
    "title": "They just created a million James Comeys",
@@ -765,16 +895,6 @@
    "iran_topic": false
   },
   {
-   "id": "acbc6f146667",
-   "title": "Trump Confirms Bill Pulte Will Be Running U.S. Intelligence For a ‘Short While’",
-   "link": "https://www.mediaite.com/politics/trump-confirms-bill-pulte-will-be-running-u-s-intelligence-for-a-short-while/",
-   "summary": "President Donald Trump confirmed Thursday that Bill Pulte will continue running U.S. intelligence for a \"short while\" until his latest nominee takes over. The post Trump Confirms Bill Pulte Will Be Running U.S. Intelligence For a ‘Short While’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:03:47+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "965875bf24b6",
    "title": "Nomination and Withdrawal Sent to the Senate",
    "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
@@ -792,16 +912,6 @@
    "source": "WH Actions",
    "category": "wh_actions",
    "published": "2026-06-11T21:03:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5f255d752c27",
-   "title": "Trump Threatens to Take Over Washington DC If Mamdani-Style Candidate Wins Mayoral Race",
-   "link": "https://www.mediaite.com/media/news/trump-threatens-to-take-over-washington-dc-if-mamdani-style-candidate-wins-mayoral-race/",
-   "summary": "Donald Trump took reporter questions during an Oval Office meeting, with one asking about the upcoming mayoral race for Washington, D.C.'s next mayor. The post Trump Threatens to Take Over Washington DC If Mamdani-Style Candidate Wins Mayoral Race first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T21:00:18+00:00",
    "iran_topic": false
   },
   {
@@ -823,16 +933,6 @@
    "category": "trump_bsky",
    "published": "2026-06-11T20:53:12.876+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "3968dab78ac5",
-   "title": "‘Can We See It?’ Mark Levin Says It’s ‘Amazing’ Trump’s Iran Deal Came Together ‘So Fast’",
-   "link": "https://www.mediaite.com/media/news/can-we-see-it-mark-levin-says-its-amazing-trumps-iran-deal-came-together-so-fast/",
-   "summary": "“If all these governments have agreed on this deal, it’s amazing how all these governments signed up\" The post ‘Can We See It?’ Mark Levin Says It’s ‘Amazing’ Trump’s Iran Deal Came Together ‘So Fast’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T20:52:29+00:00",
-   "iran_topic": true
   },
   {
    "id": "75de0f844081",
@@ -865,16 +965,6 @@
    "iran_topic": false
   },
   {
-   "id": "6e5730b0a86c",
-   "title": "Trump Pressed On Why ‘This Time Is Different’ When He Says Iran Deal Is Near",
-   "link": "https://www.mediaite.com/politics/trump-pressed-on-why-this-time-is-different-when-he-says-iran-deal-is-near/",
-   "summary": "A reporter pressed President Donald Trump on why \"this time it's different\" when he suggests that an Iran Deal is near — a claim Trump has made repeatedly. The post Trump Pressed On Why ‘This Time Is Different’ When He Says Iran Deal Is Near first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T20:45:07+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "bb74131240f8",
    "title": "There has to be at least a little wall space in the Louvre for this",
    "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mo23n3dur226",
@@ -882,96 +972,6 @@
    "source": "@bgrueskin",
    "category": "trump_bsky",
    "published": "2026-06-11T20:42:29.623+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "43ca0761ea99",
-   "title": "Trump announces \"maybe I'll seize the capital of the US if voters displease me\" and it'll be nothing more than a blip on the news at best",
-   "link": "https://bsky.app/profile/danifroom.bsky.social/post/3mo23j2cnyk2n",
-   "summary": "",
-   "source": "@danifroom",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:40:14.338+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "43a33b98ade3",
-   "title": "🤣",
-   "link": "https://bsky.app/profile/jamespmanley.bsky.social/post/3mo23fwipws25",
-   "summary": "",
-   "source": "@jamespmanley",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:38:29.679+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ab4dba0606d4",
-   "title": "oh my god lmao",
-   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mo234aqofc2v",
-   "summary": "",
-   "source": "@clearlyashley",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:33:04.881+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d5abf9d591ac",
-   "title": "Again, half of the things Trump says or does feels like they'd take place in a prequel to Alex Garland's Civil War.",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mo22xyvaa22z",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:30:42.425+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a9502fa0c014",
-   "title": "75th Anniversary of the White House Navy Mess, 2026",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family.&#160; For 75 years, the elite service members assigned to the Presidential Food Service have [&#8230;] The post 75th Anniversary of the White House Navy Mess, 2026 appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T20:27:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a9502fa0c014",
-   "title": "75th Anniversary of the White House Navy Mess, 2026",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 11, 1951, President Harry S. Truman formally established a unit of the United States Navy to provide culinary services to the Commander in Chief and the First Family.&#160; For 75 years, the elite service members assigned to the Presidential Food Service have [&#8230;] The post 75th Anniversary of the White House Navy Mess, 2026 appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-11T20:27:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0e6cd8165a47",
-   "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
-   "summary": "UNLEASHING ECONOMIC OPPORTUNITY IN THE PACIFIC:&#160;Today, President Donald J. Trump signed a proclamation to restore commercial fishing access to nearly half a million square miles in the Pacific, advancing the America First Fishing Policy. PUTTING AMERICA FIRST IN SEAFOOD COMPETITIVENESS:&#160;President Trump is committed to removing unnecessary restrictions on American fishermen in order to enhance U.S. [&#8230;] The post Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T20:26:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb138d6dc448",
-   "title": "Restoring American Commercial Fishing in the Pacific",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION Building on prior actions to strengthen American seafood production and support working fishing communities, this proclamation restores access to hundreds of thousands of square miles of Pacific waters for commercial fishing managed under existing Federal law. &#160;I have determined that restoring access to responsibly [&#8230;] The post Restoring American Commercial Fishing in the Pacific appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-11T20:25:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb138d6dc448",
-   "title": "Restoring American Commercial Fishing in the Pacific",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION Building on prior actions to strengthen American seafood production and support working fishing communities, this proclamation restores access to hundreds of thousands of square miles of Pacific waters for commercial fishing managed under existing Federal law. &#160;I have determined that restoring access to responsibly [&#8230;] The post Restoring American Commercial Fishing in the Pacific appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-11T20:25:24+00:00",
    "iran_topic": false
   }
  ]
