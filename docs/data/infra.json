@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-11T22:17:28.767704+00:00",
+ "generated": "2026-06-12T00:00:13.726310+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 87.88,
-   "change": -5.22,
-   "change_pct": -5.61,
+   "price": 88.73,
+   "change": -4.37,
+   "change_pct": -4.69,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
-    87.87999725341797
+    88.7300033569336
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 85.24,
-   "change": -4.79,
-   "change_pct": -5.32,
+   "price": 86.18,
+   "change": -3.85,
+   "change_pct": -4.28,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
-    85.23999786376953
+    86.18000030517578
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4229.0,
-   "change": 120.8,
-   "change_pct": 2.94,
+   "price": 4239.6,
+   "change": 131.4,
+   "change_pct": 3.2,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
-    4229.0
+    4239.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.68,
-   "change": -0.27,
-   "change_pct": -0.28,
+   "price": 99.73,
+   "change": -0.22,
+   "change_pct": -0.22,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
-    99.67500305175781
+    99.73300170898438
    ]
   },
   "^GSPC": {
@@ -99,13 +99,13 @@
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.08,
-   "change": -0.11,
-   "change_pct": -3.36,
+   "change": -0.1,
+   "change_pct": -3.27,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
-    3.078000068664551
+    3.0810000896453857
    ]
   }
  },
@@ -219,7 +219,14 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-11T22:16:47.010753+00:00",
+   "published": "2026-06-11T23:59:35.131434+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Netanyahu reportedly not given heads-up about Trump’s Iran deal announcement, was caught off guard",
+   "link": "https://www.timesofisrael.com/liveblog-june-12-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-11T22:43:48+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "r/MiddleEastNews",
    "published": "2026-06-11T16:09:08+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Some Uncomfortable facts for some of you.",
-   "link": "https://www.reddit.com/r/lebanon/comments/1u32hiw/some_uncomfortable_facts_for_some_of_you/",
-   "source": "r/lebanon",
-   "published": "2026-06-11T15:36:25+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -332,7 +332,7 @@
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-11T22:16:47.010753+00:00",
+     "published": "2026-06-11T23:59:35.131434+00:00",
      "severity": "info"
     },
     {
@@ -375,6 +375,196 @@
  ],
  "wh_statements": [
   {
+   "id": "0e3d1340246d",
+   "title": "They just created a million James Comeys",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo2glyxwhc2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:58:44.762+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5883ed4a375e",
+   "title": "Full video from Scott MacFarlane here: youtu.be/-24mYNhgvAs",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2gia76lc23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:56:38.108+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0425428b5e2e",
+   "title": "Nehls: They say Pulte doesn’t have any experience in intelligence, this and that. Well, Donald Trump wasn’t really a politician either, and he’ll turn out to be one of the best presidents we’ve ever had.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo2gia6qvs23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:56:38.107+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "69b53c1bc969",
+   "title": "Trump on Raskin: \"Something should be done about people like this who do bad things, but always come up on the short end because of their illegal or unscrupulous behavior, and hurt our Country in the process.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo2gdmm5uc2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:54:03.357+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aa7c81c62bf7",
+   "title": "Trump's reflecting pool improvements",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo2g6sn2uk2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:51:21.907+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "77924f7f778b",
+   "title": "Trump Pushes to ‘Expunge’ His Impeachments From First Term: Report",
+   "link": "https://www.mediaite.com/politics/trump/trump-pushes-to-expunge-his-impeachments-from-first-term-report/",
+   "summary": "President Donald Trump is trying to have his two impeachments from his first term \"expunged,\" The Wall Street Journal reported on Thursday. The post Trump Pushes to ‘Expunge’ His Impeachments From First Term: Report first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-11T23:48:59+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "77924f7f778b",
+   "title": "Trump Pushes to ‘Expunge’ His Impeachments From First Term: Report",
+   "link": "https://www.mediaite.com/politics/trump/trump-pushes-to-expunge-his-impeachments-from-first-term-report/",
+   "summary": "President Donald Trump is trying to have his two impeachments from his first term \"expunged,\" The Wall Street Journal reported on Thursday. The post Trump Pushes to ‘Expunge’ His Impeachments From First Term: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T23:48:59+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b82d1ddbc67f",
+   "title": "Look forward to asking shipping CEO’s to comment.",
+   "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3mo2fqhteg22g",
+   "summary": "",
+   "source": "@carlquintanilla",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:43:20.817+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f506a47d651",
+   "title": "Epstein Survivor Tells Jake Tapper That Victims’ Meeting With James Comer ‘Opened His Eyes’",
+   "link": "https://www.mediaite.com/media/news/epstein-survivor-tells-jake-tapper-that-victims-meeting-with-james-comer-opened-his-eyes/",
+   "summary": "A survivor of Jeffrey Epstein's abuse told CNN's Jake Tapper that a private meeting between victims and House Oversight Chairman James Comer \"opened his eyes in a way they haven't been opened before.\" The post Epstein Survivor Tells Jake Tapper That Victims’ Meeting With James Comer ‘Opened His Eyes’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T23:37:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "430cd6edb2fa",
+   "title": "BREAKING: Rep. Garcia has formally requested the Oversight Cmte. call in the following Trump officials in the wake of that new NYT report on Epstein: J.D. Vance Susie Wiles Tyler Budowich James Blair Karoline Leavitt Steven Cheung Kash Patel Dan Bongino Stanley Woodward, Jr.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo2eyxjl3k23",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-11T23:30:11.966+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c8b079fccf07",
+   "title": "Ex-Girlfriend Reveals Graham Platner Called America the World’s ‘Evil, Bad Guy’",
+   "link": "https://www.mediaite.com/media/news/ex-girlfriend-reveals-graham-platner-called-america-the-worlds-evil-bad-guy/",
+   "summary": "Another ex-girlfriend of Graham Platner is disputing his claim that he didn't know that the tattoo of a skull on his chest was a Nazi Totenkopf. The post Ex-Girlfriend Reveals Graham Platner Called America the World’s ‘Evil, Bad Guy’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T23:07:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "af83317e1009",
+   "title": "Jesse Watters Claims Black People Are ‘Not Afraid of White People’ During Karmelo Anthony Discussion",
+   "link": "https://www.mediaite.com/media/news/jesse-watters-claims-black-people-are-not-afraid-of-white-people-during-karmelo-anthony-discussion/",
+   "summary": "Fox News host Jesse Watters said on Thursday that black people are \"not afraid of white people,\" questioning an argument made by the defense in Karmelo Anthony's trial for murder. The post Jesse Watters Claims Black People Are ‘Not Afraid of White People’ During Karmelo Anthony Discussion first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T22:57:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "33ad6f3f170e",
+   "title": "Nothing projects strength and courage more than channeling Neville Chamberlain.",
+   "link": "https://bsky.app/profile/gregolear.bsky.social/post/3mo2ctztm2225",
+   "summary": "",
+   "source": "@gregolear",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:51:39.136+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b50ee6f89d2d",
+   "title": "Iran Pumps the Brakes on Trump’s Claim About a Deal: ‘We Have Not Yet Reached’ an Agreement",
+   "link": "https://www.mediaite.com/media/news/iran-pumps-the-brakes-on-trumps-claim-about-a-deal-we-have-not-yet-reached-an-agreement/",
+   "summary": "The Iranian government said that despite President Donald Trump's claims about a deal to end the war, one has not been reached. The post Iran Pumps the Brakes on Trump’s Claim About a Deal: ‘We Have Not Yet Reached’ an Agreement first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T22:50:45+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3c799dc77785",
+   "title": "only works if you add Jewish space laser technology",
+   "link": "https://bsky.app/profile/michaelemann.bsky.social/post/3mo2caz5bfk2f",
+   "summary": "",
+   "source": "@michaelemann",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:41:00.870+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "832cc7a7d97f",
+   "title": "According to National Park Service documents, the Trump admin envisions 20 hours per day of construction on Trump's unnecessary, 250-foot arch — year-round — in hopes of completing the project within two to three years, potentially before Trump leaves office.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo2c7uzss22n",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:40:23.009+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "eb767ec88843",
+   "title": "Kudlow Crows About Trump’s ‘Secret Stash of Oil’ Saving the Day On Inflation",
+   "link": "https://www.mediaite.com/media/tv/kudlow-crows-about-trumps-secret-stash-of-oil-saving-the-day-on-inflation/",
+   "summary": "Former Trump economic advisor and Fox Business host, Larry Kudlow, praised President Donald Trump’s “secret stash of oil” as he marveled at the stock market booming after the president announced some kind of deal with Iran is near. “Quick look at markets right now — the Dow holding on to those gains after President Trump&#8217;s [&#8230;] The post Kudlow Crows About Trump’s ‘Secret Stash of Oil’ Saving the Day On Inflation first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-11T22:28:59+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "c541c3ba7c0c",
+   "title": "Holy shit, these people have no idea: The people launching the pogroms against immigrants in Belfast are loyalists, i.e. loyal to the British crown. They hate the concept of being Irish.",
+   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mo2bi3zcjc2y",
+   "summary": "",
+   "source": "@donmoyn",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:27:05.026+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0ca5c636a019",
+   "title": "“it’s good that you did that Donny. real good!”",
+   "link": "https://bsky.app/profile/marmel.bsky.social/post/3mo2aouz5hs2d",
+   "summary": "",
+   "source": "@marmel",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:12:58.820+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "ff40c00cd62c",
    "title": "WATCH: Trump’s DNI Pick Was on CNBC Pushing Rigged Election Claims Days Before Nomination",
    "link": "https://www.mediaite.com/media/news/watch-trumps-dni-pick-was-on-cnbc-pushing-rigged-election-claims-days-before-nomination/",
@@ -392,6 +582,16 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-11T22:08:59.407+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c7daa876e0f2",
+   "title": "Why are Congressional Democrats such 🗑️? Top House Democrat waiving the surrender flag but thankfully @atrupar.com went into his mentions to talk some basic sense.",
+   "link": "https://bsky.app/profile/murshedz.bsky.social/post/3mo2aguntmc2v",
+   "summary": "",
+   "source": "@murshedz",
+   "category": "trump_bsky",
+   "published": "2026-06-11T22:08:30.013+00:00",
    "iran_topic": false
   },
   {
@@ -715,16 +915,6 @@
    "iran_topic": false
   },
   {
-   "id": "001d0bcef92a",
-   "title": "Trump: \"Guys like me built the country. I watch all these ingrates, they're always complaining, complaining. They didn't build anything, they couldn't build anything. Look at what's happened in Minnesota. Somalia.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22ztzs3d2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:31:44.356+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d5abf9d591ac",
    "title": "Again, half of the things Trump says or does feels like they'd take place in a prequel to Alex Garland's Civil War.",
    "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mo22xyvaa22z",
@@ -732,16 +922,6 @@
    "source": "@justinbaragona",
    "category": "trump_bsky",
    "published": "2026-06-11T20:30:42.425+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7fe5604cc4ba",
-   "title": "turns out every writer who imagined a dystopian future where authoritarians openly lied to you through the television vastly overestimated the intelligence and commitment of their fictional antagonists",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mo22w4cgac24",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:29:38.893+00:00",
    "iran_topic": false
   },
   {
@@ -775,16 +955,6 @@
    "iran_topic": false
   },
   {
-   "id": "b4ee43d23585",
-   "title": "Q: Do you regret endorsing Randy Feenstra? TRUMP: Uh. The man running against him was all Trump. A gentleman in Georgia that I endorsed. (Feenstra is from Iowa)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22qjy2za2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:26:31.846+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "fb138d6dc448",
    "title": "Restoring American Commercial Fishing in the Pacific",
    "link": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
@@ -802,176 +972,6 @@
    "source": "WH Actions",
    "category": "wh_actions",
    "published": "2026-06-11T20:25:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "18c1da203f86",
-   "title": "Trump Goes On Bonkers Rant About ‘Fisherwoman’ Vs ‘Fisherman’: ‘How About Fisherpeople?’",
-   "link": "https://www.mediaite.com/media/news/trump-goes-on-bonkers-rant-about-fisherwoman-vs-fisherman-how-about-fisherpeople/",
-   "summary": "Donald Trump went on a wild rant about the politically correct word for women who fish for a living during an executive order signing Thursday. The post Trump Goes On Bonkers Rant About ‘Fisherwoman’ Vs ‘Fisherman’: ‘How About Fisherpeople?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T20:23:46+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9ce8f457bb36",
-   "title": "Q: Here in Washington DC, there's a Democratic primary for mayor. One of the two leading candidates is running a Zohran Mamdani campaign focusing on socialist policies. How would you feel if she wins? TRUMP: Maybe we take back Washington and run it on a federal basis. We won't put up with it.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22jeacb724",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:22:30.937+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "87c92b9a914c",
-   "title": "Trump says of farmers \"I am looking at doing a form of help because of fertilizer\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22ityoz42v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:22:13.912+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "156cf8dc3553",
-   "title": "Trump says of farmers \"I am looking at doing a form of help because of fertilizer\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22gg6enj2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:20:52.300+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3cee9154e755",
-   "title": "These are simply the dumbest people of all time.",
-   "link": "https://bsky.app/profile/bencollins.bsky.social/post/3mo22g2tvuk2g",
-   "summary": "",
-   "source": "@bencollins",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:20:40.498+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bf16d57915f1",
-   "title": "Trump: \"Mitch McConnell gave so much money to Democrats. He gave them money. I had to go get the wall money from the military. I just took it out of the military.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22cvfjng2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:18:54.050+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "22e08106b8a8",
-   "title": "Trump: \"The whole voting system is corrupt in Minnesota. I won Minnesota three times, easily. I won almost every county but they didn't give it to me. It's a corrupt system.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo22bfrzgm2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-11T20:18:04.127+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2a8303139903",
-   "title": "Trump Says ‘We Just Made a Great Settlement’ With Iran",
-   "link": "https://www.mediaite.com/media/news/breaking-trump-says-we-just-made-a-great-settlement-with-iran/",
-   "summary": "\"How confident are you there will be a signing this weekend? You've come close to sealing a deal with Iran before\" The post Trump Says ‘We Just Made a Great Settlement’ With Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T19:57:44+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "999921efe9df",
-   "title": "Ilhan Omar Blasts Jerry Seinfeld’s ‘Dangerous’ Rhetoric Claiming Palestine ‘Doesn’t Exist’",
-   "link": "https://www.mediaite.com/media/news/ilhan-omar-blasts-jerry-seinfelds-dangerous-rhetoric-claiming-palestine-doesnt-exist/",
-   "summary": "Jerry Seinfeld drew the ire of Rep. Ilhan Oman over his most recent comments on Palestine as he left Game 4 of the NBA finals on Wednesday night. The post Ilhan Omar Blasts Jerry Seinfeld’s ‘Dangerous’ Rhetoric Claiming Palestine ‘Doesn’t Exist’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T19:47:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dc87826360c1",
-   "title": "Trump is now 34 points underwater in his approval on the economy, according to an Economist/YouGov poll out this week. Just 29% approve of his handling of the economy, while 63% disapprove. At his lowest point, Joe Biden's economic approval never fell below 39%, according to Economist/YouGov.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnzy3dogcc22",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T19:38:53.174+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4b861062904",
-   "title": "Mystery on the National Mall as Authorities Respond to Giant ‘8647’ Tracing Near D.C. Reflecting Pool",
-   "link": "https://www.mediaite.com/media/news/mystery-on-the-national-mall-as-authorities-respond-to-giant-8647-tracing-near-d-c-reflecting-pool/",
-   "summary": "U.S. authorities are investigating a giant, mysterious \"8647\" etched into the grounds of Washington D.C.'s National Mall. The post Mystery on the National Mall as Authorities Respond to Giant ‘8647’ Tracing Near D.C. Reflecting Pool first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T19:28:06+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9ee8079c6395",
-   "title": "Knicks Radio Host Apologizes After Throwing Shade at Taylor Swift During NBA Finals: ‘I Misspoke’",
-   "link": "https://www.mediaite.com/media/sports/knicks-radio-host-apologizes-after-throwing-shade-at-taylor-swift-during-nba-finals-i-misspoke/",
-   "summary": "New York Knicks radio host Monica McNutt apologized for throwing shade at Taylor Swift in a hot mic moment during Game 4 of the NBA Finals. The post Knicks Radio Host Apologizes After Throwing Shade at Taylor Swift During NBA Finals: ‘I Misspoke’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T19:23:59+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2fd65e70bb8",
-   "title": "CNBC’s Jim Cramer Roasts Trump Amid Oil ‘Shock’: ‘Highly Emotional Man Running the Military’",
-   "link": "https://www.mediaite.com/media/news/cnbcs-jim-cramer-roasts-trump-amid-oil-shock-highly-emotional-man-running-the-military/",
-   "summary": "Jim Cramer roasted Trump as a \"highly emotional man running the military\" amid a new rate hike and inflation surge tied to the Iran War \"energy shock.\" The post CNBC’s Jim Cramer Roasts Trump Amid Oil ‘Shock’: ‘Highly Emotional Man Running the Military’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T18:58:14+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3ff4e676dc3f",
-   "title": "Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer",
-   "link": "https://www.mediaite.com/media/sports/breaking-phil-mickelson-banned-from-golf-club-amid-accusations-of-inappropriate-conduct-with-female-staffer/",
-   "summary": "LIV Golf superstar Phil Mickelson has been banned from his hometown golf club after allegations of inappropriate, nonconsensual conduct involving a female staffer at the club, according to a shocking Golf Digest report. The post Phil Mickelson Banned From Golf Club Amid Accusations of Inappropriate Conduct With Female Staffer first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T18:55:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e5fd821207ab",
-   "title": "Ex-60 Minutes Staffers Excoriate Bari Weiss For Taking a ‘F*cking Machete’ to Show In Bruising New Report",
-   "link": "https://www.mediaite.com/media/news/ex-60-minutes-staffers-excoriate-bari-weiss-for-taking-a-fcking-machete-to-show-in-bruising-new-report/",
-   "summary": "\"Everything she’s touched has turned to shit. Everything she’s touched has gone colossally wrong\" The post Ex-60 Minutes Staffers Excoriate Bari Weiss For Taking a ‘F*cking Machete’ to Show In Bruising New Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T18:46:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "71f757ff84ea",
-   "title": "Breaking: Trump says he's nominating Jay Clayton, the current U.S. Attorney for the SDNY, to be Director of National Intelligence. Just this week on CNBC, Clayton said the \"American people are right to question\" California's elections. To be clear: There is no evidence of fraud in those elections.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mnztxyxl722a",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-11T18:25:26.308+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6f22811aa0b9",
-   "title": "Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte",
-   "link": "https://www.mediaite.com/media/news/new-trump-nominates-jay-clayton-as-dni-moving-on-from-bill-pulte/",
-   "summary": "President Donald Trump nominated Jay Clayton, a former head of the SEC, to be the next Director of National Intelligence. Clayton&#8217;s nomination means that acting DNC Bill Pulte will not be formally nominated after stirring controversy with Trump putting him in the role. &#8220;I am pleased to announce the Nomination of very Highly Respected Jay [&#8230;] The post Trump Nominates Jay Clayton as DNI, Moving On From Bill Pulte first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-11T18:22:17+00:00",
    "iran_topic": false
   }
  ]
