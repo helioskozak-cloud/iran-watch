@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-13T03:29:33.523714+00:00",
+ "generated": "2026-06-13T07:45:18.257525+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 86.71,
-   "change": -3.67,
-   "change_pct": -4.06,
+   "price": 87.33,
+   "change": -3.05,
+   "change_pct": -3.37,
    "spark": [
     94.25,
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
-    86.70999908447266
+    87.33000183105469
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 84.29,
-   "change": -3.42,
-   "change_pct": -3.9,
+   "price": 84.88,
+   "change": -2.83,
+   "change_pct": -3.23,
    "spark": [
     91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.29000091552734
+    84.87999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4239.9,
-   "change": 149.6,
-   "change_pct": 3.66,
+   "price": 4215.0,
+   "change": 124.7,
+   "change_pct": 3.05,
    "spark": [
     4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4239.89990234375
+    4215.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.81,
-   "change": -0.05,
-   "change_pct": -0.05,
+   "price": 99.75,
+   "change": -0.11,
+   "change_pct": -0.11,
    "spark": [
     100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.80699920654297
+    99.75
    ]
   },
   "^GSPC": {
@@ -102,15 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.14,
-   "change": 0.05,
-   "change_pct": 1.75,
+   "price": 3.12,
+   "change": 0.03,
+   "change_pct": 1.07,
    "spark": [
     3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.1410000324249268
+    3.119999885559082
    ]
   }
  },
@@ -224,15 +224,22 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T03:28:56.213395+00:00",
+   "published": "2026-06-13T07:44:35.983757+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US military shoots down Iranian attack drones in Hormuz, CENTCOM confirms",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899239",
+   "source": "Jerusalem Post",
+   "published": "2026-06-13T05:54:43+00:00",
+   "severity": "high"
   },
   {
    "title": "US says it downed multiple Iranian drones targeting ships in Hormuz",
    "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
    "source": "Times of Israel",
    "published": "2026-06-13T02:18:39+00:00",
-   "severity": "info"
+   "severity": "high"
   },
   {
    "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
@@ -317,42 +324,35 @@
    "source": "Times of Israel",
    "published": "2026-06-12T16:14:39+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Trump blasts Iran version of deal",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-blasts-iran-version-deal",
-   "source": "Al-Monitor",
-   "published": "2026-06-12T15:30:19+00:00",
-   "severity": "medium"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 7,
+   "status": "WATCH",
+   "incident_count": 8,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T03:28:56.213395+00:00",
+     "published": "2026-06-13T07:44:35.983757+00:00",
      "severity": "info"
+    },
+    {
+     "title": "US military shoots down Iranian attack drones in Hormuz, CENTCOM confirms",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899239",
+     "source": "Jerusalem Post",
+     "published": "2026-06-13T05:54:43+00:00",
+     "severity": "high"
     },
     {
      "title": "US says it downed multiple Iranian drones targeting ships in Hormuz",
      "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
      "source": "Times of Israel",
      "published": "2026-06-13T02:18:39+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
-     "link": "https://bsky.app/profile/reuters.com/post/3mo55ccnlof2c",
-     "source": "@reuters",
-     "published": "2026-06-13T01:50:14+00:00",
-     "severity": "info"
+     "severity": "high"
     }
    ]
   },
@@ -379,6 +379,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "2e464fa2fdd5",
+   "title": "Tarp Put Up to Block Onlookers from Watching Trump’s Name Removed From Kennedy Center",
+   "link": "https://www.mediaite.com/media/news/tarp-put-up-to-block-onlookers-from-watching-trumps-name-removed-from-kennedy-center/",
+   "summary": "After President Donald Trump's eleventh-hour appeals failed, workers prepared to remove his name from the Kennedy Center and a large crowd gathered to watch. The post Tarp Put Up to Block Onlookers from Watching Trump’s Name Removed From Kennedy Center first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T06:20:43+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "94a3f4c23397",
+   "title": "Workers are adding a curtain obstructing the view of the removal of Donald Trump’s name from the Kennedy Center",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo5k7v42es2h",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-13T05:41:32.232+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b20933c0dd39",
+   "title": "NEW: Workers are now putting up a curtain to hide the actual removal of Trump's name from the Kennedy Center. The crowd is booing and screaming, \"SHAME!\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo5k5prm5c2x",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-13T05:40:19.531+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "67a97cf1eff2",
+   "title": "BREAKING: Workers are moments away from removing Donald Trump's name from the Kennedy Center.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo5jltt4hc2x",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-13T05:30:19.801+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "84aadb8a2b77",
+   "title": "‘Who Cares?’ Scott Jennings Says It Doesn’t Matter if Trump Broke the Law by Renaming Kennedy Center",
+   "link": "https://www.mediaite.com/media/tv/who-cares-scott-jennings-says-it-doesnt-matter-if-trump-broke-the-law-by-renaming-kennedy-center/",
+   "summary": "CNN commentator Scott Jennings waved off a ruling from a judge who said the renaming of the Kennedy Center for President Donald Trump violated federal law. The post ‘Who Cares?’ Scott Jennings Says It Doesn’t Matter if Trump Broke the Law by Renaming Kennedy Center first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T04:34:44+00:00",
+   "iran_topic": false
+  },
   {
    "id": "992a4624a5e6",
    "title": "The American left has a favorite player",
@@ -800,26 +850,6 @@
    "iran_topic": false
   },
   {
-   "id": "c2f387cbf96e",
-   "title": "‘We Need Some Relief’: GOP Senators Warn Trump Economic Fallout From Iran Could Cost Votes",
-   "link": "https://www.mediaite.com/media/tv/we-need-some-relief-gop-senators-warn-trump-economic-fallout-from-iran-could-cost-votes/",
-   "summary": "During a CNN montage that aired on Friday, three Republican senators warned President Donald Trump that the economic fallout from his war with Iran is bound to cost the GOP votes in the 2026 midterms and beyond. The post ‘We Need Some Relief’: GOP Senators Warn Trump Economic Fallout From Iran Could Cost Votes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T20:03:58+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "27412e94d6c5",
-   "title": "Pete Buttigieg Floats Overhaul of ‘Rogue’ Supreme Court: Doesn’t ‘Have to be Nine’",
-   "link": "https://www.mediaite.com/media/news/pete-buttigieg-floats-overhaul-of-rogue-supreme-court-doesnt-have-to-be-nine/",
-   "summary": "Buttigieg floated an overhaul of what he described as a “rogue” Supreme Court and insisted that the court could be easily reformed to better “fit this country.” The post Pete Buttigieg Floats Overhaul of ‘Rogue’ Supreme Court: Doesn’t ‘Have to be Nine’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T19:58:37+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6669d45a0339",
    "title": "A deal with Iran is near but not final, senior US official says",
    "link": "https://www.politico.com/news/2026/06/12/a-deal-with-iran-is-near-but-not-final-senior-us-official-says-00960804",
@@ -947,36 +977,6 @@
    "source": "WH Actions",
    "category": "wh_actions",
    "published": "2026-06-12T19:22:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e5e40cf05d92",
-   "title": "New episode of the PN Pod with me and @paulwaldman.bsky.social is live! We discussed Trump's Art of the Cave in Iran, the deleted Idiocracy scene that is the UFC fight at the White House, war crimes as official US policy, and more. Check it out:",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo4hhgkvyc2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-12T19:19:24.462+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "96a95a0b2bad",
-   "title": "National Security Presidential Memorandum/NSPM-12",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
-   "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF THE INTERIOR THE SECRETARY OF AGRICULTURE THE SECRETARY OF COMMERCE THE SECRETARY OF LABOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT THE SECRETARY OF [&#8230;] The post National Security Presidential Memorandum/NSPM-12 appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-12T19:19:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "96a95a0b2bad",
-   "title": "National Security Presidential Memorandum/NSPM-12",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
-   "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF THE INTERIOR THE SECRETARY OF AGRICULTURE THE SECRETARY OF COMMERCE THE SECRETARY OF LABOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT THE SECRETARY OF [&#8230;] The post National Security Presidential Memorandum/NSPM-12 appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-12T19:19:12+00:00",
    "iran_topic": false
   }
  ]
