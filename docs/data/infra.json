@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T08:51:12.616531+00:00",
+ "generated": "2026-06-13T11:11:22.878354+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,7 +224,14 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T08:50:25.619330+00:00",
+   "published": "2026-06-13T11:10:43.437710+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "‘Her whole face was covered in blood’: 11 campers attacked by jackals at Sea of Galilee",
+   "link": "https://www.timesofisrael.com/her-whole-face-was-covered-in-blood-11-campers-attacked-by-jackals-at-sea-of-galilee/",
+   "source": "Times of Israel",
+   "published": "2026-06-13T09:50:27+00:00",
    "severity": "info"
   },
   {
@@ -242,13 +249,6 @@
    "severity": "high"
   },
   {
-   "title": "IDF said to carry out airstrikes in southern Lebanon after evacuation warnings",
-   "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-13T02:18:39+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
    "link": "https://bsky.app/profile/reuters.com/post/3mo55ccnlof2c",
    "source": "@reuters",
@@ -260,13 +260,6 @@
    "link": "https://www.al-monitor.com/originals/2026/06/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz",
    "source": "Al-Monitor",
    "published": "2026-06-13T01:36:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-   "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-13T00:51:20+00:00",
    "severity": "info"
   },
   {
@@ -324,6 +317,13 @@
    "source": "Press TV",
    "published": "2026-06-12T16:33:32.624185+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Trump fumes at ‘dishonorable’ Iranians amid leaks on emerging deal’s purported terms",
+   "link": "https://www.timesofisrael.com/trump-fumes-at-dishonorable-iranians-amid-leaks-on-emerging-deals-purported-terms/",
+   "source": "Times of Israel",
+   "published": "2026-06-12T16:14:39+00:00",
+   "severity": "medium"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 6,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T08:50:25.619330+00:00",
+     "published": "2026-06-13T11:10:43.437710+00:00",
      "severity": "info"
     },
     {
@@ -379,6 +379,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "60a0c01bb916",
+   "title": "Trump's preemptive attack on whistleblowers, explained by an expert",
+   "link": "https://www.publicnotice.co/p/federal-government-ndas-don-moynihan",
+   "summary": "\"The cost to democracy is a loss of accountability and oversight.\"",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-13T10:17:53+00:00",
+   "iran_topic": false
+  },
   {
    "id": "2e464fa2fdd5",
    "title": "Tarp Put Up to Block Onlookers from Watching Trump’s Name Removed From Kennedy Center",
@@ -966,16 +976,6 @@
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 14, 1777, the delegates of the Second Continental Congress adopted a resolution declaring &#8220;that the flag of the United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new Constellation.&#8221; [&#8230;] The post Flag Day and National Flag Week, 2026 appeared first on The White House .",
    "source": "WH News",
    "category": "wh_news",
-   "published": "2026-06-12T19:22:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c320f50eb272",
-   "title": "Flag Day and National Flag Week, 2026",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On June 14, 1777, the delegates of the Second Continental Congress adopted a resolution declaring &#8220;that the flag of the United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new Constellation.&#8221; [&#8230;] The post Flag Day and National Flag Week, 2026 appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
    "published": "2026-06-12T19:22:08+00:00",
    "iran_topic": false
   }
