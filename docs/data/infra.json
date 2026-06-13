@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T20:52:52.023992+00:00",
+ "generated": "2026-06-13T21:59:33.834425+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,7 +224,14 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T20:52:15.946079+00:00",
+   "published": "2026-06-13T21:58:49.252549+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Israelis say they were attacked at Bologna Pride for carrying rainbow Star of David flag",
+   "link": "https://www.timesofisrael.com/israelis-say-they-were-attacked-at-bologna-pride-for-carrying-rainbow-star-of-david-flag/",
+   "source": "Times of Israel",
+   "published": "2026-06-13T21:30:44+00:00",
    "severity": "info"
   },
   {
@@ -235,7 +242,7 @@
    "severity": "info"
   },
   {
-   "title": "Trump declares US-Iran deal to be signed Sunday; no confirmation from Tehran",
+   "title": "Trump says US-Iran deal to be signed Sunday, contradicting Tehran, which doesn’t react",
    "link": "https://www.timesofisrael.com/trump-claims-us-iran-deal-to-be-signed-sunday-no-confirmation-from-tehran/",
    "source": "Times of Israel",
    "published": "2026-06-13T20:17:01+00:00",
@@ -317,13 +324,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-13T05:54:43+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
-   "link": "https://bsky.app/profile/reuters.com/post/3mo55ccnlof2c",
-   "source": "@reuters",
-   "published": "2026-06-13T01:50:14+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 8,
+   "incident_count": 7,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T20:52:15.946079+00:00",
+     "published": "2026-06-13T21:58:49.252549+00:00",
      "severity": "info"
     },
     {
@@ -380,6 +380,46 @@
  ],
  "wh_statements": [
   {
+   "id": "9689d94a328c",
+   "title": "The problem with Brandon Gill is not that he \"seems like a closet case\" or \"protests too much.\" The problem with Brandon Gill is that he is a vicious bigot--the son-in-law of Dinesh D'Souza!--and as the youngest GOP rep, the embodiment of the morally vacant future of a rock-bottom political party.",
+   "link": "https://bsky.app/profile/markharris.bsky.social/post/3mo77s6ro5c2h",
+   "summary": "",
+   "source": "@markharris",
+   "category": "trump_bsky",
+   "published": "2026-06-13T21:40:14.673+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13230a952918",
+   "title": "CNN Questions UFC Fans About Trump’s ‘Controversial’ Fights at the White House",
+   "link": "https://www.mediaite.com/politics/cnn-questions-ufc-fans-about-trumps-controversial-fights-at-the-white-house/",
+   "summary": "CNN's Brian Todd spoke to UFC fans about the \"controversial\" event President Donald Trump and Dana White are hosting — UFC Freedom 250 at the White House The post CNN Questions UFC Fans About Trump’s ‘Controversial’ Fights at the White House first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T21:26:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f746037c342",
+   "title": "You can talk policy with normal people but if you find yourself on tv with a guy like this it's ok to just say \"You look like a wet turd that jumped out of a toilet and bought a suit\"",
+   "link": "https://bsky.app/profile/internethippo.bsky.social/post/3mo76qvi4vs2q",
+   "summary": "",
+   "source": "@internethippo",
+   "category": "trump_bsky",
+   "published": "2026-06-13T21:21:37.627+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "12f09d3e3cbe",
+   "title": "We used to have Cord Ragers playing Halo 2 with eight people on two TVs in my friend’s house when I was in high school",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo76pnjwks2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-13T21:20:55.744+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "442134ddddd7",
    "title": "FIFA's encounter with North America's messy democracy",
    "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/fifa-discovers-democracy-00961398",
@@ -397,6 +437,36 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-13T20:50:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "685bb2916ae2",
+   "title": "This obsession is just flat out freaking weird.",
+   "link": "https://bsky.app/profile/jvagle.me/post/3mo74w36zwc2n",
+   "summary": "",
+   "source": "@jvagle",
+   "category": "trump_bsky",
+   "published": "2026-06-13T20:48:43.909+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5938f96841b8",
+   "title": "How much will her Shield of the Americas ad campaign cost us?",
+   "link": "https://bsky.app/profile/kristygreenberg.bsky.social/post/3mo73yljlks26",
+   "summary": "",
+   "source": "@kristygreenberg",
+   "category": "trump_bsky",
+   "published": "2026-06-13T20:32:14.399+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7cc21bf82b2a",
+   "title": "if they weren't going after him like this they'd be going after his gf the way these loons went after mamdani's wife. hell, they still might. early days.",
+   "link": "https://bsky.app/profile/urban-achiever.bsky.social/post/3mo73tmgy5k2z",
+   "summary": "",
+   "source": "@urban-achiever",
+   "category": "trump_bsky",
+   "published": "2026-06-13T20:29:27.591+00:00",
    "iran_topic": false
   },
   {
@@ -457,6 +527,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-13T19:29:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d570c253924b",
+   "title": "Observation from life, having been around longer than this guy (and married to same wonderful woman since age 21): I have yet to meet a man who goes out of his way to bait others as \"barely straight,\" who doesn't have issues of this sort himself Have never met a \"real man\" who bothers with this BS",
+   "link": "https://bsky.app/profile/jfallows.bsky.social/post/3mo6xurhcus24",
+   "summary": "",
+   "source": "@jfallows",
+   "category": "trump_bsky",
+   "published": "2026-06-13T19:18:31.432+00:00",
    "iran_topic": false
   },
   {
@@ -810,16 +890,6 @@
    "iran_topic": false
   },
   {
-   "id": "131b0ffd3c6f",
-   "title": "Anti-MAGA Host on CNN Mocks Trump ‘Shirtless Lubricated’ UFC Birthday Bash: ‘It’s Giving Pride Parade’",
-   "link": "https://www.mediaite.com/media/news/anti-maga-host-on-cnn-mocks-trump-shirtless-lubricated-ufc-birthday-bash-its-giving-pride-parade/",
-   "summary": "Anti-MAGA podcast host Loren Piretra mocked Trump's UFC fight in an appearance on CNN, telling host Elex Michaelson \"It's giving Pride Parade.\" The post Anti-MAGA Host on CNN Mocks Trump ‘Shirtless Lubricated’ UFC Birthday Bash: ‘It’s Giving Pride Parade’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T14:36:56+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1cfde5bd194e",
    "title": "Visa chaos frustrates soccer fans",
    "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/visa-chaos-00961310",
@@ -838,16 +908,6 @@
    "category": "politico_wh",
    "published": "2026-06-13T14:00:00+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "46ee8fa41faa",
-   "title": "New in PN: Trump's systemic attack on whistleblowers, explained by @donmoyn.bsky.social “The parallel is Trump’s private businesses, where, since the early ‘90s, he’s had everyone around him sign NDAs, including porn stars he wanted to hush up. Now he’s applying that model to the public sector.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mo6fs4hlhk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-13T13:54:54.959+00:00",
-   "iran_topic": false
   },
   {
    "id": "34951fe8a36c",
@@ -900,16 +960,6 @@
    "iran_topic": false
   },
   {
-   "id": "94a3f4c23397",
-   "title": "Workers are adding a curtain obstructing the view of the removal of Donald Trump’s name from the Kennedy Center",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo5k7v42es2h",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-13T05:41:32.232+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b20933c0dd39",
    "title": "NEW: Workers are now putting up a curtain to hide the actual removal of Trump's name from the Kennedy Center. The crowd is booing and screaming, \"SHAME!\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo5k5prm5c2x",
@@ -927,56 +977,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-13T05:30:19.801+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "992a4624a5e6",
-   "title": "The American left has a favorite player",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/timothy-weah-usmnt-lefts-favorite-player-00961265",
-   "summary": "Timothy Weah hangs with Zohran Mamdani, dismissed Donald Trump and wins a shout-out from Hillary Clinton.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-13T02:02:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aab773bf00d0",
-   "title": "Watch the full video here: www.youtube.com/live/YhJTk9X...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo4xj6foks2j",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-13T00:06:42.880+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4a5a803727a7",
-   "title": "Elias: The fact that the New York Times thinks there’s a middle ground here… Here’s my message: I don’t compromise with Republicans because there is no middle ground between a firefighter and an arsonist, and they are trying to burn down democracy.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo4xhjbbi22j",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-13T00:05:47.159+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec35bdbc70a9",
-   "title": "Article from Aaron Parnas: meidasnews.com/news/white-h...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo4x3vcvis2n",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-12T23:59:17.144+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "434e66c009c5",
-   "title": "MacFarlane: A commercial airline pilot near Reagan National Airport earlier this week reported a safety concern—or safety incident—from a lighting display potentially connected to the UFC construction site on the White House South Lawn.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo4x27vt322n",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-12T23:58:21.141+00:00",
    "iran_topic": false
   }
  ]
