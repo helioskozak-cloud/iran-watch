@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T19:39:55.533989+00:00",
+ "generated": "2026-06-13T20:52:52.023992+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,8 +224,22 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T19:39:19.860200+00:00",
+   "published": "2026-06-13T20:52:15.946079+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
+   "link": "https://www.al-monitor.com/originals/2026/06/lebanon-reports-strikes-south-east-israel-issues-broad-evacuation-warnings",
+   "source": "Al-Monitor",
+   "published": "2026-06-13T20:30:23+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump declares US-Iran deal to be signed Sunday; no confirmation from Tehran",
+   "link": "https://www.timesofisrael.com/trump-claims-us-iran-deal-to-be-signed-sunday-no-confirmation-from-tehran/",
+   "source": "Times of Israel",
+   "published": "2026-06-13T20:17:01+00:00",
+   "severity": "medium"
   },
   {
    "title": "Trump says Iran deal to be signed tomorrow, Hormuz to open 'immediately after'",
@@ -310,20 +324,6 @@
    "source": "@reuters",
    "published": "2026-06-13T01:50:14+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T01:36:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "No nuclear talks without implementation of interim deal, Iran's Araghchi says",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899230",
-   "source": "Jerusalem Post",
-   "published": "2026-06-12T23:35:19+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 8,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T19:39:19.860200+00:00",
+     "published": "2026-06-13T20:52:15.946079+00:00",
      "severity": "info"
     },
     {
@@ -379,6 +379,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "442134ddddd7",
+   "title": "FIFA's encounter with North America's messy democracy",
+   "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/fifa-discovers-democracy-00961398",
+   "summary": "Gianni Infantino is the new century's unlikely Alexis de Tocqueville.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-13T20:51:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9bced904acac",
+   "title": "Marco Rubio Cracks Down on ‘Birth Tourism’ Scammers Who ‘Sell Citizenship’ to US",
+   "link": "https://www.mediaite.com/media/tv/marco-rubio-cracks-down-on-birth-tourism-scammers-who-sell-citizenship-to-us/",
+   "summary": "Fox News reported on Marco Rubio spearheading the crackdown on hundreds of \"birth tourism\" scammers who are having kids in the USA, thanks to bogus documents The post Marco Rubio Cracks Down on ‘Birth Tourism’ Scammers Who ‘Sell Citizenship’ to US first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T20:50:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1ac19726a8bc",
+   "title": "Doug Burgum Claims Trump Won The Iran War Outright — Despite No Firm Nuke Deal",
+   "link": "https://www.mediaite.com/media/tv/doug-burgum-claims-trump-won-the-iran-war-outright-despite-no-firm-nuke-deal/",
+   "summary": "Doug Burgum claimed Saturday that Donald Trump won the Iran war outright with a \"great agreement,\" despite no firm commitment from on nuclear enrichment. The post Doug Burgum Claims Trump Won The Iran War Outright — Despite No Firm Nuke Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T20:24:05+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f016f2046016",
+   "title": "Ticketmaster Blames Spurs, Pivots Away From Blocking Knicks Fans From Buying Tickets to NBA Finals",
+   "link": "https://www.mediaite.com/media/sports/ticketmaster-blames-spurs-pivots-away-from-blocking-knicks-fans-from-buying-tickets-to-nba-finals/",
+   "summary": "Ticketmaster reversed its restriction on tickets to the Spurs-Knicks game on Saturday only going to Texas locals after outcry from NY fans and Gov. Kathy Hochul The post Ticketmaster Blames Spurs, Pivots Away From Blocking Knicks Fans From Buying Tickets to NBA Finals first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T20:10:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fce15e7c6ea9",
+   "title": "CNN Pundit Calls Hunter Biden, Gavin Newsom ‘This Really Weird Teenage Mutant Ninja Turtles’ Offering Trump ‘Machismo’ to Dems",
+   "link": "https://www.mediaite.com/media/tv/cnn-pundit-calls-hunter-biden-gavin-newsom-this-really-weird-teenage-mutant-ninja-turtles-offering-trump-machismo-to-dems/",
+   "summary": "CNN's Bakari Sellers called Gavin Newsom and Hunter Biden \"really weird\" Teenage Mutant Ninja Turtles offering Democrats a Trump-style \"machismo.\" The post CNN Pundit Calls Hunter Biden, Gavin Newsom ‘This Really Weird Teenage Mutant Ninja Turtles’ Offering Trump ‘Machismo’ to Dems first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T19:53:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d34773463762",
+   "title": "Brandon Gill is Dinesh D'Souza's son-in-law. Both part of the Dartmouth Review, iykyk.",
+   "link": "https://bsky.app/profile/clarajeffery.bsky.social/post/3mo6z6xduw22h",
+   "summary": "",
+   "source": "@clarajeffery",
+   "category": "trump_bsky",
+   "published": "2026-06-13T19:42:06.895+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c7d8de8d55e",
+   "title": "Religion aside: Gill calls Talarico's reference to God as nonbinary \"blasphemous,\" but while that term has a modern context, belief that God is beyond gender is super common in Christianity. E.g., the Catechism of the Catholic Church: \"In no way is God in man's image. He is neither man nor woman.\"",
+   "link": "https://bsky.app/profile/jackjenkins.me/post/3mo6z63h7ic2b",
+   "summary": "",
+   "source": "@jackjenkins",
+   "category": "trump_bsky",
+   "published": "2026-06-13T19:41:37.645+00:00",
+   "iran_topic": false
+  },
   {
    "id": "22ec30985d46",
    "title": "MS NOW Pundit Demands More Media Scrutiny of Trump Turning 80 — After Downplaying Biden’s Age in White House",
@@ -620,10 +690,10 @@
    "iran_topic": false
   },
   {
-   "id": "bf6b51944c07",
-   "title": "JUST IN: Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators",
-   "link": "https://www.mediaite.com/media/news/just-in-trump-claims-iran-deal-being-signed-tomorrow-in-new-rant-after-raging-at-dishonorable-negotiators/",
-   "summary": "President Trump claimed that a deal with Iran is set to be signed tomorrow — just one day after he raged at Iran negotiators for being \"dishonorable.\" The post JUST IN: Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators first appeared on Mediaite .",
+   "id": "c4dc8d4e2ebd",
+   "title": "Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators",
+   "link": "https://www.mediaite.com/media/news/trump-claims-iran-deal-being-signed-tomorrow-in-new-rant-after-raging-at-dishonorable-negotiators/",
+   "summary": "President Trump claimed that a deal with Iran is set to be signed tomorrow — just one day after he raged at Iran negotiators for being \"dishonorable.\" The post Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-13T17:10:54+00:00",
@@ -760,16 +830,6 @@
    "iran_topic": false
   },
   {
-   "id": "8dbbaed3d36a",
-   "title": "Polls Show Blue Collar Whites ‘Seriously Doubting’ Trump ‘For First Time’ in ‘Extraordinary Swing’: NYT",
-   "link": "https://www.mediaite.com/media/news/polls-show-blue-collar-whites-seriously-doubting-trump-for-first-time-in-extraordinary-swing-nyt/",
-   "summary": "Blue collar white voters are \"seriously doubting\" President Trump's handling of the economy in an \"extraordinary swing,\" according to a review of polling data. The post Polls Show Blue Collar Whites ‘Seriously Doubting’ Trump ‘For First Time’ in ‘Extraordinary Swing’: NYT first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T14:05:12+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "a59877e60102",
    "title": "‘The elephant in the room’: Trump’s Iran war looms over G7",
    "link": "https://www.politico.com/news/2026/06/13/the-elephant-in-the-room-trumps-iran-war-looms-over-g7-00960768",
@@ -810,26 +870,6 @@
    "iran_topic": false
   },
   {
-   "id": "551a73059753",
-   "title": "Paramount Honcho Blames Opposition to WBD-CNN Mega-Merger on Antisemitism Amid Deal Scrutiny",
-   "link": "https://www.mediaite.com/media/news/paramount-honcho-blames-opposition-to-wbd-cnn-mega-merger-on-antisemitism-amid-deal-scrutiny/",
-   "summary": "A key Paramount figure recently blamed opposition to the WBD mega-merger on antisemitism, even as the deal's Qatari-Saudi financing is scrutinized by officials. The post Paramount Honcho Blames Opposition to WBD-CNN Mega-Merger on Antisemitism Amid Deal Scrutiny first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T13:13:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "665f84c780e2",
-   "title": "MS NOW’s Stephanie Ruhle Gets Emotional In Last 11th Hour Sign-Off",
-   "link": "https://www.mediaite.com/media/news/ms-nows-stephanie-ruhle-gets-emotional-in-last-11th-hour-sign-off/",
-   "summary": "MS NOW host Stephanie Ruhle got emotional as she signed off for the last time, thanking a viewing audience and staff she called \"my MVP.\" The post MS NOW’s Stephanie Ruhle Gets Emotional In Last 11th Hour Sign-Off first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T12:50:03+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "546729208d87",
    "title": "Alternative World Cup rankings",
    "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/gdp-europe-fifa-rankings-00961298",
@@ -837,16 +877,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-13T12:16:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fa7df6941a23",
-   "title": "Bill Maher Taunts ‘Our Redneck President’ Trump Over 80th Birthday UFC Fight ‘On the Lawn’",
-   "link": "https://www.mediaite.com/media/sports/bill-maher-taunts-our-redneck-president-trump-over-80th-birthday-ufc-fight-on-the-lawn/",
-   "summary": "Comedian and pundit Bill Maher trolled \"our redneck president\" Donald Trump over the UFC fight being held Sunday on Trump's 80th birthday. The post Bill Maher Taunts ‘Our Redneck President’ Trump Over 80th Birthday UFC Fight ‘On the Lawn’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T12:14:59+00:00",
    "iran_topic": false
   },
   {
@@ -947,36 +977,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-12T23:58:21.141+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e11380d4773a",
-   "title": "FIFA does pregame land acknowledgment",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/fifa-does-native-american-land-acknowledgment-california-00961212",
-   "summary": "The World Cup host paid tribute to California’s Native American tribes before its first match on U.S. soil.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T23:55:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1ce3246c273e",
-   "title": "BREAKING on MS NOW: The D.C. Circuit Court of Appeals just rejected the Kennedy Center board's effort to pause the court-ordered removal of Trump's name from the building. That means Trump's name must come down tonight.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo4vjdo4ts2e",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T23:31:00.915+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0cabcebea2fd",
-   "title": "Canada defends blocking Ghana's Thomas Partey from entry",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/canada-defends-ban-ghana-player-thomas-partey-00961209",
-   "summary": "Partey faces rape charges in the U.K. but has not yet stood trial.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T23:23:17+00:00",
    "iran_topic": false
   }
  ]
