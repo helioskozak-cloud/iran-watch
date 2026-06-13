@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T16:45:32.097674+00:00",
+ "generated": "2026-06-13T17:59:08.424099+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -221,10 +221,31 @@
  ],
  "incidents": [
   {
+   "title": "Trump says Iran deal to be signed tomorrow, Hormuz to open 'immediately after'",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899262",
+   "source": "Jerusalem Post",
+   "published": "2026-06-13T18:33:58+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T16:44:48.750384+00:00",
+   "published": "2026-06-13T17:58:26.116013+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u4wmby/trump_says_iran_deal_will_be_signed_sunday_strait/",
+   "source": "r/worldnews",
+   "published": "2026-06-13T17:19:49+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says Iran deal to be signed on Sunday",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-deal-be-signed-sunday",
+   "source": "Al-Monitor",
+   "published": "2026-06-13T17:01:46+00:00",
    "severity": "info"
   },
   {
@@ -303,27 +324,6 @@
    "source": "Times of Israel",
    "published": "2026-06-12T23:18:23+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "News Analysis: In the two months since the U.S. and Iran declared a cease-fire, the line between peace and war has been all but erased across the Middle East. With the Strait of Hormuz shut down, also, the conflict has also wielded a devastating new form of leverage.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mo4nndi6ea2v",
-   "source": "@nytimes",
-   "published": "2026-06-12T21:10:04.959503+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US-Iran deal to include dismantling of Iranian nuclear program, US official says",
-   "link": "https://www.jpost.com/international/article-899228",
-   "source": "Jerusalem Post",
-   "published": "2026-06-12T20:30:11+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "India joins elite club with successful ballistic missile defence, anti-ship missile trials",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u45unr/india_joins_elite_club_with_successful_ballistic/",
-   "source": "r/worldnews",
-   "published": "2026-06-12T19:56:37+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 7,
+   "incident_count": 8,
    "recent": [
+    {
+     "title": "Trump says Iran deal to be signed tomorrow, Hormuz to open 'immediately after'",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899262",
+     "source": "Jerusalem Post",
+     "published": "2026-06-13T18:33:58+00:00",
+     "severity": "info"
+    },
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T16:44:48.750384+00:00",
+     "published": "2026-06-13T17:58:26.116013+00:00",
      "severity": "info"
     },
     {
-     "title": "President Trump to discuss Strait of Hormuz demining efforts with allies at next week's G7 summit as confidence grows for a deal with Iran.",
-     "link": "https://bsky.app/profile/apnews.com/post/3mo6kzywnug2x",
-     "source": "@apnews",
-     "published": "2026-06-13T15:28:48+00:00",
-     "severity": "low"
-    },
-    {
-     "title": "Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u4tcby/rubio_tells_india_ships_violating_us_blockade_in/",
+     "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
+     "link": "https://www.reddit.com/r/worldnews/comments/1u4wmby/trump_says_iran_deal_will_be_signed_sunday_strait/",
      "source": "r/worldnews",
-     "published": "2026-06-13T15:07:40+00:00",
-     "severity": "critical"
+     "published": "2026-06-13T17:19:49+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -379,6 +379,136 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "02f8e91cee44",
+   "title": "These clowns have no dignity, no scruples, no clue….And they think we’re stupid enough to believe them.",
+   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mo6sp24pkc2g",
+   "summary": "",
+   "source": "@djrothkopf",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:45:50.486+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bf5a09b34b60",
+   "title": "Burgum: \"President Trump won the war militarily. Then he won the war economically ... diplomatically, militarily, economically -- three ways to win a war. Trump won all three of them.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo6sn3ah6e2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:44:44.508+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ab78702a599",
+   "title": "Mike Rogers on viral AI-enhanced image of himself put out by a staffer: \"We may need in the Hulk in the Senate to get us back ... we need a superhero\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo6sjdp3h22r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:42:39.157+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "23c54324c8db",
+   "title": "Burgum: \"California was the only state really dependent on oil coming through the Strait of Hormuz\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo6sdlccix2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:39:25.801+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8c8b5397d563",
+   "title": "Our long national nightmare of ungilded sculptures is over.",
+   "link": "https://bsky.app/profile/rudepundit.bsky.social/post/3mo6s537xb22k",
+   "summary": "",
+   "source": "@rudepundit",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:35:47.661+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b086edfadc20",
+   "title": "Fox News Host Gushes Over Hunter Biden Social Media Tear: ‘He’s Killin’ it on X!’",
+   "link": "https://www.mediaite.com/media/news/fox-news-host-gushes-over-hunter-biden-social-media-tear-hes-killin-it-on-x/",
+   "summary": "Fox News host Will Cain exclaimed that Hunter Biden is \"killin' it on X!\" and wondered if the social media avalanche is a prelude to a political run. The post Fox News Host Gushes Over Hunter Biden Social Media Tear: ‘He’s Killin’ it on X!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T17:32:36+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7343f79ddb93",
+   "title": "Trump threatens to nuke Iran in a statement ostensibly announcing a peace deal: “Hopefully, this process will all work out quickly, easily, and smoothly. If it doesn’t, we have the ultimate alternative, hopefully never to be used again! Thank you for your attention to this matter!!!”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mo6rkrz3ik23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-13T17:25:34.012+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1a0ab419eea5",
+   "title": "Jacob Soboroff Kicks Off New Show By Going Hard At Trump’s Immigrant ‘Prison For Children’ in Texas",
+   "link": "https://www.mediaite.com/media/tv/jacob-soboroff-kicks-off-new-show-by-going-hard-at-trumps-immigrant-prison-for-children-in-texas/",
+   "summary": "Jacob Soboroff kicked off his new MS NOW show with a two-part report on the Trump administration's \"prison for children\" in Texas housing some 93 children. The post Jacob Soboroff Kicks Off New Show By Going Hard At Trump’s Immigrant ‘Prison For Children’ in Texas first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T17:23:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bf6b51944c07",
+   "title": "JUST IN: Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators",
+   "link": "https://www.mediaite.com/media/news/just-in-trump-claims-iran-deal-being-signed-tomorrow-in-new-rant-after-raging-at-dishonorable-negotiators/",
+   "summary": "President Trump claimed that a deal with Iran is set to be signed tomorrow — just one day after he raged at Iran negotiators for being \"dishonorable.\" The post JUST IN: Trump Claims Iran Deal Being Signed Tomorrow In New Rant After Raging at ‘Dishonorable’ Negotiators first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T17:10:54+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d5853e11c037",
+   "title": "Bill Maher Bashes Trump Over Knicks Ticket Rant: ‘F*ck You! Sucks To Be You!’",
+   "link": "https://www.mediaite.com/media/sports/bill-maher-bashes-trump-over-knicks-ticket-rant-fck-you-sucks-to-be-you/",
+   "summary": "Bill Maher bashed President Donald Trump over his response to a question about Knicks playoff tickets, characterizing it as \"F*ck you! Sucks to be you!\" The post Bill Maher Bashes Trump Over Knicks Ticket Rant: ‘F*ck You! Sucks To Be You!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T17:05:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "22a8280c3ce5",
+   "title": "‘That’s Not America First!’ CNN Table Falls Into Chaos Over Conservative Guest’s Iran War Defense",
+   "link": "https://www.mediaite.com/media/tv/thats-not-america-first-cnn-table-falls-into-chaos-over-conservative-guests-iran-war-defense/",
+   "summary": "A CNN table fell into chaotic crosstalk as a conservative guest mounted a defense for the Iran conflict and argued polling shows more support than people think. The post ‘That’s Not America First!’ CNN Table Falls Into Chaos Over Conservative Guest’s Iran War Defense first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-13T16:53:04+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1bc00a3e6382",
+   "title": "Iranian ambassador at World Cup: ‘Iran and the U.S. can be very good friends’",
+   "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/iran-ambassador-mexico-abolfazl-pasandideh-00961408",
+   "summary": "Tehran's top diplomat in Mexico says Iran's presence in the United States for the World Cup should be read as a gesture of goodwill amid talks to end the conflict.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-13T16:51:26+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "542c13dd0901",
+   "title": "Trump’s name purged from Kennedy Center",
+   "link": "https://www.politico.com/news/2026/06/13/trumps-name-kennedy-center-00961458",
+   "summary": "The removal marks the end of the president’s longtime effort to assert control over the institution, one of Washington’s most iconic landmarks.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-13T16:46:36+00:00",
+   "iran_topic": false
+  },
   {
    "id": "6e729fb51c7c",
    "title": "WATCH: The Moment Workers Pry Trump’s Name Off Kennedy Center Behind Tarp By Hand — Drive Away When It’s Done",
@@ -730,16 +860,6 @@
    "iran_topic": false
   },
   {
-   "id": "84d491bdc759",
-   "title": "Meta Employee Hijacks Livestreamed Meeting and Rants About Top Exec: ‘Piece of Sh*t’",
-   "link": "https://www.mediaite.com/media/tech/meta-employee-hijacks-livestreamed-meeting-and-rants-about-top-exec-piece-of-sht/",
-   "summary": "According to a Friday report from WIRED, Meta employees are growing increasingly frustrated with the company's AI reorganization efforts, with one worker hijacking a livestreamed internal presentation this week to call a top executive a \"piece of sh*t.\" The post Meta Employee Hijacks Livestreamed Meeting and Rants About Top Exec: ‘Piece of Sh*t’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T23:54:51+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1ce3246c273e",
    "title": "BREAKING on MS NOW: The D.C. Circuit Court of Appeals just rejected the Kennedy Center board's effort to pause the court-ordered removal of Trump's name from the building. That means Trump's name must come down tonight.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo4vjdo4ts2e",
@@ -757,16 +877,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-12T23:23:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b4f2288c1316",
-   "title": "Spencer Pratt Alleges Arson After Fire at Crystals Company Office: ‘No Accident’",
-   "link": "https://www.mediaite.com/media/news/spencer-pratt-alleges-arson-after-fire-at-crystals-company-office-no-accident/",
-   "summary": "The former Los Angeles mayoral candidate claimed the blaze was “no accident” and suggested it may have been politically motivated. The post Spencer Pratt Alleges Arson After Fire at Crystals Company Office: ‘No Accident’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T23:21:13+00:00",
    "iran_topic": false
   },
   {
@@ -790,16 +900,6 @@
    "iran_topic": false
   },
   {
-   "id": "b69a373e3dc9",
-   "title": "Doug Burgum Blames Democrats for High Gas Prices: ‘Thank Gavin Newsom for That’",
-   "link": "https://www.mediaite.com/media/tv/doug-burgum-blames-democrats-for-high-gas-prices-thank-gavin-newsom-for-that/",
-   "summary": "During a Friday appearance on Fox News, Interior Secretary Doug Burgum blamed Democrats for high gas prices across the country, saying voters should \"thank [California Gov.] Gavin Newsom for that.\" The post Doug Burgum Blames Democrats for High Gas Prices: ‘Thank Gavin Newsom for That’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T22:42:56+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "a111e6df820d",
    "title": "Full video from Scott MacFarlane here: youtu.be/4vHFZ6AEIeQ",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo4sstkf3k26",
@@ -820,32 +920,12 @@
    "iran_topic": false
   },
   {
-   "id": "dd6d8abcef8a",
-   "title": "Tulsi Gabbard Sparks Fury By Going All In on Ukraine Biolabs Theory: ‘Loyal to the End. To Putin’",
-   "link": "https://www.mediaite.com/politics/tulsi-gabbard-sparks-fury-by-going-all-in-on-ukraine-biolabs-theory-loyal-to-the-end-to-putin/",
-   "summary": "“Russia is playing the GOP like a fiddle right now. Crazy to see members of Congress entertain this biolab propaganda\" The post Tulsi Gabbard Sparks Fury By Going All In on Ukraine Biolabs Theory: ‘Loyal to the End. To Putin’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-12T22:29:48+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "cc722d43fe35",
    "title": "LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center",
    "link": "https://www.mediaite.com/politics/trump/live-stream-workers-begin-removing-trumps-name-from-kennedy-center/",
    "summary": "Workers in Washington, D.C. have begun the process of removing President Donald Trump's name from the Kennedy Center after a judge's order. The post LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center first appeared on Mediaite .",
    "source": "Mediaite Trump",
    "category": "mediaite",
-   "published": "2026-06-12T22:05:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cc722d43fe35",
-   "title": "LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center",
-   "link": "https://www.mediaite.com/politics/trump/live-stream-workers-begin-removing-trumps-name-from-kennedy-center/",
-   "summary": "Workers in Washington, D.C. have begun the process of removing President Donald Trump's name from the Kennedy Center after a judge's order. The post LIVE STREAM: Workers Begin Removing Trump’s Name From Kennedy Center first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
    "published": "2026-06-12T22:05:39+00:00",
    "iran_topic": false
   },
@@ -897,86 +977,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-12T21:01:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f39e5029dbf",
-   "title": "First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
-   "summary": "First Lady Melania Trump had a remarkable week focused on empowering children and youth through two major accomplishments: the first ever Presidential AI Challenge National Campion Awards Ceremony at the White House and the launch of Fostering the Future Accounts for youth in foster care. Presidential AI Challenge: On Tuesday, June 9, Mrs. Trump honored [&#8230;] The post First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-12T20:58:22+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "03b4d55469d9",
-   "title": "At least six states have RSVP'd 'no' to Trump's America 250 state fair. www.notus.org/donald-trump...",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo4mavhjts2z",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-12T20:45:13.907+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6e55e27a3a5f",
-   "title": "Freedom 250’s fair on National Mall highlights conservative groups",
-   "link": "https://www.politico.com/news/2026/06/12/freedom-250-national-mall-fair-conservative-groups-00960904",
-   "summary": "In May, several musical artists dropped out of planned performances at the fair after learning of its ties to Trump.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T20:30:22+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c15d4ee2be5c",
-   "title": "Trump's GOP allies draw a line in the sand on Iran",
-   "link": "https://www.politico.com/news/2026/06/12/iran-war-trump-midterms-labor-day-00960925",
-   "summary": "Their new deadline for the war: Labor Day.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T20:29:56+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f93d9f2c2d94",
-   "title": "America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
-   "summary": "On June 12, 1776, Virginia unanimously proclaimed the Virginia Declaration of Rights—the first official declaration of individual liberties in the American Colonies and one of the most consequential documents in the history of human freedom. &#160;Its immortal truths inspired both the Declaration of Independence and the Constitution, forever shaping the destiny of our Republic. As [&#8230;] The post America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-12T20:21:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f1d102fb116",
-   "title": "Get rid of your electric vehicle because gas prices are rising! Doug Burgum",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3mo4kkh3v6k2y",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-12T20:14:46.907+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6669d45a0339",
-   "title": "A deal with Iran is near but not final, senior US official says",
-   "link": "https://www.politico.com/news/2026/06/12/a-deal-with-iran-is-near-but-not-final-senior-us-official-says-00960804",
-   "summary": "The senior US official put the chance of success for a near-term deal at 80 to 85 percent but said the nuclear details will take months to materialize.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-12T19:53:14+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "4e22aa9c89ae",
-   "title": "Trump believes that we will win",
-   "link": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/donald-trump-usmnt-message-support-00960757",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-12T19:51:49+00:00",
    "iran_topic": false
   }
  ]
