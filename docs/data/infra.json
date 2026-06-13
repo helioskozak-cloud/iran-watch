@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T07:45:18.257525+00:00",
+ "generated": "2026-06-13T08:51:12.616531+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,8 +224,15 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-13T07:44:35.983757+00:00",
+   "published": "2026-06-13T08:50:25.619330+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran said to have mined entrance to bombed nuclear site to deter raid on enriched uranium",
+   "link": "https://www.timesofisrael.com/iran-said-to-have-mined-entrance-to-bombed-nuclear-site-to-deter-raid-on-enriched-uranium/",
+   "source": "Times of Israel",
+   "published": "2026-06-13T08:25:50+00:00",
+   "severity": "high"
   },
   {
    "title": "US military shoots down Iranian attack drones in Hormuz, CENTCOM confirms",
@@ -235,11 +242,11 @@
    "severity": "high"
   },
   {
-   "title": "US says it downed multiple Iranian drones targeting ships in Hormuz",
+   "title": "IDF said to carry out airstrikes in southern Lebanon after evacuation warnings",
    "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
    "source": "Times of Israel",
    "published": "2026-06-13T02:18:39+00:00",
-   "severity": "high"
+   "severity": "info"
   },
   {
    "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
@@ -317,27 +324,20 @@
    "source": "Press TV",
    "published": "2026-06-12T16:33:32.624185+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump fumes at ‘dishonorable’ Iranians amid leaks on emerging deal’s purported terms",
-   "link": "https://www.timesofisrael.com/trump-fumes-at-dishonorable-iranians-amid-leaks-on-emerging-deals-purported-terms/",
-   "source": "Times of Israel",
-   "published": "2026-06-12T16:14:39+00:00",
-   "severity": "medium"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "WATCH",
-   "incident_count": 8,
+   "status": "ACTIVE",
+   "incident_count": 7,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-13T07:44:35.983757+00:00",
+     "published": "2026-06-13T08:50:25.619330+00:00",
      "severity": "info"
     },
     {
@@ -348,11 +348,11 @@
      "severity": "high"
     },
     {
-     "title": "US says it downed multiple Iranian drones targeting ships in Hormuz",
-     "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
-     "source": "Times of Israel",
-     "published": "2026-06-13T02:18:39+00:00",
-     "severity": "high"
+     "title": "Iran peace deal looms while new military action flares near Strait of Hormuz reut.rs/4viFddt",
+     "link": "https://bsky.app/profile/reuters.com/post/3mo55ccnlof2c",
+     "source": "@reuters",
+     "published": "2026-06-13T01:50:14+00:00",
+     "severity": "info"
     }
    ]
   },
