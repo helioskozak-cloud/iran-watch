@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-14T22:22:52.857865+00:00",
+ "generated": "2026-06-14T23:44:46.472994+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 83.71,
-   "change": -3.62,
-   "change_pct": -4.15,
+   "price": 83.95,
+   "change": -3.38,
+   "change_pct": -3.87,
    "spark": [
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
     87.33000183105469,
-    83.70999908447266
+    83.94999694824219
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 80.83,
-   "change": -4.05,
-   "change_pct": -4.77,
+   "price": 81.13,
+   "change": -3.75,
+   "change_pct": -4.42,
    "spark": [
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
     84.87999725341797,
-    80.83000183105469
+    81.12999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4323.2,
-   "change": 108.2,
-   "change_pct": 2.57,
+   "price": 4304.2,
+   "change": 89.2,
+   "change_pct": 2.12,
    "spark": [
     4260.0,
     4108.2001953125,
     4090.300048828125,
     4215.0,
-    4323.2001953125
+    4304.2001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.43,
-   "change": -0.32,
-   "change_pct": -0.32,
+   "price": 99.52,
+   "change": -0.23,
+   "change_pct": -0.23,
    "spark": [
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
     99.75,
-    99.43199920654297
+    99.51599884033203
    ]
   },
   "^GSPC": {
@@ -102,15 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.09,
-   "change": -0.03,
-   "change_pct": -0.96,
+   "price": 3.07,
+   "change": -0.05,
+   "change_pct": -1.67,
    "spark": [
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
     3.119999885559082,
-    3.0899999141693115
+    3.068000078201294
    ]
   }
  },
@@ -231,7 +231,28 @@
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-14T22:21:40.908879+00:00",
+   "published": "2026-06-14T23:44:09.661312+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil prices fell and stocks rose on Sunday after President Trump said the U.S. had reached a deal with Iran that would allow the “toll free” passage of ships through the Strait of Hormuz.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mobv644il62o",
+   "source": "@nytimes",
+   "published": "2026-06-14T23:08:02.516842+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
+   "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-14T22:43:19+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US and Iran reach deal, signing expected Friday",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-and-iran-reach-deal-signing-expected-friday",
+   "source": "Al-Monitor",
+   "published": "2026-06-14T21:29:48+00:00",
    "severity": "info"
   },
   {
@@ -303,27 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-14T10:36:38+00:00",
    "severity": "info"
-  },
-  {
-   "title": "UK's Starmer says armed forces intercepted Russian shadow fleet oil tanker",
-   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-899287",
-   "source": "Jerusalem Post",
-   "published": "2026-06-14T09:30:48+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
-   "link": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-14T07:38:58+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UK armed forces intercept Russian shadow fleet oil tanker in Channel",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u5e22h/uk_armed_forces_intercept_russian_shadow_fleet/",
-   "source": "r/worldnews",
-   "published": "2026-06-14T06:53:47+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 2,
+   "incident_count": 4,
    "recent": [
     {
      "title": "Trump announces US-Iran peace deal has been completed, Strait of Hormuz to reopen",
@@ -344,7 +344,14 @@
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-14T22:21:40.908879+00:00",
+     "published": "2026-06-14T23:44:09.661312+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Oil prices fell and stocks rose on Sunday after President Trump said the U.S. had reached a deal with Iran that would allow the “toll free” passage of ships through the Strait of Hormuz.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mobv644il62o",
+     "source": "@nytimes",
+     "published": "2026-06-14T23:08:02.516842+00:00",
      "severity": "info"
     }
    ]
@@ -372,6 +379,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "01864fa481c5",
+   "title": "Fonda: This isn’t the first time that Americans’ rights have come under attack. But this time, what is really different from the last century is that the attacks are coming from every part of the government: the executive, the legislative, and the Supreme Court.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mobx6km5ok2g",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-14T23:44:05.144+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a60428f02bab",
+   "title": "Fonda: In the face of what’s happening, we need our industry to be unified, activated, and unwilling to engage in anticipatory obedience. We stand together in defense of our right to free expression. If they come for one of us, by God, they come for all of us.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mobx35tayx2g",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-14T23:42:11.081+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "21f3acfdf01e",
+   "title": "‘Accomplished Nothing’: Critics Trash Trump’s Boasting About ‘Great’ Iran Deal",
+   "link": "https://www.mediaite.com/media/news/accomplished-nothing-critics-trash-trumps-boasting-about-great-iran-deal/",
+   "summary": "Critics of Donald Trump took to social media to trash the president's bragging about his \"great deal\" with Iran that no other president could have accomplished. The post ‘Accomplished Nothing’: Critics Trash Trump’s Boasting About ‘Great’ Iran Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-14T23:38:43+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "df1a15324f9f",
+   "title": "NBC poll: 78% of U.S. adults say that, compared to the past, the American Dream is harder to attain today. Just 5% say it's easier to attain.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mobw4okgck2c",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-14T23:25:08.554+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bdb7a86c734a",
+   "title": "Operation Manipulate Future's Markets getting off to a rough start",
+   "link": "https://bsky.app/profile/darinself.com/post/3mobupbijos24",
+   "summary": "",
+   "source": "@darinself",
+   "category": "trump_bsky",
+   "published": "2026-06-14T22:59:44.911+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a580c23183d0",
+   "title": "A perfect demonstration of why Trump has no credibility. bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3mobtvawaxc2z",
+   "summary": "",
+   "source": "@robertscotthorton",
+   "category": "trump_bsky",
+   "published": "2026-06-14T22:45:11.898+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9ce1d0c76e8a",
+   "title": "TRUMP: I hereby fully authorize the toll free opening of the Strait of Hormuz TRUMP 1 HOUR LATER: The strait will open on Friday",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mobtql6ync2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-14T22:42:34.893+00:00",
+   "iran_topic": true
+  },
   {
    "id": "e69e012a1f9c",
    "title": "CNN’s Nic Robertson Drops a Reality Check On Trump’s Claim The Deal With Iran Is ‘Now Complete’",
@@ -413,16 +490,6 @@
    "iran_topic": true
   },
   {
-   "id": "e051964ea30a",
-   "title": "FIFA or ... FISA?",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/fifa-fisa-football-soccer-00961822",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T21:00:00+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "7c088b8624a7",
    "title": "Pete Hegseth Drops a Whopper in CBS Interview — Claims ‘We Have Controlled the Straits the Entire Time’",
    "link": "https://www.mediaite.com/media/news/pete-hegseth-drops-a-whopper-in-cbs-interview-claims-we-have-controlled-the-straits-the-entire-time/",
@@ -441,16 +508,6 @@
    "category": "trump_bsky",
    "published": "2026-06-14T20:30:07.922+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "1b9935ce03f7",
-   "title": "Trump’s World Cup czar calls early entry for Iran team a ‘goodwill gesture’",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/iran-fifa-world-cup-entry-united-states-00961750",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T20:30:00+00:00",
-   "iran_topic": true
   },
   {
    "id": "20c2ccf2de0d",
@@ -480,16 +537,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-14T20:07:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "409d391aeadf",
-   "title": "The countless control rooms running the World Cup in New York and New Jersey",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/metlife-stadium-command-centers-fifa-world-cup-july-4-00961724",
-   "summary": "And just wait till the July 4 weekend ...",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T20:01:00+00:00",
    "iran_topic": false
   },
   {
@@ -550,16 +597,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-14T18:48:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f031592e98e0",
-   "title": "Andrew Giuliani says ‘dozens’ of World Cup visa cases landed on his desk",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/andrew-giuliani-fifa-world-cup-2026-dozens-visa-cases-somali-referee-00961748",
-   "summary": "Donald Trump’s tournament point person discusses U.S. border rejection of Somali referee.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T18:47:12+00:00",
    "iran_topic": false
   },
   {
@@ -640,16 +677,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-14T17:36:06+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c89a9ffd274f",
-   "title": "Inside the Croatian government's World Cup event with John Malkovich and Luka Modrić",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/croatia-fifa-world-cup-2026-tourism-sector-john-malkovich-00961717",
-   "summary": "The Adriatic country uses the tournament to tell the world to come visit.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T17:24:07+00:00",
    "iran_topic": false
   },
   {
@@ -763,16 +790,6 @@
    "iran_topic": false
   },
   {
-   "id": "4abeadae52f4",
-   "title": "Perceived corruption of World Cup countries",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/corruption-index-haiti-norway-new-zealand-00961654",
-   "summary": "Here's the data breakdown on how World Cup competitors stack up, based on the Transparency International’s Corruption Perceptions Index.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T16:20:32+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8b7e9fc0297a",
    "title": "Full video and more from MeidasTouch here: www.youtube.com/live/YaojuyW...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mob6evm2ds2k",
@@ -790,16 +807,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-14T16:16:42.953+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1fe3daac0548",
-   "title": "Poll shows America’s 2-party system may protect Trump from anti-incumbent backlash",
-   "link": "https://www.politico.com/news/2026/06/14/uk-us-trump-starmer-elections-00960828",
-   "summary": "Analysis from Public First suggests British and American voters respond to their frustration in fundamentally different ways.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T16:00:00+00:00",
    "iran_topic": false
   },
   {
@@ -893,16 +900,6 @@
    "iran_topic": false
   },
   {
-   "id": "6b1610ecc26d",
-   "title": "BREAM: What would set the threat level at right now? MARKWAYNE MULLIN: It's the highest it's ever been",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mob37sbsl22s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-14T15:23:42.101+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "784b9193c2ef",
    "title": "And you just... decided to keep gas prices above $4/ gallon?",
    "link": "https://bsky.app/profile/jacobtlevy.bsky.social/post/3mob32nvaok2k",
@@ -920,26 +917,6 @@
    "source": "@helenkennedy",
    "category": "trump_bsky",
    "published": "2026-06-14T15:19:08.763+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "48a8a85ef79d",
-   "title": "Sen. Tim Scott: \"Gas prices are just too high. And President Trump is making the right decisions in Iran that will lead to lower gas prices in the very very near future.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mob2qc5q462r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-14T15:15:01.839+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f1b5dd94ac23",
-   "title": "\"All options have to be on the table\" -- Warnock on expanding the Supreme Court",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mob2nugoiz25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-14T15:13:40.343+00:00",
    "iran_topic": false
   },
   {
@@ -970,6 +947,36 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-14T14:18:04.949+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "27136e811970",
+   "title": "‘We’re Afraid’: Top Trump Aides Reportedly Think Maggie Haberman and Jonathan Swan Have Tapes of ‘Sensitive Conversations’ Inside the Situation Room",
+   "link": "https://www.mediaite.com/media/news/were-afraid-top-trump-aides-reportedly-think-maggie-haberman-and-jonathan-swan-have-tapes-of-sensitive-conversations-inside-the-situation-room/",
+   "summary": "According to Axios, top WH officials think the NY Times reporters obtained Situation Room tapes — in what would be a truly stunning security breach. The post ‘We’re Afraid’: Top Trump Aides Reportedly Think Maggie Haberman and Jonathan Swan Have Tapes of ‘Sensitive Conversations’ Inside the Situation Room first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-14T13:49:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb1c27f52eaf",
+   "title": "Trump Congratulates Knicks on NBA Title Run — Shouts Out ‘Great Patriot’ on Team",
+   "link": "https://www.mediaite.com/media/news/trump-congratulates-knicks-on-nba-title-run-shouts-out-great-patriot-on-team/",
+   "summary": "Trump congratulated the New York Knicks on winning an NBA championship Saturday — and even delivered a special shout-out to one of the team's role players. The post Trump Congratulates Knicks on NBA Title Run — Shouts Out ‘Great Patriot’ on Team first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-14T12:46:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c3beb1f000d7",
+   "title": "Aerial footage of the celebration in New York: You see people out on their fire escapes, on their balconies, clinging on the side",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo7wkm2qah2f",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-14T04:27:35.884+00:00",
    "iran_topic": false
   }
  ]
