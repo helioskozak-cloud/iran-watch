@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-14T03:45:02.929911+00:00",
+ "generated": "2026-06-14T08:14:39.048776+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -8,7 +8,6 @@
    "change": -3.05,
    "change_pct": -3.37,
    "spark": [
-    94.25,
     91.44999694824219,
     93.0999984741211,
     90.37999725341797,
@@ -22,7 +21,6 @@
    "change": -2.83,
    "change_pct": -3.23,
    "spark": [
-    91.30000305175781,
     88.19999694824219,
     90.02999877929688,
     87.70999908447266,
@@ -32,15 +30,14 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4215.0,
-   "change": 124.7,
-   "change_pct": 3.05,
+   "price": 4238.8,
+   "change": 148.5,
+   "change_pct": 3.63,
    "spark": [
-    4335.89990234375,
     4260.0,
     4108.2001953125,
     4090.300048828125,
-    4215.0
+    4238.7998046875
    ]
   },
   "DX-Y.NYB": {
@@ -50,7 +47,6 @@
    "change": -0.11,
    "change_pct": -0.11,
    "spark": [
-    100.05000305175781,
     99.91000366210938,
     99.94999694824219,
     99.86000061035156,
@@ -106,7 +102,6 @@
    "change": 0.03,
    "change_pct": 1.07,
    "spark": [
-    3.1470000743865967,
     3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
@@ -221,10 +216,45 @@
  ],
  "incidents": [
   {
+   "title": "UK's Starmer says armed forces intercepted Russian shadow fleet oil tanker",
+   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-899287",
+   "source": "Jerusalem Post",
+   "published": "2026-06-14T09:30:48+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-14T03:44:24.319612+00:00",
+   "published": "2026-06-14T08:13:58.002176+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UK forces seize Russian shadow fleet tanker in English Channel",
+   "link": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-14T07:38:58+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UK armed forces intercept Russian shadow fleet oil tanker in Channel",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u5e22h/uk_armed_forces_intercept_russian_shadow_fleet/",
+   "source": "r/worldnews",
+   "published": "2026-06-14T06:53:47+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "British forces intercept Russian shadow fleet oil tanker attempting to cross English Channel",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u5e0v4/british_forces_intercept_russian_shadow_fleet_oil/",
+   "source": "r/worldnews",
+   "published": "2026-06-14T06:51:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UK's Starmer says armed forces intercepted Russian shadow fleet oil tanker reut.rs/448CmI4",
+   "link": "https://bsky.app/profile/reuters.com/post/3moa54sdoed2x",
+   "source": "@reuters",
+   "published": "2026-06-14T06:25:09+00:00",
    "severity": "info"
   },
   {
@@ -242,14 +272,14 @@
    "severity": "info"
   },
   {
-   "title": "Trump says US-Iran deal to be signed Sunday, contradicting Tehran, which doesn’t react",
+   "title": "Trump says US-Iran deal to be signed Sunday, contradicting Tehran",
    "link": "https://www.timesofisrael.com/trump-claims-us-iran-deal-to-be-signed-sunday-no-confirmation-from-tehran/",
    "source": "Times of Israel",
    "published": "2026-06-13T20:17:01+00:00",
    "severity": "medium"
   },
   {
-   "title": "Trump says Iran deal to be signed tomorrow, Hormuz to open 'immediately after'",
+   "title": "Trump says Iran deal to be signed Sunday, Hormuz to open 'immediately after'",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899262",
    "source": "Jerusalem Post",
    "published": "2026-06-13T18:33:58+00:00",
@@ -289,41 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-13T12:00:24+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US-Iran deal could be finalised soon, mediator Pakistan says",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-deal-could-be-finalised-soon-mediator-pakistan-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T12:00:24+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says US-Iran deal to be signed Sunday, Hormuz to open afterwards",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-us-iran-deal-be-signed-sunday-hormuz-open-afterwards",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T12:00:24+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says US-Iran deal to be signed Sunday, Hormuz to open after",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-us-iran-deal-be-signed-sunday-hormuz-open-after",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T12:00:24+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "‘Her whole face was covered in blood’: 11 campers attacked by jackals at Sea of Galilee",
-   "link": "https://www.timesofisrael.com/her-whole-face-was-covered-in-blood-11-campers-attacked-by-jackals-at-sea-of-galilee/",
-   "source": "Times of Israel",
-   "published": "2026-06-13T09:50:27+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran said to have mined entrance to bombed nuclear site to deter raid on enriched uranium",
-   "link": "https://www.timesofisrael.com/iran-said-to-have-mined-entrance-to-bombed-nuclear-site-to-deter-raid-on-enriched-uranium/",
-   "source": "Times of Israel",
-   "published": "2026-06-13T08:25:50+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -331,17 +326,17 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 7,
+   "incident_count": 5,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-14T03:44:24.319612+00:00",
+     "published": "2026-06-14T08:13:58.002176+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump says Iran deal to be signed tomorrow, Hormuz to open 'immediately after'",
+     "title": "Trump says Iran deal to be signed Sunday, Hormuz to open 'immediately after'",
      "link": "https://www.jpost.com/middle-east/iran-news/article-899262",
      "source": "Jerusalem Post",
      "published": "2026-06-13T18:33:58+00:00",
@@ -379,6 +374,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "c3beb1f000d7",
+   "title": "Aerial footage of the celebration in New York: You see people out on their fire escapes, on their balconies, clinging on the side",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mo7wkm2qah2f",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-14T04:27:35.884+00:00",
+   "iran_topic": false
+  },
   {
    "id": "8bc522438170",
    "title": "Knicks in five.",
@@ -967,16 +972,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-13T15:32:03+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "19ee752c02fc",
-   "title": "Europe's top sports official talks Panini stickers and World Cup picks",
-   "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/glenn-micallef-sports-commissioner-00961314",
-   "summary": "POLITICO caught up with European Sports Commissioner Glenn Micallef in Brussels last week to get his top tips for the World Cup.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-13T15:30:00+00:00",
    "iran_topic": false
   }
  ]
