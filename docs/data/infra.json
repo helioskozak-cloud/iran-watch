@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-14T11:39:38.289805+00:00",
+ "generated": "2026-06-14T13:19:44.263462+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,25 +216,39 @@
  ],
  "incidents": [
   {
-   "title": "Iran will neither produce nor acquire nuclear weapons, official confirms ahead of deal signing",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899337",
-   "source": "Jerusalem Post",
-   "published": "2026-06-14T13:09:42+00:00",
-   "severity": "info"
-  },
-  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-14T11:38:59.772186+00:00",
+   "published": "2026-06-14T13:18:41.221298+00:00",
    "severity": "info"
   },
   {
    "title": "Britain seizes Russian oil tanker amid rising tensions with Moscow",
    "link": "https://presstv.ir/Detail/2026/06/14/770415/Britain-seizes-Russian-oil-tanker-in-English-Channel-amid-rising-tensions-with-Moscow",
    "source": "Press TV",
-   "published": "2026-06-14T11:38:59.764366+00:00",
+   "published": "2026-06-14T13:18:41.214516+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran deal's final draft includes ban on producing, acquiring nuclear weapons, official confirms",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899337",
+   "source": "Jerusalem Post",
+   "published": "2026-06-14T13:09:42+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+   "link": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-14T12:58:08+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Despite Trump pronouncement, Iran signals no final decision made on deal",
+   "link": "https://www.timesofisrael.com/despite-trump-pronouncement-iran-signals-no-final-decision-made-on-deal/",
+   "source": "Times of Israel",
+   "published": "2026-06-14T12:38:24+00:00",
+   "severity": "medium"
   },
   {
    "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
@@ -305,20 +319,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-13T18:33:58+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u4wmby/trump_says_iran_deal_will_be_signed_sunday_strait/",
-   "source": "r/worldnews",
-   "published": "2026-06-13T17:19:49+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says Iran deal to be signed on Sunday",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-deal-be-signed-sunday",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T17:01:46+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,13 +326,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 3,
+   "incident_count": 2,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-14T11:38:59.772186+00:00",
+     "published": "2026-06-14T13:18:41.221298+00:00",
      "severity": "info"
     },
     {
@@ -340,13 +340,6 @@
      "link": "https://www.jpost.com/middle-east/iran-news/article-899262",
      "source": "Jerusalem Post",
      "published": "2026-06-13T18:33:58+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Trump says Iran deal will be signed Sunday, Strait of Hormuz to open immediately after",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u4wmby/trump_says_iran_deal_will_be_signed_sunday_strait/",
-     "source": "r/worldnews",
-     "published": "2026-06-13T17:19:49+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +367,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "c950b58c2b8f",
+   "title": "Kasie Hunt points out to Markwayne Mullin that he seems to be laying the groundwork to blame Democrats if there is a security incident at the World Cup",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moaua6vtgl26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-14T13:18:39.111+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8784cfecb121",
+   "title": "DHS Secretary Markwayne Mullin: \"When your economy is tied together, you're less likely to destroy your economy because of your dislike for someone's religion. And so the president has made a very good deal here.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moatz4aa6x26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-14T13:14:41.422+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99b4084bbb18",
+   "title": "The man who runs the town between the stadiums",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/arlington-texas-jim-ross-00961573",
+   "summary": "Mayor Jim Ross doesn't need Dallas or Fort Worth. Arlington has three stadiums, roller coasters, and a parade of rowdy Dutch fans to manage.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-14T12:49:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb1c27f52eaf",
+   "title": "Trump Congratulates Knicks on NBA Title Run — Shouts Out ‘Great Patriot’ on Team",
+   "link": "https://www.mediaite.com/media/news/trump-congratulates-knicks-on-nba-title-run-shouts-out-great-patriot-on-team/",
+   "summary": "Trump congratulated the New York Knicks on winning an NBA championship Saturday — and even delivered a special shout-out to one of the team's role players. The post Trump Congratulates Knicks on NBA Title Run — Shouts Out ‘Great Patriot’ on Team first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-14T12:46:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b699197c6b9",
+   "title": "A king with 3 teams",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/netherlands-curacao-Argentina -00961574",
+   "summary": "Willem-Alexander of the Netherlands has an official obligation to root for two World Cup competitors, and a soft spot for a third.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-14T12:00:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "c3beb1f000d7",
    "title": "Aerial footage of the celebration in New York: You see people out on their fire escapes, on their balconies, clinging on the side",
@@ -855,26 +898,6 @@
    "iran_topic": false
   },
   {
-   "id": "02f8e91cee44",
-   "title": "These clowns have no dignity, no scruples, no clue….And they think we’re stupid enough to believe them.",
-   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mo6sp24pkc2g",
-   "summary": "",
-   "source": "@djrothkopf",
-   "category": "trump_bsky",
-   "published": "2026-06-13T17:45:50.486+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8c8b5397d563",
-   "title": "Our long national nightmare of ungilded sculptures is over.",
-   "link": "https://bsky.app/profile/rudepundit.bsky.social/post/3mo6s537xb22k",
-   "summary": "",
-   "source": "@rudepundit",
-   "category": "trump_bsky",
-   "published": "2026-06-13T17:35:47.661+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b086edfadc20",
    "title": "Fox News Host Gushes Over Hunter Biden Social Media Tear: ‘He’s Killin’ it on X!’",
    "link": "https://www.mediaite.com/media/news/fox-news-host-gushes-over-hunter-biden-social-media-tear-hes-killin-it-on-x/",
@@ -925,16 +948,6 @@
    "iran_topic": false
   },
   {
-   "id": "22a8280c3ce5",
-   "title": "‘That’s Not America First!’ CNN Table Falls Into Chaos Over Conservative Guest’s Iran War Defense",
-   "link": "https://www.mediaite.com/media/tv/thats-not-america-first-cnn-table-falls-into-chaos-over-conservative-guests-iran-war-defense/",
-   "summary": "A CNN table fell into chaotic crosstalk as a conservative guest mounted a defense for the Iran conflict and argued polling shows more support than people think. The post ‘That’s Not America First!’ CNN Table Falls Into Chaos Over Conservative Guest’s Iran War Defense first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-13T16:53:04+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "1bc00a3e6382",
    "title": "Iranian ambassador at World Cup: ‘Iran and the U.S. can be very good friends’",
    "link": "https://www.politico.com/live-updates/2026/06/13/world-cup-2026/iran-ambassador-mexico-abolfazl-pasandideh-00961408",
@@ -952,26 +965,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-13T16:46:36+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8f040eb4fe0d",
-   "title": "BREAKING on MS NOW: The Trump Justice Department has filed court documents saying Trump's name has been \"removed\" from \"all physical signage on the Kennedy Center building and grounds.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mo6mjl5qis2g",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-13T15:55:24.568+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b25c8673be32",
-   "title": "Trump to attend dinner at Versailles post-G7",
-   "link": "https://www.politico.com/news/2026/06/13/trump-to-attend-dinner-at-versailles-post-g7-00961395",
-   "summary": "The White House, until now, had not confirmed whether the U.S. president had accepted the French president’s invitation.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-13T15:32:03+00:00",
    "iran_topic": false
   }
  ]
