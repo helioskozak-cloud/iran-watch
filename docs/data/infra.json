@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-14T09:24:32.256221+00:00",
+ "generated": "2026-06-14T11:39:38.289805+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,17 +216,38 @@
  ],
  "incidents": [
   {
-   "title": "UK's Starmer says armed forces intercepted Russian shadow fleet oil tanker",
-   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-899287",
+   "title": "Iran will neither produce nor acquire nuclear weapons, official confirms ahead of deal signing",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899337",
    "source": "Jerusalem Post",
-   "published": "2026-06-14T09:30:48+00:00",
+   "published": "2026-06-14T13:09:42+00:00",
    "severity": "info"
   },
   {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-14T09:23:52.520705+00:00",
+   "published": "2026-06-14T11:38:59.772186+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Britain seizes Russian oil tanker amid rising tensions with Moscow",
+   "link": "https://presstv.ir/Detail/2026/06/14/770415/Britain-seizes-Russian-oil-tanker-in-English-Channel-amid-rising-tensions-with-Moscow",
+   "source": "Press TV",
+   "published": "2026-06-14T11:38:59.764366+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-and-asset",
+   "source": "Al-Monitor",
+   "published": "2026-06-14T10:36:38+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UK's Starmer says armed forces intercepted Russian shadow fleet oil tanker",
+   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-899287",
+   "source": "Jerusalem Post",
+   "published": "2026-06-14T09:30:48+00:00",
    "severity": "info"
   },
   {
@@ -298,41 +319,20 @@
    "source": "Al-Monitor",
    "published": "2026-06-13T17:01:46+00:00",
    "severity": "info"
-  },
-  {
-   "title": "President Trump to discuss Strait of Hormuz demining efforts with allies at next week's G7 summit as confidence grows for a deal with Iran.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mo6kzywnug2x",
-   "source": "@apnews",
-   "published": "2026-06-13T15:28:48+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u4tcby/rubio_tells_india_ships_violating_us_blockade_in/",
-   "source": "r/worldnews",
-   "published": "2026-06-13T15:07:40+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "US-Iran deal could be sealed within 24 hours, mediator Pakistan says",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-13T12:00:24+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 5,
+   "status": "ACTIVE",
+   "incident_count": 3,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-14T09:23:52.520705+00:00",
+     "published": "2026-06-14T11:38:59.772186+00:00",
      "severity": "info"
     },
     {
