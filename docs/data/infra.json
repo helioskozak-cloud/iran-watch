@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-15T17:06:26.954721+00:00",
+ "generated": "2026-06-15T20:34:12.272036+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 83.17,
-   "change": -4.16,
-   "change_pct": -4.76,
+   "price": 83.63,
+   "change": -3.7,
+   "change_pct": -4.24,
    "spark": [
     93.0999984741211,
     90.37999725341797,
     87.33000183105469,
-    83.16999816894531
+    83.62999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 80.45,
-   "change": -4.43,
-   "change_pct": -5.22,
+   "price": 81.32,
+   "change": -3.56,
+   "change_pct": -4.19,
    "spark": [
     90.02999877929688,
     87.70999908447266,
     84.87999725341797,
-    80.44999694824219
+    81.31999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4357.9,
-   "change": 142.9,
-   "change_pct": 3.39,
+   "price": 4334.2,
+   "change": 119.2,
+   "change_pct": 2.83,
    "spark": [
     4108.2001953125,
     4090.300048828125,
     4215.0,
-    4357.89990234375
+    4334.2001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.57,
-   "change": -0.18,
-   "change_pct": -0.18,
+   "price": 99.69,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
     99.94999694824219,
     99.86000061035156,
     99.75,
-    99.56700134277344
+    99.69100189208984
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7569.02,
-   "change": 137.56,
-   "change_pct": 1.85,
+   "price": 7554.29,
+   "change": 122.83,
+   "change_pct": 1.65,
    "spark": [
     7386.64990234375,
     7266.990234375,
     7394.2998046875,
     7431.4599609375,
-    7569.02001953125
+    7554.2900390625
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 120.23,
-   "change": -5.2,
-   "change_pct": -4.15,
+   "price": 121.21,
+   "change": -4.22,
+   "change_pct": -3.36,
    "spark": [
     131.3000030517578,
     134.3000030517578,
     128.8300018310547,
     125.43000030517578,
-    120.22979736328125
+    121.20999908447266
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.01,
-   "change": -1.67,
-   "change_pct": -9.45,
+   "price": 16.2,
+   "change": -1.48,
+   "change_pct": -8.37,
    "spark": [
     19.8700008392334,
     22.219999313354492,
     19.440000534057617,
     17.68000030517578,
-    16.010000228881836
+    16.200000762939453
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.13,
-   "change": 0.02,
-   "change_pct": 0.48,
+   "price": 3.15,
+   "change": 0.04,
+   "change_pct": 1.12,
    "spark": [
     3.184999942779541,
     3.0869998931884766,
     3.119999885559082,
-    3.134999990463257
+    3.1549999713897705
    ]
   }
  },
@@ -216,6 +216,62 @@
  ],
  "incidents": [
   {
+   "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
+   "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
+   "source": "Press TV",
+   "published": "2026-06-15T20:33:27.181924+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Wall Street's main indexes rallied, with the Dow marking a record-high close after the United States and Iran struck a preliminary agreement to end the Iran war and reopen the Strait of Hormuz, leading to an easing of inflation fears as crude oil prices dropped reut.rs/4xvYIRk",
+   "link": "https://bsky.app/profile/reuters.com/post/3moe3jugck22i",
+   "source": "@reuters",
+   "published": "2026-06-15T20:07:19.105+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US says Trump, Vance and Iran’s Ghalibaf ‘digitally’ signed Iran deal on Sunday",
+   "link": "https://www.timesofisrael.com/us-says-trump-vance-and-irans-ghalibaf-digitally-signed-iran-deal-on-sunday/",
+   "source": "Times of Israel",
+   "published": "2026-06-15T19:44:39+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump’s Iran accord offers exit from war — and fresh political risks",
+   "link": "https://www.al-monitor.com/originals/2026/06/trumps-iran-accord-offers-exit-war-and-fresh-political-risks",
+   "source": "Al-Monitor",
+   "published": "2026-06-15T19:36:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Captain of Russian shadow fleet tanker detained by UK has been charged",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u6pf1f/captain_of_russian_shadow_fleet_tanker_detained/",
+   "source": "r/worldnews",
+   "published": "2026-06-15T18:45:04+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US says Hormuz to be toll-free under Iran deal",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-says-hormuz-be-toll-free-under-iran-deal",
+   "source": "Al-Monitor",
+   "published": "2026-06-15T18:30:22+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+   "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-15T18:27:23+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "U.K. Forces Seize Russian Shadow Tanker in English Channel",
+   "link": "https://news.usni.org/2026/06/15/u-k-forces-seize-russian-shadow-tanker-in-english-channel",
+   "source": "USNI News",
+   "published": "2026-06-15T18:27:08+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Tehran leverages Lebanon, Hormuz to shape narrative around deal, force Trump's hand, expert says",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899472",
    "source": "Jerusalem Post",
@@ -223,10 +279,10 @@
    "severity": "info"
   },
   {
-   "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
-   "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
-   "source": "Press TV",
-   "published": "2026-06-15T17:05:50.604381+00:00",
+   "title": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly reut.rs/4uN8Z9m",
+   "link": "https://bsky.app/profile/reuters.com/post/3modszvrooz2v",
+   "source": "@reuters",
+   "published": "2026-06-15T17:35:13+00:00",
    "severity": "info"
   },
   {
@@ -263,90 +319,34 @@
    "source": "Al-Monitor",
    "published": "2026-06-15T16:00:19+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-   "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-15T14:59:22+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Explainer-Middle East oil and gas output will take months to fully recover",
-   "link": "https://www.al-monitor.com/originals/2026/06/explainer-middle-east-oil-and-gas-output-will-take-months-fully-recover",
-   "source": "Al-Monitor",
-   "published": "2026-06-15T14:36:53+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "TODAY I The U.S. & Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. Join State of Play for a live episode to assess the deal and what comes next. Watch: https://www.csis.org/events/trumps-iran-deal-what-comes-next-state-play",
-   "link": "https://bsky.app/profile/csis.org/post/3modiyqgspi2a",
-   "source": "@csis",
-   "published": "2026-06-15T14:35:37.134267401+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says ships ‘starting to move’ through Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-15T14:28:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-   "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-15T14:26:28+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US to begin lifting naval blockade of Iran, Trump says",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-begin-lifting-naval-blockade-iran-trump-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-15T14:26:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Oil prices fall and shares jump after US-Iran deal announced",
-   "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-15T14:21:22+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Scouring Strait of Hormuz for mines could take weeks, delaying return to normal shipping",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899462",
-   "source": "Jerusalem Post",
-   "published": "2026-06-15T13:52:58+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
+   "status": "ELEVATED",
    "incident_count": 7,
    "recent": [
     {
-     "title": "Tehran leverages Lebanon, Hormuz to shape narrative around deal, force Trump's hand, expert says",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899472",
-     "source": "Jerusalem Post",
-     "published": "2026-06-15T18:23:57+00:00",
+     "title": "Wall Street's main indexes rallied, with the Dow marking a record-high close after the United States and Iran struck a preliminary agreement to end the Iran war and reopen the Strait of Hormuz, leading to an easing of inflation fears as crude oil prices dropped reut.rs/4xvYIRk",
+     "link": "https://bsky.app/profile/reuters.com/post/3moe3jugck22i",
+     "source": "@reuters",
+     "published": "2026-06-15T20:07:19.105+00:00",
+     "severity": "critical"
+    },
+    {
+     "title": "US says Hormuz to be toll-free under Iran deal",
+     "link": "https://www.al-monitor.com/originals/2026/06/us-says-hormuz-be-toll-free-under-iran-deal",
+     "source": "Al-Monitor",
+     "published": "2026-06-15T18:30:22+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump says Strait of Hormuz will be 'completely open' Friday",
-     "link": "https://www.al-monitor.com/originals/2026/06/trump-says-strait-hormuz-will-be-completely-open-friday",
-     "source": "Al-Monitor",
-     "published": "2026-06-15T17:00:22+00:00",
-     "severity": "low"
-    },
-    {
-     "title": "U.S. officials says Iran pact signed, Hormuz traffic will rise significantly",
-     "link": "https://www.al-monitor.com/originals/2026/06/us-officials-says-iran-pact-signed-hormuz-traffic-will-rise-significantly",
-     "source": "Al-Monitor",
-     "published": "2026-06-15T16:37:13+00:00",
+     "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+     "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-15T18:27:23+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,346 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "3c50a2af95a8",
+   "title": "footage of the aftermath of a B-52 Stratofortress crash at Edwards Air Force Base in California",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moe4srel742p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T20:30:11.601+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f80c788a91bc",
+   "title": "‘One of the Dumbest Things I Ever Said’: JD Vance Admits His ‘Childless Cat Ladies’ Comment Was ‘Boneheaded’",
+   "link": "https://www.mediaite.com/politics/one-of-the-dumbest-things-i-ever-said-jd-vance-admits-his-childless-cat-ladies-comment-was-boneheaded/",
+   "summary": "In Vice President JD Vance's new book, he admits his \"childless cat ladies\" comments were \"boneheaded\" and \"one of the dumbest things I've ever said.\" The post ‘One of the Dumbest Things I Ever Said’: JD Vance Admits His ‘Childless Cat Ladies’ Comment Was ‘Boneheaded’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T20:26:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0e828b4807ea",
+   "title": "CNN’s Paula Reid Pumps the Brakes on Gavin Newsom’s Claim He’s Victim of Trump Revenge Tour",
+   "link": "https://www.mediaite.com/media/news/cnns-paula-reid-pumps-the-brakes-on-gavin-newsoms-claim-hes-victim-of-trump-revenge-tour/",
+   "summary": "CNN's Paula Reid pumped the brakes on Monday after Gavin Newsom took to social media to call himself a victim of President Donald Trump's revenge tour. The post CNN’s Paula Reid Pumps the Brakes on Gavin Newsom’s Claim He’s Victim of Trump Revenge Tour first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T20:08:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b0477e276da4",
+   "title": "BREAKING WSJ: The Trump Justice Department's senior leadership closed an investigation of Paramount's bid for Warner Bros. Discovery before career staffers who were concerned about the acquisition had an opportunity to object, according to people familiar with the matter.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moe3fz7xbc2x",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-15T20:05:09.922+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "04a9ee53e3ac",
+   "title": "He looks like absolute shit.",
+   "link": "https://bsky.app/profile/angrystaffer.bsky.social/post/3moe32ccbic2i",
+   "summary": "",
+   "source": "@angrystaffer",
+   "category": "trump_bsky",
+   "published": "2026-06-15T19:58:36.781+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0b9824abb1e2",
+   "title": "Summer ICE",
+   "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/15/ice-new-york-city-hochul-mamdani-00962311",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-15T19:51:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f8fb352c868e",
+   "title": "Obama Hammers Trump’s Iran Deal As Likely Same As ‘We Had In The First Place’",
+   "link": "https://www.mediaite.com/media/tv/obama-hammers-trumps-iran-deal-as-likely-same-as-we-had-in-the-first-place/",
+   "summary": "\"It is doubtful that any agreement that arises is going to be significantly different from, or a significant improvement on, the deal that we had in the first place\" The post Obama Hammers Trump’s Iran Deal As Likely Same As ‘We Had In The First Place’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T19:49:08+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "c87f7ea14c1d",
+   "title": "They have the same Mars Attacks do.",
+   "link": "https://bsky.app/profile/digby56.bsky.social/post/3modzzbfcy22n",
+   "summary": "",
+   "source": "@digby56",
+   "category": "trump_bsky",
+   "published": "2026-06-15T19:40:07.962+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d40b2786e41b",
+   "title": "BREAKING: B-52 Stratofortress Crashes At California Air Base",
+   "link": "https://www.mediaite.com/media/news/breaking-b-52-stratofortress-crashes-at-california-air-base/",
+   "summary": "Edwards Air Force Base in California announced that a B-52 Stratofortress crashed this morning, but there's no word on whether there were any survivors. The post BREAKING: B-52 Stratofortress Crashes At California Air Base first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T19:36:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "19d60558f5c3",
+   "title": "Macron looks like he's checking for a pulse.",
+   "link": "https://bsky.app/profile/schooley.bsky.social/post/3modzlhws5k2j",
+   "summary": "",
+   "source": "@schooley",
+   "category": "trump_bsky",
+   "published": "2026-06-15T19:32:25.638+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fcd52b6d7911",
+   "title": "‘What’s Going On Here?’ CNN’s Brianna Keilar And MMA Analyst Dig Into Eric Trump’s Alleged ‘Fixed Fight’ DMs",
+   "link": "https://www.mediaite.com/media/news/whats-going-on-here-cnns-brianna-keilar-and-mma-analyst-dig-into-eric-trumps-alleged-fixed-fight-dms/",
+   "summary": "Brianna Keilar quizzed MMA analyst Luke Thomas about the rumors swirling over direct messages Eric Trump allegedly sent to a UFC fighter on Sunday. The post ‘What’s Going On Here?’ CNN’s Brianna Keilar And MMA Analyst Dig Into Eric Trump’s Alleged ‘Fixed Fight’ DMs first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T19:31:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "221642bee495",
+   "title": "Gov. Newsom: \"I'd like to say something to my wife: These times are not normal. They are not ordinary. I love you. I am sorry he is doing this. You have not earned a single one of the indignities that he is trying to inflict on you and our children.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modz6heiss24",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-15T19:25:08.831+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7e14749946f8",
+   "title": "‘Trash the Constitution!’ Fox’s Jonathan Turley Blasts 2028 Dems for Embracing Court-Packing",
+   "link": "https://www.mediaite.com/media/tv/trash-the-constitution-foxs-jonathan-turley-blasts-2028-dems-for-embracing-court-packing/",
+   "summary": "Fox News contributor Jonathan Turley sounded the alarm over Democrats' renewed interest in court-packing on Monday afternoon. The post ‘Trash the Constitution!’ Fox’s Jonathan Turley Blasts 2028 Dems for Embracing Court-Packing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T19:19:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "acba1d7fcff4",
+   "title": "Trump Boasts His UFC WH Event Might Be ‘More Important Than the World Cup’",
+   "link": "https://www.mediaite.com/media/sports/trump-boasts-his-ufc-wh-event-might-be-more-important-than-the-world-cup/",
+   "summary": "President Donald Trump suggested Monday that his UFC fight night at the White House might have been \"more important than the World Cup.\" The post Trump Boasts His UFC WH Event Might Be ‘More Important Than the World Cup’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T19:02:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1179081b89c0",
+   "title": "What am I looking at",
+   "link": "https://bsky.app/profile/lebassett.bsky.social/post/3modwngh5e227",
+   "summary": "",
+   "source": "@lebassett",
+   "category": "trump_bsky",
+   "published": "2026-06-15T18:39:49.961+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a4931f6d67c5",
+   "title": "Gavin Newsom Announces Trump DOJ Investigating Him And His Wife",
+   "link": "https://www.mediaite.com/media/news/just-in-newsom-announces-trump-doj-investigating-him-and-his-wife/",
+   "summary": "Gavin Newsom announced that President Donald Trump's Department of Justice has opened an investigation into him and his wife, Jennifer Siebel Newsom. The post Gavin Newsom Announces Trump DOJ Investigating Him And His Wife first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T18:29:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5610e88a039b",
+   "title": "BREAKING: Gov. Gavin Newsom says the Trump Justice Department is investigating him and his wife. \"Donald Trump isn't just coming after me because of my mean Tweets. He's coming after me because I am considering running for President.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modvto2mls2e",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-15T18:25:25.523+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cd9695d610a3",
+   "title": "CNN’s Bakari Sellers Falls Silent After Botched ‘But Trump’ Attack",
+   "link": "https://www.mediaite.com/media/tv/cnns-bakari-sellers-falls-silent-after-botched-but-trump-attack/",
+   "summary": "CNN's Bakari Sellers fell silent after he tried and failed to nail National Review's Noah Rothman for hypocrisy during an on-air debate over the weekend. The post CNN’s Bakari Sellers Falls Silent After Botched ‘But Trump’ Attack first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T18:25:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "154a44c2c5dc",
+   "title": "‘All Right, Listen’: Hakeem Jeffries And Local NY News Anchor Throw Down Over Rising Prices",
+   "link": "https://www.mediaite.com/media/news/all-right-listen-hakeem-jeffries-and-local-ny-news-anchor-throw-down-over-rising-prices/",
+   "summary": "Hakeem Jeffries and Good Day New York's Rosanna Scotto sparred over the high cost of living Monday, with Scotto throwing back to the Obama years. The post ‘All Right, Listen’: Hakeem Jeffries And Local NY News Anchor Throw Down Over Rising Prices first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T18:14:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b074324fe2ce",
+   "title": "Dana White Denounces Fighter Calling Michelle Obama a Man at White House: ‘Hate That Kind of Nonsense’",
+   "link": "https://www.mediaite.com/media/sports/dana-white-denounces-fighter-calling-michelle-obama-a-man-at-white-house-hate-that-kind-of-nonsense/",
+   "summary": "UFC President Dana White told TIME on Monday he did not approve of one of his fighters calling former First Lady Michelle Obama a man. The post Dana White Denounces Fighter Calling Michelle Obama a Man at White House: ‘Hate That Kind of Nonsense’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T18:09:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b96ee17841ea",
+   "title": "choose your fighter",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moduqcmhw22a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T18:05:39.121+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10b1656d05d2",
+   "title": "ugh sorry hadn't seen it",
+   "link": "https://bsky.app/profile/atrupar.com/post/3modulj3pvs2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T18:02:58.140+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cdc283d0478c",
+   "title": "Cape Verde",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moduhlolyc2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T18:00:46.637+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d44f6287d056",
+   "title": "Democrats holding a 5-point lead in the battle for control of Congress, according to a new NBC poll: 49-44%. Independents lean toward Democrats by a 12-point margin, 46-34%, as do majorities of Black and Latino voters, voters under 50 years old and those with a college degree.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modu5nmtj22w",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:55:13.132+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "500e5dfcd35e",
+   "title": "Mark Levin Calls For Trump Admin to Release Deal Details, Fumes At Israel Jabs",
+   "link": "https://www.mediaite.com/politics/mark-levin-calls-for-trump-admin-to-release-deal-details-fumes-at-israel-jabs/",
+   "summary": "\"Why can't we, the people, see the damn MOU? Not through people briefed by an anonymous person. Honestly, I've never seen anything like this.\" The post Mark Levin Calls For Trump Admin to Release Deal Details, Fumes At Israel Jabs first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T17:44:32+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "a69067014f85",
+   "title": "The WH is trying to project Trump as the president who never stops working, going right from the UFC thing to Paris and nailing down the Iran agreement when others were sleeping. In reality, he looks and sounds totally spent. How much longer can they keep the plates spinning?",
+   "link": "https://bsky.app/profile/rothschildmd.bsky.social/post/3modt7hhf4c24",
+   "summary": "",
+   "source": "@rothschildmd",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:38:20.025+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9f82f86b914e",
+   "title": "Let. go. of. her. hand. you. demented. weirdo!",
+   "link": "https://bsky.app/profile/oeishik.bsky.social/post/3modsunlyuc2m",
+   "summary": "",
+   "source": "@oeishik",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:32:17.373+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9f9acc86d0b2",
+   "title": "check out how swollen and discolored Trump's right hand is",
+   "link": "https://bsky.app/profile/atrupar.com/post/3modst52psx2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:31:26.448+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9cdda5235b13",
+   "title": "Trump does his weird handshake tug of war with Brigitte Macron",
+   "link": "https://bsky.app/profile/atrupar.com/post/3modss2hgu72j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:30:50.163+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "70ddbf239825",
+   "title": "This is modern conservatism in a nutshell -- it's OK if Americans have to pay a lot for this stupid war of choice, because the people that Americans hate will have to pay even more. No amount of suffering is bad as long as we know someone else is suffering worse.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3modsfg6duc27",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:23:46.269+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "09f7483c212e",
+   "title": "Dave Portnoy Demands Trump Denounce UFC Fighter’s Attack on Michelle Obama: ‘These Guys Are Lunatics’",
+   "link": "https://www.mediaite.com/media/news/dave-portnoy-demands-trump-denounce-ufc-fighters-attack-on-michelle-obama-these-guys-are-lunatics/",
+   "summary": "Barstool boss Dave Portnoy urged President Trump to denounce the shocking jab against former first lady Michelle Obama by one of Sunday night's UFC Freedom 250 fighters. The post Dave Portnoy Demands Trump Denounce UFC Fighter’s Attack on Michelle Obama: ‘These Guys Are Lunatics’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T17:22:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1c6014a32e61",
+   "title": "Rep. Brian Mast: \"Ok, maybe they do end up getting $20 billion, let's say. Let's say we're still $300 to $500 billion ahead considering we destroyed their navy, destroyed their air force ... \" (So American taxpayers paid both to bomb Iran and then for Iran's reconstruction ... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mods6bs2ph2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:19:46.762+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "0595467926fe",
+   "title": "Rep. Brian Mast on Trump's message at the G7: \"I think the president is probably gonna tell them to be a little more American and less European\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mods5hgf2f2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:19:19.116+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b12364fb00e4",
+   "title": "The only qualification for the Trump Administration seems to be loyalty — including spreading the Dear Leader’s baseless claims of election fraud in elections he doesn’t do well in.",
+   "link": "https://bsky.app/profile/govpressoffice.gov.ca.gov/post/3modrycd63c2t",
+   "summary": "",
+   "source": "@govpressoffice",
+   "category": "trump_bsky",
+   "published": "2026-06-15T17:16:26.025+00:00",
+   "iran_topic": false
+  },
   {
    "id": "90d889150597",
    "title": "WaPo Removes Two Op-Eds by Writer Who Contributed to Richard Spencer’s Alt-Right Outlet",
@@ -455,76 +795,6 @@
    "iran_topic": true
   },
   {
-   "id": "5c080556282f",
-   "title": "Trump, now 80 years old, is looking banged up after his big night at the fights and a flight to Europe (Christian Hartmann/AFP via Getty)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modoq7jnqs2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:18:13.431+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "51bd4a35cd14",
-   "title": "Trump: \"It's toll free. We had a little argument on that. It's toll free. I think it's gonna be free sailing. We do want to see if we can straighten out the Lebanon thing.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modonmk57r2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:16:46.387+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "4adbffe5251b",
-   "title": "Q: When will the text of the MOU be released? TRUMP: I would say sometime after Friday. The strait is open now. But it opens completely.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modojons5g2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:14:34.387+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9c1d64738b03",
-   "title": "Trump: \"The strait is already partially opened. On Friday it will be completely opened.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modohupias2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:13:33.623+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "39e40fbb79c7",
-   "title": "Trump to Macron on UFC: \"Is that maybe more important than the World Cup? To some people it might be\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modoh3al2k2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:13:06.918+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "be10b2846f46",
-   "title": "get a load of Trump's drowsy body language during this Macron meeting",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modo7aighl2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:08:43.986+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ffe93a328f7e",
-   "title": "Trump, meeting with Macron, is losing his voice and talking about UFC",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modo2e4khm2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:06:00.019+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "ced4228dffaa",
    "title": "‘Great Win’: Trump White House Praises UFC Fighter Who Called Michelle Obama a Man",
    "link": "https://www.mediaite.com/media/sports/great-win-trump-white-house-praises-ufc-fighter-who-called-michelle-obama-a-man/",
@@ -543,16 +813,6 @@
    "category": "politico_wh",
    "published": "2026-06-15T15:59:23+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "4a714132208d",
-   "title": "UFC is extremely touchy about rights to their video so I didn't clip anything. Trump just sat there and watched -- didn't do a speech or anything",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modnlcqyes2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:57:35.304+00:00",
-   "iran_topic": false
   },
   {
    "id": "fb143d7ec1a8",
@@ -585,26 +845,6 @@
    "iran_topic": false
   },
   {
-   "id": "f0bec6c71b41",
-   "title": "Noun + Verb + Blame Joe Biden",
-   "link": "https://bsky.app/profile/mpbreen21.bsky.social/post/3modmonrgac25",
-   "summary": "",
-   "source": "@mpbreen21",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:41:33.773+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "64a511403354",
-   "title": "Sen. Roger Marshall: \"I was disappointed in the previous administration that they didn't crank up the development of these sterile male screwworms\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modmid434y2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:38:01.230+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "314ecd3ea12f",
    "title": "Dylan, on life in your 80’s, is incredible. @nytimes.com www.nytimes.com/2026/06/14/o...",
    "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3modm54xth22m",
@@ -613,26 +853,6 @@
    "category": "trump_bsky",
    "published": "2026-06-15T15:31:45.729+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "c00c961d4a0a",
-   "title": "crazy to think that perhaps because trump is not an ideologue and is a little attentive to public sentiment he is less likely to go full tiananman square than miller and vance",
-   "link": "https://bsky.app/profile/jamellebouie.net/post/3modlvwx2jk22",
-   "summary": "",
-   "source": "@jamellebouie",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:27:44.533+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e1850c790842",
-   "title": "Trump will be able claim credit for giving the Iranian Regime over 176 times more cash than Obama",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3modld6vges2d",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:17:15.335+00:00",
-   "iran_topic": true
   },
   {
    "id": "34137022dd09",
@@ -645,73 +865,13 @@
    "iran_topic": false
   },
   {
-   "id": "71d4bfb9b586",
-   "title": "\"Genocidal threats are in themselves a form of terror aimed at civilians. And while Trump has thankfully not dropped nukes, has continued to attack non-military targets. Last week, for example, he reportedly ordered strikes on Iranian water facilities, attacks that likely constitute a war crime.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modkrospz22a",
+   "id": "5996e0ce1f8b",
+   "title": "at PN, wrote about Trump's global foreign policy of erratic violence and global death. Iran, Cuba, South American waters, Africa—just a horrific death toll and ongoing nightmarish use of state terror. www.publicnotice.co/p/trump-glob...",
+   "link": "https://bsky.app/profile/nberlat.bsky.social/post/3modjbfjyn224",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@nberlat",
    "category": "trump_bsky",
-   "published": "2026-06-15T15:07:28.045+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d439d4a5ddfd",
-   "title": "How many pallets of cash is $300 billion? Asking for a friend",
-   "link": "https://bsky.app/profile/angrystaffer.bsky.social/post/3modklt3kjc2f",
-   "summary": "",
-   "source": "@angrystaffer",
-   "category": "trump_bsky",
-   "published": "2026-06-15T15:04:11.202+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a3d0226776f7",
-   "title": "‘Is That True?’ Stephanopoulos Confronts JD Vance About Iran’s Peace Deal Claims",
-   "link": "https://www.mediaite.com/media/tv/is-that-true-stephanopoulos-confronts-jd-vance-about-irans-peace-deal-claims/",
-   "summary": "George Stephanopoulos challenged JD Vance on the discrepancies between what American negotiators are saying about the Iran peace deal and Tehran's stance. The post ‘Is That True?’ Stephanopoulos Confronts JD Vance About Iran’s Peace Deal Claims first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T15:02:25+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8ecc5f4985fd",
-   "title": "‘Surrender’: Dem Senator Declares ‘We Should Be Glad’ Trump Waved the White Flag in Iran War",
-   "link": "https://www.mediaite.com/media/news/surrender-dem-senator-declares-we-should-be-glad-trump-waved-the-white-flag-in-iran-war/",
-   "summary": "\"Their regime is intact. Trump has humiliated America. He accomplished none of his goals. He was forced to surrender on Iran's terms\" The post ‘Surrender’: Dem Senator Declares ‘We Should Be Glad’ Trump Waved the White Flag in Iran War first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T14:50:11+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "192e086bc110",
-   "title": "Vance remains a terrible person.",
-   "link": "https://bsky.app/profile/rmfifthcircuit.bsky.social/post/3modjgn2irc2f",
-   "summary": "",
-   "source": "@rmfifthcircuit",
-   "category": "trump_bsky",
-   "published": "2026-06-15T14:43:23.362+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e9de70cd2048",
-   "title": "The thing about this is how historically wrong this is. Governments try to be careful with this sort of shit because you put goons with guns in the streets and they don't want to actually shoot american citizens it gets cool zone real fucking fast.",
-   "link": "https://bsky.app/profile/schnorkles.bsky.social/post/3modjfff2p22b",
-   "summary": "",
-   "source": "@schnorkles",
-   "category": "trump_bsky",
-   "published": "2026-06-15T14:42:41.764+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c4c88cb37861",
-   "title": "Barak Ravid: \"One of the things Trump told me is that he thinks Netanyahu has 'no f**king judgement.' He used the F-word I think three times during our call in the context of what Netanyahu did when he ordered the strike in Beirut.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modjcsla4c2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T14:41:14.907+00:00",
+   "published": "2026-06-15T14:40:27.707+00:00",
    "iran_topic": true
   },
   {
@@ -725,56 +885,6 @@
    "iran_topic": false
   },
   {
-   "id": "3ea4aae4d053",
-   "title": "I refuse to believe these are real people and not a political cartoon sprung to life",
-   "link": "https://bsky.app/profile/johansolo.bsky.social/post/3modipwgkbc2a",
-   "summary": "",
-   "source": "@johansolo",
-   "category": "trump_bsky",
-   "published": "2026-06-15T14:30:41.438+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d1381c73dc1",
-   "title": "Trump being utterly terrified of stairs is one of those storylines that keeps giving.",
-   "link": "https://bsky.app/profile/schnorkles.bsky.social/post/3modifxf53s2b",
-   "summary": "",
-   "source": "@schnorkles",
-   "category": "trump_bsky",
-   "published": "2026-06-15T14:25:06.900+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "418fb5ef56e9",
-   "title": "Laura Loomer Fumes Over Pic of Trump Getting Chummy With Mark Zuckerberg at UFC Fight: Was Hoping Zuckerberg ‘Would Be in Prison by Now’",
-   "link": "https://www.mediaite.com/politics/laura-loomer-fumes-over-pic-of-trump-getting-chummy-with-mark-zuckerberg-at-ufc-fight-was-hoping-zuckerberg-would-be-in-prison-by-now/",
-   "summary": "Conservative firebrand and Trump ally Laura Loomer was disappointed to see the president spending time with Mark Zuckerberg at UFC Freedom 250 on Sunday. The post Laura Loomer Fumes Over Pic of Trump Getting Chummy With Mark Zuckerberg at UFC Fight: Was Hoping Zuckerberg ‘Would Be in Prison by Now’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T14:24:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cac1b977b8f2",
-   "title": "‘This Is Precarious’: Fox’s Bill Hemmer Worries Trump Has Been ‘Suckered Into’ Iran Deal",
-   "link": "https://www.mediaite.com/media/tv/this-is-precarious-foxs-bill-hemmer-worries-trump-has-been-suckered-into-iran-deal/",
-   "summary": "Fox News' Bill Hemmer raised the possibility that President Donald Trump has been suckered into a long, stalemated negotiation with the Iranians. The post ‘This Is Precarious’: Fox’s Bill Hemmer Worries Trump Has Been ‘Suckered Into’ Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T14:02:14+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "50c8e260cf15",
-   "title": "Morning Joe Crew Stunned by Maggie Haberman Trump Bombshells: ‘Ugly, Illegal — Deeply Un-American!’",
-   "link": "https://www.mediaite.com/media/tv/morning-joe-crew-stunned-by-maggie-haberman-trump-bombshells-ugly-illegal-deeply-un-american/",
-   "summary": "Morning Joe co-hosts were stunned by the bombshell revelations emerging from the new Trump exposé, calling them \"ugly\" and \"illegal\" — and \"deeply un-American.\" The post Morning Joe Crew Stunned by Maggie Haberman Trump Bombshells: ‘Ugly, Illegal — Deeply Un-American!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T13:06:38+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "124d4a60cce2",
    "title": "Trump just announced that the July 4 event on the National Mall celebrating America 250 will now be turned into a \"TRUMP RALLY.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moddeyrfnk24",
@@ -785,16 +895,6 @@
    "iran_topic": false
   },
   {
-   "id": "0ff810f5e0f7",
-   "title": "‘Absolute Trash’: UFC Fighter Sparks Intense Ire for Calling Michelle Obama a Man at Trump’s White House Fight Night",
-   "link": "https://www.mediaite.com/media/sports/absolute-trash-ufc-fighter-sparks-intense-ire-for-calling-michelle-obama-a-man-at-trumps-white-house-fight-night/",
-   "summary": "UFC fighter Josh Hokit was slapped with a huge wave of backlash after he called former First Lady Michelle Obama a man after his match at President Trump's White House fight night. The post ‘Absolute Trash’: UFC Fighter Sparks Intense Ire for Calling Michelle Obama a Man at Trump’s White House Fight Night first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T12:39:08+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8a56139f04c3",
    "title": "\"Michelle Obama is a man, am I right?\" That's what UFC fighter Josh Hokit said at Trump's $60 million UFC fight on the White House lawn. After the event, UFC President Dana White said, \"hopefully, we created some unity in the country.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modbqvcbhk2s",
@@ -802,46 +902,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-15T12:25:57.614+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26384496dddf",
-   "title": "Trump Announces ‘The Most Spectacular TRUMP RALLY of Them All’ to Be Held on July 4",
-   "link": "https://www.mediaite.com/media/news/trump-announces-the-most-spectacular-trump-rally-of-them-all-to-be-held-on-july-4/",
-   "summary": "President Trump was up early on Monday morning to announce he will be hosting \"the most spectacular TRUMP RALLY of them all\" as America officially marks its 250th birthday on July 4. The post Trump Announces ‘The Most Spectacular TRUMP RALLY of Them All’ to Be Held on July 4 first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T12:25:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "01204f8c4c8c",
-   "title": "Trump Blurts Dead of Night Rant at ‘Dumocrats’ After UFC Birthday Bash",
-   "link": "https://www.mediaite.com/media/news/trump-blurts-dead-of-night-rant-at-dumocrats-after-ufc-birthday-bash/",
-   "summary": "President Donald Trump blurted a dead-of-night attack on \"The Dumocrats\" just hours after his Ultimate Fighting Championship (UFC) birthday bash on the White House lawn. The post Trump Blurts Dead of Night Rant at ‘Dumocrats’ After UFC Birthday Bash first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T11:29:11+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d2df1df75b3",
-   "title": "Robert De Niro Flat-Out Says ‘I Can’t Love the Country That’s Led by Donald Trump’ in Fiery Rant at Protest Concert",
-   "link": "https://www.mediaite.com/media/news/robert-de-niro-flat-out-says-i-cant-love-the-country-thats-led-by-donald-trump-in-fiery-rant-at-protest-concert/",
-   "summary": "Robert De Niro told a live audience in New York City, Sunday night, that he \"can't love a country that's led by Donald Trump\" The post Robert De Niro Flat-Out Says ‘I Can’t Love the Country That’s Led by Donald Trump’ in Fiery Rant at Protest Concert first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T11:09:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "804c626172e8",
-   "title": "UFC Fighter Unleashes Stunning Attack at Trump’s White House Event: ‘Michelle Obama Is a Man!’",
-   "link": "https://www.mediaite.com/media/sports/ufc-fighter-unleashes-stunning-attack-at-trumps-white-house-event-michelle-obama-is-a-man/",
-   "summary": "In a shocking attack, UFC heavyweight fighter Josh Hokit blurted out a shocking slur directed at former first lady Michelle Obama moments after winning a heavyweight bout at the UFC Freedom 250 held at the White House on Sunday night. The post UFC Fighter Unleashes Stunning Attack at Trump’s White House Event: ‘Michelle Obama Is a Man!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T10:41:00+00:00",
    "iran_topic": false
   },
   {
@@ -912,66 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-15T01:20:38.713+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "542d7f581c04",
-   "title": "Wilson Cruz: When the governor of Texas clicked his little boot spurs and had all the rainbow crosswalks painted over, activists grabbed their brushes and painted the sidewalks instead, because that’s what we do. It goes to show: if you lower our flags, we will raise them back up.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moc4c6xg3l2e",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-15T01:15:35.700+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "307ef22f3bda",
-   "title": "Wilson Cruz: Our rainbow flag is battle-worn. Because this spring, blocks from this theater, the Pride flag was removed from the national memorial of the Stonewall uprising—and it was only returned when activists brought it back themselves.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moc3qy76hv22",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-15T01:05:58.333+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fc151b77893c",
-   "title": "Heads up: The U.S. Postal Service has proposed a new rule that would allow it to refuse to deliver mail ballots in states that don't turn over voter rolls to the federal government. Dems say it's clear evidence the Trump admin is trying to unconstitutionally intrude on state-run elections.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moc3qbhs2k2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-15T01:05:34.633+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c94baa468114",
-   "title": "Peppermint: These attacks on the trans community. They serve as a distraction from the immense hoarding of wealth and resources by billionaires and now trillionaires—a distraction from the failures of this government to protect its people instead of harming them",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moc3g444bd2a",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-15T00:59:53.335+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9d613cb639c8",
-   "title": "Former MMA Star Appears to Post and Delete Screenshots of Eric Trump Asking Him if Any of the White House Fights Were Rigged",
-   "link": "https://www.mediaite.com/media/sports/former-mma-star-posts-and-deletes-screenshots-of-eric-trump-asking-him-if-any-of-the-white-house-fights-were-rigged/",
-   "summary": "Former UFC star Daniel Cormier posted -- then deleted -- screenshots revealing Eric Trump straight-up asked him if any of the White House fights were rigged. The post Former MMA Star Appears to Post and Delete Screenshots of Eric Trump Asking Him if Any of the White House Fights Were Rigged first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T00:53:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0061e7d7f5b1",
-   "title": "Julia Roberts: We all feel like, “I can’t turn the news on. I don’t want to hear it.” But we have to hear it. We have to face it. But if we keep inhaling and exhaling, we will prevail.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moc2xzxotn2m",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-15T00:52:01.324+00:00",
    "iran_topic": false
   }
  ]
