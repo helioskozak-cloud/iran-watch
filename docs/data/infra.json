@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-15T10:31:19.141464+00:00",
+ "generated": "2026-06-15T11:53:28.603026+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 82.87,
-   "change": -4.46,
-   "change_pct": -5.11,
+   "price": 83.05,
+   "change": -4.28,
+   "change_pct": -4.9,
    "spark": [
     93.0999984741211,
     90.37999725341797,
     87.33000183105469,
-    82.87000274658203
+    83.05000305175781
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 80.25,
-   "change": -4.63,
-   "change_pct": -5.45,
+   "price": 80.42,
+   "change": -4.46,
+   "change_pct": -5.25,
    "spark": [
     90.02999877929688,
     87.70999908447266,
     84.87999725341797,
-    80.25
+    80.41999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4359.0,
-   "change": 144.0,
-   "change_pct": 3.42,
+   "price": 4363.9,
+   "change": 148.9,
+   "change_pct": 3.53,
    "spark": [
     4108.2001953125,
     4090.300048828125,
     4215.0,
-    4359.0
+    4363.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.5,
-   "change": -0.25,
-   "change_pct": -0.25,
+   "price": 99.54,
+   "change": -0.21,
+   "change_pct": -0.21,
    "spark": [
     99.94999694824219,
     99.86000061035156,
     99.75,
-    99.50299835205078
+    99.53800201416016
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.74,
-   "change": -0.94,
-   "change_pct": -5.32,
+   "price": 16.69,
+   "change": -0.99,
+   "change_pct": -5.6,
    "spark": [
     19.8700008392334,
     22.219999313354492,
     19.440000534057617,
     17.68000030517578,
-    16.739999771118164
+    16.690000534057617
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.03,
-   "change": -0.09,
-   "change_pct": -2.82,
+   "price": 3.05,
+   "change": -0.07,
+   "change_pct": -2.21,
    "spark": [
     3.184999942779541,
     3.0869998931884766,
     3.119999885559082,
-    3.0320000648498535
+    3.0510001182556152
    ]
   }
  },
@@ -216,7 +216,14 @@
  ],
  "incidents": [
   {
-   "title": "Shippers remain cautious on Strait of Hormuz transit after US, Iran agree deal",
+   "title": "Scouring Strait of Hormuz for mines could take weeks, delaying return to normal shipping",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899462",
+   "source": "Jerusalem Post",
+   "published": "2026-06-15T13:52:58+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Shippers remain cautious on Strait of Hormuz transit after US, Iran agree on deal",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899451",
    "source": "Jerusalem Post",
    "published": "2026-06-15T12:07:07+00:00",
@@ -226,7 +233,42 @@
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
-   "published": "2026-06-15T10:30:31.590849+00:00",
+   "published": "2026-06-15T11:52:40.634814+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Shippers remain cautious on Hormuz strait transit after US and Iran agree deal",
+   "link": "https://www.al-monitor.com/originals/2026/06/shippers-remain-cautious-hormuz-strait-transit-after-us-and-iran-agree-deal",
+   "source": "Al-Monitor",
+   "published": "2026-06-15T11:36:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Scouring the Strait of Hormuz for mines could take weeks",
+   "link": "https://www.al-monitor.com/originals/2026/06/scouring-strait-hormuz-mines-could-take-weeks",
+   "source": "Al-Monitor",
+   "published": "2026-06-15T11:01:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UAE urges full implementation of US-Iran deal, stresses freedom of navigation in Hormuz reut.rs/3Qf3EcB",
+   "link": "https://bsky.app/profile/reuters.com/post/3mod4gbffz32f",
+   "source": "@reuters",
+   "published": "2026-06-15T10:50:32+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "As Trump heads to G7, world leaders welcome Iran deal, stress need for regional security",
+   "link": "https://www.timesofisrael.com/as-trump-heads-to-g7-world-leaders-welcome-iran-deal-stress-need-for-regional-security/",
+   "source": "Times of Israel",
+   "published": "2026-06-15T10:23:10+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran's Fars News Agency Says Hormuz Maritime Fees Added to US Deal Last Minute",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u6cf0e/irans_fars_news_agency_says_hormuz_maritime_fees/",
+   "source": "r/worldnews",
+   "published": "2026-06-15T10:12:57+00:00",
    "severity": "info"
   },
   {
@@ -277,48 +319,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-15T09:13:34+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Oil prices fall and stocks soar with announcement of framework for Iran deal",
-   "link": "https://www.timesofisrael.com/oil-prices-fall-and-stocks-soar-with-announcement-of-framework-for-iran-deal/",
-   "source": "Times of Israel",
-   "published": "2026-06-15T09:09:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "ECB's Lagarde welcomes Iran deal, Nagel cautions on lasting inflation",
-   "link": "https://www.al-monitor.com/originals/2026/06/ecbs-lagarde-welcomes-iran-deal-nagel-cautions-lasting-inflation",
-   "source": "Al-Monitor",
-   "published": "2026-06-15T09:01:43+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US and Iran announce ‘understanding’ to end the war",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/us-and-iran-announce-understanding-to-end-the-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-15T07:48:58+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "BREAKING: Israel won't withdraw from land seized in Lebanon, Syria and Gaza, its defense minister says, hours after an interim Iran-U.S. deal was announced. Israel Katz's remarks are the first official Israeli comments since the announcement.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mocrvyaajw22",
-   "source": "@apnews",
-   "published": "2026-06-15T07:42:28+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Oil prices fall and shares jump after US-Iran deal announced",
-   "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-15T07:38:09+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "What’s in the Iran-US deal? 14-point memorandum reportedly covers Hormuz, sanctions, $300 billion rebuild",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u69dvc/whats_in_the_iranus_deal_14point_memorandum/",
-   "source": "r/worldnews",
-   "published": "2026-06-15T07:14:10+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 10,
    "recent": [
     {
-     "title": "Shippers remain cautious on Strait of Hormuz transit after US, Iran agree deal",
+     "title": "Scouring Strait of Hormuz for mines could take weeks, delaying return to normal shipping",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899462",
+     "source": "Jerusalem Post",
+     "published": "2026-06-15T13:52:58+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Shippers remain cautious on Strait of Hormuz transit after US, Iran agree on deal",
      "link": "https://www.jpost.com/middle-east/iran-news/article-899451",
      "source": "Jerusalem Post",
      "published": "2026-06-15T12:07:07+00:00",
      "severity": "info"
     },
     {
-     "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-     "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Middle East",
-     "published": "2026-06-15T10:10:09+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "UAE urges full implementation of US-Iran deal, stresses freedom of navigation in Hormuz",
-     "link": "https://www.al-monitor.com/originals/2026/06/uae-urges-full-implementation-us-iran-deal-stresses-freedom-navigation-hormuz",
+     "title": "Shippers remain cautious on Hormuz strait transit after US and Iran agree deal",
+     "link": "https://www.al-monitor.com/originals/2026/06/shippers-remain-cautious-hormuz-strait-transit-after-us-and-iran-agree-deal",
      "source": "Al-Monitor",
-     "published": "2026-06-15T09:36:44+00:00",
-     "severity": "low"
+     "published": "2026-06-15T11:36:43+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -374,6 +374,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "6758cd9e64da",
+   "title": "New in PN: The US under Trump is a global scourge \"Authoritarians disregard the needs of their own people, but they're even less constrained when dealing w/ people that are not their own. If you want to see what Trump wants to do at home, you have only to look to the misery he's unleashed abroad.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mod7uhnzgc26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T11:52:10.054+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "01204f8c4c8c",
+   "title": "Trump Blurts Dead of Night Rant at ‘Dumocrats’ After UFC Birthday Bash",
+   "link": "https://www.mediaite.com/media/news/trump-blurts-dead-of-night-rant-at-dumocrats-after-ufc-birthday-bash/",
+   "summary": "President Donald Trump blurted a dead-of-night attack on \"The Dumocrats\" just hours after his Ultimate Fighting Championship (UFC) birthday bash on the White House lawn. The post Trump Blurts Dead of Night Rant at ‘Dumocrats’ After UFC Birthday Bash first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T11:29:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d2df1df75b3",
+   "title": "Robert De Niro Flat-Out Says ‘I Can’t Love the Country That’s Led by Donald Trump’ in Fiery Rant at Protest Concert",
+   "link": "https://www.mediaite.com/media/news/robert-de-niro-flat-out-says-i-cant-love-the-country-thats-led-by-donald-trump-in-fiery-rant-at-protest-concert/",
+   "summary": "Robert De Niro told a live audience in New York City, Sunday night, that he \"can't love a country that's led by Donald Trump\" The post Robert De Niro Flat-Out Says ‘I Can’t Love the Country That’s Led by Donald Trump’ in Fiery Rant at Protest Concert first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T11:09:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "804c626172e8",
+   "title": "UFC Fighter Unleashes Stunning Attack at Trump’s White House Event: ‘Michelle Obama Is a Man!’",
+   "link": "https://www.mediaite.com/media/sports/ufc-fighter-unleashes-stunning-attack-at-trumps-white-house-event-michelle-obama-is-a-man/",
+   "summary": "In a shocking attack, UFC heavyweight fighter Josh Hokit blurted out a shocking slur directed at former first lady Michelle Obama moments after winning a heavyweight bout at the UFC Freedom 250 held at the White House on Sunday night. The post UFC Fighter Unleashes Stunning Attack at Trump’s White House Event: ‘Michelle Obama Is a Man!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T10:41:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "91cd0d2760d2",
    "title": "The US under Trump is a global scourge",
@@ -435,16 +475,6 @@
    "iran_topic": false
   },
   {
-   "id": "181a93a46d48",
-   "title": "New Zealand’s diplomatic breakaway",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/new-zealands-diplomatic-breakaway-00961919",
-   "summary": "The country will face Iran on the field tomorrow. It has the U.S. soft-power landscape to itself.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-15T02:37:55+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "1206b45169a7",
    "title": "🎯",
    "link": "https://bsky.app/profile/adelpreore.bsky.social/post/3moc7fc5cy22z",
@@ -453,16 +483,6 @@
    "category": "trump_bsky",
    "published": "2026-06-15T02:11:01.209+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "03d47419f059",
-   "title": "Trump thinks Spain’s a ‘loser.’ Spain’s ready to prove him wrong at the World Cup.",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/spain-fifa-world-cup-donald-trump-00961842",
-   "summary": "Tournament favorite Spain is at odds with the U.S. president over Iran, Gaza, defense spending, immigration and green energy.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-15T02:00:00+00:00",
-   "iran_topic": true
   },
   {
    "id": "0efb90f3bdc7",
@@ -895,16 +915,6 @@
    "iran_topic": false
   },
   {
-   "id": "09db632036ed",
-   "title": "Why can’t we win it? Inside the Japanese embassy for Sunday’s World Cup opener.",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/japan-netherlands-fifa-world-cup-2026-embassy-party-00961835",
-   "summary": "For a crowd of superfans, Japan’s performance against the Netherlands only stoked their enthusiasm.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T23:20:06+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "bdb7a86c734a",
    "title": "Operation Manipulate Future's Markets getting off to a rough start",
    "link": "https://bsky.app/profile/darinself.com/post/3mobupbijos24",
@@ -912,26 +922,6 @@
    "source": "@darinself",
    "category": "trump_bsky",
    "published": "2026-06-14T22:59:44.911+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b3af7cd1d6a1",
-   "title": "Brian Kemp endorses Burt Jones in Georgia’s gubernatorial runoff",
-   "link": "https://www.politico.com/news/2026/06/14/kemp-endorses-burt-jones-georgia-governor-00961840",
-   "summary": "Kemp’s last-minute public blessing is a boon for the lieutenant governor ahead of Tuesday’s runoff against billionaire Rick Jackson.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-14T22:48:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a580c23183d0",
-   "title": "A perfect demonstration of why Trump has no credibility. bsky.app/profile/atru...",
-   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3mobtvawaxc2z",
-   "summary": "",
-   "source": "@robertscotthorton",
-   "category": "trump_bsky",
-   "published": "2026-06-14T22:45:11.898+00:00",
    "iran_topic": false
   },
   {
@@ -972,6 +962,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-14T21:49:54+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2a6e02f74345",
+   "title": "Trump Calls for the Impeachment of Senate Democrat Who Told Fox News His Iran Deal Is a ‘Bad Mistake’",
+   "link": "https://www.mediaite.com/politics/trump-calls-for-the-impeachment-of-senate-democrat-who-told-fox-news-his-iran-deal-is-a-bad-mistake/",
+   "summary": "Trump called for Sen. Jack Reed (D) to be impeached right after the Democratic lawmaker bashed his Iran deal during an interview on Fox News The post Trump Calls for the Impeachment of Senate Democrat Who Told Fox News His Iran Deal Is a ‘Bad Mistake’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-14T21:07:31+00:00",
    "iran_topic": true
   }
  ]
