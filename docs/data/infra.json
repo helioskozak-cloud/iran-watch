@@ -1,60 +1,52 @@
 {
- "generated": "2026-06-15T02:06:55.917196+00:00",
+ "generated": "2026-06-15T04:00:09.840636+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 83.96,
-   "change": -3.37,
-   "change_pct": -3.86,
+   "price": 87.33,
+   "change": -3.05,
+   "change_pct": -3.37,
    "spark": [
-    91.44999694824219,
     93.0999984741211,
     90.37999725341797,
-    87.33000183105469,
-    83.95999908447266
+    87.33000183105469
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 80.93,
-   "change": -3.95,
-   "change_pct": -4.65,
+   "price": 84.88,
+   "change": -2.83,
+   "change_pct": -3.23,
    "spark": [
-    88.19999694824219,
     90.02999877929688,
     87.70999908447266,
-    84.87999725341797,
-    80.93000030517578
+    84.87999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4338.8,
-   "change": 123.8,
-   "change_pct": 2.94,
+   "price": 4215.0,
+   "change": 124.7,
+   "change_pct": 3.05,
    "spark": [
-    4260.0,
     4108.2001953125,
     4090.300048828125,
-    4215.0,
-    4338.7998046875
+    4215.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.56,
-   "change": -0.19,
-   "change_pct": -0.19,
+   "price": 99.75,
+   "change": -0.11,
+   "change_pct": -0.11,
    "spark": [
-    99.91000366210938,
     99.94999694824219,
     99.86000061035156,
-    99.75,
-    99.55599975585938
+    99.75
    ]
   },
   "^GSPC": {
@@ -102,15 +94,13 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.06,
-   "change": -0.06,
-   "change_pct": -2.05,
+   "price": 3.12,
+   "change": 0.03,
+   "change_pct": 1.07,
    "spark": [
-    3.140000104904175,
     3.184999942779541,
     3.0869998931884766,
-    3.119999885559082,
-    3.055999994277954
+    3.119999885559082
    ]
   }
  },
@@ -221,10 +211,31 @@
  ],
  "incidents": [
   {
+   "title": "UN Secretary General congratulates US, Iran on reaching peace agreement",
+   "link": "https://www.jpost.com/international/article-899405",
+   "source": "Jerusalem Post",
+   "published": "2026-06-15T05:26:09+00:00",
+   "severity": "info"
+  },
+  {
    "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
    "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
    "source": "Press TV",
-   "published": "2026-06-15T02:06:17.858136+00:00",
+   "published": "2026-06-15T03:59:34.320064+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Seized Hamas documents reveal fear of Israeli-Saudi normalization",
+   "link": "https://www.jpost.com/middle-east/article-899406",
+   "source": "Jerusalem Post",
+   "published": "2026-06-15T03:38:50+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "A potential U.S.-Iran agreement to reopen the Strait of Hormuz would offer near-term relief for Asia. Even so, the shock waves of the crisis are likely to ripple through the end of the year, and possibly well beyond.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mocdeet2gk25",
+   "source": "@nytimes",
+   "published": "2026-06-15T03:22:05.393912+00:00",
    "severity": "info"
   },
   {
@@ -303,27 +314,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-14T16:36:40+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-14T15:39:23+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u5l4gg/royal_marines_board_russian_shadow_fleet_oil/",
-   "source": "r/worldnews",
-   "published": "2026-06-14T13:25:36+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Indian sailor dies from medical complications aboard tanker in Oman reut.rs/4eGmZMZ",
-   "link": "https://bsky.app/profile/reuters.com/post/3moaulsrwy42o",
-   "source": "@reuters",
-   "published": "2026-06-14T13:25:08+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,13 +321,20 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
      "title": "June 11: Iran strikes US targets and closes Strait of Hormuz, as Trump backs down again",
      "link": "https://presstv.ir/Detail/2026/06/11/770278/june11-iran-strikes-us-targets-closes-strait-hormuz-trump-backs-down",
      "source": "Press TV",
-     "published": "2026-06-15T02:06:17.858136+00:00",
+     "published": "2026-06-15T03:59:34.320064+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "A potential U.S.-Iran agreement to reopen the Strait of Hormuz would offer near-term relief for Asia. Even so, the shock waves of the crisis are likely to ripple through the end of the year, and possibly well beyond.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mocdeet2gk25",
+     "source": "@nytimes",
+     "published": "2026-06-15T03:22:05.393912+00:00",
      "severity": "info"
     },
     {
@@ -346,13 +343,6 @@
      "source": "Times of Israel",
      "published": "2026-06-15T01:44:43+00:00",
      "severity": "low"
-    },
-    {
-     "title": "Trump announces US-Iran peace deal has been completed, Strait of Hormuz to reopen",
-     "link": "https://www.jpost.com/international/article-899402",
-     "source": "Jerusalem Post",
-     "published": "2026-06-15T00:25:50+00:00",
-     "severity": "info"
     }
    ]
   },
@@ -379,6 +369,66 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "522a62275368",
+   "title": "What is wrong with people?",
+   "link": "https://bsky.app/profile/rickhasen.bsky.social/post/3mocdoxb4rk2s",
+   "summary": "",
+   "source": "@rickhasen",
+   "category": "trump_bsky",
+   "published": "2026-06-15T03:28:00.311+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "50475c97c151",
+   "title": "This, by the way, is the guy who showed up hammered to the weigh-in and literally threw up on himself on camera.",
+   "link": "https://bsky.app/profile/nysea.bsky.social/post/3mocchzvmq22f",
+   "summary": "",
+   "source": "@nysea",
+   "category": "trump_bsky",
+   "published": "2026-06-15T03:06:14.457+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3d10e21d2d33",
+   "title": "Josh Hokit just ended his post-fight speech at the White House UFC event by yelling \"Michelle Obama is a man!\" A disgraceful spectacle through and through",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mocbrnwkgk26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-15T02:53:43.707+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "181a93a46d48",
+   "title": "New Zealand’s diplomatic breakaway",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/new-zealands-diplomatic-breakaway-00961919",
+   "summary": "The country will face Iran on the field tomorrow. It has the U.S. soft-power landscape to itself.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-15T02:37:55+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1206b45169a7",
+   "title": "🎯",
+   "link": "https://bsky.app/profile/adelpreore.bsky.social/post/3moc7fc5cy22z",
+   "summary": "",
+   "source": "@adelpreore",
+   "category": "trump_bsky",
+   "published": "2026-06-15T02:11:01.209+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "03d47419f059",
+   "title": "Trump thinks Spain’s a ‘loser.’ Spain’s ready to prove him wrong at the World Cup.",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/spain-fifa-world-cup-donald-trump-00961842",
+   "summary": "Tournament favorite Spain is at odds with the U.S. president over Iran, Gaza, defense spending, immigration and green energy.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-15T02:00:00+00:00",
+   "iran_topic": true
+  },
   {
    "id": "0efb90f3bdc7",
    "title": "\"Bread and circuses\" except the bread has never been more expensive and the circus is lining the pockets of the oligarchy.",
@@ -810,6 +860,16 @@
    "iran_topic": false
   },
   {
+   "id": "09db632036ed",
+   "title": "Why can’t we win it? Inside the Japanese embassy for Sunday’s World Cup opener.",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/japan-netherlands-fifa-world-cup-2026-embassy-party-00961835",
+   "summary": "For a crowd of superfans, Japan’s performance against the Netherlands only stoked their enthusiasm.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-14T23:20:06+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "bdb7a86c734a",
    "title": "Operation Manipulate Future's Markets getting off to a rough start",
    "link": "https://bsky.app/profile/darinself.com/post/3mobupbijos24",
@@ -817,6 +877,16 @@
    "source": "@darinself",
    "category": "trump_bsky",
    "published": "2026-06-14T22:59:44.911+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b3af7cd1d6a1",
+   "title": "Brian Kemp endorses Burt Jones in Georgia’s gubernatorial runoff",
+   "link": "https://www.politico.com/news/2026/06/14/kemp-endorses-burt-jones-georgia-governor-00961840",
+   "summary": "Kemp’s last-minute public blessing is a boon for the lieutenant governor ahead of Tuesday’s runoff against billionaire Rick Jackson.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-14T22:48:58+00:00",
    "iran_topic": false
   },
   {
@@ -890,93 +960,13 @@
    "iran_topic": true
   },
   {
-   "id": "7c088b8624a7",
-   "title": "Pete Hegseth Drops a Whopper in CBS Interview — Claims ‘We Have Controlled the Straits the Entire Time’",
-   "link": "https://www.mediaite.com/media/news/pete-hegseth-drops-a-whopper-in-cbs-interview-claims-we-have-controlled-the-straits-the-entire-time/",
-   "summary": "Pete Hegseth claimed that the US has controlled the Strait of Hormuz during the entire Iran war, despite Trump still negotiating with Iran to re-open it. The post Pete Hegseth Drops a Whopper in CBS Interview — Claims ‘We Have Controlled the Straits the Entire Time’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-14T20:53:11+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d07634e0a830",
-   "title": "MS NOW: Mitch McConnell has been admitted to the hospital. The cause of his hospitalization and condition are not known.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mobmdqejvc2c",
+   "id": "e051964ea30a",
+   "title": "FIFA or ... FISA?",
+   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/fifa-fisa-football-soccer-00961822",
    "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-14T20:30:07.922+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20c2ccf2de0d",
-   "title": "I really have trouble deciding which GA US senator is more brilliant/on point. bsky.app/profile/atru...",
-   "link": "https://bsky.app/profile/jenrubin.bsky.social/post/3mobmd6tpm22y",
-   "summary": "",
-   "source": "@jenrubin",
-   "category": "trump_bsky",
-   "published": "2026-06-14T20:29:49.542+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "457678f76cd5",
-   "title": "\"we ran 125 million barrels of oil through the Strait\" is a classic \"large number dummy\" trick because under normal circumstances, 20 million barrels passed through the Strait of Hormuz every single day. \"we've gotten 125 million barrels through\" actually means transport has slowed to a trickle.",
-   "link": "https://bsky.app/profile/mightygodking.com/post/3moblhx6cqc22",
-   "summary": "",
-   "source": "@mightygodking",
-   "category": "trump_bsky",
-   "published": "2026-06-14T20:14:35.533+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2c12d3ba844a",
-   "title": "‘The Office’ Star Rainn Wilson Vents to Fox News About Democratic ‘Hypocrisy’ Over Graham Platner’s Nazi Tattoo",
-   "link": "https://www.mediaite.com/politics/the-office-star-rainn-wilson-vents-to-fox-news-about-democratic-hypocrisy-over-graham-platners-nazi-tattoo/",
-   "summary": "Rainn Wilson said he is tired of the \"hypocrisy\" from American politicians — including from Democratic leaders giving Platner a pass for his Nazi tattoo The post ‘The Office’ Star Rainn Wilson Vents to Fox News About Democratic ‘Hypocrisy’ Over Graham Platner’s Nazi Tattoo first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-14T20:07:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bd80a0b14bfd",
-   "title": "‘Clown Show!’ DC Residents Tell MS NOW They’re Fed Up With Trump’s UFC Bash",
-   "link": "https://www.mediaite.com/media/news/clown-show-dc-residents-tell-ms-now-theyre-fed-up-with-trumps-ufc-bash/",
-   "summary": "Nnamdi Egwuonwu reported Sunday on the \"rowdy crowd\" queuing up on Constitution Ave. in preparation for the Freedom 250 UFC fights at the White House.. The post ‘Clown Show!’ DC Residents Tell MS NOW They’re Fed Up With Trump’s UFC Bash first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-14T19:46:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "df7c99d87ff4",
-   "title": "I never pick up the phone, and usually ignore sports, but made an exception when IRL friend in Brooklyn called today just to exult -- and made exactly the same point.",
-   "link": "https://bsky.app/profile/gastropoda.bsky.social/post/3mobj5etnbc2e",
-   "summary": "",
-   "source": "@gastropoda",
-   "category": "trump_bsky",
-   "published": "2026-06-14T19:32:53.282+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d32d00d6a43",
-   "title": "‘What Are They Hiding?’ Trump Blasts Democrats Opposed to Bill Pulte Leading Intel",
-   "link": "https://www.mediaite.com/politics/what-are-they-hiding-trump-blasts-democrats-opposed-to-bill-pulte-leading-intel/",
-   "summary": "President Donald Trump said he wants to know why Democrats are so \"afraid\" of Bill Pulte becoming the acting director of national intelligence. The post ‘What Are They Hiding?’ Trump Blasts Democrats Opposed to Bill Pulte Leading Intel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-14T19:32:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "161a2670ebd8",
-   "title": "Donald Trump, the oldest president ever to be inaugurated, is 80 today.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mobhlnf6rs2h",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-14T19:05:04.524+00:00",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-14T21:00:00+00:00",
    "iran_topic": false
   }
  ]
