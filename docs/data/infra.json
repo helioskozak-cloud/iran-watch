@@ -1,43 +1,43 @@
 {
- "generated": "2026-06-15T22:39:21.563786+00:00",
+ "generated": "2026-06-16T00:17:06.800200+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 83.7,
-   "change": -3.63,
-   "change_pct": -4.16,
+   "price": 83.68,
+   "change": -3.65,
+   "change_pct": -4.18,
    "spark": [
     93.0999984741211,
     90.37999725341797,
     87.33000183105469,
-    83.69999694824219
+    83.68000030517578
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 81.39,
-   "change": -3.49,
-   "change_pct": -4.11,
+   "price": 81.4,
+   "change": -3.48,
+   "change_pct": -4.1,
    "spark": [
     90.02999877929688,
     87.70999908447266,
     84.87999725341797,
-    81.38999938964844
+    81.4000015258789
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4329.4,
-   "change": 114.4,
-   "change_pct": 2.71,
+   "price": 4338.1,
+   "change": 123.1,
+   "change_pct": 2.92,
    "spark": [
     4108.2001953125,
     4090.300048828125,
     4215.0,
-    4329.39990234375
+    4338.10009765625
    ]
   },
   "DX-Y.NYB": {
@@ -50,7 +50,7 @@
     99.94999694824219,
     99.86000061035156,
     99.75,
-    99.66200256347656
+    99.65899658203125
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.15,
-   "change": 0.03,
-   "change_pct": 0.93,
+   "price": 3.16,
+   "change": 0.04,
+   "change_pct": 1.15,
    "spark": [
     3.184999942779541,
     3.0869998931884766,
     3.119999885559082,
-    3.1489999294281006
+    3.1559998989105225
    ]
   }
  },
@@ -219,14 +219,28 @@
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
-   "published": "2026-06-15T22:38:39.175108+00:00",
+   "published": "2026-06-16T00:16:23.689425+00:00",
    "severity": "info"
   },
   {
    "title": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
    "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted",
    "source": "Press TV",
-   "published": "2026-06-15T22:38:39.168892+00:00",
+   "published": "2026-06-16T00:16:23.683809+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran Says Strait of Hormuz Won’t Have ‘Tolls’ but It Will Have ‘Fees’",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u6wmtp/iran_says_strait_of_hormuz_wont_have_tolls_but_it/",
+   "source": "r/worldnews",
+   "published": "2026-06-15T23:13:35+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UK charges captain of Russian shadow fleet tanker with sanctions breach reut.rs/4xmd6vk",
+   "link": "https://bsky.app/profile/reuters.com/post/3moefrgowmt2q",
+   "source": "@reuters",
+   "published": "2026-06-15T23:10:30+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "@reuters",
    "published": "2026-06-15T17:35:13+00:00",
    "severity": "info"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: June 15, 2026",
-   "link": "https://news.usni.org/2026/06/15/usni-news-fleet-and-marine-tracker-june-15-2026",
-   "source": "USNI News",
-   "published": "2026-06-15T17:03:39+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says Strait of Hormuz will be 'completely open' Friday",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-strait-hormuz-will-be-completely-open-friday",
-   "source": "Al-Monitor",
-   "published": "2026-06-15T17:00:22+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -328,6 +328,13 @@
    "status": "ELEVATED",
    "incident_count": 6,
    "recent": [
+    {
+     "title": "Iran Says Strait of Hormuz Won’t Have ‘Tolls’ but It Will Have ‘Fees’",
+     "link": "https://www.reddit.com/r/worldnews/comments/1u6wmtp/iran_says_strait_of_hormuz_wont_have_tolls_but_it/",
+     "source": "r/worldnews",
+     "published": "2026-06-15T23:13:35+00:00",
+     "severity": "info"
+    },
     {
      "title": "Wall Street's main indexes rallied, with the Dow marking a record-high close after the United States and Iran struck a preliminary agreement to end the Iran war and reopen the Strait of Hormuz, leading to an easing of inflation fears as crude oil prices dropped reut.rs/4xvYIRk",
      "link": "https://bsky.app/profile/reuters.com/post/3moe3jugck22i",
@@ -340,13 +347,6 @@
      "link": "https://www.al-monitor.com/originals/2026/06/us-says-hormuz-be-toll-free-under-iran-deal",
      "source": "Al-Monitor",
      "published": "2026-06-15T18:30:22+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-     "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Middle East",
-     "published": "2026-06-15T18:27:23+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,66 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "c8c3a0f97437",
+   "title": "Top Trump Officials Reportedly Doubt Iran Agreement Cut by Their Boss",
+   "link": "https://www.mediaite.com/politics/top-trump-officials-reportedly-doubt-iran-agreement-cut-by-their-boss/",
+   "summary": "Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth, and CIA Director John Ratcliffe are among those reportedly skeptical of the agreement. The post Top Trump Officials Reportedly Doubt Iran Agreement Cut by Their Boss first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T00:15:07+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fa2d7eb26e2c",
+   "title": "America 250: Presidential Message on the Anniversary of the Signing of Magna Carta",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/",
+   "summary": "Today, we celebrate&#160;the&#160;anniversary of the&#160;adoption of&#160;Magna Carta—one of&#160;history’s&#160;earliest and most consequential declarations of&#160;human freedom.&#160;&#160;Forged&#160;over 500 years before the dawn of our Republic, its eternal principles of equal justice, liberty, and the rule of law would ultimately leave an indelible mark on the American way of life.&#160; On June 15, 1215, King John of England affixed [&#8230;] The post America 250: Presidential Message on the Anniversary of the Signing of Magna Carta appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-16T00:02:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3a878792ef72",
+   "title": "Callista completely misunderstood the plot of the movie “Hairspray”",
+   "link": "https://bsky.app/profile/axidentaliberal.bsky.social/post/3moeimwqtcc2u",
+   "summary": "",
+   "source": "@axidentaliberal",
+   "category": "trump_bsky",
+   "published": "2026-06-16T00:01:40.853+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d7b5cad3da5d",
+   "title": "Trump Has Long, Awkward Handshake With French First Lady After Making Odd Comments About Her Marriage",
+   "link": "https://www.mediaite.com/politics/trump/trump-has-long-awkward-handshake-with-french-first-lady-after-making-odd-comments-about-her-marriage/",
+   "summary": "Donald Trump had a long, awkward handshake with France's First Lady at the G7 summit—just months after he made odd comments about her marriage. The post Trump Has Long, Awkward Handshake With French First Lady After Making Odd Comments About Her Marriage first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-15T23:48:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d7b5cad3da5d",
+   "title": "Trump Has Long, Awkward Handshake With French First Lady After Making Odd Comments About Her Marriage",
+   "link": "https://www.mediaite.com/politics/trump/trump-has-long-awkward-handshake-with-french-first-lady-after-making-odd-comments-about-her-marriage/",
+   "summary": "Donald Trump had a long, awkward handshake with France's First Lady at the G7 summit—just months after he made odd comments about her marriage. The post Trump Has Long, Awkward Handshake With French First Lady After Making Odd Comments About Her Marriage first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T23:48:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9842eae4e67c",
+   "title": "CNN’s Erin Burnett Sides With Fox News Host Over Swipe at Trump: ‘He’s Got a Point’",
+   "link": "https://www.mediaite.com/media/tv/cnns-erin-burnett-sides-with-fox-news-host-over-swipe-at-trump-hes-got-a-point/",
+   "summary": "CNN's Erin Burnett found herself in agreement with Fox News host Mark Levin, who called for more transparency from President Donald Trump. The post CNN’s Erin Burnett Sides With Fox News Host Over Swipe at Trump: ‘He’s Got a Point’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-15T23:31:31+00:00",
+   "iran_topic": false
+  },
   {
    "id": "32c66c56de8f",
    "title": "‘Most Transparent Administration in History?’ Fox’s Dana Perino Rips Trump White House for Keeping Iran Deal Details Under Wraps",
@@ -795,16 +855,6 @@
    "iran_topic": false
   },
   {
-   "id": "09f7483c212e",
-   "title": "Dave Portnoy Demands Trump Denounce UFC Fighter’s Attack on Michelle Obama: ‘These Guys Are Lunatics’",
-   "link": "https://www.mediaite.com/media/news/dave-portnoy-demands-trump-denounce-ufc-fighters-attack-on-michelle-obama-these-guys-are-lunatics/",
-   "summary": "Barstool boss Dave Portnoy urged President Trump to denounce the shocking jab against former first lady Michelle Obama by one of Sunday night's UFC Freedom 250 fighters. The post Dave Portnoy Demands Trump Denounce UFC Fighter’s Attack on Michelle Obama: ‘These Guys Are Lunatics’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T17:22:34+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1c6014a32e61",
    "title": "Rep. Brian Mast: \"Ok, maybe they do end up getting $20 billion, let's say. Let's say we're still $300 to $500 billion ahead considering we destroyed their navy, destroyed their air force ... \" (So American taxpayers paid both to bomb Iran and then for Iran's reconstruction ... )",
    "link": "https://bsky.app/profile/atrupar.com/post/3mods6bs2ph2b",
@@ -835,16 +885,6 @@
    "iran_topic": false
   },
   {
-   "id": "90d889150597",
-   "title": "WaPo Removes Two Op-Eds by Writer Who Contributed to Richard Spencer’s Alt-Right Outlet",
-   "link": "https://www.mediaite.com/media/news/wapo-removes-two-op-eds-by-writer-who-contributed-to-richard-spencers-alt-right-outlet/",
-   "summary": "The Washington Post has removed two op-eds by writer Scott Greer, who once secretly wrote for white nationalist Richard Spencer's alt-right publication. The post WaPo Removes Two Op-Eds by Writer Who Contributed to Richard Spencer’s Alt-Right Outlet first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T16:51:50+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "381c10c5a4f6",
    "title": "Trump looks like death warmed over (Anna Moneymaker/Getty)",
    "link": "https://bsky.app/profile/atrupar.com/post/3modq52bmek2a",
@@ -853,26 +893,6 @@
    "category": "trump_bsky",
    "published": "2026-06-15T16:43:17.874+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "e9fd40487cad",
-   "title": "take a look at the back of Trump's right hand in this clip",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modpxknqgk2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:40:13.723+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec4ba5c752bb",
-   "title": "‘Disaster’: Fox News Trump Whisperer Torches Plan to Give Iran $300 Billion",
-   "link": "https://www.mediaite.com/media/news/disaster-fox-news-trump-whisperer-torches-plan-to-give-iran-300-billion-with-stunning-nazi-comparison/",
-   "summary": "Marc Thiessen called the Trump administration's plan to establish a $300 billion reconstruction fund for Iran a \"disaster\" on Monday. The post ‘Disaster’: Fox News Trump Whisperer Torches Plan to Give Iran $300 Billion first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T16:37:31+00:00",
-   "iran_topic": true
   },
   {
    "id": "5266a7e0a9e8",
@@ -953,26 +973,6 @@
    "category": "trump_bsky",
    "published": "2026-06-15T10:10:16.080+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "181a93a46d48",
-   "title": "New Zealand’s diplomatic breakaway",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/new-zealands-diplomatic-breakaway-00961919",
-   "summary": "The country will face Iran on the field tomorrow. It has the U.S. soft-power landscape to itself.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-15T02:37:55+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "03d47419f059",
-   "title": "Trump thinks Spain’s a ‘loser.’ Spain’s ready to prove him wrong at the World Cup.",
-   "link": "https://www.politico.com/live-updates/2026/06/14/world-cup-2026/spain-fifa-world-cup-donald-trump-00961842",
-   "summary": "Tournament favorite Spain is at odds with the U.S. president over Iran, Gaza, defense spending, immigration and green energy.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-15T02:00:00+00:00",
-   "iran_topic": true
   }
  ]
 }
