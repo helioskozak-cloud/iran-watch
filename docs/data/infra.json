@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-16T00:17:06.800200+00:00",
+ "generated": "2026-06-16T03:51:01.721379+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 83.68,
-   "change": -3.65,
-   "change_pct": -4.18,
+   "price": 82.92,
+   "change": -4.41,
+   "change_pct": -5.05,
    "spark": [
     93.0999984741211,
     90.37999725341797,
     87.33000183105469,
-    83.68000030517578
+    82.91999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 81.4,
-   "change": -3.48,
-   "change_pct": -4.1,
+   "price": 80.66,
+   "change": -4.22,
+   "change_pct": -4.97,
    "spark": [
     90.02999877929688,
     87.70999908447266,
     84.87999725341797,
-    81.4000015258789
+    80.66000366210938
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4338.1,
-   "change": 123.1,
-   "change_pct": 2.92,
+   "price": 4348.3,
+   "change": 133.3,
+   "change_pct": 3.16,
    "spark": [
     4108.2001953125,
     4090.300048828125,
     4215.0,
-    4338.10009765625
+    4348.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.66,
-   "change": -0.09,
-   "change_pct": -0.09,
+   "price": 99.69,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
     99.94999694824219,
     99.86000061035156,
     99.75,
-    99.65899658203125
+    99.69499969482422
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.16,
-   "change": 0.04,
-   "change_pct": 1.15,
+   "price": 3.15,
+   "change": 0.03,
+   "change_pct": 0.87,
    "spark": [
     3.184999942779541,
     3.0869998931884766,
     3.119999885559082,
-    3.1559998989105225
+    3.1470000743865967
    ]
   }
  },
@@ -219,14 +219,21 @@
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
-   "published": "2026-06-16T00:16:23.689425+00:00",
+   "published": "2026-06-16T03:50:17.516976+00:00",
    "severity": "info"
   },
   {
    "title": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
    "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted",
    "source": "Press TV",
-   "published": "2026-06-16T00:16:23.683809+00:00",
+   "published": "2026-06-16T03:50:17.511224+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-16T00:00:00+00:00",
    "severity": "info"
   },
   {
@@ -242,13 +249,6 @@
    "source": "@reuters",
    "published": "2026-06-15T23:10:30+00:00",
    "severity": "info"
-  },
-  {
-   "title": "IDF says Hezbollah attacks on troops in south Lebanon continue; no injuries caused",
-   "link": "https://www.timesofisrael.com/liveblog-june-16-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-15T21:57:26+00:00",
-   "severity": "low"
   },
   {
    "title": "Six Russian ships flee Channel in 77 minutes after UK seizes Putin shadow tanker",
@@ -375,6 +375,116 @@
  ],
  "wh_statements": [
   {
+   "id": "4f51f818d5ba",
+   "title": "CNN GOP Commentator Says Conservatives Need to Understand ‘Racist’ Context of UFC Fighter’s Michelle Obama Insult",
+   "link": "https://www.mediaite.com/media/tv/cnn-gop-commentator-says-conservatives-need-to-understand-racist-context-of-ufc-fighters-michelle-obama-insult/",
+   "summary": "Republican CNN contributor Shermichael Singleton said that conservatives defending a UFC fighter who called former First Lady Michelle Obama a man were missing the \"racist\" historical context of such insults. The post CNN GOP Commentator Says Conservatives Need to Understand ‘Racist’ Context of UFC Fighter’s Michelle Obama Insult first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T03:03:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "983710d2cb14",
+   "title": "Vance Says U.S. Is Not Giving Iran $300 Billion But Could Encourage ‘Other Countries to Invest’ if It Complies with Agreement",
+   "link": "https://www.mediaite.com/politics/trump/vance-says-u-s-is-not-giving-iran-300-billion-but-could-encourage-other-countries-to-invest-if-it-complies-with-agreement/",
+   "summary": "JD Vance shutdown reports that the U.S. is giving $300 billion to Iran but said the U.S. could still encourage \"other countries to invest\" in Iran. The post Vance Says U.S. Is Not Giving Iran $300 Billion But Could Encourage ‘Other Countries to Invest’ if It Complies with Agreement first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-16T02:46:43+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "983710d2cb14",
+   "title": "Vance Says U.S. Is Not Giving Iran $300 Billion But Could Encourage ‘Other Countries to Invest’ if It Complies with Agreement",
+   "link": "https://www.mediaite.com/politics/trump/vance-says-u-s-is-not-giving-iran-300-billion-but-could-encourage-other-countries-to-invest-if-it-complies-with-agreement/",
+   "summary": "JD Vance shutdown reports that the U.S. is giving $300 billion to Iran but said the U.S. could still encourage \"other countries to invest\" in Iran. The post Vance Says U.S. Is Not Giving Iran $300 Billion But Could Encourage ‘Other Countries to Invest’ if It Complies with Agreement first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T02:46:43+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "97537bac1cf1",
+   "title": "Ambassador Herschel Walker Posts Jet Ski Video That’s So Weird People Thought It Was SNL Skit",
+   "link": "https://www.mediaite.com/online/ambassador-herschel-walker-posts-jet-ski-video-thats-so-weird-people-thought-it-was-snl-skit/",
+   "summary": "Herschel Walker, President Donald Trump's ambassador to The Bahamas, posted a video that had social media users scratching their heads and openly pondering if it was actually a Saturday Night Live skit. The post Ambassador Herschel Walker Posts Jet Ski Video That’s So Weird People Thought It Was SNL Skit first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T02:21:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "988137751130",
+   "title": "‘This Is Not a News Conference’: Chuck Grassley Scolds CNN’s Manu Raju for Questioning Attorney General",
+   "link": "https://www.mediaite.com/media/tv/this-is-not-a-news-conference-chuck-grassley-scolds-cnns-manu-raju-for-questioning-attorney-general/",
+   "summary": "CNN's Manu Raju irked Sen. Chuck Grassley during a meeting with U.S. Acting Attorney General Todd Blanche. The post ‘This Is Not a News Conference’: Chuck Grassley Scolds CNN’s Manu Raju for Questioning Attorney General first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T02:17:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "85508de83286",
+   "title": "House Democrat and Primary Foe Both Say They’re Rooting for Team Other Than U.S. in World Cup",
+   "link": "https://www.mediaite.com/media/sports/house-democrat-and-primary-foe-both-say-theyre-rooting-for-team-other-than-u-s-in-world-cup/",
+   "summary": "Rep. Adriano Espaillat and his primary foe, Darializa Avila Chevalier, named countries other than the U.S. when asked who they want to win the FIFA World Cup. The post House Democrat and Primary Foe Both Say They’re Rooting for Team Other Than U.S. in World Cup first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T01:58:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2d846c62bc50",
+   "title": "BREAKING: Gov. Gavin Newsom's office is seeking communications involving top Trump Justice Department officials — including emails, texts, memoranda, and Signal messages — containing references to Newsom or his wife from Jan. 20, 2025 to the present.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moeo5lqzz22y",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-16T01:40:28.455+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "caf32d81938b",
+   "title": "He's so close to self-awareness it’s painful. Who wants to tell him which \"regime\" is actually pushing the propaganda here? 😐",
+   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3moemzinf3s2h",
+   "summary": "",
+   "source": "@nofirstorder",
+   "category": "trump_bsky",
+   "published": "2026-06-16T01:20:17.236+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f8fffc8cf269",
+   "title": "Top Trump officials are \"afraid\" that Maggie Haberman and Jonathan Swan obtained audio recordings of Situation Room meetings for their book. Such a taped leak would be a shocking breach of one of the most secure settings on Earth. Independent recording devices in the Situation Room are forbidden.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moemqvcopk2o",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-16T01:15:28.524+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "af45ec95d213",
+   "title": "RFK Jr.’s Sister Reveals He Released a Snake Into a Swimming Pool Filled With Children",
+   "link": "https://www.mediaite.com/politics/trump/rfk-jr-s-sister-reveals-he-released-a-snake-into-a-swimming-pool-filled-with-children/",
+   "summary": "RFK Jr.'s sister revealed he once released a \"chomping\" snake into a pool filled with children in a wild chain of events that also involved a pillow case. The post RFK Jr.’s Sister Reveals He Released a Snake Into a Swimming Pool Filled With Children first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-16T00:59:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "af45ec95d213",
+   "title": "RFK Jr.’s Sister Reveals He Released a Snake Into a Swimming Pool Filled With Children",
+   "link": "https://www.mediaite.com/politics/trump/rfk-jr-s-sister-reveals-he-released-a-snake-into-a-swimming-pool-filled-with-children/",
+   "summary": "RFK Jr.'s sister revealed he once released a \"chomping\" snake into a pool filled with children in a wild chain of events that also involved a pillow case. The post RFK Jr.’s Sister Reveals He Released a Snake Into a Swimming Pool Filled With Children first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-16T00:59:03+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "c8c3a0f97437",
    "title": "Top Trump Officials Reportedly Doubt Iran Agreement Cut by Their Boss",
    "link": "https://www.mediaite.com/politics/top-trump-officials-reportedly-doubt-iran-agreement-cut-by-their-boss/",
@@ -383,6 +493,16 @@
    "category": "mediaite_all",
    "published": "2026-06-16T00:15:07+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "20f11f0b76f9",
+   "title": "the physics of this hair are genuinely fascinating, I need a detailed chemical breakdown of how the fuck this works",
+   "link": "https://bsky.app/profile/rincewind.run/post/3moej72tm3k2s",
+   "summary": "",
+   "source": "@rincewind",
+   "category": "trump_bsky",
+   "published": "2026-06-16T00:11:49.119+00:00",
+   "iran_topic": false
   },
   {
    "id": "fa2d7eb26e2c",
@@ -436,9 +556,9 @@
   },
   {
    "id": "32c66c56de8f",
-   "title": "‘Most Transparent Administration in History?’ Fox’s Dana Perino Rips Trump White House for Keeping Iran Deal Details Under Wraps",
+   "title": "‘Most Transparent Administration in History?’ Fox’s Dana Perino Calls Out Trump White House for Keeping Iran Deal Details Under Wraps",
    "link": "https://www.mediaite.com/media/news/most-transparent-administration-in-history-foxs-dana-perino-rips-trump-white-house-for-keeping-iran-deal-details-under-wraps/",
-   "summary": "\"Most transparent administration in history?\" Fox's Dana Perino said — calling out the Trump White House for offering up scant details about the Iran deal. The post ‘Most Transparent Administration in History?’ Fox’s Dana Perino Rips Trump White House for Keeping Iran Deal Details Under Wraps first appeared on Mediaite .",
+   "summary": "\"Most transparent administration in history?\" Fox's Dana Perino said — calling out the Trump White House for offering up scant details about the Iran deal. The post ‘Most Transparent Administration in History?’ Fox’s Dana Perino Calls Out Trump White House for Keeping Iran Deal Details Under Wraps first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-15T22:24:11+00:00",
@@ -685,16 +805,6 @@
    "iran_topic": false
   },
   {
-   "id": "acba1d7fcff4",
-   "title": "Trump Boasts His UFC WH Event Might Be ‘More Important Than the World Cup’",
-   "link": "https://www.mediaite.com/media/sports/trump-boasts-his-ufc-wh-event-might-be-more-important-than-the-world-cup/",
-   "summary": "President Donald Trump suggested Monday that his UFC fight night at the White House might have been \"more important than the World Cup.\" The post Trump Boasts His UFC WH Event Might Be ‘More Important Than the World Cup’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T19:02:38+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1179081b89c0",
    "title": "What am I looking at",
    "link": "https://bsky.app/profile/lebassett.bsky.social/post/3modwngh5e227",
@@ -705,16 +815,6 @@
    "iran_topic": false
   },
   {
-   "id": "a4931f6d67c5",
-   "title": "Gavin Newsom Announces Trump DOJ Investigating Him And His Wife",
-   "link": "https://www.mediaite.com/media/news/just-in-newsom-announces-trump-doj-investigating-him-and-his-wife/",
-   "summary": "Gavin Newsom announced that President Donald Trump's Department of Justice has opened an investigation into him and his wife, Jennifer Siebel Newsom. The post Gavin Newsom Announces Trump DOJ Investigating Him And His Wife first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T18:29:32+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5610e88a039b",
    "title": "BREAKING: Gov. Gavin Newsom says the Trump Justice Department is investigating him and his wife. \"Donald Trump isn't just coming after me because of my mean Tweets. He's coming after me because I am considering running for President.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modvto2mls2e",
@@ -722,36 +822,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-15T18:25:25.523+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cd9695d610a3",
-   "title": "CNN’s Bakari Sellers Falls Silent After Botched ‘But Trump’ Attack",
-   "link": "https://www.mediaite.com/media/tv/cnns-bakari-sellers-falls-silent-after-botched-but-trump-attack/",
-   "summary": "CNN's Bakari Sellers fell silent after he tried and failed to nail National Review's Noah Rothman for hypocrisy during an on-air debate over the weekend. The post CNN’s Bakari Sellers Falls Silent After Botched ‘But Trump’ Attack first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T18:25:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "154a44c2c5dc",
-   "title": "‘All Right, Listen’: Hakeem Jeffries And Local NY News Anchor Throw Down Over Rising Prices",
-   "link": "https://www.mediaite.com/media/news/all-right-listen-hakeem-jeffries-and-local-ny-news-anchor-throw-down-over-rising-prices/",
-   "summary": "Hakeem Jeffries and Good Day New York's Rosanna Scotto sparred over the high cost of living Monday, with Scotto throwing back to the Obama years. The post ‘All Right, Listen’: Hakeem Jeffries And Local NY News Anchor Throw Down Over Rising Prices first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T18:14:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b074324fe2ce",
-   "title": "Dana White Denounces Fighter Calling Michelle Obama a Man at White House: ‘Hate That Kind of Nonsense’",
-   "link": "https://www.mediaite.com/media/sports/dana-white-denounces-fighter-calling-michelle-obama-a-man-at-white-house-hate-that-kind-of-nonsense/",
-   "summary": "UFC President Dana White told TIME on Monday he did not approve of one of his fighters calling former First Lady Michelle Obama a man. The post Dana White Denounces Fighter Calling Michelle Obama a Man at White House: ‘Hate That Kind of Nonsense’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T18:09:48+00:00",
    "iran_topic": false
   },
   {
@@ -793,16 +863,6 @@
    "category": "trump_bsky",
    "published": "2026-06-15T17:55:13.132+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "500e5dfcd35e",
-   "title": "Mark Levin Calls For Trump Admin to Release Deal Details, Fumes At Israel Jabs",
-   "link": "https://www.mediaite.com/politics/mark-levin-calls-for-trump-admin-to-release-deal-details-fumes-at-israel-jabs/",
-   "summary": "\"Why can't we, the people, see the damn MOU? Not through people briefed by an anonymous person. Honestly, I've never seen anything like this.\" The post Mark Levin Calls For Trump Admin to Release Deal Details, Fumes At Israel Jabs first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-15T17:44:32+00:00",
-   "iran_topic": true
   },
   {
    "id": "a69067014f85",
@@ -865,16 +925,6 @@
    "iran_topic": true
   },
   {
-   "id": "0595467926fe",
-   "title": "Rep. Brian Mast on Trump's message at the G7: \"I think the president is probably gonna tell them to be a little more American and less European\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mods5hgf2f2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T17:19:19.116+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b12364fb00e4",
    "title": "The only qualification for the Trump Administration seems to be loyalty — including spreading the Dear Leader’s baseless claims of election fraud in elections he doesn’t do well in.",
    "link": "https://bsky.app/profile/govpressoffice.gov.ca.gov/post/3modrycd63c2t",
@@ -882,16 +932,6 @@
    "source": "@govpressoffice",
    "category": "trump_bsky",
    "published": "2026-06-15T17:16:26.025+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "381c10c5a4f6",
-   "title": "Trump looks like death warmed over (Anna Moneymaker/Getty)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3modq52bmek2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-15T16:43:17.874+00:00",
    "iran_topic": false
   },
   {
@@ -932,46 +972,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-15T14:40:23.105+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "124d4a60cce2",
-   "title": "Trump just announced that the July 4 event on the National Mall celebrating America 250 will now be turned into a \"TRUMP RALLY.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moddeyrfnk24",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-15T12:55:06.087+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8a56139f04c3",
-   "title": "\"Michelle Obama is a man, am I right?\" That's what UFC fighter Josh Hokit said at Trump's $60 million UFC fight on the White House lawn. After the event, UFC President Dana White said, \"hopefully, we created some unity in the country.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3modbqvcbhk2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-15T12:25:57.614+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "91cd0d2760d2",
-   "title": "The US under Trump is a global scourge",
-   "link": "https://www.publicnotice.co/p/trump-global-pariah",
-   "summary": "We're the baddies.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-15T10:17:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69765cce247c",
-   "title": "BREAKING: New from Haberman and Swan: Secret memos show that the Trump White House debated last year, to a greater degree than previously known, whether to limit a constitutional right — suspending habeas corpus rights for undocumented immigrants to accelerate mass deportation efforts.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mod26aweo22e",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-15T10:10:16.080+00:00",
    "iran_topic": false
   }
  ]
