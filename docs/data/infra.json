@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-17T21:35:03.514326+00:00",
+ "generated": "2026-06-17T23:08:19.091057+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 78.69,
-   "change": -0.27,
-   "change_pct": -0.34,
+   "price": 79.07,
+   "change": 0.11,
+   "change_pct": 0.14,
    "spark": [
     87.33000183105469,
     83.16999816894531,
     78.95999908447266,
-    78.69000244140625
+    79.06999969482422
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.01,
-   "change": -1.04,
-   "change_pct": -1.37,
+   "price": 75.41,
+   "change": -0.64,
+   "change_pct": -0.84,
    "spark": [
     84.87999725341797,
     80.75,
     76.05000305175781,
-    75.01000213623047
+    75.41000366210938
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4276.3,
-   "change": -54.6,
-   "change_pct": -1.26,
+   "price": 4286.6,
+   "change": -44.3,
+   "change_pct": -1.02,
    "spark": [
     4215.0,
     4328.0,
     4330.89990234375,
-    4276.2998046875
+    4286.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.37,
-   "change": 0.83,
-   "change_pct": 0.83,
+   "price": 100.39,
+   "change": 0.85,
+   "change_pct": 0.85,
    "spark": [
     99.75,
     99.62999725341797,
     99.54000091552734,
-    100.37000274658203
+    100.38800048828125
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.16,
    "change": -0.08,
-   "change_pct": -2.5,
+   "change_pct": -2.38,
    "spark": [
     3.119999885559082,
     3.1470000743865967,
     3.239000082015991,
-    3.1579999923706055
+    3.1619999408721924
    ]
   }
  },
@@ -219,7 +219,21 @@
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
-   "published": "2026-06-17T21:34:24.866103+00:00",
+   "published": "2026-06-17T23:07:31.562532+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump signs deal with Iran, which says ‘now it’s time to test the implementation’",
+   "link": "https://www.timesofisrael.com/liveblog-june-18-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-17T22:48:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
+   "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
+   "source": "@csis",
+   "published": "2026-06-17T22:00:10.116813406+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-17T15:00:17+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
-   "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted",
-   "source": "Press TV",
-   "published": "2026-06-17T14:19:21.648833+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Strait of Hormuz reopens: But can ships’ safety be assured?",
-   "link": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-17T14:07:25+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -328,6 +328,13 @@
    "status": "ACTIVE",
    "incident_count": 6,
    "recent": [
+    {
+     "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
+     "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
+     "source": "@csis",
+     "published": "2026-06-17T22:00:10.116813406+00:00",
+     "severity": "info"
+    },
     {
      "title": "US, Iran could sign ceasefire deal as soon as tonight to open Strait of Hormuz - Axios",
      "link": "https://www.jpost.com/middle-east/iran-news/article-899733",
@@ -340,13 +347,6 @@
      "link": "https://www.reddit.com/r/worldnews/comments/1u8hkip/g7_backs_canada_as_major_global_energy_supplier/",
      "source": "r/worldnews",
      "published": "2026-06-17T18:00:41+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Recovery of ship traffic in Hormuz limited, but signs emerge",
-     "link": "https://www.al-monitor.com/originals/2026/06/recovery-ship-traffic-hormuz-limited-signs-emerge",
-     "source": "Al-Monitor",
-     "published": "2026-06-17T17:00:18+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,116 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "0add388fe819",
+   "title": "Sen. Tuberville Defends Trump and Vance Amid Criticism of Iran Deal: ‘Let’s Trust These Two’",
+   "link": "https://www.mediaite.com/media/tv/sen-tuberville-defends-trump-and-vance-amid-criticism-of-iran-deal-lets-trust-these-two/",
+   "summary": "Sen. Tommy Tuberville vociferously defended President Donald Trump and Vice President JD Vance amid the bipartisan criticism they have received over the Iran deal. The post Sen. Tuberville Defends Trump and Vance Amid Criticism of Iran Deal: ‘Let’s Trust These Two’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-17T22:51:14+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9a349801eae6",
+   "title": "Rep. Claudia Tenney: \"I just want to say up front, I think President Trump was so courageous and so incredibly wise to do what he did to start this operation\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojf3r7uh42s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T22:41:42.072+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b0bcc19a828b",
+   "title": "Elie Honig Torches Todd Blanche’s Epstein Role: ‘Turns Out, That Was Bullsh*t’",
+   "link": "https://www.mediaite.com/media/news/elie-honig-torches-todd-blanches-epstein-role-turns-out-that-was-bullsht/",
+   "summary": "On Wednesday, via New York Magazine's Intelligencer, CNN legal analyst Elie Honig offered some blistering criticism of Acting Attorney General Todd Blanche’s handling of the Jeffrey Epstein case and his repeated claims that politics played no role in his decision-making, emphasizing, \"Turns out, that was bullsh*t.\" The post Elie Honig Torches Todd Blanche’s Epstein Role: ‘Turns Out, That Was Bullsh*t’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-17T22:37:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c54bb3bc1ce6",
+   "title": "Turns out she was never really concerned after all",
+   "link": "https://bsky.app/profile/aselrod.bsky.social/post/3mojervwujs2o",
+   "summary": "",
+   "source": "@aselrod",
+   "category": "trump_bsky",
+   "published": "2026-06-17T22:36:11.499+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7586d34c809b",
+   "title": "Ron Johnson suggests vaccines cause SIDS, but then starts stammering when he tries to come up for some support for this claim: \"I just read it ... don't quote me.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojep34rg222",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T22:34:36.273+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "733b645fd58d",
+   "title": "Ron Johnson accuses Democrats of rigging the Los Angeles mayoral election -- \"probably\" (Sounds legit!)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojeerzams22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T22:28:51.175+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3df8be7f4edb",
+   "title": "Cult.",
+   "link": "https://bsky.app/profile/volts.wtf/post/3mojebdxci22b",
+   "summary": "",
+   "source": "@volts",
+   "category": "trump_bsky",
+   "published": "2026-06-17T22:26:55.768+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d25cfe27f21d",
+   "title": "Yes, sir. Thank you, sir. Please keep running with this line. It will destroy the Democrats, sir.",
+   "link": "https://bsky.app/profile/sharonk.bsky.social/post/3mojccvznjk2h",
+   "summary": "",
+   "source": "@sharonk",
+   "category": "trump_bsky",
+   "published": "2026-06-17T21:52:00.791+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a5cc3a1a5e9f",
+   "title": "Warnock: Right before they passed that ugly bill that cut $1 trillion out of medicaid, the Speaker of the House joined with other legislators and said a prayer, and then they went and voted for that bill. I just want to know what was in that prayer.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mojbqcrrfy2m",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-17T21:41:36.507+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "611388a16523",
+   "title": "Assistant AG Harmeet Dhillon encourages baseball players to file employment discrimination claims against the MLB over Pride uniforms",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojbj5zhcc22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T21:37:36.758+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "31f0d1c49ce3",
+   "title": "Is this the SINGLE WORST presidential response in history? I know he holds the top 100, but this feels like the gold to me.",
+   "link": "https://bsky.app/profile/jonsternfeld.bsky.social/post/3mojb4mbzbk25",
+   "summary": "",
+   "source": "@jonsternfeld",
+   "category": "trump_bsky",
+   "published": "2026-06-17T21:30:35.510+00:00",
+   "iran_topic": false
+  },
   {
    "id": "4d9499f1a2b7",
    "title": "Thank goodness we cut back on that SNAP funding 😞",
@@ -555,16 +665,6 @@
    "iran_topic": false
   },
   {
-   "id": "71d7d4c08924",
-   "title": "Annie are you okay? Are you okay? Are you okay, Annie?",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3moj4zhrcyk2x",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:17:15.139+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "23ee2bc74dd0",
    "title": "Penguinmaxxing",
    "link": "https://bsky.app/profile/gonebabygone.bsky.social/post/3moj4xhoh2s2d",
@@ -575,66 +675,6 @@
    "iran_topic": false
   },
   {
-   "id": "441420546f15",
-   "title": "That's the smooth criminal lean",
-   "link": "https://bsky.app/profile/eclecticbrotha1.bsky.social/post/3moj4tsgy6s2n",
-   "summary": "",
-   "source": "@eclecticbrotha1",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:14:05.007+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26012b17b748",
-   "title": "Will Cain lauds the Strait of Hormuz reopening: \"We should acknowledge that these were situations that existed before this war, but getting this accomplished seems to be a major objective of President Trump\" 🙃",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj4oasmmo23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:10:58.718+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "0aaa64f0f59f",
-   "title": "okay but that’s god tier nominative determinism from the tog",
-   "link": "https://bsky.app/profile/oldenoughtosay.com/post/3moj4dyvaos2w",
-   "summary": "",
-   "source": "@oldenoughtosay",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:05:14.895+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "08a9c7ead9dd",
-   "title": "Trump ignores reporters while wandering around a little bit with the Macrons",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj46f5y7m26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:02:06.412+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1bb3c8256457",
-   "title": "His transformation into the Disney Hall of Presidents Trump robot is nearly complete",
-   "link": "https://bsky.app/profile/chriscjackson.bsky.social/post/3moj44b4e3c24",
-   "summary": "",
-   "source": "@chriscjackson",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:00:55.079+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c95f76dab254",
-   "title": "adventures in handshaking with Trump and the Macrons",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj3wncr3h2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T19:57:46.518+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6b7f8f057dcc",
    "title": "James Carville Doubles Down on Viral Prediction — Insists Trump Will Quit By Spring: ‘Your Life Is Miserable!’",
    "link": "https://www.mediaite.com/media/podcasts/james-carville-doubles-down-on-viral-prediction-insists-trump-will-quit-by-spring-your-life-is-miserable/",
@@ -642,16 +682,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-17T19:56:48+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7c97407215dc",
-   "title": "“One undertoke over the line Sweet Jesus, one undertoke over the line.”",
-   "link": "https://bsky.app/profile/al-swearengen.bsky.social/post/3moj3p7ey7s2l",
-   "summary": "",
-   "source": "@al-swearengen",
-   "category": "trump_bsky",
-   "published": "2026-06-17T19:53:37.059+00:00",
    "iran_topic": false
   },
   {
@@ -895,26 +925,6 @@
    "iran_topic": true
   },
   {
-   "id": "048a47656a43",
-   "title": "Fox’s Peter Doocy Reads Damning Trump Tweet About Iran Back to President in Stunning Moment",
-   "link": "https://www.mediaite.com/politics/foxs-peter-doocy-reads-damning-trump-tweet-about-iran-back-to-president-in-stunning-moment/",
-   "summary": "“I just want to ask you about this — a wise man once said, in January of 2020, ‘Iran never won a war, but never lost a negotiation.’\" The post Fox’s Peter Doocy Reads Damning Trump Tweet About Iran Back to President in Stunning Moment first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:07:13+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b2b8b95b2609",
-   "title": "‘Mohammed Something’: Trump Rant on Trapped Iranian Nuke Material Goes Off the Rails",
-   "link": "https://www.mediaite.com/media/tv/mohammed-something-trump-rant-on-trapped-iranian-nuke-material-goes-off-the-rails/",
-   "summary": "President Trump's rant on Iran's trapped nuclear material went a little off the rails with him going off about monitoring \"every door\" in the country. The post ‘Mohammed Something’: Trump Rant on Trapped Iranian Nuke Material Goes Off the Rails first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T16:56:24+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "c8ab93c45f88",
    "title": "Trump said no taxpayer money would be spent on the ballroom. A contractor's invoices show otherwise. An internal cost estimate in March by the project's contractor put its cost at $600 million — with half coming from tax dollars.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moirqwe2ik2n",
@@ -962,16 +972,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-17T11:05:25.805+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4bcb43308668",
-   "title": "Minnesota anti-ICE protesters get the Broadview 6 treatment",
-   "link": "https://www.publicnotice.co/p/minnesota-ice-protest-charges",
-   "summary": "The process is the punishment.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-17T10:17:53+00:00",
    "iran_topic": false
   }
  ]
