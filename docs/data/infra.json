@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-17T09:02:05.012044+00:00",
+ "generated": "2026-06-17T10:45:12.811820+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.37,
-   "change": 0.41,
-   "change_pct": 0.52,
+   "price": 79.02,
+   "change": 0.06,
+   "change_pct": 0.08,
    "spark": [
     87.33000183105469,
     83.16999816894531,
     78.95999908447266,
-    79.37000274658203
+    79.0199966430664
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.58,
-   "change": -0.47,
-   "change_pct": -0.62,
+   "price": 75.48,
+   "change": -0.57,
+   "change_pct": -0.75,
    "spark": [
     84.87999725341797,
     80.75,
     76.05000305175781,
-    75.58000183105469
+    75.4800033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4342.4,
-   "change": 11.5,
-   "change_pct": 0.27,
+   "price": 4347.1,
+   "change": 16.2,
+   "change_pct": 0.37,
    "spark": [
     4215.0,
     4328.0,
     4330.89990234375,
-    4342.39990234375
+    4347.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 99.58,
-   "change": 0.04,
-   "change_pct": 0.04,
+   "price": 99.61,
+   "change": 0.07,
+   "change_pct": 0.07,
    "spark": [
     99.75,
     99.62999725341797,
     99.54000091552734,
-    99.58399963378906
+    99.61299896240234
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.45,
-   "change": 0.04,
-   "change_pct": 0.24,
+   "price": 16.42,
+   "change": 0.01,
+   "change_pct": 0.06,
    "spark": [
     19.440000534057617,
     17.68000030517578,
     16.200000762939453,
     16.40999984741211,
-    16.450000762939453
+    16.420000076293945
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.24,
-   "change": -0.0,
-   "change_pct": -0.09,
+   "price": 3.25,
+   "change": 0.01,
+   "change_pct": 0.37,
    "spark": [
     3.119999885559082,
     3.1470000743865967,
     3.239000082015991,
-    3.2360000610351562
+    3.250999927520752
    ]
   }
  },
@@ -219,7 +219,21 @@
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
-   "published": "2026-06-17T09:01:20.294175+00:00",
+   "published": "2026-06-17T10:44:15.843065+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
+   "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted",
+   "source": "Press TV",
+   "published": "2026-06-17T10:44:15.839540+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil prices fall, stocks rise amid optimism over US-Iran deal, reopening of Hormuz",
+   "link": "https://www.timesofisrael.com/oil-prices-fall-stocks-rise-amid-optimism-over-us-iran-deal-reopening-of-hormuz/",
+   "source": "Times of Israel",
+   "published": "2026-06-17T10:12:42+00:00",
    "severity": "info"
   },
   {
@@ -227,13 +241,6 @@
    "link": "https://presstv.ir/Detail/2026/06/16/770566/Iran-VP-Tehran-maintain-control-Strait-of-Hormuz-vessels-cost-of-service-safe-navigation-MoU",
    "source": "Press TV",
    "published": "2026-06-17T09:01:20.288837+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Exclusive: Iranian oil tankers, cargo vessels sail through as US naval blockade officially lifted",
-   "link": "https://presstv.ir/Detail/2026/06/15/770518/exclusive-iranian-oil-tankers-cargo-vessels-sail-through-us-naval-blockade-officially-lifted",
-   "source": "Press TV",
-   "published": "2026-06-17T09:01:20.288017+00:00",
    "severity": "info"
   },
   {
@@ -270,13 +277,6 @@
    "source": "@reuters",
    "published": "2026-06-17T05:40:14+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Haredi protest blocks highway; 5 arrested as police drag demonstrators, use stun grenades",
-   "link": "https://www.timesofisrael.com/liveblog-june-17-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-17T01:50:16+00:00",
-   "severity": "medium"
   },
   {
    "title": "US commits to rehabilitation of Islamic regime with at least $300 b. in reported leaked MOU",
@@ -326,8 +326,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
+    {
+     "title": "Oil prices fall, stocks rise amid optimism over US-Iran deal, reopening of Hormuz",
+     "link": "https://www.timesofisrael.com/oil-prices-fall-stocks-rise-amid-optimism-over-us-iran-deal-reopening-of-hormuz/",
+     "source": "Times of Israel",
+     "published": "2026-06-17T10:12:42+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran’s VP: Tehran will maintain control of Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/16/770566/Iran-VP-Tehran-maintain-control-Strait-of-Hormuz-vessels-cost-of-service-safe-navigation-MoU",
@@ -341,13 +348,6 @@
      "source": "Al Jazeera",
      "published": "2026-06-17T07:44:52+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Iran has fired drones at commercial ships in Hormuz strait since MoU's signing, source tells 'Post'",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899643",
-     "source": "Jerusalem Post",
-     "published": "2026-06-17T06:43:48+00:00",
-     "severity": "medium"
     }
    ]
   },
@@ -374,6 +374,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "4bcb43308668",
+   "title": "Minnesota anti-ICE protesters get the Broadview 6 treatment",
+   "link": "https://www.publicnotice.co/p/minnesota-ice-protest-charges",
+   "summary": "The process is the punishment.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-17T10:17:53+00:00",
+   "iran_topic": false
+  },
   {
    "id": "41ee20af2394",
    "title": "Trump’s endorsement power just met its $100M limit",
@@ -962,16 +972,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-16T18:00:59.295+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "97a025d878c5",
-   "title": "UPDATE: Republican Sen. Bill Hagerty objected to passing by unanimous consent Leader Schumer's bill killing the Trump slush fund — blocking the bill from moving forward.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mogdrnt2yc2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-16T17:40:10.030+00:00",
    "iran_topic": false
   }
  ]
