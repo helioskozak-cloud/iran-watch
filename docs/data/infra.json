@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-18T03:40:12.144887+00:00",
+ "generated": "2026-06-18T08:45:12.087730+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 78.37,
-   "change": -0.59,
-   "change_pct": -0.75,
+   "price": 78.14,
+   "change": -1.41,
+   "change_pct": -1.77,
    "spark": [
-    87.33000183105469,
     83.16999816894531,
     78.95999908447266,
-    78.37000274658203
+    79.55000305175781,
+    78.13999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 74.56,
-   "change": -1.49,
-   "change_pct": -1.96,
+   "price": 74.36,
+   "change": -2.43,
+   "change_pct": -3.16,
    "spark": [
-    84.87999725341797,
     80.75,
     76.05000305175781,
-    74.55999755859375
+    76.79000091552734,
+    74.36000061035156
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4334.3,
-   "change": 3.4,
-   "change_pct": 0.08,
+   "price": 4304.6,
+   "change": -54.3,
+   "change_pct": -1.25,
    "spark": [
-    4215.0,
     4328.0,
     4330.89990234375,
-    4334.2998046875
+    4358.89990234375,
+    4304.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.23,
-   "change": 0.69,
-   "change_pct": 0.7,
+   "price": 100.46,
+   "change": 0.37,
+   "change_pct": 0.37,
    "spark": [
-    99.75,
     99.62999725341797,
     99.54000091552734,
-    100.23300170898438
+    100.08999633789062,
+    100.45700073242188
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.44,
-   "change": 2.03,
-   "change_pct": 12.37,
+   "price": 17.08,
+   "change": -1.36,
+   "change_pct": -7.38,
    "spark": [
-    19.440000534057617,
     17.68000030517578,
     16.200000762939453,
     16.40999984741211,
-    18.440000534057617
+    18.440000534057617,
+    17.079999923706055
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.16,
-   "change": -0.08,
-   "change_pct": -2.35,
+   "price": 3.15,
+   "change": 0.01,
+   "change_pct": 0.22,
    "spark": [
-    3.119999885559082,
     3.1470000743865967,
     3.239000082015991,
-    3.1630001068115234
+    3.1449999809265137,
+    3.1519999504089355
    ]
   }
  },
@@ -216,6 +216,69 @@
  ],
  "incidents": [
   {
+   "title": "Hormuz reopening to release wave of oil supply, depress prices reut.rs/4vXt91b",
+   "link": "https://bsky.app/profile/reuters.com/post/3mokgjyyxpt2h",
+   "source": "@reuters",
+   "published": "2026-06-18T08:40:13+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Hormuz reopening to release wave of oil supply, depress prices",
+   "link": "https://www.al-monitor.com/originals/2026/06/hormuz-reopening-release-wave-oil-supply-depress-prices",
+   "source": "Al-Monitor",
+   "published": "2026-06-18T08:36:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
+   "link": "https://www.al-monitor.com/originals/2026/06/three-saudi-flagged-supertankers-sail-through-hormuz-after-iran-deal-signed-data",
+   "source": "Al-Monitor",
+   "published": "2026-06-18T08:36:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The average price of U.S. gasoline fell below $4 a gallon for the first time in months, after Iran and the U.S. signed a preliminary agreement to cease hostilities for 60 days and reopen the Strait of Hormuz.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mokgckivdl2f",
+   "source": "@nytimes",
+   "published": "2026-06-18T08:36:03.367943+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows reut.rs/4vdRhg5",
+   "link": "https://bsky.app/profile/reuters.com/post/3mokgaxnpsl2q",
+   "source": "@reuters",
+   "published": "2026-06-18T08:35:09+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil prices fell and stocks rose on Thursday after Pakistan’s leader announced that the agreement between the U.S. and Iran to reopen the Strait of Hormuz would take effect immediately.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mokdqfyxf72g",
+   "source": "@nytimes",
+   "published": "2026-06-18T07:50:07.194319+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US, Iran sign war-ending deal, which enters into effect 2 days earlier than planned",
+   "link": "https://www.timesofisrael.com/us-iran-sign-war-ending-deal-which-enters-into-effect-2-days-earlier-than-planned/",
+   "source": "Times of Israel",
+   "published": "2026-06-18T06:43:36+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump, Pezeshkian sign deal to end Iran war, reopen Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u8xzwj/trump_pezeshkian_sign_deal_to_end_iran_war_reopen/",
+   "source": "r/worldnews",
+   "published": "2026-06-18T05:53:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Exclusive-Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
+   "link": "https://www.al-monitor.com/originals/2026/06/exclusive-thailand-revives-30-billion-coast-coast-corridor-rival-malacca-strait",
+   "source": "Al-Monitor",
+   "published": "2026-06-18T04:36:40+00:00",
+   "severity": "info"
+  },
+  {
    "title": "A new 14-point ceasefire agreement between the U.S. and Iran sets out to stop the war between them and reopen the Strait of Hormuz, but Reuters' Trevor Hunnicut says it leaves the hardest questions, including Iran's nuclear program, to 60 days of talks.",
    "link": "https://bsky.app/profile/reuters.com/post/3mojo3rx7tc2z",
    "source": "@reuters",
@@ -223,7 +286,7 @@
    "severity": "medium"
   },
   {
-   "title": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing",
+   "title": "Iran war live: Israel continues Lebanon attacks after US and Iran sign deal",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-18T00:00:00+00:00",
@@ -244,80 +307,17 @@
    "severity": "info"
   },
   {
+   "title": "Iran, US presidents sign deal to extend ceasefire, reopen Strait of Hormuz",
+   "link": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-17T23:02:47+00:00",
+   "severity": "info"
+  },
+  {
    "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
    "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
    "source": "@csis",
    "published": "2026-06-17T22:00:10.116813406+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Security Cabinet officials 'frustrated' over MoU, believe economic collapse imminent - exclusive",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-899740",
-   "source": "Jerusalem Post",
-   "published": "2026-06-17T20:24:46+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US, Iran could sign ceasefire deal as soon as tonight to open Strait of Hormuz - Axios",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899733",
-   "source": "Jerusalem Post",
-   "published": "2026-06-17T19:16:59+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump eyes US-Iran ‘peace deal’ signing",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-17T19:14:45+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Oil’s slide wavers as Trump warns US-Iran deal ‘not final’",
-   "link": "https://www.al-monitor.com/originals/2026/06/oils-slide-wavers-trump-warns-us-iran-deal-not-final",
-   "source": "Al-Monitor",
-   "published": "2026-06-17T18:25:28+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Trump says 'nobody' attacked Iran girls' school 'on purpose'",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-nobody-attacked-iran-girls-school-purpose",
-   "source": "Al-Monitor",
-   "published": "2026-06-17T18:02:04+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "G7 backs Canada as major global energy supplier to lessen reliance on Strait of Hormuz | CBC News",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u8hkip/g7_backs_canada_as_major_global_energy_supplier/",
-   "source": "r/worldnews",
-   "published": "2026-06-17T18:00:41+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says 'nobody' attacked Iran girls' school 'on purpose' reut.rs/4ePnqEQ",
-   "link": "https://bsky.app/profile/reuters.com/post/3moiusrvtq52g",
-   "source": "@reuters",
-   "published": "2026-06-17T17:50:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Factbox-The 14-point draft of the U.S.-Iran deal",
-   "link": "https://www.al-monitor.com/originals/2026/06/factbox-14-point-draft-us-iran-deal",
-   "source": "Al-Monitor",
-   "published": "2026-06-17T17:01:50+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Recovery of ship traffic in Hormuz limited, but signs emerge",
-   "link": "https://www.al-monitor.com/originals/2026/06/recovery-ship-traffic-hormuz-limited-signs-emerge",
-   "source": "Al-Monitor",
-   "published": "2026-06-17T17:00:18+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran will reopen the Strait of Hormuz and can sell oil freely under deal with the US, officials say",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u8e6gb/iran_will_reopen_the_strait_of_hormuz_and_can/",
-   "source": "r/worldnews",
-   "published": "2026-06-17T15:57:39+00:00",
    "severity": "info"
   }
  ],
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 11,
    "recent": [
     {
-     "title": "A new 14-point ceasefire agreement between the U.S. and Iran sets out to stop the war between them and reopen the Strait of Hormuz, but Reuters' Trevor Hunnicut says it leaves the hardest questions, including Iran's nuclear program, to 60 days of talks.",
-     "link": "https://bsky.app/profile/reuters.com/post/3mojo3rx7tc2z",
+     "title": "Hormuz reopening to release wave of oil supply, depress prices reut.rs/4vXt91b",
+     "link": "https://bsky.app/profile/reuters.com/post/3mokgjyyxpt2h",
      "source": "@reuters",
-     "published": "2026-06-18T01:22:46.537+00:00",
-     "severity": "medium"
-    },
-    {
-     "title": "Iran to reopen Strait of Hormuz, can sell oil again, according to U.S. officials | CBC News",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u8qi6z/iran_to_reopen_strait_of_hormuz_can_sell_oil/",
-     "source": "r/worldnews",
-     "published": "2026-06-17T23:44:09+00:00",
+     "published": "2026-06-18T08:40:13+00:00",
      "severity": "info"
     },
     {
-     "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
-     "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
-     "source": "@csis",
-     "published": "2026-06-17T22:00:10.116813406+00:00",
+     "title": "Hormuz reopening to release wave of oil supply, depress prices",
+     "link": "https://www.al-monitor.com/originals/2026/06/hormuz-reopening-release-wave-oil-supply-depress-prices",
+     "source": "Al-Monitor",
+     "published": "2026-06-18T08:36:50+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
+     "link": "https://www.al-monitor.com/originals/2026/06/three-saudi-flagged-supertankers-sail-through-hormuz-after-iran-deal-signed-data",
+     "source": "Al-Monitor",
+     "published": "2026-06-18T08:36:50+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "fb5e7fbbd0d4",
+   "title": "who signed it ben",
+   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mok2htyxbk2a",
+   "summary": "",
+   "source": "@darthbluesky",
+   "category": "trump_bsky",
+   "published": "2026-06-18T05:04:16.247+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ad04669ddca8",
+   "title": "watching GOP politicians twist themselves into knots to echo what Trump says, no matter how bizarre and stupid it is... we truly are living in the upside-down",
+   "link": "https://bsky.app/profile/stevericketts.bsky.social/post/3mojyiveyo22h",
+   "summary": "",
+   "source": "@stevericketts",
+   "category": "trump_bsky",
+   "published": "2026-06-18T04:29:03.760+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "72de612e5d86",
+   "title": "what is important is Iran is armed against us- ~republicans",
+   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mojwxb2hh22t",
+   "summary": "",
+   "source": "@darthbluesky",
+   "category": "trump_bsky",
+   "published": "2026-06-18T04:01:18.276+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f3f663ec5ce2",
+   "title": "What does this seem utterly pathetic?",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mojwqfeqbk23",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-18T03:57:27.926+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0981a6b31190",
+   "title": "I have to say it again, this is insane, it's white-suits-and-nets insane. They need missles to defend themselves from the UNITED STATES, says THE UNITED STATES SENATOR??",
+   "link": "https://bsky.app/profile/edroso.bsky.social/post/3mojw6ew5b22s",
+   "summary": "",
+   "source": "@edroso",
+   "category": "trump_bsky",
+   "published": "2026-06-18T03:47:23.468+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da349a975103",
+   "title": "What is even happening",
+   "link": "https://bsky.app/profile/asharangappa.bsky.social/post/3mojvrhitek24",
+   "summary": "",
+   "source": "@asharangappa",
+   "category": "trump_bsky",
+   "published": "2026-06-18T03:40:09.971+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3a255ee3edb1",
+   "title": "A surrender treaty at Versailles, you say?",
+   "link": "https://bsky.app/profile/samd.bsky.social/post/3mojvo4kess2j",
+   "summary": "",
+   "source": "@samd",
+   "category": "trump_bsky",
+   "published": "2026-06-18T03:38:17.821+00:00",
+   "iran_topic": false
+  },
   {
    "id": "69494a2141f1",
    "title": "THIS is how you step up, Democrats! Clear, concise, and simple to understand.",
@@ -565,56 +635,6 @@
    "iran_topic": true
   },
   {
-   "id": "9a3f2583258b",
-   "title": "KAITLAN COLLINS: Are you okay with Iran having missiles? SEN. ROGER MARSHALL: I prefer that they not, but they have to defend themselves COLLINS: You think Iran needs to be able to defend itself? MARSHALL: I do, otherwise we turn this into a forever war",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojp57cao62w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T01:41:27.805+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d86242ad152f",
-   "title": "Ossoff on Trump calling him \"Os(jerk!)off\" -- \"I didn't think it was his best work as far as nicknames go. But more to the point, he is increasingly unstable. And I think it flows the fact that he is globally humiliated from this failed war.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojopp4e7v23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T01:33:54.624+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a684c63fb1c3",
-   "title": "Ossoff on Mike Collins: \"He's pro-war. He's pro-tariffs. He's pro-cutting your healthcare. He's also a notorious bigot and antisemite, and an election-denying extremist who is only a congressman because his daddy was a congressman, and is a Trump puppet who will serve his needs & agenda mindlessly\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojoniwitb2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T01:32:41.033+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4a1967113a6",
-   "title": "Trump always loves strongmen who stage successful coups.",
-   "link": "https://bsky.app/profile/hntdove.bsky.social/post/3mojnyo2ns223",
-   "summary": "",
-   "source": "@hntdove",
-   "category": "trump_bsky",
-   "published": "2026-06-18T01:21:01.783+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "598b57ef5318",
-   "title": "The writers are really taking this thing a bit too far….",
-   "link": "https://bsky.app/profile/atticus59914029.bsky.social/post/3mojnte3abc2q",
-   "summary": "",
-   "source": "@atticus59914029",
-   "category": "trump_bsky",
-   "published": "2026-06-18T01:18:03.554+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "c3c8e3fae437",
    "title": "Senators Threaten to Freeze Pete Hegseth’s Travel Budget Over School Bombing Documents",
    "link": "https://www.mediaite.com/media/news/senators-threaten-to-freeze-pete-hegseths-travel-budget-over-school-bombing-documents/",
@@ -635,16 +655,6 @@
    "iran_topic": true
   },
   {
-   "id": "4ae330db1276",
-   "title": "on top of everything else, Trump seems to have some sort of fresh wound on his hand he's covering up with makeup (Antoine Gyori/Corbis and Guillaume Baptiste/AFP via Getty)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojkwk2mhk22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T00:26:09.260+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "405fc86b8be3",
    "title": "Another one of Trump's personal lawyers was just confirmed as a federal appeals court judge. Justin Smith was Trump's lead attorney at the Supreme Court in the effort to upend the millions of dollars in damages that E. Jean Carroll won against Trump for sexual abuse and defamation.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mojk236vvk24",
@@ -652,16 +662,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-18T00:10:14.150+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6692bf8b607a",
-   "title": "Tell me again history doesn’t matter. FFS",
-   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mojjaasi7s2h",
-   "summary": "",
-   "source": "@kairyssdal",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:55:47.618+00:00",
    "iran_topic": false
   },
   {
@@ -673,16 +673,6 @@
    "category": "mediaite_all",
    "published": "2026-06-17T23:54:53+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "69f4e7b4da9e",
-   "title": "NY post headline writers tonight",
-   "link": "https://bsky.app/profile/sky.skymarchini.net/post/3mojizfan322n",
-   "summary": "",
-   "source": "@sky",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:51:57.393+00:00",
-   "iran_topic": false
   },
   {
    "id": "85fa628a3716",
@@ -973,6 +963,16 @@
    "category": "wh_news",
    "published": "2026-06-17T15:57:08+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "e940c040881c",
+   "title": "New Mexico investigators have sent letters to JPMorgan Chase, Google and more than two dozen companies ordering them to lock down records tied to Jeffrey Epstein and some of his associates, a sign of the widening criminal probe into his Zorro Ranch.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moim5pzkds2c",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-17T15:15:24.404+00:00",
+   "iran_topic": false
   }
  ]
 }
