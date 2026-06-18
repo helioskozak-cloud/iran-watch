@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-17T23:08:19.091057+00:00",
+ "generated": "2026-06-18T01:40:54.104759+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.07,
-   "change": 0.11,
-   "change_pct": 0.14,
+   "price": 78.36,
+   "change": -0.6,
+   "change_pct": -0.76,
    "spark": [
     87.33000183105469,
     83.16999816894531,
     78.95999908447266,
-    79.06999969482422
+    78.36000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.41,
-   "change": -0.64,
-   "change_pct": -0.84,
+   "price": 74.79,
+   "change": -1.26,
+   "change_pct": -1.66,
    "spark": [
     84.87999725341797,
     80.75,
     76.05000305175781,
-    75.41000366210938
+    74.79000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4286.6,
-   "change": -44.3,
-   "change_pct": -1.02,
+   "price": 4339.7,
+   "change": 8.8,
+   "change_pct": 0.2,
    "spark": [
     4215.0,
     4328.0,
     4330.89990234375,
-    4286.60009765625
+    4339.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.39,
-   "change": 0.85,
-   "change_pct": 0.85,
+   "price": 100.24,
+   "change": 0.7,
+   "change_pct": 0.71,
    "spark": [
     99.75,
     99.62999725341797,
     99.54000091552734,
-    100.38800048828125
+    100.24199676513672
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.16,
-   "change": -0.08,
-   "change_pct": -2.38,
+   "price": 3.17,
+   "change": -0.07,
+   "change_pct": -2.19,
    "spark": [
     3.119999885559082,
     3.1470000743865967,
     3.239000082015991,
-    3.1619999408721924
+    3.1679999828338623
    ]
   }
  },
@@ -216,6 +216,27 @@
  ],
  "incidents": [
   {
+   "title": "A new 14-point ceasefire agreement between the U.S. and Iran sets out to stop the war between them and reopen the Strait of Hormuz, but Reuters' Trevor Hunnicut says it leaves the hardest questions, including Iran's nuclear program, to 60 days of talks.",
+   "link": "https://bsky.app/profile/reuters.com/post/3mojo3rx7tc2z",
+   "source": "@reuters",
+   "published": "2026-06-18T01:22:46.537+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-18T00:00:00+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran to reopen Strait of Hormuz, can sell oil again, according to U.S. officials | CBC News",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u8qi6z/iran_to_reopen_strait_of_hormuz_can_sell_oil/",
+   "source": "r/worldnews",
+   "published": "2026-06-17T23:44:09+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US must cut military assistance to Israel to protect Iran deal: Ex-Trump official",
    "link": "https://presstv.ir/Detail/2026/06/15/770467/United-States-Iran-ceasefire-Israel",
    "source": "Press TV",
@@ -227,7 +248,7 @@
    "link": "https://www.timesofisrael.com/liveblog-june-18-2026/",
    "source": "Times of Israel",
    "published": "2026-06-17T22:48:12+00:00",
-   "severity": "info"
+   "severity": "low"
   },
   {
    "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
@@ -298,27 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-17T17:00:18+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran will reopen the Strait of Hormuz and can sell oil freely under deal with the US, officials say",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u8e6gb/iran_will_reopen_the_strait_of_hormuz_and_can/",
-   "source": "r/worldnews",
-   "published": "2026-06-17T15:57:39+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Bus with Belarus children hit by a drone in Russia, Moscow claims it was attacked by Ukraine",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u8dok6/bus_with_belarus_children_hit_by_a_drone_in/",
-   "source": "r/worldnews",
-   "published": "2026-06-17T15:39:31+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "What happens when the Strait of Hormuz re-opens?",
-   "link": "https://www.al-monitor.com/originals/2026/06/what-happens-when-strait-hormuz-re-opens",
-   "source": "Al-Monitor",
-   "published": "2026-06-17T15:00:17+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
-     "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
-     "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
-     "source": "@csis",
-     "published": "2026-06-17T22:00:10.116813406+00:00",
+     "title": "A new 14-point ceasefire agreement between the U.S. and Iran sets out to stop the war between them and reopen the Strait of Hormuz, but Reuters' Trevor Hunnicut says it leaves the hardest questions, including Iran's nuclear program, to 60 days of talks.",
+     "link": "https://bsky.app/profile/reuters.com/post/3mojo3rx7tc2z",
+     "source": "@reuters",
+     "published": "2026-06-18T01:22:46.537+00:00",
+     "severity": "medium"
+    },
+    {
+     "title": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-18T00:00:00+00:00",
      "severity": "info"
     },
     {
-     "title": "US, Iran could sign ceasefire deal as soon as tonight to open Strait of Hormuz - Axios",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899733",
-     "source": "Jerusalem Post",
-     "published": "2026-06-17T19:16:59+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "G7 backs Canada as major global energy supplier to lessen reliance on Strait of Hormuz | CBC News",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u8hkip/g7_backs_canada_as_major_global_energy_supplier/",
+     "title": "Iran to reopen Strait of Hormuz, can sell oil again, according to U.S. officials | CBC News",
+     "link": "https://www.reddit.com/r/worldnews/comments/1u8qi6z/iran_to_reopen_strait_of_hormuz_can_sell_oil/",
      "source": "r/worldnews",
-     "published": "2026-06-17T18:00:41+00:00",
+     "published": "2026-06-17T23:44:09+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,226 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "d86242ad152f",
+   "title": "Ossoff on Trump calling him \"Os(jerk!)off\" -- \"I didn't think it was his best work as far as nicknames go. But more to the point, he is increasingly unstable. And I think it flows the fact that he is globally humiliated from this failed war.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojopp4e7v23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:33:54.624+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a684c63fb1c3",
+   "title": "Ossoff on Mike Collins: \"He's pro-war. He's pro-tariffs. He's pro-cutting your healthcare. He's also a notorious bigot and antisemite, and an election-denying extremist who is only a congressman because his daddy was a congressman, and is a Trump puppet who will serve his needs & agenda mindlessly\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojoniwitb2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:32:41.033+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e4a1967113a6",
+   "title": "Trump always loves strongmen who stage successful coups.",
+   "link": "https://bsky.app/profile/hntdove.bsky.social/post/3mojnyo2ns223",
+   "summary": "",
+   "source": "@hntdove",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:21:01.783+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "598b57ef5318",
+   "title": "The writers are really taking this thing a bit too far….",
+   "link": "https://bsky.app/profile/atticus59914029.bsky.social/post/3mojnte3abc2q",
+   "summary": "",
+   "source": "@atticus59914029",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:18:03.554+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c3c8e3fae437",
+   "title": "Senators Threaten to Freeze Pete Hegseth’s Travel Budget Over School Bombing Documents",
+   "link": "https://www.mediaite.com/media/news/senators-threaten-to-freeze-pete-hegseths-travel-budget-over-school-bombing-documents/",
+   "summary": "Senate lawmakers are seeking to withhold most of Defense Secretary Pete Hegseth’s travel budget unless the Pentagon turns over information related to several military operations, including a February bombing in Iran that killed roughly 150 people, according to a Wednesday report from Politico. The post Senators Threaten to Freeze Pete Hegseth’s Travel Budget Over School Bombing Documents first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T01:15:52+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "cbdac1c5f89c",
+   "title": "‘Ted Cruz Is Lying Thru His Teeth’: Don Jr. Unloads on Father’s Ally",
+   "link": "https://www.mediaite.com/online/ted-cruz-is-lying-thru-his-teeth-don-jr-unloads-on-fathers-ally/",
+   "summary": "On Wednesday via X, Donald Trump Jr. alleged that Sen. Ted Cruz (R-TX) — an ally of President Donald Trump — is \"lying thru his teeth\" with his recent comments on the administration's memorandum of understanding with Iran. The post ‘Ted Cruz Is Lying Thru His Teeth’: Don Jr. Unloads on Father’s Ally first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T00:26:56+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4ae330db1276",
+   "title": "on top of everything else, Trump seems to have some sort of fresh wound on his hand he's covering up with makeup (Antoine Gyori/Corbis and Guillaume Baptiste/AFP via Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojkwk2mhk22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T00:26:09.260+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "405fc86b8be3",
+   "title": "Another one of Trump's personal lawyers was just confirmed as a federal appeals court judge. Justin Smith was Trump's lead attorney at the Supreme Court in the effort to upend the millions of dollars in damages that E. Jean Carroll won against Trump for sexual abuse and defamation.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mojk236vvk24",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T00:10:14.150+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e3c7e5f74b06",
+   "title": "undeniably good optics: signing a war treaty in Versailles",
+   "link": "https://bsky.app/profile/iwriteok.bsky.social/post/3mojjroigjs2y",
+   "summary": "",
+   "source": "@iwriteok",
+   "category": "trump_bsky",
+   "published": "2026-06-18T00:05:32.395+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66bd6148cb0a",
+   "title": "still waiting for the white house to show all those photos they have of trump shaking hands with his left hand",
+   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mojjmf77x224",
+   "summary": "",
+   "source": "@darthbluesky",
+   "category": "trump_bsky",
+   "published": "2026-06-18T00:02:34.883+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "41aa2988f016",
+   "title": "History professors/history students/dads who have read one book about World War II: \"Oh COME ON!\"",
+   "link": "https://bsky.app/profile/jamescdownie.bsky.social/post/3mojjdojxfs2d",
+   "summary": "",
+   "source": "@jamescdownie",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:57:42.683+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6692bf8b607a",
+   "title": "Tell me again history doesn’t matter. FFS",
+   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mojjaasi7s2h",
+   "summary": "",
+   "source": "@kairyssdal",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:55:47.618+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "885d775c0415",
+   "title": "Fox News Contributor Slams Trump for Signing ‘A Great Deal For Iran’",
+   "link": "https://www.mediaite.com/media/tv/fox-news-contributor-slams-trump-a-great-deal-for-iran/",
+   "summary": "On Wednesday's edition of Special Report With Bret Baier, Fox News contributor Leslie Marshall slammed President Donald Trump's memorandum of understanding with the Iranian regime, describing it as \"a great deal for Iran.\" The post Fox News Contributor Slams Trump for Signing ‘A Great Deal For Iran’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-17T23:54:53+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "69f4e7b4da9e",
+   "title": "NY post headline writers tonight",
+   "link": "https://bsky.app/profile/sky.skymarchini.net/post/3mojizfan322n",
+   "summary": "",
+   "source": "@sky",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:51:57.393+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f6d7a5b8d5ea",
+   "title": "Sen. Jim Banks: \"Donald Trump is gonna be in the Oval Office as our commander in chief for the next 2.5 years, and if Iran doesn't keep up their end of the deal, there will be hell to pay. Donald Trump will bomb the hell out of them. I trust President Trump.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojhruu72a2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:29:51.568+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "da1fa7c13d76",
+   "title": "Okay. The writers are just getting lazy now",
+   "link": "https://bsky.app/profile/willcooling.bsky.social/post/3mojhosmyo22e",
+   "summary": "",
+   "source": "@willcooling",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:28:08.592+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f016f074c136",
+   "title": "Oh come on now!",
+   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mojhm5p4yc2z",
+   "summary": "",
+   "source": "@justinbaragona",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:26:39.533+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "85db1cf3feef",
+   "title": "He signed an unconditional surrender at Versailles? Come the fuck on.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mojhesmr6226",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:22:33.040+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "73247ba36c60",
+   "title": "HAWLEY: It remains to be seen whether we will actually give them any money. I thought I heard the president say we're not gonna give them a dime. KIMLEADE: But senator, they are allowed to sell oil for the first time in decades on the open market.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojhdp5sub26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:21:55.826+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "85fa628a3716",
+   "title": "‘U.S. Senator, Secretary of State’: Fox’s Tarlov Rips Watters’ Claim That Hillary Clinton Is ‘Just a Female’",
+   "link": "https://www.mediaite.com/media/tv/u-s-senator-secretary-of-state-foxs-tarlov-rips-watters-claim-that-hillary-clinton-is-just-a-female/",
+   "summary": "During Wednesday's edition of The Five, Fox News' Jessica Tarlov ripped co-host Jesse Watters' claim that Hillary Clinton is \"just a female,\" listing off her former titles: \"U.S. senator, secretary of state.\" The post ‘U.S. Senator, Secretary of State’: Fox’s Tarlov Rips Watters’ Claim That Hillary Clinton Is ‘Just a Female’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-17T23:16:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "26dfe7fb9d25",
+   "title": "Trump: \"It's signed. I signed it in Versailles. I just signed it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojgxwonp42g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:15:21.067+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "69aff1f13552",
+   "title": "Sen. Chris Murphy: \"It's a multi-billion dollar payoff to Iran in exchange for nothing ... Iran won. Trump surrendered.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojgvcoixm23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-17T23:13:52.981+00:00",
+   "iran_topic": true
+  },
   {
    "id": "0add388fe819",
    "title": "Sen. Tuberville Defends Trump and Vance Amid Criticism of Iran Deal: ‘Let’s Trust These Two’",
@@ -465,16 +685,6 @@
    "iran_topic": false
   },
   {
-   "id": "611388a16523",
-   "title": "Assistant AG Harmeet Dhillon encourages baseball players to file employment discrimination claims against the MLB over Pride uniforms",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojbj5zhcc22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:37:36.758+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "31f0d1c49ce3",
    "title": "Is this the SINGLE WORST presidential response in history? I know he holds the top 100, but this feels like the gold to me.",
    "link": "https://bsky.app/profile/jonsternfeld.bsky.social/post/3mojb4mbzbk25",
@@ -482,16 +692,6 @@
    "source": "@jonsternfeld",
    "category": "trump_bsky",
    "published": "2026-06-17T21:30:35.510+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4d9499f1a2b7",
-   "title": "Thank goodness we cut back on that SNAP funding 😞",
-   "link": "https://bsky.app/profile/timdickinson.bsky.social/post/3mojaugrr3s2m",
-   "summary": "",
-   "source": "@timdickinson",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:26:01.299+00:00",
    "iran_topic": false
   },
   {
@@ -505,16 +705,6 @@
    "iran_topic": false
   },
   {
-   "id": "975be238feb1",
-   "title": "Rep. Wesley Hunt on Iran: \"If they do not adhere to what we have put before them, then guess what? The pain train is coming. They are gonna to see more bombs.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moja37tqo225",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:11:55.085+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "c5e6ad18e423",
    "title": "NEW: Trump’s ‘MAGA Warrior’ Drops Congressional Bid After Sexting Scandal With Former Beauty Queen",
    "link": "https://www.mediaite.com/politics/new-trumps-maga-warrior-drops-congressional-bid-after-sexting-scandal-with-former-beauty-queen/",
@@ -525,26 +715,6 @@
    "iran_topic": false
   },
   {
-   "id": "d6b198e9afcf",
-   "title": "Why not hand them a few nukes to tip those missiles? It's only fair.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3moj7wybvuc24",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:09:33.020+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d298190fa01",
-   "title": "Undertoke? Isn't that when you don't take a big enough hit before passing the joint on? Dude, that was so an undertoke.",
-   "link": "https://bsky.app/profile/rjserinko.bsky.social/post/3moj7v5b2is2m",
-   "summary": "",
-   "source": "@rjserinko",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:08:31.126+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "caf857066028",
    "title": "Leader Schumer: \"This is a Republican president, a Republican Senate, a Republican House screwing up.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moj7p22iu22e",
@@ -552,96 +722,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-17T21:05:06.441+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5f9232b28ca5",
-   "title": "look at the arm of this suit",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3moj7f4y77k2w",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:59:33.967+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "488bfc3997bd",
-   "title": "Sen. Tuberville: \"I trust President Trump. I trust Vice President Vance. We don't need to listen to anybody up here on Capitol Hill. Let's trust these two.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj7cdc4kx25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:57:59.897+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8e210b7d4ea5",
-   "title": "Sen. Jim Banks: \"What President Trump is accom-- is attempting to accomplish from all of this will put him down in history as once again the president that saved Europe, saved the rest of the world. I trust President Trump.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj7adzii525",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:56:53.556+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "66971f441213",
-   "title": "Guy who is President saying elections are rigged lol",
-   "link": "https://bsky.app/profile/coachfinstock.bsky.social/post/3moj74im2jc2t",
-   "summary": "",
-   "source": "@coachfinstock",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:54:44.162+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c62246106ea7",
-   "title": "Sen. Jim Banks: \"I'll take President Trump's word. I trust President Trump.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj6xcuxjx2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:51:50.367+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f084e07f9510",
-   "title": "Imagine what these guys would be saying if they were in the Bunker with Hitler.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3moj6rrcs722k",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:48:44.196+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3d2d62f95bd3",
-   "title": "\"It's just a flesh wound.\"",
-   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3moj633af7s2z",
-   "summary": "",
-   "source": "@markjacob",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:36:02.851+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "639975eb814f",
-   "title": "North Korean media blushes -- Larry Kudlow and Mike Lee agree that Trump \"has Iran on its knees\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj5uj4t5c2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:32:22.511+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9a7774b47e9e",
-   "title": "Rep. Brandon Gill: \"This is something that if we don't stop now, it's gonna be my daughter and daughters across the country who are going to be going to public schools wearing burkas.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moj5pgeyv223",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:29:31.859+00:00",
    "iran_topic": false
   },
   {
@@ -662,16 +742,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-17T20:23:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "23ee2bc74dd0",
-   "title": "Penguinmaxxing",
-   "link": "https://bsky.app/profile/gonebabygone.bsky.social/post/3moj4xhoh2s2d",
-   "summary": "",
-   "source": "@gonebabygone",
-   "category": "trump_bsky",
-   "published": "2026-06-17T20:16:07.936+00:00",
    "iran_topic": false
   },
   {
@@ -845,16 +915,6 @@
    "iran_topic": true
   },
   {
-   "id": "a13ec3a5d42d",
-   "title": "‘Ya Better Be Careful, JD!’ Trump Quips He’ll Throw Vance Under the Bus If Iran Deal Flops",
-   "link": "https://www.mediaite.com/media/news/ya-better-be-careful-jd-trump-quips-hell-throw-vance-under-the-bus-if-iran-deal-flops/",
-   "summary": "President Trump closed his G7 Summit press conference on Wednesday with a quip that he would blame Vice President JD Vance if the proposed Iran peace deal falls through this weekend. The post ‘Ya Better Be Careful, JD!’ Trump Quips He’ll Throw Vance Under the Bus If Iran Deal Flops first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:46:18+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "db9ad111ee8c",
    "title": "BREAKING: ATLANTA (AP) — Georgia Republican legislative leaders reject governor's call for 2028 redistricting in special session.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moiujhymv222",
@@ -872,16 +932,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-17T17:40:35.787+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "588712cb6341",
-   "title": "Mother of Star Goalkeeper in World Cup Will Make it into US After Trump’s State Department Waives Pricey Visa Fees",
-   "link": "https://www.mediaite.com/media/sports/mother-of-star-goalkeeper-in-world-cup-will-make-it-into-us-after-trumps-state-department-waives-pricey-visa-fees/",
-   "summary": "The mother of a goalkeeper on Cape Verde's national team will be allowed into the U.S. thanks to the State Department waiving its pricey fees. The post Mother of Star Goalkeeper in World Cup Will Make it into US After Trump’s State Department Waives Pricey Visa Fees first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:36:32+00:00",
    "iran_topic": false
   },
   {
@@ -905,26 +955,6 @@
    "iran_topic": true
   },
   {
-   "id": "c34cde1c8bc9",
-   "title": "Rubio’s Two-Day Absence: Secretary’s Media Silence Is a Flashing Red Sign Trump’s Iran Deal Stinks",
-   "link": "https://www.mediaite.com/opinion/rubios-two-day-absence-secretarys-media-silence-is-a-flashing-red-sign-trumps-iran-deal-stinks/",
-   "summary": "Rubio's calculation here appears clear; he's sitting back and waiting for the deal to either blow up or go into effect and be annihilated by conservatives The post Rubio’s Two-Day Absence: Secretary’s Media Silence Is a Flashing Red Sign Trump’s Iran Deal Stinks first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:22:44+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f70adf69ab28",
-   "title": "CNN Expert Savages Trump Deal as ‘Spectacular Own Goal’ for U.S.",
-   "link": "https://www.mediaite.com/media/news/cnn-expert-savages-trump-deal-as-spectacular-own-goal-for-u-s/",
-   "summary": "A CNN expert savaged President Donald Trump's proposed Iran deal as a \"spectacular own-goal for the United States\" after a draft of the agreement was leaked. The post CNN Expert Savages Trump Deal as ‘Spectacular Own Goal’ for U.S. first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:16:43+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "c8ab93c45f88",
    "title": "Trump said no taxpayer money would be spent on the ballroom. A contractor's invoices show otherwise. An internal cost estimate in March by the project's contractor put its cost at $600 million — with half coming from tax dollars.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moirqwe2ik2n",
@@ -943,36 +973,6 @@
    "category": "wh_news",
    "published": "2026-06-17T15:57:08+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "e940c040881c",
-   "title": "New Mexico investigators have sent letters to JPMorgan Chase, Google and more than two dozen companies ordering them to lock down records tied to Jeffrey Epstein and some of his associates, a sign of the widening criminal probe into his Zorro Ranch.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moim5pzkds2c",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-17T15:15:24.404+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "318570a45834",
-   "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
-   "summary": "Last week, First Lady Melania Trump&#160;launched Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous in adulthood. Developed in partnership with the Department of the Treasury, these accounts will provide eligible youth in foster care with tax-advantaged investment and savings accounts to help build long-term financial stability [&#8230;] The post WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-17T13:23:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5a47d6b8b05e",
-   "title": "FLAG: Trump says he's canceling today's confirmation hearing and essentially delaying the nomination of Jay Clayton for director of national intelligence to try to force Congress to take up his voter suppression bill that lacks the vote to pass.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moi66qamz22k",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-17T11:05:25.805+00:00",
-   "iran_topic": false
   }
  ]
 }
