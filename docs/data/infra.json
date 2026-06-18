@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-18T08:45:12.087730+00:00",
+ "generated": "2026-06-18T10:13:08.498929+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 78.14,
-   "change": -1.41,
-   "change_pct": -1.77,
+   "price": 77.88,
+   "change": -1.67,
+   "change_pct": -2.1,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
-    78.13999938964844
+    77.87999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 74.36,
-   "change": -2.43,
-   "change_pct": -3.16,
+   "price": 73.94,
+   "change": -2.85,
+   "change_pct": -3.71,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
-    74.36000061035156
+    73.94000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4304.6,
-   "change": -54.3,
-   "change_pct": -1.25,
+   "price": 4285.1,
+   "change": -73.8,
+   "change_pct": -1.69,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
-    4304.60009765625
+    4285.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.46,
-   "change": 0.37,
-   "change_pct": 0.37,
+   "price": 100.65,
+   "change": 0.56,
+   "change_pct": 0.56,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.45700073242188
+    100.6500015258789
    ]
   },
   "^GSPC": {
@@ -84,15 +84,15 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.08,
-   "change": -1.36,
-   "change_pct": -7.38,
+   "price": 17.01,
+   "change": -1.43,
+   "change_pct": -7.75,
    "spark": [
     17.68000030517578,
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    17.079999923706055
+    17.010000228881836
    ]
   },
   "NG=F": {
@@ -216,6 +216,13 @@
  ],
  "incidents": [
   {
+   "title": "Germany deploys ship to Red Sea for possible Hormuz mission, minister says reut.rs/4oBoT4T",
+   "link": "https://bsky.app/profile/reuters.com/post/3mokkh74hvu2y",
+   "source": "@reuters",
+   "published": "2026-06-18T09:50:13+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Hormuz reopening to release wave of oil supply, depress prices reut.rs/4vXt91b",
    "link": "https://bsky.app/profile/reuters.com/post/3mokgjyyxpt2h",
    "source": "@reuters",
@@ -286,13 +293,6 @@
    "severity": "medium"
   },
   {
-   "title": "Iran war live: Israel continues Lebanon attacks after US and Iran sign deal",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-18T00:00:00+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran to reopen Strait of Hormuz, can sell oil again, according to U.S. officials | CBC News",
    "link": "https://www.reddit.com/r/worldnews/comments/1u8qi6z/iran_to_reopen_strait_of_hormuz_can_sell_oil/",
    "source": "r/worldnews",
@@ -326,8 +326,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 12,
    "recent": [
+    {
+     "title": "Germany deploys ship to Red Sea for possible Hormuz mission, minister says reut.rs/4oBoT4T",
+     "link": "https://bsky.app/profile/reuters.com/post/3mokkh74hvu2y",
+     "source": "@reuters",
+     "published": "2026-06-18T09:50:13+00:00",
+     "severity": "info"
+    },
     {
      "title": "Hormuz reopening to release wave of oil supply, depress prices reut.rs/4vXt91b",
      "link": "https://bsky.app/profile/reuters.com/post/3mokgjyyxpt2h",
@@ -341,22 +348,23 @@
      "source": "Al-Monitor",
      "published": "2026-06-18T08:36:50+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
-     "link": "https://www.al-monitor.com/originals/2026/06/three-saudi-flagged-supertankers-sail-through-hormuz-after-iran-deal-signed-data",
-     "source": "Al-Monitor",
-     "published": "2026-06-18T08:36:50+00:00",
-     "severity": "info"
     }
    ]
   },
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "QUIET",
-   "incident_count": 0,
-   "recent": []
+   "status": "ACTIVE",
+   "incident_count": 1,
+   "recent": [
+    {
+     "title": "Germany deploys ship to Red Sea for possible Hormuz mission, minister says reut.rs/4oBoT4T",
+     "link": "https://bsky.app/profile/reuters.com/post/3mokkh74hvu2y",
+     "source": "@reuters",
+     "published": "2026-06-18T09:50:13+00:00",
+     "severity": "info"
+    }
+   ]
   },
   {
    "name": "Suez Canal",
@@ -374,6 +382,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "ecf5b680539c",
+   "title": "‘They barely check the box of trying’: Trump frustrated GOP isn’t following his roadmap",
+   "link": "https://www.politico.com/news/2026/06/18/barely-check-the-box-trying-trump-frustrated-gop-isnt-following-his-roadmap-00965797",
+   "summary": "Trump's ends-justify-the-means approach is colliding with the protect-the-norms posture of Republicans on the Hill and in statehouses across the country.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-18T08:48:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "fb5e7fbbd0d4",
    "title": "who signed it ben",
@@ -963,16 +981,6 @@
    "category": "wh_news",
    "published": "2026-06-17T15:57:08+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "e940c040881c",
-   "title": "New Mexico investigators have sent letters to JPMorgan Chase, Google and more than two dozen companies ordering them to lock down records tied to Jeffrey Epstein and some of his associates, a sign of the widening criminal probe into his Zorro Ranch.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moim5pzkds2c",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-17T15:15:24.404+00:00",
-   "iran_topic": false
   }
  ]
 }
