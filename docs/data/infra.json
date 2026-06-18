@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-18T01:40:54.104759+00:00",
+ "generated": "2026-06-18T03:40:12.144887+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 78.36,
-   "change": -0.6,
-   "change_pct": -0.76,
+   "price": 78.37,
+   "change": -0.59,
+   "change_pct": -0.75,
    "spark": [
     87.33000183105469,
     83.16999816894531,
     78.95999908447266,
-    78.36000061035156
+    78.37000274658203
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 74.79,
-   "change": -1.26,
-   "change_pct": -1.66,
+   "price": 74.56,
+   "change": -1.49,
+   "change_pct": -1.96,
    "spark": [
     84.87999725341797,
     80.75,
     76.05000305175781,
-    74.79000091552734
+    74.55999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4339.7,
-   "change": 8.8,
-   "change_pct": 0.2,
+   "price": 4334.3,
+   "change": 3.4,
+   "change_pct": 0.08,
    "spark": [
     4215.0,
     4328.0,
     4330.89990234375,
-    4339.7001953125
+    4334.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.24,
-   "change": 0.7,
-   "change_pct": 0.71,
+   "price": 100.23,
+   "change": 0.69,
+   "change_pct": 0.7,
    "spark": [
     99.75,
     99.62999725341797,
     99.54000091552734,
-    100.24199676513672
+    100.23300170898438
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.17,
-   "change": -0.07,
-   "change_pct": -2.19,
+   "price": 3.16,
+   "change": -0.08,
+   "change_pct": -2.35,
    "spark": [
     3.119999885559082,
     3.1470000743865967,
     3.239000082015991,
-    3.1679999828338623
+    3.1630001068115234
    ]
   }
  },
@@ -223,7 +223,7 @@
    "severity": "medium"
   },
   {
-   "title": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+   "title": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-18T00:00:00+00:00",
@@ -242,13 +242,6 @@
    "source": "Press TV",
    "published": "2026-06-17T23:07:31.562532+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump signs deal with Iran, which says ‘now it’s time to test the implementation’",
-   "link": "https://www.timesofisrael.com/liveblog-june-18-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-17T22:48:12+00:00",
-   "severity": "low"
   },
   {
    "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
@@ -319,6 +312,13 @@
    "source": "Al-Monitor",
    "published": "2026-06-17T17:00:18+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran will reopen the Strait of Hormuz and can sell oil freely under deal with the US, officials say",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u8e6gb/iran_will_reopen_the_strait_of_hormuz_and_can/",
+   "source": "r/worldnews",
+   "published": "2026-06-17T15:57:39+00:00",
+   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -336,17 +336,17 @@
      "severity": "medium"
     },
     {
-     "title": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-18T00:00:00+00:00",
-     "severity": "info"
-    },
-    {
      "title": "Iran to reopen Strait of Hormuz, can sell oil again, according to U.S. officials | CBC News",
      "link": "https://www.reddit.com/r/worldnews/comments/1u8qi6z/iran_to_reopen_strait_of_hormuz_can_sell_oil/",
      "source": "r/worldnews",
      "published": "2026-06-17T23:44:09+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "The United States and Iran announced a framework deal that includes a 60-day ceasefire and reopens the Strait of Hormuz. @mideast.csis.org experts break it down in an episode of State of Play. Listen here: https://bit.ly/4a7vD4D",
+     "link": "https://bsky.app/profile/csis.org/post/3mojcrip4ov2b",
+     "source": "@csis",
+     "published": "2026-06-17T22:00:10.116813406+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,206 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "69494a2141f1",
+   "title": "THIS is how you step up, Democrats! Clear, concise, and simple to understand.",
+   "link": "https://bsky.app/profile/susanmcp.bsky.social/post/3mojtsbb2ys25",
+   "summary": "",
+   "source": "@susanmcp",
+   "category": "trump_bsky",
+   "published": "2026-06-18T03:04:49.496+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b7608fd70263",
+   "title": "Senator Argues Trump Is ‘Making a Terrorist Attack More Likely’ by Appointing ‘Thug’ as Head of Intel",
+   "link": "https://www.mediaite.com/media/tv/senator-argues-trump-is-making-a-terrorist-attack-more-likely-by-appointing-thug-as-head-of-intel/",
+   "summary": "Appearing on Wednesday night's edition of MS NOW's The Briefing With Jen Psaki, Sen. Jon Ossoff (D-GA) argued that President Donald Trump is \"making a terrorist attack more likely\" by appointing \"thug\" Bill Pulte as acting Director of National Intelligence. The post Senator Argues Trump Is ‘Making a Terrorist Attack More Likely’ by Appointing ‘Thug’ as Head of Intel first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T03:02:05+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "452489635e82",
+   "title": "Where do they find these people?",
+   "link": "https://bsky.app/profile/digby56.bsky.social/post/3mojthkpni62i",
+   "summary": "",
+   "source": "@digby56",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:58:49.792+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "231523fa603a",
+   "title": "Trump has his own party so absolutely flip-fucked, pretzeled and upside down over this that they're on TV arguing we actually *wanted* Iran to win the war",
+   "link": "https://bsky.app/profile/brandonfriedman.bsky.social/post/3mojscvdcis2n",
+   "summary": "",
+   "source": "@brandonfriedman",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:38:19.927+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f5298b1d5aed",
+   "title": "mister trump has got GOP senators on CNN saying iran has a right to exist, just absolute scenes",
+   "link": "https://bsky.app/profile/sky.skymarchini.net/post/3mojrzft2j22f",
+   "summary": "",
+   "source": "@sky",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:33:01.677+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5e09295f84b2",
+   "title": "Obama: \"That perspective allows you to say, 'Okay, we've gone through crazy periods like this before. We've gone through mean periods before.' It fortifies you to say, 'Yes, this has been part of the journey that we're on,' and there's no reason to suggest that we can't get through this one.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojrneu4xo2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:26:17.988+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc09e4b64183",
+   "title": "Trump really ought to walk through the Senate chamber buck naked tomorrow and demand that Thune conduct a vote on whether he’s clothed. The vote would be 52-47 yea, with Murkowski joining the Democrats as a no and Collins saying she’s too concerned to vote.",
+   "link": "https://bsky.app/profile/bgrueskin.bsky.social/post/3mojrcf6xuk25",
+   "summary": "",
+   "source": "@bgrueskin",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:20:09.266+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "518f289d5a95",
+   "title": "GOP Senator Reluctantly Accepts Iran Having Missiles: ‘They Have to Be Able to Defend Themselves’",
+   "link": "https://www.mediaite.com/media/tv/gop-senator-reluctantly-accepts-iran-having-missiles-they-have-to-be-able-to-defend-themselves/",
+   "summary": "During a Wednesday night appearance on CNN's The Source With Kaitlan Collins, Sen. Roger Marshall (R-KS) reluctantly accepted President Donald Trump's recent comments that \"it's a little bit ​unfair\" for Iran not to have missiles, saying, \"They have to be able to defend themselves.\" The post GOP Senator Reluctantly Accepts Iran Having Missiles: ‘They Have to Be Able to Defend Themselves’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T02:18:16+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "597306bdc839",
+   "title": "I’ve been focused on other things for the past few days. They tricked him into signing a treaty at VERSAILLES!? Are you kidding me? ‼️‼️‼️‼️‼️",
+   "link": "https://bsky.app/profile/profciara.bsky.social/post/3mojqznljj226",
+   "summary": "",
+   "source": "@profciara",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:15:16.077+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc50599916b4",
+   "title": "I can't even make a joke here bc this is just objectively funnier than anything I could say",
+   "link": "https://bsky.app/profile/diplomatofnight.com/post/3mojqdii3js27",
+   "summary": "",
+   "source": "@diplomatofnight",
+   "category": "trump_bsky",
+   "published": "2026-06-18T02:02:52.524+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3b9c74386353",
+   "title": "Hannity Claims Trump’s Widely-Maligned Iran Deal Goes ‘Way Deeper’ – But ‘They’re Not Telling People Yet’",
+   "link": "https://www.mediaite.com/media/tv/hannity-claims-trumps-widely-maligned-iran-deal-goes-way-deeper-but-theyre-not-telling-people-yet/",
+   "summary": "The Fox News host did not say why these alleged \"way deeper\" parts of the understanding are being kept secret. The post Hannity Claims Trump’s Widely-Maligned Iran Deal Goes ‘Way Deeper’ – But ‘They’re Not Telling People Yet’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T02:01:08+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "29834dd1fffb",
+   "title": "Roger Marshall is such a suck-up. If Trump stole his pants, Marshall would say his legs enjoyed the breeze.",
+   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mojpmkbv3c2o",
+   "summary": "",
+   "source": "@markjacob",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:50:02.665+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b3f94a82be95",
+   "title": "COLLINS: Iran can start selling oil right now. Are you okay with that? MARSHALL: Absolutely. We gave them up in response for them giving up their nukes (Iran has never had nukes)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojpiwzuof2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:48:01.796+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "073a4e852fb5",
+   "title": "COLLINS: In 2021, you said relieving sanctions on Iran 'would only contribute to more terror attacks against America and its allies.' This deal includes lifting sanctions on Iran. Will America be safer? SEN. ROGER MARSHALL: It's a completely different day. You can't have everything you want.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojpivbkri2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:47:59.951+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "567f2d467e01",
+   "title": "Threats to use nuclear weapons are now routine, just another Tuesday. When did American politicians lose all sense of humanity?",
+   "link": "https://bsky.app/profile/socialmedialab.ca/post/3mojphjyw4s2l",
+   "summary": "",
+   "source": "@socialmedialab",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:47:14.594+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8385dff57844",
+   "title": "that thar's good messagin'",
+   "link": "https://bsky.app/profile/karlbode.com/post/3mojpeq4p2s2y",
+   "summary": "",
+   "source": "@karlbode",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:45:40.351+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a923574afeb8",
+   "title": "COLLINS: Trump said unconditional surrender and raising their missile industry to the ground were things the president said he wanted to do at the beginning of the war. Neither of those happened SEN. ROGER MARSHALL: Well, listen, I think we went in there with a very clear purpose",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojpbi3mto2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:43:51.243+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "bede44621a55",
+   "title": "Sen. Roger Marshall on Iran: \"If they don't get it done in 60 days, they may become glass ... we could really bomb them back to the dark ages just in two weeks\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojpa3lkux2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:43:04.527+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ffc3f9f441d0",
+   "title": "Ossoff points out that Trump's handling of the DNI position \"is making a terrorist attack more likely, because he is destabilizing America's intelligence capabilities. But he's also putting someone in who's a political hack.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojp6gxxux2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:42:09.410+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9a3f2583258b",
+   "title": "KAITLAN COLLINS: Are you okay with Iran having missiles? SEN. ROGER MARSHALL: I prefer that they not, but they have to defend themselves COLLINS: You think Iran needs to be able to defend itself? MARSHALL: I do, otherwise we turn this into a forever war",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mojp57cao62w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T01:41:27.805+00:00",
+   "iran_topic": true
+  },
   {
    "id": "d86242ad152f",
    "title": "Ossoff on Trump calling him \"Os(jerk!)off\" -- \"I didn't think it was his best work as far as nicknames go. But more to the point, he is increasingly unstable. And I think it flows the fact that he is globally humiliated from this failed war.\"",
@@ -455,36 +655,6 @@
    "iran_topic": false
   },
   {
-   "id": "e3c7e5f74b06",
-   "title": "undeniably good optics: signing a war treaty in Versailles",
-   "link": "https://bsky.app/profile/iwriteok.bsky.social/post/3mojjroigjs2y",
-   "summary": "",
-   "source": "@iwriteok",
-   "category": "trump_bsky",
-   "published": "2026-06-18T00:05:32.395+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "66bd6148cb0a",
-   "title": "still waiting for the white house to show all those photos they have of trump shaking hands with his left hand",
-   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mojjmf77x224",
-   "summary": "",
-   "source": "@darthbluesky",
-   "category": "trump_bsky",
-   "published": "2026-06-18T00:02:34.883+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "41aa2988f016",
-   "title": "History professors/history students/dads who have read one book about World War II: \"Oh COME ON!\"",
-   "link": "https://bsky.app/profile/jamescdownie.bsky.social/post/3mojjdojxfs2d",
-   "summary": "",
-   "source": "@jamescdownie",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:57:42.683+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6692bf8b607a",
    "title": "Tell me again history doesn’t matter. FFS",
    "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mojjaasi7s2h",
@@ -515,56 +685,6 @@
    "iran_topic": false
   },
   {
-   "id": "f6d7a5b8d5ea",
-   "title": "Sen. Jim Banks: \"Donald Trump is gonna be in the Oval Office as our commander in chief for the next 2.5 years, and if Iran doesn't keep up their end of the deal, there will be hell to pay. Donald Trump will bomb the hell out of them. I trust President Trump.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojhruu72a2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:29:51.568+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "da1fa7c13d76",
-   "title": "Okay. The writers are just getting lazy now",
-   "link": "https://bsky.app/profile/willcooling.bsky.social/post/3mojhosmyo22e",
-   "summary": "",
-   "source": "@willcooling",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:28:08.592+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f016f074c136",
-   "title": "Oh come on now!",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mojhm5p4yc2z",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:26:39.533+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "85db1cf3feef",
-   "title": "He signed an unconditional surrender at Versailles? Come the fuck on.",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mojhesmr6226",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:22:33.040+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "73247ba36c60",
-   "title": "HAWLEY: It remains to be seen whether we will actually give them any money. I thought I heard the president say we're not gonna give them a dime. KIMLEADE: But senator, they are allowed to sell oil for the first time in decades on the open market.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojhdp5sub26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:21:55.826+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "85fa628a3716",
    "title": "‘U.S. Senator, Secretary of State’: Fox’s Tarlov Rips Watters’ Claim That Hillary Clinton Is ‘Just a Female’",
    "link": "https://www.mediaite.com/media/tv/u-s-senator-secretary-of-state-foxs-tarlov-rips-watters-claim-that-hillary-clinton-is-just-a-female/",
@@ -573,26 +693,6 @@
    "category": "mediaite_all",
    "published": "2026-06-17T23:16:50+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "26dfe7fb9d25",
-   "title": "Trump: \"It's signed. I signed it in Versailles. I just signed it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojgxwonp42g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:15:21.067+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "69aff1f13552",
-   "title": "Sen. Chris Murphy: \"It's a multi-billion dollar payoff to Iran in exchange for nothing ... Iran won. Trump surrendered.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojgvcoixm23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T23:13:52.981+00:00",
-   "iran_topic": true
   },
   {
    "id": "0add388fe819",
@@ -605,16 +705,6 @@
    "iran_topic": true
   },
   {
-   "id": "9a349801eae6",
-   "title": "Rep. Claudia Tenney: \"I just want to say up front, I think President Trump was so courageous and so incredibly wise to do what he did to start this operation\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojf3r7uh42s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T22:41:42.072+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b0bcc19a828b",
    "title": "Elie Honig Torches Todd Blanche’s Epstein Role: ‘Turns Out, That Was Bullsh*t’",
    "link": "https://www.mediaite.com/media/news/elie-honig-torches-todd-blanches-epstein-role-turns-out-that-was-bullsht/",
@@ -622,56 +712,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-17T22:37:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c54bb3bc1ce6",
-   "title": "Turns out she was never really concerned after all",
-   "link": "https://bsky.app/profile/aselrod.bsky.social/post/3mojervwujs2o",
-   "summary": "",
-   "source": "@aselrod",
-   "category": "trump_bsky",
-   "published": "2026-06-17T22:36:11.499+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7586d34c809b",
-   "title": "Ron Johnson suggests vaccines cause SIDS, but then starts stammering when he tries to come up for some support for this claim: \"I just read it ... don't quote me.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojep34rg222",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T22:34:36.273+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "733b645fd58d",
-   "title": "Ron Johnson accuses Democrats of rigging the Los Angeles mayoral election -- \"probably\" (Sounds legit!)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mojeerzams22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-17T22:28:51.175+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3df8be7f4edb",
-   "title": "Cult.",
-   "link": "https://bsky.app/profile/volts.wtf/post/3mojebdxci22b",
-   "summary": "",
-   "source": "@volts",
-   "category": "trump_bsky",
-   "published": "2026-06-17T22:26:55.768+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d25cfe27f21d",
-   "title": "Yes, sir. Thank you, sir. Please keep running with this line. It will destroy the Democrats, sir.",
-   "link": "https://bsky.app/profile/sharonk.bsky.social/post/3mojccvznjk2h",
-   "summary": "",
-   "source": "@sharonk",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:52:00.791+00:00",
    "iran_topic": false
   },
   {
@@ -685,18 +725,8 @@
    "iran_topic": false
   },
   {
-   "id": "31f0d1c49ce3",
-   "title": "Is this the SINGLE WORST presidential response in history? I know he holds the top 100, but this feels like the gold to me.",
-   "link": "https://bsky.app/profile/jonsternfeld.bsky.social/post/3mojb4mbzbk25",
-   "summary": "",
-   "source": "@jonsternfeld",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:30:35.510+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "726fd5a24e46",
-   "title": "Trump and allies keep the peace at the G7 summit after months of tumult",
+   "title": "Trump clears low bar for G7 summit in France",
    "link": "https://www.politico.com/news/2026/06/17/trump-and-allies-keep-the-peace-at-the-g7-summit-after-months-of-tumult-00966117",
    "summary": "Heading into the gathering, expectations were modest, as Trump officials and G7 allies hoped to avoid any major blow-ups.",
    "source": "Politico WH",
@@ -872,36 +902,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-17T18:24:22+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "e1fbae4941f1",
-   "title": "CNN Reports On Full Text of Trump Deal: $300 Billion Fund For Iran ‘Is In Here’",
-   "link": "https://www.mediaite.com/media/news/cnn-reports-on-full-text-of-trump-deal-300-billion-fund-for-iran-is-in-here/",
-   "summary": "\"$300 billion fund for Iran, should they comply with the agreement — well, the text that officials read out on this call is that, yes, that is in here.\" The post CNN Reports On Full Text of Trump Deal: $300 Billion Fund For Iran ‘Is In Here’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T18:21:48+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "512c3ff788d9",
-   "title": "MS NOW Dumps Out of Trump Presser as Host Wallops Him for Being ‘Rambling and Incoherent’",
-   "link": "https://www.mediaite.com/media/tv/ms-now-dumps-out-of-trump-presser-as-host-wallops-him-for-being-rambling-and-incoherent/",
-   "summary": "MS NOW dumped out of President Donald Trump's press conference from the G7 summit early as host Alicia Menendez called the president \"incoherent.\" The post MS NOW Dumps Out of Trump Presser as Host Wallops Him for Being ‘Rambling and Incoherent’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T18:12:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2dbde5204aab",
-   "title": "Fox’s John Roberts Questions ‘Unclear’ Trump Iran Deal and Reported $300 Billion Fund President Keeps Denying",
-   "link": "https://www.mediaite.com/media/tv/foxs-john-roberts-questions-unclear-trump-iran-deal-and-reported-300-billion-fund-president-keeps-denying/",
-   "summary": "Fox News' John Roberts questioned multiple \"unclear\" points from Trump's potential deal with Iran, including a reported $300 billion reconstruction fund. The post Fox’s John Roberts Questions ‘Unclear’ Trump Iran Deal and Reported $300 Billion Fund President Keeps Denying first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-17T17:54:27+00:00",
    "iran_topic": true
   },
   {
