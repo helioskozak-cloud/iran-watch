@@ -1,111 +1,111 @@
 {
- "generated": "2026-06-18T16:53:50.016193+00:00",
+ "generated": "2026-06-18T19:23:11.910219+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 77.66,
-   "change": -1.89,
-   "change_pct": -2.38,
+   "price": 79.63,
+   "change": 0.08,
+   "change_pct": 0.1,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
-    77.66000366210938
+    79.62999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 73.88,
-   "change": -2.91,
-   "change_pct": -3.79,
+   "price": 75.74,
+   "change": -1.05,
+   "change_pct": -1.37,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
-    73.87999725341797
+    75.73999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4243.3,
-   "change": -115.6,
-   "change_pct": -2.65,
+   "price": 4225.4,
+   "change": -133.5,
+   "change_pct": -3.06,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
-    4243.2998046875
+    4225.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.76,
-   "change": 0.67,
-   "change_pct": 0.67,
+   "price": 100.9,
+   "change": 0.81,
+   "change_pct": 0.81,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.75599670410156
+    100.89800262451172
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7495.36,
-   "change": 75.26,
-   "change_pct": 1.01,
+   "price": 7490.72,
+   "change": 70.62,
+   "change_pct": 0.95,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
     7420.10009765625,
-    7495.35986328125
+    7490.72021484375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 112.73,
-   "change": -1.5,
-   "change_pct": -1.31,
+   "price": 114.76,
+   "change": 0.53,
+   "change_pct": 0.46,
    "spark": [
     125.43000030517578,
     121.20999908447266,
     115.47000122070312,
     114.2300033569336,
-    112.7300033569336
+    114.76000213623047
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.71,
-   "change": -1.73,
-   "change_pct": -9.38,
+   "price": 16.87,
+   "change": -1.57,
+   "change_pct": -8.51,
    "spark": [
     17.68000030517578,
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    16.709999084472656
+    16.8700008392334
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.18,
-   "change": 0.04,
-   "change_pct": 1.21,
+   "price": 3.23,
+   "change": 0.08,
+   "change_pct": 2.61,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
-    3.183000087738037
+    3.2269999980926514
    ]
   }
  },
@@ -216,6 +216,20 @@
  ],
  "incidents": [
   {
+   "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
+   "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
+   "source": "Press TV",
+   "published": "2026-06-18T19:22:36.706244+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Pirate attacks on ships in the Gulf of Aden are on the rise",
+   "link": "https://www.longwarjournal.org/archives/2026/06/pirate-attacks-on-shipping-in-the-gulf-of-aden-are-on-the-rise.php",
+   "source": "Long War Journal",
+   "published": "2026-06-18T17:53:33+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Vance says 60-day period in Iran deal begins Thursday",
    "link": "https://www.al-monitor.com/originals/2026/06/vance-says-60-day-period-iran-deal-begins-thursday",
    "source": "Al-Monitor",
@@ -305,20 +319,6 @@
    "source": "@reuters",
    "published": "2026-06-18T09:50:13+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Hormuz reopening to release wave of oil supply, depress prices reut.rs/4vXt91b",
-   "link": "https://bsky.app/profile/reuters.com/post/3mokgjyyxpt2h",
-   "source": "@reuters",
-   "published": "2026-06-18T08:40:13+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Hormuz reopening to release wave of oil supply, depress prices",
-   "link": "https://www.al-monitor.com/originals/2026/06/hormuz-reopening-release-wave-oil-supply-depress-prices",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T08:36:50+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,8 +326,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 10,
+   "incident_count": 9,
    "recent": [
+    {
+     "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
+     "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
+     "source": "Press TV",
+     "published": "2026-06-18T19:22:36.706244+00:00",
+     "severity": "info"
+    },
     {
      "title": "Oil tankers pass Hormuz Strait after war deal: tracker",
      "link": "https://www.al-monitor.com/originals/2026/06/oil-tankers-pass-hormuz-strait-after-war-deal-tracker",
@@ -341,13 +348,6 @@
      "source": "Al-Monitor",
      "published": "2026-06-18T12:36:41+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-18T12:23:19+00:00",
-     "severity": "info"
     }
    ]
   },
@@ -355,8 +355,15 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ACTIVE",
-   "incident_count": 2,
+   "incident_count": 3,
    "recent": [
+    {
+     "title": "Pirate attacks on ships in the Gulf of Aden are on the rise",
+     "link": "https://www.longwarjournal.org/archives/2026/06/pirate-attacks-on-shipping-in-the-gulf-of-aden-are-on-the-rise.php",
+     "source": "Long War Journal",
+     "published": "2026-06-18T17:53:33+00:00",
+     "severity": "info"
+    },
     {
      "title": "Germany deploys ships to Red Sea for possible Hormuz mission, minister says",
      "link": "https://www.al-monitor.com/originals/2026/06/germany-deploys-ships-red-sea-possible-hormuz-mission-minister-says",
@@ -390,14 +397,494 @@
  ],
  "wh_statements": [
   {
-   "id": "8ddd1d1a8992",
-   "title": "let's Remember Some Knicks Guys",
-   "link": "https://bsky.app/profile/robertsilverman.bsky.social/post/3molbzjyhis2t",
-   "summary": "",
-   "source": "@robertsilverman",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:52:05.655+00:00",
+   "id": "795ae2e67e1a",
+   "title": "‘Aggressive Uncharity’: Catholic Interviewer Confronts JD Vance Over Trump Admin Seeming ‘Post-Christian’",
+   "link": "https://www.mediaite.com/media/news/aggressive-uncharity-catholic-interviewer-confronts-jd-vance-over-trump-admin-seeming-post-christian/",
+   "summary": "New York Times opinion columnist Ross Douthat asked Vice President J.D. Vance about how the Trump administration’s policies embody \"Christian values.\" The post ‘Aggressive Uncharity’: Catholic Interviewer Confronts JD Vance Over Trump Admin Seeming ‘Post-Christian’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T19:06:47+00:00",
    "iran_topic": false
+  },
+  {
+   "id": "a76b3c4175d1",
+   "title": "Rosie O’Donnell Predicts Trump Will Use Assassination Attempt or Terrorist Bombing to Cancel Elections",
+   "link": "https://www.mediaite.com/media/podcasts/rosie-odonnell-predicts-trump-will-use-assassination-attempt-or-terrorist-bombing-to-cancel-elections/",
+   "summary": "Rosie O'Donnell believes President Donald Trump will cancel the midterm elections by using either an assassination attempt or a terrorist bombing as the excuse. The post Rosie O’Donnell Predicts Trump Will Use Assassination Attempt or Terrorist Bombing to Cancel Elections first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:54:28+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "29556c2ad6ec",
+   "title": "MS NOW’s Jen Psaki Confronts Ossoff With Masturbatory Trump Attack: ‘Quite a Nickname!’",
+   "link": "https://www.mediaite.com/media/news/ms-nows-jen-psaki-confronts-ossoff-with-masturbatory-trump-attack-quite-a-nickname/",
+   "summary": "Jen Psaki confronted Senator Jon Ossoff (D-GA) with President Donald Trump’s masturbation-related insult and asked for his reaction to it. The post MS NOW’s Jen Psaki Confronts Ossoff With Masturbatory Trump Attack: ‘Quite a Nickname!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:52:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0afa7106ccd2",
+   "title": "definitely has value for those of us in the Twin Cities",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moliaqfkz222",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:43:29.709+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9bf78bbaa565",
+   "title": "President Obama shouts out \"those ordinary people in the Twin Cities, who braved frigid temperatures, risked their own safety, standing shoulder to shoulder to look out for their neighbors and, sometimes, look out for strangers because they knew that was the right thing to do.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moli45pi3222",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:40:55.893+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6fb13636a024",
+   "title": "Obama: I am not immune to anger or doubt. But I do know this when we lose faith in each other, when we stop believing that voting matters… we open the door to the most ruthless or the most careless, or the most fearful among us who see some groups and some people as more equal than others",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhy2dkon23",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:38:38.004+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "29ae0eb28a7c",
+   "title": "Obama shouts out \"those ordinary people in the Twin Cities who braved frigid temperatures, risked their own safety, standing shoulder to shoulder to look our for their neighbors and sometimes for strangers because they knew that was the right thing to do\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhwwzcfi2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:38:01.081+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cb26dfa5a3f8",
+   "title": "Obama: \"As algorithms keep feeding us a steady stream of distraction and outrage, as only the loudest most extreme voices get attention, fanning our prejudices, appealing to our basest most tribal instincts, it's tempting to give in to cynicism and even despair, to stop trying.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhvczj6m2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:37:06.562+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91568fc42170",
+   "title": "Obama: Shared values that make democracy possible. A belief that our military and law enforcement owe allegiance not to any president or political party, but to the people and our constitution. A belief in the peaceful transfer of power after the people have spoken in fair and free elections.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhr2mrmt2z",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:34:43.443+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4e489c6fbbb5",
+   "title": "President Obama: \"No one is above the law or beneath its protection.\" \"Our military and law enforcement owe allegiance not to any president or political party, but to the people and our Constitution.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molhkbl6tk2r",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:30:55.967+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4d1912c8894b",
+   "title": "Fox News, notably, is not broadcasting this highly newsworthy Obama speech live. Instead they are interviewing Reince Priebus.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhi6ewak22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:29:45.506+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff43792fd35f",
+   "title": "Obama: \"Values every president here today, as different as we are, has tried our best to uphold. Values that John McCain and Mitt Romney believed in no less than I did.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhh5bppl2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:29:10.722+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c9140123e799",
+   "title": "Obama: \"A belief that our military and law enforcement owe allegiance not to any president or political party, but to the people and our constitution. A belief in the peaceful transfer of power after the people have spoken in fair and free elections.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhgco7ob2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:28:42.875+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bb6975290c5a",
+   "title": "Yo, @atrupar.com is *not* overselling this. @mayor.nyc.gov speech here is straight up THE BEST \"politician does sportsball\" speech of all time. I mean, my man shouted out Stephon Marbuy for selling affordable sneakers.",
+   "link": "https://bsky.app/profile/elienyc.bsky.social/post/3molhfwkocc22",
+   "summary": "",
+   "source": "@elienyc",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:28:30.198+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b6a2b2c29bdb",
+   "title": "Dem Senator Throws Down With Kari Lake For Accusing Colleague of Being ‘Controlled By the Cartel’",
+   "link": "https://www.mediaite.com/media/news/dem-senator-throws-down-with-kari-lake-for-accusing-colleague-of-being-controlled-by-the-cartel/",
+   "summary": "Tim Kaine threw down with Trump nominee Kari Lake, arguing her repeated \"lies\" about a Senate colleague should disqualify her from consideration. The post Dem Senator Throws Down With Kari Lake For Accusing Colleague of Being ‘Controlled By the Cartel’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:28:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5c60722c1443",
+   "title": "Obama: \"The Founders fell terribly short of the declaration's promise, leaving slavery in tact, allowing states to restrict the franchise to white men who owned property. But in drafting a constitution and bill or rights, they did have the foresight -- the genius -- to provide us with a framework.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molhdqto7q2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:27:17.068+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff0623c09c2d",
+   "title": "Obama: A declaration that we are all created equal, endowed by our creator with certain unalienable rights, and that in the newly independent United States there will be no kings or lords, no serfs or subjects, but only citizens,",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhb4ftqy2y",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:25:48.415+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a31e5e6c6b02",
+   "title": "The crowd breaks out into applause as President Obama reminds us the nation was founded on the idea there would be \"no kings.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molhakrrvs2r",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:25:30.076+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f59a799bfad",
+   "title": "Obama on the message of the 250th: \"In a newly independent US, there will be no kings\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molh76uwzr2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:24:44.021+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "584db9d31921",
+   "title": "Obama: \"We did not accomplish everything we set out to do. No administration does. Some of the exhibits reflect unfinished business. In some cases, [because of] my own shortcomings and mistakes.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molh6ewplt23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:24:16.811+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ed2aabc4eb49",
+   "title": "SCOTUS piece filed. Now to watch every available video on the Knicks.",
+   "link": "https://bsky.app/profile/elienyc.bsky.social/post/3molh2hex3k22",
+   "summary": "",
+   "source": "@elienyc",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:22:05.183+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "03264572f9af",
+   "title": "I asked Ted Cruz about Vance attacking Bibi and the Israeli government: The Vice President can speak for himself.",
+   "link": "https://bsky.app/profile/ericmgarcia.bsky.social/post/3molgr5wdf225",
+   "summary": "",
+   "source": "@ericmgarcia",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:16:53.276+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b930f7126806",
+   "title": "GOP Senator Makes Odd Claim on World Cup Fans Insulting Trump: ‘They Probably Can’t Do It In Their Countries’",
+   "link": "https://www.mediaite.com/politics/gop-senator-makes-odd-claim-on-world-cup-fans-insulting-trump-they-probably-cant-do-it-in-their-countries/",
+   "summary": "Sen. Rick Scott (R-FL) claimed that World Cup fans who have been disparaging President Donald Trump \"probably can't do it in their countries.\" The post GOP Senator Makes Odd Claim on World Cup Fans Insulting Trump: ‘They Probably Can’t Do It In Their Countries’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:16:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9d99aee27e10",
+   "title": "Obama: To Michelle. She did me wrong. She wouldn't let me see her speech. She knew she was going to mess me up and she did it anyway. But she's always made me better. And I could not be more grateful.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molglphi3425",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:13:49.589+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "118ee5236b68",
+   "title": "in latest insane post, Trump suggests deep red Utah will soon become a blue state because of mail voting",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molghnitts22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:11:34.067+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f8c81a22b34",
+   "title": "Michelle Obama: \"Barack and I have always said this Center is grounded in our stories, but it has never been about us. It's never been for us.\" \"A lasting legacy isn't an award or a name on a building or the number of zeroes in a bank account, but the difference we make in one another's lives.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molgf3dcdk2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:10:07.903+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a8a8269fdeb4",
+   "title": "Mark Levin Calls Out JD Vance Directly as MAGA Civil War Heats Up",
+   "link": "https://www.mediaite.com/media/news/mark-levin-calls-out-jd-vance-directly-as-maga-civil-war-heats-up/",
+   "summary": "Mark Levin called out Vice President JD Vance, the architect of the Trump administration's memorandum of understanding with Iran, on Thursday. The post Mark Levin Calls Out JD Vance Directly as MAGA Civil War Heats Up first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:09:49+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9f21f789accb",
+   "title": "An absolute clinic in naming some guys. Possibly the apex of the genre.",
+   "link": "https://bsky.app/profile/joshgondelman.bsky.social/post/3molgbezrmk2s",
+   "summary": "",
+   "source": "@joshgondelman",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:08:03.858+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9fc1069b776a",
+   "title": "Kamala and Doug and Nancy Pelosi get some motion",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molg7cispo2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:06:54.075+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1fea164ebece",
+   "title": "Michelle Obama just delivered one of the best speeches I’ve ever heard. She upheld her husband’s legacy, defended the dignity of all people, appealed to our better angels, & reminded us of the America that we could be. What a contrast to the depravity occupying the White House.",
+   "link": "https://bsky.app/profile/ahmedbaba.bsky.social/post/3molg5rq5b224",
+   "summary": "",
+   "source": "@ahmedbaba",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:06:02.957+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a781c0e416e",
+   "title": "As good as Aaron says this speech is: if you’re a Knicks fan, or if you’re a New Yorker, or if you just like a good speech — it’s even better.",
+   "link": "https://bsky.app/profile/ericcolumbus.bsky.social/post/3molg3f7ooc2p",
+   "summary": "",
+   "source": "@ericcolumbus",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:04:42.725+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c7dfcbb807d",
+   "title": "Mamdani and then both Obamas giving speeches today",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molfyygvic22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T18:03:22.221+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1419d0eff1aa",
+   "title": "WATCH: Elevator Door Can’t Save Susan Collins as She’s Pressed on Trump’s Iran Deal",
+   "link": "https://www.mediaite.com/politics/watch-elevator-door-cant-save-susan-collins-as-shes-pressed-on-trumps-iran-deal/",
+   "summary": "Senator Susan Collins (R-ME) was caught in an awkward moment on Capitol Hill on Thursday as she was confronted about President Trump's Iran deal. The post WATCH: Elevator Door Can’t Save Susan Collins as She’s Pressed on Trump’s Iran Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T18:02:19+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d2b4938b0556",
+   "title": "This is tremendous.",
+   "link": "https://bsky.app/profile/davidcorn.bsky.social/post/3molfri4lnc22",
+   "summary": "",
+   "source": "@davidcorn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:59:10.226+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aaeb29b45642",
+   "title": "‘He Lied and Lied and Lied’: Ana Navarro Trashes JD Vance After Interviewing Him on The View",
+   "link": "https://www.mediaite.com/media/podcasts/he-lied-and-lied-and-lied-ana-navarro-trashes-jd-vance-after-interviewing-him-on-the-view/",
+   "summary": "Ana Navarro trashed Vice President JD Vance and accused him of repeatedly pushing lies during his appearance with her and her co-hosts on The View. The post ‘He Lied and Lied and Lied’: Ana Navarro Trashes JD Vance After Interviewing Him on The View first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T17:56:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d1add30a1b7f",
+   "title": "\"…But hope is a choice. Whether or not we use our voices to speak up is a choice. Voting is a choice. Being a decent human being is a choice. Believing that we still hold the power to build a country that reflects us all is a choice.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfklcw3c2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:55:18.697+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d0f62b07d0b",
+   "title": "Michelle Obama: \"We simply don't have the luxury or time to be cynical or complacent. To ring our hands in despair. To wait for someone else to fix the problem. Y'all, hope is all we have. Because hope is the essential spark that lights the fire of change…\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfkbeyas2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:55:08.280+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b16a564bdbf",
+   "title": "I guess I wasn't the only one to notice that Brunon quote.",
+   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3molfbpe4qc2b",
+   "summary": "",
+   "source": "@joshtpm",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:50:20.941+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2467480547a1",
+   "title": "Michelle Obama: \"No one — and I mean no one — has the right to sit in judgment of who's American enough.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfbdporc2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:50:08.738+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "855def6f5931",
+   "title": "This speech captured what this moment means to Knicks fans: acknowledging our suffering, honoring the legends, and celebrating the memories that kept us coming back. It took me back to watching the ‘90s Knicks —listening to Clyde’s smooth rhymes in my Spree jersey. All the feels.",
+   "link": "https://bsky.app/profile/kristygreenberg.bsky.social/post/3molezv74lc2p",
+   "summary": "",
+   "source": "@kristygreenberg",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:45:58.633+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7ef77bc4e030",
+   "title": "Michelle Obama: \"That's where the truth of this country lies. Not in grabbing as much as we can get for ourselves. Or knocking folks down to prop ourselves up. But in the overwhelming goodness, the relentless striving, the quiet dignity, that is inside all of us.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moleyzbgwc2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:45:29.349+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f178eefb0165",
+   "title": "Michelle Obama: \"No one has the right to sit in judgment of who is American enough. And that's why, folks, we simply don't have the luxury or time to be cynical or complacent.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moleyk75es27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:45:13.525+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "965a1848e805",
+   "title": "Michelle Obama to Barack: \"You never fell for the temptation of a quick fix, or an easy pay day. You never changed from that idealistic summer associate who showed up on that rainy day when we first met without an umbrella. You always gave us the very best within in you.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molermgwa22t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:41:21.016+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66d4c006cf88",
+   "title": "Michelle Obama: You were doing the people's work, rescuing our economy, expanding health care, ending a war, ordering the bin laden raid, saving an auto industry, winning a peace prize.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molel5zdfw2s",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:37:44.443+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d6fba19436d",
+   "title": "Michelle Obama: The lies about your birthright, your faith, your patriotism, the outrage when you stated the biological fact that if you'd had a son that he too would be black, yet you were unflappable at every turn, always focused.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moleijiolo2t",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:36:15.779+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8e74ff114e6f",
+   "title": "Michelle Obama to Barack: \"How absurd it is to even imagine that you might have buckled under the pressure even once. Lashed out in frustration. Lost your temper. How absurd it is to imagine that you might have done anything but make our family and this entire country proud.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molei6hwfs2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T17:36:04.380+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ac593139d80",
+   "title": "JD Vance Makes Stunning Veiled Threat To Israel Amid Trump Criticism: ‘Wake Up And Smell The Reality!’",
+   "link": "https://www.mediaite.com/media/news/jd-vance-makes-stunning-veiled-threat-to-israel-amid-trump-criticism-wake-up-and-smell-the-reality/",
+   "summary": "Vice President JD Vance issued a stunning veiled warning to Israel amid dissent over President Donald Trump's 14-point Memorandum of Understanding with Iran. The post JD Vance Makes Stunning Veiled Threat To Israel Amid Trump Criticism: ‘Wake Up And Smell The Reality!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T17:28:22+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ca6782e76cdd",
+   "title": "Stunning Video Shows Moscow Oil Refinery Roof Blasted into the Air After Ukrainian Drone Strikes",
+   "link": "https://www.mediaite.com/media/news/stunning-video-shows-moscow-oil-refinery-roof-blasted-into-the-air-after-ukrainian-drone-strikes/",
+   "summary": "Stunning photos and video from Moscow showed multiple oil refineries on fire from Ukrainian drone strikes — including one that literally had the roof blown off. The post Stunning Video Shows Moscow Oil Refinery Roof Blasted into the Air After Ukrainian Drone Strikes first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T17:18:21+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2ec8c6d4f994",
+   "title": "Top Republican Slams Trump Iran Agreement: $300 Billion Makes Obama Deal ‘Look Like a Pittance’",
+   "link": "https://www.mediaite.com/media/news/top-republican-slams-trump-iran-agreement-300-billion-makes-obama-deal-look-like-a-pittance/",
+   "summary": "Roger Wicker blasted the memorandum of understanding President Donald Trump has struck with the Iranian regime in a scathing statement issued on Thursday. The post Top Republican Slams Trump Iran Agreement: $300 Billion Makes Obama Deal ‘Look Like a Pittance’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T17:11:11+00:00",
+   "iran_topic": true
   },
   {
    "id": "563c89dbc288",
@@ -420,60 +907,10 @@
    "iran_topic": false
   },
   {
-   "id": "98d8029d40e2",
-   "title": "Mamdani name-checks a bunch of former Knicks players during his speech at the parade -- including Julius Randle and Donte DiVincenzo -- and says \"this championship belongs to them too\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molbvx6p2l2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:50:05.250+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cdd4268dd278",
-   "title": "wow, Mamdani clearly knows ball",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molbtwhvdc27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:48:57.394+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cf32e48c3439",
-   "title": "Very, like, y'know, man, it's undertoke.",
-   "link": "https://bsky.app/profile/macknowles.bsky.social/post/3molbcqvok22p",
-   "summary": "",
-   "source": "@macknowles",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:39:21.153+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3348a6502847",
-   "title": "Fascist politics in Tumblr cadence, this is the future",
-   "link": "https://bsky.app/profile/kleinman.bsky.social/post/3molbaxdbj22d",
-   "summary": "",
-   "source": "@kleinman",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:38:20.781+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6338624144f0",
-   "title": "wow -- Tim Kaine demolishes Kari Lake KAINE: She accused Sen. Gallego of being controlled by cartels. You had no evidence, right? LAKE: Well, we provided receipts-- K: This was rated pants on fire. You have no evidence. Isn't that right? L: I don't know K: How about an apology?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molb5ebut222",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:36:20.149+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b011cb98b2f0",
-   "title": "JD Vance Offers The View Appearance as Proof He Can Handle ‘Hostile’ Negotiations: ‘Joy Behar Is Tougher Than the Iranians’",
+   "title": "JD Vance Straight Up Cites His Appearance on The View as Proof He Can Negotiate: ‘Joy Behar Is Tougher Than the Iranians’",
    "link": "https://www.mediaite.com/media/news/jd-vance-offers-the-view-appearance-as-proof-he-can-handle-hostile-negotiations-joy-behar-is-tougher-than-the-iranians/",
-   "summary": "Vice President JD Vance says that he's no stranger to tough negotiations — after all, he did appear on The View this week. The post JD Vance Offers The View Appearance as Proof He Can Handle ‘Hostile’ Negotiations: ‘Joy Behar Is Tougher Than the Iranians’ first appeared on Mediaite .",
+   "summary": "Vice President JD Vance says that he's no stranger to tough negotiations — after all, he did appear on The View this week. The post JD Vance Straight Up Cites His Appearance on The View as Proof He Can Negotiate: ‘Joy Behar Is Tougher Than the Iranians’ first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-18T16:35:36+00:00",
@@ -487,76 +924,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-18T16:31:34+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2c0c8a35efcd",
-   "title": "Chris Murphy to Kari Lake: \"Your limitation of our ability to transmit information to Iran was egregious. It's made more egregious by the fact you were not telling the truth about what was happening behind the scenes.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molam53oxq2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:26:42.159+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "945b0f317e1e",
-   "title": "If I were in the fucking WH press pool I would be completely humiliated that the he VP is commiserating WITH ME how tough the questions are on The View",
-   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3molakai5jc2w",
-   "summary": "",
-   "source": "@grudgie",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:25:38.625+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d3c71b59b709",
-   "title": "Every day this guy looks in the mirror and psyches himself up to eat shit in the hopes that our big beautiful president succumbs to his one thousand diseases but I don't think it's in the cards",
-   "link": "https://bsky.app/profile/internethippo.bsky.social/post/3molak2aits2n",
-   "summary": "",
-   "source": "@internethippo",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:25:32.082+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8840b3f3ab76",
-   "title": "\"Do you concede that was a mistake?\" -- Chris Murphy points out to Kari Lake that she's taking credit for the remaining VOA programming in Iran after dismantling the vast majority of VOA programming in Iran",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molajgx5xu24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:25:11.832+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3ce836ad23ed",
-   "title": "you may joke about this but JD Vance is currently also paying $200 billion in protection money to Joy Behar",
-   "link": "https://bsky.app/profile/olufemiotaiwo.bsky.social/post/3molafefs6k2b",
-   "summary": "",
-   "source": "@olufemiotaiwo",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:22:54.970+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9fbfa56cf560",
-   "title": "Republicans would have marched on the White House with pitchforks and Confederate flags if Obama had ever said something like this.",
-   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3molabns67s2d",
-   "summary": "",
-   "source": "@bradmossesq",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:20:50.596+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ab709401cf4d",
-   "title": "Vance ends by turning on Israel: \"What bothers me is you've seen people in Bibi's cabinet who have come out & attacked the deal & very personally attacked the president. My message to them is Donald J Trump is the only head in the state in the entire world who is sympathetic to the nation of Israel\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mola3did6d2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:17:18.442+00:00",
    "iran_topic": true
   },
   {
@@ -580,26 +947,6 @@
    "iran_topic": false
   },
   {
-   "id": "844133f8a124",
-   "title": "JD Vance: \"What I would say to any of the critics is number one, have a little bit of faith in the president\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol7q4vvuz2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:11:02.442+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "488ccfaeaf47",
-   "title": "Why didn’t we send Joy Behar then?",
-   "link": "https://bsky.app/profile/mford.bsky.social/post/3mol7ombtkc2a",
-   "summary": "",
-   "source": "@mford",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:10:11.477+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "94c564f341fa",
    "title": "NY Knicks Championship Celebration Tainted by ‘Unfathomable’ Gaffe — And It Is Getting Absolutely Roasted",
    "link": "https://www.mediaite.com/media/sports/ny-knicks-championship-celebration-tainted-by-unfathomable-gaffe-and-it-is-getting-absolutely-roasted/",
@@ -607,36 +954,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-18T16:06:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e3ed0a06dc4b",
-   "title": "JD Vance: \"Their ability to launch missiles has been substantially degraded. Is it zero? No. But it's substantially degraded. We haven't abandoned the mission, we've accomplished that particular part of the mission.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol7hbph6p2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:06:05.485+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "faf11cbe494e",
-   "title": "LOL. Trump's just hanging Vance out there like a wind sock in a hurricane. You love to see it.",
-   "link": "https://bsky.app/profile/rexhuppke.bsky.social/post/3mol7g3rlp22k",
-   "summary": "",
-   "source": "@rexhuppke",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:05:25.731+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0907b0265cb2",
-   "title": "JD Vance, meet JD Vance",
-   "link": "https://bsky.app/profile/axidentaliberal.bsky.social/post/3mol7e6bvus2g",
-   "summary": "",
-   "source": "@axidentaliberal",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:04:21.252+00:00",
    "iran_topic": false
   },
   {
@@ -650,66 +967,6 @@
    "iran_topic": true
   },
   {
-   "id": "b6a8a7ad9917",
-   "title": "JD Vance: \"We're actually talking to the Iranian-- or excuse me, the Cuban government about how they could change their ways\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol7bmreax2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:02:55.759+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8c6a37720f6d",
-   "title": "JD Vance: \"On the frozen funds, the amount of money I honestly don't know. I've actually heard numbers north of $200 billion.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol7bhyc752u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:02:50.742+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5c19a0fb67bc",
-   "title": "JD Vance: \"We felt it was reasonable that if we're gonna allow everybody else to sell their energy during this period of negotiation, we would allow everyone to sell their energy. That's all we're doing.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol764c5te2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:00:57.820+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fa528dd81697",
-   "title": "All Trump had to do when he started his term was JDFU. Like, he literally just could have played golf for 10 hours a day, 7 days a week, and literally done NOTHING and we would be in a 1000% better situation in every conceivable dimension",
-   "link": "https://bsky.app/profile/asharangappa.bsky.social/post/3mol75vfyjc2m",
-   "summary": "",
-   "source": "@asharangappa",
-   "category": "trump_bsky",
-   "published": "2026-06-18T16:00:50.625+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "07d16e44102d",
-   "title": "A reporter points out to Vance that the administration said a handful of contradictory things about when the MOU was actually signed, and asks him, \"Is what's going on behind the scenes as chaotic as your public messaging? Vance responds with an uncomfortable laugh.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol72tuqnu2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T15:59:08.311+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b2fbd6857d6a",
-   "title": "Q: They are being allowed to sell oil without making concrete nuclear commitments. How is that not lopsided? JD VANCE: They've made very concrete nuclear commitments. They have committed to the destruction of their highly enriched stockpile.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol6wxe7fg2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T15:56:57.736+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "09e022ffd60e",
    "title": "In March, Marco Rubio said depleting Iran's missile stocks was a core aim of Trump's war. Now, JD Vance just confirmed Trump's defense of Iran's right to ballistic missiles, saying, \"the Iranians don't give up the right of self-defense in their country.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mol6vkn7r22s",
@@ -717,16 +974,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-18T15:56:10.892+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2fd87339efdf",
-   "title": "JD Vance on secret provisions to the Iran deal: \"Whether they are written down or spoken, this is why we structured the deal the way we did, because we don't trust words, we trust action. Words don't matter.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mol6tzar6i2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T15:55:19.081+00:00",
    "iran_topic": true
   },
   {
@@ -747,246 +994,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-18T15:35:32.606+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "09c8a325389f",
-   "title": "Mark Levin Goes Off on GOP Senator Defending Trump’s Deal: ‘Should Never Be Elected Dogcatcher’",
-   "link": "https://www.mediaite.com/media/news/mark-levin-goes-off-on-gop-senator-defending-trumps-deal-should-never-be-elected-dogcatcher/",
-   "summary": "“I will add that the fact that ballistic missiles are not included in this MOU is an outrage,” Levin fumed The post Mark Levin Goes Off on GOP Senator Defending Trump’s Deal: ‘Should Never Be Elected Dogcatcher’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T15:24:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20d93456dc8a",
-   "title": "‘That’s Not True!’ Fox’s Maria Bartiromo Spars With Ro Khanna Over Trump’s Record",
-   "link": "https://www.mediaite.com/media/news/thats-not-true-foxs-maria-bartiromo-spars-with-ro-khanna-over-trumps-record/",
-   "summary": "Maria Bartiromo pounced on Ro Khanna for criticizing Donald Trump's \"America First\" record, citing that his Iran deal will take billions away from Americans. The post ‘That’s Not True!’ Fox’s Maria Bartiromo Spars With Ro Khanna Over Trump’s Record first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T15:22:18+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "3504c9051b0b",
-   "title": "‘Big’ Trump Fan Batya Destroys Iran Deal on CNN: ‘A Total Disaster! Really Really Horrifying!’",
-   "link": "https://www.mediaite.com/media/news/big-trump-fan-batya-destroys-iran-deal-on-cnn-a-disaster/",
-   "summary": "NewsNation host and self-described \"big fan\" of Trump Batya Ungar-Sargon absolutely shredded President Donald Trump's Iran deal, calling it a \"disaster.\" The post ‘Big’ Trump Fan Batya Destroys Iran Deal on CNN: ‘A Total Disaster! Really Really Horrifying!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T15:17:55+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9984e83e574f",
-   "title": "Ted Cruz on Trump's Iran agreement: \"Giving billions of dollars to theocratic lunatics who want to murder us is not a good idea.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mol42tu4lk2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T15:05:27.103+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "62cd5a8e592b",
-   "title": "Marjorie Taylor Greene Reveals Trump’s Ice Cold Response to Death Threats Against Her: ‘It’s Your Fault and You Deserve It’",
-   "link": "https://www.mediaite.com/media/podcasts/marjorie-taylor-greene-reveals-trumps-ice-cold-response-to-death-threats-against-her-its-your-fault-and-you-deserve-it/",
-   "summary": "Marjorie Taylor Greene claimed President Trump had an ice cold response when she reached out over concerns about death threats she and her family received. The post Marjorie Taylor Greene Reveals Trump’s Ice Cold Response to Death Threats Against Her: ‘It’s Your Fault and You Deserve It’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T14:55:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d61d0a92806",
-   "title": "Trump Offers Simple Message to Critics Amid Iran Deal Uproar: ‘YOU’RE WELCOME!’",
-   "link": "https://www.mediaite.com/media/news/trump-offers-simple-message-to-critics-amid-iran-deal-uproar-youre-welcome/",
-   "summary": "President Donald Trump has a message for the critics of his 14-point memorandum of understanding to achieve peace in Iran. The post Trump Offers Simple Message to Critics Amid Iran Deal Uproar: ‘YOU’RE WELCOME!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T14:40:44+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b703c7597f89",
-   "title": "CNN’s Kaitlan Collins Hammers Trump With Barrage of Callouts After Confronting Him on Iran Deal",
-   "link": "https://www.mediaite.com/media/tv/cnns-kaitlan-collins-hammers-trump-with-barrage-of-callouts-after-confronting-him-on-iran-deal/",
-   "summary": "Kaitlan Collins hammered President Donald Trump with a barrage of callouts hours after she confronted him at a press conference over the Iran deal. The post CNN’s Kaitlan Collins Hammers Trump With Barrage of Callouts After Confronting Him on Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T14:12:56+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "ef337f325dc7",
-   "title": "The Supreme Court sided with a marijuana user over the Trump admin — Gorsuch writing for the court that the prosecution of Ali Danial Hemani ran afoul of the Second Amendment.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mokyyqdejc2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T14:10:35.073+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "24c8fd5be4e2",
-   "title": "Reuters: U.S. SUPREME COURT BACKS CHALLENGE TO FEDERAL LAW BARRING DRUG USERS FROM OWNING GUNS",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mokykw3qxc2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T14:02:51.353+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d6611925261",
-   "title": "Stephen A. Smith Slams Trump for Failing to Denounce ‘Disgusting’ Michelle Obama Smear at White House UFC Event",
-   "link": "https://www.mediaite.com/media/sports/stephen-a-smith-slams-trump-for-failing-to-denounce-disgusting-michelle-obama-smear-at-white-house-ufc-event/",
-   "summary": "Stephen A. Smith called out President Trump for not denouncing the \"disgusting\" insult thrown at Michelle Obama at the UFC fights outside the White House. The post Stephen A. Smith Slams Trump for Failing to Denounce ‘Disgusting’ Michelle Obama Smear at White House UFC Event first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T13:56:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "faed42c7b0eb",
-   "title": "Kenyan McDuffie concedes to Janeese Lewis George in DC mayoral primary",
-   "link": "https://www.politico.com/news/2026/06/18/lewis-george-dc-mayor-primary-00966879",
-   "summary": "Lewis George, the 38-year-old democratic socialist, is all-but-certain to be the U.S. capital’s first new mayor in a dozen years.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-18T13:43:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7a4262f702ed",
-   "title": "President Trump to Award Medal of Honor",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
-   "summary": "On Thursday, June 18, 2026, President Donald J. Trump will award the Medal of Honor to Major James Capers, Jr., U.S. Marine Corps (Retired), Colonel John W. Ripley, U.S. Marine Corps (Posthumous), and Major Nicholas Dockery, U.S. Army (Retired). Then-Second Lieutenant James Capers, Jr. will receive the Medal of Honor for acts of gallantry and [&#8230;] The post President Trump to Award Medal of Honor appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-18T13:23:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f718a611634d",
-   "title": "‘Bravo!’ Trump Signs Iran Deal in Versailles to Applause From French and U.S. Officials",
-   "link": "https://www.mediaite.com/media/news/bravo-trump-signs-iran-deal-in-versailles-to-applause-from-french-and-u-s-officials/",
-   "summary": "Trump signed the controversial Memorandum of Understanding on the Iran War as French President Emmanuel Macron and others cheered him on. The post ‘Bravo!’ Trump Signs Iran Deal in Versailles to Applause From French and U.S. Officials first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T13:19:33+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f11a5c626f1c",
-   "title": "WATCH LIVE: NY Knicks Celebrate NBA Championship Win With Massive NYC Parade",
-   "link": "https://www.mediaite.com/media/sports/watch-live-ny-knicks-celebrate-nba-championship-win-with-massive-nyc-parade/",
-   "summary": "Watch live as the New York Knicks makes their way down the Canyon of Heroes to celebrate their historic NBA championship. The post WATCH LIVE: NY Knicks Celebrate NBA Championship Win With Massive NYC Parade first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T13:17:47+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "28bf12a08ae5",
-   "title": "Joe Rogan Tells UFC White House Fight Critics to ‘Shut the F*ck Up’: ‘Trying to Make It a Partisan Thing’",
-   "link": "https://www.mediaite.com/media/podcasts/joe-rogan-tells-ufc-white-house-fight-critics-to-shut-the-fck-up-trying-to-make-it-a-partisan-thing/",
-   "summary": "Joe Rogan told critics upset with people who attended the White House UFC fights to \"shut the f*ck up,\" denying accusations that the event was political. The post Joe Rogan Tells UFC White House Fight Critics to ‘Shut the F*ck Up’: ‘Trying to Make It a Partisan Thing’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T13:16:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c2e50e2393a",
-   "title": "‘He’s Making Everything About Him’: Karl Rove Piles on Trump for ‘Talking Crazy,’ His ‘Narcissism’",
-   "link": "https://www.mediaite.com/media/news/hes-making-everything-about-him-karl-rove-piles-on-trump-for-talking-crazy-his-narcissism/",
-   "summary": "Karl Rove reprimanded both parties for \"talking crazy\" in his latest column for The Wall Street Journal, but reserved extra judgment for President Donald Trump. The post ‘He’s Making Everything About Him’: Karl Rove Piles on Trump for ‘Talking Crazy,’ His ‘Narcissism’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T13:07:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "717cb1f7f685",
-   "title": "New Poll: Obama’s Positive Rating Nearly Tops Trump and Biden COMBINED",
-   "link": "https://www.mediaite.com/media/news/new-poll-obamas-positive-rating-nearly-tops-trump-and-biden-combined/",
-   "summary": "Barack Obama is viewed far more positively than Trump and Biden, according to a survey that dropped as Obama is set to open his presidential library. The post New Poll: Obama’s Positive Rating Nearly Tops Trump and Biden COMBINED first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T12:36:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "705d00ad7246",
-   "title": "Court benchslaps Ken Paxton's effort to take out ActBlue",
-   "link": "https://www.publicnotice.co/p/ken-paxton-actblue",
-   "summary": "Try that in a big city.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-18T10:17:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ecf5b680539c",
-   "title": "Republicans fear Trump is hurting their chances. He can’t understand why.",
-   "link": "https://www.politico.com/news/2026/06/18/barely-check-the-box-trying-trump-frustrated-gop-isnt-following-his-roadmap-00965797",
-   "summary": "Trump's ends-justify-the-means approach is colliding with the protect-the-norms posture of Republicans on the Hill and in statehouses across the country.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-18T08:48:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "405fc86b8be3",
-   "title": "Another one of Trump's personal lawyers was just confirmed as a federal appeals court judge. Justin Smith was Trump's lead attorney at the Supreme Court in the effort to upend the millions of dollars in damages that E. Jean Carroll won against Trump for sexual abuse and defamation.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mojk236vvk24",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T00:10:14.150+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a5cc3a1a5e9f",
-   "title": "Warnock: Right before they passed that ugly bill that cut $1 trillion out of medicaid, the Speaker of the House joined with other legislators and said a prayer, and then they went and voted for that bill. I just want to know what was in that prayer.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mojbqcrrfy2m",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:41:36.507+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "726fd5a24e46",
-   "title": "Trump clears low bar for G7 summit in France",
-   "link": "https://www.politico.com/news/2026/06/17/trump-and-allies-keep-the-peace-at-the-g7-summit-after-months-of-tumult-00966117",
-   "summary": "Heading into the gathering, expectations were modest, as Trump officials and G7 allies hoped to avoid any major blow-ups.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-17T21:18:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "caf857066028",
-   "title": "Leader Schumer: \"This is a Republican president, a Republican Senate, a Republican House screwing up.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moj7p22iu22e",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-17T21:05:06.441+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5591dc911421",
-   "title": "Michigan pollster accuses McMorrow campaign of killing unfavorable Senate poll",
-   "link": "https://www.politico.com/news/2026/06/17/mcmorrow-michigan-senate-poll-00965924",
-   "summary": "The independent poll shows her trailing with 6 percent support among likely Democratic primary voters.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-17T20:23:05+00:00",
    "iran_topic": false
   }
  ]
