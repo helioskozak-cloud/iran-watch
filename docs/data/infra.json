@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-18T21:34:03.095858+00:00",
+ "generated": "2026-06-18T23:24:38.325678+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.44,
-   "change": -0.11,
-   "change_pct": -0.14,
+   "price": 79.18,
+   "change": -0.37,
+   "change_pct": -0.47,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
-    79.44000244140625
+    79.18000030517578
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.52,
-   "change": -1.27,
-   "change_pct": -1.65,
+   "price": 75.32,
+   "change": -1.47,
+   "change_pct": -1.91,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
-    75.5199966430664
+    75.31999969482422
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4227.9,
-   "change": -131.0,
-   "change_pct": -3.01,
+   "price": 4215.9,
+   "change": -143.0,
+   "change_pct": -3.28,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
-    4227.89990234375
+    4215.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.82,
-   "change": 0.73,
-   "change_pct": 0.73,
+   "price": 100.81,
+   "change": 0.72,
+   "change_pct": 0.72,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.81999969482422
+    100.81400299072266
    ]
   },
   "^GSPC": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.21,
    "change": 0.07,
-   "change_pct": 2.23,
+   "change_pct": 2.16,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
-    3.2149999141693115
+    3.2130000591278076
    ]
   }
  },
@@ -219,7 +219,14 @@
    "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
    "source": "Press TV",
-   "published": "2026-06-18T21:33:21.631409+00:00",
+   "published": "2026-06-18T23:23:52.763476+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business reut.rs/4eB6mkQ",
+   "link": "https://bsky.app/profile/reuters.com/post/3moluxidfuk24",
+   "source": "@reuters",
+   "published": "2026-06-18T22:30:57+00:00",
    "severity": "info"
   },
   {
@@ -234,6 +241,13 @@
    "link": "https://www.reddit.com/r/worldnews/comments/1u9g1qy/iran_announces_plans_to_bring_in_maritime_fees/",
    "source": "r/worldnews",
    "published": "2026-06-18T19:34:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US military lifts Strait of Hormuz naval blockade after Iran MOU signed",
+   "link": "https://www.reddit.com/r/worldnews/comments/1u9feez/us_military_lifts_strait_of_hormuz_naval_blockade/",
+   "source": "r/worldnews",
+   "published": "2026-06-18T19:10:09+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-18T11:50:22+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "First tankers cross strait after Iran deal; Israeli strikes stir doubt in Lebanon",
-   "link": "https://www.al-monitor.com/originals/2026/06/first-tankers-cross-strait-after-iran-deal-israeli-strikes-stir-doubt-lebanon",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T11:36:41+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "First tankers cross Strait of Hormuz after Iran deal",
-   "link": "https://www.reddit.com/r/worldnews/comments/1u93r6i/first_tankers_cross_strait_of_hormuz_after_iran/",
-   "source": "r/worldnews",
-   "published": "2026-06-18T11:32:18+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,13 +326,20 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 8,
    "recent": [
     {
      "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
      "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
      "source": "Press TV",
-     "published": "2026-06-18T21:33:21.631409+00:00",
+     "published": "2026-06-18T23:23:52.763476+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business reut.rs/4eB6mkQ",
+     "link": "https://bsky.app/profile/reuters.com/post/3moluxidfuk24",
+     "source": "@reuters",
+     "published": "2026-06-18T22:30:57+00:00",
      "severity": "info"
     },
     {
@@ -340,13 +347,6 @@
      "link": "https://www.reddit.com/r/worldnews/comments/1u9g1qy/iran_announces_plans_to_bring_in_maritime_fees/",
      "source": "r/worldnews",
      "published": "2026-06-18T19:34:37+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Oil tankers pass Hormuz Strait after war deal: tracker",
-     "link": "https://www.al-monitor.com/originals/2026/06/oil-tankers-pass-hormuz-strait-after-war-deal-tracker",
-     "source": "Al-Monitor",
-     "published": "2026-06-18T15:30:20+00:00",
      "severity": "info"
     }
    ]
@@ -389,6 +389,186 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "ef72f9b77beb",
+   "title": "Air Force Base Hit by Flu Outbreak After Pete Hegseth Ends Vaccine Mandate",
+   "link": "https://www.mediaite.com/media/news/air-force-base-hit-by-flu-outbreak-after-pete-hegseth-ends-vaccine-mandate/",
+   "summary": "A flu outbreak has swept through an Air Force basic training facility in Texas just two months after Defense Secretary Pete Hegseth ended the military's longstanding requirement that service members receive annual flu vaccinations, according to a Thursday report from ABC News. The post Air Force Base Hit by Flu Outbreak After Pete Hegseth Ends Vaccine Mandate first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T23:23:17+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fc44e25931d1",
+   "title": "BREAKING: Asked by Axios what he'd learned from the Iran war about the limits to his power, Trump said: \"There are no limits.\" \"I haven't learned that lesson yet. I know there are, but there are no limits.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molxrcb3sk22",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T23:21:11.434+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "838466d9d56d",
+   "title": "‘The Algae Seems To Be Winning’: Trump’s New Reflecting Pool Paint Is Peeling Off",
+   "link": "https://www.mediaite.com/media/news/the-algae-seems-to-be-winning-trumps-new-reflecting-pool-paint-is-peeling-off/",
+   "summary": "A major algae bloom and peeling paint are already plaguing President Donald Trump's new Lincoln Memorial Reflecting Pool just days after its completion, with ABC News' Jonathan Karl writing via X on Thursday, \"The algae seems to be winning.\" The post ‘The Algae Seems To Be Winning’: Trump’s New Reflecting Pool Paint Is Peeling Off first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T22:58:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b85cdb8c1222",
+   "title": "UFC Fighter Who Called Michelle Obama a Man Posts ‘Apology’ That Seems to Be More Trolling",
+   "link": "https://www.mediaite.com/media/sports/ufc-fighter-who-called-michelle-obama-a-man-posts-apology-that-seems-to-be-more-trolling/",
+   "summary": "UFC fighter Josh Hokit posted on his Instagram account what appeared at first glance to be an apology for comments he made calling former First Lady Michelle Obama a man but seems like it might in fact be more trolling. The post UFC Fighter Who Called Michelle Obama a Man Posts ‘Apology’ That Seems to Be More Trolling first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T22:57:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5d1678ce6439",
+   "title": "Trump spectacularly failed his latest cognitive test",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moltvxmhkc2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T22:12:13.078+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cfa456d822b6",
+   "title": "‘Firstclass Groveling’: Explosive Book Details Musk And Trump Mocking Bezos And Zuckerberg",
+   "link": "https://www.mediaite.com/politics/firstclass-groveling-explosive-book-details-musk-and-trump-mocking-bezos-and-zuckerberg/",
+   "summary": "'Trump showed off texts from Zuckerberg and Bezos to other guests, including to Elon Musk, who mocked them as 'Firstclass groveling'' The post ‘Firstclass Groveling’: Explosive Book Details Musk And Trump Mocking Bezos And Zuckerberg first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T22:10:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "22fe5f7081c8",
+   "title": "While the other 4 living US presidents were in Chicago celebrating the grand opening of The Obama Center, The DayGlo Orange Bumbler-in-Chief was in the people's White House doing.....this",
+   "link": "https://bsky.app/profile/eclecticbrotha1.bsky.social/post/3moltnoeuz22q",
+   "summary": "",
+   "source": "@eclecticbrotha1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T22:07:34.957+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d424f4c75400",
+   "title": "‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump",
+   "link": "https://www.mediaite.com/politics/trump/theyre-pssies-megyn-kelly-calls-out-iran-war-hawks-blaming-vance-for-deal-instead-of-trump/",
+   "summary": "Megyn Kelly called out Iran warhawks who are blaming JD Vance for the controversial memorandum of understanding instead of President Donald Trump. The post ‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-18T21:58:37+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d424f4c75400",
+   "title": "‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump",
+   "link": "https://www.mediaite.com/politics/trump/theyre-pssies-megyn-kelly-calls-out-iran-war-hawks-blaming-vance-for-deal-instead-of-trump/",
+   "summary": "Megyn Kelly called out Iran warhawks who are blaming JD Vance for the controversial memorandum of understanding instead of President Donald Trump. The post ‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T21:58:37+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6a551b49787b",
+   "title": "This is pathetic, in the actual tragic sense of the term.",
+   "link": "https://bsky.app/profile/normwilner.bsky.social/post/3molt4r7pls2x",
+   "summary": "",
+   "source": "@normwilner",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:58:07.508+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "46b7d4d40e7d",
+   "title": "Of all the things this veteran survived, the stench of these two minutes must have been the absolute worst.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3molsnmo2wk2v",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:49:39.419+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2b73963f376b",
+   "title": "‘It’s a vulnerability’: Vance makes a political gamble with public-facing Iran role",
+   "link": "https://www.politico.com/news/2026/06/18/vance-iran-negotiations-gamble-00967956",
+   "summary": "Some of Vance’s outside allies describe the role he is taking with the peace agreement as the best among poor options for the vice president.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-18T21:47:20+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fb42163980e3",
+   "title": "House Oversight Ranking Member Robert Garcia is demanding answers from Trump Chief of Staff Susie Wiles — after recent NYT reporting revealed that Stephen Miller pushed to suspend habeas corpus rights and J.D. Vance pushed to invoke the Insurrection Act in Minneapolis. tinyurl.com/3a2ybv9x",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molsgiqck22k",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:45:40.416+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "47d294de5757",
+   "title": "Y’all…",
+   "link": "https://bsky.app/profile/thetnholler.bsky.social/post/3molset3i2s2l",
+   "summary": "",
+   "source": "@thetnholler",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:44:44.159+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fe1ec6439faf",
+   "title": "This is unacceptable (chapter infinity).",
+   "link": "https://bsky.app/profile/bcdreyer.social/post/3mols3rhiuk2g",
+   "summary": "",
+   "source": "@bcdreyer",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:39:40.467+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a9f6a36e860f",
+   "title": "JD Vance Blasts Israel’s ‘Freakout’ On Iran Deal: ‘You Can’t Kill Your Way’ Out of Everything",
+   "link": "https://www.mediaite.com/politics/jd-vance-blasts-israels-freakout-on-iran-deal-you-cant-kill-your-way-out-of-everything/",
+   "summary": "Vice President JD Vance joined New York Times opinion columnist Ross Douthat on his Interesting Times podcast this week to discuss his upcoming book, “Communion,” but ended up speaking primarily about the Trump administration&#8217;s deal with Iran. Vance swiped at Israel during the conversation and said he didn’t understand the “freakout” in the Jewish state [&#8230;] The post JD Vance Blasts Israel’s ‘Freakout’ On Iran Deal: ‘You Can’t Kill Your Way’ Out of Everything first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-18T21:39:32+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4dd42cbbb9c4",
+   "title": "I kid you not bsky.app/profile/atru...",
+   "link": "https://bsky.app/profile/eclecticbrotha1.bsky.social/post/3mols33hmhc2q",
+   "summary": "",
+   "source": "@eclecticbrotha1",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:39:17.402+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2f7d0457d812",
+   "title": "\"Paxton is perhaps the purest distillation of the modern Republican philosophy that the law is a tool, shame is for losers, and the only thing that matters is using the machinery of your office to hurt your enemies and dominate the news cycle\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3molrsw2b2c2q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-18T21:34:43.286+00:00",
+   "iran_topic": false
+  },
   {
    "id": "8d9dd7413983",
    "title": "Trump Opens Medal of Honor Ceremony by Announcing, ‘The Stock Market Just Hit an All-Time High’",
@@ -570,16 +750,6 @@
    "iran_topic": false
   },
   {
-   "id": "144a76a62e39",
-   "title": "Trump is now 50 minutes late and counting for this White House event. The piano player is digging deep to fill time.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molphj2ptf23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T20:52:33.059+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "417bc145291d",
    "title": "Second Amendment Advocates Cheer Supreme Court Ruling Striking Down Law Barring Marijuana Users from Having Guns",
    "link": "https://www.mediaite.com/lawcrime/second-amendment-advocates-cheer-supreme-court-ruling-striking-down-law-barring-marijuana-users-from-having-guns/",
@@ -600,14 +770,14 @@
    "iran_topic": false
   },
   {
-   "id": "2e99ea887938",
-   "title": "Moulton on Trump signing the Iran deal at Versailles: \"It's an appropriate place to sign a surrender document, and it's too bad the president is completely oblivious to history to understand the parallels.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mologv4uke2i",
+   "id": "c20bccf35d24",
+   "title": "An all-time own goal, just in time for the World Cup.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3molobxqvvc2s",
    "summary": "",
-   "source": "@atrupar",
+   "source": "@kevinmkruse",
    "category": "trump_bsky",
-   "published": "2026-06-18T20:34:18.419+00:00",
-   "iran_topic": true
+   "published": "2026-06-18T20:31:33.426+00:00",
+   "iran_topic": false
   },
   {
    "id": "85c81a5ecaee",
@@ -630,36 +800,6 @@
    "iran_topic": true
   },
   {
-   "id": "674bf72d2120",
-   "title": "The arc of the moral universe is long but it includes St Paul.",
-   "link": "https://bsky.app/profile/johnmoe.bsky.social/post/3moln5kny6k24",
-   "summary": "",
-   "source": "@johnmoe",
-   "category": "trump_bsky",
-   "published": "2026-06-18T20:11:11.738+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2e21e9cb455a",
-   "title": "The only people who ever say this are patronizing elitists with Ivy League degrees who think the plebs are unwashed masses who have no concept of manners and are too stupid to understand anything other than trash talk.",
-   "link": "https://bsky.app/profile/andycraig.bsky.social/post/3moln3rlc3c24",
-   "summary": "",
-   "source": "@andycraig",
-   "category": "trump_bsky",
-   "published": "2026-06-18T20:10:11.882+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb3ba5c82444",
-   "title": "It's been a long time since I've seen a politician ooze as much insincerity as JD Vance bsky.app/profile/atru...",
-   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3molmr5wbic2a",
-   "summary": "",
-   "source": "@robertscotthorton",
-   "category": "trump_bsky",
-   "published": "2026-06-18T20:04:15.726+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "0330bb095646",
    "title": "WATCH: NYPD Officers Grab a Knicks Player and Yank Him from the Parade Mistaking Him for a Fan",
    "link": "https://www.mediaite.com/media/sports/watch-nypd-officers-grab-a-knicks-player-and-yank-him-from-the-parade-mistaking-him-for-a-fan/",
@@ -677,26 +817,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-18T19:44:25+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8e7fd11403c4",
-   "title": "“Stop policing my working class ways of communication” says Yale Law grad and Peter Thiel associate JD Vance.",
-   "link": "https://bsky.app/profile/clayranck.bsky.social/post/3molliqaixs2a",
-   "summary": "",
-   "source": "@clayranck",
-   "category": "trump_bsky",
-   "published": "2026-06-18T19:41:39.204+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ce3724f2e88e",
-   "title": "Many powerful and important speeches given today. Be sure not to miss this one.",
-   "link": "https://bsky.app/profile/jfallows.bsky.social/post/3mollfpxozs2g",
-   "summary": "",
-   "source": "@jfallows",
-   "category": "trump_bsky",
-   "published": "2026-06-18T19:39:58.251+00:00",
    "iran_topic": false
   },
   {
@@ -770,16 +890,6 @@
    "iran_topic": false
   },
   {
-   "id": "0afa7106ccd2",
-   "title": "definitely has value for those of us in the Twin Cities",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moliaqfkz222",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:43:29.709+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "9bf78bbaa565",
    "title": "President Obama shouts out \"those ordinary people in the Twin Cities, who braved frigid temperatures, risked their own safety, standing shoulder to shoulder to look out for their neighbors and, sometimes, look out for strangers because they knew that was the right thing to do.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moli45pi3222",
@@ -797,16 +907,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-18T18:38:38.004+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "29ae0eb28a7c",
-   "title": "Obama shouts out \"those ordinary people in the Twin Cities who braved frigid temperatures, risked their own safety, standing shoulder to shoulder to look our for their neighbors and sometimes for strangers because they knew that was the right thing to do\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molhwwzcfi2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:38:01.081+00:00",
    "iran_topic": false
   },
   {
@@ -860,16 +960,6 @@
    "iran_topic": false
   },
   {
-   "id": "b930f7126806",
-   "title": "GOP Senator Makes Odd Claim on World Cup Fans Insulting Trump: ‘They Probably Can’t Do It In Their Countries’",
-   "link": "https://www.mediaite.com/politics/gop-senator-makes-odd-claim-on-world-cup-fans-insulting-trump-they-probably-cant-do-it-in-their-countries/",
-   "summary": "Sen. Rick Scott (R-FL) claimed that World Cup fans who have been disparaging President Donald Trump \"probably can't do it in their countries.\" The post GOP Senator Makes Odd Claim on World Cup Fans Insulting Trump: ‘They Probably Can’t Do It In Their Countries’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T18:16:03+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "9d99aee27e10",
    "title": "Obama: To Michelle. She did me wrong. She wouldn't let me see her speech. She knew she was going to mess me up and she did it anyway. But she's always made me better. And I could not be more grateful.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3molglphi3425",
@@ -890,36 +980,6 @@
    "iran_topic": false
   },
   {
-   "id": "a8a8269fdeb4",
-   "title": "Mark Levin Calls Out JD Vance Directly as MAGA Civil War Heats Up",
-   "link": "https://www.mediaite.com/media/news/mark-levin-calls-out-jd-vance-directly-as-maga-civil-war-heats-up/",
-   "summary": "Mark Levin called out Vice President JD Vance, the architect of the Trump administration's memorandum of understanding with Iran, on Thursday. The post Mark Levin Calls Out JD Vance Directly as MAGA Civil War Heats Up first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T18:09:49+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "1419d0eff1aa",
-   "title": "WATCH: Elevator Door Can’t Save Susan Collins as She’s Pressed on Trump’s Iran Deal",
-   "link": "https://www.mediaite.com/politics/watch-elevator-door-cant-save-susan-collins-as-shes-pressed-on-trumps-iran-deal/",
-   "summary": "Senator Susan Collins (R-ME) was caught in an awkward moment on Capitol Hill on Thursday as she was confronted about President Trump's Iran deal. The post WATCH: Elevator Door Can’t Save Susan Collins as She’s Pressed on Trump’s Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T18:02:19+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "aaeb29b45642",
-   "title": "‘He Lied and Lied and Lied’: Ana Navarro Trashes JD Vance After Interviewing Him on The View",
-   "link": "https://www.mediaite.com/media/podcasts/he-lied-and-lied-and-lied-ana-navarro-trashes-jd-vance-after-interviewing-him-on-the-view/",
-   "summary": "Ana Navarro trashed Vice President JD Vance and accused him of repeatedly pushing lies during his appearance with her and her co-hosts on The View. The post ‘He Lied and Lied and Lied’: Ana Navarro Trashes JD Vance After Interviewing Him on The View first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T17:56:48+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d1add30a1b7f",
    "title": "\"…But hope is a choice. Whether or not we use our voices to speak up is a choice. Voting is a choice. Being a decent human being is a choice. Believing that we still hold the power to build a country that reflects us all is a choice.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfklcw3c2t",
@@ -927,66 +987,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-18T17:55:18.697+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d0f62b07d0b",
-   "title": "Michelle Obama: \"We simply don't have the luxury or time to be cynical or complacent. To ring our hands in despair. To wait for someone else to fix the problem. Y'all, hope is all we have. Because hope is the essential spark that lights the fire of change…\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfkbeyas2t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:55:08.280+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2467480547a1",
-   "title": "Michelle Obama: \"No one — and I mean no one — has the right to sit in judgment of who's American enough.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molfbdporc2t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:50:08.738+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7ef77bc4e030",
-   "title": "Michelle Obama: \"That's where the truth of this country lies. Not in grabbing as much as we can get for ourselves. Or knocking folks down to prop ourselves up. But in the overwhelming goodness, the relentless striving, the quiet dignity, that is inside all of us.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moleyzbgwc2t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:45:29.349+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "965a1848e805",
-   "title": "Michelle Obama to Barack: \"You never fell for the temptation of a quick fix, or an easy pay day. You never changed from that idealistic summer associate who showed up on that rainy day when we first met without an umbrella. You always gave us the very best within in you.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molermgwa22t",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:41:21.016+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "66d4c006cf88",
-   "title": "Michelle Obama: You were doing the people's work, rescuing our economy, expanding health care, ending a war, ordering the bin laden raid, saving an auto industry, winning a peace prize.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molel5zdfw2s",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:37:44.443+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d6fba19436d",
-   "title": "Michelle Obama: The lies about your birthright, your faith, your patriotism, the outrage when you stated the biological fact that if you'd had a son that he too would be black, yet you were unflappable at every turn, always focused.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moleijiolo2t",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T17:36:15.779+00:00",
    "iran_topic": false
   }
  ]
