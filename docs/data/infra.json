@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T20:13:27.099118+00:00",
+ "generated": "2026-06-19T21:35:24.670427+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,26 +47,28 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": 0.76,
-   "change_pct": 0.76,
+   "change": -0.0,
+   "change_pct": -0.0,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
+    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7500.58,
+   "change": 80.48,
+   "change_pct": 1.08,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625
+    7420.10009765625,
+    7500.580078125
    ]
   },
   "USO": {
@@ -87,12 +89,13 @@
    "label": "VIX",
    "symbol": "^VIX",
    "price": 16.78,
-   "change": -1.66,
-   "change_pct": -9.0,
+   "change": 0.38,
+   "change_pct": 2.32,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
+    16.399999618530273,
     16.780000686645508
    ]
   },
@@ -218,18 +221,18 @@
  ],
  "incidents": [
   {
+   "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
+   "source": "Press TV",
+   "published": "2026-06-19T21:34:43.206878+00:00",
+   "severity": "info"
+  },
+  {
    "title": "'Why should we surrender?': Hezbollah chief says group capable of victory",
    "link": "https://www.jpost.com/middle-east/article-899943",
    "source": "Jerusalem Post",
    "published": "2026-06-19T20:31:58+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
-   "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
-   "source": "Press TV",
-   "published": "2026-06-19T20:12:51.368451+00:00",
-   "severity": "info"
   },
   {
    "title": "Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland still on hold",
@@ -334,7 +337,7 @@
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-19T20:12:51.368451+00:00",
+     "published": "2026-06-19T21:34:43.206878+00:00",
      "severity": "info"
     },
     {
@@ -376,6 +379,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "8dcd483d8149",
+   "title": "Campaigns get in the game",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/campaigns-get-in-the-game-00969030",
+   "summary": "Susan Collins and James Talarico ads are looking to capture a U.S.-Australia audience.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T21:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0452b66bd94f",
+   "title": "Daily Show Comic Has a Field Day With New York Knicks Parade Mayhem: ‘No Chance This Guy Is Going to Make it Through That Crowd!’",
+   "link": "https://www.mediaite.com/media/tv/daily-show-comic-has-a-field-day-with-new-york-knicks-parade-mayhem-no-chance-this-guy-is-going-to-make-it-through-that-crowd/",
+   "summary": "The Daily Show host Jordan Klepper took a closer look at Thursday's chaotic scenes when the New York Knicks held their championship parade. The post Daily Show Comic Has a Field Day With New York Knicks Parade Mayhem: ‘No Chance This Guy Is Going to Make it Through That Crowd!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T21:24:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9f4f5f5e2301",
+   "title": "‘The World Woke Up’: CEO of World’s Largest Hedge Fund Warns Trump Stopping Global Investment In the US",
+   "link": "https://www.mediaite.com/politics/the-world-woke-up-ceo-of-worlds-largest-hedge-fund-warns-trump-stopping-global-investment-in-the-us/",
+   "summary": "\"And one day, President Trump decided that no longer would the trade deficit work in the national interest of the United States.\" The post ‘The World Woke Up’: CEO of World’s Largest Hedge Fund Warns Trump Stopping Global Investment In the US first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T21:21:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b162591f867",
+   "title": "Inside FIFA’s plans to commemorate Juneteenth",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/fifa-commemorates-juneteenth-00969049",
+   "summary": "In Seattle, a pre-game video featured an NBA legend and shots of iconic city locations.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T21:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cbc209385e72",
+   "title": "Trump Reveals Why He Told World Leaders ‘I’m the Boss’ at G7",
+   "link": "https://www.mediaite.com/media/news/trump-reveals-why-he-told-world-leaders-im-the-boss-at-g7/",
+   "summary": "In a Friday Axios interview with Marc Caputo, President Donald Trump revealed why he told world leaders, \"I'm the boss,\" at this week's G7 Leaders' Summit. The post Trump Reveals Why He Told World Leaders ‘I’m the Boss’ at G7 first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T20:46:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4249e1272c55",
+   "title": "Photo of Felon Who Whiffed on Reflecting Pool Renovation Likens Him to Mobster, Comic Book Villain",
+   "link": "https://www.mediaite.com/politics/photo-of-felon-who-whiffed-on-reflecting-pool-renovation-likens-him-to-mobster-comic-book-villain/",
+   "summary": "Social media roasted the looks of a top Trump donor after it was discovered his company received the contract for the botched Reflecting Pool renovation. The post Photo of Felon Who Whiffed on Reflecting Pool Renovation Likens Him to Mobster, Comic Book Villain first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T20:42:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "86ad5345db98",
+   "title": "Where Massachusetts wants to take its Scottish love affair next",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/boston-scotland-tartan-army-fifa-world-cup-2026-00968749",
+   "summary": "Gov. Maura Healey discussed what the Tartan Army takeover of Boston has to do with her affordability agenda.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T20:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "14a128e2e34e",
+   "title": "Trump's family crypto business is expected to soon be allowed to operate like a bank — a decision, made by the Trump administration, that would give U.S. companies a new route to steer money to the president.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moo6hfb7sc2k",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T20:26:14.709+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b56710c1b4ce",
+   "title": "‘Are You Smiling?’ Trump Jabs the Media As He Claims Journalists Are Happy to Tour His New Plane",
+   "link": "https://www.mediaite.com/media/news/are-you-smiling-trump-jabs-the-media-as-he-claims-journalists-are-happy-to-tour-his-new-plane/",
+   "summary": "Donald Trump bragged about his new airplane Friday, courtesy of the Qatari government, that he described as \"the world's most luxurious plane.\" The post ‘Are You Smiling?’ Trump Jabs the Media As He Claims Journalists Are Happy to Tour His New Plane first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T20:24:22+00:00",
+   "iran_topic": false
+  },
   {
    "id": "1274e217e60c",
    "title": "‘All Kinds of Sus’: Legal Analyst On MS NOW Sounds Alarm On Trump DOJ Refusing to Sign Declaration Killing Weaponization Fund",
@@ -657,16 +750,6 @@
    "iran_topic": false
   },
   {
-   "id": "f6c7ed381098",
-   "title": "Barack Obama Claims Trump’s Iran Agreement May Have Left The US ‘Worse Off’ Than Before The War",
-   "link": "https://www.mediaite.com/media/news/barack-obama-claims-trumps-iran-agreement-may-have-left-the-us-worse-off-than-before-the-war/",
-   "summary": "Former President Barack Obama claimed Friday that the U.S. may be “worse off” now than before President Donald Trump began striking Iran. The post Barack Obama Claims Trump’s Iran Agreement May Have Left The US ‘Worse Off’ Than Before The War first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T16:56:52+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "7ab23f1405a9",
    "title": "Pulte seeks major cuts in first day as intel chief",
    "link": "https://www.politico.com/news/2026/06/19/pulte-seeks-major-cuts-in-first-day-as-intel-chief-00968831",
@@ -684,26 +767,6 @@
    "source": "@kevinmkruse",
    "category": "trump_bsky",
    "published": "2026-06-19T16:37:24.259+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "959140ad997c",
-   "title": "‘We Were More Difficult?’ View Hosts Shocked to Hear JD Vance Cite Appearance on Show as Proof He Can Handle Iran",
-   "link": "https://www.mediaite.com/media/tv/we-were-more-difficult-view-hosts-shocked-to-hear-jd-vance-cite-appearance-on-show-as-proof-he-can-handle-iran/",
-   "summary": "The hosts of The View were surprised to hear their show cited by Vice President JD Vance while he was discussing negotiating with Iran. The post ‘We Were More Difficult?’ View Hosts Shocked to Hear JD Vance Cite Appearance on Show as Proof He Can Handle Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T16:18:37+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f850876254fa",
-   "title": "CNN’s Harry Enten Breaks Down ‘Stunning’ Rise of Democratic Socialists in Dem Party",
-   "link": "https://www.mediaite.com/politics/cnns-harry-enten-breaks-down-stunning-rise-of-democratic-socialists-in-dem-party/",
-   "summary": "“Yeah, this to me is one of the more stunning trends, right, that I have seen in covering politics over the last 15, 16 years,” Enten said The post CNN’s Harry Enten Breaks Down ‘Stunning’ Rise of Democratic Socialists in Dem Party first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T16:14:20+00:00",
    "iran_topic": false
   },
   {
@@ -735,16 +798,6 @@
    "category": "trump_bsky",
    "published": "2026-06-19T16:09:51.275+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "7c84ffec6769",
-   "title": "Far Right Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel",
-   "link": "https://www.mediaite.com/media/news/republican-lawmaker-slams-frankly-disgusting-jd-vance-comments-on-israel/",
-   "summary": "Randy Fine had some choice words for J.D. Vance after his veiled threat for the nation to \"wake up and smell the reality of the situation” with Iran. The post Far Right Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T16:03:38+00:00",
-   "iran_topic": true
   },
   {
    "id": "b30e815a8443",
@@ -804,16 +857,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-19T15:37:15.196+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "66ae04e12392",
-   "title": "‘Let’s Give Trump Credit’: James Carville Praises President for Striking Iran Deal Despite ‘Surrender’",
-   "link": "https://www.mediaite.com/politics/lets-give-trump-credit-james-carville-praises-president-for-striking-iran-deal-despite-surrender/",
-   "summary": "James Carville called President Donald Trump's peace deal with Iran a \"surrender,\" but praised the president for getting out of the conflict anyway. The post ‘Let’s Give Trump Credit’: James Carville Praises President for Striking Iran Deal Despite ‘Surrender’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T15:37:15+00:00",
    "iran_topic": true
   },
   {
@@ -934,46 +977,6 @@
    "source": "@susanmcp",
    "category": "trump_bsky",
    "published": "2026-06-19T12:57:46.217+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f25d8cb942d5",
-   "title": "Wikipedia characterizes Trump's war as an \"Iranian victory\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monfcovpn22o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:56:13.500+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "17da73c9994d",
-   "title": "He's pretty right about this but not in the way he thinks.",
-   "link": "https://bsky.app/profile/hunterw.bsky.social/post/3moneh4yglc2v",
-   "summary": "",
-   "source": "@hunterw",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:40:48.746+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5eb8b0e1a8e8",
-   "title": "Trump already has regrets his much-hyped Iran deal: \"We'll play out the 60 days\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monee3s3dc2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:39:06.824+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "af8010ebf660",
-   "title": "JD Vance's axis of authoritarianism",
-   "link": "https://www.publicnotice.co/p/vance-iran-deal",
-   "summary": "His work on behalf of brutal regimes didn't start with Iran.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-19T10:17:25+00:00",
    "iran_topic": true
   }
  ]
