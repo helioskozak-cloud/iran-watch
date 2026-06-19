@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-19T02:14:57.101536+00:00",
+ "generated": "2026-06-19T04:03:22.999566+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.58,
-   "change": 0.03,
-   "change_pct": 0.04,
+   "price": 79.1,
+   "change": -0.45,
+   "change_pct": -0.57,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
-    79.58000183105469
+    79.0999984741211
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.67,
-   "change": -1.12,
-   "change_pct": -1.46,
+   "price": 75.24,
+   "change": -1.55,
+   "change_pct": -2.02,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
-    75.66999816894531
+    75.23999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4202.8,
-   "change": -156.1,
-   "change_pct": -3.58,
+   "price": 4177.5,
+   "change": -181.4,
+   "change_pct": -4.16,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
-    4202.7998046875
+    4177.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.86,
-   "change": 0.77,
-   "change_pct": 0.77,
+   "price": 100.92,
+   "change": 0.83,
+   "change_pct": 0.83,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.85700225830078
+    100.9229965209961
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.22,
-   "change": 0.07,
-   "change_pct": 2.26,
+   "price": 3.21,
+   "change": 0.06,
+   "change_pct": 1.97,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
-    3.2160000801086426
+    3.2070000171661377
    ]
   }
  },
@@ -219,7 +219,14 @@
    "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
    "source": "Press TV",
-   "published": "2026-06-19T02:14:22.232323+00:00",
+   "published": "2026-06-19T04:02:45.203120+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil falls as supply starts moving through Strait of Hormuz reut.rs/4acKFpL",
+   "link": "https://bsky.app/profile/reuters.com/post/3mombrmaz642b",
+   "source": "@reuters",
+   "published": "2026-06-19T02:20:19+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-18T12:23:19+00:00",
    "severity": "info"
-  },
-  {
-   "title": "What the Trump-Iran agreement says about Lebanon, Hormuz and uranium",
-   "link": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-18T11:50:22+00:00",
-   "severity": "medium"
   }
  ],
  "chokepoints": [
@@ -332,7 +332,14 @@
      "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
      "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
      "source": "Press TV",
-     "published": "2026-06-19T02:14:22.232323+00:00",
+     "published": "2026-06-19T04:02:45.203120+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Oil falls as supply starts moving through Strait of Hormuz reut.rs/4acKFpL",
+     "link": "https://bsky.app/profile/reuters.com/post/3mombrmaz642b",
+     "source": "@reuters",
+     "published": "2026-06-19T02:20:19+00:00",
      "severity": "info"
     },
     {
@@ -340,13 +347,6 @@
      "link": "https://bsky.app/profile/reuters.com/post/3moluxidfuk24",
      "source": "@reuters",
      "published": "2026-06-18T22:30:57+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran announces plans to bring in maritime fees for strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1u9g1qy/iran_announces_plans_to_bring_in_maritime_fees/",
-     "source": "r/worldnews",
-     "published": "2026-06-18T19:34:37+00:00",
      "severity": "info"
     }
    ]
@@ -390,13 +390,103 @@
  ],
  "wh_statements": [
   {
+   "id": "7b0bd3369ac1",
+   "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
+   "link": "https://www.politico.com/video/2026/06/18/jack-schlossberg-on-trump-rfk-jr-and-the-future-of-the-democratic-party-2107033",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T03:59:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c4abe5c6fdaa",
+   "title": "John Kruk Suggests He’d Been Drinking Before Comically Horrendous At Bat Against Randy Johnson",
+   "link": "https://www.mediaite.com/media/sports/john-kruk-suggests-hed-been-drinking-before-comically-horrendous-at-bat-against-randy-johnson/",
+   "summary": "Philadelphia Phillies play-by-play man John Kruk suggested on Thursday that he had been drinking before his comically inept at bat against Randy Johnson in the 1993 MLB All-Star Game. The post John Kruk Suggests He’d Been Drinking Before Comically Horrendous At Bat Against Randy Johnson first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T03:26:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff8dd475a4d3",
+   "title": "My city still inspires me",
+   "link": "https://bsky.app/profile/mikespangenberg.bsky.social/post/3momf5dxnys2a",
+   "summary": "",
+   "source": "@mikespangenberg",
+   "category": "trump_bsky",
+   "published": "2026-06-19T03:20:34.519+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3196a20feeb7",
+   "title": "Talarico: I was required by law to report any indication there was abuse at home, and I would hope that the top law enforcement official in Texas would be held to the same standard as a middle school teacher. Ken Paxton had the opportunity to protect a child, but instead he protected a predator",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momerdhcrq2i",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-19T03:13:51.215+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dfd88c4d3af6",
+   "title": "Talarico: Ken Paxton let a pedophile back onto our streets. Adam Hoffman should have served 25 years to life in prison, but instead served less than 29 days. And that's because Ken Paxton gave him an Epstein style sweetheart deal.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momejixpqm2i",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-19T03:09:28.547+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "41fbf31342a9",
+   "title": "Talarico: Dan Patrick has spent decades selling out the sick and the poor and the vulnerable, all to enrich his donors. And now he's accusing me of blasphemy. Love sometimes feels blasphemous when you worship power.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momei7ig3r2k",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-19T03:08:44.742+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e708ae0b3188",
+   "title": "Mike Florio Says GOP Official Was ‘Only Off by 117.4 Million’ With White House UFC Viewership Claim",
+   "link": "https://www.mediaite.com/media/news/mike-florio-says-gop-official-was-only-off-by-117-4-million-with-white-house-ufc-viewership-claim/",
+   "summary": "In a Thursday Pro Football Talk article, NBC Sports' Mike Florio noted that RNC Chair Joe Gruters was \"only off by 117.4 million\" in his prediction that President Donald Trump's UFC Freedom 250 event was more watched than the Super Bowl. The post Mike Florio Says GOP Official Was ‘Only Off by 117.4 Million’ With White House UFC Viewership Claim first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T02:55:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "065c5cc3d6ad",
+   "title": "‘It’s Literally What Happened!’ Tarlov Erupts on Watters Over False Claim About Child Molester",
+   "link": "https://www.mediaite.com/media/tv/its-literally-what-happened-tarlov-erupts-on-watters-over-false-claim-about-child-molester/",
+   "summary": "Fox News's Jessica Tarlov went off on co-host Jesse Watters after the latter denied a demonstrable fact about the lenient deal a child molester received in Texas. The post ‘It’s Literally What Happened!’ Tarlov Erupts on Watters Over False Claim About Child Molester first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T02:40:41+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "57a6abc61b9e",
    "title": "White House Staff Reportedly Monitored Trump’s Trash Because ‘He Was Sometimes Throwing Out’ High-End Silverware",
    "link": "https://www.mediaite.com/media/news/white-house-staff-reportedly-monitored-trumps-trash-because-he-was-sometimes-throwing-out-high-end-silverware/",
-   "summary": "An excerpt from The New York Times' Maggie Haberman and Jonathan Swan's upcoming book, published on Thursday by the Daily Mail, revealed that White House staff allegedly needed to monitor President Donald Trump's trash after it was discovered that \"he was sometimes throwing out\" sterling silver utensils. The post White House Staff Reportedly Monitored Trump’s Trash Because ‘He Was Sometimes Throwing Out’ High-End Silverware first appeared on Mediaite .",
+   "summary": "\"A nighttime snacker, the President would frequently leave an array of empty potato chip bags, Starbucks wrappers, and ice cream cartons in the trash, or on the floor.\" The post White House Staff Reportedly Monitored Trump’s Trash Because ‘He Was Sometimes Throwing Out’ High-End Silverware first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-19T02:04:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "56fd17cde935",
+   "title": "Not to armchair diagnosis this w/ my Holiday Inn Express medical degree but it reminds me of my mom’s fine motor skills and abilities to button, close/open clasps/snaps degenerating quickly as her dementia progressed. Occupational therapy helped for awhile but eventually she just lost the ability.",
+   "link": "https://bsky.app/profile/jwharris.bsky.social/post/3mom7pyrqmk2w",
+   "summary": "",
+   "source": "@jwharris",
+   "category": "trump_bsky",
+   "published": "2026-06-19T01:43:37.874+00:00",
    "iran_topic": false
   },
   {
@@ -770,26 +860,6 @@
    "iran_topic": false
   },
   {
-   "id": "de8facf09917",
-   "title": "\"Colonel Deceased\"",
-   "link": "https://bsky.app/profile/gottalaff.bsky.social/post/3molpzjca522e",
-   "summary": "",
-   "source": "@gottalaff",
-   "category": "trump_bsky",
-   "published": "2026-06-18T21:02:37.129+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5db47aa537fc",
-   "title": "\"This is what the Medal of Honor honoree fought for.\"",
-   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3molpvlq4ws2s",
-   "summary": "",
-   "source": "@missingthept",
-   "category": "trump_bsky",
-   "published": "2026-06-18T21:00:25.647+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6bee67515960",
    "title": "‘What An Embarrassment’: Fox News Runs Scathing Supercut of Senators From Both Sides Blasting Trump Deal",
    "link": "https://www.mediaite.com/politics/what-an-embarrassment-fox-news-runs-scathing-supercut-of-senators-from-both-sides-blasting-trump-deal/",
@@ -880,16 +950,6 @@
    "iran_topic": false
   },
   {
-   "id": "a2d44e0357f3",
-   "title": "‘What the F*ck?’: Stephen A. Smith Snaps at Caller Spouting Anti-Trump Talking Points",
-   "link": "https://www.mediaite.com/media/what-the-fck-stephen-a-smith-snaps-at-caller-spouting-anti-trump-talking-points/",
-   "summary": "ESPN commentator Stephen A. Smith snapped at a caller spouting anti-Trump rhetoric on Smith's SiriusXM radio show, Straight Shooter with Stephen A., Wednesday. The post ‘What the F*ck?’: Stephen A. Smith Snaps at Caller Spouting Anti-Trump Talking Points first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T19:36:20+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6e72782e28d2",
    "title": "Effects of Banning Anti-Competitive Hospital Contracts",
    "link": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
@@ -897,26 +957,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-18T19:31:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d78470a23910",
-   "title": "Daily Wire Founder Destroys Tucker Carlson in Stunning Commentary: ‘Most Dangerous Man In American Politics’",
-   "link": "https://www.mediaite.com/politics/daily-wire-founder-destroys-tucker-carlson-in-stunning-commentary-most-dangerous-man-in-american-politics/",
-   "summary": "\"From that moment, from 2018 forward, Ben and I often said to one another that Tucker was the most dangerous man in American politics\" The post Daily Wire Founder Destroys Tucker Carlson in Stunning Commentary: ‘Most Dangerous Man In American Politics’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T19:27:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "795ae2e67e1a",
-   "title": "‘Aggressive Uncharity’: Catholic Interviewer Confronts JD Vance Over Trump Admin Seeming ‘Post-Christian’",
-   "link": "https://www.mediaite.com/media/news/aggressive-uncharity-catholic-interviewer-confronts-jd-vance-over-trump-admin-seeming-post-christian/",
-   "summary": "New York Times opinion columnist Ross Douthat asked Vice President J.D. Vance about how the Trump administration’s policies embody \"Christian values.\" The post ‘Aggressive Uncharity’: Catholic Interviewer Confronts JD Vance Over Trump Admin Seeming ‘Post-Christian’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T19:06:47+00:00",
    "iran_topic": false
   },
   {
@@ -947,46 +987,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-18T18:34:43.443+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4e489c6fbbb5",
-   "title": "President Obama: \"No one is above the law or beneath its protection.\" \"Our military and law enforcement owe allegiance not to any president or political party, but to the people and our Constitution.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molhkbl6tk2r",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:30:55.967+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff0623c09c2d",
-   "title": "Obama: A declaration that we are all created equal, endowed by our creator with certain unalienable rights, and that in the newly independent United States there will be no kings or lords, no serfs or subjects, but only citizens,",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhb4ftqy2y",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:25:48.415+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a31e5e6c6b02",
-   "title": "The crowd breaks out into applause as President Obama reminds us the nation was founded on the idea there would be \"no kings.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molhakrrvs2r",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:25:30.076+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9d99aee27e10",
-   "title": "Obama: To Michelle. She did me wrong. She wouldn't let me see her speech. She knew she was going to mess me up and she did it anyway. But she's always made me better. And I could not be more grateful.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molglphi3425",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:13:49.589+00:00",
    "iran_topic": false
   }
  ]
