@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T18:19:28.613080+00:00",
+ "generated": "2026-06-19T20:13:27.099118+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,29 +46,27 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.74,
-   "change": -0.11,
-   "change_pct": -0.11,
+   "price": 100.85,
+   "change": 0.76,
+   "change_pct": 0.76,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211,
-    100.74199676513672
+    100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7500.58,
-   "change": 80.48,
-   "change_pct": 1.08,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625,
-    7500.580078125
+    7420.10009765625
    ]
   },
   "USO": {
@@ -89,13 +87,12 @@
    "label": "VIX",
    "symbol": "^VIX",
    "price": 16.78,
-   "change": 0.38,
-   "change_pct": 2.32,
+   "change": -1.66,
+   "change_pct": -9.0,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    16.399999618530273,
     16.780000686645508
    ]
   },
@@ -231,8 +228,15 @@
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
    "source": "Press TV",
-   "published": "2026-06-19T18:18:49.796234+00:00",
+   "published": "2026-06-19T20:12:51.368451+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland still on hold",
+   "link": "https://www.timesofisrael.com/iran-war-mediators-set-to-meet-in-egypt-sunday-as-talks-in-switzerland-still-on-hold/",
+   "source": "Times of Israel",
+   "published": "2026-06-19T19:17:03+00:00",
+   "severity": "low"
   },
   {
    "title": "A power lever is not negotiable",
@@ -317,13 +321,6 @@
    "source": "@apnews",
    "published": "2026-06-19T12:03:40+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US-Iran deal under immediate strain as fighting flares in Lebanon",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-deal-under-immediate-strain-fighting-flares-lebanon",
-   "source": "Al-Monitor",
-   "published": "2026-06-19T12:00:23+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -337,7 +334,7 @@
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-19T18:18:49.796234+00:00",
+     "published": "2026-06-19T20:12:51.368451+00:00",
      "severity": "info"
     },
     {
@@ -379,6 +376,166 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1274e217e60c",
+   "title": "‘All Kinds of Sus’: Legal Analyst On MS NOW Sounds Alarm On Trump DOJ Refusing to Sign Declaration Killing Weaponization Fund",
+   "link": "https://www.mediaite.com/media/tv/all-kinds-of-sus-legal-analyst-on-ms-now-sounds-alarm-on-trump-doj-refusing-to-sign-declaration-killing-weaponization-fund/",
+   "summary": "During a Friday appearance on MS NOW, MeidasTouch’s Scott MacFarlane sounded the alarm on the news that the Department of Justice refused to sign a confirmation officially declaring President Donald Trump's anti-weaponization fund dead, calling the move \"all kinds of sus.\" The post ‘All Kinds of Sus’: Legal Analyst On MS NOW Sounds Alarm On Trump DOJ Refusing to Sign Declaration Killing Weaponization Fund first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T20:13:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2cea51739c82",
+   "title": "Kennedy and Wright cheer on US",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/kennedy-and-wright-cheer-on-u-s-00969029",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T19:52:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5c43065436d3",
+   "title": "CNN Analyst Warns Trump Just Installed a ‘Political Arsonist’ As Head of US Intelligence",
+   "link": "https://www.mediaite.com/media/news/cnn-analyst-warns-trump-just-installed-a-political-arsonist-as-head-of-us-intelligence/",
+   "summary": "The former deputy chief of the CIA's Russia operations warned that Donald Trump has installed a \"political arsonist\" to temporarily head up the DNI. The post CNN Analyst Warns Trump Just Installed a ‘Political Arsonist’ As Head of US Intelligence first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T19:48:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e15a2d004921",
+   "title": "‘Holding And Waiting’: NewsNation Reports From Inside The Strait of Hormuz Most Ships Still Not Passing",
+   "link": "https://www.mediaite.com/media/news/holding-and-waiting-newsnation-reports-from-inside-the-strait-of-hormuz-most-ships-still-not-passing/",
+   "summary": "On Friday, the Iranian Revolutionary Guard sowed confusion by declaring the Strait of Hormuz closed following an exchange of fire between Israel and Hezbollah The post ‘Holding And Waiting’: NewsNation Reports From Inside The Strait of Hormuz Most Ships Still Not Passing first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T19:44:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "63cb63b1407d",
+   "title": "The politician who kicked his way to power",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/how-soccer-explains-andy-burnham-00968742",
+   "summary": "Andy Burnham is about to become Britain's next prime minister. He wouldn't be there without soccer.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T19:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "db2354a96ed7",
+   "title": "Bret Baier Lists Off Major Concerns With Trump’s Iran Deal on PBD Podcast: Nothing ‘Prevents Them From Killing 40,000 Iranians’",
+   "link": "https://www.mediaite.com/media/podcasts/bret-baier-lists-off-major-concerns-with-trumps-iran-deal-on-pbd-podcast-nothing-prevents-them-from-killing-40000-iranians/",
+   "summary": "Fox News' Bret Baier ran through a list of major concerns around President Trump's 14-point peace deal with Iran during a visit to The PBD Podcast. The post Bret Baier Lists Off Major Concerns With Trump’s Iran Deal on PBD Podcast: Nothing ‘Prevents Them From Killing 40,000 Iranians’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T19:28:19+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b1aa8238259e",
+   "title": "From Superglued Gold to Epstein: 5 Jaw-Dropping Trump WH Revelations From the NY Times",
+   "link": "https://www.mediaite.com/media/news/from-superglued-gold-to-epstein-5-jaw-dropping-trump-wh-revelations-from-the-ny-times/",
+   "summary": "President Donald Trump personally decorating the Oval Office with super glue, a panicked call from Barron Trump after the assassination of conservative activist Charlie Kirk, and White House officials holding Situation Room meetings about Jeffrey Epstein are among the more eyebrow-raising details contained in a new book from New York Times reporters Maggie Haberman and Jonathan Swan. The post From Superglued Gold to Epstein: 5 Jaw-Dropping Trump WH Revelations From the NY Times first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T19:13:12+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b716fefa020",
+   "title": "Unconditional humiliation",
+   "link": "https://www.publicnotice.co/p/unconditional-humiliation",
+   "summary": "Aaron and Paul unpack Trump's surrender to Iran.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-19T18:58:50+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5e541ce3a66d",
+   "title": "The US-Australia face-off that isn’t happening",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/the-us-australia-face-off-that-isnt-happening-00969016",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T18:55:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5761061bbf39",
+   "title": "Smerconish Says Trump’s Iran Deal Is Just Like Obama’s: ‘Worst Thing That President Trump Could Ever Hear’",
+   "link": "https://www.mediaite.com/media/tv/smerconish-says-trumps-iran-deal-is-just-like-obamas-worst-thing-that-president-trump-could-ever-hear/",
+   "summary": "Michael Smerconish said that Donald Trump's Iran deal is \"just like\" Obama's JCPOA, and that he would have liked to have seen it \"play itself out\". The post Smerconish Says Trump’s Iran Deal Is Just Like Obama’s: ‘Worst Thing That President Trump Could Ever Hear’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:50:42+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4d119686874b",
+   "title": "BREAKING on MS NOW: The Trump Justice Department has just REFUSED to indicate in a sworn declaration that it's backing off the Trump slush fund — claiming to Judge Brinkema in the EDVA that Todd Blanche's in court testimony should suffice.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3monyskktps2x",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T18:45:06.916+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66b3d230b8eb",
+   "title": "Trump WH Drops Nasty Insult on Loyalist Batya Ungar-Sargon For Calling Iran Deal ‘Humiliating’",
+   "link": "https://www.mediaite.com/media/news/trump-wh-drops-nasty-insult-on-loyalist-batya-ungar-sargon-for-calling-iran-deal-humiliating/",
+   "summary": "“The only humiliation here is Batya desperately begging for an additional brain cell,\" wrote the Trump WH on X The post Trump WH Drops Nasty Insult on Loyalist Batya Ungar-Sargon For Calling Iran Deal ‘Humiliating’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:43:07+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3ceba20a4403",
+   "title": "Long-Absent Congressman Will Return June 30, Spokesperson Says — Promises to Be ‘Fully Transparent’",
+   "link": "https://www.mediaite.com/politics/long-absent-congressman-will-return-june-30-spokesperson-says-promises-to-be-fully-transparent/",
+   "summary": "Rep. Tom Kean (R-NJ) will return to Congress on June 30 after an unexplained months-long absence, according to a spokesperson for his office. The post Long-Absent Congressman Will Return June 30, Spokesperson Says — Promises to Be ‘Fully Transparent’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:39:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2a34fcfbe564",
+   "title": "‘I Don’t Care Where It Comes From’: Ted Cruz Blasts Trump’s $300B for ‘Lunatic’ Iranian Regime",
+   "link": "https://www.mediaite.com/politics/i-dont-care-where-it-comes-from-ted-cruz-blasts-trumps-300b-for-lunatic-iranian-regime/",
+   "summary": "Sen. Ted Cruz (R-TX) blasted President Donald Trump's memorandum of understanding (MOU) with Iran in a Friday episode of his podcast, specifically attacking the part of the plan that will give the country, with the help of regional partners, $300 billion to redevelop. The post ‘I Don’t Care Where It Comes From’: Ted Cruz Blasts Trump’s $300B for ‘Lunatic’ Iranian Regime first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:29:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "34f77ef4eadf",
+   "title": "The soccer boss in Mark Carney’s ear",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/mls-don-garber-mark-carney-vancouver-whitecaps-stadium-00969012",
+   "summary": "For Major League Soccer commissioner Don Garber, a Vancouver matchday was also a lobbying mission.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T18:28:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3a257b38da6b",
+   "title": "Intelligence Agencies Warn Trump Israel ‘Likely’ to Undermine Iran Deal: Report",
+   "link": "https://www.mediaite.com/media/news/intelligence-agencies-warn-trump-israel-likely-to-undermine-iran-deal-report/",
+   "summary": "U.S. intelligence agencies have reportedly warned President Trump's administration that the potential peace deal with Iran could be compromised by Israel. The post Intelligence Agencies Warn Trump Israel ‘Likely’ to Undermine Iran Deal: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:25:36+00:00",
+   "iran_topic": true
+  },
   {
    "id": "5f976a20dc80",
    "title": "‘Come On!’ CNN Host Phil Mattingly Gobsmacked By Trump Admin’s Claim The Reflecting Pool Water Is ‘Crystal Clear’",
@@ -670,16 +827,6 @@
    "iran_topic": true
   },
   {
-   "id": "290575200285",
-   "title": "‘Hideous’: Left and Right Slam Israeli Minister Declaring ‘All of Lebanon Must Burn’",
-   "link": "https://www.mediaite.com/politics/hideous-left-and-right-slam-israeli-minister-declaring-all-of-lebanon-must-burn/",
-   "summary": "Jake Tapper replied, “Ben Gvir, an anti-Arab racist zealot, says ‘all of Lebanon must burn.’ That’s almost 6 million people. Hideous.” The post ‘Hideous’: Left and Right Slam Israeli Minister Declaring ‘All of Lebanon Must Burn’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T15:09:39+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "e989c2773452",
    "title": "JD Vance wants to revive the fascism-friendly ideology of the 1940 \"America First\" movement, and make it central to US foreign policy in the 21st Century, as I discussed in PN.",
    "link": "https://bsky.app/profile/davidrlurie.com/post/3monmi7esvc2u",
@@ -687,16 +834,6 @@
    "source": "@davidrlurie",
    "category": "trump_bsky",
    "published": "2026-06-19T15:04:34.737+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7de219a93cd1",
-   "title": "‘You Don’t Really Believe That’: Chris Cuomo Presses James Carville on His Viral Trump Prediction",
-   "link": "https://www.mediaite.com/media/tv/you-dont-really-believe-that-chris-cuomo-presses-james-carville-on-his-viral-trump-prediction/",
-   "summary": "Chris Cuomo pressed James Carville on whether he's actually serious about his viral prediction that President Trump will resign from office by the spring. The post ‘You Don’t Really Believe That’: Chris Cuomo Presses James Carville on His Viral Trump Prediction first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:51:42+00:00",
    "iran_topic": false
   },
   {
@@ -708,56 +845,6 @@
    "category": "trump_bsky",
    "published": "2026-06-19T14:50:30.238+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "0df095bf0233",
-   "title": "‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting",
-   "link": "https://www.mediaite.com/media/news/they-get-no-money-trump-insists-iran-is-finished-as-peace-deal-talks-delayed-by-fighting/",
-   "summary": "President Trump insisted Iran is \"FINISHED\" and the U.S. will \"play out\" a 60-day ceasefire following negotiations being delayed by fighting in the region. The post ‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:47:18+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "92aaffd9c9a4",
-   "title": "Top Trump Donor Miriam Adelson’s Newspaper Runs Scathing Open Letter to Prez: ‘You Failed’",
-   "link": "https://www.mediaite.com/media/news/top-trump-donor-miriam-adelsons-newspaper-runs-scathing-open-letter-to-prez-you-failed/",
-   "summary": "An Israeli newspaper owned by Trump megadonor Miriam Adelson is attacking the president over his actions in the Iran war, accusing him of \"betraying\" Israel and saying he has \"failed.\" The post Top Trump Donor Miriam Adelson’s Newspaper Runs Scathing Open Letter to Prez: ‘You Failed’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:39:25+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b61afe1b6a0e",
-   "title": "‘I Stand By What I Said!’: Republican Lawmaker Gets Testy as He’s Confronted on MS NOW With Past Statement on Iran",
-   "link": "https://www.mediaite.com/media/tv/i-stand-by-what-i-said-republican-lawmaker-gets-testy-as-hes-confronted-on-ms-now-with-past-statement-on-iran/",
-   "summary": "Things got heated on Morning Joe on Friday as Rep. Mike Turner (R-OH) was confronted with a past statement on Iran negotiations under Biden. The post ‘I Stand By What I Said!’: Republican Lawmaker Gets Testy as He’s Confronted on MS NOW With Past Statement on Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:36:23+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6decd11b34d0",
-   "title": "BREAKING: Israel and Hezbollah Agree to Ceasefire",
-   "link": "https://www.mediaite.com/media/news/breaking-israel-and-hezbollah-agree-to-ceasefire/",
-   "summary": "The ceasefire renewal comes after 18 people were killed in Lebanon following overnight Israeli air strikes, despite the U.S.-Iran MOU. The post BREAKING: Israel and Hezbollah Agree to Ceasefire first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:13:55+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "fcc9a6b98040",
-   "title": "Trump Called His Own Commerce Secretary a ‘P*ssy’ in Heated Tariff Fight: New Book",
-   "link": "https://www.mediaite.com/media/news/trump-called-his-own-commerce-secretary-a-pssy-in-heated-tariff-fight-according-to-new-book/",
-   "summary": "President Donald Trump torched Commerce Secretary Howard Lutnick during a disagreement on tariffs, calling him a \"p*ssy,\" according to a new book. The post Trump Called His Own Commerce Secretary a ‘P*ssy’ in Heated Tariff Fight: New Book first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T14:13:10+00:00",
-   "iran_topic": true
   },
   {
    "id": "fa164c716b44",
@@ -860,16 +947,6 @@
    "iran_topic": true
   },
   {
-   "id": "9b581871b1c4",
-   "title": "CNN’s Kaitlan Collins Roasts Trump With Comparison to Obama Amid Iran Deal",
-   "link": "https://www.mediaite.com/media/tv/cnns-kaitlan-collins-roasts-trump-with-comparison-to-obama-amid-iran-deal/",
-   "summary": "CNN anchor Kaitlan Collins roasted President Donald Trump by comparing and contrasting him with former President Barack Obama amid fallout from the Iran deal. The post CNN’s Kaitlan Collins Roasts Trump With Comparison to Obama Amid Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T12:54:10+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "17da73c9994d",
    "title": "He's pretty right about this but not in the way he thinks.",
    "link": "https://bsky.app/profile/hunterw.bsky.social/post/3moneh4yglc2v",
@@ -890,26 +967,6 @@
    "iran_topic": true
   },
   {
-   "id": "98ecbcec456f",
-   "title": "Italian PM Torches Trump for Claiming She ‘Begged’ for Photo as US Warned ‘Historic Relations’ Being Threatened",
-   "link": "https://www.mediaite.com/media/news/italian-prime-minister-rebukes-trump-for-claiming-she-begged-for-photo-as-us-warned-historic-relations-being-threatened/",
-   "summary": "Italian Prime ​Minister Giorgia Meloni accused President Trump of spreading fake news about her with his claim that she \"begged\" for a photo with him at G7. The post Italian PM Torches Trump for Claiming She ‘Begged’ for Photo as US Warned ‘Historic Relations’ Being Threatened first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T12:29:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4d39748a6d8e",
-   "title": "CNN’s Anderson Cooper Torpedoes Trump ‘Unconditional Surrender’ Claim: ‘Keeping Them Honest-‘",
-   "link": "https://www.mediaite.com/media/tv/cnns-anderson-cooper-torpedoes-trump-unconditional-surrender-claim-keeping-them-honest/",
-   "summary": "CNN host Anderson Cooper torpedoed President Donald Trump’s claim that his Iran deal is equivalent to an \"unconditional surrender\" by the Iranians. The post CNN’s Anderson Cooper Torpedoes Trump ‘Unconditional Surrender’ Claim: ‘Keeping Them Honest-‘ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T12:14:23+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "af8010ebf660",
    "title": "JD Vance's axis of authoritarianism",
    "link": "https://www.publicnotice.co/p/vance-iran-deal",
@@ -918,66 +975,6 @@
    "category": "rupar_substack",
    "published": "2026-06-19T10:17:25+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "59a411f944fc",
-   "title": "The nation’s cartoonists on the week in politics",
-   "link": "https://www.politico.com/gallery/2026/06/19/the-nations-cartoonists-on-the-week-in-politics-00967867",
-   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T09:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26bdf0bd2d87",
-   "title": "Matt Dunlap beats DCCC-backed candidate in primary for top Maine battleground",
-   "link": "https://www.politico.com/dunlap-wins-maine-house-primary",
-   "summary": "The seat has become a priority target for both parties following Democratic Rep. Jared Golden’s decision not to run for reelection.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T06:01:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dbc41a6fc91a",
-   "title": "Democrat Hannah Pingree and MAGA ally Bobby Charles will face off for Maine governor",
-   "link": "https://www.politico.com/hannah-pingree-bobby-charles-maine-governor",
-   "summary": "Both emerged from the state’s ranked choice voting process early Friday morning.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T05:56:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "95e00b79800f",
-   "title": "Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman",
-   "link": "https://www.mediaite.com/politics/trump/owner-of-company-responsible-for-part-of-trumps-reflecting-pool-renovation-pleaded-guilty-to-bribing-congressman/",
-   "summary": "The head of the company that owns the firm responsible for part of the renovation of the Lincoln Memorial Reflecting Pool pleaded guilty to bribing a congressman. The post Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-19T04:07:29+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7b0bd3369ac1",
-   "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
-   "link": "https://www.politico.com/video/2026/06/18/jack-schlossberg-on-trump-rfk-jr-and-the-future-of-the-democratic-party-2107033",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T03:59:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3196a20feeb7",
-   "title": "Talarico: I was required by law to report any indication there was abuse at home, and I would hope that the top law enforcement official in Texas would be held to the same standard as a middle school teacher. Ken Paxton had the opportunity to protect a child, but instead he protected a predator",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momerdhcrq2i",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-19T03:13:51.215+00:00",
-   "iran_topic": false
   }
  ]
 }
