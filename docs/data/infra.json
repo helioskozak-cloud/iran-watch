@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T21:35:24.670427+00:00",
+ "generated": "2026-06-19T22:37:26.929235+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,28 +47,26 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": -0.0,
-   "change_pct": -0.0,
+   "change": 0.76,
+   "change_pct": 0.76,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7500.58,
-   "change": 80.48,
-   "change_pct": 1.08,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625,
-    7500.580078125
+    7420.10009765625
    ]
   },
   "USO": {
@@ -89,13 +87,12 @@
    "label": "VIX",
    "symbol": "^VIX",
    "price": 16.78,
-   "change": 0.38,
-   "change_pct": 2.32,
+   "change": -1.66,
+   "change_pct": -9.0,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    16.399999618530273,
     16.780000686645508
    ]
   },
@@ -224,7 +221,7 @@
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
    "source": "Press TV",
-   "published": "2026-06-19T21:34:43.206878+00:00",
+   "published": "2026-06-19T22:36:51.253978+00:00",
    "severity": "info"
   },
   {
@@ -235,11 +232,18 @@
    "severity": "low"
   },
   {
-   "title": "Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland still on hold",
+   "title": "Iran war mediators set to meet in Egypt Sunday, as talks in Switzerland yet to open",
    "link": "https://www.timesofisrael.com/iran-war-mediators-set-to-meet-in-egypt-sunday-as-talks-in-switzerland-still-on-hold/",
    "source": "Times of Israel",
    "published": "2026-06-19T19:17:03+00:00",
    "severity": "low"
+  },
+  {
+   "title": "How Lebanon, Hormuz and nuclear tensions are testing fragile US-Iran deal",
+   "link": "https://www.al-monitor.com/originals/2026/06/how-lebanon-hormuz-and-nuclear-tensions-are-testing-fragile-us-iran-deal",
+   "source": "Al-Monitor",
+   "published": "2026-06-19T19:03:59+00:00",
+   "severity": "info"
   },
   {
    "title": "A power lever is not negotiable",
@@ -317,13 +321,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-19T12:35:28+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "A new Iranian authority charged with overseeing the Strait of Hormuz issued guidance calling on ships to register with it even as transits are currently free, signaling Tehran’s intent to likely start charging.",
-   "link": "https://bsky.app/profile/apnews.com/post/3monceqh6ce23",
-   "source": "@apnews",
-   "published": "2026-06-19T12:03:40+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -337,7 +334,14 @@
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-19T21:34:43.206878+00:00",
+     "published": "2026-06-19T22:36:51.253978+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "How Lebanon, Hormuz and nuclear tensions are testing fragile US-Iran deal",
+     "link": "https://www.al-monitor.com/originals/2026/06/how-lebanon-hormuz-and-nuclear-tensions-are-testing-fragile-us-iran-deal",
+     "source": "Al-Monitor",
+     "published": "2026-06-19T19:03:59+00:00",
      "severity": "info"
     },
     {
@@ -345,13 +349,6 @@
      "link": "https://www.al-monitor.com/originals/2026/06/hormuz-ship-traffic-climbs-after-war-deal-trackers",
      "source": "Al-Monitor",
      "published": "2026-06-19T17:30:24+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran denies reports of Hormuz closure, rules out IAEA inspections",
-     "link": "https://www.tehrantimes.com/news/527487/Iran-denies-reports-of-Hormuz-closure-rules-out-IAEA-inspections",
-     "source": "Tehran Times",
-     "published": "2026-06-19T17:19:05+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +376,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f1ad509d0fad",
+   "title": "NYT Exclusive: ICE spent $700 million on 7 warehouses. Now it wants to get rid of them.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moofgfdlnc2h",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T22:30:57.426+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0377636ee7e5",
+   "title": "Wealth correlation with soccer ability?",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/gdp-fifa-world-cup-2026-rankings-00968767",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T22:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1cc64c93050e",
+   "title": "Kilmeade Hits JD Vance Over Israel Criticism: He ‘Has To Rethink His Attack’",
+   "link": "https://www.mediaite.com/media/tv/kilmeade-hits-jd-vance-over-israel-criticism-he-has-to-rethink-his-attack/",
+   "summary": "During Friday's edition of The Five, Fox News' Brian Kilmeade took issue with Vice President JD Vance's recent critiques of the Israeli government, declaring that he \"has to rethink his attack.\" The post Kilmeade Hits JD Vance Over Israel Criticism: He ‘Has To Rethink His Attack’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T22:24:58+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d6d542282978",
+   "title": "Tucker Carlson Defends Graham Platner Over Nazi Tattoo Scandal, Slams Trump",
+   "link": "https://www.mediaite.com/politics/tucker-carlson-defends-graham-platner-over-nazi-tattoo-scandal-slams-trump/",
+   "summary": "\"But they’ve attacked the guy in his personal life. It’s like they don’t like him because he’s not sufficiently supportive of Israel.\" The post Tucker Carlson Defends Graham Platner Over Nazi Tattoo Scandal, Slams Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T22:06:17+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "26b15f711dbd",
+   "title": "In Canberra, disappointment",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/in-canberra-disappointment-00969054",
+   "summary": "The Aussies’ lackluster performance left the home crowd subdued, but it still booed RFK Jr.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T22:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "24a70e7eaceb",
+   "title": "The UK’s World Cup diplomatic mullet",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/uk-scotland-england-party-fifa-world-cup-2026-00969052",
+   "summary": "British fans are soaking in the World Cup at Duke’s Grocery in Washington, D.C.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T21:44:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9831d161ecb4",
+   "title": "CNN’s Daniel Dale Rattles Off Trump Lies About People ‘Begging’ Him For Stuff",
+   "link": "https://www.mediaite.com/media/news/cnns-daniel-dale-lists-off-trump-lies-about-people-begging-him-for-stuff/",
+   "summary": "CNN's Daniel Dale ticked off examples of one of President Donald Trump's oft repeated lies Friday — claiming notable figures \"begged\" him for favors. The post CNN’s Daniel Dale Rattles Off Trump Lies About People ‘Begging’ Him For Stuff first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T21:40:27+00:00",
+   "iran_topic": false
+  },
   {
    "id": "8dcd483d8149",
    "title": "Campaigns get in the game",
@@ -680,26 +747,6 @@
    "iran_topic": true
   },
   {
-   "id": "de82cc233e2b",
-   "title": "Jillian Michaels Unloads on Joy Reid for Claiming She Was Fired over Israel Criticism",
-   "link": "https://www.mediaite.com/online/jillian-michaels-unloads-on-joy-reid-for-claiming-she-was-fired-over-israel-criticism/",
-   "summary": "During a Friday episode of her podcast Keeping It Real, fitness influencer Jillian Michaels unloaded on independent journalist and former MS NOW host Joy Reid for claiming she was fired from the network over her criticism of Israel. The post Jillian Michaels Unloads on Joy Reid for Claiming She Was Fired over Israel Criticism first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T17:47:38+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "1039f6ca8b72",
-   "title": "‘These People Are Lunatics’: Competitive DSA Candidate Sparks Fury With Answer On Deportations",
-   "link": "https://www.mediaite.com/politics/these-people-are-lunatics-competitive-dsa-candidate-sparks-fury-with-answer-on-deportations/",
-   "summary": "“These people are lunatics -- Chevalier says it is always wrong to deport anyone, even a non-citizen convicted of a serious crime.” The post ‘These People Are Lunatics’: Competitive DSA Candidate Sparks Fury With Answer On Deportations first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T17:44:10+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "fd9aae2a02da",
    "title": "President Trump’s Iran Agreement Is America First in Action",
    "link": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
@@ -708,16 +755,6 @@
    "category": "wh_news",
    "published": "2026-06-19T17:37:43+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "4eeef20d7911",
-   "title": "‘So Unbelievably Radioactive’: Jonah Goldberg Slams ‘Delusional’ Trump For Alienating US Allies",
-   "link": "https://www.mediaite.com/media/news/so-unbelievably-radioactive-jonah-goldberg-slams-delusional-trump-for-alienating-us-allies/",
-   "summary": "Jonah Goldberg slammed Donald Trump on CNN's Inside Politics for alienating U.S. allies, like Italy's Prime Minister Georgia Meloni. The post ‘So Unbelievably Radioactive’: Jonah Goldberg Slams ‘Delusional’ Trump For Alienating US Allies first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T17:37:42+00:00",
-   "iran_topic": false
   },
   {
    "id": "00e6fa3c476d",
@@ -938,46 +975,6 @@
    "category": "trump_bsky",
    "published": "2026-06-19T13:25:09.573+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "0d9aa41b0ef5",
-   "title": "::sickos yes::",
-   "link": "https://bsky.app/profile/socio-steve.bsky.social/post/3mongqmvlys24",
-   "summary": "",
-   "source": "@socio-steve",
-   "category": "trump_bsky",
-   "published": "2026-06-19T13:21:54.904+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4eefda8e6ac1",
-   "title": "Rep. Randy Fine: \"I thought JD's comments yesterday were absolutely inappropriate and frankly disgusting\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mongk7ua522o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T13:18:19.901+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f7d9577c55a2",
-   "title": "Brian Kilmeade: \"I was a little surprised the vice president was going after Israel yesterday at the podium more than he was going after Iran\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mongigstdv26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T13:17:20.106+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "e0ecd268f48a",
-   "title": "The truth! \"There little evidence of any such transformation in the Iranian dictatorship, or that it is in the offing. Rather, it is Vance who wants to transform the policies of the US government by moving toward alliances with extremist regimes.\" By @davidlurie.bsky.social in @atrupar.com's PN:",
-   "link": "https://bsky.app/profile/susanmcp.bsky.social/post/3monffhdakk22",
-   "summary": "",
-   "source": "@susanmcp",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:57:46.217+00:00",
-   "iran_topic": true
   }
  ]
 }
