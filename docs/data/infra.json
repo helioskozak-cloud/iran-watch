@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-19T16:30:49.849411+00:00",
+ "generated": "2026-06-19T18:19:28.613080+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 80.66,
-   "change": 0.81,
-   "change_pct": 1.01,
+   "price": 80.59,
+   "change": 0.74,
+   "change_pct": 0.93,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    80.66000366210938
+    80.58999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 76.59,
-   "change": -0.01,
-   "change_pct": -0.01,
+   "price": 76.54,
+   "change": -0.06,
+   "change_pct": -0.08,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    76.58999633789062
+    76.54000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4163.8,
-   "change": -60.3,
-   "change_pct": -1.43,
+   "price": 4172.9,
+   "change": -51.2,
+   "change_pct": -1.21,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4163.7998046875
+    4172.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.82,
-   "change": -0.03,
-   "change_pct": -0.03,
+   "price": 100.74,
+   "change": -0.11,
+   "change_pct": -0.11,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
     100.8499984741211,
-    100.822998046875
+    100.74199676513672
    ]
   },
   "^GSPC": {
@@ -103,14 +103,14 @@
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.2,
-   "change": -0.03,
-   "change_pct": -0.96,
+   "change": -0.04,
+   "change_pct": -1.08,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.2019999027252197
+    3.197999954223633
    ]
   }
  },
@@ -221,17 +221,52 @@
  ],
  "incidents": [
   {
-   "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
-   "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
-   "source": "Press TV",
-   "published": "2026-06-19T16:30:04.119407+00:00",
-   "severity": "info"
+   "title": "'Why should we surrender?': Hezbollah chief says group capable of victory",
+   "link": "https://www.jpost.com/middle-east/article-899943",
+   "source": "Jerusalem Post",
+   "published": "2026-06-19T20:31:58+00:00",
+   "severity": "low"
   },
   {
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
    "source": "Press TV",
-   "published": "2026-06-19T16:30:04.118601+00:00",
+   "published": "2026-06-19T18:18:49.796234+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "A power lever is not negotiable",
+   "link": "https://www.tehrantimes.com/news/527482/A-power-lever-is-not-negotiable",
+   "source": "Tehran Times",
+   "published": "2026-06-19T17:41:39+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Hormuz ship traffic climbs after war deal: trackers",
+   "link": "https://www.al-monitor.com/originals/2026/06/hormuz-ship-traffic-climbs-after-war-deal-trackers",
+   "source": "Al-Monitor",
+   "published": "2026-06-19T17:30:24+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran denies reports of Hormuz closure, rules out IAEA inspections",
+   "link": "https://www.tehrantimes.com/news/527487/Iran-denies-reports-of-Hormuz-closure-rules-out-IAEA-inspections",
+   "source": "Tehran Times",
+   "published": "2026-06-19T17:19:05+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "The Oil Market Canceled The Hormuz Crisis Before The Ceasefire",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ua7c07/the_oil_market_canceled_the_hormuz_crisis_before/",
+   "source": "r/worldnews",
+   "published": "2026-06-19T16:56:08+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
+   "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
+   "source": "Press TV",
+   "published": "2026-06-19T16:30:04.119407+00:00",
    "severity": "info"
   },
   {
@@ -289,41 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-19T12:00:23+00:00",
    "severity": "low"
-  },
-  {
-   "title": "After three months of war, Iran and the U.S. have agreed to end the conflict and reopen the Strait of Hormuz. The news, which was first met with joy and relief, drew a wave of criticism when the actual terms of the agreement became public this week. Listen to \"The Daily.\"",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mon7esosh72c",
-   "source": "@nytimes",
-   "published": "2026-06-19T11:10:02.083368+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says",
-   "link": "https://www.al-monitor.com/originals/2026/06/japan-owned-vessel-passed-through-strait-hormuz-friday-japan-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-19T09:01:51+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says reut.rs/4vkYI5d",
-   "link": "https://bsky.app/profile/reuters.com/post/3momxbu2h5u2q",
-   "source": "@reuters",
-   "published": "2026-06-19T08:45:12+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "LIVE: Vessel traffic in Strait of Hormuz after US-Iran peace talks postponed www.youtube.com/live/eeQWFX3...",
-   "link": "https://bsky.app/profile/reuters.com/post/3momwk5xqrc2z",
-   "source": "@reuters",
-   "published": "2026-06-19T08:31:58.049+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
-   "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-19T07:19:53+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 13,
+   "incident_count": 11,
    "recent": [
-    {
-     "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
-     "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
-     "source": "Press TV",
-     "published": "2026-06-19T16:30:04.119407+00:00",
-     "severity": "info"
-    },
     {
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-19T16:30:04.118601+00:00",
+     "published": "2026-06-19T18:18:49.796234+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran imposes mandatory insurance on ships transiting Strait of Hormuz, with fees likely to follow",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ua5363/iran_imposes_mandatory_insurance_on_ships/",
-     "source": "r/worldnews",
-     "published": "2026-06-19T15:30:15+00:00",
+     "title": "Hormuz ship traffic climbs after war deal: trackers",
+     "link": "https://www.al-monitor.com/originals/2026/06/hormuz-ship-traffic-climbs-after-war-deal-trackers",
+     "source": "Al-Monitor",
+     "published": "2026-06-19T17:30:24+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Iran denies reports of Hormuz closure, rules out IAEA inspections",
+     "link": "https://www.tehrantimes.com/news/527487/Iran-denies-reports-of-Hormuz-closure-rules-out-IAEA-inspections",
+     "source": "Tehran Times",
+     "published": "2026-06-19T17:19:05+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,156 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "5f976a20dc80",
+   "title": "‘Come On!’ CNN Host Phil Mattingly Gobsmacked By Trump Admin’s Claim The Reflecting Pool Water Is ‘Crystal Clear’",
+   "link": "https://www.mediaite.com/media/news/come-on-cnn-host-phil-mattingly-gobsmacked-by-trump-admins-claim-the-reflecting-pool-water-is-crystal-clear/",
+   "summary": "Phil Mattingly couldn't hold back his frustration when reading a post by the Interior Department about the reflecting pool's \"crystal clear water.\" The post ‘Come On!’ CNN Host Phil Mattingly Gobsmacked By Trump Admin’s Claim The Reflecting Pool Water Is ‘Crystal Clear’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:07:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c1ea17ed54fc",
+   "title": "Rick Scott Calls for Upcoming Kanye West Concert to Be Canceled: He ‘Adores Hitler!’",
+   "link": "https://www.mediaite.com/politics/rick-scott-calls-for-upcoming-kanye-west-concert-to-be-canceled-he-adores-hitler/",
+   "summary": "U.S. Sen. Rick Scott (R-FL) called for an upcoming Kanye West concert in his state to be canceled, citing West's history of anti-Semitism. The post Rick Scott Calls for Upcoming Kanye West Concert to Be Canceled: He ‘Adores Hitler!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T18:05:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e136f2a67f68",
+   "title": "\"Vance’s bold vision of a new authoritarian world, with the US at its center, seemed to be imperiled. But then came Trump’s defeat in his Iran war, and what could, surprisingly, prove to be Vance’s boldest pro-authoritarian move yet.\" — @davidrlurie.com",
+   "link": "https://bsky.app/profile/atrupar.com/post/3monwereq3c2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T18:01:36.810+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "01c29adb7978",
+   "title": "The accidental American",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/folarin-balogun-us-birthright-citizenship-fifa-world-cup-2026-00968746",
+   "summary": "World Cup star Folarin Balogun finds himself in the middle of America’s ongoing birthright citizenship debate.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T18:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cad1993f5847",
+   "title": "Chilling on JD Vance, from @davidrlurie.com www.publicnotice.co/p/vance-iran...",
+   "link": "https://bsky.app/profile/jilldlawrence.bsky.social/post/3monw3u2zos2p",
+   "summary": "",
+   "source": "@jilldlawrence",
+   "category": "trump_bsky",
+   "published": "2026-06-19T17:56:37.647+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "de82cc233e2b",
+   "title": "Jillian Michaels Unloads on Joy Reid for Claiming She Was Fired over Israel Criticism",
+   "link": "https://www.mediaite.com/online/jillian-michaels-unloads-on-joy-reid-for-claiming-she-was-fired-over-israel-criticism/",
+   "summary": "During a Friday episode of her podcast Keeping It Real, fitness influencer Jillian Michaels unloaded on independent journalist and former MS NOW host Joy Reid for claiming she was fired from the network over her criticism of Israel. The post Jillian Michaels Unloads on Joy Reid for Claiming She Was Fired over Israel Criticism first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T17:47:38+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1039f6ca8b72",
+   "title": "‘These People Are Lunatics’: Competitive DSA Candidate Sparks Fury With Answer On Deportations",
+   "link": "https://www.mediaite.com/politics/these-people-are-lunatics-competitive-dsa-candidate-sparks-fury-with-answer-on-deportations/",
+   "summary": "“These people are lunatics -- Chevalier says it is always wrong to deport anyone, even a non-citizen convicted of a serious crime.” The post ‘These People Are Lunatics’: Competitive DSA Candidate Sparks Fury With Answer On Deportations first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T17:44:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fd9aae2a02da",
+   "title": "President Trump’s Iran Agreement Is America First in Action",
+   "link": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
+   "summary": "President Donald J. Trump and Vice President JD Vance have secured a historic breakthrough by signing a Memorandum of Understanding with Iran. Forged through decisive American strength, this agreement ensures Iran will never obtain a nuclear weapon, reopens the Strait of Hormuz to free navigation, and puts America First — rejecting the failed policies of [&#8230;] The post President Trump’s Iran Agreement Is America First in Action appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-19T17:37:43+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "4eeef20d7911",
+   "title": "‘So Unbelievably Radioactive’: Jonah Goldberg Slams ‘Delusional’ Trump For Alienating US Allies",
+   "link": "https://www.mediaite.com/media/news/so-unbelievably-radioactive-jonah-goldberg-slams-delusional-trump-for-alienating-us-allies/",
+   "summary": "Jonah Goldberg slammed Donald Trump on CNN's Inside Politics for alienating U.S. allies, like Italy's Prime Minister Georgia Meloni. The post ‘So Unbelievably Radioactive’: Jonah Goldberg Slams ‘Delusional’ Trump For Alienating US Allies first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T17:37:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "00e6fa3c476d",
+   "title": "The Americans who want to see Australia do well",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/the-americans-cheering-for-australia-00968835",
+   "summary": "The Port of Seattle is showing its conflicted colors.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T17:31:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d41ede24709a",
+   "title": "You simply cannot parody these people.",
+   "link": "https://bsky.app/profile/volts.wtf/post/3montvwlyqk2o",
+   "summary": "",
+   "source": "@volts",
+   "category": "trump_bsky",
+   "published": "2026-06-19T17:17:31.488+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3401c191350f",
+   "title": "Australian media are launching a MAGA counterpress",
+   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/australia-make-america-groan-again-vs-us-00968750",
+   "summary": "Socceroo fans are seeking inspiration in a Trump catchphrase.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T17:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f6c7ed381098",
+   "title": "Barack Obama Claims Trump’s Iran Agreement May Have Left The US ‘Worse Off’ Than Before The War",
+   "link": "https://www.mediaite.com/media/news/barack-obama-claims-trumps-iran-agreement-may-have-left-the-us-worse-off-than-before-the-war/",
+   "summary": "Former President Barack Obama claimed Friday that the U.S. may be “worse off” now than before President Donald Trump began striking Iran. The post Barack Obama Claims Trump’s Iran Agreement May Have Left The US ‘Worse Off’ Than Before The War first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T16:56:52+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "7ab23f1405a9",
+   "title": "Pulte seeks major cuts in first day as intel chief",
+   "link": "https://www.politico.com/news/2026/06/19/pulte-seeks-major-cuts-in-first-day-as-intel-chief-00968831",
+   "summary": "The new acting DNI told staff at the Office of the Director of National Intelligence late Thursday that he wants a list of about 300 employees to fire in the coming weeks.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-19T16:47:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d96b3ec7874",
+   "title": "I heard that there are thousands and thousands of cases of Rep. Claudia Tenney drowning kittens in her kitchen sink. It happens all the time. But Rep. Claudia Tenney will tell you it doesn't happen because you can't prove it.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3monro6v57s27",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-19T16:37:24.259+00:00",
+   "iran_topic": false
+  },
   {
    "id": "959140ad997c",
    "title": "‘We Were More Difficult?’ View Hosts Shocked to Hear JD Vance Cite Appearance on Show as Proof He Can Handle Iran",
@@ -431,9 +581,9 @@
   },
   {
    "id": "7c84ffec6769",
-   "title": "Republican Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel",
+   "title": "Far Right Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel",
    "link": "https://www.mediaite.com/media/news/republican-lawmaker-slams-frankly-disgusting-jd-vance-comments-on-israel/",
-   "summary": "Randy Fine had some choice words for J.D. Vance after his veiled threat for the nation to \"wake up and smell the reality of the situation” with Iran. The post Republican Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel first appeared on Mediaite .",
+   "summary": "Randy Fine had some choice words for J.D. Vance after his veiled threat for the nation to \"wake up and smell the reality of the situation” with Iran. The post Far Right Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-19T16:03:38+00:00",
@@ -441,7 +591,7 @@
   },
   {
    "id": "b30e815a8443",
-   "title": "‘He has to find a way to be friends’: The political fight behind Anthropic’s export controls",
+   "title": "'They’re politically naive': The political fight behind Anthropic’s export controls",
    "link": "https://www.politico.com/news/2026/06/19/he-has-to-find-a-way-to-be-friends-the-political-fight-behind-anthropics-export-controls-00968597",
    "summary": "In an administration that rewards political deference, Anthropic’s CEO has repeatedly clashed with the White House.",
    "source": "Politico WH",
@@ -610,16 +760,6 @@
    "iran_topic": true
   },
   {
-   "id": "deecdc2c5470",
-   "title": "Going live with @paulwaldman.bsky.social today at the special time of 1pm eastern to discuss Trump's Iran surrender and the JD Vance of it all. We'll also take questions from viewers. Tune in:",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monjfcymps2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T14:09:16.643+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "fa164c716b44",
    "title": "The paint is already peeling in Trump's Reflecting Pool that cost $14 million to renovate.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3monimfjzyk2e",
@@ -750,46 +890,6 @@
    "iran_topic": true
   },
   {
-   "id": "aebd5a2ec0e7",
-   "title": "Trump: \"The War has diminished Iran! It doesn’t, any longer, have an Air Force, a Navy, Antiaircraft Equipment, Radar, or practically anything else, & yet the Dumocrats say Iran is better off now than it was four months ago. Can you imagine getting away with that??? How stupid can some people be???\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mone5blmu22o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:35:18.024+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d66b6a64a16f",
-   "title": "Just catching up to this lol",
-   "link": "https://bsky.app/profile/jessehawken.bsky.social/post/3mone42tp4k2b",
-   "summary": "",
-   "source": "@jessehawken",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:34:37.394+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b4515f6be095",
-   "title": "BARTIROMO: Look, you're an elected official. What more can you do to get Trump's agenda across the finish line? RICK SCOTT: Well, I've got to be vocal about it BARTIROMO: Yup. And how can you help him? SCOTT: Well, what I'm gonna do is be vocal about it. That's what I can do.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mone3d7e3j2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:34:12.626+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0f9a7147fe3e",
-   "title": "Sen. Rick Scott on a Kanye West show in Tampa: \"Kayne West endorsed Hitler. This is crazy ... I have a petition going on right now ... this has to get canceled.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mondzyrfvx26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:33:28.128+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "98ecbcec456f",
    "title": "Italian PM Torches Trump for Claiming She ‘Begged’ for Photo as US Warned ‘Historic Relations’ Being Threatened",
    "link": "https://www.mediaite.com/media/news/italian-prime-minister-rebukes-trump-for-claiming-she-begged-for-photo-as-us-warned-historic-relations-being-threatened/",
@@ -807,36 +907,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-19T12:14:23+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "54aaa096e109",
-   "title": "Trump’s Acting Intel Chief Kicks Off New Role by Eyeing Hundreds of Firings: Report",
-   "link": "https://www.mediaite.com/media/news/trumps-acting-intel-chief-kicks-off-new-role-by-eyeing-hundreds-of-firings-report/",
-   "summary": "President Trump's pick for new acting national security chief, Bill Pulte, kicked off his first day by reportedly eyeing hundreds of firings. The post Trump’s Acting Intel Chief Kicks Off New Role by Eyeing Hundreds of Firings: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T11:40:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3a3570d1337c",
-   "title": "Fox Host Brian Kilmeade ‘Shocked’ Over JD Vance’s Israel Comments: ‘I Wish He Would Be That Tough With Iran’",
-   "link": "https://www.mediaite.com/media/tv/fox-host-brian-kilmeade-shocked-over-jd-vances-israel-comments-i-wish-he-would-be-that-tough-with-iran/",
-   "summary": "Brian Kilmeade chided Vice President JD Vance on Friday over his remarks about Israel, hours after Vance's trip to Switzerland to formalize President Donald Trump's latest Iran deal was postponed. The post Fox Host Brian Kilmeade ‘Shocked’ Over JD Vance’s Israel Comments: ‘I Wish He Would Be That Tough With Iran’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T11:34:27+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "137997791d52",
-   "title": "US-Iran Talks Postponed Amid Israeli Strikes as White House Blames ‘Logistical Issues’",
-   "link": "https://www.mediaite.com/media/news/us-iran-talks-postponed-amid-israeli-strikes-as-white-house-blames-logistical-issues/",
-   "summary": "Vice President JD Vance's trip to Switzerland to formally sign a deal with Iran was postponed amid fresh Israeli strikes in Lebanon. The post US-Iran Talks Postponed Amid Israeli Strikes as White House Blames ‘Logistical Issues’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T10:54:08+00:00",
    "iran_topic": true
   },
   {
@@ -890,16 +960,6 @@
    "iran_topic": false
   },
   {
-   "id": "95e00b79800f",
-   "title": "Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman",
-   "link": "https://www.mediaite.com/politics/trump/owner-of-company-responsible-for-part-of-trumps-reflecting-pool-renovation-pleaded-guilty-to-bribing-congressman/",
-   "summary": "The head of the company that owns the firm responsible for part of the renovation of the Lincoln Memorial Reflecting Pool pleaded guilty to bribing a congressman. The post Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T04:07:29+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "7b0bd3369ac1",
    "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
    "link": "https://www.politico.com/video/2026/06/18/jack-schlossberg-on-trump-rfk-jr-and-the-future-of-the-democratic-party-2107033",
@@ -910,16 +970,6 @@
    "iran_topic": false
   },
   {
-   "id": "c4abe5c6fdaa",
-   "title": "John Kruk Suggests He’d Been Drinking Before Comically Horrendous At Bat Against Randy Johnson",
-   "link": "https://www.mediaite.com/media/sports/john-kruk-suggests-hed-been-drinking-before-comically-horrendous-at-bat-against-randy-johnson/",
-   "summary": "Philadelphia Phillies play-by-play man John Kruk suggested on Thursday that he had been drinking before his comically inept at bat against Randy Johnson in the 1993 MLB All-Star Game. The post John Kruk Suggests He’d Been Drinking Before Comically Horrendous At Bat Against Randy Johnson first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T03:26:06+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3196a20feeb7",
    "title": "Talarico: I was required by law to report any indication there was abuse at home, and I would hope that the top law enforcement official in Texas would be held to the same standard as a middle school teacher. Ken Paxton had the opportunity to protect a child, but instead he protected a predator",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3momerdhcrq2i",
@@ -927,56 +977,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-19T03:13:51.215+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dfd88c4d3af6",
-   "title": "Talarico: Ken Paxton let a pedophile back onto our streets. Adam Hoffman should have served 25 years to life in prison, but instead served less than 29 days. And that's because Ken Paxton gave him an Epstein style sweetheart deal.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momejixpqm2i",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-19T03:09:28.547+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "41fbf31342a9",
-   "title": "Talarico: Dan Patrick has spent decades selling out the sick and the poor and the vulnerable, all to enrich his donors. And now he's accusing me of blasphemy. Love sometimes feels blasphemous when you worship power.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3momei7ig3r2k",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-19T03:08:44.742+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e708ae0b3188",
-   "title": "Mike Florio Says GOP Official Was ‘Only Off by 117.4 Million’ With White House UFC Viewership Claim",
-   "link": "https://www.mediaite.com/media/news/mike-florio-says-gop-official-was-only-off-by-117-4-million-with-white-house-ufc-viewership-claim/",
-   "summary": "In a Thursday Pro Football Talk article, NBC Sports' Mike Florio noted that RNC Chair Joe Gruters was \"only off by 117.4 million\" in his prediction that President Donald Trump's UFC Freedom 250 event was more watched than the Super Bowl. The post Mike Florio Says GOP Official Was ‘Only Off by 117.4 Million’ With White House UFC Viewership Claim first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T02:55:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "71ef1b94685b",
-   "title": "Senators are threatening to freeze Pete Hegseth's travel budget if the Pentagon doesn't turn over more details about the deadly bombing of an Iranian girls school in February and full videos of lethal boat strikes in the waters off Latin America.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mom5lhcw6c23",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-19T01:05:17.862+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "753be4e84092",
-   "title": "Mamdani: And when we win these elections.. let it be heard by every pundit who sees a Muslim last name and tells that candidate to prepare a concession speech. Let it ring in courtrooms that mistake the Voting Rights Act as a suggestion, not the law of the land.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moly5hzd7u2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T23:28:00.002+00:00",
    "iran_topic": false
   }
  ]
