@@ -1,56 +1,60 @@
 {
- "generated": "2026-06-19T04:03:22.999566+00:00",
+ "generated": "2026-06-19T09:27:37.880724+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.1,
-   "change": -0.45,
-   "change_pct": -0.57,
+   "price": 79.39,
+   "change": -0.46,
+   "change_pct": -0.58,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
-    79.0999984741211
+    79.8499984741211,
+    79.38999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.24,
-   "change": -1.55,
-   "change_pct": -2.02,
+   "price": 75.68,
+   "change": -0.92,
+   "change_pct": -1.2,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
-    75.23999786376953
+    76.5999984741211,
+    75.68000030517578
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4177.5,
-   "change": -181.4,
-   "change_pct": -4.16,
+   "price": 4182.7,
+   "change": -41.4,
+   "change_pct": -0.98,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
-    4177.5
+    4224.10009765625,
+    4182.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.92,
-   "change": 0.83,
-   "change_pct": 0.83,
+   "price": 100.77,
+   "change": -0.08,
+   "change_pct": -0.08,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.9229965209961
+    100.8499984741211,
+    100.77200317382812
    ]
   },
   "^GSPC": {
@@ -84,28 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.4,
-   "change": -2.04,
-   "change_pct": -11.06,
+   "price": 16.88,
+   "change": 0.48,
+   "change_pct": 2.93,
    "spark": [
-    17.68000030517578,
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    16.399999618530273
+    16.399999618530273,
+    16.8799991607666
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.21,
-   "change": 0.06,
-   "change_pct": 1.97,
+   "price": 3.2,
+   "change": -0.03,
+   "change_pct": -0.87,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
-    3.2070000171661377
+    3.2330000400543213,
+    3.2049999237060547
    ]
   }
  },
@@ -219,7 +224,42 @@
    "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
    "source": "Press TV",
-   "published": "2026-06-19T04:02:45.203120+00:00",
+   "published": "2026-06-19T09:26:53.775684+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says",
+   "link": "https://www.al-monitor.com/originals/2026/06/japan-owned-vessel-passed-through-strait-hormuz-friday-japan-says",
+   "source": "Al-Monitor",
+   "published": "2026-06-19T09:01:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says reut.rs/4vkYI5d",
+   "link": "https://bsky.app/profile/reuters.com/post/3momxbu2h5u2q",
+   "source": "@reuters",
+   "published": "2026-06-19T08:45:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "LIVE: Vessel traffic in Strait of Hormuz after US-Iran peace talks postponed www.youtube.com/live/eeQWFX3...",
+   "link": "https://bsky.app/profile/reuters.com/post/3momwk5xqrc2z",
+   "source": "@reuters",
+   "published": "2026-06-19T08:31:58.049+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
+   "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-19T07:19:53+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran waives Strait of Hormuz transit fees for 60 days",
+   "link": "https://en.irna.ir/news/86186884/Iran-waives-Strait-of-Hormuz-transit-fees-for-60-days",
+   "source": "IRNA",
+   "published": "2026-06-19T05:04:49+00:00",
    "severity": "info"
   },
   {
@@ -284,41 +324,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-18T15:30:20+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Oil sinks on Mideast deal, but Fed outlook knocks equities",
-   "link": "https://www.al-monitor.com/originals/2026/06/oil-sinks-mideast-deal-fed-outlook-knocks-equities",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T14:30:17+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US stocks resume upward climb as dollar advances again after Fed outlook",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-stocks-resume-upward-climb-dollar-advances-again-after-fed-outlook",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T14:30:17+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "'Duplicitous' or neutral? How Oman incurred Trump's wrath",
-   "link": "https://www.al-monitor.com/originals/2026/06/duplicitous-or-neutral-how-oman-incurred-trumps-wrath",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T13:00:20+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Germany deploys ships to Red Sea for possible Hormuz mission, minister says",
-   "link": "https://www.al-monitor.com/originals/2026/06/germany-deploys-ships-red-sea-possible-hormuz-mission-minister-says",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T12:36:41+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says it will charge a ‘payment for services’ in the Strait of Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-18T12:23:19+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 8,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
      "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
      "source": "Press TV",
-     "published": "2026-06-19T04:02:45.203120+00:00",
+     "published": "2026-06-19T09:26:53.775684+00:00",
      "severity": "info"
     },
     {
-     "title": "Oil falls as supply starts moving through Strait of Hormuz reut.rs/4acKFpL",
-     "link": "https://bsky.app/profile/reuters.com/post/3mombrmaz642b",
-     "source": "@reuters",
-     "published": "2026-06-19T02:20:19+00:00",
+     "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says",
+     "link": "https://www.al-monitor.com/originals/2026/06/japan-owned-vessel-passed-through-strait-hormuz-friday-japan-says",
+     "source": "Al-Monitor",
+     "published": "2026-06-19T09:01:51+00:00",
      "severity": "info"
     },
     {
-     "title": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business reut.rs/4eB6mkQ",
-     "link": "https://bsky.app/profile/reuters.com/post/3moluxidfuk24",
+     "title": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says reut.rs/4vkYI5d",
+     "link": "https://bsky.app/profile/reuters.com/post/3momxbu2h5u2q",
      "source": "@reuters",
-     "published": "2026-06-18T22:30:57+00:00",
+     "published": "2026-06-19T08:45:12+00:00",
      "severity": "info"
     }
    ]
@@ -355,20 +360,13 @@
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
    "status": "ACTIVE",
-   "incident_count": 2,
+   "incident_count": 1,
    "recent": [
     {
      "title": "Pirate attacks on ships in the Gulf of Aden are on the rise",
      "link": "https://www.longwarjournal.org/archives/2026/06/pirate-attacks-on-shipping-in-the-gulf-of-aden-are-on-the-rise.php",
      "source": "Long War Journal",
      "published": "2026-06-18T17:53:33+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Germany deploys ships to Red Sea for possible Hormuz mission, minister says",
-     "link": "https://www.al-monitor.com/originals/2026/06/germany-deploys-ships-red-sea-possible-hormuz-mission-minister-says",
-     "source": "Al-Monitor",
-     "published": "2026-06-18T12:36:41+00:00",
      "severity": "info"
     }
    ]
@@ -389,6 +387,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "59a411f944fc",
+   "title": "The nation’s cartoonists on the week in politics",
+   "link": "https://www.politico.com/gallery/2026/06/19/the-nations-cartoonists-on-the-week-in-politics-00967867",
+   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T09:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "26bdf0bd2d87",
+   "title": "Matt Dunlap beats DCCC-backed candidate in primary for top Maine battleground",
+   "link": "https://www.politico.com/dunlap-wins-maine-house-primary",
+   "summary": "The seat has become a priority target for both parties following Democratic Rep. Jared Golden’s decision not to run for reelection.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T06:01:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dbc41a6fc91a",
+   "title": "Democrat Hannah Pingree and MAGA ally Bobby Charles will face off for Maine governor",
+   "link": "https://www.politico.com/hannah-pingree-bobby-charles-maine-governor",
+   "summary": "Both emerged from the state’s ranked choice voting process early Friday morning.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-19T05:56:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ba5bf850f145",
+   "title": "By whom?",
+   "link": "https://bsky.app/profile/douglindner.bsky.social/post/3moml4mhyds2k",
+   "summary": "",
+   "source": "@douglindner",
+   "category": "trump_bsky",
+   "published": "2026-06-19T05:07:32.339+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bf4d2d99d9da",
+   "title": "CAPUTO: At the beginning of the conflict, you talked about how you only wanted unconditional surrender. The MOU doesn't look like unconditional surrender. TRUMP: It really probably is unconditional surrender CAPUTO: It is?",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moml3cgzc22s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T05:06:48.246+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "95e00b79800f",
+   "title": "Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman",
+   "link": "https://www.mediaite.com/politics/trump/owner-of-company-responsible-for-part-of-trumps-reflecting-pool-renovation-pleaded-guilty-to-bribing-congressman/",
+   "summary": "The head of the company that owns the firm responsible for part of the renovation of the Lincoln Memorial Reflecting Pool pleaded guilty to bribing a congressman. The post Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-19T04:07:29+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "95e00b79800f",
+   "title": "Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman",
+   "link": "https://www.mediaite.com/politics/trump/owner-of-company-responsible-for-part-of-trumps-reflecting-pool-renovation-pleaded-guilty-to-bribing-congressman/",
+   "summary": "The head of the company that owns the firm responsible for part of the renovation of the Lincoln Memorial Reflecting Pool pleaded guilty to bribing a congressman. The post Owner of Company Responsible for Part of Trump’s Reflecting Pool Renovation Pleaded Guilty to Bribing Congressman first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T04:07:29+00:00",
+   "iran_topic": false
+  },
   {
    "id": "7b0bd3369ac1",
    "title": "Jack Schlossberg on Trump, RFK Jr. and the future of the Democratic Party",
@@ -830,16 +898,6 @@
    "iran_topic": false
   },
   {
-   "id": "57634db72bfd",
-   "title": "more bad sounds coming from the area of Trump's body",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molqa5reep2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T21:06:20.087+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "989b13ab1cf2",
    "title": "lmfao",
    "link": "https://bsky.app/profile/brandondryrock.bsky.social/post/3molq7zl5f22k",
@@ -847,16 +905,6 @@
    "source": "@brandondryrock",
    "category": "trump_bsky",
    "published": "2026-06-18T21:06:15.708+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3e7089428278",
-   "title": "Trump: \"His commanding officer was tragically before the paperwork was signed. That's a bad break, but now you're doing it. Maybe this is better. You had to wait a little while, didn't you, eh?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3molq75bixx2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-18T21:05:46.009+00:00",
    "iran_topic": false
   },
   {
@@ -920,16 +968,6 @@
    "iran_topic": true
   },
   {
-   "id": "0330bb095646",
-   "title": "WATCH: NYPD Officers Grab a Knicks Player and Yank Him from the Parade Mistaking Him for a Fan",
-   "link": "https://www.mediaite.com/media/sports/watch-nypd-officers-grab-a-knicks-player-and-yank-him-from-the-parade-mistaking-him-for-a-fan/",
-   "summary": "Tyler Kolek may play for NBA champions the New York Knicks, but he wasn't recognizable to NYPD officers during a Thursday celebration. The post WATCH: NYPD Officers Grab a Knicks Player and Yank Him from the Parade Mistaking Him for a Fan first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T19:58:01+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "15d005e5ff15",
    "title": "White House scheduled to meet with groups on AI and kids’ safety bills",
    "link": "https://www.politico.com/live-updates/2026/06/18/congress/white-house-meet-groups-ai-kids-safety-bills-00967799",
@@ -947,46 +985,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-18T19:37:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6e72782e28d2",
-   "title": "Effects of Banning Anti-Competitive Hospital Contracts",
-   "link": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
-   "summary": "Executive Summary Anti-steering, anti-tiering, and all-or-nothing bundled contracting are mechanisms by which dominant hospital systems insulate themselves from price competition: anti-steering prohibits insurers from directing patients toward lower-cost providers; anti-tiering is one form of anti-steering that bars insurers from placing the dominant system in a less favorable benefit tier; and all-or-nothing contracting requires insurers to [&#8230;] The post Effects of Banning Anti-Competitive Hospital Contracts appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-18T19:31:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9bf78bbaa565",
-   "title": "President Obama shouts out \"those ordinary people in the Twin Cities, who braved frigid temperatures, risked their own safety, standing shoulder to shoulder to look out for their neighbors and, sometimes, look out for strangers because they knew that was the right thing to do.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moli45pi3222",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:40:55.893+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6fb13636a024",
-   "title": "Obama: I am not immune to anger or doubt. But I do know this when we lose faith in each other, when we stop believing that voting matters… we open the door to the most ruthless or the most careless, or the most fearful among us who see some groups and some people as more equal than others",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhy2dkon23",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:38:38.004+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "91568fc42170",
-   "title": "Obama: Shared values that make democracy possible. A belief that our military and law enforcement owe allegiance not to any president or political party, but to the people and our constitution. A belief in the peaceful transfer of power after the people have spoken in fair and free elections.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3molhr2mrmt2z",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-18T18:34:43.443+00:00",
    "iran_topic": false
   }
  ]
