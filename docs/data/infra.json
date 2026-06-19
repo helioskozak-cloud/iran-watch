@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-19T09:27:37.880724+00:00",
+ "generated": "2026-06-19T10:18:12.697466+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.39,
-   "change": -0.46,
-   "change_pct": -0.58,
+   "price": 79.48,
+   "change": -0.37,
+   "change_pct": -0.46,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    79.38999938964844
+    79.4800033569336
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.68,
-   "change": -0.92,
-   "change_pct": -1.2,
+   "price": 75.78,
+   "change": -0.82,
+   "change_pct": -1.07,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    75.68000030517578
+    75.77999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4182.7,
-   "change": -41.4,
-   "change_pct": -0.98,
+   "price": 4173.6,
+   "change": -50.5,
+   "change_pct": -1.2,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4182.7001953125
+    4173.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.77,
-   "change": -0.08,
-   "change_pct": -0.08,
+   "price": 100.78,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
     100.8499984741211,
-    100.77200317382812
+    100.77999877929688
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.88,
-   "change": 0.48,
-   "change_pct": 2.93,
+   "price": 16.89,
+   "change": 0.49,
+   "change_pct": 2.99,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
     16.399999618530273,
-    16.8799991607666
+    16.889999389648438
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.2,
-   "change": -0.03,
-   "change_pct": -0.87,
+   "price": 3.21,
+   "change": -0.02,
+   "change_pct": -0.59,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.2049999237060547
+    3.2139999866485596
    ]
   }
  },
@@ -221,10 +221,17 @@
  ],
  "incidents": [
   {
+   "title": "WATCH: IDF strikes 80 Hezbollah targets, kills dozens of terrorists following ceasefire violations",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-899933",
+   "source": "Jerusalem Post",
+   "published": "2026-06-19T12:35:28+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
    "source": "Press TV",
-   "published": "2026-06-19T09:26:53.775684+00:00",
+   "published": "2026-06-19T10:17:34.851921+00:00",
    "severity": "info"
   },
   {
@@ -317,13 +324,6 @@
    "source": "Times of Israel",
    "published": "2026-06-18T15:52:58+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Oil tankers pass Hormuz Strait after war deal: tracker",
-   "link": "https://www.al-monitor.com/originals/2026/06/oil-tankers-pass-hormuz-strait-after-war-deal-tracker",
-   "source": "Al-Monitor",
-   "published": "2026-06-18T15:30:20+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 10,
    "recent": [
     {
      "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
      "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
      "source": "Press TV",
-     "published": "2026-06-19T09:26:53.775684+00:00",
+     "published": "2026-06-19T10:17:34.851921+00:00",
      "severity": "info"
     },
     {
