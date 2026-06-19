@@ -1,46 +1,46 @@
 {
- "generated": "2026-06-19T13:54:18.544090+00:00",
+ "generated": "2026-06-19T16:30:49.849411+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 79.57,
-   "change": -0.28,
-   "change_pct": -0.35,
+   "price": 80.66,
+   "change": 0.81,
+   "change_pct": 1.01,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    79.56999969482422
+    80.66000366210938
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 75.87,
-   "change": -0.73,
-   "change_pct": -0.95,
+   "price": 76.59,
+   "change": -0.01,
+   "change_pct": -0.01,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    75.87000274658203
+    76.58999633789062
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4176.7,
-   "change": -47.4,
-   "change_pct": -1.12,
+   "price": 4163.8,
+   "change": -60.3,
+   "change_pct": -1.43,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4176.7001953125
+    4163.7998046875
    ]
   },
   "DX-Y.NYB": {
@@ -54,7 +54,7 @@
     99.54000091552734,
     100.08999633789062,
     100.8499984741211,
-    100.81600189208984
+    100.822998046875
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.85,
-   "change": 0.45,
-   "change_pct": 2.74,
+   "price": 16.78,
+   "change": 0.38,
+   "change_pct": 2.32,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
     16.399999618530273,
-    16.850000381469727
+    16.780000686645508
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.25,
-   "change": 0.02,
-   "change_pct": 0.56,
+   "price": 3.2,
+   "change": -0.03,
+   "change_pct": -0.96,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.250999927520752
+    3.2019999027252197
    ]
   }
  },
@@ -224,14 +224,42 @@
    "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
    "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
    "source": "Press TV",
-   "published": "2026-06-19T13:53:43.113247+00:00",
+   "published": "2026-06-19T16:30:04.119407+00:00",
    "severity": "info"
   },
   {
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
    "source": "Press TV",
-   "published": "2026-06-19T13:53:43.112286+00:00",
+   "published": "2026-06-19T16:30:04.118601+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran imposes mandatory insurance on ships transiting Strait of Hormuz, with fees likely to follow",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ua5363/iran_imposes_mandatory_insurance_on_ships/",
+   "source": "r/worldnews",
+   "published": "2026-06-19T15:30:15+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UAE's ADNOC offers crude, buyers can load inside Hormuz, trade sources say reut.rs/43HOa43",
+   "link": "https://bsky.app/profile/reuters.com/post/3monn3gvixt2r",
+   "source": "@reuters",
+   "published": "2026-06-19T15:15:20+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran rejects claims of Hormuz closure, says commercial shipping continues",
+   "link": "https://en.irna.ir/news/86187279/Iran-rejects-claims-of-Hormuz-closure-says-commercial-shipping",
+   "source": "IRNA",
+   "published": "2026-06-19T15:10:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says it will waive fees for Hormuz during 60 day negotiation period reut.rs/3SjvAN4",
+   "link": "https://bsky.app/profile/reuters.com/post/3monmse4wxr2v",
+   "source": "@reuters",
+   "published": "2026-06-19T15:10:15+00:00",
    "severity": "info"
   },
   {
@@ -296,34 +324,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-19T07:19:53+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran waives Strait of Hormuz transit fees for 60 days",
-   "link": "https://en.irna.ir/news/86186884/Iran-waives-Strait-of-Hormuz-transit-fees-for-60-days",
-   "source": "IRNA",
-   "published": "2026-06-19T05:04:49+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Oil falls as supply starts moving through Strait of Hormuz reut.rs/4acKFpL",
-   "link": "https://bsky.app/profile/reuters.com/post/3mombrmaz642b",
-   "source": "@reuters",
-   "published": "2026-06-19T02:20:19+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business reut.rs/4eB6mkQ",
-   "link": "https://bsky.app/profile/reuters.com/post/3moluxidfuk24",
-   "source": "@reuters",
-   "published": "2026-06-18T22:30:57+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
-   "link": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-18T20:19:39+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 13,
    "recent": [
     {
      "title": "Iran sets 60-day free transit window for Hormuz shipping under MoU",
      "link": "https://presstv.ir/Detail/2026/06/18/770697/Iran-sets-60-day-free-transit-window-for-Hormuz-shipping-under-Islamabad-MoU",
      "source": "Press TV",
-     "published": "2026-06-19T13:53:43.113247+00:00",
+     "published": "2026-06-19T16:30:04.119407+00:00",
      "severity": "info"
     },
     {
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-19T13:53:43.112286+00:00",
+     "published": "2026-06-19T16:30:04.118601+00:00",
      "severity": "info"
     },
     {
-     "title": "Strait Of Hormuz Shut Again: Iran's Navy Issues Warning After Israeli Strikes On Lebanon",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ua2973/strait_of_hormuz_shut_again_irans_navy_issues/",
+     "title": "Iran imposes mandatory insurance on ships transiting Strait of Hormuz, with fees likely to follow",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ua5363/iran_imposes_mandatory_insurance_on_ships/",
      "source": "r/worldnews",
-     "published": "2026-06-19T13:37:34+00:00",
+     "published": "2026-06-19T15:30:15+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,256 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "959140ad997c",
+   "title": "‘We Were More Difficult?’ View Hosts Shocked to Hear JD Vance Cite Appearance on Show as Proof He Can Handle Iran",
+   "link": "https://www.mediaite.com/media/tv/we-were-more-difficult-view-hosts-shocked-to-hear-jd-vance-cite-appearance-on-show-as-proof-he-can-handle-iran/",
+   "summary": "The hosts of The View were surprised to hear their show cited by Vice President JD Vance while he was discussing negotiating with Iran. The post ‘We Were More Difficult?’ View Hosts Shocked to Hear JD Vance Cite Appearance on Show as Proof He Can Handle Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T16:18:37+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f850876254fa",
+   "title": "CNN’s Harry Enten Breaks Down ‘Stunning’ Rise of Democratic Socialists in Dem Party",
+   "link": "https://www.mediaite.com/politics/cnns-harry-enten-breaks-down-stunning-rise-of-democratic-socialists-in-dem-party/",
+   "summary": "“Yeah, this to me is one of the more stunning trends, right, that I have seen in covering politics over the last 15, 16 years,” Enten said The post CNN’s Harry Enten Breaks Down ‘Stunning’ Rise of Democratic Socialists in Dem Party first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T16:14:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "489c4cf4ca25",
+   "title": "JD Vance envisions a future in which the United States sheds its alliances with democracies, and partners instead with the world's most repressive and brutal autocracies, including Putin's Russia and its close ally in bloodletting, the theocratic dictatorship of Iran.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3monqcutfv22a",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-19T16:13:10.877+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8b1d5e57d85a",
+   "title": "A major flu outbreak has sickened nearly 160 troops at Lackland Air Force Base in Texas less than two months after Pete Hegseth announced that U.S. troops would no longer be required to be vaccinated for the flu.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3monq65ajek2z",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T16:10:31.922+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ea699cd1340",
+   "title": "Your Honor, the Government contends this person committed murder. I can’t prove it but the vibes say he committed the murder.",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3monq4wi22k2a",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-06-19T16:09:51.275+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7c84ffec6769",
+   "title": "Republican Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel",
+   "link": "https://www.mediaite.com/media/news/republican-lawmaker-slams-frankly-disgusting-jd-vance-comments-on-israel/",
+   "summary": "Randy Fine had some choice words for J.D. Vance after his veiled threat for the nation to \"wake up and smell the reality of the situation” with Iran. The post Republican Lawmaker Slams ‘Frankly Disgusting’ JD Vance Comments on Israel first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T16:03:38+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b30e815a8443",
+   "title": "‘He has to find a way to be friends’: The political fight behind Anthropic’s export controls",
+   "link": "https://www.politico.com/news/2026/06/19/he-has-to-find-a-way-to-be-friends-the-political-fight-behind-anthropics-export-controls-00968597",
+   "summary": "In an administration that rewards political deference, Anthropic’s CEO has repeatedly clashed with the White House.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-19T16:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "276f0bc843fa",
+   "title": "\"I'm a big supporter of Trump, but....\"",
+   "link": "https://bsky.app/profile/gottalaff.bsky.social/post/3monowg7zuk2o",
+   "summary": "",
+   "source": "@gottalaff",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:48:19.061+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "82e82a529225",
+   "title": "Losing is the new winning.",
+   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3monorkzk422z",
+   "summary": "",
+   "source": "@missingthept",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:45:36.424+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "67c99781285b",
+   "title": "wow -- Newsmax hosts are not mincing words about the fact that Trump lost his war against Iran",
+   "link": "https://bsky.app/profile/atrupar.com/post/3monom4xltv2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:42:33.929+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "cff8663874a2",
+   "title": "Rep. Glenn Grothman is so close to figuring it out on Iran: \"Sometimes they don't act like they lost this war\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3monojyqqbv2z",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:41:20.651+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8086c1340be3",
+   "title": "CAPUTO: Are you gonna be able to control Israel from attacking Lebanon? TRUMP: Yeah, I will be. CAPUTO: How? TRUMP: They have a lot of respect for me. And they do as I say.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3monocoagme26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:37:15.196+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "66ae04e12392",
+   "title": "‘Let’s Give Trump Credit’: James Carville Praises President for Striking Iran Deal Despite ‘Surrender’",
+   "link": "https://www.mediaite.com/politics/lets-give-trump-credit-james-carville-praises-president-for-striking-iran-deal-despite-surrender/",
+   "summary": "James Carville called President Donald Trump's peace deal with Iran a \"surrender,\" but praised the president for getting out of the conflict anyway. The post ‘Let’s Give Trump Credit’: James Carville Praises President for Striking Iran Deal Despite ‘Surrender’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T15:37:15+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ecd592bbf0ab",
+   "title": "only somebody as profoundly stupid as JD Vance could possibly think that allying the US with faltering has-beens like Russia and corrupt regimes like Netanyahu's (and Orban's, remember him?) instead of strong, capable, democratic countries like Germany, Australia, Japan, Canada etc would be smart",
+   "link": "https://bsky.app/profile/wendella.bsky.social/post/3monnyymksk2x",
+   "summary": "",
+   "source": "@wendella",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:31:51.818+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "290575200285",
+   "title": "‘Hideous’: Left and Right Slam Israeli Minister Declaring ‘All of Lebanon Must Burn’",
+   "link": "https://www.mediaite.com/politics/hideous-left-and-right-slam-israeli-minister-declaring-all-of-lebanon-must-burn/",
+   "summary": "Jake Tapper replied, “Ben Gvir, an anti-Arab racist zealot, says ‘all of Lebanon must burn.’ That’s almost 6 million people. Hideous.” The post ‘Hideous’: Left and Right Slam Israeli Minister Declaring ‘All of Lebanon Must Burn’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T15:09:39+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "e989c2773452",
+   "title": "JD Vance wants to revive the fascism-friendly ideology of the 1940 \"America First\" movement, and make it central to US foreign policy in the 21st Century, as I discussed in PN.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3monmi7esvc2u",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-19T15:04:34.737+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7de219a93cd1",
+   "title": "‘You Don’t Really Believe That’: Chris Cuomo Presses James Carville on His Viral Trump Prediction",
+   "link": "https://www.mediaite.com/media/tv/you-dont-really-believe-that-chris-cuomo-presses-james-carville-on-his-viral-trump-prediction/",
+   "summary": "Chris Cuomo pressed James Carville on whether he's actually serious about his viral prediction that President Trump will resign from office by the spring. The post ‘You Don’t Really Believe That’: Chris Cuomo Presses James Carville on His Viral Trump Prediction first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:51:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "51977a3b9c42",
+   "title": "MORE: The Reflecting Pool has more algae in it than at any recorded point in the month of June for at least five years, according to a specialized analysis of satellite data. tinyurl.com/3r4th9fc",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3monlozypuc2q",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T14:50:30.238+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0df095bf0233",
+   "title": "‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting",
+   "link": "https://www.mediaite.com/media/news/they-get-no-money-trump-insists-iran-is-finished-as-peace-deal-talks-delayed-by-fighting/",
+   "summary": "President Trump insisted Iran is \"FINISHED\" and the U.S. will \"play out\" a 60-day ceasefire following negotiations being delayed by fighting in the region. The post ‘They Get No Money!’: Trump Insists Iran Is ‘FINISHED’ as Peace Deal Talks Delayed by Fighting first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:47:18+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "92aaffd9c9a4",
+   "title": "Top Trump Donor Miriam Adelson’s Newspaper Runs Scathing Open Letter to Prez: ‘You Failed’",
+   "link": "https://www.mediaite.com/media/news/top-trump-donor-miriam-adelsons-newspaper-runs-scathing-open-letter-to-prez-you-failed/",
+   "summary": "An Israeli newspaper owned by Trump megadonor Miriam Adelson is attacking the president over his actions in the Iran war, accusing him of \"betraying\" Israel and saying he has \"failed.\" The post Top Trump Donor Miriam Adelson’s Newspaper Runs Scathing Open Letter to Prez: ‘You Failed’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:39:25+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b61afe1b6a0e",
+   "title": "‘I Stand By What I Said!’: Republican Lawmaker Gets Testy as He’s Confronted on MS NOW With Past Statement on Iran",
+   "link": "https://www.mediaite.com/media/tv/i-stand-by-what-i-said-republican-lawmaker-gets-testy-as-hes-confronted-on-ms-now-with-past-statement-on-iran/",
+   "summary": "Things got heated on Morning Joe on Friday as Rep. Mike Turner (R-OH) was confronted with a past statement on Iran negotiations under Biden. The post ‘I Stand By What I Said!’: Republican Lawmaker Gets Testy as He’s Confronted on MS NOW With Past Statement on Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:36:23+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6decd11b34d0",
+   "title": "BREAKING: Israel and Hezbollah Agree to Ceasefire",
+   "link": "https://www.mediaite.com/media/news/breaking-israel-and-hezbollah-agree-to-ceasefire/",
+   "summary": "The ceasefire renewal comes after 18 people were killed in Lebanon following overnight Israeli air strikes, despite the U.S.-Iran MOU. The post BREAKING: Israel and Hezbollah Agree to Ceasefire first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:13:55+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fcc9a6b98040",
+   "title": "Trump Called His Own Commerce Secretary a ‘P*ssy’ in Heated Tariff Fight: New Book",
+   "link": "https://www.mediaite.com/media/news/trump-called-his-own-commerce-secretary-a-pssy-in-heated-tariff-fight-according-to-new-book/",
+   "summary": "President Donald Trump torched Commerce Secretary Howard Lutnick during a disagreement on tariffs, calling him a \"p*ssy,\" according to a new book. The post Trump Called His Own Commerce Secretary a ‘P*ssy’ in Heated Tariff Fight: New Book first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-19T14:13:10+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "deecdc2c5470",
+   "title": "Going live with @paulwaldman.bsky.social today at the special time of 1pm eastern to discuss Trump's Iran surrender and the JD Vance of it all. We'll also take questions from viewers. Tune in:",
+   "link": "https://bsky.app/profile/atrupar.com/post/3monjfcymps2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-19T14:09:16.643+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fa164c716b44",
+   "title": "The paint is already peeling in Trump's Reflecting Pool that cost $14 million to renovate.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3monimfjzyk2e",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-19T13:55:20.451+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f62e0d2092bf",
    "title": "This is painful to watch. Makes me wonder how he ties his shoes in the morning, cause he's reached the slip-on stage of life.",
@@ -550,46 +800,6 @@
    "iran_topic": false
   },
   {
-   "id": "a4fffd83fb1b",
-   "title": "Sam Stein points out to Rep. Mike Turner that his line on Iran has completely shifted from 2021 (when he was saying Biden negotiating with Iran was bad) and now (when he's saying Trump negotiating with Iran is good), but instead of acknowledging his hypocrisy, Turner has a performative crash out",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mondlbxzb72g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:25:14.455+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "766b582a395a",
-   "title": "Rick Scott: \"I mean, the president is busting his butt every day. They guy, I don't think he takes a vacation. He works every day.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mondkjbty226",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:24:48.561+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "952a4589ee78",
-   "title": "Trust and Don’t Verify",
-   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mond5a2s6k2m",
-   "summary": "",
-   "source": "@missingthept",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:17:22.683+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2ef0f7e099ea",
-   "title": "KAY: There's no commitment in this MOU for Iran not becoming a nuclear state REP. MIKE TURNER: It actually expressly states that- 'the Islamic Republic confirms that it shall not procure or develop nukes' K: Which was the first sentence of the JCPOA, but that was backed up by an inspections regime",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mond2zokyj2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T12:16:08.866+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "4d39748a6d8e",
    "title": "CNN’s Anderson Cooper Torpedoes Trump ‘Unconditional Surrender’ Claim: ‘Keeping Them Honest-‘",
    "link": "https://www.mediaite.com/media/tv/cnns-anderson-cooper-torpedoes-trump-unconditional-surrender-claim-keeping-them-honest/",
@@ -597,46 +807,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-19T12:14:23+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "e633dc4483e6",
-   "title": "“It happens all the time but I can’t prove it.”",
-   "link": "https://bsky.app/profile/charlesgaba.com/post/3monbzfh5ek24",
-   "summary": "",
-   "source": "@charlesgaba",
-   "category": "trump_bsky",
-   "published": "2026-06-19T11:57:20.370+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d67f6a85e22",
-   "title": "Rep. Claudia Tenney: \"There are thousands and thousands of cases of people voting in the wrong place, at the wrong time. This happens all the time. But the Democrats want to tell you it doesn't happen because you can't prove it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monbtdenaa2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T11:53:56.847+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b20bc79d6b3b",
-   "title": "BARTIROMO: Should Americans be concerned about this lapse in security because you were unable to get FISA extended? REP. CLAUDIA TENNEY: I do think Americans should be concerned because of the policies of Obama and Biden",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monbpvnzho2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T11:52:01.809+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e01f78c9a3ce",
-   "title": "New in PN: JD Vance's axis of authoritarianism \"While the Iran war was a resounding defeat for the United States, Vance’s 'peace deal' could be a key step toward implementing his plan to place America in alliance with authoritarian regimes across the globe.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3monb5blfis2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T11:41:36.791+00:00",
    "iran_topic": true
   },
   {
@@ -707,26 +877,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-19T05:56:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ba5bf850f145",
-   "title": "By whom?",
-   "link": "https://bsky.app/profile/douglindner.bsky.social/post/3moml4mhyds2k",
-   "summary": "",
-   "source": "@douglindner",
-   "category": "trump_bsky",
-   "published": "2026-06-19T05:07:32.339+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bf4d2d99d9da",
-   "title": "CAPUTO: At the beginning of the conflict, you talked about how you only wanted unconditional surrender. The MOU doesn't look like unconditional surrender. TRUMP: It really probably is unconditional surrender CAPUTO: It is?",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moml3cgzc22s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-19T05:06:48.246+00:00",
    "iran_topic": false
   },
   {
@@ -810,26 +960,6 @@
    "iran_topic": false
   },
   {
-   "id": "065c5cc3d6ad",
-   "title": "‘It’s Literally What Happened!’ Tarlov Erupts on Watters Over False Claim About Child Molester",
-   "link": "https://www.mediaite.com/media/tv/its-literally-what-happened-tarlov-erupts-on-watters-over-false-claim-about-child-molester/",
-   "summary": "Fox News's Jessica Tarlov went off on co-host Jesse Watters after the latter denied a demonstrable fact about the lenient deal a child molester received in Texas. The post ‘It’s Literally What Happened!’ Tarlov Erupts on Watters Over False Claim About Child Molester first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T02:40:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "57a6abc61b9e",
-   "title": "White House Staff Reportedly Monitored Trump’s Trash Because ‘He Was Sometimes Throwing Out’ High-End Silverware",
-   "link": "https://www.mediaite.com/media/news/white-house-staff-reportedly-monitored-trumps-trash-because-he-was-sometimes-throwing-out-high-end-silverware/",
-   "summary": "\"A nighttime snacker, the President would frequently leave an array of empty potato chip bags, Starbucks wrappers, and ice cream cartons in the trash, or on the floor.\" The post White House Staff Reportedly Monitored Trump’s Trash Because ‘He Was Sometimes Throwing Out’ High-End Silverware first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T02:04:40+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "71ef1b94685b",
    "title": "Senators are threatening to freeze Pete Hegseth's travel budget if the Pentagon doesn't turn over more details about the deadly bombing of an Iranian girls school in February and full videos of lethal boat strikes in the waters off Latin America.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mom5lhcw6c23",
@@ -840,26 +970,6 @@
    "iran_topic": true
   },
   {
-   "id": "4502f27802f8",
-   "title": "Trump Reportedly Bragged About Being More Powerful Than Hitler by Citing ‘Historian’ Who Turned Out Be Gary Player’s Caddie",
-   "link": "https://www.mediaite.com/media/tv/trump-reportedly-bragged-about-being-more-powerful-than-hitler-by-citing-historian-who-turned-out-be-gary-players-caddie/",
-   "summary": "On Wednesday, CNN's Jamie Gangel discussed new reporting from The New York Times' Jonathan Swan and Maggie Haberman that detailed an instance in which President Donald Trump allegedly bragged about being more powerful than Adolf Hitler and Joseph Stalin — citing a \"historian\" who turned out to be former professional golfer Gary Player's caddie. The post Trump Reportedly Bragged About Being More Powerful Than Hitler by Citing ‘Historian’ Who Turned Out Be Gary Player’s Caddie first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T00:21:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ea82e8d93c36",
-   "title": "Reporter Gobsmacked as Trump Claims He Got ‘Unconditional Surrender’ From Iran: ‘It Is?’",
-   "link": "https://www.mediaite.com/media/tv/trump-claims-he-got-unconditional-surrender-from-iran/",
-   "summary": "President Donald Trump told an incredulous reporter on Thursday that the U.S. had bombarded Iran into \"unconditional surrender.\" The post Reporter Gobsmacked as Trump Claims He Got ‘Unconditional Surrender’ From Iran: ‘It Is?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T23:52:47+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "753be4e84092",
    "title": "Mamdani: And when we win these elections.. let it be heard by every pundit who sees a Muslim last name and tells that candidate to prepare a concession speech. Let it ring in courtrooms that mistake the Voting Rights Act as a suggestion, not the law of the land.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3moly5hzd7u2v",
@@ -867,116 +977,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-18T23:28:00.002+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ef72f9b77beb",
-   "title": "Air Force Base Hit by Flu Outbreak After Pete Hegseth Ends Vaccine Mandate",
-   "link": "https://www.mediaite.com/media/news/air-force-base-hit-by-flu-outbreak-after-pete-hegseth-ends-vaccine-mandate/",
-   "summary": "A flu outbreak has swept through an Air Force basic training facility in Texas just two months after Defense Secretary Pete Hegseth ended the military's longstanding requirement that service members receive annual flu vaccinations, according to a Thursday report from ABC News. The post Air Force Base Hit by Flu Outbreak After Pete Hegseth Ends Vaccine Mandate first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T23:23:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fc44e25931d1",
-   "title": "BREAKING: Asked by Axios what he'd learned from the Iran war about the limits to his power, Trump said: \"There are no limits.\" \"I haven't learned that lesson yet. I know there are, but there are no limits.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molxrcb3sk22",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T23:21:11.434+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "838466d9d56d",
-   "title": "‘The Algae Seems To Be Winning’: Trump’s New Reflecting Pool Paint Is Peeling Off",
-   "link": "https://www.mediaite.com/media/news/the-algae-seems-to-be-winning-trumps-new-reflecting-pool-paint-is-peeling-off/",
-   "summary": "A major algae bloom and peeling paint are already plaguing President Donald Trump's new Lincoln Memorial Reflecting Pool just days after its completion, with ABC News' Jonathan Karl writing via X on Thursday, \"The algae seems to be winning.\" The post ‘The Algae Seems To Be Winning’: Trump’s New Reflecting Pool Paint Is Peeling Off first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T22:58:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b85cdb8c1222",
-   "title": "UFC Fighter Who Called Michelle Obama a Man Posts ‘Apology’ That Seems to Be More Trolling",
-   "link": "https://www.mediaite.com/media/sports/ufc-fighter-who-called-michelle-obama-a-man-posts-apology-that-seems-to-be-more-trolling/",
-   "summary": "UFC fighter Josh Hokit posted on his Instagram account what appeared at first glance to be an apology for comments he made calling former First Lady Michelle Obama a man but seems like it might in fact be more trolling. The post UFC Fighter Who Called Michelle Obama a Man Posts ‘Apology’ That Seems to Be More Trolling first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T22:57:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cfa456d822b6",
-   "title": "‘Firstclass Groveling’: Explosive Book Details Musk And Trump Mocking Bezos And Zuckerberg",
-   "link": "https://www.mediaite.com/politics/firstclass-groveling-explosive-book-details-musk-and-trump-mocking-bezos-and-zuckerberg/",
-   "summary": "'Trump showed off texts from Zuckerberg and Bezos to other guests, including to Elon Musk, who mocked them as 'Firstclass groveling'' The post ‘Firstclass Groveling’: Explosive Book Details Musk And Trump Mocking Bezos And Zuckerberg first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T22:10:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d424f4c75400",
-   "title": "‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump",
-   "link": "https://www.mediaite.com/politics/trump/theyre-pssies-megyn-kelly-calls-out-iran-war-hawks-blaming-vance-for-deal-instead-of-trump/",
-   "summary": "Megyn Kelly called out Iran warhawks who are blaming JD Vance for the controversial memorandum of understanding instead of President Donald Trump. The post ‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-18T21:58:37+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d424f4c75400",
-   "title": "‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump",
-   "link": "https://www.mediaite.com/politics/trump/theyre-pssies-megyn-kelly-calls-out-iran-war-hawks-blaming-vance-for-deal-instead-of-trump/",
-   "summary": "Megyn Kelly called out Iran warhawks who are blaming JD Vance for the controversial memorandum of understanding instead of President Donald Trump. The post ‘They’re P*ssies!’ Megyn Kelly Calls Out Iran War Hawks Blaming Vance for Deal Instead of Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T21:58:37+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2b73963f376b",
-   "title": "‘It’s a vulnerability’: Vance makes a political gamble with public-facing Iran role",
-   "link": "https://www.politico.com/news/2026/06/18/vance-iran-negotiations-gamble-00967956",
-   "summary": "Some of Vance’s outside allies describe the role he is taking with the peace agreement as the best among poor options for the vice president.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-18T21:47:20+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "fb42163980e3",
-   "title": "House Oversight Ranking Member Robert Garcia is demanding answers from Trump Chief of Staff Susie Wiles — after recent NYT reporting revealed that Stephen Miller pushed to suspend habeas corpus rights and J.D. Vance pushed to invoke the Insurrection Act in Minneapolis. tinyurl.com/3a2ybv9x",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3molsgiqck22k",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-18T21:45:40.416+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a9f6a36e860f",
-   "title": "JD Vance Blasts Israel’s ‘Freakout’ On Iran Deal: ‘You Can’t Kill Your Way’ Out of Everything",
-   "link": "https://www.mediaite.com/politics/jd-vance-blasts-israels-freakout-on-iran-deal-you-cant-kill-your-way-out-of-everything/",
-   "summary": "Vice President JD Vance joined New York Times opinion columnist Ross Douthat on his Interesting Times podcast this week to discuss his upcoming book, “Communion,” but ended up speaking primarily about the Trump administration&#8217;s deal with Iran. Vance swiped at Israel during the conversation and said he didn’t understand the “freakout” in the Jewish state [&#8230;] The post JD Vance Blasts Israel’s ‘Freakout’ On Iran Deal: ‘You Can’t Kill Your Way’ Out of Everything first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T21:39:32+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8d9dd7413983",
-   "title": "Trump Opens Medal of Honor Ceremony by Announcing, ‘The Stock Market Just Hit an All-Time High’",
-   "link": "https://www.mediaite.com/media/news/trump-opens-medal-of-honor-ceremony-by-announcing-the-stock-market-just-hit-an-all-time-high/",
-   "summary": "President Donald Trump opened a solemn Congressional Medal of Honor ceremony Thursday for three combat veterans with a report on the stock market. The post Trump Opens Medal of Honor Ceremony by Announcing, ‘The Stock Market Just Hit an All-Time High’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-18T21:24:44+00:00",
    "iran_topic": false
   }
  ]
