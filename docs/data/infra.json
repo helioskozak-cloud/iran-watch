@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T11:12:14.725637+00:00",
+ "generated": "2026-06-20T12:59:34.990765+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,28 +47,26 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": -0.0,
-   "change_pct": -0.0,
+   "change": 0.76,
+   "change_pct": 0.76,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7500.58,
-   "change": 80.48,
-   "change_pct": 1.08,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625,
-    7500.580078125
+    7420.10009765625
    ]
   },
   "USO": {
@@ -88,14 +86,13 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.4,
-   "change": -2.04,
-   "change_pct": -11.06,
+   "price": 18.44,
+   "change": 2.03,
+   "change_pct": 12.37,
    "spark": [
     16.200000762939453,
     16.40999984741211,
-    18.440000534057617,
-    16.399999618530273
+    18.440000534057617
    ]
   },
   "NG=F": {
@@ -262,6 +259,13 @@
    "severity": "info"
   },
   {
+   "title": "Switzerland says talks for US-Iran deal ongoing, declines to identify participants",
+   "link": "https://www.timesofisrael.com/liveblog-june-20-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-20T00:28:08+00:00",
+   "severity": "low"
+  },
+  {
    "title": "'Why should we surrender?': Hezbollah chief says group capable of victory",
    "link": "https://www.jpost.com/middle-east/article-899943",
    "source": "Jerusalem Post",
@@ -316,13 +320,6 @@
    "source": "Press TV",
    "published": "2026-06-19T16:30:04.119407+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran imposes mandatory insurance on ships transiting Strait of Hormuz, with fees likely to follow",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ua5363/iran_imposes_mandatory_insurance_on_ships/",
-   "source": "r/worldnews",
-   "published": "2026-06-19T15:30:15+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -330,7 +327,7 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 8,
    "recent": [
     {
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
@@ -386,6 +383,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "d4c5405bdfd4",
+   "title": "Bill Maher Hammers Trump For ‘Losing’ Iran War — Hits Him With Shock Sex Scandal Dig",
+   "link": "https://www.mediaite.com/media/news/bill-maher-hammers-trump-for-losing-iran-war-hits-him-with-shock-sex-scandal-dig/",
+   "summary": "Comedian and pundit Bill Maher hammered President Donald Trump over the Iran War, claiming he lost and comparing it to an infamous Trump sex scandal. The post Bill Maher Hammers Trump For ‘Losing’ Iran War — Hits Him With Shock Sex Scandal Dig first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T12:40:42+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "eae8e0e75006",
+   "title": "Trump Blurts Crack-of-Morning Rant Boasting ‘How Well We Have Done’ in Widely-Mocked Iran Deal — Rages at Obama",
+   "link": "https://www.mediaite.com/media/news/trump-blurts-crack-of-morning-rant-boasting-how-well-we-have-done-in-widely-mocked-iran-deal-rages-at-obama/",
+   "summary": "President Donald Trump was up early to post a rant bragging about his Iran deal and raging at \"Dumocrats\" like former President Barack Obama. The post Trump Blurts Crack-of-Morning Rant Boasting ‘How Well We Have Done’ in Widely-Mocked Iran Deal — Rages at Obama first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T12:04:31+00:00",
+   "iran_topic": true
+  },
   {
    "id": "843c73426631",
    "title": "Purged BLS leader on the \"surprisingly resilient\" US economy",
@@ -897,16 +914,6 @@
    "iran_topic": true
   },
   {
-   "id": "b1aa8238259e",
-   "title": "From Superglued Gold to Epstein: 5 Jaw-Dropping Trump WH Revelations From the NY Times",
-   "link": "https://www.mediaite.com/media/news/from-superglued-gold-to-epstein-5-jaw-dropping-trump-wh-revelations-from-the-ny-times/",
-   "summary": "President Donald Trump personally decorating the Oval Office with super glue, a panicked call from Barron Trump after the assassination of conservative activist Charlie Kirk, and White House officials holding Situation Room meetings about Jeffrey Epstein are among the more eyebrow-raising details contained in a new book from New York Times reporters Maggie Haberman and Jonathan Swan. The post From Superglued Gold to Epstein: 5 Jaw-Dropping Trump WH Revelations From the NY Times first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T19:13:12+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5b716fefa020",
    "title": "Unconditional humiliation",
    "link": "https://www.publicnotice.co/p/unconditional-humiliation",
@@ -925,16 +932,6 @@
    "category": "politico_pol",
    "published": "2026-06-19T18:55:28+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "5761061bbf39",
-   "title": "Smerconish Says Trump’s Iran Deal Is Just Like Obama’s: ‘Worst Thing That President Trump Could Ever Hear’",
-   "link": "https://www.mediaite.com/media/tv/smerconish-says-trumps-iran-deal-is-just-like-obamas-worst-thing-that-president-trump-could-ever-hear/",
-   "summary": "Michael Smerconish said that Donald Trump's Iran deal is \"just like\" Obama's JCPOA, and that he would have liked to have seen it \"play itself out\". The post Smerconish Says Trump’s Iran Deal Is Just Like Obama’s: ‘Worst Thing That President Trump Could Ever Hear’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T18:50:42+00:00",
-   "iran_topic": true
   },
   {
    "id": "4d119686874b",
