@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T18:07:50.340031+00:00",
+ "generated": "2026-06-20T19:56:13.629541+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -220,6 +220,48 @@
  ],
  "incidents": [
   {
+   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+   "source": "Press TV",
+   "published": "2026-06-20T19:55:24.528567+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-20T19:43:47+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-closes-strait-hormuz-over-ceasefire-violations-mehr",
+   "source": "Al-Monitor",
+   "published": "2026-06-20T19:36:58+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US forces monitoring Strait of Hormuz to ensure it stays open",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-forces-monitoring-strait-hormuz-ensure-it-stays-open",
+   "source": "Al-Monitor",
+   "published": "2026-06-20T19:36:58+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-says-hormuz-closed-again-after-israel-strikes-lebanon",
+   "source": "Al-Monitor",
+   "published": "2026-06-20T19:30:38+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Hormuz, World Cup joy, Meloni Vs Trump and Chinese foie gras reut.rs/4oH2K5s",
+   "link": "https://bsky.app/profile/reuters.com/post/3moqlj5i3us2n",
+   "source": "@reuters",
+   "published": "2026-06-20T19:25:11+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon",
    "link": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
    "source": "Tehran Times",
@@ -255,13 +297,6 @@
    "severity": "info"
   },
   {
-   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-   "source": "Press TV",
-   "published": "2026-06-20T16:47:52.165341+00:00",
-   "severity": "info"
-  },
-  {
    "title": "Iran claims Strait of Hormuz closed in retaliation for US, Israel breaches of MoU - report",
    "link": "https://www.jpost.com/middle-east/article-899969",
    "source": "Jerusalem Post",
@@ -288,69 +323,34 @@
    "source": "IRNA",
    "published": "2026-06-20T15:20:38+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Breaking News: Iran’s forces said they shut the Strait of Hormuz, citing Israeli attacks in Lebanon as a breach of the U.S. deal to end fighting on all fronts. Follow live updates.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3moq5pb4il72b",
-   "source": "@nytimes",
-   "published": "2026-06-20T15:18:04.491149+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran closes Strait of Hormuz again and says its negotiating team is heading to Switzerland",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uayib3/iran_closes_strait_of_hormuz_again_and_says_its/",
-   "source": "r/worldnews",
-   "published": "2026-06-20T14:50:50+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran claims Hormuz closed again as IDF attacks Hezbollah; Vance says Switzerland talks may start Sunday",
-   "link": "https://www.timesofisrael.com/iran-closes-hormuz-again-as-idf-attacks-hezbollah-upping-pressure-on-us-before-switzerland-talks/",
-   "source": "Times of Israel",
-   "published": "2026-06-20T14:37:05+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "BREAKING: Iran's joint military command says that the Strait of Hormuz is closed again and cites Israeli attacks in Lebanon.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mopz2ljzac2r",
-   "source": "@apnews",
-   "published": "2026-06-20T13:54:55+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran closes Strait of Hormuz over ceasefire violations",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uawuzy/iran_closes_strait_of_hormuz_over_ceasefire/",
-   "source": "r/worldnews",
-   "published": "2026-06-20T13:37:53+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
+   "status": "ELEVATED",
    "incident_count": 14,
    "recent": [
     {
-     "title": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon",
-     "link": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
-     "source": "Tehran Times",
-     "published": "2026-06-20T17:42:05+00:00",
+     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+     "source": "Press TV",
+     "published": "2026-06-20T19:55:24.528567+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
+     "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-06-20T17:05:37+00:00",
+     "published": "2026-06-20T19:43:47+00:00",
      "severity": "info"
     },
     {
-     "title": "US forces monitoring Strait of Hormuz to ensure it stays open reut.rs/4xHclxa",
-     "link": "https://bsky.app/profile/reuters.com/post/3moqdhc5qfc25",
-     "source": "@reuters",
-     "published": "2026-06-20T17:00:59+00:00",
+     "title": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
+     "link": "https://www.al-monitor.com/originals/2026/06/iran-closes-strait-hormuz-over-ceasefire-violations-mehr",
+     "source": "Al-Monitor",
+     "published": "2026-06-20T19:36:58+00:00",
      "severity": "info"
     }
    ]
@@ -378,6 +378,106 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f3dc92ef0679",
+   "title": "Trump Rants About ‘NO TOLLS’ After Iran Declares Strait of Hormuz Closed",
+   "link": "https://www.mediaite.com/media/news/trump-rants-about-no-tolls-after-iran-declares-strait-of-hormuz-closed/",
+   "summary": "Donald Trump posted about \"NO TOLLS\" in the Strait of Hormuz, after Iran declared the Strait closed Saturday over renewed fighting by Israel and Hezbollah. The post Trump Rants About ‘NO TOLLS’ After Iran Declares Strait of Hormuz Closed first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T19:51:53+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f93225bbcb88",
+   "title": "‘Hard to Believe She Lost, Huh?’: Bill Maher Roasts Kamala Harris Over Cringe ‘Take Back the Flag’ Speech",
+   "link": "https://www.mediaite.com/media/news/hard-to-believe-she-lost-huh-bill-maher-roasts-kamala-harris-over-cringe-take-back-the-flag-speech/",
+   "summary": "Bill Maher ripped into Democrats for not embracing patriotism enough and pointed to a \"pageant contestant\" speech by Kamala Harris as an example of the problem. The post ‘Hard to Believe She Lost, Huh?’: Bill Maher Roasts Kamala Harris Over Cringe ‘Take Back the Flag’ Speech first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T19:39:23+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0bf310b8b038",
+   "title": "\"I don't really understand these things.\" This should be carved on JD's tombstone.",
+   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3moqlz4p53222",
+   "summary": "",
+   "source": "@robertscotthorton",
+   "category": "trump_bsky",
+   "published": "2026-06-20T19:34:07.829+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "88cd2443399c",
+   "title": "We’re wondering why we can’t afford groceries while he’s been pondering changing the name of ICE to NICE.",
+   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3moqllmvpts2o",
+   "summary": "",
+   "source": "@ohnoshetwitnt",
+   "category": "trump_bsky",
+   "published": "2026-06-20T19:26:35.059+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff6873b7b906",
+   "title": "Trump says US might impose tolls in the strait: “There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, & there will be NO TOLLS after 60 day period, unless they are imposed by and for the US, should the deal not be completed, for services rendered as Guardian Angel”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moqlbimsd22l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-20T19:20:55.026+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fe796210fab4",
+   "title": "‘Unsynchronized Diplomatic Process’: Former Obama Official Questions Why Lebanon and Israel Aren’t At Peace Talks",
+   "link": "https://www.mediaite.com/media/tv/unsynchronized-diplomatic-process-former-obama-official-questions-why-lebanon-and-israel-arent-at-peace-talks/",
+   "summary": "A former Obama State department official questioned Saturday why Israel and Lebanon aren't at the peace talks in Switzerland, along with the U.S. and Iran. The post ‘Unsynchronized Diplomatic Process’: Former Obama Official Questions Why Lebanon and Israel Aren’t At Peace Talks first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T19:19:20+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "c782cc25e485",
+   "title": "Exclusive: Iran declares Mexico to be World Cup winner",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/iran-mexico-fifa-world-cup-2026-united-states-war-00969094",
+   "summary": "After striking a ceasefire deal with U.S., regime officials are striking at the the country's handling of the tournament.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T19:15:00+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1ce01dc8f67d",
+   "title": "the legendary tom homan",
+   "link": "https://bsky.app/profile/golikehellmachine.com/post/3moqk26uf4224",
+   "summary": "",
+   "source": "@golikehellmachine",
+   "category": "trump_bsky",
+   "published": "2026-06-20T18:58:56.169+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b8f2e4662a80",
+   "title": "Nancy Mace Roasted and Fact-Checked Over Post About Supposed ‘TRANS MICE’ Funded By Taxpayers",
+   "link": "https://www.mediaite.com/media/news/nancy-mace-roasted-and-fact-checked-over-post-about-supposed-trans-mice-funded-by-taxpayers/",
+   "summary": "Nancy Mace lashed out after facing a wave of mockery and fact-checking over her complaints about American taxpayers supposedly paying for \"trans mice.\" The post Nancy Mace Roasted and Fact-Checked Over Post About Supposed ‘TRANS MICE’ Funded By Taxpayers first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T18:27:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "170e536489d2",
+   "title": "Canada's soft-power flex",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/canadas-soft-power-flex-toronto-00969098",
+   "summary": "A middle power tries to thirst-trap the world.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T18:15:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "7857e0540619",
    "title": "Jake Tapper and Others Pile On Trump’s DoD Over Humiliating Fact-Checking Note",
@@ -699,26 +799,6 @@
    "iran_topic": false
   },
   {
-   "id": "5e4e38a4eb3e",
-   "title": "Objectively, this is just fucking weird behavior.",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3moq444eyqk2c",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:49:28.291+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "972c55bfc813",
-   "title": "JD Vance: \"I would just say to those Christians in Lebanon, keep your faith in Jesus Christ and know you have a lot of good friends in the US government who are trying to promote peace in the region\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq42plhky26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:48:41.328+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "bc84d93baf47",
    "title": "BREAKING: Iranian officials said they have closed the Strait of Hormuz — citing what they said was the U.S. failure to stop the fighting in Lebanon as required under the agreement signed by Trump.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moq3vx2ef227",
@@ -727,26 +807,6 @@
    "category": "trump_bsky",
    "published": "2026-06-20T14:46:01.371+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "354150c5b518",
-   "title": "“The United States has all the cards” is such a weird verbal tic even if it were not obviously false",
-   "link": "https://bsky.app/profile/proptermalone.bsky.social/post/3moq3r5wrbk2j",
-   "summary": "",
-   "source": "@proptermalone",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:43:20.823+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f8599c0a3f90",
-   "title": "For once, I believe him",
-   "link": "https://bsky.app/profile/radiofreetom.bsky.social/post/3moq3k72fwc2a",
-   "summary": "",
-   "source": "@radiofreetom",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:39:27.110+00:00",
-   "iran_topic": false
   },
   {
    "id": "2d442dc26bb8",
@@ -899,16 +959,6 @@
    "iran_topic": true
   },
   {
-   "id": "5d51e0e9fb1c",
-   "title": "Art of the Peel: Tourists Are ‘Tearing Off Pieces’ of the Reflecting Pool’s Peeling Paint to ‘Take as Souvenirs’",
-   "link": "https://www.mediaite.com/media/tv/art-of-the-peel-tourists-are-tearing-off-pieces-of-the-reflecting-pools-peeling-paint-to-take-as-souvenirs/",
-   "summary": "The algae and peeling paint plaguing the Reflecting Pool have gotten to the point where tourists are stopping by and \"tearing off pieces\" to bring home as souvenirs. The post Art of the Peel: Tourists Are ‘Tearing Off Pieces’ of the Reflecting Pool’s Peeling Paint to ‘Take as Souvenirs’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T23:37:51+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e36b5234fe51",
    "title": "The Brazil-Haiti match that changed the world",
    "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/brazil-haiti-2004-un-match-lula-00969050",
@@ -926,56 +976,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-19T23:20:39.364+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "787a7cdccd3c",
-   "title": "Perryman: it’s quite remarkable that you have a DOJ that is willing to make statements to a court in its briefing that it’s not willing to swear to. If you’re making these representations as an officer of the court, then why is it too much to ask that you make them under penalty of perjury?",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mooi7b56gc22",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-19T23:20:39.363+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4c5c29b8110a",
-   "title": "Suspect in 14-Year-Old Girl’s Death Had Life Sentence Commuted by Kristi Noem",
-   "link": "https://www.mediaite.com/crime/suspect-in-14-year-old-girls-death-had-life-sentence-commuted-by-kristi-noem/",
-   "summary": "A man whose life sentence was commuted by then-South Dakota Gov. Kristi Noem has been charged in connection with the death of a 14-year-old girl whose disappearance prompted a days-long search earlier this year, per statements from the Sioux Falls police reported by ABC News on Friday. The post Suspect in 14-Year-Old Girl’s Death Had Life Sentence Commuted by Kristi Noem first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T23:04:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f2f803ed9447",
-   "title": "Trump Pulls the Rug From Candidate He Previously Endorsed, Now Says He’s Endorsing Her Opponent Also",
-   "link": "https://www.mediaite.com/politics/trump-pulls-the-rug-from-candidate-he-previously-endorsed-now-says-hes-endorsing-her-opponent-also/",
-   "summary": "President Donald Trump essentially negated the endorsement he previously gave South Carolina Lt. Governor Pamela Evette by endorsing her and her opponent. The post Trump Pulls the Rug From Candidate He Previously Endorsed, Now Says He’s Endorsing Her Opponent Also first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T23:02:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f1ad509d0fad",
-   "title": "NYT Exclusive: ICE spent $700 million on 7 warehouses. Now it wants to get rid of them.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moofgfdlnc2h",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-19T22:30:57.426+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0377636ee7e5",
-   "title": "Wealth correlation with soccer ability?",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/gdp-fifa-world-cup-2026-rankings-00968767",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T22:30:00+00:00",
    "iran_topic": false
   }
  ]
