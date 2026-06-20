@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T16:48:31.299966+00:00",
+ "generated": "2026-06-20T18:07:50.340031+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -220,6 +220,41 @@
  ],
  "incidents": [
   {
+   "title": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon",
+   "link": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
+   "source": "Tehran Times",
+   "published": "2026-06-20T17:42:05+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
+   "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-20T17:39:08+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-20T17:05:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US forces monitoring Strait of Hormuz to ensure it stays open reut.rs/4xHclxa",
+   "link": "https://bsky.app/profile/reuters.com/post/3moqdhc5qfc25",
+   "source": "@reuters",
+   "published": "2026-06-20T17:00:59+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says it is closing Strait of Hormuz over Israeli attacks on Lebanon",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ub1ex1/iran_says_it_is_closing_strait_of_hormuz_over/",
+   "source": "r/worldnews",
+   "published": "2026-06-20T16:51:56+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
    "source": "Press TV",
@@ -269,7 +304,7 @@
    "severity": "info"
   },
   {
-   "title": "Iran says it closed Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks",
+   "title": "Iran claims Hormuz closed again as IDF attacks Hezbollah; Vance says Switzerland talks may start Sunday",
    "link": "https://www.timesofisrael.com/iran-closes-hormuz-again-as-idf-attacks-hezbollah-upping-pressure-on-us-before-switzerland-talks/",
    "source": "Times of Israel",
    "published": "2026-06-20T14:37:05+00:00",
@@ -288,70 +323,35 @@
    "source": "r/worldnews",
    "published": "2026-06-20T13:37:53+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran's Khatam al-Anbiya Central Headquarters said it would close the Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uawm85/irans_khatam_alanbiya_central_headquarters_said/",
-   "source": "r/worldnews",
-   "published": "2026-06-20T13:26:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
-   "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
-   "source": "Press TV",
-   "published": "2026-06-20T08:45:26.317228+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Swastikas, hate speech reportedly printed in NYC UN-affiliated middle school yearbook",
-   "link": "https://www.timesofisrael.com/swastikas-hate-speech-reportedly-printed-in-nyc-un-affiliated-middle-school-yearbook/",
-   "source": "Times of Israel",
-   "published": "2026-06-20T07:18:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "In photos: Hosseini Infants Gathering held in Iran’s Bandar Abbas",
-   "link": "https://en.irna.ir/photo/86187517/In-photos-Hosseini-Infants-Gathering-held-in-Iran-s-Bandar-Abbas",
-   "source": "IRNA",
-   "published": "2026-06-20T05:26:33+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Drone attack on Panama-flagged ship in Black Sea kills 1, injures 2 reut.rs/4gxLwFn",
-   "link": "https://bsky.app/profile/reuters.com/post/3mop375snog2n",
-   "source": "@reuters",
-   "published": "2026-06-20T05:00:36+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 13,
+   "status": "ACTIVE",
+   "incident_count": 14,
    "recent": [
     {
-     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-     "source": "Press TV",
-     "published": "2026-06-20T16:47:52.165341+00:00",
+     "title": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon",
+     "link": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
+     "source": "Tehran Times",
+     "published": "2026-06-20T17:42:05+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran claims Strait of Hormuz closed in retaliation for US, Israel breaches of MoU - report",
-     "link": "https://www.jpost.com/middle-east/article-899969",
-     "source": "Jerusalem Post",
-     "published": "2026-06-20T16:45:34+00:00",
+     "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-20T17:05:37+00:00",
      "severity": "info"
     },
     {
-     "title": "IRGC Navy warns vessels not to approach Strait of Hormuz",
-     "link": "https://en.irna.ir/news/86188278/IRGC-Navy-warns-vessels-not-to-approach-Strait-of-Hormuz",
-     "source": "IRNA",
-     "published": "2026-06-20T16:34:42+00:00",
-     "severity": "medium"
+     "title": "US forces monitoring Strait of Hormuz to ensure it stays open reut.rs/4xHclxa",
+     "link": "https://bsky.app/profile/reuters.com/post/3moqdhc5qfc25",
+     "source": "@reuters",
+     "published": "2026-06-20T17:00:59+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -379,6 +379,116 @@
  ],
  "wh_statements": [
   {
+   "id": "7857e0540619",
+   "title": "Jake Tapper and Others Pile On Trump’s DoD Over Humiliating Fact-Checking Note",
+   "link": "https://www.mediaite.com/media/news/jake-tapper-and-others-pile-on-trumps-dod-over-humiliating-fact-checking-note/",
+   "summary": "Jake Tapper and others piled on President Trump's Department of Defense over a \"NO MERCY\" post on X that was hit with a brutal community note from the platform. The post Jake Tapper and Others Pile On Trump’s DoD Over Humiliating Fact-Checking Note first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T17:56:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "86529adb5bc9",
+   "title": "I trust Aaron 100%. He’s my number one go to about the actual news and this is the first time I ever had to check to see if something he posted was real.",
+   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3moqgcv732s2o",
+   "summary": "",
+   "source": "@ohnoshetwitnt",
+   "category": "trump_bsky",
+   "published": "2026-06-20T17:52:13.056+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "58fb30c74811",
+   "title": "‘F*cking Liars!’ Bill Maher Lashes Out at His Own Audience After He Trashes Obama Presidential Library",
+   "link": "https://www.mediaite.com/media/news/fcking-liars-bill-maher-lashes-out-at-his-own-audience-after-he-trashes-obama-presidential-library/",
+   "summary": "Bill Maher lashed out at his audience when they undermined his rant trashing the Barack Obama Presidential Center with an ill-timed round of applause. The post ‘F*cking Liars!’ Bill Maher Lashes Out at His Own Audience After He Trashes Obama Presidential Library first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T17:45:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "399105127e33",
+   "title": "A government plane apparently containing Pete Hegseth just flew over me. Rare to see this type of aircraft in Minneapolis which is why it piqued my interest.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moqfls7hgk2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-20T17:39:18.166+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3c140d5e4a38",
+   "title": "People are always saying he's worse today than he was yesterday. But something really does seem to be up, doesn't it?",
+   "link": "https://bsky.app/profile/helenkennedy.com/post/3moqeuqdle22x",
+   "summary": "",
+   "source": "@helenkennedy",
+   "category": "trump_bsky",
+   "published": "2026-06-20T17:26:24.456+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b4340b0fe0f",
+   "title": "Trump Drops Pair of Bonkers Fan Polls on ICE and ‘Dumocrats’ — As Iran Agreement Falls Apart",
+   "link": "https://www.mediaite.com/media/news/trump-drops-pair-of-bonkers-fan-polls-on-ice-and-dumocrats-as-iran-agreement-falls-apart/",
+   "summary": "President Donald Trump dropped a pair of bonkers fan polls on ICE and the 'Dumocrats' Saturday as his Iran agreement fell apart in the Strait of Hormuz. The post Trump Drops Pair of Bonkers Fan Polls on ICE and ‘Dumocrats’ — As Iran Agreement Falls Apart first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T17:18:22+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "98309d275e4e",
+   "title": "This can’t be real 😭😭😭",
+   "link": "https://bsky.app/profile/benross.bsky.social/post/3moqefjm4cs23",
+   "summary": "",
+   "source": "@benross",
+   "category": "trump_bsky",
+   "published": "2026-06-20T17:17:54.079+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e96c312fd19d",
+   "title": "Climate protesters to take aim at FIFA’s Saudi oil sponsor",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/climate-protest-fifa-aramco-dodgers-00969096",
+   "summary": "Activists are pivoting from the Los Angeles Dodgers to go after FIFA.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T17:15:00+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ae0317d23d3c",
+   "title": "Government, which has been controlled by my party for the last year and half, is the problem.",
+   "link": "https://bsky.app/profile/cavskermit.bsky.social/post/3moqdwajrrc27",
+   "summary": "",
+   "source": "@cavskermit",
+   "category": "trump_bsky",
+   "published": "2026-06-20T17:09:21.250+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3ad046295e7f",
+   "title": "Meloni Hits Trump With Savage New Rant in Bombshell Feud Over ‘Begging’ For Photo",
+   "link": "https://www.mediaite.com/media/news/meloni-hits-trump-with-savage-new-rant-in-bombshell-feud-over-begging-for-photo/",
+   "summary": "Italian PM Giorgia Meloni hit President Donald Trump with a savage new rant attacking his popularity in the latest salvo of a roiling feud over a selfie. The post Meloni Hits Trump With Savage New Rant in Bombshell Feud Over ‘Begging’ For Photo first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T17:06:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f16d540ad07",
+   "title": "Never mind that Vance got conned, the fact that the vice president saying he heard second-hand from the president's son-in-law and the president's real estate buddy that the strait was open is humiliating on its own.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moqcyfd3y22a",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:52:39.640+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "38048e79cef5",
    "title": "BREAKING: Iran Says Strait of Hormuz Is Closed Again — Trump Military Says It’s Open",
    "link": "https://www.mediaite.com/media/news/breaking-iran-says-strait-of-hormuz-is-closed-again-trump-military-says-its-open/",
@@ -387,6 +497,16 @@
    "category": "mediaite_all",
    "published": "2026-06-20T16:45:27+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "f2611d836020",
+   "title": "They are such a deeply stupid group of people, and somehow, this might be the stupidest thing they’ve thought yet. I am floored by the fact that they think this would actually work.",
+   "link": "https://bsky.app/profile/matrueblood.bsky.social/post/3moqcch6exc26",
+   "summary": "",
+   "source": "@matrueblood",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:40:23.385+00:00",
+   "iran_topic": false
   },
   {
    "id": "edb24160f3a5",
@@ -609,26 +729,6 @@
    "iran_topic": true
   },
   {
-   "id": "8c5bf6f782c4",
-   "title": "FOX & FRIENDS: The Journal reports the remnants of the Iranian navy are turning ships back in the Strait of Hormuz. Is that a violation of MOU? VANCE: I'm skeptical of that reporting, or of some conclusions that could drawn. We're not seeing evidence the Iranians are still closing down the strait",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq3tibaoc2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:44:38.766+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "c86464ffcf46",
-   "title": "This is important to say as a matter of both truth and political messaging: There is nothing less manly than being obsessed with other people's genitals and trying to police who's manly enough. The proper response is not \"That's not appropriate.\" It's \"Get lost, you loser, you creep, you pervert.\"",
-   "link": "https://bsky.app/profile/paulwaldman.bsky.social/post/3moq3t5dwuk2q",
-   "summary": "",
-   "source": "@paulwaldman",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:44:27.311+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "354150c5b518",
    "title": "“The United States has all the cards” is such a weird verbal tic even if it were not obviously false",
    "link": "https://bsky.app/profile/proptermalone.bsky.social/post/3moq3r5wrbk2j",
@@ -636,16 +736,6 @@
    "source": "@proptermalone",
    "category": "trump_bsky",
    "published": "2026-06-20T14:43:20.823+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1717f9ed44ed",
-   "title": "Trump: \"The president of the United States is not going to lose in this negotiation\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq3kadjru27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:39:28.467+00:00",
    "iran_topic": false
   },
   {
@@ -659,36 +749,6 @@
    "iran_topic": false
   },
   {
-   "id": "ff23b70fbece",
-   "title": "FOX & FRIENDS: Do you have any immediate plans to join Jared and Steve? JD VANCE: It's always a delicate coordination dance with the diplomatic protocols. I've gotta be honest with you -- I don't really understand these things",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq3f7g45z2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:36:39.726+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a50e5ae1402b",
-   "title": "JD Vance: \"My understanding talking to Steve and Jared this morning is that things are going well ... the United States has all the cards. The straits are now open.\" 🙃",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq3c5jkwb25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:34:57.084+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f122dd942876",
-   "title": "JD Vance on Fox & Friends this morning: \"One of the things the president has set us out to do as a high priority is to open the straits. That's now happened.\" (The strait has since been closed lol)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq37ntnqh2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:33:33.533+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2d442dc26bb8",
    "title": "The Dutch diplomatic playbook in Texas",
    "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/netherlands-diplomacy-mirjam-sterk-world-cup-2026-00969092",
@@ -696,16 +756,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-20T14:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1ef98452e584",
-   "title": "Stephen Miller: \"All I can say about Talarico is Texas is not going to elect an individual- I can't call him a man, who knows what gender he is- but they're not going to elect an individual, an entity, who's said the thing he loves most are trans children. He's a bizarre, totally unelectable human.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq2zazvjo2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:29:58.775+00:00",
    "iran_topic": false
   },
   {
@@ -926,56 +976,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-19T22:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1cc64c93050e",
-   "title": "Kilmeade Hits JD Vance Over Israel Criticism: He ‘Has To Rethink His Attack’",
-   "link": "https://www.mediaite.com/media/tv/kilmeade-hits-jd-vance-over-israel-criticism-he-has-to-rethink-his-attack/",
-   "summary": "During Friday's edition of The Five, Fox News' Brian Kilmeade took issue with Vice President JD Vance's recent critiques of the Israeli government, declaring that he \"has to rethink his attack.\" The post Kilmeade Hits JD Vance Over Israel Criticism: He ‘Has To Rethink His Attack’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T22:24:58+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d6d542282978",
-   "title": "Tucker Carlson Defends Graham Platner Over Nazi Tattoo Scandal, Slams Trump",
-   "link": "https://www.mediaite.com/politics/tucker-carlson-defends-graham-platner-over-nazi-tattoo-scandal-slams-trump/",
-   "summary": "\"But they’ve attacked the guy in his personal life. It’s like they don’t like him because he’s not sufficiently supportive of Israel.\" The post Tucker Carlson Defends Graham Platner Over Nazi Tattoo Scandal, Slams Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T22:06:17+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "26b15f711dbd",
-   "title": "In Canberra, disappointment",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/in-canberra-disappointment-00969054",
-   "summary": "The Aussies’ lackluster performance left the home crowd subdued, but it still booed RFK Jr.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T22:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "24a70e7eaceb",
-   "title": "The UK’s World Cup diplomatic mullet",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/uk-scotland-england-party-fifa-world-cup-2026-00969052",
-   "summary": "British fans are soaking in the World Cup at Duke’s Grocery in Washington, D.C.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T21:44:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9831d161ecb4",
-   "title": "CNN’s Daniel Dale Rattles Off Trump Lies About People ‘Begging’ Him For Stuff",
-   "link": "https://www.mediaite.com/media/news/cnns-daniel-dale-lists-off-trump-lies-about-people-begging-him-for-stuff/",
-   "summary": "CNN's Daniel Dale ticked off examples of one of President Donald Trump's oft repeated lies Friday — claiming notable figures \"begged\" him for favors. The post CNN’s Daniel Dale Rattles Off Trump Lies About People ‘Begging’ Him For Stuff first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T21:40:27+00:00",
    "iran_topic": false
   }
  ]
