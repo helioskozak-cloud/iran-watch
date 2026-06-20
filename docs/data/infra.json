@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T15:05:10.044976+00:00",
+ "generated": "2026-06-20T16:48:31.299966+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,26 +47,28 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": 0.76,
-   "change_pct": 0.76,
+   "change": -0.0,
+   "change_pct": -0.0,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
+    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7500.58,
+   "change": 80.48,
+   "change_pct": 1.08,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625
+    7420.10009765625,
+    7500.580078125
    ]
   },
   "USO": {
@@ -86,13 +88,14 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.44,
-   "change": 2.03,
-   "change_pct": 12.37,
+   "price": 16.4,
+   "change": -2.04,
+   "change_pct": -11.06,
    "spark": [
     16.200000762939453,
     16.40999984741211,
-    18.440000534057617
+    18.440000534057617,
+    16.399999618530273
    ]
   },
   "NG=F": {
@@ -217,6 +220,13 @@
  ],
  "incidents": [
   {
+   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+   "source": "Press TV",
+   "published": "2026-06-20T16:47:52.165341+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran claims Strait of Hormuz closed in retaliation for US, Israel breaches of MoU - report",
    "link": "https://www.jpost.com/middle-east/article-899969",
    "source": "Jerusalem Post",
@@ -224,14 +234,42 @@
    "severity": "info"
   },
   {
-   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-   "source": "Press TV",
-   "published": "2026-06-20T15:04:31.192489+00:00",
+   "title": "IRGC Navy warns vessels not to approach Strait of Hormuz",
+   "link": "https://en.irna.ir/news/86188278/IRGC-Navy-warns-vessels-not-to-approach-Strait-of-Hormuz",
+   "source": "IRNA",
+   "published": "2026-06-20T16:34:42+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ub0sur/iran_says_strait_of_hormuz_will_be_closed_over/",
+   "source": "r/worldnews",
+   "published": "2026-06-20T16:26:21+00:00",
    "severity": "info"
   },
   {
-   "title": "Iran says it has closed Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks",
+   "title": "Iran's military command declares Strait of Hormuz closed again over MoU violations",
+   "link": "https://en.irna.ir/news/86188180/Iran-s-military-command-declares-Strait-of-Hormuz-closed-again",
+   "source": "IRNA",
+   "published": "2026-06-20T15:20:38+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Breaking News: Iran’s forces said they shut the Strait of Hormuz, citing Israeli attacks in Lebanon as a breach of the U.S. deal to end fighting on all fronts. Follow live updates.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3moq5pb4il72b",
+   "source": "@nytimes",
+   "published": "2026-06-20T15:18:04.491149+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran closes Strait of Hormuz again and says its negotiating team is heading to Switzerland",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uayib3/iran_closes_strait_of_hormuz_again_and_says_its/",
+   "source": "r/worldnews",
+   "published": "2026-06-20T14:50:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says it closed Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks",
    "link": "https://www.timesofisrael.com/iran-closes-hormuz-again-as-idf-attacks-hezbollah-upping-pressure-on-us-before-switzerland-talks/",
    "source": "Times of Israel",
    "published": "2026-06-20T14:37:05+00:00",
@@ -257,13 +295,6 @@
    "source": "r/worldnews",
    "published": "2026-06-20T13:26:44+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Despite truce, IDF hits Lebanon after repeated Hezbollah attacks; at least 27 said killed",
-   "link": "https://www.timesofisrael.com/despite-truce-idf-hits-lebanon-after-repeated-hezbollah-attacks-at-least-27-said-killed/",
-   "source": "Times of Israel",
-   "published": "2026-06-20T13:00:26+00:00",
-   "severity": "critical"
   },
   {
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
@@ -292,34 +323,6 @@
    "source": "@reuters",
    "published": "2026-06-20T05:00:36+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
-   "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-20T04:30:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "In @nytopinion.nytimes.com “Freedom of navigation has largely prevailed since World War II because the United States has guaranteed it,” Edward Fishman writes. “Iran’s seizure of the Strait of Hormuz has cracked the edifice.”",
-   "link": "https://bsky.app/profile/nytimes.com/post/3moowp3uthb2d",
-   "source": "@nytimes",
-   "published": "2026-06-20T03:40:02.963115+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Switzerland says talks for US-Iran deal ongoing, declines to identify participants",
-   "link": "https://www.timesofisrael.com/liveblog-june-20-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-20T00:28:08+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "'Why should we surrender?': Hezbollah chief says group capable of victory",
-   "link": "https://www.jpost.com/middle-east/article-899943",
-   "source": "Jerusalem Post",
-   "published": "2026-06-19T20:31:58+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -327,8 +330,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 13,
    "recent": [
+    {
+     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+     "source": "Press TV",
+     "published": "2026-06-20T16:47:52.165341+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran claims Strait of Hormuz closed in retaliation for US, Israel breaches of MoU - report",
      "link": "https://www.jpost.com/middle-east/article-899969",
@@ -337,35 +347,20 @@
      "severity": "info"
     },
     {
-     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-     "source": "Press TV",
-     "published": "2026-06-20T15:04:31.192489+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran says it has closed Hormuz again as IDF attacks Hezbollah, upping pressure on US before Switzerland talks",
-     "link": "https://www.timesofisrael.com/iran-closes-hormuz-again-as-idf-attacks-hezbollah-upping-pressure-on-us-before-switzerland-talks/",
-     "source": "Times of Israel",
-     "published": "2026-06-20T14:37:05+00:00",
-     "severity": "low"
+     "title": "IRGC Navy warns vessels not to approach Strait of Hormuz",
+     "link": "https://en.irna.ir/news/86188278/IRGC-Navy-warns-vessels-not-to-approach-Strait-of-Hormuz",
+     "source": "IRNA",
+     "published": "2026-06-20T16:34:42+00:00",
+     "severity": "medium"
     }
    ]
   },
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "ACTIVE",
-   "incident_count": 1,
-   "recent": [
-    {
-     "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
-     "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-20T04:30:40+00:00",
-     "severity": "info"
-    }
-   ]
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
   },
   {
    "name": "Suez Canal",
@@ -383,6 +378,166 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "38048e79cef5",
+   "title": "BREAKING: Iran Says Strait of Hormuz Is Closed Again — Trump Military Says It’s Open",
+   "link": "https://www.mediaite.com/media/news/breaking-iran-says-strait-of-hormuz-is-closed-again-trump-military-says-its-open/",
+   "summary": "Iran has once again closed the Strait of Hormuz, this time to protest the Israeli airstrikes on Lebanon, according to Iranian State Media. The post BREAKING: Iran Says Strait of Hormuz Is Closed Again — Trump Military Says It’s Open first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T16:45:27+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "edb24160f3a5",
+   "title": "Whoosh. It is *accelerating*.",
+   "link": "https://bsky.app/profile/johnmoe.bsky.social/post/3moqc4cjyj22t",
+   "summary": "",
+   "source": "@johnmoe",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:36:57.197+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "87c19b7c2873",
+   "title": "Vance is so intent on demonstrating Iran has \"transformed\" that he went on TV to claim the Strait of Hormuz was open after Iran closed it, again. In fact, it's US policy Vance wants to transform, by allying the United States with authoritarian regimes, like Iran's and Russia's, as I discussed here.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3moqbycinbk2i",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:34:42.935+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d4a9576ee972",
+   "title": "SCOTT: Govt is your problem. They're causing cost of everything to go up McENANY: But you were one of few Rs to vote against bipartisan Road to Housing Act. Why? S: I don't see how it's going to drive down costs. The federal govt cannot drive cost of housing down M: Except you have your own bill",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moqbx2m6ls2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:34:01.108+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "793da4a37017",
+   "title": "W. Kamau Bell Schools White Allies on UFC Fighter’s Slur of Michelle Obama: ‘Just Say F*ck That Guy!’",
+   "link": "https://www.mediaite.com/media/entertainment/w-kamau-bell-schools-white-allies-on-ufc-fighters-slur-of-michelle-obama-just-say-fck-that-guy/",
+   "summary": "W. Kamau Bell told SiriusXM the direct and brief way White allies should react to UFC fighter Josh Hokit's attack on former First Lady Michelle Obama. The post W. Kamau Bell Schools White Allies on UFC Fighter’s Slur of Michelle Obama: ‘Just Say F*ck That Guy!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T16:32:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3aef9f934096",
+   "title": "Trump: \"The concept I have had for quite some time — A strong feeling the name of these Patriots, 'ICE,' should be changed to, 'NICE,' in that it will totally discombobulate Unpatriotic Reporters. For them to say, 'We went to a NICE Facility today,' as opposed to 'ICE,' they will go totally crazy!\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moqbr5hj2c2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-20T16:30:42.773+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a241c24bf13e",
+   "title": "The soccer-loving mayor who's ready to host the USA",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/us-headed-to-bay-area-00969099",
+   "summary": "San Francisco Mayor Daniel Lurie is looking ahead to the home team's first knockout match.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T16:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5fc415f7707a",
+   "title": "A small conservative group rises in influence under Trump 2.0",
+   "link": "https://www.politico.com/news/2026/06/20/capital-research-center-conservative-watchdog-nonprofits-trump-00968002",
+   "summary": "Republicans are increasingly turning to the Capital Research Center’s work in their investigations into nonprofits.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-20T16:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8c89cbc655ad",
+   "title": "The Straits are now closed",
+   "link": "https://bsky.app/profile/esqueer.net/post/3moq7sdqltc2t",
+   "summary": "",
+   "source": "@esqueer",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:55:35.431+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d8fb619d830b",
+   "title": "As soon as they decided that it was a good thing to send this goblin out to speak in public, where people could actually hear him, I knew that the shit had absolutely and irrevocably hit the fan.",
+   "link": "https://bsky.app/profile/bcdreyer.social/post/3moq7ktlb622p",
+   "summary": "",
+   "source": "@bcdreyer",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:51:23.600+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "55969de3d026",
+   "title": "CNN’s Kaitlan Collins Calls BS on Trump Over Reflecting Pool ‘Vandalism’ Rant",
+   "link": "https://www.mediaite.com/media/news/cnns-kaitlan-collins-calls-bs-on-trump-over-reflecting-pool-vandalism-rant/",
+   "summary": "CNN anchor Kaitlan Collins called BS on President Donald Trump's explanation for the tribulations that have befallen the Reflecting Pool. The post CNN’s Kaitlan Collins Calls BS on Trump Over Reflecting Pool ‘Vandalism’ Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T15:44:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "71b96ed14a39",
+   "title": "I recommend campaign stops in the Atlanta suburbs with Trump standing right beside you, sir. Be bold, I say.",
+   "link": "https://bsky.app/profile/cavskermit.bsky.social/post/3moq6ggkcwk2g",
+   "summary": "",
+   "source": "@cavskermit",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:31:01.977+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "146178a87aa8",
+   "title": "With the MOU with Iran already looking like it's falling apart, this is what the president is focusing his energy on today.",
+   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3moq6g6ruqc2c",
+   "summary": "",
+   "source": "@justinbaragona",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:30:53.838+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3b7d439b245c",
+   "title": "Why do Dutch fans wear orange?",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/why-netherlands-dutch-soccer-fans-wear-orange-00969101",
+   "summary": "The surprisingly American story of a country whose soccer colors differ from its government's.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T15:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dc0f85be945e",
+   "title": "Rep. Mike Collins on his campaign against Ossoff: \"We look forward to President Trump helping us in any way that he can. We are the Trump-endorsed candidate. People know I'm the MAGA candidate. I would love to see him down here.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moq535twd32n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:06:50.024+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7f79123fcf1a",
+   "title": "MELONI, to Trump: “.. my popularity is none of your concern. I suggest you focus on yours.”",
+   "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3moq4yiky5c26",
+   "summary": "",
+   "source": "@carlquintanilla",
+   "category": "trump_bsky",
+   "published": "2026-06-20T15:05:20.590+00:00",
+   "iran_topic": false
+  },
   {
    "id": "54d45403524c",
    "title": "Rep. Sheri Biggs: \"I don't think there's anyone who understands the implications of our economy more than President Trump. He's a businessman.\"",
@@ -554,36 +709,6 @@
    "iran_topic": false
   },
   {
-   "id": "15856776afa0",
-   "title": "New in PN: Purged BLS leader on the \"surprisingly resilient\" economy \"There is a disconnect between sentiment and hard data — jobs, GDP, investments, etc. Some of it is that views on the economy have become more partisan. But even when you control for that, the disconnect is still there.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moq2ivtfqk2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:20:50.147+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "df4dce3e48d1",
-   "title": "Trump shares a photo of a guy at the reflecting pool wearing a “Team Algae” shirt",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mopzotmigs2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:06:15.405+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "96c142da9134",
-   "title": "Trump suggests ABC reporter Jon Karl is being investigated for “sticking his hand into the Pool, and trying to rip the rubber off of the surface”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mopzlei6ok2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:04:18.870+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "df407d7d28b1",
    "title": "Mary Trump Savages ‘Increasingly Desperate’ Trump Over New James Carville Rant — Warns of Election Theft and Worse",
    "link": "https://www.mediaite.com/media/news/mary-trump-savages-increasingly-desperate-trump-over-new-james-carville-rant-warns-of-election-theft-and-worse/",
@@ -592,26 +717,6 @@
    "category": "mediaite_all",
    "published": "2026-06-20T14:01:28+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "56ca2ff41634",
-   "title": "Trump claims he “holds the cards in Netanyahu’s shaky reelection chances”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mopz52k3222s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T13:56:18.686+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "26620d3f4679",
-   "title": "Trump: “Giorgia Meloni asked, over and over, for a picture with me during the G-7. She is doing poorly in Italy with her level of popularity, possibly because she turned down the US … Now, after the US defeated Iran militarily, she wants to be friends again to get her ‘numbers up.’ No thanks!!!”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mopyxs4l6c2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T13:53:22.080+00:00",
-   "iran_topic": true
   },
   {
    "id": "7f84a8ecf2f4",
@@ -642,16 +747,6 @@
    "category": "mediaite_all",
    "published": "2026-06-20T12:40:42+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "22629490e0de",
-   "title": "Ahem.",
-   "link": "https://bsky.app/profile/stevebenen.com/post/3mopub2krv22s",
-   "summary": "",
-   "source": "@stevebenen",
-   "category": "trump_bsky",
-   "published": "2026-06-20T12:29:04.219+00:00",
-   "iran_topic": false
   },
   {
    "id": "eae8e0e75006",
@@ -724,16 +819,6 @@
    "iran_topic": false
   },
   {
-   "id": "d4b511ac57ca",
-   "title": "Yes, a normal president would try to avoid bribes.",
-   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mooo6lmld22u",
-   "summary": "",
-   "source": "@prchovanec",
-   "category": "trump_bsky",
-   "published": "2026-06-20T01:07:39.253+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f4a61a775f30",
    "title": "Watch the full video here: www.youtube.com/live/tNYnmlZ...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3moonl4bdsc2r",
@@ -761,46 +846,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T00:49:44+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "31b831583702",
-   "title": "Right, a normal president wouldn't be distracted by a shiny gift and would listen to intel experts who know it's likely bugged twelve different ways",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moomb55zvs2g",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:33:17.276+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ac7c54e5de24",
-   "title": "“Ladies & gentlemen this is you Captain speaking… just wanted to let you know about a potential delay we’re trying to avoid on our way to London… weather is fine, but co-pilot Billy & I are thinking an 8% wage increase would be much appreciated…….. Will let you know how the airline responds…”",
-   "link": "https://bsky.app/profile/manmademoon.bsky.social/post/3moom5hehwk2y",
-   "summary": "",
-   "source": "@manmademoon",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:31:13.753+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "359012225bda",
-   "title": "There he goes, relating to the common man again...",
-   "link": "https://bsky.app/profile/willharrisinva.bsky.social/post/3moolz5l2ek2m",
-   "summary": "",
-   "source": "@willharrisinva",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:28:49.266+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5f338e916374",
-   "title": "New episode of the PN Pod with @paulwaldman.bsky.social is live. We discuss the humiliating Iran MOU, how “chief negotiator” JD Vance is being set up to take the blame, Israel’s increasingly precarious position, our level of concern about Trump refusing to leave power, and much more. Check it out:",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mool7c5pxc2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:14:21.657+00:00",
    "iran_topic": true
   },
   {
@@ -931,56 +976,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-19T21:40:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8dcd483d8149",
-   "title": "Campaigns get in the game",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/campaigns-get-in-the-game-00969030",
-   "summary": "Susan Collins and James Talarico ads are looking to capture a U.S.-Australia audience.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T21:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0452b66bd94f",
-   "title": "Daily Show Comic Has a Field Day With New York Knicks Parade Mayhem: ‘No Chance This Guy Is Going to Make it Through That Crowd!’",
-   "link": "https://www.mediaite.com/media/tv/daily-show-comic-has-a-field-day-with-new-york-knicks-parade-mayhem-no-chance-this-guy-is-going-to-make-it-through-that-crowd/",
-   "summary": "The Daily Show host Jordan Klepper took a closer look at Thursday's chaotic scenes when the New York Knicks held their championship parade. The post Daily Show Comic Has a Field Day With New York Knicks Parade Mayhem: ‘No Chance This Guy Is Going to Make it Through That Crowd!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T21:24:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9f4f5f5e2301",
-   "title": "‘The World Woke Up’: CEO of World’s Largest Hedge Fund Warns Trump Stopping Global Investment In the US",
-   "link": "https://www.mediaite.com/politics/the-world-woke-up-ceo-of-worlds-largest-hedge-fund-warns-trump-stopping-global-investment-in-the-us/",
-   "summary": "\"And one day, President Trump decided that no longer would the trade deficit work in the national interest of the United States.\" The post ‘The World Woke Up’: CEO of World’s Largest Hedge Fund Warns Trump Stopping Global Investment In the US first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T21:21:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9b162591f867",
-   "title": "Inside FIFA’s plans to commemorate Juneteenth",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/fifa-commemorates-juneteenth-00969049",
-   "summary": "In Seattle, a pre-game video featured an NBA legend and shots of iconic city locations.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-19T21:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cbc209385e72",
-   "title": "Trump Reveals Why He Told World Leaders ‘I’m the Boss’ at G7",
-   "link": "https://www.mediaite.com/media/news/trump-reveals-why-he-told-world-leaders-im-the-boss-at-g7/",
-   "summary": "In a Friday Axios interview with Marc Caputo, President Donald Trump revealed why he told world leaders, \"I'm the boss,\" at this week's G7 Leaders' Summit. The post Trump Reveals Why He Told World Leaders ‘I’m the Boss’ at G7 first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-19T20:46:16+00:00",
    "iran_topic": false
   }
  ]
