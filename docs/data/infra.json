@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T03:26:24.964151+00:00",
+ "generated": "2026-06-20T07:49:21.342186+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,12 +47,13 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": 0.76,
-   "change_pct": 0.76,
+   "change": -0.0,
+   "change_pct": -0.0,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
+    100.8499984741211,
     100.8489990234375
    ]
   },
@@ -87,15 +88,14 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.78,
-   "change": 0.38,
-   "change_pct": 2.32,
+   "price": 16.4,
+   "change": -2.04,
+   "change_pct": -11.06,
    "spark": [
     16.200000762939453,
     16.40999984741211,
     18.440000534057617,
-    16.399999618530273,
-    16.780000686645508
+    16.399999618530273
    ]
   },
   "NG=F": {
@@ -223,7 +223,42 @@
    "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
    "source": "Press TV",
-   "published": "2026-06-20T03:25:48.062991+00:00",
+   "published": "2026-06-20T07:48:35.827679+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Swastikas, hate speech reportedly printed in NYC UN-affiliated middle school yearbook",
+   "link": "https://www.timesofisrael.com/swastikas-hate-speech-reportedly-printed-in-nyc-un-affiliated-middle-school-yearbook/",
+   "source": "Times of Israel",
+   "published": "2026-06-20T07:18:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "In photos: Hosseini Infants Gathering held in Iran’s Bandar Abbas",
+   "link": "https://en.irna.ir/photo/86187517/In-photos-Hosseini-Infants-Gathering-held-in-Iran-s-Bandar-Abbas",
+   "source": "IRNA",
+   "published": "2026-06-20T05:26:33+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Drone attack on Panama-flagged ship in Black Sea kills 1, injures 2 reut.rs/4gxLwFn",
+   "link": "https://bsky.app/profile/reuters.com/post/3mop375snog2n",
+   "source": "@reuters",
+   "published": "2026-06-20T05:00:36+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+   "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-20T04:30:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "In @nytopinion.nytimes.com “Freedom of navigation has largely prevailed since World War II because the United States has guaranteed it,” Edward Fishman writes. “Iran’s seizure of the Strait of Hormuz has cracked the edifice.”",
+   "link": "https://bsky.app/profile/nytimes.com/post/3moowp3uthb2d",
+   "source": "@nytimes",
+   "published": "2026-06-20T03:40:02.963115+00:00",
    "severity": "info"
   },
   {
@@ -288,69 +323,34 @@
    "source": "r/worldnews",
    "published": "2026-06-19T15:30:15+00:00",
    "severity": "info"
-  },
-  {
-   "title": "UAE's ADNOC offers crude, buyers can load inside Hormuz, trade sources say reut.rs/43HOa43",
-   "link": "https://bsky.app/profile/reuters.com/post/3monn3gvixt2r",
-   "source": "@reuters",
-   "published": "2026-06-19T15:15:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran rejects claims of Hormuz closure, says commercial shipping continues",
-   "link": "https://en.irna.ir/news/86187279/Iran-rejects-claims-of-Hormuz-closure-says-commercial-shipping",
-   "source": "IRNA",
-   "published": "2026-06-19T15:10:43+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says it will waive fees for Hormuz during 60 day negotiation period reut.rs/3SjvAN4",
-   "link": "https://bsky.app/profile/reuters.com/post/3monmse4wxr2v",
-   "source": "@reuters",
-   "published": "2026-06-19T15:10:15+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Strait Of Hormuz Shut Again: Iran's Navy Issues Warning After Israeli Strikes On Lebanon",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ua2973/strait_of_hormuz_shut_again_irans_navy_issues/",
-   "source": "r/worldnews",
-   "published": "2026-06-19T13:37:34+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "WATCH: IDF strikes 80 Hezbollah targets, kills dozens of terrorists following ceasefire violations",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-899933",
-   "source": "Jerusalem Post",
-   "published": "2026-06-19T12:35:28+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 11,
+   "status": "ELEVATED",
+   "incident_count": 9,
    "recent": [
     {
      "title": "Iran issues new passage guidelines for ships transiting Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/19/770737/Iran-Hormuz-PGSA-ships",
      "source": "Press TV",
-     "published": "2026-06-20T03:25:48.062991+00:00",
+     "published": "2026-06-20T07:48:35.827679+00:00",
      "severity": "info"
     },
     {
-     "title": "How Lebanon, Hormuz and nuclear tensions are testing fragile US-Iran deal",
-     "link": "https://www.al-monitor.com/originals/2026/06/how-lebanon-hormuz-and-nuclear-tensions-are-testing-fragile-us-iran-deal",
-     "source": "Al-Monitor",
-     "published": "2026-06-19T19:03:59+00:00",
-     "severity": "info"
+     "title": "In photos: Hosseini Infants Gathering held in Iran’s Bandar Abbas",
+     "link": "https://en.irna.ir/photo/86187517/In-photos-Hosseini-Infants-Gathering-held-in-Iran-s-Bandar-Abbas",
+     "source": "IRNA",
+     "published": "2026-06-20T05:26:33+00:00",
+     "severity": "critical"
     },
     {
-     "title": "Hormuz ship traffic climbs after war deal: trackers",
-     "link": "https://www.al-monitor.com/originals/2026/06/hormuz-ship-traffic-climbs-after-war-deal-trackers",
-     "source": "Al-Monitor",
-     "published": "2026-06-19T17:30:24+00:00",
+     "title": "In @nytopinion.nytimes.com “Freedom of navigation has largely prevailed since World War II because the United States has guaranteed it,” Edward Fishman writes. “Iran’s seizure of the Strait of Hormuz has cracked the edifice.”",
+     "link": "https://bsky.app/profile/nytimes.com/post/3moowp3uthb2d",
+     "source": "@nytimes",
+     "published": "2026-06-20T03:40:02.963115+00:00",
      "severity": "info"
     }
    ]
@@ -358,9 +358,17 @@
   {
    "name": "Bab el-Mandeb / Red Sea",
    "description": "Suez canal southern approach. Houthi attack zone since late 2023.",
-   "status": "QUIET",
-   "incident_count": 0,
-   "recent": []
+   "status": "ACTIVE",
+   "incident_count": 1,
+   "recent": [
+    {
+     "title": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
+     "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-20T04:30:40+00:00",
+     "severity": "info"
+    }
+   ]
   },
   {
    "name": "Suez Canal",
