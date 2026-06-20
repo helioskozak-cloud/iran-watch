@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T21:10:23.777231+00:00",
+ "generated": "2026-06-20T22:23:01.507595+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,28 +47,26 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": -0.0,
-   "change_pct": -0.0,
+   "change": 0.76,
+   "change_pct": 0.76,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7500.58,
-   "change": 80.48,
-   "change_pct": 1.08,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625,
-    7500.580078125
+    7420.10009765625
    ]
   },
   "USO": {
@@ -88,14 +86,13 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.4,
-   "change": -2.04,
-   "change_pct": -11.06,
+   "price": 18.44,
+   "change": 2.03,
+   "change_pct": 12.37,
    "spark": [
     16.200000762939453,
     16.40999984741211,
-    18.440000534057617,
-    16.399999618530273
+    18.440000534057617
    ]
   },
   "NG=F": {
@@ -223,8 +220,29 @@
    "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
    "source": "Press TV",
-   "published": "2026-06-20T21:09:48.387589+00:00",
+   "published": "2026-06-20T22:22:21.709655+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+   "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-20T21:54:39+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Breaking News: Vice President JD Vance left for Switzerland for the next round of peace negotiations with Iranian officials, as Iran's military said it would close the Strait of Hormuz over fighting between Israel and Hezbollah. Follow live updates.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3moqsig35dh2t",
+   "source": "@nytimes",
+   "published": "2026-06-20T21:30:03.369552+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-20T21:11:57+00:00",
+   "severity": "low"
   },
   {
    "title": "U.S. President Donald Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
@@ -302,27 +320,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-20T17:39:08+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-20T17:05:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US forces monitoring Strait of Hormuz to ensure it stays open reut.rs/4xHclxa",
-   "link": "https://bsky.app/profile/reuters.com/post/3moqdhc5qfc25",
-   "source": "@reuters",
-   "published": "2026-06-20T17:00:59+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says it is closing Strait of Hormuz over Israeli attacks on Lebanon",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ub1ex1/iran_says_it_is_closing_strait_of_hormuz_over/",
-   "source": "r/worldnews",
-   "published": "2026-06-20T16:51:56+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -336,21 +333,21 @@
      "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
      "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
      "source": "Press TV",
-     "published": "2026-06-20T21:09:48.387589+00:00",
+     "published": "2026-06-20T22:22:21.709655+00:00",
      "severity": "info"
     },
     {
-     "title": "U.S. President Donald Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ub75gg/us_president_donald_trump_threatens_to_charge_us/",
-     "source": "r/worldnews",
-     "published": "2026-06-20T20:49:39+00:00",
+     "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+     "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-20T21:54:39+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump says no toll on Strait of Hormuz unless US imposes one reut.rs/4w5uymw",
-     "link": "https://bsky.app/profile/reuters.com/post/3moqocnmeca2o",
-     "source": "@reuters",
-     "published": "2026-06-20T20:15:14+00:00",
+     "title": "Breaking News: Vice President JD Vance left for Switzerland for the next round of peace negotiations with Iranian officials, as Iran's military said it would close the Strait of Hormuz over fighting between Israel and Hezbollah. Follow live updates.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3moqsig35dh2t",
+     "source": "@nytimes",
+     "published": "2026-06-20T21:30:03.369552+00:00",
      "severity": "info"
     }
    ]
@@ -378,6 +375,66 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "c3e796774e48",
+   "title": "‘Save Yourself!’ James Carville Pushes Trump White House Staffers to ‘Leak Everything’ They Can",
+   "link": "https://www.mediaite.com/media/podcasts/save-yourself-james-carville-pushes-trump-white-house-staffers-to-leak-everything-they-can/",
+   "summary": "James Carville urged White House staffers under Donald Trump to save themselves from future scrutiny by leaking as much information as they can. The post ‘Save Yourself!’ James Carville Pushes Trump White House Staffers to ‘Leak Everything’ They Can first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T22:16:44+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1e9980337aa6",
+   "title": "Smallest team, biggest pitch",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/curacaos-off-field-pitch-investors-world-cup-00969103",
+   "summary": "A 158,000-person nation just made the World Cup. Now it wants your investment.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-20T22:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "65a70586e22c",
+   "title": "Reuters: A federal appeals court has blocked the Trump admin's plans to immediately slash the workforce at the Consumer Financial Protection Bureau by about two-thirds.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moqui3aevs2d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-20T22:05:39.548+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6bca919d4318",
+   "title": "UK Prime Minister Knows ‘Game Is Up’ and Is On the Brink of Resigning: Reports",
+   "link": "https://www.mediaite.com/media/news/uk-prime-minister-knows-game-is-up-and-is-on-the-brink-of-resigning-reports/",
+   "summary": "British Prime Minister Keir Starmer may be gearing up to resign from office amid internal pressure from his own party, according to new reports. The post UK Prime Minister Knows ‘Game Is Up’ and Is On the Brink of Resigning: Reports first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T21:45:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f399b8b3f96f",
+   "title": "Picking a piece of floating plastic out of murky water is a very serious crime 🙄🙄🙄",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3moqrjg5uk22s",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-20T21:12:43.328+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d121d10e34ce",
+   "title": "Former Olympian Charged With Vandalism After He Said He Checked Out The Peeling Blue Bottom Of The Reflecting Pool",
+   "link": "https://www.mediaite.com/media/news/former-olympian-charged-with-vandalism-after-he-said-he-checked-out-the-peeling-blue-bottom-of-the-reflecting-pool/",
+   "summary": "A former Olympian was arrested and charged with \"destruction of government property\" after pausing his bike ride to check out the algae-ridden reflecting pool. The post Former Olympian Charged With Vandalism After He Said He Checked Out The Peeling Blue Bottom Of The Reflecting Pool first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T21:11:33+00:00",
+   "iran_topic": false
+  },
   {
    "id": "ef71288951a2",
    "title": "our nations reflecting poll",
@@ -889,16 +946,6 @@
    "iran_topic": true
   },
   {
-   "id": "eae8e0e75006",
-   "title": "Trump Blurts Crack-of-Morning Rant Boasting ‘How Well We Have Done’ in Widely-Mocked Iran Deal — Rages at Obama",
-   "link": "https://www.mediaite.com/media/news/trump-blurts-crack-of-morning-rant-boasting-how-well-we-have-done-in-widely-mocked-iran-deal-rages-at-obama/",
-   "summary": "President Donald Trump was up early to post a rant bragging about his Iran deal and raging at \"Dumocrats\" like former President Barack Obama. The post Trump Blurts Crack-of-Morning Rant Boasting ‘How Well We Have Done’ in Widely-Mocked Iran Deal — Rages at Obama first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T12:04:31+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "843c73426631",
    "title": "Purged BLS leader on the \"surprisingly resilient\" US economy",
    "link": "https://www.publicnotice.co/p/erika-mcentarfer-interview",
@@ -906,16 +953,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-20T10:17:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7824a3443c01",
-   "title": "Reflecting Pool Is Now Under Siege by a Different and More ‘Aggressive’ Form of Algae: Report",
-   "link": "https://www.mediaite.com/media/news/reflecting-pool-is-now-under-siege-by-a-different-and-more-aggressive-form-of-algae-report/",
-   "summary": "President Donald Trump&#8217;s $14 million renovation project at the Lincoln Memorial Reflecting Pool is not going well. In fact, the efforts to kill off the algae are apparently helping foster a new, even more aggressive algae, according to tests conducted by a reporter for The Atlantic. Trump&#8217;s decision to drain the pool and paint the [&#8230;] The post Reflecting Pool Is Now Under Siege by a Different and More ‘Aggressive’ Form of Algae: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T03:10:29+00:00",
    "iran_topic": false
   },
   {
@@ -929,16 +966,6 @@
    "iran_topic": false
   },
   {
-   "id": "27c64524e703",
-   "title": "Trump Claims ‘Vandalism’ Caused Reflecting Pool Debacle, Accuses ABC Reporter of Trying To Make It Worse",
-   "link": "https://www.mediaite.com/politics/trump/trump-claims-vandalism-caused-reflecting-pool-debacle-accuses-abc-reporter-of-trying-to-make-it-worse/",
-   "summary": "For good measure, Trump accused ABC News Chief Washington Correspondent Jonathan Karl of \"trying to rip the rubber off of the surface.\" The post Trump Claims ‘Vandalism’ Caused Reflecting Pool Debacle, Accuses ABC Reporter of Trying To Make It Worse first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T02:34:44+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6af1dcd5a62c",
    "title": "A business tied to a longtime Trump supporter was given the no-bid contract to install a water-purification system in the Reflecting Pool. The National Park Service bypassed the competitive-bidding process typically required and gave a $1.7 million contract to the firm, Greenwater Services.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mooqtltuyk2w",
@@ -946,36 +973,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-20T01:55:11.618+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f12b917ae343",
-   "title": "Lurie seeing red, white and blue",
-   "link": "https://www.politico.com/live-updates/2026/06/19/world-cup-2026/lurie-seeing-red-white-and-blue-00969077",
-   "summary": "The San Francisco mayor's heart is set on the U.S. team playing at Levi's Stadium.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-20T01:23:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4a61a775f30",
-   "title": "Watch the full video here: www.youtube.com/live/tNYnmlZ...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moonl4bdsc2r",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:56:45.612+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a1a66aa393ec",
-   "title": "Epstein survivor Dani Bensky: When you have somebody like Todd Blanche at the helm of the DOJ, it’s hugely problematic. He has the president’s best interests at heart. He does not have the American people’s best interests at heart. He’s so unfit to be the acting attorney general.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3moonl4azzs2r",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-20T00:56:45.611+00:00",
    "iran_topic": false
   }
  ]
