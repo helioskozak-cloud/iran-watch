@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T22:23:01.507595+00:00",
+ "generated": "2026-06-20T23:43:34.148897+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -217,10 +217,31 @@
  ],
  "incidents": [
   {
+   "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
+   "source": "Jerusalem Post",
+   "published": "2026-06-21T02:16:39+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
    "source": "Press TV",
-   "published": "2026-06-20T22:22:21.709655+00:00",
+   "published": "2026-06-20T23:42:56.378035+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Shipping in the Strait of Hormuz faced new disruption on Saturday after Iran’s military said it was closing the waterway. The U.S. military offered a conflicting assessment. www.nytimes.com/live/2026/06...",
+   "link": "https://bsky.app/profile/nytimes.com/post/3moqwttvt7k2s",
+   "source": "@nytimes",
+   "published": "2026-06-20T22:48:01.997+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ub8u35/trump_vows_iran_will_not_charge_strait_of_hormuz/",
+   "source": "r/worldnews",
+   "published": "2026-06-20T22:03:24+00:00",
    "severity": "info"
   },
   {
@@ -299,27 +320,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-20T19:30:38+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Hormuz, World Cup joy, Meloni Vs Trump and Chinese foie gras reut.rs/4oH2K5s",
-   "link": "https://bsky.app/profile/reuters.com/post/3moqlj5i3us2n",
-   "source": "@reuters",
-   "published": "2026-06-20T19:25:11+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon",
-   "link": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
-   "source": "Tehran Times",
-   "published": "2026-06-20T17:42:05+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-   "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-20T17:39:08+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -327,27 +327,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 14,
+   "incident_count": 15,
    "recent": [
+    {
+     "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
+     "source": "Jerusalem Post",
+     "published": "2026-06-21T02:16:39+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
      "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
      "source": "Press TV",
-     "published": "2026-06-20T22:22:21.709655+00:00",
+     "published": "2026-06-20T23:42:56.378035+00:00",
      "severity": "info"
     },
     {
-     "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-     "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-20T21:54:39+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Breaking News: Vice President JD Vance left for Switzerland for the next round of peace negotiations with Iranian officials, as Iran's military said it would close the Strait of Hormuz over fighting between Israel and Hezbollah. Follow live updates.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3moqsig35dh2t",
+     "title": "Shipping in the Strait of Hormuz faced new disruption on Saturday after Iran’s military said it was closing the waterway. The U.S. military offered a conflicting assessment. www.nytimes.com/live/2026/06...",
+     "link": "https://bsky.app/profile/nytimes.com/post/3moqwttvt7k2s",
      "source": "@nytimes",
-     "published": "2026-06-20T21:30:03.369552+00:00",
+     "published": "2026-06-20T22:48:01.997+00:00",
      "severity": "info"
     }
    ]
@@ -375,6 +375,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b03241cd60c2",
+   "title": "JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes",
+   "link": "https://www.mediaite.com/media/news/jd-vance-claims-things-are-actually-getting-better-in-lebanon-despite-reports-of-16-dead-in-overnight-strikes/",
+   "summary": "J.D. Vance left for Switzerland Saturday evening, but not before gaggling with reporters on the tarmac and declaring that the situation in Lebanon is improving. The post JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T23:15:40+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dd113c5f27f4",
+   "title": "‘Pretty Impressive’: CNN Panelists Gush Over JD Vance’s ‘Glow Up’ and Media Performances",
+   "link": "https://www.mediaite.com/media/tv/pretty-impressive-cnn-panelists-gush-over-jd-vances-glow-up-and-media-performances/",
+   "summary": "A CNN panel on Saturday showered Vice President JD Vance with praise over his recent \"glow up\" and various media appearances promoting his new book. The post ‘Pretty Impressive’: CNN Panelists Gush Over JD Vance’s ‘Glow Up’ and Media Performances first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-20T22:59:43+00:00",
+   "iran_topic": false
+  },
   {
    "id": "c3e796774e48",
    "title": "‘Save Yourself!’ James Carville Pushes Trump White House Staffers to ‘Leak Everything’ They Can",
@@ -923,26 +943,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T13:40:03+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "67628a4a3ec0",
-   "title": "Here’s The ‘Banned’ Trump Interview Sparking International Brawl — And The Bombshell Hit-Back",
-   "link": "https://www.mediaite.com/media/news/heres-the-banned-trump-interview-sparking-international-brawl-and-the-bombshell-hit-back/",
-   "summary": "Trump sparked an international feud with a claim he made during a strange foreign interview, which drew a fiery rejoinder that lost little in translation. The post Here’s The ‘Banned’ Trump Interview Sparking International Brawl — And The Bombshell Hit-Back first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T13:09:23+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4c5405bdfd4",
-   "title": "Bill Maher Hammers Trump For ‘Losing’ Iran War — Hits Him With Shock Sex Scandal Dig",
-   "link": "https://www.mediaite.com/media/news/bill-maher-hammers-trump-for-losing-iran-war-hits-him-with-shock-sex-scandal-dig/",
-   "summary": "Comedian and pundit Bill Maher hammered President Donald Trump over the Iran War, claiming he lost and comparing it to an infamous Trump sex scandal. The post Bill Maher Hammers Trump For ‘Losing’ Iran War — Hits Him With Shock Sex Scandal Dig first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T12:40:42+00:00",
    "iran_topic": true
   },
   {
