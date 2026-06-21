@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T14:32:47.878887+00:00",
+ "generated": "2026-06-21T16:21:13.498150+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -222,8 +222,22 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-21T14:32:05.707959+00:00",
+   "published": "2026-06-21T16:20:30.945283+00:00",
    "severity": "info"
+  },
+  {
+   "title": "An American delegation, led by Vice President JD Vance, was meeting with Iranian negotiators in Switzerland on Sunday. The conflict in Lebanon is complicating efforts to reach a broader peace deal and keep the Strait of Hormuz open. Follow live updates.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mospfig7nu22",
+   "source": "@nytimes",
+   "published": "2026-06-21T15:40:03.422788+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US and Iran begin talks on initial peace deal in Switzerland",
+   "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-21T14:41:02+00:00",
+   "severity": "low"
   },
   {
    "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
@@ -308,20 +322,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-21T00:00:00+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Shipping in the Strait of Hormuz faced new disruption on Saturday after Iran’s military said it was closing the waterway. The U.S. military offered a conflicting assessment. www.nytimes.com/live/2026/06...",
-   "link": "https://bsky.app/profile/nytimes.com/post/3moqwttvt7k2s",
-   "source": "@nytimes",
-   "published": "2026-06-20T22:48:01.997+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ub8u35/trump_vows_iran_will_not_charge_strait_of_hormuz/",
-   "source": "r/worldnews",
-   "published": "2026-06-20T22:03:24+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -329,8 +329,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 11,
    "recent": [
+    {
+     "title": "An American delegation, led by Vice President JD Vance, was meeting with Iranian negotiators in Switzerland on Sunday. The conflict in Lebanon is complicating efforts to reach a broader peace deal and keep the Strait of Hormuz open. Follow live updates.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mospfig7nu22",
+     "source": "@nytimes",
+     "published": "2026-06-21T15:40:03.422788+00:00",
+     "severity": "low"
+    },
     {
      "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
      "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
@@ -343,13 +350,6 @@
      "link": "https://www.reddit.com/r/worldnews/comments/1ubnwee/usiran_talks_in_switzerland_to_get_under_way_as/",
      "source": "r/worldnews",
      "published": "2026-06-21T11:39:52+00:00",
-     "severity": "low"
-    },
-    {
-     "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-     "link": "https://www.al-monitor.com/originals/2026/06/irans-tasnim-news-agency-says-hormuz-will-not-reopen-until-lebanon-ceasefire",
-     "source": "Al-Monitor",
-     "published": "2026-06-21T11:36:39+00:00",
      "severity": "low"
     }
    ]
@@ -377,6 +377,136 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b1aa8c99df4e",
+   "title": "What SoFi Stadium traffic is teaching LA politicians about the Olympics",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/sofi-stadium-traffic-world-cup-olympic-lessons-la-00969211",
+   "summary": "Los Angeles is about to host its fourth match of the tournament, the most of any city thus far. Olympic organizers are taking notes.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T15:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a2051ef07c7",
+   "title": "Trump Dances on the Political Grave of British PM Keir Starmer — Appears to Reveal Starmer ‘Will Resign’ Before Official Announcement",
+   "link": "https://www.mediaite.com/media/news/trump-dances-on-the-political-grave-of-british-pm-keir-starmer-appears-to-reveal-starmer-will-resign-before-official-announcement/",
+   "summary": "Trump celebrated the political demise of British Prime Minister Keir Starmer, and seemed to jump the gun by revealing the embattled leader \"will resign.\" The post Trump Dances on the Political Grave of British PM Keir Starmer — Appears to Reveal Starmer ‘Will Resign’ Before Official Announcement first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T15:18:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "41745c566b98",
+   "title": "And then President Trump is going to beat up Iran's dad in front of the whole school and then President Trump is going to take us all out for McDonalds and then President Trump is finally going to tell me that he loves me and then",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mosnyrgzb22z",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-21T15:15:02.988+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ff08650ac443",
+   "title": "Thank you!",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosn4ok6nk27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:59:20.423+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1c999c0d5a5c",
+   "title": "Aaron, your father would be so very proud of you. Happy Father's day. Public Notice is worth your money, people. And it isn't just the well-thought articles. Aaron works every single day to bring us news clips to keep us informed. And all that is completely free!",
+   "link": "https://bsky.app/profile/oeishik.bsky.social/post/3mosn2zpacc24",
+   "summary": "",
+   "source": "@oeishik",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:58:25.013+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b93f6d5bdff8",
+   "title": "I'm going to take the rest of the morning and afternoon off for Father's Day. If you appreciate my efforts to bring you the newsiest clips day in and day out, please support what I do by signing up for my newsletter. I'm proud of our coverage at PN and paid subscribers make my work possible. Thanks.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmvnwjrc2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:55:24.897+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ee44371af478",
+   "title": "WALTZ: No one would've thought even a year that you'd have Israel and the UAE working together militarily BRENNAN: Well, they were kinda forced to",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmqqvh2s2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:52:40.239+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "075e8b613baa",
+   "title": "Lindsey Graham: \"I spent 4.5 hours with President Trump. Here's what I think will happen. If this deal fails, he's gonna take the Strait of Hormuz over by force. We'll charge a fee for all those who go through to pay for the operation... if Iran contests control of the strait we'll obliterate them\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmqdadqe2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:52:25.911+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "72970d2c48b8",
+   "title": "BRENNAN: Are there classified annexes or portions of the MOU that have not been made public, and will they be shared with Congress? WALTZ: Not to my knowledge BRENNAN: What's the 'gentleman's agreement'? WALTZ: This is an ongoing negotiation",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmhbgl7v2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:47:22.031+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ca2db55741b",
+   "title": "Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show",
+   "link": "https://www.mediaite.com/media/news/foxs-rachel-campos-duffy-slams-zohran-mamdani-as-a-nepo-baby-two-days-after-inviting-her-own-daughter-on-her-show/",
+   "summary": "A Fox News host criticized New York City Mayor Zohran Mamdani as a \"nepo baby\" — just days after she invited her own daughter to appear on her show. The post Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T14:43:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aa0465749e91",
+   "title": "BRENNAN: The war is unpopular, as you just heard. And if even the president's own team doubts this is a win, how do you sell this to the public? MIKE WALTZ: I'll go back to other polling that shows the American people absolutely agree with President Trump that Iran can never have a nuclear weapon",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosm5dhcnz2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:41:48.610+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "7434af04b5b0",
+   "title": "Brennan: \"Our CBS News poll out this morning shows that more than three-quarters of Americans want to end the conflict now, with 69% saying the conflict with Iran was not worth the costs\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moslxikzfe2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:38:32.646+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "aaa7b6cf1926",
+   "title": "McCormick: \"The other thing that's happening in the economy, which is great, is that gas prices are down under $4 in PA. I think people understood that we needed to take action against Iran to protect our children. But man, those gas prices hurt working families, and they're seeing real relief.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosluejnaf2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:36:47.746+00:00",
+   "iran_topic": true
+  },
   {
    "id": "f6e9a4d46028",
    "title": "Energy Secretary Chris Wright with a Freudian slip: \"We've paid the price with higher energy prices in the midterm\"",
@@ -416,6 +546,16 @@
    "category": "trump_bsky",
    "published": "2026-06-21T14:25:26.491+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "1a1082fc8134",
+   "title": "man this season of american idol got weird",
+   "link": "https://bsky.app/profile/unavaleable.bsky.social/post/3moskxxfjts2v",
+   "summary": "",
+   "source": "@unavaleable",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:20:54.451+00:00",
+   "iran_topic": false
   },
   {
    "id": "09a4942d4608",
@@ -538,46 +678,6 @@
    "iran_topic": false
   },
   {
-   "id": "342f9bf5e179",
-   "title": "\"The president told me he's disappointed Israel can't put Hezbollah away. He went on to say, 'They can't do anything without knocking buildings down' & that he is close to giving it to Syria. He's talking about empowering the Syrian president to actually go into southern Lebanon and fight Hezbollah\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mosi7oxncu27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T13:31:32.815+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9fe495f83b3a",
-   "title": "Insanity.",
-   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3moshxa35k222",
-   "summary": "",
-   "source": "@prchovanec",
-   "category": "trump_bsky",
-   "published": "2026-06-21T13:26:48.769+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "91a7c4cd1980",
-   "title": "Trump threats to occupy Iran: \"President Trump tells Fox News he spoke with Iranian officials overnight and said, 'You close the strait and you won't have a country.' He went on to tell these officials, 'You won't even make it back to your f**king country...we'll take over the rest of the country.'\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moshwlvohh2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T13:26:27.619+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9b5e802d78a4",
-   "title": "\"President Trump told Fox News the US may take over the strait in the future if they have to & collect tolls. The president described this as the US being the guardian angel of the Strait of Hormuz & Middle East. He said that would involve the US taking 20% of the oil that passes through the strait\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moshqy7rdy2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T13:23:19.208+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "dc5e1e18d52a",
    "title": "JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran",
    "link": "https://www.mediaite.com/media/news/just-in-jd-vance-arrives-in-switzerland-for-direct-talks-with-iran/",
@@ -598,16 +698,6 @@
    "iran_topic": true
   },
   {
-   "id": "2a0a0d260c4f",
-   "title": "Anybody have any clue who this is? I’m baffled",
-   "link": "https://bsky.app/profile/atrupar.com/post/3morc5q4tqk2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T02:10:24.734+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "cf538ff63bd3",
    "title": "Trump admits: The problems with the Lincoln Memorial Reflecting Pool have become so severe that the pool will have to be at least partly drained for \"necessary repairs.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3morc5fyukk2f",
@@ -618,46 +708,6 @@
    "iran_topic": false
   },
   {
-   "id": "c08d89e59ca0",
-   "title": "The U.S. has absolutely no right to impose tolls for transiting the Strait of Hormuz. It’s actually an act of war and/or piracy against the entire world.",
-   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3morbeh6y3k22",
-   "summary": "",
-   "source": "@prchovanec",
-   "category": "trump_bsky",
-   "published": "2026-06-21T01:56:16.509+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "66f843942e22",
-   "title": "Trump on the Reflecting Pool: \"It's very strong. You couldn't, if you had a knife — I don't want to give anybody ideas — if you had a knife, you can't even cut it. So strong, so powerful.\"",
-   "link": "https://bsky.app/profile/thebulwark.com/post/3morackgibs2c",
-   "summary": "",
-   "source": "@thebulwark",
-   "category": "trump_bsky",
-   "published": "2026-06-21T01:37:19.051+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d0ca90986f9e",
-   "title": "i think this might actually kill him, lol",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mor6whrbq22p",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-21T01:12:39.864+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "319f570c6a7a",
-   "title": "Sorry that happened tho. Or happy for you.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mor62ykrzc2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T00:57:17.954+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "c0a337c76707",
    "title": "World Cup fuels ticketing reform demands",
    "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/world-cup-fuels-ticketing-reform-demands-00969201",
@@ -665,36 +715,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-21T00:46:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c3af7e7a2527",
-   "title": "he's now blaming the green and the new coating floating to the top as the work of a horde of vandals. \"they took some form of knife or blade and put a 250 foot long gash into the beautiful facade\" lol",
-   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3mor5f4dpnk2n",
-   "summary": "",
-   "source": "@joshtpm",
-   "category": "trump_bsky",
-   "published": "2026-06-21T00:45:03.719+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "332d712bfaba",
-   "title": "Trump on the reflecting pool: “We met with contractors today, will probably be forced to release and drain much of the water in order to do the necessary repairs, but will have them done as quickly as possible.” 😭",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mor53nvmgk2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T00:39:46.581+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "220d01114888",
-   "title": "They self evidently do not. Similarly, when you walk into a meeting of the G7 and say, “I’m the boss”, and then hours later the Italian leader says your behavior is appalling and you’re done with it; then you’re not the f***ing boss.",
-   "link": "https://bsky.app/profile/tomcoates.bsky.social/post/3mor3esizxs2c",
-   "summary": "",
-   "source": "@tomcoates",
-   "category": "trump_bsky",
-   "published": "2026-06-21T00:09:05.922+00:00",
    "iran_topic": false
   },
   {
@@ -778,20 +798,20 @@
    "iran_topic": true
   },
   {
-   "id": "14d147166ca0",
-   "title": "The happiest World Cup game",
-   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/happiest-countries-fifa-world-cup-2026-netherlands-sweden-00969093",
-   "summary": "",
+   "id": "ffcb35f7ee6d",
+   "title": "In the World Cup’s missing country, failure sparks bitter political battle",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/italy-football-crisis-political-battle-fifa-world-cup-2026-00969179",
+   "summary": "Giorgia Meloni’s government is keen to extend control over Italian football as fans mourn a third consecutive World Cup debacle.",
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-20T20:15:00+00:00",
    "iran_topic": false
   },
   {
-   "id": "ffcb35f7ee6d",
-   "title": "In the World Cup’s missing country, failure sparks bitter political battle",
-   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/italy-football-crisis-political-battle-fifa-world-cup-2026-00969179",
-   "summary": "Giorgia Meloni’s government is keen to extend control over Italian football as fans mourn a third consecutive World Cup debacle.",
+   "id": "14d147166ca0",
+   "title": "The happiest World Cup game",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/happiest-countries-fifa-world-cup-2026-netherlands-sweden-00969093",
+   "summary": "",
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-20T20:15:00+00:00",
@@ -948,16 +968,6 @@
    "iran_topic": false
   },
   {
-   "id": "55969de3d026",
-   "title": "CNN’s Kaitlan Collins Calls BS on Trump Over Reflecting Pool ‘Vandalism’ Rant",
-   "link": "https://www.mediaite.com/media/news/cnns-kaitlan-collins-calls-bs-on-trump-over-reflecting-pool-vandalism-rant/",
-   "summary": "CNN anchor Kaitlan Collins called BS on President Donald Trump's explanation for the tribulations that have befallen the Reflecting Pool. The post CNN’s Kaitlan Collins Calls BS on Trump Over Reflecting Pool ‘Vandalism’ Rant first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T15:44:08+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3b7d439b245c",
    "title": "Why do Dutch fans wear orange?",
    "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/why-netherlands-dutch-soccer-fans-wear-orange-00969101",
@@ -966,16 +976,6 @@
    "category": "politico_pol",
    "published": "2026-06-20T15:15:00+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "6ae937b39f1a",
-   "title": "Bill Maher Twists Knife on Trump — Flat-Out Says ‘Obama Was Right’ About Iran After Supporting Trump Attack",
-   "link": "https://www.mediaite.com/media/news/bill-maher-twists-knife-on-trump-flat-out-says-obama-was-right-about-iran-after-supporting-trump-attack/",
-   "summary": "Comedian and pundit Bill Maher twisted the knife on President Donald Trump over the Iran War by bluntly declaring that \"Obama was right\" about Iran. The post Bill Maher Twists Knife on Trump — Flat-Out Says ‘Obama Was Right’ About Iran After Supporting Trump Attack first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T14:55:38+00:00",
-   "iran_topic": true
   }
  ]
 }
