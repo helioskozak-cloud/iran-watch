@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T03:56:22.158567+00:00",
+ "generated": "2026-06-21T08:29:37.369783+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,14 +47,13 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": -0.0,
-   "change_pct": -0.0,
+   "change": 0.76,
+   "change_pct": 0.76,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211,
-    100.8489990234375
+    100.8499984741211
    ]
   },
   "^GSPC": {
@@ -220,14 +219,35 @@
  ],
  "incidents": [
   {
-   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+   "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
+   "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-21T03:55:44.005815+00:00",
+   "published": "2026-06-21T08:28:52.299019+00:00",
    "severity": "info"
   },
   {
-   "title": "US-Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
+   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+   "source": "Press TV",
+   "published": "2026-06-21T08:28:52.294918+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-21T04:34:00+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ubfdli/us_disputes_iranian_claims_about_closing_strait/",
+   "source": "r/worldnews",
+   "published": "2026-06-21T03:24:18+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US, Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
    "link": "https://www.timesofisrael.com/us-iran-set-for-new-talks-trump-threatens-us-tolls-in-hormuz-if-deal-not-reached-in-60-days/",
    "source": "Times of Israel",
    "published": "2026-06-21T02:41:06+00:00",
@@ -248,13 +268,6 @@
    "severity": "info"
   },
   {
-   "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-21T01:46:31+00:00",
-   "severity": "low"
-  },
-  {
    "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
    "link": "https://www.al-monitor.com/originals/2026/06/us-disputes-iranian-claims-about-closing-strait-hormuz-negotiators-head",
    "source": "Al-Monitor",
@@ -269,7 +282,7 @@
    "severity": "info"
   },
   {
-   "title": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
+   "title": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-21T00:00:00+00:00",
@@ -309,20 +322,6 @@
    "source": "r/worldnews",
    "published": "2026-06-20T20:49:39+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump says no toll on Strait of Hormuz unless US imposes one reut.rs/4w5uymw",
-   "link": "https://bsky.app/profile/reuters.com/post/3moqocnmeca2o",
-   "source": "@reuters",
-   "published": "2026-06-20T20:15:14+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says no toll on Strait of Hormuz unless US imposes one",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-no-toll-strait-hormuz-unless-us-imposes-one",
-   "source": "Al-Monitor",
-   "published": "2026-06-20T20:01:40+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -330,27 +329,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 13,
+   "incident_count": 12,
    "recent": [
     {
      "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
      "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
      "source": "Press TV",
-     "published": "2026-06-21T03:55:44.005815+00:00",
+     "published": "2026-06-21T08:28:52.294918+00:00",
      "severity": "info"
     },
     {
-     "title": "US-Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
-     "link": "https://www.timesofisrael.com/us-iran-set-for-new-talks-trump-threatens-us-tolls-in-hormuz-if-deal-not-reached-in-60-days/",
-     "source": "Times of Israel",
-     "published": "2026-06-21T02:41:06+00:00",
+     "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+     "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-21T04:34:00+00:00",
      "severity": "low"
     },
     {
-     "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
-     "source": "Jerusalem Post",
-     "published": "2026-06-21T02:16:39+00:00",
+     "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ubfdli/us_disputes_iranian_claims_about_closing_strait/",
+     "source": "r/worldnews",
+     "published": "2026-06-21T03:24:18+00:00",
      "severity": "info"
     }
    ]
