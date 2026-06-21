@@ -1,59 +1,60 @@
 {
- "generated": "2026-06-21T21:42:00.847185+00:00",
+ "generated": "2026-06-21T22:49:34.648705+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 80.59,
-   "change": 0.74,
-   "change_pct": 0.93,
+   "price": 81.38,
+   "change": 1.53,
+   "change_pct": 1.92,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    80.58999633789062
+    81.37999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 76.54,
-   "change": -0.06,
-   "change_pct": -0.08,
+   "price": 77.42,
+   "change": 0.82,
+   "change_pct": 1.07,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    76.54000091552734
+    77.41999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4172.9,
-   "change": -51.2,
-   "change_pct": -1.21,
+   "price": 4168.6,
+   "change": -55.5,
+   "change_pct": -1.31,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4172.89990234375
+    4168.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": 0.76,
-   "change_pct": 0.76,
+   "change": 0.0,
+   "change_pct": 0.0,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
-    100.8499984741211
+    100.8499984741211,
+    100.85199737548828
    ]
   },
   "^GSPC": {
@@ -100,15 +101,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.2,
-   "change": -0.04,
-   "change_pct": -1.08,
+   "price": 3.28,
+   "change": 0.05,
+   "change_pct": 1.39,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.197999954223633
+    3.2780001163482666
    ]
   }
  },
@@ -219,10 +220,17 @@
  ],
  "incidents": [
   {
+   "title": "US-Iran deal leaves Europe on the sidelines in the Strait of Hormuz - analysis",
+   "link": "https://www.jpost.com/middle-east/article-900081",
+   "source": "Jerusalem Post",
+   "published": "2026-06-21T22:50:38+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-21T21:41:15.377507+00:00",
+   "published": "2026-06-21T22:48:54.810763+00:00",
    "severity": "info"
   },
   {
@@ -315,13 +323,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-21T00:01:42+00:00",
    "severity": "low"
-  },
-  {
-   "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland reut.rs/4eFzCXz",
-   "link": "https://bsky.app/profile/reuters.com/post/3mor2wkjsbr2x",
-   "source": "@reuters",
-   "published": "2026-06-21T00:01:07+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,6 +332,13 @@
    "status": "ACTIVE",
    "incident_count": 13,
    "recent": [
+    {
+     "title": "US-Iran deal leaves Europe on the sidelines in the Strait of Hormuz - analysis",
+     "link": "https://www.jpost.com/middle-east/article-900081",
+     "source": "Jerusalem Post",
+     "published": "2026-06-21T22:50:38+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds",
      "link": "https://www.reddit.com/r/worldnews/comments/1uc1ktu/irans_tasnim_news_agency_says_hormuz_will_not/",
@@ -344,13 +352,6 @@
      "source": "Al Jazeera",
      "published": "2026-06-21T17:36:27+00:00",
      "severity": "info"
-    },
-    {
-     "title": "An American delegation, led by Vice President JD Vance, was meeting with Iranian negotiators in Switzerland on Sunday. The conflict in Lebanon is complicating efforts to reach a broader peace deal and keep the Strait of Hormuz open. Follow live updates.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mospfig7nu22",
-     "source": "@nytimes",
-     "published": "2026-06-21T15:40:03.422788+00:00",
-     "severity": "low"
     }
    ]
   },
@@ -378,6 +379,66 @@
  ],
  "wh_statements": [
   {
+   "id": "72b06099be0d",
+   "title": "Trump: “The way the Corrupt and Failing NY Times is covering stories on a very battered and beat up Iran, through FAKE & MADE UP ‘FACTS’ is, in my opinion, ‘TREASONOUS.’ I will be adding all of their false and ridiculous reporting to my multi Billion Dollar lawsuit against them. They are Criminals!”",
+   "link": "https://bsky.app/profile/atrupar.com/post/3motgcvifs22o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T22:30:12.571+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "56b9ba72fc6c",
+   "title": "Vancouver learned to stop worrying and love mega-events",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/vancouver-world-cup-00969409",
+   "summary": "The city that defined modern anti-Olympic resistance has made its peace with the World Cup.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T22:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e27dba6d536",
+   "title": "Lindsey Graham Predicts Trump Will ‘Obliterate’ Iran If Strait of Hormuz Is Messed With",
+   "link": "https://www.mediaite.com/politics/lindsey-graham-predicts-trump-will-obliterate-iran-if-strait-of-hormuz-is-messed-with/",
+   "summary": "Sen. Lindsey Graham (R-SC) predicted President Donald Trump will \"obliterate\" Iran if it dares contest American control of the Strait of Hormuz. The post Lindsey Graham Predicts Trump Will ‘Obliterate’ Iran If Strait of Hormuz Is Messed With first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T22:28:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "05e5ae1ed9f7",
+   "title": "Very kind of you to say! Thanks",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moteuiibb22o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T22:04:15.437+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fc85ebc89fe7",
+   "title": "Trump Trashes ‘Unethical Cowards’ at The New York Times Over Story on ‘Not Much’ Changing After Iran War",
+   "link": "https://www.mediaite.com/politics/trump-trashes-unethical-cowards-at-the-new-york-times-over-story-on-not-much-changing-after-iran-war/",
+   "summary": "Trump ripped the \"corrupt and unethical cowards\" at The New York Times after he read a story from the paper that said the Iran war had failed on several fronts The post Trump Trashes ‘Unethical Cowards’ at The New York Times Over Story on ‘Not Much’ Changing After Iran War first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T21:49:22+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "a95df890793d",
+   "title": "Full interview and more from MeidasTouch here: youtu.be/3YR7ubFL1CU",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3motdq65dxc26",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-21T21:43:56.634+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "97794938b4e8",
    "title": "Cooper: Remember, on Medicaid expansion, Republican Thom Tillis, stood up on the floor and said, “I can’t vote for this one big beautiful bill because I don’t know what I’d tell the people of North Carolina.” He knew that many people were going to lose their health insurance.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3motdix7xys2e",
@@ -396,6 +457,26 @@
    "category": "mediaite_all",
    "published": "2026-06-21T21:31:40+00:00",
    "iran_topic": false
+  },
+  {
+   "id": "d72d5cff8431",
+   "title": "What Jordan's ambassador wants you to think about while watching Messi",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/jordan-first-world-cup-ambassador-dina-kawar-00969399",
+   "summary": "Dina Kawar is hoping Jordan's first-ever World Cup will get Americans see beyond its security challenges.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T21:31:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9849056a6c38",
+   "title": "Hormuz vessel crossings: @bloomberg.com",
+   "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3motbm5wbr22u",
+   "summary": "",
+   "source": "@carlquintanilla",
+   "category": "trump_bsky",
+   "published": "2026-06-21T21:05:54.698+00:00",
+   "iran_topic": true
   },
   {
    "id": "f4790315e1cd",
@@ -445,6 +526,16 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-21T20:37:52.652+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d1aefa58a78",
+   "title": "Sports is the Gulf's favorite soft power play. The World Cup is a hard test.",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/gulf-soccer-flop-saudi-arabia-qatar-uae-00969404",
+   "summary": "Middle Eastern petrostates have poured billions into the game. Their national teams are struggling to keep up.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T20:31:17+00:00",
    "iran_topic": false
   },
   {
@@ -518,6 +609,16 @@
    "iran_topic": false
   },
   {
+   "id": "a39db29b29d1",
+   "title": "Paws. Dish. Draw. Repeat.",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/belgium-bart-de-wever-cat-maximus-predictions-00969394",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T19:57:07+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "c6d190879d1a",
    "title": "‘Utterly Insane!’ WaPo Story On Tulsi Gabbard’s Link to Religious ‘Guru’ Who Allegedly Guided Her Career Sends Shockwaves",
    "link": "https://www.mediaite.com/media/news/utterly-insane-wapo-story-on-tulsi-gabbards-link-to-religious-guru-who-allegedly-guided-her-career-sends-shockwaves/",
@@ -555,6 +656,26 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-21T18:54:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "07bd79a75485",
+   "title": "The world came to play. Southeast Asia came to sell.",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/fifa-gift-shop-made-in-southeast-asia-trump-tariffs-00969216",
+   "summary": "Our trade editor explores the FIFA gift shop — and finds Donald Trump's influence on every tag.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T18:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a04fe74494c0",
+   "title": "Which members of the prospective ’28 field are hitting the pitch",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/2028-presidential-contenders-2026-fifa-world-cup-josh-shapiro-00969392",
+   "summary": "Pennsylvania Gov. Josh Shapiro is leaning into the “once-in-a-lifetime” World Cup.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T18:30:00+00:00",
    "iran_topic": false
   },
   {
@@ -658,6 +779,16 @@
    "iran_topic": false
   },
   {
+   "id": "8484850d14c9",
+   "title": "FIFA plays flag football against Iranian protesters",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/battle-iran-lion-sun-flag-fifa-ban-00969215",
+   "summary": "A California court says FIFA can ban a pre-revolutionary Iranian flag favored by Tehran's opponents. Actually keeping it out of stadiums is harder.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T17:31:00+00:00",
+   "iran_topic": true
+  },
+  {
    "id": "eba80c8301b7",
    "title": "Senate Democrat Used Campaign Cash for Lavish Purchases Including Trips to Disney and Super Bowl Tickets: Report",
    "link": "https://www.mediaite.com/politics/senate-democrat-used-campaign-cash-for-lavish-purchases-including-trips-to-disney-and-super-bowl-tickets-report/",
@@ -758,6 +889,26 @@
    "iran_topic": false
   },
   {
+   "id": "cc624cd1bbae",
+   "title": "What does it cost to air-condition a World Cup?",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/world-cup-stadiums-electric-bill-comes-due-dallas-00969213",
+   "summary": "Dallas is using the most power among U.S. stadiums, according to one analysis, but will benefit of Texas's low energy rates when the bill comes due.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T16:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b1aa8c99df4e",
+   "title": "What SoFi Stadium traffic is teaching LA politicians about the Olympics",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/sofi-stadium-traffic-world-cup-olympic-lessons-la-00969211",
+   "summary": "Los Angeles is about to host its fourth match of the tournament, the most of any city thus far. Olympic organizers are taking notes.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T15:30:00+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "0a2051ef07c7",
    "title": "Trump Dances on the Political Grave of British PM Keir Starmer — Appears to Reveal Starmer ‘Will Resign’ Before Official Announcement",
    "link": "https://www.mediaite.com/media/news/trump-dances-on-the-political-grave-of-british-pm-keir-starmer-appears-to-reveal-starmer-will-resign-before-official-announcement/",
@@ -826,156 +977,6 @@
    "category": "trump_bsky",
    "published": "2026-06-21T14:52:25.911+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "72970d2c48b8",
-   "title": "BRENNAN: Are there classified annexes or portions of the MOU that have not been made public, and will they be shared with Congress? WALTZ: Not to my knowledge BRENNAN: What's the 'gentleman's agreement'? WALTZ: This is an ongoing negotiation",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mosmhbgl7v2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T14:47:22.031+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6ca2db55741b",
-   "title": "Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show",
-   "link": "https://www.mediaite.com/media/news/foxs-rachel-campos-duffy-slams-zohran-mamdani-as-a-nepo-baby-two-days-after-inviting-her-own-daughter-on-her-show/",
-   "summary": "A Fox News host criticized New York City Mayor Zohran Mamdani as a \"nepo baby\" — just days after she invited her own daughter to appear on her show. The post Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-21T14:43:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aa0465749e91",
-   "title": "BRENNAN: The war is unpopular, as you just heard. And if even the president's own team doubts this is a win, how do you sell this to the public? MIKE WALTZ: I'll go back to other polling that shows the American people absolutely agree with President Trump that Iran can never have a nuclear weapon",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mosm5dhcnz2n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T14:41:48.610+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "7434af04b5b0",
-   "title": "Brennan: \"Our CBS News poll out this morning shows that more than three-quarters of Americans want to end the conflict now, with 69% saying the conflict with Iran was not worth the costs\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moslxikzfe2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T14:38:32.646+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "aaa7b6cf1926",
-   "title": "McCormick: \"The other thing that's happening in the economy, which is great, is that gas prices are down under $4 in PA. I think people understood that we needed to take action against Iran to protect our children. But man, those gas prices hurt working families, and they're seeing real relief.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mosluejnaf2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-21T14:36:47.746+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "1a1082fc8134",
-   "title": "man this season of american idol got weird",
-   "link": "https://bsky.app/profile/unavaleable.bsky.social/post/3moskxxfjts2v",
-   "summary": "",
-   "source": "@unavaleable",
-   "category": "trump_bsky",
-   "published": "2026-06-21T14:20:54.451+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bd3b28a38bdc",
-   "title": "Vance says US hopes to ‘transform’ Middle East as Iran talks begin",
-   "link": "https://www.politico.com/news/2026/06/21/vance-says-us-hopes-to-transform-middle-east-as-iran-talks-begin-00969324",
-   "summary": "The vice president is optimistic about diplomacy even as the U.S.-Iran ceasefire threatens to unravel.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-21T14:11:49+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "dc5e1e18d52a",
-   "title": "JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran",
-   "link": "https://www.mediaite.com/media/news/just-in-jd-vance-arrives-in-switzerland-for-direct-talks-with-iran/",
-   "summary": "Vice President JD Vance arrived in Switzerland, early Sunday, for in-person negotiations with Iran for the first time since the April summit in Islamabad. The post JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-21T13:23:01+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "7ad264e8b8ad",
-   "title": "Mark Levin Wallops Trump Administration Over Iran Deal in Fiery 17-Minute Fox News Monologue: ‘Stop Trashing, Smearing, Bullying’ Israel!",
-   "link": "https://www.mediaite.com/media/news/mark-levin-wallops-trump-administration-over-iran-deal-in-fiery-17-minute-fox-news-monologue-stop-trashing-smearing-bullying-israel/",
-   "summary": "In a scorching commentary, the Fox News host sounded off on the Trump administration for \"bullying\" Israel and \"cozying up to\" Iran. The post Mark Levin Wallops Trump Administration Over Iran Deal in Fiery 17-Minute Fox News Monologue: ‘Stop Trashing, Smearing, Bullying’ Israel! first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-21T12:40:28+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "cf538ff63bd3",
-   "title": "Trump admits: The problems with the Lincoln Memorial Reflecting Pool have become so severe that the pool will have to be at least partly drained for \"necessary repairs.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3morc5fyukk2f",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-21T02:10:14.122+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b03241cd60c2",
-   "title": "JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes",
-   "link": "https://www.mediaite.com/media/news/jd-vance-claims-things-are-actually-getting-better-in-lebanon-despite-reports-of-16-dead-in-overnight-strikes/",
-   "summary": "J.D. Vance left for Switzerland Saturday evening, but not before gaggling with reporters on the tarmac and declaring that the situation in Lebanon is improving. The post JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T23:15:40+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "dd113c5f27f4",
-   "title": "‘Pretty Impressive’: CNN Panelists Gush Over JD Vance’s ‘Glow Up’ and Media Performances",
-   "link": "https://www.mediaite.com/media/tv/pretty-impressive-cnn-panelists-gush-over-jd-vances-glow-up-and-media-performances/",
-   "summary": "A CNN panel on Saturday showered Vice President JD Vance with praise over his recent \"glow up\" and various media appearances promoting his new book. The post ‘Pretty Impressive’: CNN Panelists Gush Over JD Vance’s ‘Glow Up’ and Media Performances first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T22:59:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c3e796774e48",
-   "title": "‘Save Yourself!’ James Carville Pushes Trump White House Staffers to ‘Leak Everything’ They Can",
-   "link": "https://www.mediaite.com/media/podcasts/save-yourself-james-carville-pushes-trump-white-house-staffers-to-leak-everything-they-can/",
-   "summary": "James Carville urged White House staffers under Donald Trump to save themselves from future scrutiny by leaking as much information as they can. The post ‘Save Yourself!’ James Carville Pushes Trump White House Staffers to ‘Leak Everything’ They Can first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T22:16:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "65a70586e22c",
-   "title": "Reuters: A federal appeals court has blocked the Trump admin's plans to immediately slash the workforce at the Consumer Financial Protection Bureau by about two-thirds.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moqui3aevs2d",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-20T22:05:39.548+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6bca919d4318",
-   "title": "UK Prime Minister Knows ‘Game Is Up’ and Is On the Brink of Resigning: Reports",
-   "link": "https://www.mediaite.com/media/news/uk-prime-minister-knows-game-is-up-and-is-on-the-brink-of-resigning-reports/",
-   "summary": "British Prime Minister Keir Starmer may be gearing up to resign from office amid internal pressure from his own party, according to new reports. The post UK Prime Minister Knows ‘Game Is Up’ and Is On the Brink of Resigning: Reports first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T21:45:42+00:00",
-   "iran_topic": false
   }
  ]
 }
