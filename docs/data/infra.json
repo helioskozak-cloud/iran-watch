@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T23:43:34.148897+00:00",
+ "generated": "2026-06-21T02:06:29.306339+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -47,26 +47,28 @@
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
    "price": 100.85,
-   "change": 0.76,
-   "change_pct": 0.76,
+   "change": -0.0,
+   "change_pct": -0.0,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
+    100.8499984741211,
     100.8489990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7500.58,
+   "change": 80.48,
+   "change_pct": 1.08,
    "spark": [
     7431.4599609375,
     7554.2900390625,
     7511.35009765625,
-    7420.10009765625
+    7420.10009765625,
+    7500.580078125
    ]
   },
   "USO": {
@@ -86,13 +88,14 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.44,
-   "change": 2.03,
-   "change_pct": 12.37,
+   "price": 16.4,
+   "change": -2.04,
+   "change_pct": -11.06,
    "spark": [
     16.200000762939453,
     16.40999984741211,
-    18.440000534057617
+    18.440000534057617,
+    16.399999618530273
    ]
   },
   "NG=F": {
@@ -227,8 +230,36 @@
    "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
    "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
    "source": "Press TV",
-   "published": "2026-06-20T23:42:56.378035+00:00",
+   "published": "2026-06-21T02:05:43.979015+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-21T01:46:31+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-disputes-iranian-claims-about-closing-strait-hormuz-negotiators-head",
+   "source": "Al-Monitor",
+   "published": "2026-06-21T00:01:42+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland reut.rs/4eFzCXz",
+   "link": "https://bsky.app/profile/reuters.com/post/3mor2wkjsbr2x",
+   "source": "@reuters",
+   "published": "2026-06-21T00:01:07+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-21T00:00:00+00:00",
+   "severity": "low"
   },
   {
    "title": "Shipping in the Strait of Hormuz faced new disruption on Saturday after Iran’s military said it was closing the waterway. The U.S. military offered a conflicting assessment. www.nytimes.com/live/2026/06...",
@@ -257,13 +288,6 @@
    "source": "@nytimes",
    "published": "2026-06-20T21:30:03.369552+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-20T21:11:57+00:00",
-   "severity": "low"
   },
   {
    "title": "U.S. President Donald Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
@@ -299,35 +323,14 @@
    "source": "Al-Monitor",
    "published": "2026-06-20T19:36:58+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US forces monitoring Strait of Hormuz to ensure it stays open",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-forces-monitoring-strait-hormuz-ensure-it-stays-open",
-   "source": "Al-Monitor",
-   "published": "2026-06-20T19:36:58+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-says-hormuz-closed-again-after-israel-strikes-lebanon",
-   "source": "Al-Monitor",
-   "published": "2026-06-20T19:30:38+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran says Hormuz closed as US-Iran deal falters over Lebanon",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-says-hormuz-closed-us-iran-deal-falters-over-lebanon",
-   "source": "Al-Monitor",
-   "published": "2026-06-20T19:30:38+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
-   "incident_count": 15,
+   "status": "ACTIVE",
+   "incident_count": 14,
    "recent": [
     {
      "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
@@ -340,15 +343,15 @@
      "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
      "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
      "source": "Press TV",
-     "published": "2026-06-20T23:42:56.378035+00:00",
+     "published": "2026-06-21T02:05:43.979015+00:00",
      "severity": "info"
     },
     {
-     "title": "Shipping in the Strait of Hormuz faced new disruption on Saturday after Iran’s military said it was closing the waterway. The U.S. military offered a conflicting assessment. www.nytimes.com/live/2026/06...",
-     "link": "https://bsky.app/profile/nytimes.com/post/3moqwttvt7k2s",
-     "source": "@nytimes",
-     "published": "2026-06-20T22:48:01.997+00:00",
-     "severity": "info"
+     "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+     "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-21T01:46:31+00:00",
+     "severity": "low"
     }
    ]
   },
@@ -376,6 +379,96 @@
  ],
  "wh_statements": [
   {
+   "id": "c08d89e59ca0",
+   "title": "The U.S. has absolutely no right to impose tolls for transiting the Strait of Hormuz. It’s actually an act of war and/or piracy against the entire world.",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3morbeh6y3k22",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-06-21T01:56:16.509+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "66f843942e22",
+   "title": "Trump on the Reflecting Pool: \"It's very strong. You couldn't, if you had a knife — I don't want to give anybody ideas — if you had a knife, you can't even cut it. So strong, so powerful.\"",
+   "link": "https://bsky.app/profile/thebulwark.com/post/3morackgibs2c",
+   "summary": "",
+   "source": "@thebulwark",
+   "category": "trump_bsky",
+   "published": "2026-06-21T01:37:19.051+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d0ca90986f9e",
+   "title": "i think this might actually kill him, lol",
+   "link": "https://bsky.app/profile/golikehellmachine.com/post/3mor6whrbq22p",
+   "summary": "",
+   "source": "@golikehellmachine",
+   "category": "trump_bsky",
+   "published": "2026-06-21T01:12:39.864+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "319f570c6a7a",
+   "title": "Sorry that happened tho. Or happy for you.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mor62ykrzc2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T00:57:17.954+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c0a337c76707",
+   "title": "World Cup fuels ticketing reform demands",
+   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/world-cup-fuels-ticketing-reform-demands-00969201",
+   "summary": "Advocacy groups urge Congress to get tough on scams.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T00:46:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c3af7e7a2527",
+   "title": "he's now blaming the green and the new coating floating to the top as the work of a horde of vandals. \"they took some form of knife or blade and put a 250 foot long gash into the beautiful facade\" lol",
+   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3mor5f4dpnk2n",
+   "summary": "",
+   "source": "@joshtpm",
+   "category": "trump_bsky",
+   "published": "2026-06-21T00:45:03.719+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "332d712bfaba",
+   "title": "Trump on the reflecting pool: “We met with contractors today, will probably be forced to release and drain much of the water in order to do the necessary repairs, but will have them done as quickly as possible.” 😭",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mor53nvmgk2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T00:39:46.581+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "220d01114888",
+   "title": "They self evidently do not. Similarly, when you walk into a meeting of the G7 and say, “I’m the boss”, and then hours later the Italian leader says your behavior is appalling and you’re done with it; then you’re not the f***ing boss.",
+   "link": "https://bsky.app/profile/tomcoates.bsky.social/post/3mor3esizxs2c",
+   "summary": "",
+   "source": "@tomcoates",
+   "category": "trump_bsky",
+   "published": "2026-06-21T00:09:05.922+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1976dc27a1ca",
+   "title": "the reality is the tail does not wag the dog — but sometimes that tail has a mind of its own and doesn't give a fuck what the dog wants",
+   "link": "https://bsky.app/profile/self.agency/post/3moqz54r35c2m",
+   "summary": "",
+   "source": "@self",
+   "category": "trump_bsky",
+   "published": "2026-06-20T23:29:00.754+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "b03241cd60c2",
    "title": "JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes",
    "link": "https://www.mediaite.com/media/news/jd-vance-claims-things-are-actually-getting-better-in-lebanon-despite-reports-of-16-dead-in-overnight-strikes/",
@@ -393,6 +486,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T22:59:43+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "915842438742",
+   "title": "I don’t know about multiple arrests, but washpost reported that one person has been charged with a misdemeanor in DC superior court (so, not “years in jail”) www.washingtonpost.com/nation/2026/...",
+   "link": "https://bsky.app/profile/qjurecic.bsky.social/post/3moqvsgau2s2a",
+   "summary": "",
+   "source": "@qjurecic",
+   "category": "trump_bsky",
+   "published": "2026-06-20T22:29:20.383+00:00",
    "iran_topic": false
   },
   {
@@ -686,16 +789,6 @@
    "iran_topic": false
   },
   {
-   "id": "3c140d5e4a38",
-   "title": "People are always saying he's worse today than he was yesterday. But something really does seem to be up, doesn't it?",
-   "link": "https://bsky.app/profile/helenkennedy.com/post/3moqeuqdle22x",
-   "summary": "",
-   "source": "@helenkennedy",
-   "category": "trump_bsky",
-   "published": "2026-06-20T17:26:24.456+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "9b4340b0fe0f",
    "title": "Trump Drops Pair of Bonkers Fan Polls on ICE and ‘Dumocrats’ — As Iran Agreement Falls Apart",
    "link": "https://www.mediaite.com/media/news/trump-drops-pair-of-bonkers-fan-polls-on-ice-and-dumocrats-as-iran-agreement-falls-apart/",
@@ -766,46 +859,6 @@
    "iran_topic": true
   },
   {
-   "id": "f2611d836020",
-   "title": "They are such a deeply stupid group of people, and somehow, this might be the stupidest thing they’ve thought yet. I am floored by the fact that they think this would actually work.",
-   "link": "https://bsky.app/profile/matrueblood.bsky.social/post/3moqcch6exc26",
-   "summary": "",
-   "source": "@matrueblood",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:40:23.385+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "edb24160f3a5",
-   "title": "Whoosh. It is *accelerating*.",
-   "link": "https://bsky.app/profile/johnmoe.bsky.social/post/3moqc4cjyj22t",
-   "summary": "",
-   "source": "@johnmoe",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:36:57.197+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "87c19b7c2873",
-   "title": "Vance is so intent on demonstrating Iran has \"transformed\" that he went on TV to claim the Strait of Hormuz was open after Iran closed it, again. In fact, it's US policy Vance wants to transform, by allying the United States with authoritarian regimes, like Iran's and Russia's, as I discussed here.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3moqbycinbk2i",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:34:42.935+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d4a9576ee972",
-   "title": "SCOTT: Govt is your problem. They're causing cost of everything to go up McENANY: But you were one of few Rs to vote against bipartisan Road to Housing Act. Why? S: I don't see how it's going to drive down costs. The federal govt cannot drive cost of housing down M: Except you have your own bill",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqbx2m6ls2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:34:01.108+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "793da4a37017",
    "title": "W. Kamau Bell Schools White Allies on UFC Fighter’s Slur of Michelle Obama: ‘Just Say F*ck That Guy!’",
    "link": "https://www.mediaite.com/media/entertainment/w-kamau-bell-schools-white-allies-on-ufc-fighters-slur-of-michelle-obama-just-say-fck-that-guy/",
@@ -813,16 +866,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T16:32:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3aef9f934096",
-   "title": "Trump: \"The concept I have had for quite some time — A strong feeling the name of these Patriots, 'ICE,' should be changed to, 'NICE,' in that it will totally discombobulate Unpatriotic Reporters. For them to say, 'We went to a NICE Facility today,' as opposed to 'ICE,' they will go totally crazy!\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqbr5hj2c2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:30:42.773+00:00",
    "iran_topic": false
   },
   {
@@ -846,26 +889,6 @@
    "iran_topic": false
   },
   {
-   "id": "8c89cbc655ad",
-   "title": "The Straits are now closed",
-   "link": "https://bsky.app/profile/esqueer.net/post/3moq7sdqltc2t",
-   "summary": "",
-   "source": "@esqueer",
-   "category": "trump_bsky",
-   "published": "2026-06-20T15:55:35.431+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8fb619d830b",
-   "title": "As soon as they decided that it was a good thing to send this goblin out to speak in public, where people could actually hear him, I knew that the shit had absolutely and irrevocably hit the fan.",
-   "link": "https://bsky.app/profile/bcdreyer.social/post/3moq7ktlb622p",
-   "summary": "",
-   "source": "@bcdreyer",
-   "category": "trump_bsky",
-   "published": "2026-06-20T15:51:23.600+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "55969de3d026",
    "title": "CNN’s Kaitlan Collins Calls BS on Trump Over Reflecting Pool ‘Vandalism’ Rant",
    "link": "https://www.mediaite.com/media/news/cnns-kaitlan-collins-calls-bs-on-trump-over-reflecting-pool-vandalism-rant/",
@@ -883,16 +906,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-20T15:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f79123fcf1a",
-   "title": "MELONI, to Trump: “.. my popularity is none of your concern. I suggest you focus on yours.”",
-   "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3moq4yiky5c26",
-   "summary": "",
-   "source": "@carlquintanilla",
-   "category": "trump_bsky",
-   "published": "2026-06-20T15:05:20.590+00:00",
    "iran_topic": false
   },
   {
@@ -963,16 +976,6 @@
    "source": "Mediaite Trump",
    "category": "mediaite",
    "published": "2026-06-20T02:34:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6af1dcd5a62c",
-   "title": "A business tied to a longtime Trump supporter was given the no-bid contract to install a water-purification system in the Reflecting Pool. The National Park Service bypassed the competitive-bidding process typically required and gave a $1.7 million contract to the firm, Greenwater Services.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mooqtltuyk2w",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-20T01:55:11.618+00:00",
    "iran_topic": false
   }
  ]
