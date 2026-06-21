@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T12:02:32.082849+00:00",
+ "generated": "2026-06-21T14:32:47.878887+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -222,7 +222,7 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-21T12:01:48.173756+00:00",
+   "published": "2026-06-21T14:32:05.707959+00:00",
    "severity": "info"
   },
   {
@@ -231,6 +231,13 @@
    "source": "Press TV",
    "published": "2026-06-21T12:01:48.170825+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ubnwee/usiran_talks_in_switzerland_to_get_under_way_as/",
+   "source": "r/worldnews",
+   "published": "2026-06-21T11:39:52+00:00",
+   "severity": "low"
   },
   {
    "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
@@ -247,7 +254,7 @@
    "severity": "low"
   },
   {
-   "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+   "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
    "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Middle East",
    "published": "2026-06-21T04:34:00+00:00",
@@ -315,13 +322,6 @@
    "source": "r/worldnews",
    "published": "2026-06-20T22:03:24+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-   "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-20T21:54:39+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -339,17 +339,17 @@
      "severity": "info"
     },
     {
+     "title": "US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ubnwee/usiran_talks_in_switzerland_to_get_under_way_as/",
+     "source": "r/worldnews",
+     "published": "2026-06-21T11:39:52+00:00",
+     "severity": "low"
+    },
+    {
      "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
      "link": "https://www.al-monitor.com/originals/2026/06/irans-tasnim-news-agency-says-hormuz-will-not-reopen-until-lebanon-ceasefire",
      "source": "Al-Monitor",
      "published": "2026-06-21T11:36:39+00:00",
-     "severity": "low"
-    },
-    {
-     "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued reut.rs/44mnTZb",
-     "link": "https://bsky.app/profile/reuters.com/post/3mosb5omike2u",
-     "source": "@reuters",
-     "published": "2026-06-21T11:25:08+00:00",
      "severity": "low"
     }
    ]
@@ -377,6 +377,226 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f6e9a4d46028",
+   "title": "Energy Secretary Chris Wright with a Freudian slip: \"We've paid the price with higher energy prices in the midterm\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosljcemuc2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:30:36.382+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8628ce5a3c82",
+   "title": "Gallego tapped campaign cash for family travel, Super Bowl tickets, records show",
+   "link": "https://www.politico.com/news/2026/06/21/gallego-campaign-donors-travel-00969326",
+   "summary": "Sen. Ruben Gallego (D-Ariz.) has deployed donor funds to cover travel for his family, child care and a trip to the Super Bowl, a POLITICO review of campaign finance records shows.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T14:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e92da304b063",
+   "title": "Donald Trump's least favorite country seeks remontada",
+   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/trumps-least-favorite-country-spain-remontada-saudi-arabia-00969210",
+   "summary": "No European country has infuriated Donald Trump more than Spain.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-21T14:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "34b13473e511",
+   "title": "Wright: \"POTUS has been advised all along, despite media proclamations, that there was enormous risk to energy flows to engage the Iranians on their nuclear program in a military fashion... he knew he was going to drive up energy prices in the short run. He had the courage to take the action anyway\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosla2tjvs2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:25:26.491+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "09a4942d4608",
+   "title": "Markwayne Mullin claims somebody who tried to travel into the US with the Iranian soccer team \"had direct ties to the IRGC\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moskntg25g2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:15:14.733+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "12c69e476813",
+   "title": "Markwayne Mullin alleges that Iran tried to smuggle IRGC associates into the US with their World Cup team",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moskiwy7mp26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:12:30.701+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "bd3b28a38bdc",
+   "title": "Vance says US hopes to ‘transform’ Middle East as Iran talks begin",
+   "link": "https://www.politico.com/news/2026/06/21/vance-says-us-hopes-to-transform-middle-east-as-iran-talks-begin-00969324",
+   "summary": "The vice president is optimistic about diplomacy even as the U.S.-Iran ceasefire threatens to unravel.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-21T14:11:49+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6037cdc6d43b",
+   "title": "DHS Secretary Markwayne Mullin: \"We've seen an unusual amount of Iranian nationals trying to sneak in through our northern border, not our southern border. It's worrisome.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moskgqvurl2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:11:17.225+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "cde2b374d312",
+   "title": "Trump: \"Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don’t, we’ll hit Iran very hard again, just like we did last week, only harder!!! President DONALD J. TRUMP\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosjufbgic2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:01:01.037+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "303c94b85570",
+   "title": "JD Vance doesn't take issue with a reporter who characterizes what's happening in Lebanon as a \"genocide.\" Instead he says, \"the president and the US have done more to stop the conflict in Lebanon than any government anywhere in the world over the last few months ... peace is never easy.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosjef3uuj2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:52:03.990+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "329069c85792",
+   "title": "JD Vance: \"I actually feel great about where we are in Lebanon. There's still some additional wood to chop, but we're keep on working at it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosj7lr6zq23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:49:23.206+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1a22100d057f",
+   "title": "JD Vance as Trump threatens to occupy Iran and \"blow the shit out of them\" -- \"What has brought us to this moment is the president's leadership ... what we have already seen back home in the US is lower gas prices, we've seen the free flow of oil and gas, we've seen peace.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosiz4zotx2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:45:46.426+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "184c92b9dd13",
+   "title": "Demented. His ignorance, arrogance and greed fueled megalomania know no bounds.",
+   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3mosiub3yrs2d",
+   "summary": "",
+   "source": "@djrothkopf",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:43:02.924+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a52591700880",
+   "title": "JD Vance: \"I have joked that I have two very very important people in my life -- an Indian and a Pakistani. The Indian is my wife and the Pakistani is Field Marshal Munir. I've probably talked to Field Marshal Munir more than I've talked to anybody else over the last three months.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosiswai5n2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:42:17.983+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5c283037b1eb",
+   "title": "footage of Vance, Kushner, and Witkoff meeting with Iranians in Switzerland",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosiibvkdw23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:36:21.113+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5837ebdb1b30",
+   "title": "Fox correspondent: \"The president says, 'We may take over the strait if we have to. I'll blow the s**t out of them.'\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosibk4zzp26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:32:34.861+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "342f9bf5e179",
+   "title": "\"The president told me he's disappointed Israel can't put Hezbollah away. He went on to say, 'They can't do anything without knocking buildings down' & that he is close to giving it to Syria. He's talking about empowering the Syrian president to actually go into southern Lebanon and fight Hezbollah\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosi7oxncu27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:31:32.815+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9fe495f83b3a",
+   "title": "Insanity.",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3moshxa35k222",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:26:48.769+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "91a7c4cd1980",
+   "title": "Trump threats to occupy Iran: \"President Trump tells Fox News he spoke with Iranian officials overnight and said, 'You close the strait and you won't have a country.' He went on to tell these officials, 'You won't even make it back to your f**king country...we'll take over the rest of the country.'\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moshwlvohh2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:26:27.619+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9b5e802d78a4",
+   "title": "\"President Trump told Fox News the US may take over the strait in the future if they have to & collect tolls. The president described this as the US being the guardian angel of the Strait of Hormuz & Middle East. He said that would involve the US taking 20% of the oil that passes through the strait\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moshqy7rdy2i",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T13:23:19.208+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dc5e1e18d52a",
+   "title": "JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran",
+   "link": "https://www.mediaite.com/media/news/just-in-jd-vance-arrives-in-switzerland-for-direct-talks-with-iran/",
+   "summary": "Vice President JD Vance arrived in Switzerland, early Sunday, for in-person negotiations with Iran for the first time since the April summit in Islamabad. The post JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T13:23:01+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "7ad264e8b8ad",
+   "title": "Mark Levin Wallops Trump Administration Over Iran Deal in Fiery 17-Minute Fox News Monologue: ‘Stop Trashing, Smearing, Bullying’ Israel!",
+   "link": "https://www.mediaite.com/media/news/mark-levin-wallops-trump-administration-over-iran-deal-in-fiery-17-minute-fox-news-monologue-stop-trashing-smearing-bullying-israel/",
+   "summary": "In a scorching commentary, the Fox News host sounded off on the Trump administration for \"bullying\" Israel and \"cozying up to\" Iran. The post Mark Levin Wallops Trump Administration Over Iran Deal in Fiery 17-Minute Fox News Monologue: ‘Stop Trashing, Smearing, Bullying’ Israel! first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T12:40:28+00:00",
+   "iran_topic": true
+  },
   {
    "id": "2a0a0d260c4f",
    "title": "Anybody have any clue who this is? I’m baffled",
@@ -478,16 +698,6 @@
    "iran_topic": false
   },
   {
-   "id": "1976dc27a1ca",
-   "title": "the reality is the tail does not wag the dog — but sometimes that tail has a mind of its own and doesn't give a fuck what the dog wants",
-   "link": "https://bsky.app/profile/self.agency/post/3moqz54r35c2m",
-   "summary": "",
-   "source": "@self",
-   "category": "trump_bsky",
-   "published": "2026-06-20T23:29:00.754+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b03241cd60c2",
    "title": "JD Vance Claims ‘Things Are Actually Getting Better’ in Lebanon Despite Reports of 16 Dead in Overnight Strikes",
    "link": "https://www.mediaite.com/media/news/jd-vance-claims-things-are-actually-getting-better-in-lebanon-despite-reports-of-16-dead-in-overnight-strikes/",
@@ -505,16 +715,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T22:59:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "915842438742",
-   "title": "I don’t know about multiple arrests, but washpost reported that one person has been charged with a misdemeanor in DC superior court (so, not “years in jail”) www.washingtonpost.com/nation/2026/...",
-   "link": "https://bsky.app/profile/qjurecic.bsky.social/post/3moqvsgau2s2a",
-   "summary": "",
-   "source": "@qjurecic",
-   "category": "trump_bsky",
-   "published": "2026-06-20T22:29:20.383+00:00",
    "iran_topic": false
   },
   {
@@ -558,16 +758,6 @@
    "iran_topic": false
   },
   {
-   "id": "f399b8b3f96f",
-   "title": "Picking a piece of floating plastic out of murky water is a very serious crime 🙄🙄🙄",
-   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3moqrjg5uk22s",
-   "summary": "",
-   "source": "@dimitridrekonja",
-   "category": "trump_bsky",
-   "published": "2026-06-20T21:12:43.328+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d121d10e34ce",
    "title": "Former Olympian Charged With Vandalism After He Said He Checked Out The Peeling Blue Bottom Of The Reflecting Pool",
    "link": "https://www.mediaite.com/media/news/former-olympian-charged-with-vandalism-after-he-said-he-checked-out-the-peeling-blue-bottom-of-the-reflecting-pool/",
@@ -575,46 +765,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T21:11:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ef71288951a2",
-   "title": "our nations reflecting poll",
-   "link": "https://bsky.app/profile/nameshiv.bsky.social/post/3moqr2x6gs22b",
-   "summary": "",
-   "source": "@nameshiv",
-   "category": "trump_bsky",
-   "published": "2026-06-20T21:04:37.856+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "52d0b3a73e1f",
-   "title": "Trump: \"The United States Park Police have arrested multiple individuals for vandalizing our Nations magnificent Reflecting Poll. Who would do such a thing? These are very serious crimes having to do w/ the destruction of National Monuments. Years in jail! Work will begin immediately on its repair\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqqzj2n7c2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T21:03:49.497+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bac0a8824e6b",
-   "title": "JD Vance is on his way to Switzerland to negotiate with the Iranians but tells reporters he can only stay \"a day or two\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqqhvz5y32j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T20:53:59.105+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c3374aba531c",
-   "title": "just what every american wants, a luxury white house",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3moqpgiaffc24",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-20T20:35:17.361+00:00",
    "iran_topic": false
   },
   {
@@ -626,16 +776,6 @@
    "category": "mediaite_all",
    "published": "2026-06-20T20:28:51+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "6325b6df4b3a",
-   "title": "You paid for a plane with \"a level of luxury that nobody has never seen before\". And he's apparently taking it with him once he leaves the White House. The plane. The ballroom. The corruption. This guy thinks taxpayers are dopes. Your money is just his to live a life of luxury.",
-   "link": "https://bsky.app/profile/chrismurphyct.bsky.social/post/3moqounbme22h",
-   "summary": "",
-   "source": "@chrismurphyct",
-   "category": "trump_bsky",
-   "published": "2026-06-20T20:25:18.665+00:00",
-   "iran_topic": false
   },
   {
    "id": "14d147166ca0",
@@ -655,16 +795,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-20T20:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1b5cb5eafa30",
-   "title": "6-year-old drew all over the walls in her room and is now screaming at her mom for not liking her “masterpiece” 😵‍💫",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqobpeysk2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T20:14:43.338+00:00",
    "iran_topic": false
   },
   {
@@ -688,36 +818,6 @@
    "iran_topic": false
   },
   {
-   "id": "0bf310b8b038",
-   "title": "\"I don't really understand these things.\" This should be carved on JD's tombstone.",
-   "link": "https://bsky.app/profile/robertscotthorton.bsky.social/post/3moqlz4p53222",
-   "summary": "",
-   "source": "@robertscotthorton",
-   "category": "trump_bsky",
-   "published": "2026-06-20T19:34:07.829+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "88cd2443399c",
-   "title": "We’re wondering why we can’t afford groceries while he’s been pondering changing the name of ICE to NICE.",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3moqllmvpts2o",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-06-20T19:26:35.059+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff6873b7b906",
-   "title": "Trump says US might impose tolls in the strait: “There will be NO TOLLS in the Hormuz Strait for 60 days during the Cease Fire Period, & there will be NO TOLLS after 60 day period, unless they are imposed by and for the US, should the deal not be completed, for services rendered as Guardian Angel”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqlbimsd22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T19:20:55.026+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "fe796210fab4",
    "title": "‘Unsynchronized Diplomatic Process’: Former Obama Official Questions Why Lebanon and Israel Aren’t At Peace Talks",
    "link": "https://www.mediaite.com/media/tv/unsynchronized-diplomatic-process-former-obama-official-questions-why-lebanon-and-israel-arent-at-peace-talks/",
@@ -736,16 +836,6 @@
    "category": "politico_pol",
    "published": "2026-06-20T19:15:00+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "1ce01dc8f67d",
-   "title": "the legendary tom homan",
-   "link": "https://bsky.app/profile/golikehellmachine.com/post/3moqk26uf4224",
-   "summary": "",
-   "source": "@golikehellmachine",
-   "category": "trump_bsky",
-   "published": "2026-06-20T18:58:56.169+00:00",
-   "iran_topic": false
   },
   {
    "id": "b8f2e4662a80",
@@ -778,16 +868,6 @@
    "iran_topic": false
   },
   {
-   "id": "86529adb5bc9",
-   "title": "I trust Aaron 100%. He’s my number one go to about the actual news and this is the first time I ever had to check to see if something he posted was real.",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3moqgcv732s2o",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-06-20T17:52:13.056+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "58fb30c74811",
    "title": "‘F*cking Liars!’ Bill Maher Lashes Out at His Own Audience After He Trashes Obama Presidential Library",
    "link": "https://www.mediaite.com/media/news/fcking-liars-bill-maher-lashes-out-at-his-own-audience-after-he-trashes-obama-presidential-library/",
@@ -795,16 +875,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T17:45:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "399105127e33",
-   "title": "A government plane apparently containing Pete Hegseth just flew over me. Rare to see this type of aircraft in Minneapolis which is why it piqued my interest.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moqfls7hgk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-20T17:39:18.166+00:00",
    "iran_topic": false
   },
   {
@@ -828,16 +898,6 @@
    "iran_topic": true
   },
   {
-   "id": "ae0317d23d3c",
-   "title": "Government, which has been controlled by my party for the last year and half, is the problem.",
-   "link": "https://bsky.app/profile/cavskermit.bsky.social/post/3moqdwajrrc27",
-   "summary": "",
-   "source": "@cavskermit",
-   "category": "trump_bsky",
-   "published": "2026-06-20T17:09:21.250+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3ad046295e7f",
    "title": "Meloni Hits Trump With Savage New Rant in Bombshell Feud Over ‘Begging’ For Photo",
    "link": "https://www.mediaite.com/media/news/meloni-hits-trump-with-savage-new-rant-in-bombshell-feud-over-begging-for-photo/",
@@ -845,16 +905,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-20T17:06:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3f16d540ad07",
-   "title": "Never mind that Vance got conned, the fact that the vice president saying he heard second-hand from the president's son-in-law and the president's real estate buddy that the strait was open is humiliating on its own.",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moqcyfd3y22a",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-20T16:52:39.640+00:00",
    "iran_topic": false
   },
   {
@@ -926,56 +976,6 @@
    "category": "mediaite_all",
    "published": "2026-06-20T14:55:38+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "bc84d93baf47",
-   "title": "BREAKING: Iranian officials said they have closed the Strait of Hormuz — citing what they said was the U.S. failure to stop the fighting in Lebanon as required under the agreement signed by Trump.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moq3vx2ef227",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-20T14:46:01.371+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2d442dc26bb8",
-   "title": "The Dutch diplomatic playbook in Texas",
-   "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/netherlands-diplomacy-mirjam-sterk-world-cup-2026-00969092",
-   "summary": "The Netherlands' sports minister is hoping the Netherlands' famous fan walks will leave behind a footprint.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-20T14:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "df407d7d28b1",
-   "title": "Mary Trump Savages ‘Increasingly Desperate’ Trump Over New James Carville Rant — Warns of Election Theft and Worse",
-   "link": "https://www.mediaite.com/media/news/mary-trump-savages-increasingly-desperate-trump-over-new-james-carville-rant-warns-of-election-theft-and-worse/",
-   "summary": "Mary Trump tore into Trump when Jim Acosta asked for her reaction to the latest James Carville rant predicting Trump will just walk away from the presidency. The post Mary Trump Savages ‘Increasingly Desperate’ Trump Over New James Carville Rant — Warns of Election Theft and Worse first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T14:01:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7f84a8ecf2f4",
-   "title": "‘No Thanks!!!’ Trump Attacks World Leader In Bitter Iran Rant Amid G7 Feud",
-   "link": "https://www.mediaite.com/media/news/no-thanks-trump-attacks-world-leader-in-bitter-iran-rant-amid-g7-feud/",
-   "summary": "Trump escalated his roiling feud with Italian PM Giorgia Meloni in an embittered morning rant complaining about her lack of support during the Iran War. The post ‘No Thanks!!!’ Trump Attacks World Leader In Bitter Iran Rant Amid G7 Feud first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-20T13:40:03+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "843c73426631",
-   "title": "Purged BLS leader on the \"surprisingly resilient\" US economy",
-   "link": "https://www.publicnotice.co/p/erika-mcentarfer-interview",
-   "summary": "Erika McEntarfer talks to PN nearly one year after her firing.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-20T10:17:54+00:00",
-   "iran_topic": false
   }
  ]
 }
