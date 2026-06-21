@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T02:06:29.306339+00:00",
+ "generated": "2026-06-21T03:56:22.158567+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -220,6 +220,20 @@
  ],
  "incidents": [
   {
+   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+   "source": "Press TV",
+   "published": "2026-06-21T03:55:44.005815+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
+   "link": "https://www.timesofisrael.com/us-iran-set-for-new-talks-trump-threatens-us-tolls-in-hormuz-if-deal-not-reached-in-60-days/",
+   "source": "Times of Israel",
+   "published": "2026-06-21T02:41:06+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
    "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
    "source": "Jerusalem Post",
@@ -227,10 +241,10 @@
    "severity": "info"
   },
   {
-   "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-   "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-   "source": "Press TV",
-   "published": "2026-06-21T02:05:43.979015+00:00",
+   "title": "Israel seized Hezbollah underground command center in southern Lebanon",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ubdlqe/israel_seized_hezbollah_underground_command/",
+   "source": "r/worldnews",
+   "published": "2026-06-21T01:52:26+00:00",
    "severity": "info"
   },
   {
@@ -309,20 +323,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-20T20:01:40+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-20T19:43:47+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran closes Strait of Hormuz over ceasefire violations - MEHR",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-closes-strait-hormuz-over-ceasefire-violations-mehr",
-   "source": "Al-Monitor",
-   "published": "2026-06-20T19:36:58+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -330,28 +330,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 14,
+   "incident_count": 13,
    "recent": [
+    {
+     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
+     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
+     "source": "Press TV",
+     "published": "2026-06-21T03:55:44.005815+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "US-Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
+     "link": "https://www.timesofisrael.com/us-iran-set-for-new-talks-trump-threatens-us-tolls-in-hormuz-if-deal-not-reached-in-60-days/",
+     "source": "Times of Israel",
+     "published": "2026-06-21T02:41:06+00:00",
+     "severity": "low"
+    },
     {
      "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
      "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
      "source": "Jerusalem Post",
      "published": "2026-06-21T02:16:39+00:00",
      "severity": "info"
-    },
-    {
-     "title": "Iran closes Strait of Hormuz after US-Israeli violations of MoU",
-     "link": "https://presstv.ir/Detail/2026/06/20/770800/Iran-closes-Strait-of-Hormuz-after-US-Israeli-violations-of-MoU-",
-     "source": "Press TV",
-     "published": "2026-06-21T02:05:43.979015+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-     "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Middle East",
-     "published": "2026-06-21T01:46:31+00:00",
-     "severity": "low"
     }
    ]
   },
@@ -378,6 +378,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "2a0a0d260c4f",
+   "title": "Anybody have any clue who this is? I’m baffled",
+   "link": "https://bsky.app/profile/atrupar.com/post/3morc5q4tqk2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T02:10:24.734+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cf538ff63bd3",
+   "title": "Trump admits: The problems with the Lincoln Memorial Reflecting Pool have become so severe that the pool will have to be at least partly drained for \"necessary repairs.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3morc5fyukk2f",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-21T02:10:14.122+00:00",
+   "iran_topic": false
+  },
   {
    "id": "c08d89e59ca0",
    "title": "The U.S. has absolutely no right to impose tolls for transiting the Strait of Hormuz. It’s actually an act of war and/or piracy against the entire world.",
@@ -799,16 +819,6 @@
    "iran_topic": true
   },
   {
-   "id": "98309d275e4e",
-   "title": "This can’t be real 😭😭😭",
-   "link": "https://bsky.app/profile/benross.bsky.social/post/3moqefjm4cs23",
-   "summary": "",
-   "source": "@benross",
-   "category": "trump_bsky",
-   "published": "2026-06-20T17:17:54.079+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e96c312fd19d",
    "title": "Climate protesters to take aim at FIFA’s Saudi oil sponsor",
    "link": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/climate-protest-fifa-aramco-dodgers-00969096",
@@ -966,16 +976,6 @@
    "source": "Rupar Public Notice",
    "category": "rupar_substack",
    "published": "2026-06-20T10:17:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "27c64524e703",
-   "title": "Trump Claims ‘Vandalism’ Caused Reflecting Pool Debacle, Accuses ABC Reporter of Trying To Make It Worse",
-   "link": "https://www.mediaite.com/politics/trump/trump-claims-vandalism-caused-reflecting-pool-debacle-accuses-abc-reporter-of-trying-to-make-it-worse/",
-   "summary": "For good measure, Trump accused ABC News Chief Washington Correspondent Jonathan Karl of \"trying to rip the rubber off of the surface.\" The post Trump Claims ‘Vandalism’ Caused Reflecting Pool Debacle, Accuses ABC Reporter of Trying To Make It Worse first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-20T02:34:44+00:00",
    "iran_topic": false
   }
  ]
