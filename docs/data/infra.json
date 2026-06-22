@@ -1,43 +1,43 @@
 {
- "generated": "2026-06-22T21:58:40.507541+00:00",
+ "generated": "2026-06-22T23:20:49.300913+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 80.59,
-   "change": 0.74,
-   "change_pct": 0.93,
+   "price": 78.15,
+   "change": -1.7,
+   "change_pct": -2.13,
    "spark": [
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    80.58999633789062
+    78.1500015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 76.54,
-   "change": -0.06,
-   "change_pct": -0.08,
+   "price": 74.15,
+   "change": -2.45,
+   "change_pct": -3.2,
    "spark": [
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    76.54000091552734
+    74.1500015258789
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4172.9,
-   "change": -51.2,
-   "change_pct": -1.21,
+   "price": 4209.6,
+   "change": -14.5,
+   "change_pct": -0.34,
    "spark": [
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4172.89990234375
+    4209.60009765625
    ]
   },
   "DX-Y.NYB": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.25,
-   "change": 0.01,
-   "change_pct": 0.43,
+   "price": 3.27,
+   "change": 0.03,
+   "change_pct": 0.99,
    "spark": [
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.246999979019165
+    3.265000104904175
    ]
   }
  },
@@ -218,21 +218,35 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-22T21:57:55.244460+00:00",
+   "published": "2026-06-22T23:20:03.922882+00:00",
    "severity": "info"
   },
   {
    "title": "Iran top negotiator departs for Muscat to discuss Hormuz Strait cooperation",
    "link": "https://presstv.ir/Detail/2026/06/22/770921/Iran-Oman-Qalibaf-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-22T21:57:55.238681+00:00",
+   "published": "2026-06-22T23:20:03.916812+00:00",
    "severity": "low"
   },
   {
    "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
    "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it",
    "source": "Press TV",
-   "published": "2026-06-22T21:57:55.238066+00:00",
+   "published": "2026-06-22T23:20:03.916232+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Netanyahu, Katz, Zamir reiterate pledge to ‘continue to act decisively’ in Lebanon",
+   "link": "https://www.timesofisrael.com/liveblog-june-23-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-22T22:14:47+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Ghalibaf: Strait of Hormuz will be administered by Iran according to international law",
+   "link": "https://en.irna.ir/news/86190527/Ghalibaf-Strait-of-Hormuz-will-be-administered-by-Iran-according",
+   "source": "IRNA",
+   "published": "2026-06-22T22:14:19+00:00",
    "severity": "info"
   },
   {
@@ -304,20 +318,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-22T15:01:54+00:00",
    "severity": "low"
-  },
-  {
-   "title": "China backs Iran’s sovereignty, regional diplomacy: FM Wang",
-   "link": "https://en.irna.ir/news/86190214/China-backs-Iran-s-sovereignty-regional-diplomacy-FM-Wang",
-   "source": "IRNA",
-   "published": "2026-06-22T13:10:13+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks",
-   "link": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-22T08:01:00+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 8,
+   "incident_count": 9,
    "recent": [
     {
      "title": "Iran top negotiator departs for Muscat to discuss Hormuz Strait cooperation",
      "link": "https://presstv.ir/Detail/2026/06/22/770921/Iran-Oman-Qalibaf-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-22T21:57:55.238681+00:00",
+     "published": "2026-06-22T23:20:03.916812+00:00",
      "severity": "low"
     },
     {
      "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
      "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it",
      "source": "Press TV",
-     "published": "2026-06-22T21:57:55.238066+00:00",
+     "published": "2026-06-22T23:20:03.916232+00:00",
      "severity": "info"
     },
     {
-     "title": "India-bound fertilizer ships cross Hormuz, government says reut.rs/43Pj5ve",
-     "link": "https://bsky.app/profile/reuters.com/post/3movmgt6u4m2b",
-     "source": "@reuters",
-     "published": "2026-06-22T19:25:06+00:00",
+     "title": "Ghalibaf: Strait of Hormuz will be administered by Iran according to international law",
+     "link": "https://en.irna.ir/news/86190527/Ghalibaf-Strait-of-Hormuz-will-be-administered-by-Iran-according",
+     "source": "IRNA",
+     "published": "2026-06-22T22:14:19+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,146 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "bd6c71ae4b20",
+   "title": "Chuck Todd Says the ‘Only Reason’ People Think Obama Is Liberal ‘Is Because He’s Black’",
+   "link": "https://www.mediaite.com/obama/chuck-todd-says-the-only-reason-people-think-obama-is-liberal-is-because-hes-black/",
+   "summary": "Former Meet the Press host Chuck Todd said the \"only reason\" that people think former President Barack Obama is liberal is \"because he's Black.\" The post Chuck Todd Says the ‘Only Reason’ People Think Obama Is Liberal ‘Is Because He’s Black’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T23:09:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8353eb711d83",
+   "title": "Jessica Tarlov’s Co-Hosts Cackle as She Turns Tables on Jesse Watters for ‘Blind Loyalty’ to ‘Idiot’ Trump",
+   "link": "https://www.mediaite.com/media/tv/jessica-tarlovs-co-hosts-cackle-as-she-turns-tables-on-jesse-watters-for-blind-loyalty-to-idiot-trump/",
+   "summary": "Fox News host Jessica Tarlov roasted co-host Jesse Watters on Monday's edition of The Five after he essentially teed her up for the rebuttal. The post Jessica Tarlov’s Co-Hosts Cackle as She Turns Tables on Jesse Watters for ‘Blind Loyalty’ to ‘Idiot’ Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T23:05:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "861b28360878",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy6ukzjc24",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:55:24.225+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f05d80d57ae5",
+   "title": "Warner: Pulte could claim, whether there’s a source of intelligence or not, that China is going to do X. He could claim that there might be a terrorist threat around polling stations. All of it could be used as an excuse to try to shut down the election.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy3pcszz2l",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:53:37.744+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ebd193eb7da8",
+   "title": "House Democrat Files Motion to Remove Tarp from Kennedy Center, Blasting Trump Admin’s ‘Petty Act of Defiance’",
+   "link": "https://www.mediaite.com/lawcrime/house-democrat-files-motion-to-remove-tarp-from-kennedy-center-blasting-trump-admins-petty-act-of-defiance/",
+   "summary": "Rep. Joyce Beatty (D-OH) filed a motion to remove the tarp from the front of the Kennedy Center, blasting the Trump administration for \"petty act of defiance.\" The post House Democrat Files Motion to Remove Tarp from Kennedy Center, Blasting Trump Admin’s ‘Petty Act of Defiance’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T22:51:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "64fd69dc9f89",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxsjng7224",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:48:30.117+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d3ee8f7a63c",
+   "title": "Welch: Biden did what they wanted. Biden allowed a blank check for Bibi. He just wouldn’t bomb Iran. And they betrayed that support, and they went and sought refuge with the bigots… I saw this coming all along, but they’re finding out just like the women for Trump are finding out.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxpa5pzw2p",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:46:39.226+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b768067bae72",
+   "title": "Trump Openly Mocks Cabinet Official By Telling Him ‘Nobody Cares’ About His Story",
+   "link": "https://www.mediaite.com/media/tv/trump-openly-mocks-cabinet-official-by-telling-him-nobody-cares-about-his-story/",
+   "summary": "President Donald Trump interrupted a story from Secretary of Energy Chris Wright to tell him, \"Nobody cares.\" The post Trump Openly Mocks Cabinet Official By Telling Him ‘Nobody Cares’ About His Story first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T22:28:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "be44dffdb08e",
+   "title": "His brain has rotted like 90% through lol. Insane to post this.",
+   "link": "https://bsky.app/profile/somewhattolerable.com/post/3movvky2vus2y",
+   "summary": "",
+   "source": "@somewhattolerable",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:08:29.320+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c3076cc8b40e",
+   "title": "Trump: “Here is another example of a crazy pro-algae (likely paid) protestor. The sign says, ‘First they came for the algae…’ which is in reference to a famous post-WW2 statement about Germans not speaking out against Nazis ‘…Then they came for the Jews, & I did not speak out—bc I was not a Jew “",
+   "link": "https://bsky.app/profile/atrupar.com/post/3movviq5v2s2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:07:13.917+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a8f6c94f7768",
+   "title": "Fox News Anchor Pours Cold Water On JD Vance’s Iran Deal Update: ‘Might Not Mean Much’",
+   "link": "https://www.mediaite.com/media/news/fox-news-anchor-pours-cold-water-on-jd-vances-iran-deal-update-might-not-mean-much/",
+   "summary": "“The Vice President there with a caveat that says we don't know exactly what that means. And if history is any guide, might not mean much” The post Fox News Anchor Pours Cold Water On JD Vance’s Iran Deal Update: ‘Might Not Mean Much’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T22:01:31+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "38fa66f294e6",
+   "title": "“The black guy did it” 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3movv52bhqc2v",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:00:41.869+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "db9a9c89ce9d",
+   "title": "MacFarlane: You have a smell that's emanating now that is reminiscent of a high school locker room. You have a police force and National Guard presence that is profound. It's like a jewel heist from the muppet caper is going to happen. It seems to be a misappropriation of resources.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movuzqlm4e2h",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T21:58:50.933+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "af4771146038",
+   "title": "Collins confirmed Kavanaugh and two other Justices who doomed Roe, so she is most certainly complicit.",
+   "link": "https://bsky.app/profile/susanmcp.bsky.social/post/3movusrhbrk2c",
+   "summary": "",
+   "source": "@susanmcp",
+   "category": "trump_bsky",
+   "published": "2026-06-22T21:54:57.078+00:00",
+   "iran_topic": false
+  },
   {
    "id": "0db23f9c5b37",
    "title": "Fox News Anchor Confronts GOP Senator On Only Voting With Trump 94% of the Time: ‘Might Sound High, But…’",
@@ -704,16 +844,6 @@
    "iran_topic": false
   },
   {
-   "id": "4481f35487c1",
-   "title": "Trump on Colombia: \"When people like me, I like them. It's a very simple formula.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpglcjk32g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:18:39.268+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "64b48b27967e",
    "title": "\"The Indian is my wife\" This is what I mean when I describe Vance as a 19th century racist",
    "link": "https://bsky.app/profile/abeardedpanda.bsky.social/post/3movpfmjpjk24",
@@ -721,36 +851,6 @@
    "source": "@abeardedpanda",
    "category": "trump_bsky",
    "published": "2026-06-22T20:18:06.997+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8ce20f17bca",
-   "title": "Trump on Iran: \"As long as they respect us, we're gonna be fine. If they don't respect us, things wouldn't be good.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpdrqtkg2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:17:05.355+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "27792840c438",
-   "title": "Trump: \"General Motors is all excited about building weapons now. They have some plants that are gonna switch over and build weapons. We're in a big strong economic push to do the weapons.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpcgyryi27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:16:20.536+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "21be173ace93",
-   "title": "Trump on defense contractors: \"They're not allowed to take any more stock buybacks. They can't do that anymore.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpbfu4te2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:15:45.779+00:00",
    "iran_topic": false
   },
   {
@@ -871,106 +971,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-22T18:47:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ad4b0715c299",
-   "title": "‘I Am Innocent’: Iran Expedites Executions of Political Prisoners Amid Talks With US",
-   "link": "https://www.mediaite.com/media/news/i-am-innocent-iran-expedites-executions-of-political-prisoners-amid-talks-with-us/",
-   "summary": "The Iranian regime is expediting the execution of its political prisoners according to a disturbing new Wall Street Journal report. The post ‘I Am Innocent’: Iran Expedites Executions of Political Prisoners Amid Talks With US first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T18:46:50+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "c859cf8b80eb",
-   "title": "Vance Pressed On Whether or Not Iran is Negotiating In ‘Good Faith’ After Praising Latest Talks",
-   "link": "https://www.mediaite.com/politics/vance-pressed-on-whether-or-not-iran-is-negotiating-in-good-faith-after-praising-latest-talks/",
-   "summary": "A reporter pressed JD Vance on if Iran was negotiating in \"good faith\" following his marathon summit in Switzerland that he said led to \"major\" deal progress The post Vance Pressed On Whether or Not Iran is Negotiating In ‘Good Faith’ After Praising Latest Talks first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T18:10:52+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8cc52e6e26f2",
-   "title": "Tony Dokoupil Tells WSJ He Can’t Relate To Dismissed Colleagues’ Claims of Bias at CBS",
-   "link": "https://www.mediaite.com/media/news/tony-dokoupil-tells-wsj-he-cant-relate-to-dismissed-colleagues-claims-of-bias-at-cbs/",
-   "summary": "Tony Dokoupil told The Wall Street Journal that he can't relate to accusations of bias at the network as made by some of his former colleagues. The post Tony Dokoupil Tells WSJ He Can’t Relate To Dismissed Colleagues’ Claims of Bias at CBS first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T18:08:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5085fc3893c7",
-   "title": "‘Extremely Confusing’: JD Vance Warns Media Not to Read Into Enigmatic Iranian Leaders’ Behavior",
-   "link": "https://www.mediaite.com/media/news/extremely-confusing-jd-vance-warns-media-not-to-read-into-enigmatic-iranian-leaders-behavior/",
-   "summary": "ce President JD Vance urged the media not to read into the behavior of the extremely confusing Iranian negotiators he's been dealing with. The post ‘Extremely Confusing’: JD Vance Warns Media Not to Read Into Enigmatic Iranian Leaders’ Behavior first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T18:05:17+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6a3db7d0a829",
-   "title": "Elon Musk Vows to Sue ‘Liar’ Democratic Lawmaker Who Suggested He Killed 4.5 Million Kids With DOGE Cuts",
-   "link": "https://www.mediaite.com/politics/elon-musk-vows-to-sue-liar-democratic-lawmaker-who-suggested-he-killed-4-5-million-kids-with-doge-cuts/",
-   "summary": "Elon Musk said he is going to sue Rep. Ro Khanna after the Democrat claimed the SpaceX boss “possibly sentenced to death” 4.5 million kids with his DOGE cuts The post Elon Musk Vows to Sue ‘Liar’ Democratic Lawmaker Who Suggested He Killed 4.5 Million Kids With DOGE Cuts first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T17:27:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "39cb6d46feb7",
-   "title": "‘Laundering Antisemitism’: Mamdani Sparks Firestorm on the Left by Calling AIPAC ‘Monsters’",
-   "link": "https://www.mediaite.com/politics/laundering-antisemitism-mamdani-sparks-firestorm-on-the-left-by-calling-aipac-monsters/",
-   "summary": "Zohran Mamdani’s remarks quickly went viral online and sparked fierce criticism from the right and within his own party. The post ‘Laundering Antisemitism’: Mamdani Sparks Firestorm on the Left by Calling AIPAC ‘Monsters’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T17:27:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c7c8274dd6b3",
-   "title": "BREAKING: MINNEAPOLIS (AP) — Federal judge halts Trump administration effort to subpoena Minnesota Gov. Walz, others in immigration enforcement probe.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3movfrw3hr22u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-22T17:26:02.253+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c1dd5238fd0d",
-   "title": "BREAKING: A federal judge has just rejected the Trump Justice Department's attempt to force Maryland election officials to turn over the state's complete voter registration list.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3move2ue5yk2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-22T16:55:14.946+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "87a32548663b",
-   "title": "Americans are voting this year for Democrats at far higher numbers in primaries and special elections compared with previous contests — even in Republican districts, according to a Washington Post analysis, evidence that voters are unusually motivated heading into November.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mov542fcyc2i",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-22T14:50:38.638+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ed5b2caaa5c4",
-   "title": "Trump just claimed online the algae-filled Reflecting Pool that cost $14 million to renovate (only to have the paint peel off) has been vandalized — without providing evidence of that.l",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mov2c6r3jk2f",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-22T14:00:23.319+00:00",
    "iran_topic": false
   }
  ]
