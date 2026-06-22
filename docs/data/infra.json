@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-22T00:06:19.720378+00:00",
+ "generated": "2026-06-22T03:58:08.542744+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 81.69,
-   "change": 1.84,
-   "change_pct": 2.3,
+   "price": 79.37,
+   "change": -0.48,
+   "change_pct": -0.6,
    "spark": [
     83.16999816894531,
     78.95999908447266,
     79.55000305175781,
     79.8499984741211,
-    81.69000244140625
+    79.37000274658203
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 77.72,
-   "change": 1.12,
-   "change_pct": 1.46,
+   "price": 75.6,
+   "change": -1.0,
+   "change_pct": -1.31,
    "spark": [
     80.75,
     76.05000305175781,
     76.79000091552734,
     76.5999984741211,
-    77.72000122070312
+    75.5999984741211
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4158.7,
-   "change": -65.4,
-   "change_pct": -1.55,
+   "price": 4195.9,
+   "change": -28.2,
+   "change_pct": -0.67,
    "spark": [
     4328.0,
     4330.89990234375,
     4358.89990234375,
     4224.10009765625,
-    4158.7001953125
+    4195.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.88,
-   "change": 0.03,
-   "change_pct": 0.03,
+   "price": 100.86,
+   "change": 0.01,
+   "change_pct": 0.01,
    "spark": [
     99.62999725341797,
     99.54000091552734,
     100.08999633789062,
     100.8499984741211,
-    100.87699890136719
+    100.85900115966797
    ]
   },
   "^GSPC": {
@@ -101,15 +101,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.27,
+   "price": 3.28,
    "change": 0.04,
-   "change_pct": 1.27,
+   "change_pct": 1.33,
    "spark": [
     3.1470000743865967,
     3.239000082015991,
     3.1449999809265137,
     3.2330000400543213,
-    3.2739999294281006
+    3.2760000228881836
    ]
   }
  },
@@ -223,8 +223,50 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-22T00:05:41.806253+00:00",
+   "published": "2026-06-22T03:57:34.273012+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+   "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-22T02:03:52+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "German Defence Minister blames Trump for Strait of Hormuz closure",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uc708q/german_defence_minister_blames_trump_for_strait/",
+   "source": "r/worldnews",
+   "published": "2026-06-22T01:26:25+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Two South Korean-operated vessels passed through Strait of Hormuz after MOU signed",
+   "link": "https://www.al-monitor.com/originals/2026/06/two-south-korean-operated-vessels-passed-through-strait-hormuz-after-mou-signed",
+   "source": "Al-Monitor",
+   "published": "2026-06-22T01:01:39+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Two South Korean-operated vessels passed through Strait of Hormuz after MOU signed reut.rs/4eCE1dM",
+   "link": "https://bsky.app/profile/reuters.com/post/3motoqb6u672m",
+   "source": "@reuters",
+   "published": "2026-06-22T01:00:50+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US-Iran talks go into Day 2 after Trump threats, Hormuz closure",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-iran-talks-go-day-2-after-trump-threats-hormuz-closure",
+   "source": "Al-Monitor",
+   "published": "2026-06-22T00:36:37+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "US-Iran talks go into Day 2 after Trump threats, Hormuz closure reut.rs/4vi1FDw",
+   "link": "https://bsky.app/profile/reuters.com/post/3motn27oue42m",
+   "source": "@reuters",
+   "published": "2026-06-22T00:30:37+00:00",
+   "severity": "low"
   },
   {
    "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz",
@@ -281,48 +323,6 @@
    "source": "r/worldnews",
    "published": "2026-06-21T11:39:52+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-   "link": "https://www.al-monitor.com/originals/2026/06/irans-tasnim-news-agency-says-hormuz-will-not-reopen-until-lebanon-ceasefire",
-   "source": "Al-Monitor",
-   "published": "2026-06-21T11:36:39+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued reut.rs/44mnTZb",
-   "link": "https://bsky.app/profile/reuters.com/post/3mosb5omike2u",
-   "source": "@reuters",
-   "published": "2026-06-21T11:25:08+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
-   "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-21T04:34:00+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "US disputes Iranian claims about closing Strait of Hormuz as negotiators head to Switzerland",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ubfdli/us_disputes_iranian_claims_about_closing_strait/",
-   "source": "r/worldnews",
-   "published": "2026-06-21T03:24:18+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US, Iran set for new talks; Trump threatens US tolls in Hormuz if deal not reached in 60 days",
-   "link": "https://www.timesofisrael.com/us-iran-set-for-new-talks-trump-threatens-us-tolls-in-hormuz-if-deal-not-reached-in-60-days/",
-   "source": "Times of Israel",
-   "published": "2026-06-21T02:41:06+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Hormuz must be cleared of 80 mines, may not open until year's end, says tanker body - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-899983",
-   "source": "Jerusalem Post",
-   "published": "2026-06-21T02:16:39+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -333,24 +333,24 @@
    "incident_count": 14,
    "recent": [
     {
-     "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz",
-     "link": "https://www.al-monitor.com/originals/2026/06/shipping-slows-after-iran-says-it-has-again-shut-strait-hormuz",
+     "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+     "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-22T02:03:52+00:00",
+     "severity": "low"
+    },
+    {
+     "title": "German Defence Minister blames Trump for Strait of Hormuz closure",
+     "link": "https://www.reddit.com/r/worldnews/comments/1uc708q/german_defence_minister_blames_trump_for_strait/",
+     "source": "r/worldnews",
+     "published": "2026-06-22T01:26:25+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Two South Korean-operated vessels passed through Strait of Hormuz after MOU signed",
+     "link": "https://www.al-monitor.com/originals/2026/06/two-south-korean-operated-vessels-passed-through-strait-hormuz-after-mou-signed",
      "source": "Al-Monitor",
-     "published": "2026-06-22T00:01:42+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz reut.rs/3SdCweL",
-     "link": "https://bsky.app/profile/reuters.com/post/3motkiz5nwe2l",
-     "source": "@reuters",
-     "published": "2026-06-21T23:45:12+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "US-Iran deal leaves Europe on the sidelines in the Strait of Hormuz - analysis",
-     "link": "https://www.jpost.com/middle-east/article-900081",
-     "source": "Jerusalem Post",
-     "published": "2026-06-21T22:50:38+00:00",
+     "published": "2026-06-22T01:01:39+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,16 @@
  ],
  "wh_statements": [
   {
+   "id": "1b712079c113",
+   "title": "Joy Reid Ditches Voting for Democrats — Unless the Party Completely Abandons Israel",
+   "link": "https://www.mediaite.com/media/news/joy-reid-ditches-voting-for-democrats-unless-the-party-completely-abandons-israel/",
+   "summary": "Former cable news star Joy Reid said she is done supporting the Democratic Party until it commits to completely abandoning Israel as an American ally. The post Joy Reid Ditches Voting for Democrats — Unless the Party Completely Abandons Israel first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-22T00:26:20+00:00",
+   "iran_topic": true
+  },
+  {
    "id": "acb10456aef4",
    "title": "Fox News Host Joey Jones Claims James Talarico Is Relying on ‘Mommy’s Teat’ Because They Share a Bank Account",
    "link": "https://www.mediaite.com/media/news/fox-news-host-joey-jones-claims-james-talarico-is-relying-on-mommys-teat-because-they-share-a-bank-account/",
@@ -386,16 +396,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-22T00:00:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "325ab1c8f7a9",
-   "title": "'Don't count on me to say bad words'",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/frances-sports-minister-unbowed-00969406",
-   "summary": "France's sports minister on Kylian Mbappé's political views, what scares her about snow and why she's not apologizing for PSG.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T23:31:00+00:00",
    "iran_topic": false
   },
   {
@@ -409,14 +409,14 @@
    "iran_topic": false
   },
   {
-   "id": "3f782a20b533",
-   "title": "Iran's fans, pro and con",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/irans-fans-00969430",
-   "summary": "There was a striking juxtaposition at Sunday's match.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T22:58:16+00:00",
-   "iran_topic": true
+   "id": "dac41907754c",
+   "title": "Indeed, the evidence that Gabbard was both a tankie and a cultist was ample when Trump chose her to help destroy the intelligence agencies, as I wrote then.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mothgg6x5c2p",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-21T22:50:04.496+00:00",
+   "iran_topic": false
   },
   {
    "id": "72b06099be0d",
@@ -427,16 +427,6 @@
    "category": "trump_bsky",
    "published": "2026-06-21T22:30:12.571+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "56b9ba72fc6c",
-   "title": "Vancouver learned to stop worrying and love mega-events",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/vancouver-world-cup-00969409",
-   "summary": "The city that defined modern anti-Olympic resistance has made its peace with the World Cup.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T22:30:00+00:00",
-   "iran_topic": false
   },
   {
    "id": "2e27dba6d536",
@@ -499,16 +489,6 @@
    "iran_topic": false
   },
   {
-   "id": "d72d5cff8431",
-   "title": "What Jordan's ambassador wants you to think about while watching Messi",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/jordan-first-world-cup-ambassador-dina-kawar-00969399",
-   "summary": "Dina Kawar is hoping Jordan's first-ever World Cup will get Americans see beyond its security challenges.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T21:31:00+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "9849056a6c38",
    "title": "Hormuz vessel crossings: @bloomberg.com",
    "link": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3motbm5wbr22u",
@@ -566,16 +546,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-21T20:37:52.652+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d1aefa58a78",
-   "title": "Sports is the Gulf's favorite soft power play. The World Cup is a hard test.",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/gulf-soccer-flop-saudi-arabia-qatar-uae-00969404",
-   "summary": "Middle Eastern petrostates have poured billions into the game. Their national teams are struggling to keep up.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T20:31:17+00:00",
    "iran_topic": false
   },
   {
@@ -649,16 +619,6 @@
    "iran_topic": false
   },
   {
-   "id": "a39db29b29d1",
-   "title": "Paws. Dish. Draw. Repeat.",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/belgium-bart-de-wever-cat-maximus-predictions-00969394",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T19:57:07+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "c6d190879d1a",
    "title": "‘Utterly Insane!’ WaPo Story On Tulsi Gabbard’s Link to Religious ‘Guru’ Who Allegedly Guided Her Career Sends Shockwaves",
    "link": "https://www.mediaite.com/media/news/utterly-insane-wapo-story-on-tulsi-gabbards-link-to-religious-guru-who-allegedly-guided-her-career-sends-shockwaves/",
@@ -696,26 +656,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-21T18:54:01+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a04fe74494c0",
-   "title": "Which members of the prospective ’28 field are hitting the pitch",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/2028-presidential-contenders-2026-fifa-world-cup-josh-shapiro-00969392",
-   "summary": "Pennsylvania Gov. Josh Shapiro is leaning into the “once-in-a-lifetime” World Cup.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T18:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "07bd79a75485",
-   "title": "The world came to play. Southeast Asia came to sell.",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/fifa-gift-shop-made-in-southeast-asia-trump-tariffs-00969216",
-   "summary": "Our trade editor explores the FIFA gift shop — and finds Donald Trump's influence on every tag.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T18:30:00+00:00",
    "iran_topic": false
   },
   {
@@ -819,16 +759,6 @@
    "iran_topic": false
   },
   {
-   "id": "8484850d14c9",
-   "title": "FIFA plays flag football against Iranian protesters",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/battle-iran-lion-sun-flag-fifa-ban-00969215",
-   "summary": "A California court says FIFA can ban a pre-revolutionary Iranian flag favored by Tehran's opponents. Actually keeping it out of stadiums is harder.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T17:31:00+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "eba80c8301b7",
    "title": "Senate Democrat Used Campaign Cash for Lavish Purchases Including Trips to Disney and Super Bowl Tickets: Report",
    "link": "https://www.mediaite.com/politics/senate-democrat-used-campaign-cash-for-lavish-purchases-including-trips-to-disney-and-super-bowl-tickets-report/",
@@ -929,26 +859,6 @@
    "iran_topic": false
   },
   {
-   "id": "cc624cd1bbae",
-   "title": "What does it cost to air-condition a World Cup?",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/world-cup-stadiums-electric-bill-comes-due-dallas-00969213",
-   "summary": "Dallas is using the most power among U.S. stadiums, according to one analysis, but will benefit of Texas's low energy rates when the bill comes due.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T16:30:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b1aa8c99df4e",
-   "title": "What SoFi Stadium traffic is teaching LA politicians about the Olympics",
-   "link": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/sofi-stadium-traffic-world-cup-olympic-lessons-la-00969211",
-   "summary": "Los Angeles is about to host its fourth match of the tournament, the most of any city thus far. Olympic organizers are taking notes.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-21T15:30:00+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "0a2051ef07c7",
    "title": "Trump Dances on the Political Grave of British PM Keir Starmer — Appears to Reveal Starmer ‘Will Resign’ Before Official Announcement",
    "link": "https://www.mediaite.com/media/news/trump-dances-on-the-political-grave-of-british-pm-keir-starmer-appears-to-reveal-starmer-will-resign-before-official-announcement/",
@@ -977,6 +887,96 @@
    "category": "trump_bsky",
    "published": "2026-06-21T14:59:20.423+00:00",
    "iran_topic": false
+  },
+  {
+   "id": "1c999c0d5a5c",
+   "title": "Aaron, your father would be so very proud of you. Happy Father's day. Public Notice is worth your money, people. And it isn't just the well-thought articles. Aaron works every single day to bring us news clips to keep us informed. And all that is completely free!",
+   "link": "https://bsky.app/profile/oeishik.bsky.social/post/3mosn2zpacc24",
+   "summary": "",
+   "source": "@oeishik",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:58:25.013+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b93f6d5bdff8",
+   "title": "I'm going to take the rest of the morning and afternoon off for Father's Day. If you appreciate my efforts to bring you the newsiest clips day in and day out, please support what I do by signing up for my newsletter. I'm proud of our coverage at PN and paid subscribers make my work possible. Thanks.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmvnwjrc2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:55:24.897+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b93f6d5bdff8",
+   "title": "I'm going to take the rest of the morning and afternoon off for Father's Day. If you appreciate my efforts to bring you the newsiest clips day in and day out, please support what I do by signing up for my newsletter. I'm proud of our coverage at PN and paid subscribers make my work possible. Thanks.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmvnwjrc2w",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:55:24.897+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ee44371af478",
+   "title": "WALTZ: No one would've thought even a year that you'd have Israel and the UAE working together militarily BRENNAN: Well, they were kinda forced to",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmqqvh2s2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:52:40.239+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "075e8b613baa",
+   "title": "Lindsey Graham: \"I spent 4.5 hours with President Trump. Here's what I think will happen. If this deal fails, he's gonna take the Strait of Hormuz over by force. We'll charge a fee for all those who go through to pay for the operation... if Iran contests control of the strait we'll obliterate them\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmqdadqe2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:52:25.911+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "72970d2c48b8",
+   "title": "BRENNAN: Are there classified annexes or portions of the MOU that have not been made public, and will they be shared with Congress? WALTZ: Not to my knowledge BRENNAN: What's the 'gentleman's agreement'? WALTZ: This is an ongoing negotiation",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mosmhbgl7v2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-21T14:47:22.031+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ca2db55741b",
+   "title": "Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show",
+   "link": "https://www.mediaite.com/media/news/foxs-rachel-campos-duffy-slams-zohran-mamdani-as-a-nepo-baby-two-days-after-inviting-her-own-daughter-on-her-show/",
+   "summary": "A Fox News host criticized New York City Mayor Zohran Mamdani as a \"nepo baby\" — just days after she invited her own daughter to appear on her show. The post Fox’s Rachel Campos-Duffy Slams Zohran Mamdani as a ‘Nepo Baby’ — Two Days After Inviting Her Own Daughter On Her Show first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T14:43:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bd3b28a38bdc",
+   "title": "Vance says US hopes to ‘transform’ Middle East as Iran talks begin",
+   "link": "https://www.politico.com/news/2026/06/21/vance-says-us-hopes-to-transform-middle-east-as-iran-talks-begin-00969324",
+   "summary": "The vice president is optimistic about diplomacy even as the U.S.-Iran ceasefire threatens to unravel.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-21T14:11:49+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dc5e1e18d52a",
+   "title": "JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran",
+   "link": "https://www.mediaite.com/media/news/just-in-jd-vance-arrives-in-switzerland-for-direct-talks-with-iran/",
+   "summary": "Vice President JD Vance arrived in Switzerland, early Sunday, for in-person negotiations with Iran for the first time since the April summit in Islamabad. The post JUST IN: JD Vance Arrives in Switzerland for Direct Talks With Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-21T13:23:01+00:00",
+   "iran_topic": true
   }
  ]
 }
