@@ -1,84 +1,84 @@
 {
- "generated": "2026-06-23T19:27:30.867089+00:00",
+ "generated": "2026-06-23T21:14:33.726861+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 77.09,
-   "change": -0.81,
-   "change_pct": -1.04,
+   "price": 76.88,
+   "change": -1.02,
+   "change_pct": -1.31,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    77.08999633789062
+    76.87999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 73.26,
-   "change": -1.56,
-   "change_pct": -2.09,
+   "price": 73.05,
+   "change": -1.77,
+   "change_pct": -2.37,
    "spark": [
     76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    73.26000213623047
+    73.05000305175781
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4138.0,
-   "change": -43.9,
-   "change_pct": -1.05,
+   "price": 4129.0,
+   "change": -52.9,
+   "change_pct": -1.26,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4138.0
+    4129.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.38,
-   "change": 0.36,
-   "change_pct": 0.36,
+   "price": 101.37,
+   "change": 0.35,
+   "change_pct": 0.34,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.38400268554688
+    101.36599731445312
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7376.01,
-   "change": -96.78,
-   "change_pct": -1.3,
+   "price": 7365.46,
+   "change": -107.33,
+   "change_pct": -1.44,
    "spark": [
     7511.35009765625,
     7420.10009765625,
     7500.580078125,
     7472.7900390625,
-    7376.009765625
+    7365.4599609375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 111.36,
-   "change": -1.33,
-   "change_pct": -1.18,
+   "price": 111.26,
+   "change": -1.43,
+   "change_pct": -1.27,
    "spark": [
     115.47000122070312,
     114.2300033569336,
     114.87000274658203,
     112.69000244140625,
-    111.36000061035156
+    111.26000213623047
    ]
   },
   "^VIX": {
@@ -99,12 +99,12 @@
    "symbol": "NG=F",
    "price": 3.19,
    "change": -0.06,
-   "change_pct": -1.88,
+   "change_pct": -1.78,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.191999912261963
+    3.194999933242798
    ]
   }
  },
@@ -218,14 +218,21 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T19:26:40.173839+00:00",
+   "published": "2026-06-23T21:13:51.637758+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-23T19:26:40.167630+00:00",
+   "published": "2026-06-23T21:13:51.631917+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Gulf oil tanker rates nearly double as Middle East producers ramp up exports reut.rs/4adFLJk",
+   "link": "https://bsky.app/profile/reuters.com/post/3moyasuct7l2g",
+   "source": "@reuters",
+   "published": "2026-06-23T20:35:04+00:00",
    "severity": "info"
   },
   {
@@ -311,13 +318,6 @@
    "source": "r/worldnews",
    "published": "2026-06-23T14:02:03+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Oman and Iran to pursue talks on managing navigation in Strait of Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/oman-and-iran-pursue-talks-managing-navigation-strait-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-23T13:36:43+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -325,13 +325,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-23T19:26:40.167630+00:00",
+     "published": "2026-06-23T21:13:51.631917+00:00",
      "severity": "info"
     },
     {
@@ -373,6 +373,286 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "e43afd10e60d",
+   "title": "BREAKING NYT: Government documents raise new doubts about Trump's unsubstantiated claim that \"vandals\" sabotaged the Reflecting Pool. There's no indication the peeling blue coating and algae blooms were caused intentionally — and the Trump admin knew that.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moycjcxucc2n",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:05:31.765+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c444098df2ad",
+   "title": "Jeffries: \"When Pete Hegseth comes up to Capitol Hill tomorrow, what he should do is submit his letter of resignation\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moychy54zc2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:04:46.849+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a512e992420b",
+   "title": "Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking",
+   "link": "https://www.mediaite.com/politics/trump/trump-drops-bonkers-story-about-his-friend-who-chokes-like-a-dog-at-public-speaking/",
+   "summary": "Trump dropped a wild story about a \"friend\" who \"chokes like a dog\" when public speaking as he simultaneously seemed to praise his own speaking abilities. The post Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-23T20:57:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a512e992420b",
+   "title": "Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking",
+   "link": "https://www.mediaite.com/politics/trump/trump-drops-bonkers-story-about-his-friend-who-chokes-like-a-dog-at-public-speaking/",
+   "summary": "Trump dropped a wild story about a \"friend\" who \"chokes like a dog\" when public speaking as he simultaneously seemed to praise his own speaking abilities. The post Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:57:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4170767be3b7",
+   "title": "Josh Hawley on Pride hats: \"Let's get back to God and country and playing some baseball and stop all this woke garbage\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyboadqbo2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:50:23.027+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d000220af887",
+   "title": "‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House",
+   "link": "https://www.mediaite.com/politics/it-hurts-my-heart-so-much-joy-reid-cant-bear-thought-of-knicks-visiting-trump-white-house/",
+   "summary": "Joy Reid said she will be in agony when her beloved New York Knicks go to the White House because Trump has been so \"openly hostile to Black folks.\" The post ‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:50:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f4a6a9fdd7d",
+   "title": "GOP Senator Goes Off On Republican Colleague For ‘The Bullsh*t He’s Done on Social Media’",
+   "link": "https://www.mediaite.com/politics/gop-senator-goes-off-on-republican-colleague-for-the-bullsht-hes-done-on-social-media/",
+   "summary": "Lee has long grabbed headlines for his outlandish and trollish social media behavior on an account named \"@BasedMikeLee.\" The post GOP Senator Goes Off On Republican Colleague For ‘The Bullsh*t He’s Done on Social Media’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:44:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4a2a998cad5",
+   "title": "lollllll -- Ossoff proposes a motion that would ban senators from trading stocks and crypto, prompting Sen. Lummis (who loves crypto) to immediately object",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moybbi4nbt2d",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:43:14.981+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7e11d5895c1b",
+   "title": "Clearest proof we've seen that he thinks refugees claiming political asylum were refugees from an actual insane asylum. The leader of the United States is dumber than dirt but there's an entire cult enabling him and a corporate media too cowardly to call them out.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moyaqixetk2s",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:33:45.438+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c87a37e999bd",
+   "title": "Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’",
+   "link": "https://www.mediaite.com/politics/trump/protester-escorted-out-of-trump-rally-in-pennsylvania-flipping-the-bird-and-shouting-pedophile/",
+   "summary": "A protester showed up to President Donald Trump's speech in Pennsylvania, getting escorted out by security as he yelled \"pedophile\" and waved his middle fingers in the air. The post Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’ first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-23T20:29:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c87a37e999bd",
+   "title": "Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’",
+   "link": "https://www.mediaite.com/politics/trump/protester-escorted-out-of-trump-rally-in-pennsylvania-flipping-the-bird-and-shouting-pedophile/",
+   "summary": "A protester showed up to President Donald Trump's speech in Pennsylvania, getting escorted out by security as he yelled \"pedophile\" and waved his middle fingers in the air. The post Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:29:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "62928c9e9edb",
+   "title": "Tucker Carlson Shoots Down Presidential Run as He Teases 2028 Plans After Breaking with Republican Party",
+   "link": "https://www.mediaite.com/media/podcasts/tucker-carlson-shoots-down-presidential-run-as-he-teases-2028-plans-after-breaking-with-republican-party/",
+   "summary": "Tucker Carlson told Alex Jones \"of course\" he doesn't want to run for president, though he he is leaving the door open to be involved in the 2028 election. The post Tucker Carlson Shoots Down Presidential Run as He Teases 2028 Plans After Breaking with Republican Party first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:18:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "44eaa3709851",
+   "title": "closing in on 90 minutes into his speech in Pennsylvania, Trump is still ranting and raving incoherently and his audience is totally silent",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy7l4fih527",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:12:50.748+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1feb2c7eb608",
+   "title": "Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels",
+   "link": "https://www.mediaite.com/media/news/shock-report-shows-factory-layoffs-at-financial-crisis-pandemic-levels/",
+   "summary": "The latest S&#038;P Global report shows that factory job cuts are approaching the highest levels since the early COVID-19 pandemic and 2008-2009 financial crisis. The post Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T20:10:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1b7ca4dfa6ca",
+   "title": "Trump: \"Some countries had no mental institutions. The mental institutions were taken -- all of those people were taken to our southern border and allowed to just walk freely into our country under Sleepy Joe Biden.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy7eorro427",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:09:15.142+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2d799b216002",
+   "title": "Trump can't remember the name of TrumpRx -- \"Go to Trump dot com\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy77ug4i622",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:06:33.281+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f4911a601033",
+   "title": "Trump: \"A friend of man who's extremely fat, sloppy, but very brilliant. He's a brilliant businessman but he's a slob.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy75ae65u2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:05:05.137+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "912bd21227ed",
+   "title": "Trump brags about cutting drug prices by 600 percent",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy747ea4m2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:04:30.536+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8780105552f9",
+   "title": "\"You've got the big strong muscles\" -- Trump has been obsessed with big strong muscular men lately and it's continuing today during his speech in PA",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy72tkbxd2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:03:44.597+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dbf4a253efc1",
+   "title": "BREAKING: GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran",
+   "link": "https://www.mediaite.com/media/news/breaking-gop-led-senate-passes-stunning-rebuke-of-trumps-war-in-iran/",
+   "summary": "Sen. John Fetterman (D-PA) was the only Democrat in the Senate to vote against the resolution. The post BREAKING: GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T19:59:02+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "e29f1fd17085",
+   "title": "Trump: \"Thanks as well to the president of the NRA who is here with me. I saved the Second Amendment. The NRA has been with me right from the beginning. How do you feel about national right to carry? We're working on it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy6hfcxbp2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:52:52.144+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "891073f55135",
+   "title": "Reuters: U.S. SENATE VOTES TO HALT IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy6cqld6k2k",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:50:16.186+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f33e1939e46b",
+   "title": "Trump: \"They used to call it the Rust Belt. I call it the Money Belt now.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy6av7xf62o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:49:13.938+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9be42db47de0",
+   "title": "The fact that @atrupar.com can listen to this live, type it out verbatim, and not just close his laptop and walk into the ocean is a testament to human endurance.",
+   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3moy5zd4tok2w",
+   "summary": "",
+   "source": "@nofirstorder",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:45:00.089+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dbacf672b568",
+   "title": "Frank Luntz Says Trump’s Endorsement Is So Powerful He Doesn’t Need to Rally for Republicans",
+   "link": "https://www.mediaite.com/media/tv/frank-luntz-says-trumps-endorsement-is-so-powerful-he-doesnt-need-to-rally-for-republicans/",
+   "summary": "Pollster Frank Luntz argued President Trump is so influential in politics that he doesn't need to rally for candidates in primary battles ahead of the midterms. The post Frank Luntz Says Trump’s Endorsement Is So Powerful He Doesn’t Need to Rally for Republicans first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T19:42:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ddeb020a8400",
+   "title": "‘That Process Is Separate’: Rubio Draws Hard Line Between Israel-Hezbollah War and Iran Negotiations Despite Vance MOU",
+   "link": "https://www.mediaite.com/media/news/that-process-is-separate-rubio-draws-hard-line-between-israel-hezbollah-war-and-iran-negotiations-despite-vance-mou/",
+   "summary": "Secretary of State Marco Rubio argued that the negotiations between the U.S. and Iran and those between Israel and Lebanon are \"separate\" on Tuesday. The post ‘That Process Is Separate’: Rubio Draws Hard Line Between Israel-Hezbollah War and Iran Negotiations Despite Vance MOU first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T19:39:22+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5e2c4da024f2",
+   "title": "Trump is just forging ahead with his speech as there's a medical emergency in the crowd directly behind him",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy5ixz5r224",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:35:51.565+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "79ab022d2786",
+   "title": "Trump: \"The ideology of the Mooslims is slightly diferent than the ideology of the Catholics. We have the Catholics and the Mooslims. Slightly different. But Venezuela has been great and Iran has been great.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy5cehxnl25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:32:09.745+00:00",
+   "iran_topic": true
+  },
   {
    "id": "eb7ac3216822",
    "title": "Trump claims that Steve Hilton advanced in the California gubernatorial election only after he called a US Attorney and demanded the state stop \"rigging\" the race",
@@ -514,16 +794,6 @@
    "iran_topic": false
   },
   {
-   "id": "16e56e566ed6",
-   "title": "Trump, lying his ass off, claims Iran \"has no missile capability\" (Not only do they have missiles, but he's publicly supported them having them!)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy3rukvci2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:05:02.453+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "a8f444144bfd",
    "title": "Lawyer for Olympian Arrested for ‘Vandalizing’ Reflecting Pool Vows He’ll Fight the Charges: ‘Touching Water Is Not a Crime!’",
    "link": "https://www.mediaite.com/crime/lawyer-for-olympian-arrested-for-vandalizing-reflecting-pool-vows-hell-fight-the-charges-touching-water-is-not-a-crime/",
@@ -534,16 +804,6 @@
    "iran_topic": false
   },
   {
-   "id": "9dcdf4d45f87",
-   "title": "When Biden did a fraction of this the media made it their top story and when Trump does it the media books a ballroom to host an emergency correspondents dinner in his honor",
-   "link": "https://bsky.app/profile/mattnegrin.bsky.social/post/3moy3ismxnk22",
-   "summary": "",
-   "source": "@mattnegrin",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:59:58.438+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f135ee48f018",
    "title": "ABC is launching a campaign urging viewers to support the network in its fights against Trump's FCC. The spots ask ABC viewers to support 'The View' and its local stations amid the FCC review of its licenses. tinyurl.com/3w4hnzk5",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy3aenmo22m",
@@ -551,36 +811,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-23T18:55:15.343+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c159f25432be",
-   "title": "\"Where are you, Mr Congressman?\" -- Trump can't remember the name of a congressman he's endorsed",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy37zdfyz2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:55:03.469+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "365f10f4a199",
-   "title": "Trump in Pennsylvania: \"Maybe we should run again. Should we run one more time? I'd like to do that\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy34lr3ue2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:53:08.568+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9b1eef2f4a50",
-   "title": "Klobuchar: \"The American people don't want to be talking every day about algae in the reflecting pool. They don't want to be talking about cage matches and arches and ballrooms. Instead, what are they dealing with? Rising healthcare costs.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy342kaum2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:52:50.521+00:00",
    "iran_topic": false
   },
   {
@@ -624,16 +854,6 @@
    "iran_topic": false
   },
   {
-   "id": "182c50c8ecdd",
-   "title": "Trump speaks to reporters after landing in PA (Andrew Harnik/Getty)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moxyhn6cos24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:05:37.932+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4f619539f7f0",
    "title": "Fox’s John Roberts Asks WH Deputy Press Secretary About Trump’s Low Economic Approval Rating: ‘Not Exactly Firing On All Cylinders’",
    "link": "https://www.mediaite.com/politics/foxs-john-roberts-asks-wh-deputy-press-secretary-about-trumps-low-economic-approval-rating-not-exactly-firing-on-all-cylinders/",
@@ -641,76 +861,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T17:57:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "baf19ac3cd46",
-   "title": "Lmaooooooooooooooooo",
-   "link": "https://bsky.app/profile/anadarkocapital.bsky.social/post/3moxxvve4fk2g",
-   "summary": "",
-   "source": "@anadarkocapital",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:55:42.535+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "173031e75a0f",
-   "title": "Perhaps I’m slow but I had not really connected the manic, completely over the top GOP effort to claim massive fraud in our social benefit programs to Trump’s effort to claim fraud in our elections as a pretense for the GOP to refuse a peaceful transfer of power in January. It’s all one thing.",
-   "link": "https://bsky.app/profile/simonwdc.bsky.social/post/3moxwzyuzrk2v",
-   "summary": "",
-   "source": "@simonwdc",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:40:06.710+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb89e7062ca1",
-   "title": "REPORTER: Will you take one off topic question? BLANCHE: No REPORTER: You've gotta take an off topic question! BLANCHE: Any other questions? REPORTERS: .... BLANCHE: Alright. Thanks everyone for coming. *walks off*",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moxwsli7ji2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:35:57.770+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5238e631b0fd",
-   "title": "Todd Blanche shuts down a reporter who tries to ask him a question about something other than \"fraud,\" prompting another reporter to tell him, \"he gets to ask his question on the topic that he chooses\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moxwo7ilpz2p",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:33:30.982+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6296fa66cf7b",
-   "title": "Q: What will you say to allies of yours like Ted Cruz who have been critical of the Iran deal? TRUMP: I think anybody who has been critical of it has to be educated",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moxwgmhyot2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:29:16.159+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "69cc77b3982c",
-   "title": "It’s all clown show now, every day, all the time.",
-   "link": "https://bsky.app/profile/simonwdc.bsky.social/post/3moxwe6gotk2v",
-   "summary": "",
-   "source": "@simonwdc",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:27:54.334+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d13d46a29bd",
-   "title": "Q: Are you planning to do a federal takeover of DC soon since it looks like there will be a socialist mayor? TRUMP: *rants about reflecting pool*",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moxwcmwts52t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T17:27:02.428+00:00",
    "iran_topic": false
   },
   {
@@ -734,16 +884,6 @@
    "iran_topic": false
   },
   {
-   "id": "375aa18c9e22",
-   "title": "5 Wildest New Trump Bombshells From Star NYT Reporters Maggie Haberman and Jonathan Swan’s Book",
-   "link": "https://www.mediaite.com/media/news/5-wildest-new-trump-bombshells-from-star-nyt-reporters-maggie-haberman-and-jonathan-swans-book/",
-   "summary": "NYT reporters Maggie Haberman and Jonathan Swan share riveting details inside the second Trump administration, including how one aide leaves him fawning notes The post 5 Wildest New Trump Bombshells From Star NYT Reporters Maggie Haberman and Jonathan Swan’s Book first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T16:23:34+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4971dc36d4b0",
    "title": "Nominations Sent to the Senate",
    "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
@@ -764,56 +904,6 @@
    "iran_topic": false
   },
   {
-   "id": "c82183061bbe",
-   "title": "‘You Were Absolutely Schooled!’ CNN’s Navarro Taunts Pro-Trump Host in Brawl Over Slavery and Elections",
-   "link": "https://www.mediaite.com/media/tv/you-were-absolutely-schooled-cnns-navarro-taunts-pro-trump-host-in-brawl-over-slavery-and-elections/",
-   "summary": "Navarro taunted Rantz during a brawl over the Electoral College and slavery, telling him \"You absolutely got schooled\" by her and panelist Charles Blow. The post ‘You Were Absolutely Schooled!’ CNN’s Navarro Taunts Pro-Trump Host in Brawl Over Slavery and Elections first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T16:16:03+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e87ca2cd4681",
-   "title": "Activist Group Takes Photos Under Kennedy Center Tarp — First Look After Trump’s Name Removed",
-   "link": "https://www.mediaite.com/media/print/activist-group-takes-photos-under-kennedy-center-tarp-first-look-after-trumps-name-removed/",
-   "summary": "An activist group took photos behind the tarp hung on the Kennedy Center's façade, providing the first good look after the president's name was removed. The post Activist Group Takes Photos Under Kennedy Center Tarp — First Look After Trump’s Name Removed first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T16:10:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4ac01bfe0af",
-   "title": "New Explosive Book Details Trump Telling Netanyahu: ‘The Jews Are Sick of You’",
-   "link": "https://www.mediaite.com/politics/new-explosive-book-details-trump-telling-netanyahu-the-jews-are-sick-of-you/",
-   "summary": "“I’m f**king out. The Israelis are crazy,” Kushner reportedly fumed at the time, according to sources from Haberman and Swan. The post New Explosive Book Details Trump Telling Netanyahu: ‘The Jews Are Sick of You’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T16:06:47+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "57dd13d54a8d",
-   "title": "Maggie Haberman Roasts Trump on MS NOW Over Bombshell Hitler-Golf-‘Historian’ Revelation",
-   "link": "https://www.mediaite.com/media/news/maggie-haberman-roasts-trump-on-ms-now-over-bombshell-hitler-golf-historian-revelation/",
-   "summary": "Maggie Haberman roasted Trump on MS NOW over a bombshell passage from her book in which Trump revels in a comparison to Hitler and others. The post Maggie Haberman Roasts Trump on MS NOW Over Bombshell Hitler-Golf-‘Historian’ Revelation first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T15:19:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e06278c561f2",
-   "title": "Karoline Leavitt Returns to Blast ‘Deranged’ Algae Protesters at Reflecting Pool",
-   "link": "https://www.mediaite.com/media/tv/karoline-leavitt-returns-to-blast-deranged-algae-protesters-at-reflecting-pool/",
-   "summary": "White House Press Secretary Karoline Leavitt returned to TV on Monday to blast the protesters who have gathered at the Reflecting Pool in support of the algae. The post Karoline Leavitt Returns to Blast ‘Deranged’ Algae Protesters at Reflecting Pool first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T15:07:01+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b915951928bf",
    "title": "Iran's Foreign Ministry says no U.N. Inspectors are scheduled to visit bombed nuclear sites. That contradicts JD Vance, who said yesterday that Iran had agreed in the Switzerland talks to let inspectors back into the country.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxmylkf4c2m",
@@ -822,46 +912,6 @@
    "category": "trump_bsky",
    "published": "2026-06-23T14:40:21.757+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "d0926361ee94",
-   "title": "Savannah Guthrie Tearfully Begs for Info in Mother’s Disappearance: ‘Somebody Knows Something’",
-   "link": "https://www.mediaite.com/media/tv/savannah-guthrie-tearfully-begs-for-info-in-mothers-disappearance-somebody-knows-something/",
-   "summary": "Today show co-host Savannah Guthrie tearfully begged viewers to share any info they have on the disappearance of her 84-year-old mom Nancy Guthrie on Tuesday The post Savannah Guthrie Tearfully Begs for Info in Mother’s Disappearance: ‘Somebody Knows Something’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T14:36:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aab2ccbaa7fd",
-   "title": "‘He’s Got a Political Death Wish If He Runs’: Mark Halperin Reveals Why This White House Contender May Sit Out 2028",
-   "link": "https://www.mediaite.com/media/news/hes-got-a-political-death-wish-if-he-runs-mark-halperin-reveals-why-this-white-house-contender-may-sit-out-2028/",
-   "summary": "Mark Halperin argued Ruben Gallego is among the prospective 2028 presidential candidates who would be foolish to move forward with a campaign. The post ‘He’s Got a Political Death Wish If He Runs’: Mark Halperin Reveals Why This White House Contender May Sit Out 2028 first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T14:18:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2e97df82f38",
-   "title": "‘We’re Giving ‘Em Money!’ Joe Scarborough Blows His Stack Over Report US Is Giving Iran $10B in Oil Profits",
-   "link": "https://www.mediaite.com/media/tv/were-giving-em-money-joe-scarborough-blows-his-stack-over-report-us-is-giving-iran-10b-in-oil-profits/",
-   "summary": "Morning Joe co-host Joe Scarborough lost it on Tuesday morning as he tried to come to grips with a report that Iran stands to make $10 billion after the U.S. lifted oil sanctions as peace talks remain ongoing. The post ‘We’re Giving ‘Em Money!’ Joe Scarborough Blows His Stack Over Report US Is Giving Iran $10B in Oil Profits first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T14:16:25+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "8f86e69ad251",
-   "title": "An excellent overview of the long, horrible hstorical context of the smear against Michelle Obama, by @nberlat.bsky.social.",
-   "link": "https://bsky.app/profile/lynne-sails.bsky.social/post/3moxlndisj223",
-   "summary": "",
-   "source": "@lynne-sails",
-   "category": "trump_bsky",
-   "published": "2026-06-23T14:16:10.475+00:00",
-   "iran_topic": false
   },
   {
    "id": "4513fd961d7d",
@@ -881,16 +931,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-23T13:00:25.562+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8de9a390a76c",
-   "title": "wrote about the history of anti trans Michelle Obama slurs and the intertwined fascist attacks on trans people and Black women. www.publicnotice.co/p/ufc-michel...",
-   "link": "https://bsky.app/profile/nberlat.bsky.social/post/3moxfwdjuqk2q",
-   "summary": "",
-   "source": "@nberlat",
-   "category": "trump_bsky",
-   "published": "2026-06-23T12:33:50.050+00:00",
    "iran_topic": false
   },
   {
@@ -932,46 +972,6 @@
    "category": "mediaite",
    "published": "2026-06-23T00:37:40+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "3228325fa7c2",
-   "title": "David Hearn: I went over and furnished my id and kind of before I knew it, I was being handcuffed and realized I was being arrested.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mow4qezkof25",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-23T00:16:46.729+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c71515581e9",
-   "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
-   "summary": "On this day 81 years ago, American forces emerged victorious from the Battle of Okinawa, a grueling test of American might, will, and sacrifice that would echo through the ages.&#160; As Imperial Japan mounted one of its final and most ferocious defenses, our Nation’s courageous heroes battled their way across the island and broke the [&#8230;] The post America 250: Presidential Message on the Anniversary of the Battle of Okinawa appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-23T00:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "861b28360878",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy6ukzjc24",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:55:24.225+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f05d80d57ae5",
-   "title": "Warner: Pulte could claim, whether there’s a source of intelligence or not, that China is going to do X. He could claim that there might be a terrorist threat around polling stations. All of it could be used as an excuse to try to shut down the election.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy3pcszz2l",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:53:37.744+00:00",
-   "iran_topic": true
   }
  ]
 }
