@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-23T06:52:02.251088+00:00",
+ "generated": "2026-06-23T09:28:29.511031+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 76.49,
-   "change": -1.41,
-   "change_pct": -1.81,
+   "price": 77.5,
+   "change": -0.4,
+   "change_pct": -0.51,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    76.48999786376953
+    77.5
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 72.56,
-   "change": -2.26,
-   "change_pct": -3.02,
+   "price": 73.6,
+   "change": -1.22,
+   "change_pct": -1.63,
    "spark": [
     76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    72.55999755859375
+    73.5999984741211
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4133.0,
-   "change": -48.9,
-   "change_pct": -1.17,
+   "price": 4128.3,
+   "change": -53.6,
+   "change_pct": -1.28,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4133.0
+    4128.2998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.08,
-   "change": 0.06,
-   "change_pct": 0.06,
+   "price": 101.17,
+   "change": 0.15,
+   "change_pct": 0.15,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.0790023803711
+    101.16999816894531
    ]
   },
   "^GSPC": {
@@ -84,27 +84,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.28,
-   "change": 0.88,
-   "change_pct": 5.37,
+   "price": 19.97,
+   "change": 2.69,
+   "change_pct": 15.57,
    "spark": [
-    16.40999984741211,
     18.440000534057617,
     16.399999618530273,
-    17.280000686645508
+    17.280000686645508,
+    19.969999313354492
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.3,
-   "change": 0.05,
-   "change_pct": 1.38,
+   "price": 3.26,
+   "change": 0.01,
+   "change_pct": 0.31,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.2980000972747803
+    3.263000011444092
    ]
   }
  },
@@ -218,22 +218,36 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T06:51:10.724081+00:00",
+   "published": "2026-06-23T09:27:53.707427+00:00",
    "severity": "info"
   },
   {
    "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
    "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it",
    "source": "Press TV",
-   "published": "2026-06-23T06:51:10.717250+00:00",
+   "published": "2026-06-23T09:27:53.700631+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
    "source": "Press TV",
-   "published": "2026-06-23T06:51:10.717041+00:00",
+   "published": "2026-06-23T09:27:53.700418+00:00",
    "severity": "low"
+  },
+  {
+   "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
+   "link": "https://www.al-monitor.com/originals/2026/06/more-vessels-transit-hormuz-qatar-linked-lng-tankers-return-data-show",
+   "source": "Al-Monitor",
+   "published": "2026-06-23T08:36:45+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show reut.rs/4eFpRc3",
+   "link": "https://bsky.app/profile/reuters.com/post/3mowxzkhah722",
+   "source": "@reuters",
+   "published": "2026-06-23T08:25:05+00:00",
+   "severity": "info"
   },
   {
    "title": "Trump: If Iran doesn’t abide by deal, ‘I will do what I have to do’ to prevent nuke",
@@ -261,13 +275,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-23T01:45:42+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Departing Switzerland, Iran’s top negotiator insists Strait of Hormuz will be managed by Tehran",
-   "link": "https://www.timesofisrael.com/liveblog-june-23-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-22T22:14:47+00:00",
    "severity": "info"
   },
   {
@@ -311,13 +318,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-22T17:04:35+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Hormuz: Traffic flows despite Iran's closure announcement",
-   "link": "https://www.al-monitor.com/originals/2026/06/hormuz-traffic-flows-despite-irans-closure-announcement",
-   "source": "Al-Monitor",
-   "published": "2026-06-22T17:00:23+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -331,22 +331,22 @@
      "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
      "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it",
      "source": "Press TV",
-     "published": "2026-06-23T06:51:10.717250+00:00",
+     "published": "2026-06-23T09:27:53.700631+00:00",
      "severity": "info"
     },
     {
      "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
      "source": "Press TV",
-     "published": "2026-06-23T06:51:10.717041+00:00",
+     "published": "2026-06-23T09:27:53.700418+00:00",
      "severity": "low"
     },
     {
-     "title": "Iran top negotiator departs for Muscat to discuss Hormuz Strait cooperation",
-     "link": "https://presstv.ir/Detail/2026/06/22/770921/Iran-Oman-Qalibaf-Hormuz",
-     "source": "Press TV",
-     "published": "2026-06-23T02:56:14.368122+00:00",
-     "severity": "low"
+     "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
+     "link": "https://www.al-monitor.com/originals/2026/06/more-vessels-transit-hormuz-qatar-linked-lng-tankers-return-data-show",
+     "source": "Al-Monitor",
+     "published": "2026-06-23T08:36:45+00:00",
+     "severity": "info"
     }
    ]
   },
