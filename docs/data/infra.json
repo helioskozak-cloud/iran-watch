@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-23T21:14:33.726861+00:00",
+ "generated": "2026-06-23T22:40:01.406897+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 76.88,
-   "change": -1.02,
-   "change_pct": -1.31,
+   "price": 76.99,
+   "change": -0.91,
+   "change_pct": -1.17,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    76.87999725341797
+    76.98999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 73.05,
-   "change": -1.77,
-   "change_pct": -2.37,
+   "price": 73.13,
+   "change": -1.69,
+   "change_pct": -2.26,
    "spark": [
     76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    73.05000305175781
+    73.12999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4129.0,
-   "change": -52.9,
-   "change_pct": -1.26,
+   "price": 4123.1,
+   "change": -58.8,
+   "change_pct": -1.41,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4129.0
+    4123.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.37,
-   "change": 0.35,
-   "change_pct": 0.34,
+   "price": 101.39,
+   "change": 0.37,
+   "change_pct": 0.37,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.36599731445312
+    101.38999938964844
    ]
   },
   "^GSPC": {
@@ -99,12 +99,12 @@
    "symbol": "NG=F",
    "price": 3.19,
    "change": -0.06,
-   "change_pct": -1.78,
+   "change_pct": -1.81,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.194999933242798
+    3.194000005722046
    ]
   }
  },
@@ -218,14 +218,21 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T21:13:51.637758+00:00",
+   "published": "2026-06-23T22:39:25.526106+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-23T21:13:51.631917+00:00",
+   "published": "2026-06-23T22:39:25.520257+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+   "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-23T21:00:32+00:00",
    "severity": "info"
   },
   {
@@ -311,13 +318,6 @@
    "source": "BBC Middle East",
    "published": "2026-06-23T14:55:31+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Contradicting Trump and Vance, Iran says no plans for IAEA inspections, asserts sovereignty at Hormuz | The Times of Israel",
-   "link": "https://www.reddit.com/r/worldnews/comments/1udi0ft/contradicting_trump_and_vance_iran_says_no_plans/",
-   "source": "r/worldnews",
-   "published": "2026-06-23T14:02:03+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,14 @@
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-23T21:13:51.631917+00:00",
+     "published": "2026-06-23T22:39:25.520257+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+     "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-23T21:00:32+00:00",
      "severity": "info"
     },
     {
@@ -339,13 +346,6 @@
      "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3moxy6eop6k2j",
      "source": "@warontherocks",
      "published": "2026-06-23T18:00:25.234+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Hormuz tolls, frozen funds pose early tests for US-Iran peace progress",
-     "link": "https://www.al-monitor.com/originals/2026/06/hormuz-tolls-frozen-funds-pose-early-tests-us-iran-peace-progress",
-     "source": "Al-Monitor",
-     "published": "2026-06-23T17:33:49+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,136 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b2f2e83d7ef2",
+   "title": "Trump Admin Installs Chain-Link Fencing, Surveillance Cameras at Reflecting Pool",
+   "link": "https://www.mediaite.com/media/news/trump-admin-installs-chain-link-fencing-surveillance-cameras-at-reflecting-pool/",
+   "summary": "The Trump administration installed surveillance cameras and chain-link fencing around the Reflecting Pool on Tuesday. The post Trump Admin Installs Chain-Link Fencing, Surveillance Cameras at Reflecting Pool first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T22:14:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9e44508ac49b",
+   "title": "Senate’s ‘Crypto Queen’ Immediately Objects as Jon Ossoff Proposes Trading Ban",
+   "link": "https://www.mediaite.com/media/news/senates-crypto-queen-immediately-objects-as-jon-ossoff-proposes-trading-ban/",
+   "summary": "Capitol Hill's \"Crypto Queen,\" Sen. Cynthia Lummis (R-WY), immediately objected to Sen. Jon Ossoff's (D-GA) proposed bill to ban Senators from trading stocks. The post Senate’s ‘Crypto Queen’ Immediately Objects as Jon Ossoff Proposes Trading Ban first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T22:12:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8bec0b17ead2",
+   "title": "Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart",
+   "link": "https://www.mediaite.com/media/news/karoline-leavitt-shares-poll-showing-broad-support-for-trump-iran-peace-deal-but-it-also-shows-80-think-itll-probably-fall-apart/",
+   "summary": "Karoline Leavitt shared a poll showing \"broad support\" for President Donald Trump's peace deal with Iran, but the survey itself tells a different story. The post Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T22:02:31+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6c414e5ba265",
+   "title": "‘He Gets to Ask His Question!’ Reporter Jumps In After Todd Blanche Tries to Shut Down a Question in Tense Presser",
+   "link": "https://www.mediaite.com/media/news/he-gets-to-ask-his-question-reporter-jumps-in-after-todd-blanche-tries-to-shut-down-a-question-in-tense-presser/",
+   "summary": "Todd Blanche irked reporters at a Justice Department presser on Tuesday when he refused to take a question that was “off topic.” The post ‘He Gets to Ask His Question!’ Reporter Jumps In After Todd Blanche Tries to Shut Down a Question in Tense Presser first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T22:01:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "31a06d9aaa40",
+   "title": "\"When people lie about Michelle Obama’s gender, they aren’t really trying to convince voters (or UFC fans) of anything. Rather, these smears are deployed to assure an in group of bigots and fascists that they have the right, and the power, to determine whose identity is respected and whose is not.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyepe2ank2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:44:41.703+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da9ea78ceda0",
+   "title": "Sen. Tuberville: \"Obama's a crook. Let's put 'em in jail.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyel4al4s2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:42:19.304+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f2699d5c022",
+   "title": "Tuberville: \"I would imagine Bill Pulte being over the housing in this country has a little mortgage fraud on some people in New York and maybe even a few congressmen and senators\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyefzgbn22e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:39:28.572+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "31e8199c6518",
+   "title": "Alan Dershowitz Announces Plans to Sue Coffee Shop That Banned Dan Goldman",
+   "link": "https://www.mediaite.com/media/alan-dershowitz-announces-plans-to-sue-coffee-shop-that-banned-dan-goldman/",
+   "summary": "Alan Dershowitz said he plans on suing the New York City coffee shop that banned Rep. Dan Goldman for his support of Israel and branded him a \"genocide enabler\" The post Alan Dershowitz Announces Plans to Sue Coffee Shop That Banned Dan Goldman first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T21:35:18+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2b533a665903",
+   "title": "White House Unveils President Trump’s America First Resilience Strategy",
+   "link": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
+   "summary": "The White House today released “President Trump’s America First Resilience Strategy,” a bold mandate that denies adversaries the ability to hold America and our core interests at risk. Resilience is a strategic capability that preserves our freedom of action, advances American interests, promotes prosperity, deters adversaries, multiplies and enables peace through strength, and reduces consequences [&#8230;] The post White House Unveils President Trump’s America First Resilience Strategy appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-23T21:28:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ec1d60f5462",
+   "title": "Thom Tillis Calls Out Trump Pardoning Rioters Who Attacked Cops While Wanting 10-Year Jail Sentences For Vandals",
+   "link": "https://www.mediaite.com/politics/thom-tillis-calls-out-trump-pardoning-rioters-who-attacked-cops-while-wanting-10-year-jail-sentences-for-vandals/",
+   "summary": "\"They get 10 years; you beat a cop, you get out free, and potentially eligible for restitution,” Tillis replied, “Seems unequal to me!” The post Thom Tillis Calls Out Trump Pardoning Rioters Who Attacked Cops While Wanting 10-Year Jail Sentences For Vandals first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T21:27:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "401ecfeab958",
+   "title": "‘No one wants to talk about Iran’: White House hopes to pivot back to economy",
+   "link": "https://www.politico.com/news/2026/06/23/no-one-wants-to-talk-about-iran-white-house-hopes-to-pivot-back-to-economy-00972933",
+   "summary": "The administration is trying to reframe the conversation while batting down the critics.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-23T21:24:28+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "90a366fd0436",
+   "title": "Rep. Jason Smith: \"The Jewish people are welcome in the Republican Party, and they can come here and support us\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moydcsexs62n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:19:46.778+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8d53420a2660",
+   "title": "‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father",
+   "link": "https://www.mediaite.com/media/podcasts/i-dare-you-megyn-kelly-issues-scathing-challenge-to-the-view-to-host-austin-metcalfs-father/",
+   "summary": "Megyn Kelly challenged The View hosts to bring on the father of a slain teenager who accused Sunny Hostin of trying to \"monetize the death of my son.\" The post ‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T21:14:23+00:00",
+   "iran_topic": false
+  },
   {
    "id": "e43afd10e60d",
    "title": "BREAKING NYT: Government documents raise new doubts about Trump's unsubstantiated claim that \"vandals\" sabotaged the Reflecting Pool. There's no indication the peeling blue coating and algae blooms were caused intentionally — and the Trump admin knew that.",
@@ -565,9 +695,9 @@
   },
   {
    "id": "dbf4a253efc1",
-   "title": "BREAKING: GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran",
+   "title": "GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran",
    "link": "https://www.mediaite.com/media/news/breaking-gop-led-senate-passes-stunning-rebuke-of-trumps-war-in-iran/",
-   "summary": "Sen. John Fetterman (D-PA) was the only Democrat in the Senate to vote against the resolution. The post BREAKING: GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran first appeared on Mediaite .",
+   "summary": "Sen. John Fetterman (D-PA) was the only Democrat in the Senate to vote against the resolution. The post GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T19:59:02+00:00",
@@ -714,16 +844,6 @@
    "iran_topic": false
   },
   {
-   "id": "4475a4cdf743",
-   "title": "Trump: \"I met a great police officer. New York's finest. And he said, 'Sir, I want to thank you. My wife didn't think much of me. We were having marital difficulty. She thought I was nothing.' I looked at him. The muscles were all over the place. He didn't suffer from that.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy46fovtu2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:12:03.061+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4b022a05c159",
    "title": "CBS’s Ed O’Keefe Demolishes Trump’s Claim the Reflecting Pool Was Vandalized With a ‘Knife’",
    "link": "https://www.mediaite.com/politics/cbss-ed-okeefe-demolishes-trumps-claim-the-reflecting-pool-was-vandalized-with-a-knife/",
@@ -731,16 +851,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T19:12:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1991b3d0739a",
-   "title": "Trump: \"The typical 401k is up almost $30,000 in, uhhhhhhh ... \"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy3zx6dcr2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:09:33.620+00:00",
    "iran_topic": false
   },
   {
@@ -774,36 +884,6 @@
    "iran_topic": true
   },
   {
-   "id": "8830a37d52f1",
-   "title": "\"Do you think you would've had trouble with a woman?\" -- Trump is now musing about men boxing women",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy3spmwkf2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:05:30.829+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7c693e83a36c",
-   "title": "Trump: \"When I went to China two weeks ago ... \" (His trip to China was well over a month ago)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy3s6aexg2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:05:12.592+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a8f444144bfd",
-   "title": "Lawyer for Olympian Arrested for ‘Vandalizing’ Reflecting Pool Vows He’ll Fight the Charges: ‘Touching Water Is Not a Crime!’",
-   "link": "https://www.mediaite.com/crime/lawyer-for-olympian-arrested-for-vandalizing-reflecting-pool-vows-hell-fight-the-charges-touching-water-is-not-a-crime/",
-   "summary": "Norm Eisen, the attorney representing David Hearn, vowed that his client would fight the charges against him accusing him of vandalizing the Reflecting Pool, declaring that \"touching water is not a crime!\" The post Lawyer for Olympian Arrested for ‘Vandalizing’ Reflecting Pool Vows He’ll Fight the Charges: ‘Touching Water Is Not a Crime!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:03:06+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f135ee48f018",
    "title": "ABC is launching a campaign urging viewers to support the network in its fights against Trump's FCC. The spots ask ABC viewers to support 'The View' and its local stations amid the FCC review of its licenses. tinyurl.com/3w4hnzk5",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy3aenmo22m",
@@ -814,56 +894,6 @@
    "iran_topic": false
   },
   {
-   "id": "789869f89d79",
-   "title": "‘Goldmine for Democrats!’ CNN Data Guru Reveals How Trump Could Cost the GOP Bigtime in Key Swing State",
-   "link": "https://www.mediaite.com/media/tv/goldmine-for-democrats-cnn-data-guru-reveals-how-trump-could-cost-the-gop-bigtime-in-key-swing-state/",
-   "summary": "CNN's Harry Enten discussed on Tuesday how President Donald Trump could cost the GOP bigtime in Pennsylvania this November. The post ‘Goldmine for Democrats!’ CNN Data Guru Reveals How Trump Could Cost the GOP Bigtime in Key Swing State first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T18:24:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "47def22c2884",
-   "title": "The Coming Chasm Between the Informed and Everyone Else Is Terrible for Democracy",
-   "link": "https://www.mediaite.com/opinion/the-coming-chasm-between-the-informed-and-everyone-else-is-terrible-for-democracy/",
-   "summary": "\"The more reality becomes the province of a minority, the more tempting it will become for some to conclude that democracy itself is an outdated mechanism.\" The post The Coming Chasm Between the Informed and Everyone Else Is Terrible for Democracy first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T18:16:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4be990990a34",
-   "title": "‘An All-Time Low!’ NatSec Dem Torches Trump DNI Pick On CNN Over Bombshell Firings",
-   "link": "https://www.mediaite.com/media/news/an-all-time-low-natsec-dem-torches-trump-dni-pick-on-cnn-over-bombshell-firings/",
-   "summary": "Rep. Joyce Beatty (D-OH) slammed bombshell firings by Trump acting DNI Bill Pulte, telling CNN anchor Sara Sidner the action is \"an all-time low!\" The post ‘An All-Time Low!’ NatSec Dem Torches Trump DNI Pick On CNN Over Bombshell Firings first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T18:14:59+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b9ec2070fa31",
-   "title": "‘Good Job, Loser’: White House Shoots Down Suggestion FDA Let Trump Try Out New ‘Fat Drug’ in Scathing Fashion",
-   "link": "https://www.mediaite.com/online/good-job-loser-white-house-shoots-down-suggestion-fda-let-trump-try-out-new-fat-drug-in-scathing-fashion/",
-   "summary": "White House comms officials absolutely slammed a reporter over her suggestion that President Trump was given the opportunity to try a new weight-loss drug as part of a \"compassionate use\" program. The post ‘Good Job, Loser’: White House Shoots Down Suggestion FDA Let Trump Try Out New ‘Fat Drug’ in Scathing Fashion first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T18:14:38+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4f619539f7f0",
-   "title": "Fox’s John Roberts Asks WH Deputy Press Secretary About Trump’s Low Economic Approval Rating: ‘Not Exactly Firing On All Cylinders’",
-   "link": "https://www.mediaite.com/politics/foxs-john-roberts-asks-wh-deputy-press-secretary-about-trumps-low-economic-approval-rating-not-exactly-firing-on-all-cylinders/",
-   "summary": "Fox's John Roberts asked White House Deputy Press Secretary Abigail Jackson about President Donald Trump's low economic approval in recent polls. The post Fox’s John Roberts Asks WH Deputy Press Secretary About Trump’s Low Economic Approval Rating: ‘Not Exactly Firing On All Cylinders’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T17:57:50+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "298c9570cfbe",
    "title": "OMB Advances Revolutionary FAR Overhaul with Formal Publication of Regulatory Changes",
    "link": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
@@ -871,16 +901,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-23T16:45:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1ed74300d4a0",
-   "title": "Top ESPN Draft Analyst Announces He Lost an Arm in ‘Serious Car Accident’",
-   "link": "https://www.mediaite.com/media/sports/top-espn-draft-analyst-announces-he-lost-an-arm-in-serious-car-accident/",
-   "summary": "Top ESPN NFL Draft analyst Matt Miller announced Tuesday morning that he was recovering from a serious car accident that resulted in an arm amputation. The post Top ESPN Draft Analyst Announces He Lost an Arm in ‘Serious Car Accident’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T16:31:43+00:00",
    "iran_topic": false
   },
   {
@@ -952,26 +972,6 @@
    "category": "mediaite",
    "published": "2026-06-23T03:18:21+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "406cb9426410",
-   "title": "FLAG: Trump says he's preparing a lawsuit against ABC for \"false reporting\" about the reflecting pool. There's no evidence of false reporting.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mow624o7oc2b",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T00:40:07.397+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eec9f5b4494c",
-   "title": "Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’",
-   "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
-   "summary": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool. The post Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’ first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-23T00:37:40+00:00",
-   "iran_topic": false
   }
  ]
 }
