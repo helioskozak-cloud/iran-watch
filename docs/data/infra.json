@@ -1,97 +1,97 @@
 {
- "generated": "2026-06-23T12:21:45.496578+00:00",
+ "generated": "2026-06-23T15:31:05.984762+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 77.47,
-   "change": -0.43,
-   "change_pct": -0.55,
+   "price": 76.86,
+   "change": -1.04,
+   "change_pct": -1.34,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    77.47000122070312
+    76.86000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 73.6,
-   "change": -1.22,
-   "change_pct": -1.63,
+   "price": 73.17,
+   "change": -1.65,
+   "change_pct": -2.21,
    "spark": [
     76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    73.5999984741211
+    73.16999816894531
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4133.6,
-   "change": -48.3,
-   "change_pct": -1.15,
+   "price": 4145.7,
+   "change": -36.2,
+   "change_pct": -0.87,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4133.60009765625
+    4145.7001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.28,
-   "change": 0.26,
-   "change_pct": 0.26,
+   "price": 101.36,
+   "change": 0.34,
+   "change_pct": 0.33,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.28199768066406
+    101.3550033569336
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7472.79,
-   "change": -27.79,
-   "change_pct": -0.37,
+   "price": 7376.97,
+   "change": -95.82,
+   "change_pct": -1.28,
    "spark": [
-    7554.2900390625,
     7511.35009765625,
     7420.10009765625,
     7500.580078125,
-    7472.7900390625
+    7472.7900390625,
+    7376.97021484375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 112.69,
-   "change": -2.18,
-   "change_pct": -1.9,
+   "price": 110.83,
+   "change": -1.86,
+   "change_pct": -1.65,
    "spark": [
-    121.20999908447266,
     115.47000122070312,
     114.2300033569336,
     114.87000274658203,
-    112.69000244140625
+    112.69000244140625,
+    110.83499908447266
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.56,
-   "change": 2.28,
-   "change_pct": 13.19,
+   "price": 19.46,
+   "change": 2.18,
+   "change_pct": 12.62,
    "spark": [
     18.440000534057617,
     16.399999618530273,
     17.280000686645508,
-    19.559999465942383
+    19.459999084472656
    ]
   },
   "NG=F": {
@@ -215,18 +215,67 @@
  ],
  "incidents": [
   {
+   "title": "Trump says Iran agreed to nuclear inspections, Tehran denies deal",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900265",
+   "source": "Jerusalem Post",
+   "published": "2026-06-23T15:34:37+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T12:21:09.421471+00:00",
+   "published": "2026-06-23T15:30:27.910239+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
    "source": "Press TV",
-   "published": "2026-06-23T12:21:09.416219+00:00",
+   "published": "2026-06-23T15:30:27.904813+00:00",
    "severity": "low"
+  },
+  {
+   "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
+   "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
+   "source": "Press TV",
+   "published": "2026-06-23T15:30:27.903014+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "A United Nations agency said Tuesday that a plan is underway to evacuate 11,000 stranded seafarers through the Strait of Hormuz.",
+   "link": "https://bsky.app/profile/apnews.com/post/3moxpilhi7p2x",
+   "source": "@apnews",
+   "published": "2026-06-23T15:25:05+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Contradicting Trump and Vance, Iran says no plans for IAEA inspections, asserts sovereignty at Hormuz | The Times of Israel",
+   "link": "https://www.reddit.com/r/worldnews/comments/1udi0ft/contradicting_trump_and_vance_iran_says_no_plans/",
+   "source": "r/worldnews",
+   "published": "2026-06-23T14:02:03+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oman and Iran to pursue talks on managing navigation in Strait of Hormuz",
+   "link": "https://www.al-monitor.com/originals/2026/06/oman-and-iran-pursue-talks-managing-navigation-strait-hormuz",
+   "source": "Al-Monitor",
+   "published": "2026-06-23T13:36:43+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Oman and Iran to pursue talks on managing navigation in Strait of Hormuz reut.rs/4vm8xje",
+   "link": "https://bsky.app/profile/reuters.com/post/3moxirzxrcd2u",
+   "source": "@reuters",
+   "published": "2026-06-23T13:25:06+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Contradicting Trump and Vance, Iran says no plans for IAEA inspections, asserts sovereignty at Hormuz",
+   "link": "https://www.timesofisrael.com/contradicting-vance-iran-says-no-plans-for-iaea-inspections-of-damaged-nuclear-sites/",
+   "source": "Times of Israel",
+   "published": "2026-06-23T11:39:11+00:00",
+   "severity": "high"
   },
   {
    "title": "Iran is taking steps to cement its control over the Strait of Hormuz and to generate revenue from the waterway through new entities and procedures, experts say. The moves come even as negotiations with the U.S. and Iran’s neighbors over managing the strait are taking place.",
@@ -269,55 +318,6 @@
    "source": "Times of Israel",
    "published": "2026-06-23T05:24:22+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran top negotiator departs for Muscat to discuss Hormuz Strait cooperation",
-   "link": "https://presstv.ir/Detail/2026/06/22/770921/Iran-Oman-Qalibaf-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-23T02:56:14.368122+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran to administer Strait of Hormuz: Tehran",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ud4ria/iran_to_administer_strait_of_hormuz_tehran/",
-   "source": "r/worldnews",
-   "published": "2026-06-23T02:34:13+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-23T01:45:42+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Ghalibaf: Strait of Hormuz will be administered by Iran according to international law",
-   "link": "https://en.irna.ir/news/86190527/Ghalibaf-Strait-of-Hormuz-will-be-administered-by-Iran-according",
-   "source": "IRNA",
-   "published": "2026-06-22T22:14:19+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump: 'I will do what I have to do' if Iran does not stick to deal",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-i-will-do-what-i-have-do-if-iran-does-not-stick-deal",
-   "source": "Al-Monitor",
-   "published": "2026-06-22T20:36:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "India-bound fertilizer ships cross Hormuz, government says reut.rs/43Pj5ve",
-   "link": "https://bsky.app/profile/reuters.com/post/3movmgt6u4m2b",
-   "source": "@reuters",
-   "published": "2026-06-22T19:25:06+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: June 22, 2026",
-   "link": "https://news.usni.org/2026/06/22/usni-news-fleet-and-marine-tracker-june-22-2026",
-   "source": "USNI News",
-   "published": "2026-06-22T18:46:33+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,28 +325,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 12,
    "recent": [
     {
      "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
      "source": "Press TV",
-     "published": "2026-06-23T12:21:09.416219+00:00",
+     "published": "2026-06-23T15:30:27.904813+00:00",
      "severity": "low"
     },
     {
-     "title": "Iran is taking steps to cement its control over the Strait of Hormuz and to generate revenue from the waterway through new entities and procedures, experts say. The moves come even as negotiations with the U.S. and Iran’s neighbors over managing the strait are taking place.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3moxc3dqpwv2i",
-     "source": "@nytimes",
-     "published": "2026-06-23T11:25:03.037482+00:00",
+     "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
+     "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
+     "source": "Press TV",
+     "published": "2026-06-23T15:30:27.903014+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran, Oman discuss Hormuz Strait management, form joint committee",
-     "link": "https://en.irna.ir/news/86191239/Iran-Oman-discuss-Hormuz-Strait-management-form-joint-committee",
-     "source": "IRNA",
-     "published": "2026-06-23T11:17:49+00:00",
-     "severity": "low"
+     "title": "A United Nations agency said Tuesday that a plan is underway to evacuate 11,000 stranded seafarers through the Strait of Hormuz.",
+     "link": "https://bsky.app/profile/apnews.com/post/3moxpilhi7p2x",
+     "source": "@apnews",
+     "published": "2026-06-23T15:25:05+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -373,6 +373,286 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "57dd13d54a8d",
+   "title": "Maggie Haberman Roasts Trump on MS NOW Over Bombshell Hitler-Golf-‘Historian’ Revelation",
+   "link": "https://www.mediaite.com/media/news/maggie-haberman-roasts-trump-on-ms-now-over-bombshell-hitler-golf-historian-revelation/",
+   "summary": "Maggie Haberman roasted Trump on MS NOW over a bombshell passage from her book in which Trump revels in a comparison to Hitler and others. The post Maggie Haberman Roasts Trump on MS NOW Over Bombshell Hitler-Golf-‘Historian’ Revelation first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T15:19:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e06278c561f2",
+   "title": "Karoline Leavitt Returns to Blast ‘Deranged’ Algae Protesters at Reflecting Pool",
+   "link": "https://www.mediaite.com/media/tv/karoline-leavitt-returns-to-blast-deranged-algae-protesters-at-reflecting-pool/",
+   "summary": "White House Press Secretary Karoline Leavitt returned to TV on Monday to blast the protesters who have gathered at the Reflecting Pool in support of the algae. The post Karoline Leavitt Returns to Blast ‘Deranged’ Algae Protesters at Reflecting Pool first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T15:07:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "416344e59e76",
+   "title": "Trump: \"The 350 foot gash, made by a very sharp knife or razors, is actually numerous slashes over a very long 350 foot length. It was purposefully and criminally done, and somebody had to work very hard, probably in the dark of night, to create such a condition.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxo5fvlxs24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T15:00:57.347+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b915951928bf",
+   "title": "Iran's Foreign Ministry says no U.N. Inspectors are scheduled to visit bombed nuclear sites. That contradicts JD Vance, who said yesterday that Iran had agreed in the Switzerland talks to let inspectors back into the country.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxmylkf4c2m",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T14:40:21.757+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d0926361ee94",
+   "title": "Savannah Guthrie Tearfully Begs for Info in Mother’s Disappearance: ‘Somebody Knows Something’",
+   "link": "https://www.mediaite.com/media/tv/savannah-guthrie-tearfully-begs-for-info-in-mothers-disappearance-somebody-knows-something/",
+   "summary": "Today show co-host Savannah Guthrie tearfully begged viewers to share any info they have on the disappearance of her 84-year-old mom Nancy Guthrie on Tuesday The post Savannah Guthrie Tearfully Begs for Info in Mother’s Disappearance: ‘Somebody Knows Something’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T14:36:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aab2ccbaa7fd",
+   "title": "‘He’s Got a Political Death Wish If He Runs’: Mark Halperin Reveals Why This White House Contender May Sit Out 2028",
+   "link": "https://www.mediaite.com/media/news/hes-got-a-political-death-wish-if-he-runs-mark-halperin-reveals-why-this-white-house-contender-may-sit-out-2028/",
+   "summary": "Mark Halperin argued Ruben Gallego is among the prospective 2028 presidential candidates who would be foolish to move forward with a campaign. The post ‘He’s Got a Political Death Wish If He Runs’: Mark Halperin Reveals Why This White House Contender May Sit Out 2028 first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T14:18:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d2e97df82f38",
+   "title": "‘We’re Giving ‘Em Money!’ Joe Scarborough Blows His Stack Over Report US Is Giving Iran $10B in Oil Profits",
+   "link": "https://www.mediaite.com/media/tv/were-giving-em-money-joe-scarborough-blows-his-stack-over-report-us-is-giving-iran-10b-in-oil-profits/",
+   "summary": "Morning Joe co-host Joe Scarborough lost it on Tuesday morning as he tried to come to grips with a report that Iran stands to make $10 billion after the U.S. lifted oil sanctions as peace talks remain ongoing. The post ‘We’re Giving ‘Em Money!’ Joe Scarborough Blows His Stack Over Report US Is Giving Iran $10B in Oil Profits first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T14:16:25+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "a29f8a664458",
+   "title": "CNBC's website says \"CNBC is the world leader in business news and real-time financial market coverage,\" which apparently means \"sloppy anti-scientific conspiracy theories dredged up from the bowels of social media sites infested with Nazis.\"",
+   "link": "https://bsky.app/profile/maxkennerly.bsky.social/post/3moxlkuqoxc24",
+   "summary": "",
+   "source": "@maxkennerly",
+   "category": "trump_bsky",
+   "published": "2026-06-23T14:14:47.896+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "08d3a43d0faf",
+   "title": "Trump -- who began his political career with demeaning, racist attacks on Barack Obama -- is entering the final stretch of his utterly failed presidency with the most embarrassing disaster conceivable: A desperate attempt to eke out a far worse version of Obama's deal with Iran",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3moxliqey4k2z",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-23T14:13:36.211+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "05d0cdd64477",
+   "title": "Trump DOJ Subpoenaed WaPo, WSJ Reporters to Testify Before Federal Grand Jury — Withdrew After Outlets Challenged Them: Report",
+   "link": "https://www.mediaite.com/media/trump-doj-subpoenaed-wapo-wsj-reporters-to-testify-before-federal-grand-jury-withdrew-after-outlets-challenged-them-report/",
+   "summary": "The Justice Department pushed to have reporters from the Washington Post and The Wall Street Journal testify before a federal grand jury on national security The post Trump DOJ Subpoenaed WaPo, WSJ Reporters to Testify Before Federal Grand Jury — Withdrew After Outlets Challenged Them: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T14:13:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f2f4c531b89",
+   "title": "This tracks, because if you actually read The Art of the Deal you'll see that Trump is a simpleton who knows nothing about negotiation, and only a complete halfwit like Roger Marshall would think otherwise",
+   "link": "https://bsky.app/profile/paulwaldman.bsky.social/post/3moxkrizros26",
+   "summary": "",
+   "source": "@paulwaldman",
+   "category": "trump_bsky",
+   "published": "2026-06-23T14:00:36.750+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d0ddcbe41597",
+   "title": "BERMAN: Do you believe there's evidence of a 300-foot cut at the bottom of the reflecting pool? REP. PETE SESSIONS: I don't know. I would say the president evidently has got it.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxk2ei4ik24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:47:40.225+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "37ce3a28240f",
+   "title": "Rep. Joyce Beatty: \"I can tell you his name has been removed, and we are certainly standing up against this tarp to have it also come down\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxjytmsgr2r",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:46:48.992+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "21bc89047cfd",
+   "title": "🤔",
+   "link": "https://bsky.app/profile/joshtpm.bsky.social/post/3moxji7o4k22g",
+   "summary": "",
+   "source": "@joshtpm",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:37:31.200+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "49b554b90ba4",
+   "title": "Who asked for this?",
+   "link": "https://bsky.app/profile/anthonymkreis.bsky.social/post/3moxjdvcspk23",
+   "summary": "",
+   "source": "@anthonymkreis",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:35:06.126+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3a1d9f4866ee",
+   "title": "Tucker Carlson on the midterms: \"There's no chance I would support the Republican Party ... if I'm out, then I think a lot of other people are out\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxj6lwlse2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:32:08.509+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a6ff0d397b2c",
+   "title": "Imagine still hitching your star to a crumbling toddler like Trump",
+   "link": "https://bsky.app/profile/snipy.bsky.social/post/3moxj5gwcyf2w",
+   "summary": "",
+   "source": "@snipy",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:31:29.578+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4513fd961d7d",
+   "title": "Breaking WaPo: The Trump Justice Department took the extraordinary step of seeking to force reporters for The Washington Post and the Wall Street Journal to testify before a federal grand jury — but withdrew the subpoenas after they were challenged by the news organizations.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxj3b6sr222",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:30:16.587+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ab79206684f2",
+   "title": "Trump passed Herbert Hoover on the list of worst presidents a long, long time ago.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moxiwr5xec2v",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:27:45.564+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e678d81e9d0c",
+   "title": "Infantino: \"We will be together with the president, enjoying the final, and handing the trophy to the winner together. We are together all the time.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxiqzs5ar2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:24:33.279+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4ce34426c02b",
+   "title": "CNN’s Abby Phillip Hits Trump Iran Deal With Punishing Side-by-Side Obama Video Receipts",
+   "link": "https://www.mediaite.com/media/tv/cnns-abby-phillip-hits-trump-iran-deal-with-punishing-side-by-side-obama-video-receipts/",
+   "summary": "Abby Phillip hit Trump's Iran deal with side-by-side clips showing JD Vance bragging about a \"major milestone\" — that Obama announced over a decade ago. The post CNN’s Abby Phillip Hits Trump Iran Deal With Punishing Side-by-Side Obama Video Receipts first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T13:21:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "c4d5954eef6a",
+   "title": "‘It’s Crazy’: Pro-Israel Democratic Lawmaker Responds to NYC Coffee Shop Banning Him for Being a ‘Genocide Enabler’",
+   "link": "https://www.mediaite.com/politics/its-crazy-pro-israel-democratic-lawmaker-responds-to-nyc-coffee-shop-banning-him-for-being-a-genocide-enabler/",
+   "summary": "Rep. Dan Goldman responded to a New York City coffee shop banning him and branding him a \"genocide enabler\" for his pro-Israel views during an interview on CNN The post ‘It’s Crazy’: Pro-Israel Democratic Lawmaker Responds to NYC Coffee Shop Banning Him for Being a ‘Genocide Enabler’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T13:18:02+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "95e28b282c33",
+   "title": "@nberlat.bsky.social: UFC fighter's Michelle Obama smear reveals much about MAGA bigotry: There's a reason she's been a target for so long. 🧾 open.substack.com/pub/aaronrup...",
+   "link": "https://bsky.app/profile/pamspaulding.bsky.social/post/3moxidggv2c2m",
+   "summary": "",
+   "source": "@pamspaulding",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:16:56.788+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "72a3ac771732",
+   "title": "Sen. Roger Marshall: \"Everyone should go read his 'Art of the Deal' book. I made entire staff read it, and I refer back to it all the time. It shows you who Trump was in his raw state.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxi5jkt3a2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:13:38.730+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3d4c14e96efb",
+   "title": "Maggie Haberman Hits WH Press Corps — Says CNN’s Kaitlan Collins Is ‘The Only Person’ Challenging Trump ‘Aggressively’",
+   "link": "https://www.mediaite.com/media/news/maggie-haberman-hits-wh-press-corps-says-cnns-kaitlan-collins-is-the-only-person-challenging-trump-aggressively/",
+   "summary": "Maggie Haberman believes only one White House reporter is routinely \"challenging\" President Donald Trump \"aggressively\" — CNN's Kaitlan Collins. The post Maggie Haberman Hits WH Press Corps — Says CNN’s Kaitlan Collins Is ‘The Only Person’ Challenging Trump ‘Aggressively’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T13:07:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d79d536d20e5",
+   "title": "Breaking MS NOW: Firings are underway at the Office of the Director of National Intelligence. This month, Trump said he planned to ask acting DNI Bill Pulte to \"execute the immediate and needed downsizing of the office, reverting staff to their home agencies.\" www.ms.now/news/directo...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxhfv4yxc2d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:00:25.562+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2d1da872adca",
+   "title": "CNBC's Joe Kernen absurdly claims to an agreeing Rand Paul that Fauci \"orchestrated the pandemic\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxffpzlg42t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T12:24:32.716+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8cf1b0b199e4",
+   "title": "Austin Metcalf’s Dad Rips The View’s Sunny Hostin Over Karmelo Anthony Murder Trial: ‘Looking to Monetize the Death of my Son’",
+   "link": "https://www.mediaite.com/media/austin-metcalfs-dad-rips-the-views-sunny-hostin-over-karmelo-anthony-murder-trial-looking-to-monetize-the-death-of-my-son/",
+   "summary": "Austin Metcalf's dad ripped The View's Sunny Hostin for arguing Karmelo Anthony had a legit \"self-defense\" claim when he was convicted of murder The post Austin Metcalf’s Dad Rips The View’s Sunny Hostin Over Karmelo Anthony Murder Trial: ‘Looking to Monetize the Death of my Son’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T12:24:21+00:00",
+   "iran_topic": false
+  },
   {
    "id": "647a178cc359",
    "title": "Trump Says Vandals Destroyed Reflecting Pool With Box Cutter, Despite Saying You Couldn’t Cut it With Knife Last Month",
@@ -554,32 +834,12 @@
    "iran_topic": false
   },
   {
-   "id": "473794702b3d",
-   "title": "Trump Threatened 10 Years in Prison for Vandalizing Reflecting Pool, But Protester Who Spray-Painted Lincoln Memorial Got Zero Jail Time",
-   "link": "https://www.mediaite.com/media/news/trump-threatened-10-years-in-prison-for-vandalizing-reflecting-pool-but-protester-who-spray-painted-lincoln-memorial-got-zero-jail-time/",
-   "summary": "President Donald Trump's DOJ prosecutors have handed out far more lenient sentences for vandalism than the 10-years in prison he keeps threatening. The post Trump Threatened 10 Years in Prison for Vandalizing Reflecting Pool, But Protester Who Spray-Painted Lincoln Memorial Got Zero Jail Time first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T00:39:44+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "eec9f5b4494c",
    "title": "Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’",
    "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
    "summary": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool. The post Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’ first appeared on Mediaite .",
    "source": "Mediaite Trump",
    "category": "mediaite",
-   "published": "2026-06-23T00:37:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eec9f5b4494c",
-   "title": "Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’",
-   "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
-   "summary": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool. The post Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
    "published": "2026-06-23T00:37:40+00:00",
    "iran_topic": false
   },
@@ -591,16 +851,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-23T00:16:46.729+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c800912658c1",
-   "title": "NY Daily News Staff ‘Mortified’ at Paper Running ‘Deceptive’ Faux Front Page Political Endorsement: ‘Selling Our Good Name for a Buck’",
-   "link": "https://www.mediaite.com/media/ny-daily-news-staff-mortified-at-paper-running-deceptive-faux-front-page-political-endorsement-selling-our-good-name-for-a-buck/",
-   "summary": "NY Daily News' staff said they are \"mortified\" after the paper allowed a political campaign to run a mock front page endorsement. The post NY Daily News Staff ‘Mortified’ at Paper Running ‘Deceptive’ Faux Front Page Political Endorsement: ‘Selling Our Good Name for a Buck’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T00:12:11+00:00",
    "iran_topic": false
   },
   {
@@ -634,26 +884,6 @@
    "iran_topic": false
   },
   {
-   "id": "bd6c71ae4b20",
-   "title": "Chuck Todd Says the ‘Only Reason’ People Think Obama Is Liberal ‘Is Because He’s Black’",
-   "link": "https://www.mediaite.com/obama/chuck-todd-says-the-only-reason-people-think-obama-is-liberal-is-because-hes-black/",
-   "summary": "Former Meet the Press host Chuck Todd said the \"only reason\" that people think former President Barack Obama is liberal is \"because he's Black.\" The post Chuck Todd Says the ‘Only Reason’ People Think Obama Is Liberal ‘Is Because He’s Black’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T23:09:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8353eb711d83",
-   "title": "Jessica Tarlov’s Co-Hosts Cackle as She Turns Tables on Jesse Watters for ‘Blind Loyalty’ to ‘Idiot’ Trump",
-   "link": "https://www.mediaite.com/media/tv/jessica-tarlovs-co-hosts-cackle-as-she-turns-tables-on-jesse-watters-for-blind-loyalty-to-idiot-trump/",
-   "summary": "Fox News host Jessica Tarlov roasted co-host Jesse Watters on Monday's edition of The Five after he essentially teed her up for the rebuttal. The post Jessica Tarlov’s Co-Hosts Cackle as She Turns Tables on Jesse Watters for ‘Blind Loyalty’ to ‘Idiot’ Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T23:05:13+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "861b28360878",
    "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy6ukzjc24",
@@ -672,16 +902,6 @@
    "category": "trump_bsky",
    "published": "2026-06-22T22:53:37.744+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "ebd193eb7da8",
-   "title": "House Democrat Files Motion to Remove Tarp from Kennedy Center, Blasting Trump Admin’s ‘Petty Act of Defiance’",
-   "link": "https://www.mediaite.com/lawcrime/house-democrat-files-motion-to-remove-tarp-from-kennedy-center-blasting-trump-admins-petty-act-of-defiance/",
-   "summary": "Rep. Joyce Beatty (D-OH) filed a motion to remove the tarp from the front of the Kennedy Center, blasting the Trump administration for \"petty act of defiance.\" The post House Democrat Files Motion to Remove Tarp from Kennedy Center, Blasting Trump Admin’s ‘Petty Act of Defiance’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T22:51:18+00:00",
-   "iran_topic": false
   },
   {
    "id": "64fd69dc9f89",
@@ -704,16 +924,6 @@
    "iran_topic": true
   },
   {
-   "id": "b768067bae72",
-   "title": "Trump Openly Mocks Cabinet Official By Telling Him ‘Nobody Cares’ About His Story",
-   "link": "https://www.mediaite.com/media/tv/trump-openly-mocks-cabinet-official-by-telling-him-nobody-cares-about-his-story/",
-   "summary": "President Donald Trump interrupted a story from Secretary of Energy Chris Wright to tell him, \"Nobody cares.\" The post Trump Openly Mocks Cabinet Official By Telling Him ‘Nobody Cares’ About His Story first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T22:28:06+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "be44dffdb08e",
    "title": "His brain has rotted like 90% through lol. Insane to post this.",
    "link": "https://bsky.app/profile/somewhattolerable.com/post/3movvky2vus2y",
@@ -731,26 +941,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-22T22:07:13.917+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a8f6c94f7768",
-   "title": "Fox News Anchor Pours Cold Water On JD Vance’s Iran Deal Update: ‘Might Not Mean Much’",
-   "link": "https://www.mediaite.com/media/news/fox-news-anchor-pours-cold-water-on-jd-vances-iran-deal-update-might-not-mean-much/",
-   "summary": "“The Vice President there with a caveat that says we don't know exactly what that means. And if history is any guide, might not mean much” The post Fox News Anchor Pours Cold Water On JD Vance’s Iran Deal Update: ‘Might Not Mean Much’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T22:01:31+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "38fa66f294e6",
-   "title": "“The black guy did it” 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️",
-   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3movv52bhqc2v",
-   "summary": "",
-   "source": "@dimitridrekonja",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:00:41.869+00:00",
    "iran_topic": false
   },
   {
@@ -774,26 +964,6 @@
    "iran_topic": false
   },
   {
-   "id": "0db23f9c5b37",
-   "title": "Fox News Anchor Confronts GOP Senator On Only Voting With Trump 94% of the Time: ‘Might Sound High, But…’",
-   "link": "https://www.mediaite.com/politics/fox-news-anchor-confronts-gop-senator-on-only-voting-with-trump-94-of-the-time-might-sound-high-but/",
-   "summary": "MacCallum asked Collins to weigh in on Platner to start the interview, and Collins teed off on Platner’s Nazi-tattoo scandal while hyping her “steady” leadership The post Fox News Anchor Confronts GOP Senator On Only Voting With Trump 94% of the Time: ‘Might Sound High, But…’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T21:40:04+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aea5c67451f9",
-   "title": "Trump Tussles With CBS’s Ed O’Keefe Over Exploding Cost of His Reflecting Pool Reno: ‘You Write Fake News!’",
-   "link": "https://www.mediaite.com/media/news/trump-tussles-with-cbss-ed-okeefe-over-exploding-cost-of-his-reflecting-pool-reno-you-write-fake-news/",
-   "summary": "Donald Trump made some outlandish claims about the Lincoln Memorial Reflecting Pool during an Oval Office executive order signing on Monday. The post Trump Tussles With CBS’s Ed O’Keefe Over Exploding Cost of His Reflecting Pool Reno: ‘You Write Fake News!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T21:39:40+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6a53ede70dce",
    "title": "MacFarlane: The judge said those postings indicate coercion, therefore striking down the subpoenas. It's just the latest example of when Trump says stuff on social media, how it causes him trouble…",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3movtm55ibj2c",
@@ -801,176 +971,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-22T21:33:20.581+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "600c3587052d",
-   "title": "Watters: Is like blind loyalty to an idiot, does that override that? Jessica: Well, you do blind loyalty to an idiot every day.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movt3cnz5d26",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:23:55.917+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5b965ee50d73",
-   "title": "The magic Republican words.",
-   "link": "https://bsky.app/profile/al-swearengen.bsky.social/post/3movsgjgwic2e",
-   "summary": "",
-   "source": "@al-swearengen",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:12:18.542+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "da0365faa0e6",
-   "title": "Just to fact-check: Obama administration *did* oversee a overhaul of the pool. It cost $35M, not $100M, and the pool did reopen (uhm, obviously?). Trump also says Obama \"took the water from it,\" one presumes to give away with all those phones. www.factcheck.org/2026/06/trum...",
-   "link": "https://bsky.app/profile/anamariecox.com/post/3movscjpmk22l",
-   "summary": "",
-   "source": "@anamariecox",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:10:04.608+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "83ffa8675c0f",
-   "title": "Violent Slit is my new all-girl punk band.",
-   "link": "https://bsky.app/profile/muellershewrote.com/post/3movs4x3y5k2b",
-   "summary": "",
-   "source": "@muellershewrote",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:06:57.319+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "61c0e120c76b",
-   "title": "\"Anyone with an elderly parent or grandparent has seen how it goes: With the passage of years, rest becomes a struggle, as they sleep fitfully overnight, then nod off repeatedly over the course of the day. This is President Trump’s pattern now.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movryziyq22g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:04:45.624+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "47cf50ae4a9e",
-   "title": "And there it is.",
-   "link": "https://bsky.app/profile/joshmanning.bsky.social/post/3movrvdkbpk27",
-   "summary": "",
-   "source": "@joshmanning",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:02:41.935+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b7e3e7901fe",
-   "title": "Collins also voted to confirm Alito and Gorsuch",
-   "link": "https://bsky.app/profile/douglindner.bsky.social/post/3movrtkfbfc2z",
-   "summary": "",
-   "source": "@douglindner",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:01:42.001+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "175bfb98142b",
-   "title": "This isn’t true.",
-   "link": "https://bsky.app/profile/anthonymkreis.bsky.social/post/3movrocewgc25",
-   "summary": "",
-   "source": "@anthonymkreis",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:58:45.829+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bb6bc839578f",
-   "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "DRIVING INNOVATION WHILE DEFENDING DATA:&#160;&#160;Today, President Donald J. Trump signed an Executive Order to safeguard America’s most sensitive data, our critical infrastructure, and the digital economy that drives jobs and growth. PUTTING AMERICA FIRST IN CYBERSECURITY: President Trump is promoting a key technology that will protect American systems in the quantum era, ensuring defense and [&#8230;] The post Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:39:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "68c5e370fdf2",
-   "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "ACCELERATING QUANTUM INNOVATION:&#160;Today, President Donald J. Trump signed an Executive Order to supercharge U.S. innovation in quantum technologies and strengthen our national security in this critical area.&#160;&#160; STRENGTHENING AMERICA’S QUANTUM ADVANTAGE:&#160;President Trump recognizes that quantum technologies are on the verge of a massive commercial breakthrough and require a bold new policy approach to ensure America [&#8230;] The post Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:39:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ceb85ca2552c",
-   "title": "Ushering in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:38:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ceb85ca2552c",
-   "title": "Ushering in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-22T20:38:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20d980cc8f3c",
-   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:37:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20d980cc8f3c",
-   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-22T20:37:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c4b9ad127555",
-   "title": "Q: It's the one year anniversary of Operation Midnight Hammer. Would you do anything different? TRUMP: No. It was the most successful attack that anyone has ever seen with a bomber and totally wiped out their nuclear potential",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movqc52q5n2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:34:03.856+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d85be82e56ca",
-   "title": "Trump kicks Starmer while he's down: \"This is not Churchill we're dealing with\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movq4kvwey27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:30:57.048+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "358cac0b5c4e",
-   "title": "Trump on the catastrophic reflecting pool now compared to how it was during Obama: \"I have a better product\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movq44zdsj2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:30:42.483+00:00",
    "iran_topic": false
   }
  ]
