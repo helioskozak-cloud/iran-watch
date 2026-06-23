@@ -1,17 +1,17 @@
 {
- "generated": "2026-06-23T09:28:29.511031+00:00",
+ "generated": "2026-06-23T12:21:45.496578+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 77.5,
-   "change": -0.4,
-   "change_pct": -0.51,
+   "price": 77.47,
+   "change": -0.43,
+   "change_pct": -0.55,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    77.5
+    77.47000122070312
    ]
   },
   "CL=F": {
@@ -30,27 +30,27 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4128.3,
-   "change": -53.6,
-   "change_pct": -1.28,
+   "price": 4133.6,
+   "change": -48.3,
+   "change_pct": -1.15,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4128.2998046875
+    4133.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.17,
-   "change": 0.15,
-   "change_pct": 0.15,
+   "price": 101.28,
+   "change": 0.26,
+   "change_pct": 0.26,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.16999816894531
+    101.28199768066406
    ]
   },
   "^GSPC": {
@@ -84,27 +84,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.97,
-   "change": 2.69,
-   "change_pct": 15.57,
+   "price": 19.56,
+   "change": 2.28,
+   "change_pct": 13.19,
    "spark": [
     18.440000534057617,
     16.399999618530273,
     17.280000686645508,
-    19.969999313354492
+    19.559999465942383
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.26,
-   "change": 0.01,
-   "change_pct": 0.31,
+   "price": 3.23,
+   "change": -0.02,
+   "change_pct": -0.68,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.263000011444092
+    3.2309999465942383
    ]
   }
  },
@@ -218,8 +218,29 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T09:27:53.707427+00:00",
+   "published": "2026-06-23T12:21:09.421471+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
+   "source": "Press TV",
+   "published": "2026-06-23T12:21:09.416219+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran is taking steps to cement its control over the Strait of Hormuz and to generate revenue from the waterway through new entities and procedures, experts say. The moves come even as negotiations with the U.S. and Iran’s neighbors over managing the strait are taking place.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3moxc3dqpwv2i",
+   "source": "@nytimes",
+   "published": "2026-06-23T11:25:03.037482+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Oman discuss Hormuz Strait management, form joint committee",
+   "link": "https://en.irna.ir/news/86191239/Iran-Oman-discuss-Hormuz-Strait-management-form-joint-committee",
+   "source": "IRNA",
+   "published": "2026-06-23T11:17:49+00:00",
+   "severity": "low"
   },
   {
    "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
@@ -227,13 +248,6 @@
    "source": "Press TV",
    "published": "2026-06-23T09:27:53.700631+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
-   "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
-   "source": "Press TV",
-   "published": "2026-06-23T09:27:53.700418+00:00",
-   "severity": "low"
   },
   {
    "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
@@ -304,20 +318,6 @@
    "source": "USNI News",
    "published": "2026-06-22T18:46:33+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US should have taken control of Strait of Hormuz, retired Israeli Brig.-Gen. says - interview",
-   "link": "https://www.jpost.com/middle-east/article-900166",
-   "source": "Jerusalem Post",
-   "published": "2026-06-22T17:51:35+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/6/22/marco-rubio-heads-to-middle-east-to-address-iran-mou-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-22T17:04:35+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -328,25 +328,25 @@
    "incident_count": 11,
    "recent": [
     {
-     "title": "Speaker Qalibaf: Strait of Hormuz will never return to pre-war status",
-     "link": "https://presstv.ir/Detail/2026/06/22/770931/Qalibaf--Strait-of-Hormuz-will-never-return-to-pre-war-status,-Iran-will-administer-it",
-     "source": "Press TV",
-     "published": "2026-06-23T09:27:53.700631+00:00",
-     "severity": "info"
-    },
-    {
      "title": "Iran, Oman discuss new arrangements to manage Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/23/770941/Iran,-Oman-discuss-new-arrangements-Strait-Hormuz-management",
      "source": "Press TV",
-     "published": "2026-06-23T09:27:53.700418+00:00",
+     "published": "2026-06-23T12:21:09.416219+00:00",
      "severity": "low"
     },
     {
-     "title": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
-     "link": "https://www.al-monitor.com/originals/2026/06/more-vessels-transit-hormuz-qatar-linked-lng-tankers-return-data-show",
-     "source": "Al-Monitor",
-     "published": "2026-06-23T08:36:45+00:00",
+     "title": "Iran is taking steps to cement its control over the Strait of Hormuz and to generate revenue from the waterway through new entities and procedures, experts say. The moves come even as negotiations with the U.S. and Iran’s neighbors over managing the strait are taking place.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3moxc3dqpwv2i",
+     "source": "@nytimes",
+     "published": "2026-06-23T11:25:03.037482+00:00",
      "severity": "info"
+    },
+    {
+     "title": "Iran, Oman discuss Hormuz Strait management, form joint committee",
+     "link": "https://en.irna.ir/news/86191239/Iran-Oman-discuss-Hormuz-Strait-management-form-joint-committee",
+     "source": "IRNA",
+     "published": "2026-06-23T11:17:49+00:00",
+     "severity": "low"
     }
    ]
   },
@@ -373,6 +373,86 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "647a178cc359",
+   "title": "Trump Says Vandals Destroyed Reflecting Pool With Box Cutter, Despite Saying You Couldn’t Cut it With Knife Last Month",
+   "link": "https://www.mediaite.com/politics/trump-says-vandals-destroyed-reflecting-pool-with-box-cutter-despite-saying-you-couldnt-cut-it-with-knife-last-month/",
+   "summary": "President Trump told the media a month ago that the Reflecting Pool's new coating was impervious to knives. Now, he's claiming vandals destroyed it with knives. The post Trump Says Vandals Destroyed Reflecting Pool With Box Cutter, Despite Saying You Couldn’t Cut it With Knife Last Month first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T12:19:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "29cf12ed012e",
+   "title": "He’s nuts. But who cares, right? Old news. Just an old psychopath who happens to be president. Just a rabid baboon flying a plane on which we are all passengers. Yawn.",
+   "link": "https://bsky.app/profile/djrothkopf.bsky.social/post/3moxet5p6as24",
+   "summary": "",
+   "source": "@djrothkopf",
+   "category": "trump_bsky",
+   "published": "2026-06-23T12:14:09.528+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b9e4d2118fe1",
+   "title": "New in PN: UFC fighter's Michelle Obama smear reveals much about MAGA bigotry \"Trump did not disavow the remark. Instead, he appeared to smile. Given the depth of his submersion in right-wing derp, he probably knew what many others there did not: the grotesque slur did not come out of nowhere.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moxepo5yf22f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T12:12:12.573+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "62d3e75bbb0d",
+   "title": "MS NOW Host Straight-Up Asks Maggie Haberman and Jonathan Swan If They Have Tapes of Trump Situation Room Meetings",
+   "link": "https://www.mediaite.com/media/tv/ms-now-host-straight-up-asks-maggie-haberman-and-swan-if-they-have-tapes-of-trump-situation-room-meetings/",
+   "summary": "MS NOW host Lawrence O'Donnell straight-up asked Maggie Haberman and co-author Jonathan Swan if they have audiotapes of meetings in the Trump Situation Room. The post MS NOW Host Straight-Up Asks Maggie Haberman and Jonathan Swan If They Have Tapes of Trump Situation Room Meetings first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T12:08:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "84a426a27279",
+   "title": "Trump Ditches Naval Blockade After Iran Agrees to ‘Infinity’ Nuclear Inspections",
+   "link": "https://www.mediaite.com/politics/trump-ditches-naval-blockade-after-iran-agrees-to-infinity-nuclear-inspections/",
+   "summary": "President Trump said he has lifted the naval blockade on the Strait of Hormuz after Iran agreed to the \"highest level Nuclear inspections long into the future\" The post Trump Ditches Naval Blockade After Iran Agrees to ‘Infinity’ Nuclear Inspections first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T11:56:34+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1f308c357fae",
+   "title": "CBS Mornings Ratings Plunged Day After Scott Pelley Fired from 60 Minutes, Facing ‘Worst June Ever’: Report",
+   "link": "https://www.mediaite.com/media/tv/__trashed-23/",
+   "summary": "The ratings for CBS Mornings took a beating after 60 Minutes correspondent Scott Pelley was fired, with the show potentially facing its \"worst-rated June ever.\" The post CBS Mornings Ratings Plunged Day After Scott Pelley Fired from 60 Minutes, Facing ‘Worst June Ever’: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T10:27:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "299c0323cbed",
+   "title": "UFC fighter's Michelle Obama smear reveals much about MAGA bigotry",
+   "link": "https://www.publicnotice.co/p/ufc-michelle-obama",
+   "summary": "There's a reason she's been a target for so long.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-23T10:17:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b1e86fd63690",
+   "title": "An underlying logic of unitary executive theory is that the President is an all knowing figure who should be granted extraordinary power, rather than a flawed individual who should be constrained",
+   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3moww64ob522t",
+   "summary": "",
+   "source": "@donmoyn",
+   "category": "trump_bsky",
+   "published": "2026-06-23T07:51:51.421+00:00",
+   "iran_topic": false
+  },
   {
    "id": "7b43734f250d",
    "title": "Russian Soldiers Are Revealing Their Locations To Ukrainian Fighters Posing as Lonely Women Online",
@@ -521,6 +601,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T00:12:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c71515581e9",
+   "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
+   "summary": "On this day 81 years ago, American forces emerged victorious from the Battle of Okinawa, a grueling test of American might, will, and sacrifice that would echo through the ages.&#160; As Imperial Japan mounted one of its final and most ferocious defenses, our Nation’s courageous heroes battled their way across the island and broke the [&#8230;] The post America 250: Presidential Message on the Anniversary of the Battle of Okinawa appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-23T00:00:00+00:00",
    "iran_topic": false
   },
   {
@@ -794,36 +884,6 @@
    "iran_topic": false
   },
   {
-   "id": "bf087450989c",
-   "title": "‘Leverage!’ Trump Scoffs At WH Reporter Asking If Iran Has Any Cards to Play In Negotiations",
-   "link": "https://www.mediaite.com/media/news/leverage-trump-scoffs-at-wh-reporter-asking-if-iran-has-any-cards-to-play-in-negotiations/",
-   "summary": "President Donald Trump scoffed at a reporter who asked him during an Oval Office meeting if Iran has any leverage over the United States. The post ‘Leverage!’ Trump Scoffs At WH Reporter Asking If Iran Has Any Cards to Play In Negotiations first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T20:50:19+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "7e478e75d801",
-   "title": "Marjorie Taylor Greene Follows Tucker Carlson Out the Door of the Republican Party: ‘We Are DONE With the America Last Party!’",
-   "link": "https://www.mediaite.com/politics/marjorie-taylor-greene-follows-tucker-carlson-out-the-door-of-the-republican-party-we-are-done-with-the-america-last-party/",
-   "summary": "Marjorie Taylor Greene announced she is done supporting the Republican Party because it \"betrays\" American citizens, joining her pal Tucker Carlson The post Marjorie Taylor Greene Follows Tucker Carlson Out the Door of the Republican Party: ‘We Are DONE With the America Last Party!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T20:47:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f21512617cc9",
-   "title": "Veteran Sports Reporter Quits The Baltimore Sun in Scathing Protest of New Ownership",
-   "link": "https://www.mediaite.com/media/veteran-sports-reporter-quits-the-baltimore-sun-in-scathing-protest-of-new-ownership/",
-   "summary": "A veteran reporter from The Baltimore Sun trashed the newspaper's new leadership in a social media post announcing his resignation. The post Veteran Sports Reporter Quits The Baltimore Sun in Scathing Protest of New Ownership first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T20:47:12+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "bb6bc839578f",
    "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
    "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
@@ -911,66 +971,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-22T20:30:42.483+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dc43e1377c3b",
-   "title": "Trump on NATO: We can say 'no' if we want, and we might",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpynthjv2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:28:45.893+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "51798d465da8",
-   "title": "I hired Obama to do my rain gutters last fall and his guys never even showed.",
-   "link": "https://bsky.app/profile/kenjennings.bsky.social/post/3movpwmi3gk2b",
-   "summary": "",
-   "source": "@kenjennings",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:27:37.370+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f31be1addb77",
-   "title": "O'KEEFE: You said the guy was gonna do the reflecting poll in a week for about a million dollars. It's been two months and $16.5 million TRUMP: Are you ready? Barack Hussein Obama",
-   "link": "https://bsky.app/profile/atrupar.com/post/3movpucenoz24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:26:19.660+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5de932dd06ea",
-   "title": "Someone stabbed algae into the reflecting pool",
-   "link": "https://bsky.app/profile/coachfinstock.bsky.social/post/3movpq44k4224",
-   "summary": "",
-   "source": "@coachfinstock",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:23:58.888+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7260192723c9",
-   "title": "There's a big splotch of bronzer over Trump's left eye -- just below the wide part in his hair.",
-   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3movpkjjahc2t",
-   "summary": "",
-   "source": "@justinbaragona",
-   "category": "trump_bsky",
-   "published": "2026-06-22T20:20:51.595+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e6b02e34aa61",
-   "title": "TMZ’s Harvey Levin Sets Record Straight On Report Ransom Note Said Nancy Guthrie Was Dead",
-   "link": "https://www.mediaite.com/media/news/tmzs-harvey-levin-sets-record-straight-on-report-ransom-note-said-nancy-guthrie-was-dead/",
-   "summary": "Harvey Levin set the record straight Monday on a report that a ransom notes he received about Nancy Guthrie \"apologized\" for accidentally killing her. The post TMZ’s Harvey Levin Sets Record Straight On Report Ransom Note Said Nancy Guthrie Was Dead first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-22T20:20:45+00:00",
    "iran_topic": false
   }
  ]
