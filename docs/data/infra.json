@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-24T08:58:15.709940+00:00",
+ "generated": "2026-06-24T11:44:47.166476+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 75.7,
-   "change": -1.38,
-   "change_pct": -1.79,
+   "price": 75.42,
+   "change": -1.66,
+   "change_pct": -2.15,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    75.69999694824219
+    75.41999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 71.95,
-   "change": -1.26,
-   "change_pct": -1.72,
+   "price": 71.71,
+   "change": -1.5,
+   "change_pct": -2.05,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    71.94999694824219
+    71.70999908447266
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4094.7,
-   "change": -35.2,
-   "change_pct": -0.85,
+   "price": 4060.4,
+   "change": -69.5,
+   "change_pct": -1.68,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4094.699951171875
+    4060.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.59,
-   "change": 0.18,
-   "change_pct": 0.18,
+   "price": 101.65,
+   "change": 0.24,
+   "change_pct": 0.24,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.58999633789062
+    101.65299987792969
    ]
   },
   "^GSPC": {
@@ -84,27 +84,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.22,
-   "change": -0.27,
-   "change_pct": -1.39,
+   "price": 19.21,
+   "change": -0.28,
+   "change_pct": -1.44,
    "spark": [
     16.399999618530273,
     17.280000686645508,
     19.489999771118164,
-    19.219999313354492
+    19.209999084472656
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.21,
-   "change": 0.06,
-   "change_pct": 1.91,
+   "price": 3.23,
+   "change": 0.08,
+   "change_pct": 2.57,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2070000171661377
+    3.2279999256134033
    ]
   }
  },
@@ -215,25 +215,32 @@
  ],
  "incidents": [
   {
-   "title": "Airlines should still avoid airspace over Iran after framework deal, EU agency warns",
-   "link": "https://www.jpost.com/middle-east/article-900345",
-   "source": "Jerusalem Post",
-   "published": "2026-06-24T10:30:52+00:00",
-   "severity": "medium"
-  },
-  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T08:57:35.050049+00:00",
+   "published": "2026-06-24T11:44:12.108016+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-24T08:57:35.044759+00:00",
+   "published": "2026-06-24T11:44:12.102909+00:00",
    "severity": "info"
+  },
+  {
+   "title": "U.S. Secretary of State Marco Rubio met with the leader of the United Arab Emirates on Wednesday at the start of a trip to the Middle East, as he seeks to reassure Persian Gulf allies about the preliminary deal the U.S. agreed with Iran that could pave the way to a lasting peace.",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mozrpk2gzg22",
+   "source": "@nytimes",
+   "published": "2026-06-24T11:10:06.337599+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Airlines should still avoid airspace over Iran after framework deal, EU agency warns",
+   "link": "https://www.jpost.com/middle-east/article-900345",
+   "source": "Jerusalem Post",
+   "published": "2026-06-24T10:30:52+00:00",
+   "severity": "medium"
   },
   {
    "title": "Airlines should still avoid airspace over Iran after framework deal, EU agency warns",
@@ -311,13 +318,6 @@
    "source": "@reuters",
    "published": "2026-06-23T20:35:04+00:00",
    "severity": "info"
-  },
-  {
-   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3moxy6eop6k2j",
-   "source": "@warontherocks",
-   "published": "2026-06-23T18:00:25.234+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,14 @@
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-24T08:57:35.044759+00:00",
+     "published": "2026-06-24T11:44:12.102909+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "U.S. Secretary of State Marco Rubio met with the leader of the United Arab Emirates on Wednesday at the start of a trip to the Middle East, as he seeks to reassure Persian Gulf allies about the preliminary deal the U.S. agreed with Iran that could pave the way to a lasting peace.",
+     "link": "https://bsky.app/profile/nytimes.com/post/3mozrpk2gzg22",
+     "source": "@nytimes",
+     "published": "2026-06-24T11:10:06.337599+00:00",
      "severity": "info"
     },
     {
@@ -339,13 +346,6 @@
      "link": "https://www.reddit.com/r/worldnews/comments/1ue3k63/rubio_iran_will_not_be_allowed_to_charge_tolls_in/",
      "source": "r/worldnews",
      "published": "2026-06-24T04:32:51+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Oil extends slide on expectations of smoother crude flows via Hormuz reut.rs/4et1rng",
-     "link": "https://bsky.app/profile/reuters.com/post/3moz2snv2mf2d",
-     "source": "@reuters",
-     "published": "2026-06-24T04:20:14+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "7a574f78490a",
+   "title": "New in PN: Trump's disenfranchisement machine is besieging the courts \"So far, courts have managed to head off this plan for mass disenfranchisement. But MAGA is fighting tooth and nail to attack the right to vote by wrenching control of elections away from the states. Every single battle matters.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mozt236kuc2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T11:33:53.629+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d58677278730",
+   "title": "‘A Travesty!’ Larry David Says Trump’s UFC Fights Made Him ‘Embarrassed to Be an American’",
+   "link": "https://www.mediaite.com/media/entertainment/a-travesty-larry-david-says-trumps-ufc-fights-made-him-embarrassed-to-be-an-american/",
+   "summary": "Larry David had some extremely strong criticism of President Donald Trump's UFC Freedom 250 fight card — which was staged at the White House earlier this month. The post ‘A Travesty!’ Larry David Says Trump’s UFC Fights Made Him ‘Embarrassed to Be an American’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T10:48:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66798f216d4d",
+   "title": "Trump's disenfranchisement machine is besieging the courts",
+   "link": "https://www.publicnotice.co/p/trump-mail-voting-rule",
+   "summary": "They're holding strong &#8212; so far.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-24T10:17:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9246e60e8e34",
+   "title": "Trump Rages Against Senate and ‘Four Republican Losers’ for Crossing Him On Iran — Accuses Them of Giving ‘Aid and Comfort to the Enemy’",
+   "link": "https://www.mediaite.com/media/news/trump-rages-against-senate-and-four-republican-losers-for-crossing-him-on-iran-accuses-them-of-giving-aid-and-comfort-to-the-enemy/",
+   "summary": "The president, late Tuesday night, raged against the Senate and \"four Republican losers\" for delivering a stunning rebuke of his war in Iran. The post Trump Rages Against Senate and ‘Four Republican Losers’ for Crossing Him On Iran — Accuses Them of Giving ‘Aid and Comfort to the Enemy’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T10:03:39+00:00",
+   "iran_topic": true
+  },
   {
    "id": "9045faa8cf2c",
    "title": "Democratic socialists just dominated New York — and are coming for 2028",
@@ -834,16 +874,6 @@
    "iran_topic": false
   },
   {
-   "id": "6f4a6a9fdd7d",
-   "title": "GOP Senator Goes Off On Republican Colleague For ‘The Bullsh*t He’s Done on Social Media’",
-   "link": "https://www.mediaite.com/politics/gop-senator-goes-off-on-republican-colleague-for-the-bullsht-hes-done-on-social-media/",
-   "summary": "Lee has long grabbed headlines for his outlandish and trollish social media behavior on an account named \"@BasedMikeLee.\" The post GOP Senator Goes Off On Republican Colleague For ‘The Bullsh*t He’s Done on Social Media’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T20:44:18+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d4a2a998cad5",
    "title": "lollllll -- Ossoff proposes a motion that would ban senators from trading stocks and crypto, prompting Sen. Lummis (who loves crypto) to immediately object",
    "link": "https://bsky.app/profile/atrupar.com/post/3moybbi4nbt2d",
@@ -870,16 +900,6 @@
    "summary": "A protester showed up to President Donald Trump's speech in Pennsylvania, getting escorted out by security as he yelled \"pedophile\" and waved his middle fingers in the air. The post Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’ first appeared on Mediaite .",
    "source": "Mediaite Trump",
    "category": "mediaite",
-   "published": "2026-06-23T20:29:48+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c87a37e999bd",
-   "title": "Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’",
-   "link": "https://www.mediaite.com/politics/trump/protester-escorted-out-of-trump-rally-in-pennsylvania-flipping-the-bird-and-shouting-pedophile/",
-   "summary": "A protester showed up to President Donald Trump's speech in Pennsylvania, getting escorted out by security as he yelled \"pedophile\" and waved his middle fingers in the air. The post Protester Escorted Out of Trump Rally in Pennsylvania Flipping the Bird and Shouting ‘Pedophile!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
    "published": "2026-06-23T20:29:48+00:00",
    "iran_topic": false
   },
@@ -944,16 +964,6 @@
    "iran_topic": false
   },
   {
-   "id": "e29f1fd17085",
-   "title": "Trump: \"Thanks as well to the president of the NRA who is here with me. I saved the Second Amendment. The NRA has been with me right from the beginning. How do you feel about national right to carry? We're working on it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy6hfcxbp2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:52:52.144+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "891073f55135",
    "title": "Reuters: U.S. SENATE VOTES TO HALT IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy6cqld6k2k",
@@ -962,16 +972,6 @@
    "category": "trump_bsky",
    "published": "2026-06-23T19:50:16.186+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "f135ee48f018",
-   "title": "ABC is launching a campaign urging viewers to support the network in its fights against Trump's FCC. The spots ask ABC viewers to support 'The View' and its local stations amid the FCC review of its licenses. tinyurl.com/3w4hnzk5",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy3aenmo22m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T18:55:15.343+00:00",
-   "iran_topic": false
   }
  ]
 }
