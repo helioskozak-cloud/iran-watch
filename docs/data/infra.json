@@ -1,110 +1,110 @@
 {
- "generated": "2026-06-24T11:44:47.166476+00:00",
+ "generated": "2026-06-24T13:55:52.173882+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 75.42,
-   "change": -1.66,
-   "change_pct": -2.15,
+   "price": 73.84,
+   "change": -3.24,
+   "change_pct": -4.2,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    75.41999816894531
+    73.83999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 71.71,
-   "change": -1.5,
-   "change_pct": -2.05,
+   "price": 70.21,
+   "change": -3.0,
+   "change_pct": -4.1,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    71.70999908447266
+    70.20999908447266
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4060.4,
-   "change": -69.5,
-   "change_pct": -1.68,
+   "price": 4032.4,
+   "change": -97.5,
+   "change_pct": -2.36,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4060.39990234375
+    4032.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.65,
-   "change": 0.24,
-   "change_pct": 0.24,
+   "price": 101.71,
+   "change": 0.3,
+   "change_pct": 0.3,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.65299987792969
+    101.71199798583984
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7365.46,
-   "change": -107.33,
-   "change_pct": -1.44,
+   "price": 7391.22,
+   "change": 25.76,
+   "change_pct": 0.35,
    "spark": [
-    7511.35009765625,
     7420.10009765625,
     7500.580078125,
     7472.7900390625,
-    7365.4599609375
+    7365.4599609375,
+    7391.22021484375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 111.26,
-   "change": -1.43,
-   "change_pct": -1.27,
+   "price": 106.26,
+   "change": -5.0,
+   "change_pct": -4.49,
    "spark": [
-    115.47000122070312,
     114.2300033569336,
     114.87000274658203,
     112.69000244140625,
-    111.26000213623047
+    111.26000213623047,
+    106.26000213623047
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.21,
-   "change": -0.28,
-   "change_pct": -1.44,
+   "price": 19.19,
+   "change": -0.3,
+   "change_pct": -1.54,
    "spark": [
     16.399999618530273,
     17.280000686645508,
     19.489999771118164,
-    19.209999084472656
+    19.190000534057617
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.23,
-   "change": 0.08,
-   "change_pct": 2.57,
+   "price": 3.21,
+   "change": 0.06,
+   "change_pct": 2.03,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2279999256134033
+    3.2109999656677246
    ]
   }
  },
@@ -215,17 +215,66 @@
  ],
  "incidents": [
   {
+   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
+   "link": "https://www.jpost.com/american-politics/article-900385",
+   "source": "Jerusalem Post",
+   "published": "2026-06-24T14:53:58+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T11:44:12.108016+00:00",
+   "published": "2026-06-24T13:55:02.563063+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-24T11:44:12.102909+00:00",
+   "published": "2026-06-24T13:55:02.558072+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Erdogan says bilateral talks with Trump likely at NATO summit in Turkey",
+   "link": "https://www.al-monitor.com/originals/2026/06/erdogan-says-bilateral-talks-trump-likely-nato-summit-turkey",
+   "source": "Al-Monitor",
+   "published": "2026-06-24T13:36:44+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "No plan for access to Iran’s attacked nuclear facilities without final deal, says deputy FM",
+   "link": "https://en.irna.ir/news/86192022/No-plan-for-access-to-Iran-s-attacked-nuclear-facilities-without",
+   "source": "IRNA",
+   "published": "2026-06-24T13:20:01+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-24T12:31:35+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump insists no Hormuz tolls as Iran, US make conflicting claims",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-insists-no-hormuz-tolls-iran-us-make-conflicting-claims",
+   "source": "Al-Monitor",
+   "published": "2026-06-24T12:24:42+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz reut.rs/44qVKA7",
+   "link": "https://bsky.app/profile/reuters.com/post/3mozuly3zwk2h",
+   "source": "@reuters",
+   "published": "2026-06-24T12:01:47+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-has-told-us-no-tolls-being-sought-strait-hormuz",
+   "source": "Al-Monitor",
+   "published": "2026-06-24T12:01:45+00:00",
    "severity": "info"
   },
   {
@@ -269,55 +318,6 @@
    "source": "@reuters",
    "published": "2026-06-24T04:20:14+00:00",
    "severity": "info"
-  },
-  {
-   "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ue0sxg/un_starts_evacuating_11000_stranded_sailors_from/",
-   "source": "r/worldnews",
-   "published": "2026-06-24T02:18:29+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
-   "link": "https://www.timesofisrael.com/rubio-iran-will-not-be-allowed-to-charge-tolls-in-strait-of-hormuz-under-any-final-deal/",
-   "source": "Times of Israel",
-   "published": "2026-06-24T00:42:57+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-24T00:00:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-23T23:49:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-   "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-23T21:04:11+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-23T21:00:32+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Gulf oil tanker rates nearly double as Middle East producers ramp up exports reut.rs/4adFLJk",
-   "link": "https://bsky.app/profile/reuters.com/post/3moyasuct7l2g",
-   "source": "@reuters",
-   "published": "2026-06-23T20:35:04+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 10,
+   "incident_count": 9,
    "recent": [
+    {
+     "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
+     "link": "https://www.jpost.com/american-politics/article-900385",
+     "source": "Jerusalem Post",
+     "published": "2026-06-24T14:53:58+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-24T11:44:12.102909+00:00",
+     "published": "2026-06-24T13:55:02.558072+00:00",
      "severity": "info"
     },
     {
-     "title": "U.S. Secretary of State Marco Rubio met with the leader of the United Arab Emirates on Wednesday at the start of a trip to the Middle East, as he seeks to reassure Persian Gulf allies about the preliminary deal the U.S. agreed with Iran that could pave the way to a lasting peace.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mozrpk2gzg22",
-     "source": "@nytimes",
-     "published": "2026-06-24T11:10:06.337599+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ue3k63/rubio_iran_will_not_be_allowed_to_charge_tolls_in/",
-     "source": "r/worldnews",
-     "published": "2026-06-24T04:32:51+00:00",
+     "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-24T12:31:35+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,186 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "82ba4796cea7",
+   "title": "Ousted NYC Democrat Warns Anti-Semitism Will Be the ‘Undoing’ of USA — Right After He Was Banned From NYC Coffee Shop Over Israel Support",
+   "link": "https://www.mediaite.com/media/news/ousted-nyc-democrat-warns-anti-semitism-will-be-the-undoing-of-usa-right-after-he-was-banned-from-nyc-coffee-shop-over-israel-support/",
+   "summary": "Newly-ousted Rep. Dan Goldman (D-NY) warned antisemitism will be the \"undoing of our democracy\" during his concession speech on Tuesday night. The post Ousted NYC Democrat Warns Anti-Semitism Will Be the ‘Undoing’ of USA — Right After He Was Banned From NYC Coffee Shop Over Israel Support first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T13:50:29+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ea5af7387060",
+   "title": "‘So Stupid’: Joe Scarborough Taunts Pete Hegseth After Vaccine Mandate Reversal Amid Flu Outbreak",
+   "link": "https://www.mediaite.com/media/tv/so-stupid-joe-scarborough-taunts-pete-hegseth-after-vaccine-mandate-reversal-amid-flu-outbreak/",
+   "summary": "Joe Scarborough kicked off Morning Joe with some hits to Pete Hegseth over a vaccine requirement reversal amid a flu outbreak at a San Antonio base. The post ‘So Stupid’: Joe Scarborough Taunts Pete Hegseth After Vaccine Mandate Reversal Amid Flu Outbreak first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T13:24:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "301c576f726e",
+   "title": "First on MS NOW: House Oversight Ranking Member Robert Garcia is demanding answers about the failed reflecting pool renovations — including why the Trump admin pursued the project amid rising costs at home and the war in Iran and the decision-making process behind Trump's use of no-bid contracts.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mozypag2zk2v",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T13:15:12.471+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "36cdf4d5db6c",
+   "title": "Kilmeade is one of several right-wing hawks who have adopted the position that Trump is prioritizing domestic politics over national security by pursuing sham negotiations until the midterms, after which he will reneg and resume bombing. www.mediamatters.org/fox-news/new...",
+   "link": "https://bsky.app/profile/mattgertz.bsky.social/post/3mozydqqxms2o",
+   "summary": "",
+   "source": "@mattgertz",
+   "category": "trump_bsky",
+   "published": "2026-06-24T13:08:46.951+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d88c7ac5bcfe",
+   "title": "Dana White Reveals the Republican He’d Consider Staying Involved in Politics For",
+   "link": "https://www.mediaite.com/media/sports/dana-white-reveals-the-republican-hed-consider-staying-involved-in-politics-for/",
+   "summary": "UFC head Dana White revealed one politician other than President Trump could keep him involved in \"disgusting\" politics in 2028. The post Dana White Reveals the Republican He’d Consider Staying Involved in Politics For first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T13:06:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7144eddadaba",
+   "title": "Ro Khanna Vows Elon Musk Will Have to ‘Answer’ for Killing Millions With DOGE Cuts",
+   "link": "https://www.mediaite.com/politics/ro-khanna-vows-elon-musk-will-have-to-answer-for-killing-millions-with-doge-cuts/",
+   "summary": "Rep. Ro Khanna (D-CA) said he still plans on forcing Elon Musk to \"answer\" for his \"unconstitutional DOGE cuts\" once Democrats are back in control of Congress The post Ro Khanna Vows Elon Musk Will Have to ‘Answer’ for Killing Millions With DOGE Cuts first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T12:56:38+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2dee22925327",
+   "title": "CNN’s Kaitlan Collins Calls BS on Trump Reflecting Pool ‘Knife’ Claim — With Video Receipt",
+   "link": "https://www.mediaite.com/media/news/cnns-kaitlan-collins-calls-bs-on-trump-reflecting-pool-knife-claim-with-video-receipt/",
+   "summary": "Kaitlan Collins called BS on Trump’s \"unproven\" claim that the Reflecting Pool was \"cut up\" with a \"knife\" — and dropped a fun video receipt for good measure. The post CNN’s Kaitlan Collins Calls BS on Trump Reflecting Pool ‘Knife’ Claim — With Video Receipt first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T12:44:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "57eaf2fcca50",
+   "title": "Yup. It’s all about letting the base know that “bullies still rule” 🤮",
+   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mozwsp364c2y",
+   "summary": "",
+   "source": "@dimitridrekonja",
+   "category": "trump_bsky",
+   "published": "2026-06-24T12:41:21.021+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f4f5a3d2b01",
+   "title": "REP. MEUSER: The terrorist state of Iran is going to be in the history books in a matter of days KILMEADE: If not, after the election I'm sure they're gonna get it",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mozwcuq7bx2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T12:32:30.073+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "30bad3ff9e5c",
+   "title": "Military Reinstates Flu Shot Requirement Amid Air Force Flu Outbreak Just Months After Hegseth Scrapped Mandate",
+   "link": "https://www.mediaite.com/media/news/military-requiring-flu-shots-again-as-air-force-flu-outbreak-grows-following-hegseth-scrapping-mandate/",
+   "summary": "Military branches are reintroducing flu shot requirements as an outbreak has been growing at Lackland Air Force Base, where new recruits are trained. The post Military Reinstates Flu Shot Requirement Amid Air Force Flu Outbreak Just Months After Hegseth Scrapped Mandate first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T12:31:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3ae0de986c34",
+   "title": "Actually…",
+   "link": "https://bsky.app/profile/kairyssdal.bsky.social/post/3mozvumqs6s2a",
+   "summary": "",
+   "source": "@kairyssdal",
+   "category": "trump_bsky",
+   "published": "2026-06-24T12:24:31.951+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a5c45aed5732",
+   "title": "Intelligence Chair Rick Crawford: \"If you think about the way President Trump is treating this, it's not unlike the way MacArthur engaged with Japan post-World War 2.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mozvayq2x52a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T12:13:33.413+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b3a471f21b86",
+   "title": "NYC Socialist Candidate Angrily Bolts Radio Interview After Being Pressed on Deleted Social Media Posts",
+   "link": "https://www.mediaite.com/politics/nyc-socialist-candidate-angrily-bolts-radio-interview-after-being-pressed-on-deleted-social-media-posts/",
+   "summary": "Socialist Darializa Avila Chevalier ditched a Spanish-language radio interview over questions about her old social media posts, hours before her upset victory The post NYC Socialist Candidate Angrily Bolts Radio Interview After Being Pressed on Deleted Social Media Posts first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T12:12:28+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "29189b4b3795",
+   "title": "KERNEN: Can you leave the Secret Service guys? You need all of them? BESSENT: I think we've been a little too successful with the Iranians",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mozumoaqar22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T12:02:11.333+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6ff3385ba034",
+   "title": "Joe Scarborough Blames Benjamin Netanyahu for Defeat of Pro-Israel Dems in NYC: He’s the Reason ‘Israel is in Such Low Standing in America’",
+   "link": "https://www.mediaite.com/media/news/joe-scarborough-blames-benjamin-netanyahu-for-defeat-of-pro-israel-dems-in-nyc-hes-the-reason-israel-is-in-such-low-standing-in-america/",
+   "summary": "Joe Scarborough believes Netanyahu is responsible for the defeat of pro-Israel Democrats in Tuesday night's primary elections in New York. The post Joe Scarborough Blames Benjamin Netanyahu for Defeat of Pro-Israel Dems in NYC: He’s the Reason ‘Israel is in Such Low Standing in America’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T12:00:38+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6122939a785c",
+   "title": "Trump Blurts ‘No Women in the Crowd, Which is Nice’ In Bonkers Rant on WH UFC Fight Night",
+   "link": "https://www.mediaite.com/media/news/trump-blurts-no-women-in-the-crowd-which-is-nice-in-bonkers-rant-on-wh-ufc-fight-night/",
+   "summary": "Trump blurted out a celebration of the absence of women in the crowd during an over-the-top riff about the White House UFC event. The post Trump Blurts ‘No Women in the Crowd, Which is Nice’ In Bonkers Rant on WH UFC Fight Night first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T11:48:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3b123c11f9a8",
+   "title": "Trump: \"Iran has informed the US that, despite troublemaking Fake News reporting to the contrary, there are 'NO TOLLS, NO INSURANCE COSTS & NO OTHER CHARGES OF ANY KIND BEING SOUGHT OR RECEIVED BY IRAN ON SHIPS TRAVELING THE STRAIT. If this is false information, negotiations would end, immediately!\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moztqb6c4c2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T11:46:18.109+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "e7070b4eb187",
+   "title": "Chilling: “Trump and his cronies will fight tooth and nail to attack the right to vote by wrenching control of elections away from the states. Every single battle matters.”",
+   "link": "https://bsky.app/profile/sholahoon.bsky.social/post/3moztk3enbs24",
+   "summary": "",
+   "source": "@sholahoon",
+   "category": "trump_bsky",
+   "published": "2026-06-24T11:42:50.700+00:00",
+   "iran_topic": false
+  },
   {
    "id": "7a574f78490a",
    "title": "New in PN: Trump's disenfranchisement machine is besieging the courts \"So far, courts have managed to head off this plan for mass disenfranchisement. But MAGA is fighting tooth and nail to attack the right to vote by wrenching control of elections away from the states. Every single battle matters.\"",
@@ -415,7 +595,7 @@
   },
   {
    "id": "9045faa8cf2c",
-   "title": "Democratic socialists just dominated New York — and are coming for 2028",
+   "title": "Democratic socialists are coming for 2028",
    "link": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
    "summary": "The group is asking members across all 250 chapters to weigh who they want to back in the next presidential election and why, according to a plan first shared with POLITICO.",
    "source": "Politico Politics",
@@ -674,26 +854,6 @@
    "iran_topic": false
   },
   {
-   "id": "b2f2e83d7ef2",
-   "title": "Trump Admin Installs Chain-Link Fencing, Surveillance Cameras at Reflecting Pool",
-   "link": "https://www.mediaite.com/media/news/trump-admin-installs-chain-link-fencing-surveillance-cameras-at-reflecting-pool/",
-   "summary": "The Trump administration installed surveillance cameras and chain-link fencing around the Reflecting Pool on Tuesday. The post Trump Admin Installs Chain-Link Fencing, Surveillance Cameras at Reflecting Pool first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T22:14:20+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9e44508ac49b",
-   "title": "Senate’s ‘Crypto Queen’ Immediately Objects as Jon Ossoff Proposes Trading Ban",
-   "link": "https://www.mediaite.com/media/news/senates-crypto-queen-immediately-objects-as-jon-ossoff-proposes-trading-ban/",
-   "summary": "Capitol Hill's \"Crypto Queen,\" Sen. Cynthia Lummis (R-WY), immediately objected to Sen. Jon Ossoff's (D-GA) proposed bill to ban Senators from trading stocks. The post Senate’s ‘Crypto Queen’ Immediately Objects as Jon Ossoff Proposes Trading Ban first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T22:12:13+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "45138f867579",
    "title": "wat",
    "link": "https://bsky.app/profile/sky.skymarchini.net/post/3moyfz5rmlk2x",
@@ -701,26 +861,6 @@
    "source": "@sky",
    "category": "trump_bsky",
    "published": "2026-06-23T22:08:04.414+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8bec0b17ead2",
-   "title": "Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart",
-   "link": "https://www.mediaite.com/media/news/karoline-leavitt-shares-poll-showing-broad-support-for-trump-iran-peace-deal-but-it-also-shows-80-think-itll-probably-fall-apart/",
-   "summary": "Karoline Leavitt shared a poll showing \"broad support\" for President Donald Trump's peace deal with Iran, but the survey itself tells a different story. The post Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T22:02:31+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6c414e5ba265",
-   "title": "‘He Gets to Ask His Question!’ Reporter Jumps In After Todd Blanche Tries to Shut Down a Question in Tense Presser",
-   "link": "https://www.mediaite.com/media/news/he-gets-to-ask-his-question-reporter-jumps-in-after-todd-blanche-tries-to-shut-down-a-question-in-tense-presser/",
-   "summary": "Todd Blanche irked reporters at a Justice Department presser on Tuesday when he refused to take a question that was “off topic.” The post ‘He Gets to Ask His Question!’ Reporter Jumps In After Todd Blanche Tries to Shut Down a Question in Tense Presser first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T22:01:56+00:00",
    "iran_topic": false
   },
   {
@@ -754,16 +894,6 @@
    "iran_topic": false
   },
   {
-   "id": "31e8199c6518",
-   "title": "Alan Dershowitz Announces Plans to Sue Coffee Shop That Banned Dan Goldman",
-   "link": "https://www.mediaite.com/media/alan-dershowitz-announces-plans-to-sue-coffee-shop-that-banned-dan-goldman/",
-   "summary": "Alan Dershowitz said he plans on suing the New York City coffee shop that banned Rep. Dan Goldman for his support of Israel and branded him a \"genocide enabler\" The post Alan Dershowitz Announces Plans to Sue Coffee Shop That Banned Dan Goldman first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T21:35:18+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "2b533a665903",
    "title": "White House Unveils President Trump’s America First Resilience Strategy",
    "link": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
@@ -771,16 +901,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-23T21:28:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6ec1d60f5462",
-   "title": "Thom Tillis Calls Out Trump Pardoning Rioters Who Attacked Cops While Wanting 10-Year Jail Sentences For Vandals",
-   "link": "https://www.mediaite.com/politics/thom-tillis-calls-out-trump-pardoning-rioters-who-attacked-cops-while-wanting-10-year-jail-sentences-for-vandals/",
-   "summary": "\"They get 10 years; you beat a cop, you get out free, and potentially eligible for restitution,” Tillis replied, “Seems unequal to me!” The post Thom Tillis Calls Out Trump Pardoning Rioters Who Attacked Cops While Wanting 10-Year Jail Sentences For Vandals first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T21:27:11+00:00",
    "iran_topic": false
   },
   {
@@ -801,16 +921,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-23T21:19:46.778+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d53420a2660",
-   "title": "‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father",
-   "link": "https://www.mediaite.com/media/podcasts/i-dare-you-megyn-kelly-issues-scathing-challenge-to-the-view-to-host-austin-metcalfs-father/",
-   "summary": "Megyn Kelly challenged The View hosts to bring on the father of a slain teenager who accused Sunny Hostin of trying to \"monetize the death of my son.\" The post ‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T21:14:23+00:00",
    "iran_topic": false
   },
   {
@@ -844,16 +954,6 @@
    "iran_topic": false
   },
   {
-   "id": "a512e992420b",
-   "title": "Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking",
-   "link": "https://www.mediaite.com/politics/trump/trump-drops-bonkers-story-about-his-friend-who-chokes-like-a-dog-at-public-speaking/",
-   "summary": "Trump dropped a wild story about a \"friend\" who \"chokes like a dog\" when public speaking as he simultaneously seemed to praise his own speaking abilities. The post Trump Drops Bonkers Story About His ‘Friend’ Who ‘Chokes Like a Dog’ At Public Speaking first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T20:57:26+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4170767be3b7",
    "title": "Josh Hawley on Pride hats: \"Let's get back to God and country and playing some baseball and stop all this woke garbage\"",
    "link": "https://bsky.app/profile/atrupar.com/post/3moyboadqbo2t",
@@ -861,36 +961,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-23T20:50:23.027+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d000220af887",
-   "title": "‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House",
-   "link": "https://www.mediaite.com/politics/it-hurts-my-heart-so-much-joy-reid-cant-bear-thought-of-knicks-visiting-trump-white-house/",
-   "summary": "Joy Reid said she will be in agony when her beloved New York Knicks go to the White House because Trump has been so \"openly hostile to Black folks.\" The post ‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T20:50:22+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4a2a998cad5",
-   "title": "lollllll -- Ossoff proposes a motion that would ban senators from trading stocks and crypto, prompting Sen. Lummis (who loves crypto) to immediately object",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moybbi4nbt2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:43:14.981+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7e11d5895c1b",
-   "title": "Clearest proof we've seen that he thinks refugees claiming political asylum were refugees from an actual insane asylum. The leader of the United States is dumber than dirt but there's an entire cult enabling him and a corporate media too cowardly to call them out.",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moyaqixetk2s",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:33:45.438+00:00",
    "iran_topic": false
   },
   {
@@ -902,76 +972,6 @@
    "category": "mediaite",
    "published": "2026-06-23T20:29:48+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "44eaa3709851",
-   "title": "closing in on 90 minutes into his speech in Pennsylvania, Trump is still ranting and raving incoherently and his audience is totally silent",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy7l4fih527",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:12:50.748+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1b7ca4dfa6ca",
-   "title": "Trump: \"Some countries had no mental institutions. The mental institutions were taken -- all of those people were taken to our southern border and allowed to just walk freely into our country under Sleepy Joe Biden.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy7eorro427",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:09:15.142+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d799b216002",
-   "title": "Trump can't remember the name of TrumpRx -- \"Go to Trump dot com\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy77ug4i622",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:06:33.281+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4911a601033",
-   "title": "Trump: \"A friend of man who's extremely fat, sloppy, but very brilliant. He's a brilliant businessman but he's a slob.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy75ae65u2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:05:05.137+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "912bd21227ed",
-   "title": "Trump brags about cutting drug prices by 600 percent",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy747ea4m2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:04:30.536+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8780105552f9",
-   "title": "\"You've got the big strong muscles\" -- Trump has been obsessed with big strong muscular men lately and it's continuing today during his speech in PA",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy72tkbxd2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:03:44.597+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "891073f55135",
-   "title": "Reuters: U.S. SENATE VOTES TO HALT IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy6cqld6k2k",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:50:16.186+00:00",
-   "iran_topic": true
   }
  ]
 }
