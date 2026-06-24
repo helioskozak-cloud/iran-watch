@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-24T01:37:21.323244+00:00",
+ "generated": "2026-06-24T02:58:19.562296+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 76.73,
-   "change": -1.17,
-   "change_pct": -1.5,
+   "price": 76.4,
+   "change": -1.5,
+   "change_pct": -1.93,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    76.7300033569336
+    76.4000015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 72.89,
-   "change": -1.93,
-   "change_pct": -2.58,
+   "price": 72.45,
+   "change": -2.37,
+   "change_pct": -3.17,
    "spark": [
     76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    72.88999938964844
+    72.44999694824219
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4113.8,
-   "change": -68.1,
-   "change_pct": -1.63,
+   "price": 4075.3,
+   "change": -106.6,
+   "change_pct": -2.55,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4113.7998046875
+    4075.300048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.44,
-   "change": 0.42,
-   "change_pct": 0.42,
+   "price": 101.43,
+   "change": 0.41,
+   "change_pct": 0.41,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.44000244140625
+    101.43000030517578
    ]
   },
   "^GSPC": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.19,
-   "change": -0.06,
-   "change_pct": -1.81,
+   "price": 3.18,
+   "change": -0.07,
+   "change_pct": -2.09,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.194000005722046
+    3.184999942779541
    ]
   }
  },
@@ -218,14 +218,21 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T01:30:46.079084+00:00",
+   "published": "2026-06-24T02:57:03.721508+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-24T01:30:46.074739+00:00",
+   "published": "2026-06-24T02:57:03.715993+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ue0sxg/un_starts_evacuating_11000_stranded_sailors_from/",
+   "source": "r/worldnews",
+   "published": "2026-06-24T02:18:29+00:00",
    "severity": "info"
   },
   {
@@ -311,13 +318,6 @@
    "source": "@reuters",
    "published": "2026-06-23T16:01:27+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran, Oman agree to form Strait of Hormuz Committee",
-   "link": "https://en.irna.ir/news/86191471/Iran-Oman-agree-to-form-Strait-of-Hormuz-Committee",
-   "source": "IRNA",
-   "published": "2026-06-23T15:59:34+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,7 +331,14 @@
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-24T01:30:46.074739+00:00",
+     "published": "2026-06-24T02:57:03.715993+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ue0sxg/un_starts_evacuating_11000_stranded_sailors_from/",
+     "source": "r/worldnews",
+     "published": "2026-06-24T02:18:29+00:00",
      "severity": "info"
     },
     {
@@ -339,13 +346,6 @@
      "link": "https://www.timesofisrael.com/rubio-iran-will-not-be-allowed-to-charge-tolls-in-strait-of-hormuz-under-any-final-deal/",
      "source": "Times of Israel",
      "published": "2026-06-24T00:42:57+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-24T00:00:00+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,96 @@
  ],
  "wh_statements": [
   {
+   "id": "0260f3fb9dbb",
+   "title": "Ossoff: \"The other thing that is really bothering people is that while Americans are paying record high prices for just about everything, the first family is becoming billions of dollars wealthier, sweetheart deals all over the world. The president is literally building a monument to himself.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyvjienkk2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:45:38.515+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0b71843e695a",
+   "title": "Ossoff on Tucker Carlson saying he's done with the GOP: \"I'm hearing it more and more. The president's betrayal of his promises, his movement, and of the nation is so undeniable ... he is a failed lame duck president.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyvfvu2fq2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:43:38.435+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5b57714b9c44",
+   "title": "Ossoff: \"People need to understand that my opponent, Mike Collins, is someone well known for his poor character and low integrity. There's a reason that a number of prominent conservatives in Georgia are either backing me or saying they just can't bring themselves to vote for Mike Collins.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyvemubsc2b",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:42:55.451+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a925614cf5bc",
+   "title": "WASHINGTON (AP) — Micah Lasher wins Democratic nomination for U.S. House in New York's 12th Congressional District.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moyttbdn3c2y",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:15:19.210+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8f0534f46686",
+   "title": "House Republican Defies Trump on Iran: ‘I’m Not Worried About What the President Says’",
+   "link": "https://www.mediaite.com/media/news/house-republican-defies-trump-on-iran-im-not-worried-about-what-the-president-says/",
+   "summary": "Rep. Rich McCormick (R-GA) defied President Donald Trump on whether Iran should have ballistic missiles amid peace deal negotiations. The post House Republican Defies Trump on Iran: ‘I’m Not Worried About What the President Says’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T02:07:15+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "c951f3dab311",
+   "title": "thanks for flagging, i went back and got it",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyt4p2wn22e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:02:41.852+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cff0f46572c0",
+   "title": "a cool moment -- Kaitlin Collins tells Brad Lander that he won his primary live on air during an interview with him. Lander responds by saying, \"I'm thrilled. I did not expect to be on air when the race was called.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyt3osbpk2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T02:02:08.007+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bfac73944084",
+   "title": "a yelling Stephen Miller claims \"a vote for Republicans and Trump\" (when will people be voting for Trump again?) \"is literally a vote to protect the lives of the people you love most in this whole world\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moysujdryl26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T01:58:07.406+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "02197ebafe0e",
+   "title": "John Fetterman Claims Having ‘Contempt for Israel’ Means ‘You’re Anti-American’",
+   "link": "https://www.mediaite.com/media/tv/john-fetterman-claims-having-contempt-for-israel-means-youre-anti-american/",
+   "summary": "Sen. John Fetterman (D-PA) claimed on Tuesday night that to be contemptuous of Israel is to be \"anti-American.\" The post John Fetterman Claims Having ‘Contempt for Israel’ Means ‘You’re Anti-American’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T01:46:50+00:00",
+   "iran_topic": true
+  },
+  {
    "id": "b9fa44c5a5cd",
    "title": "Hoyer alum Adrian Boafo wins Maryland House primary with help of crypto, pro-Israel money",
    "link": "https://www.politico.com/news/2026/06/23/boafo-wins-maryland-house-primary-00973131",
@@ -382,6 +472,16 @@
    "category": "politico_pol",
    "published": "2026-06-24T01:30:47+00:00",
    "iran_topic": true
+  },
+  {
+   "id": "5d600a61d99a",
+   "title": "Out helping my daughter learn to ride her bike at the moment",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyqxlghv22x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T01:24:02.781+00:00",
+   "iran_topic": false
   },
   {
    "id": "3d864c7a0ebd",
@@ -414,6 +514,16 @@
    "iran_topic": false
   },
   {
+   "id": "1f948a7209d0",
+   "title": "Trump actually thinks asylum seekers are people from “insane asylums”—and he’s enabled by people in the administration and the media who do not correct him.",
+   "link": "https://bsky.app/profile/leahmcelrath.bsky.social/post/3moymeyxaz22l",
+   "summary": "",
+   "source": "@leahmcelrath",
+   "category": "trump_bsky",
+   "published": "2026-06-24T00:02:04.460+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "6eb53d01a688",
    "title": "AOC Dunks on Trump Over Reflecting Pool Debacle: ‘They Turned It Into an Actual Swamp’",
    "link": "https://www.mediaite.com/politics/aoc-dunks-on-trump-over-reflecting-pool-debacle-they-turned-it-into-an-actual-swamp/",
@@ -421,6 +531,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T00:01:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "53a01d69d889",
+   "title": "🤔",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moym34lf5c25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T23:56:32.718+00:00",
    "iran_topic": false
   },
   {
@@ -494,6 +614,16 @@
    "iran_topic": false
   },
   {
+   "id": "45138f867579",
+   "title": "wat",
+   "link": "https://bsky.app/profile/sky.skymarchini.net/post/3moyfz5rmlk2x",
+   "summary": "",
+   "source": "@sky",
+   "category": "trump_bsky",
+   "published": "2026-06-23T22:08:04.414+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "8bec0b17ead2",
    "title": "Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart",
    "link": "https://www.mediaite.com/media/news/karoline-leavitt-shares-poll-showing-broad-support-for-trump-iran-peace-deal-but-it-also-shows-80-think-itll-probably-fall-apart/",
@@ -511,6 +641,36 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T22:01:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "31a06d9aaa40",
+   "title": "\"When people lie about Michelle Obama’s gender, they aren’t really trying to convince voters (or UFC fans) of anything. Rather, these smears are deployed to assure an in group of bigots and fascists that they have the right, and the power, to determine whose identity is respected and whose is not.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyepe2ank2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:44:41.703+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "da9ea78ceda0",
+   "title": "Sen. Tuberville: \"Obama's a crook. Let's put 'em in jail.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyel4al4s2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:42:19.304+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1f2699d5c022",
+   "title": "Tuberville: \"I would imagine Bill Pulte being over the housing in this country has a little mortgage fraud on some people in New York and maybe even a few congressmen and senators\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyefzgbn22e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:39:28.572+00:00",
    "iran_topic": false
   },
   {
@@ -554,6 +714,16 @@
    "iran_topic": true
   },
   {
+   "id": "90a366fd0436",
+   "title": "Rep. Jason Smith: \"The Jewish people are welcome in the Republican Party, and they can come here and support us\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moydcsexs62n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:19:46.778+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "8d53420a2660",
    "title": "‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father",
    "link": "https://www.mediaite.com/media/podcasts/i-dare-you-megyn-kelly-issues-scathing-challenge-to-the-view-to-host-austin-metcalfs-father/",
@@ -571,6 +741,16 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-23T21:05:31.765+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c444098df2ad",
+   "title": "Jeffries: \"When Pete Hegseth comes up to Capitol Hill tomorrow, what he should do is submit his letter of resignation\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moychy54zc2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T21:04:46.849+00:00",
    "iran_topic": false
   },
   {
@@ -594,6 +774,16 @@
    "iran_topic": false
   },
   {
+   "id": "4170767be3b7",
+   "title": "Josh Hawley on Pride hats: \"Let's get back to God and country and playing some baseball and stop all this woke garbage\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moyboadqbo2t",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:50:23.027+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "d000220af887",
    "title": "‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House",
    "link": "https://www.mediaite.com/politics/it-hurts-my-heart-so-much-joy-reid-cant-bear-thought-of-knicks-visiting-trump-white-house/",
@@ -611,6 +801,26 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T20:44:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4a2a998cad5",
+   "title": "lollllll -- Ossoff proposes a motion that would ban senators from trading stocks and crypto, prompting Sen. Lummis (who loves crypto) to immediately object",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moybbi4nbt2d",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:43:14.981+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7e11d5895c1b",
+   "title": "Clearest proof we've seen that he thinks refugees claiming political asylum were refugees from an actual insane asylum. The leader of the United States is dumber than dirt but there's an entire cult enabling him and a corporate media too cowardly to call them out.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moyaqixetk2s",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:33:45.438+00:00",
    "iran_topic": false
   },
   {
@@ -644,6 +854,16 @@
    "iran_topic": false
   },
   {
+   "id": "44eaa3709851",
+   "title": "closing in on 90 minutes into his speech in Pennsylvania, Trump is still ranting and raving incoherently and his audience is totally silent",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy7l4fih527",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:12:50.748+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "1feb2c7eb608",
    "title": "Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels",
    "link": "https://www.mediaite.com/media/news/shock-report-shows-factory-layoffs-at-financial-crisis-pandemic-levels/",
@@ -654,14 +874,64 @@
    "iran_topic": false
   },
   {
-   "id": "dbf4a253efc1",
-   "title": "GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran",
-   "link": "https://www.mediaite.com/media/news/breaking-gop-led-senate-passes-stunning-rebuke-of-trumps-war-in-iran/",
-   "summary": "Sen. John Fetterman (D-PA) was the only Democrat in the Senate to vote against the resolution. The post GOP-Led Senate Passes Stunning Rebuke of Trump’s War In Iran first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:59:02+00:00",
-   "iran_topic": true
+   "id": "1b7ca4dfa6ca",
+   "title": "Trump: \"Some countries had no mental institutions. The mental institutions were taken -- all of those people were taken to our southern border and allowed to just walk freely into our country under Sleepy Joe Biden.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy7eorro427",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:09:15.142+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2d799b216002",
+   "title": "Trump can't remember the name of TrumpRx -- \"Go to Trump dot com\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy77ug4i622",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:06:33.281+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f4911a601033",
+   "title": "Trump: \"A friend of man who's extremely fat, sloppy, but very brilliant. He's a brilliant businessman but he's a slob.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy75ae65u2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:05:05.137+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "912bd21227ed",
+   "title": "Trump brags about cutting drug prices by 600 percent",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy747ea4m2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:04:30.536+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8780105552f9",
+   "title": "\"You've got the big strong muscles\" -- Trump has been obsessed with big strong muscular men lately and it's continuing today during his speech in PA",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy72tkbxd2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T20:03:44.597+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e29f1fd17085",
+   "title": "Trump: \"Thanks as well to the president of the NRA who is here with me. I saved the Second Amendment. The NRA has been with me right from the beginning. How do you feel about national right to carry? We're working on it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3moy6hfcxbp2o",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-23T19:52:52.144+00:00",
+   "iran_topic": false
   },
   {
    "id": "891073f55135",
@@ -672,16 +942,6 @@
    "category": "trump_bsky",
    "published": "2026-06-23T19:50:16.186+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "dbacf672b568",
-   "title": "Frank Luntz Says Trump’s Endorsement Is So Powerful He Doesn’t Need to Rally for Republicans",
-   "link": "https://www.mediaite.com/media/tv/frank-luntz-says-trumps-endorsement-is-so-powerful-he-doesnt-need-to-rally-for-republicans/",
-   "summary": "Pollster Frank Luntz argued President Trump is so influential in politics that he doesn't need to rally for candidates in primary battles ahead of the midterms. The post Frank Luntz Says Trump’s Endorsement Is So Powerful He Doesn’t Need to Rally for Republicans first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:42:14+00:00",
-   "iran_topic": false
   },
   {
    "id": "f135ee48f018",
@@ -711,266 +971,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-23T16:18:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4971dc36d4b0",
-   "title": "Nominations Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Carl Bednarski, of Michigan, to be a Member of the Farm Credit Administration Board, Farm Credit Administration, for a term expiring May 21, 2028. Michael Chamberlain, of Virginia, to be Director of the Office of Government Ethics for a term of five years. Walter Darr, of Texas, to be Federal [&#8230;] The post Nominations Sent to the Senate appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-23T16:18:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b915951928bf",
-   "title": "Iran's Foreign Ministry says no U.N. Inspectors are scheduled to visit bombed nuclear sites. That contradicts JD Vance, who said yesterday that Iran had agreed in the Switzerland talks to let inspectors back into the country.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxmylkf4c2m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T14:40:21.757+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "4513fd961d7d",
-   "title": "Breaking WaPo: The Trump Justice Department took the extraordinary step of seeking to force reporters for The Washington Post and the Wall Street Journal to testify before a federal grand jury — but withdrew the subpoenas after they were challenged by the news organizations.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxj3b6sr222",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T13:30:16.587+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d79d536d20e5",
-   "title": "Breaking MS NOW: Firings are underway at the Office of the Director of National Intelligence. This month, Trump said he planned to ask acting DNI Bill Pulte to \"execute the immediate and needed downsizing of the office, reverting staff to their home agencies.\" www.ms.now/news/directo...",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxhfv4yxc2d",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T13:00:25.562+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "299c0323cbed",
-   "title": "UFC fighter's Michelle Obama smear reveals much about MAGA bigotry",
-   "link": "https://www.publicnotice.co/p/ufc-michelle-obama",
-   "summary": "There's a reason she's been a target for so long.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-23T10:17:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1189d61b3642",
-   "title": "Trump Reportedly Fixated on Ordering Trees at Beginning of Iran War: ‘I Know How To Buy Good Trees’",
-   "link": "https://www.mediaite.com/media/print/trump-reportedly-fixated-on-ordering-trees-at-beginning-of-iran-war-i-know-how-to-buy-good-trees/",
-   "summary": "Trump was reportedly fixated on ordering maple trees for the WH in the early weeks of the Iran War and boasted of his prowess in purchasing \"good trees.\" The post Trump Reportedly Fixated on Ordering Trees at Beginning of Iran War: ‘I Know How To Buy Good Trees’ first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-23T03:18:21+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "406cb9426410",
-   "title": "FLAG: Trump says he's preparing a lawsuit against ABC for \"false reporting\" about the reflecting pool. There's no evidence of false reporting.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mow624o7oc2b",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T00:40:07.397+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eec9f5b4494c",
-   "title": "Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’",
-   "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
-   "summary": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool. The post Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’ first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-23T00:37:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3228325fa7c2",
-   "title": "David Hearn: I went over and furnished my id and kind of before I knew it, I was being handcuffed and realized I was being arrested.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mow4qezkof25",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-23T00:16:46.729+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c71515581e9",
-   "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
-   "summary": "On this day 81 years ago, American forces emerged victorious from the Battle of Okinawa, a grueling test of American might, will, and sacrifice that would echo through the ages.&#160; As Imperial Japan mounted one of its final and most ferocious defenses, our Nation’s courageous heroes battled their way across the island and broke the [&#8230;] The post America 250: Presidential Message on the Anniversary of the Battle of Okinawa appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-23T00:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "861b28360878",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy6ukzjc24",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:55:24.225+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f05d80d57ae5",
-   "title": "Warner: Pulte could claim, whether there’s a source of intelligence or not, that China is going to do X. He could claim that there might be a terrorist threat around polling stations. All of it could be used as an excuse to try to shut down the election.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy3pcszz2l",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:53:37.744+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "64fd69dc9f89",
-   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxsjng7224",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:48:30.117+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1d3ee8f7a63c",
-   "title": "Welch: Biden did what they wanted. Biden allowed a blank check for Bibi. He just wouldn’t bomb Iran. And they betrayed that support, and they went and sought refuge with the bigots… I saw this coming all along, but they’re finding out just like the women for Trump are finding out.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxpa5pzw2p",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T22:46:39.226+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "db9a9c89ce9d",
-   "title": "MacFarlane: You have a smell that's emanating now that is reminiscent of a high school locker room. You have a police force and National Guard presence that is profound. It's like a jewel heist from the muppet caper is going to happen. It seems to be a misappropriation of resources.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movuzqlm4e2h",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:58:50.933+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6a53ede70dce",
-   "title": "MacFarlane: The judge said those postings indicate coercion, therefore striking down the subpoenas. It's just the latest example of when Trump says stuff on social media, how it causes him trouble…",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movtm55ibj2c",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:33:20.581+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "600c3587052d",
-   "title": "Watters: Is like blind loyalty to an idiot, does that override that? Jessica: Well, you do blind loyalty to an idiot every day.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movt3cnz5d26",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T21:23:55.917+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bb6bc839578f",
-   "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "DRIVING INNOVATION WHILE DEFENDING DATA:&#160;&#160;Today, President Donald J. Trump signed an Executive Order to safeguard America’s most sensitive data, our critical infrastructure, and the digital economy that drives jobs and growth. PUTTING AMERICA FIRST IN CYBERSECURITY: President Trump is promoting a key technology that will protect American systems in the quantum era, ensuring defense and [&#8230;] The post Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:39:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "68c5e370fdf2",
-   "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "ACCELERATING QUANTUM INNOVATION:&#160;Today, President Donald J. Trump signed an Executive Order to supercharge U.S. innovation in quantum technologies and strengthen our national security in this critical area.&#160;&#160; STRENGTHENING AMERICA’S QUANTUM ADVANTAGE:&#160;President Trump recognizes that quantum technologies are on the verge of a massive commercial breakthrough and require a bold new policy approach to ensure America [&#8230;] The post Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:39:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ceb85ca2552c",
-   "title": "Ushering in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:38:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ceb85ca2552c",
-   "title": "Ushering in the Next Frontier of Quantum Innovation",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-22T20:38:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20d980cc8f3c",
-   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T20:37:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20d980cc8f3c",
-   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-22T20:37:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2ee81eabbd82",
-   "title": "Reuters: US JUDGE BLOCKS TRUMP ADMINISTRATION FROM USING REVAMPED IMMIGRATION DATABASE FOR VOTER ROLL CHECKS",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3movl2ig2ok2o",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-22T19:00:18.617+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9f520fe72789",
-   "title": "Mamdani: When I am speaking about AIPAC, I’m speaking about an organization that has fought any attempt to actually deliver safety to people not just in Palestine but, frankly, throughout much of the region. And it is a status quo of immorality. It is one that I will not accept.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movkv6t6jk2v",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-22T18:57:20.791+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "332b152c4536",
-   "title": "President Trump Drives Down Rents by Ending Open Borders Disaster",
-   "link": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
-   "summary": "President Donald J. Trump’s decisive enforcement of America’s immigration laws is producing real results for hardworking families — including the nation’s 46 million renters. Rents are falling sharply across the country for the first time in years as the record surge in illegal immigration has been reversed. Rents in major metro areas have dropped significantly [&#8230;] The post President Trump Drives Down Rents by Ending Open Borders Disaster appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-22T18:47:12+00:00",
    "iran_topic": false
   }
  ]
