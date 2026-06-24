@@ -1,110 +1,110 @@
 {
- "generated": "2026-06-24T16:13:06.895000+00:00",
+ "generated": "2026-06-24T18:07:59.103489+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 74.06,
-   "change": -3.02,
-   "change_pct": -3.92,
+   "price": 73.96,
+   "change": -3.12,
+   "change_pct": -4.05,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    74.05999755859375
+    73.95999908447266
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.53,
-   "change": -2.68,
-   "change_pct": -3.66,
+   "price": 70.47,
+   "change": -2.74,
+   "change_pct": -3.74,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    70.52999877929688
+    70.47000122070312
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4020.5,
-   "change": -109.4,
-   "change_pct": -2.65,
+   "price": 3995.1,
+   "change": -134.8,
+   "change_pct": -3.26,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4020.5
+    3995.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.64,
-   "change": 0.23,
-   "change_pct": 0.23,
+   "price": 101.63,
+   "change": 0.22,
+   "change_pct": 0.22,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.63899993896484
+    101.63400268554688
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7413.31,
-   "change": 47.85,
-   "change_pct": 0.65,
+   "price": 7355.95,
+   "change": -9.51,
+   "change_pct": -0.13,
    "spark": [
     7420.10009765625,
     7500.580078125,
     7472.7900390625,
     7365.4599609375,
-    7413.31005859375
+    7355.9501953125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 106.79,
-   "change": -4.47,
-   "change_pct": -4.02,
+   "price": 106.8,
+   "change": -4.46,
+   "change_pct": -4.01,
    "spark": [
     114.2300033569336,
     114.87000274658203,
     112.69000244140625,
     111.26000213623047,
-    106.79000091552734
+    106.80000305175781
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.3,
-   "change": -1.19,
-   "change_pct": -6.11,
+   "price": 19.94,
+   "change": 0.45,
+   "change_pct": 2.31,
    "spark": [
     16.399999618530273,
     17.280000686645508,
     19.489999771118164,
-    18.299999237060547
+    19.940000534057617
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.23,
-   "change": 0.09,
-   "change_pct": 2.73,
+   "price": 3.25,
+   "change": 0.11,
+   "change_pct": 3.4,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2330000400543213
+    3.253999948501587
    ]
   }
  },
@@ -215,6 +215,20 @@
  ],
  "incidents": [
   {
+   "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
+   "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
+   "source": "Press TV",
+   "published": "2026-06-24T18:07:22.530645+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Plan To Evacuate Hundreds Of Ships Still Stranded From Strait Of Hormuz Closure Is Coalescing",
+   "link": "https://www.twz.com/news-features/plan-to-evacuate-hundreds-of-ships-still-stranded-from-strait-of-hormuz-closure-is-coalescing",
+   "source": "The Drive",
+   "published": "2026-06-24T18:06:05+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran, Oman push to become administrators of Strait of Hormuz as toll system remains unclear",
    "link": "https://www.jpost.com/middle-east/iran-news/article-900414",
    "source": "Jerusalem Post",
@@ -222,10 +236,17 @@
    "severity": "info"
   },
   {
-   "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
-   "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
-   "source": "Press TV",
-   "published": "2026-06-24T16:12:28.918983+00:00",
+   "title": "Baltic Exchange defends its tanker rates as reliable during Iran war reut.rs/4xLTH7n",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp2gobf27w2u",
+   "source": "@reuters",
+   "published": "2026-06-24T17:25:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Has the worst of the Hormuz crisis passed?",
+   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-24T16:50:57+00:00",
    "severity": "info"
   },
   {
@@ -297,27 +318,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-24T12:24:42+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz reut.rs/44qVKA7",
-   "link": "https://bsky.app/profile/reuters.com/post/3mozuly3zwk2h",
-   "source": "@reuters",
-   "published": "2026-06-24T12:01:47+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-says-iran-has-told-us-no-tolls-being-sought-strait-hormuz",
-   "source": "Al-Monitor",
-   "published": "2026-06-24T12:01:45+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "U.S. Secretary of State Marco Rubio met with the leader of the United Arab Emirates on Wednesday at the start of a trip to the Middle East, as he seeks to reassure Persian Gulf allies about the preliminary deal the U.S. agreed with Iran that could pave the way to a lasting peace.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mozrpk2gzg22",
-   "source": "@nytimes",
-   "published": "2026-06-24T11:10:06.337599+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,8 +325,15 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 11,
    "recent": [
+    {
+     "title": "Plan To Evacuate Hundreds Of Ships Still Stranded From Strait Of Hormuz Closure Is Coalescing",
+     "link": "https://www.twz.com/news-features/plan-to-evacuate-hundreds-of-ships-still-stranded-from-strait-of-hormuz-closure-is-coalescing",
+     "source": "The Drive",
+     "published": "2026-06-24T18:06:05+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran, Oman push to become administrators of Strait of Hormuz as toll system remains unclear",
      "link": "https://www.jpost.com/middle-east/iran-news/article-900414",
@@ -335,18 +342,11 @@
      "severity": "info"
     },
     {
-     "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1uegevd/us_crude_oil_dips_below_70_as_tankers_transit/",
-     "source": "r/worldnews",
-     "published": "2026-06-24T15:17:38+00:00",
+     "title": "Has the worst of the Hormuz crisis passed?",
+     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-24T16:50:57+00:00",
      "severity": "info"
-    },
-    {
-     "title": "New today for War on the Rocks members: Adapting to Uncertainty in the Strait of Hormuz What Came Out of the G7 Summit The Critical Intersection of Space and the Polar Regions warontherocks.com/category/mem...",
-     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp27hi5cxz2m",
-     "source": "@warontherocks",
-     "published": "2026-06-24T15:16:07.935+00:00",
-     "severity": "low"
     }
    ]
   },
@@ -374,6 +374,226 @@
  ],
  "wh_statements": [
   {
+   "id": "907058986463",
+   "title": "Awkward! House Republican Hypes Up Housing Bill — Not Realizing Trump Had Already Pulled the Plug",
+   "link": "https://www.mediaite.com/politics/awkward-house-republican-hypes-up-housing-bill-not-realizing-trump-had-already-pulled-the-plug/",
+   "summary": "A House Republican praised a bill that was set to be signed by President Donald Trump on Wednesday -- not realizing the president had just called it off. The post Awkward! House Republican Hypes Up Housing Bill — Not Realizing Trump Had Already Pulled the Plug first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T18:01:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c1c789b9320d",
+   "title": "MS NOW’s Psaki and Hayes Bummed Over ‘Dead Ducks’ in Trump Reflecting Pool: ‘Feels Very Bad Here’",
+   "link": "https://www.mediaite.com/media/news/ms-nows-psaki-and-hayes-bummed-over-dead-ducks-in-trump-reflecting-pool-feels-very-bad-here/",
+   "summary": "MS NOW hosts Jen Psaki and Chris Hayes expressed sadness at the dead ducks that have been found amid President Donald Trump's renovation of the Reflecting Pool. The post MS NOW’s Psaki and Hayes Bummed Over ‘Dead Ducks’ in Trump Reflecting Pool: ‘Feels Very Bad Here’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T17:56:59+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "46301f309caf",
+   "title": "‘Scary Night for NYC Jews’: Moderate Dems Aghast Over Mamdani Sweep",
+   "link": "https://www.mediaite.com/politics/scary-night-for-nyc-jews-moderate-dems-aghast-over-mamdani-sweep/",
+   "summary": "MS NOW columnist Michael Cohen reacted to the results on X, writing, “This is a genuinely scary night for New York City Jews.” The post ‘Scary Night for NYC Jews’: Moderate Dems Aghast Over Mamdani Sweep first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T17:53:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "517b824f1ed9",
+   "title": "STEINER: Can you tell me what those statues are, bc I don't know KIM: You don't come to us for cheat codes. This is something you should be aware of S: I absolutely am K: Can you tell me then the difference between Title 39 & 13? S: I'm not a lawyer K: I'm not either, but I know the difference",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2hxehgu22f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:48:11.273+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ccbba6f4025a",
+   "title": "Washington Post Investigation Finds AI Chatbots Have Huge Liberal Bias",
+   "link": "https://www.mediaite.com/media/news/washington-post-investigation-finds-ai-chatbots-have-huge-liberal-bias/",
+   "summary": "The Washington Post tested a number of high-profile AI chatbots and found that all of them -- including Elon Musk's Grok -- leaned to the left. The post Washington Post Investigation Finds AI Chatbots Have Huge Liberal Bias first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T17:47:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2a62701f4e3f",
+   "title": "I'm stuck on how the court looking at birthright citizenship as \"originalists\" squares with considering the right under \"new circumstances\" as Johnson describes here",
+   "link": "https://bsky.app/profile/kelseyreichmann.bsky.social/post/3mp2gykxy3k2s",
+   "summary": "",
+   "source": "@kelseyreichmann",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:30:57.918+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f5d421128f71",
+   "title": "The deeply unpopular president shrugs off a question about the midterms, saying that the Democrats are all communists and \"this country is not going to have communists,\" and then he walks over to thunderous applause from the congressional Republicans who are about to lose their majority.",
+   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mp2guky5ok2l",
+   "summary": "",
+   "source": "@kevinmkruse",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:28:43.707+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1c4b2e8085cf",
+   "title": "\"The election fraud myth undergirds two vital Republican projects: undermining faith in elections generally, and building support for 'solutions' that will wind up disenfranchising millions of people, most of whom vote for Democrats.\" — @lizdye.bsky.social",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2gmwc45s2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:24:27.132+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ba00b28254be",
+   "title": "Elizabeth Warren Fires Back After Trump Cancels Signing Housing Bill By Calling Him Desperate: ‘He Is In Trouble’",
+   "link": "https://www.mediaite.com/media/tv/elizabeth-warren-fires-back-after-trump-cancels-signing-housing-bill-by-calling-him-desperate-he-is-in-trouble/",
+   "summary": "Sen. Elizabeth Warren (D-MA) fired back at President Donald Trump and called him desperate after he cancelled at the last minute signing a bill she had co-sponsored. The post Elizabeth Warren Fires Back After Trump Cancels Signing Housing Bill By Calling Him Desperate: ‘He Is In Trouble’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T17:24:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "edac3fc9f374",
+   "title": "asked about high housing costs and why he won't sign the housing bill, Trump immediately pivots to ranting about \"communists\" and says, \"this country is not going to have communists\" (in other words, rigging elections for Republicans with the SAVE Act is more important to him than housing)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2geuhdtw2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:19:56.615+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6182a517e6e3",
+   "title": "you can hear Senate Republicans applauding and cheering as Trump enters the room to have lunch with them",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2fzj3psb2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:13:35.748+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9b470a1cd9a9",
+   "title": "Thune clearly wants to walk past reporters but Trump puts a hand on him, stops, and says, \"the war is going very well. We are winning by a lot.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2fwurmya2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:12:07.335+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3980f21f3a92",
+   "title": "‘This Is How It Started in Nazi Germany!’ Protester Fumes Over Coffee Shop Banning Pro-Israel Democrat",
+   "link": "https://www.mediaite.com/media/this-is-how-it-started-in-nazi-germany-protester-fumes-over-coffee-shop-banning-pro-israel-democrat/",
+   "summary": "A female protester slammed the New York City coffee shop that banned Rep. Dan Goldman (R-NY) for his Pro-Israel views, saying it was akin to Nazi Germany The post ‘This Is How It Started in Nazi Germany!’ Protester Fumes Over Coffee Shop Banning Pro-Israel Democrat first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T17:10:37+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "5463ce715924",
+   "title": "PETERS: If a state refuses to turn their absentee voter list to the federal govt, will Postal Service still mail their ballots under this proposed rule? STEINER: No PETERS: So it basically coerces states to hand over their absentee voter rolls or face consequences of not being able to vote by mail",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2fjhcsf22f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T17:04:37.021+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f5354cbb7cff",
+   "title": "Obama Calls Out Two-Faced Trump for Being Friendly in Person and Critical From Afar",
+   "link": "https://www.mediaite.com/politics/obama-calls-out-two-faced-trump-for-being-friendly-in-person-and-critical-from-afar/",
+   "summary": "Former President Barack Obama revealed that President Donald Trump's attitude toward him changes drastically when the two are face-to-face. The post Obama Calls Out Two-Faced Trump for Being Friendly in Person and Critical From Afar first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T16:58:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "315810b65133",
+   "title": "BREAKING: BOSTON (AP) - Federal judge bars Trump from implementing proof of citizenship requirement to vote.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2eyi7ers2s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:55:07.532+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0221339649fe",
+   "title": "LIGRIS: I suspect you're quoting retweets or comments to other tweets WHITEHOUSE: No. They're your tweets. You're responsible for knowing what you said. Don't put it on us to have to explain to us your own tweets. This is your mess, not ours. If you can't explain that, that's on you.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2esj3euk2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:51:47.123+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "97978e785406",
+   "title": "WHITEHOUSE: You have tweets calling Donald Trump and Kamala Harris '2 clowns,' calling Murkowski 'almost as dumb as Kamala,' calling Sen. Collins 'a fraud,' calling Sen. Padilla a 'thug.' You didn't tell the DOJ about those tweets? LIGRIS: No",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2eqd7lx22f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:50:33.860+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f912d631c608",
+   "title": "But even the gas is more expensive now...",
+   "link": "https://bsky.app/profile/rbreich.bsky.social/post/3mp2em4xvzs2h",
+   "summary": "",
+   "source": "@rbreich",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:48:13.099+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "011369b5337d",
+   "title": "pandering to trump's election denialism is such a sure sign that the person is a fucking worm",
+   "link": "https://bsky.app/profile/jamellebouie.net/post/3mp2dpzwgyc2p",
+   "summary": "",
+   "source": "@jamellebouie",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:32:30.381+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "859aece19bf3",
+   "title": "BLUMENTHAL: Who won the 2020 election? JUDGE BYRNE: Joe Biden was declared the winner BLUMENTHAL: He was declared the winner? The people of America declared him the winner, correct? BRYNE: Um. There was an election.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2dk6sths2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:29:14.179+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cd0f07eb1347",
+   "title": "\"That's it?\" -- Durbin confronts a Trump DOJ nominee named Konstantinos Ligris with some of his tweets -- including calling Walz \"tampon Tim,\" Biden officials \"retarded,\" and referring to cops as \"dumb as dirt\" -- and Ligris doesn't even try to defend them, leaving Durbin dumbfounded",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2deryrkk2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:26:12.971+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "4258512b089b",
    "title": "‘A Strange Thing’: Obama Rips Trump Over ‘Obsession’ With Him",
    "link": "https://www.mediaite.com/politics/a-strange-thing-obama-rips-trump-over-obsession-with-him/",
@@ -381,6 +601,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T16:12:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1cb0662a1640",
+   "title": "He’s already calling it a “national emergency” we won’t let him takeover the elections with the SAVE Act. This is not good.",
+   "link": "https://bsky.app/profile/amandacarpenter.bsky.social/post/3mp2cg7jepk2i",
+   "summary": "",
+   "source": "@amandacarpenter",
+   "category": "trump_bsky",
+   "published": "2026-06-24T16:09:06.959+00:00",
    "iran_topic": false
   },
   {
@@ -514,56 +744,6 @@
    "iran_topic": false
   },
   {
-   "id": "37686a445ac3",
-   "title": "Lander: \"It's like being Mr Rogers, but with a steel spine\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp27znonuy22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:26:17.840+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "574f3cecddba",
-   "title": "Lander: \"Democratic voters are saying loud and clear they don't want to pay for any more of Netanyahu's wars\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp27w5g3wu2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:24:20.333+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "1b28bfc1ad26",
-   "title": "\"I'm doing my monthly budget spreadsheet, ChatGPT\" \"MMmm...don't stop!\"",
-   "link": "https://bsky.app/profile/dominicervolina.com/post/3mp27rmrlzg2a",
-   "summary": "",
-   "source": "@dominicervolina",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:21:48.638+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "63911a4500b9",
-   "title": "Elizabeth Warren said \"AI doesn't get to engage in a bunch of funky, hinky bookkeeping,\" but the CNBC chyron writer misheard her and wrote that she said \"kinky bookkeeping\" (look at the chyron at the end of this clip)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp27ozj7vf26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:20:21.419+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ca62705eb704",
-   "title": "Elizabeth Warren: \"The Republicans have distinguished themselves as a group by their absolute inability to stand up to Donald Trump. There has been only one basic move that Republicans in the Senate can make, and that is to bow down to the Great Trump.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp27h4uyl722",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:15:56.517+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "552d4d44d257",
    "title": "JUST IN: Trump Cancels Signing of Housing Bill at Last Minute to Make Major Demand",
    "link": "https://www.mediaite.com/media/news/just-in-trump-cancels-signing-of-housing-bill-that-would-lower-costs-at-last-minute-with-major-demand/",
@@ -574,86 +754,6 @@
    "iran_topic": false
   },
   {
-   "id": "933521733eec",
-   "title": "Warren: \"I'm sorry. If you're asking me to get into Trump's head and figure out what's going on there, you need somebody else. I don't have any idea. This just doesn't make any sense other than whatever it is he wants to do, it's a complete indifference to the cost squeeze on American families.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp27c7qeko2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:13:11.736+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b97168797172",
-   "title": "Folarin Balogun is an American and what Mike Johnson continues to make clear is that he despises Americans.",
-   "link": "https://bsky.app/profile/tusk81.bsky.social/post/3mp2774whus2b",
-   "summary": "",
-   "source": "@tusk81",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:11:28.136+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cdf8bc5f22a1",
-   "title": "Folarin Balogun is willingly playing under our flag and making us stronger and Johnson hates that. And that's just ignoring the stupidity of this xenophobia. I just tried to find Bologun's religion and couldn't find it so Johnson is being Islamophobic just because Balogun's parents are Nigerian?",
-   "link": "https://bsky.app/profile/darinself.com/post/3mp2756n3s22g",
-   "summary": "",
-   "source": "@darinself",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:10:22.816+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4bdfac7ead9",
-   "title": "We've officially reached the \"spinning a globe blindfolded and shouting random nouns\" stage of political rhetoric.",
-   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3mp272v36ls2l",
-   "summary": "",
-   "source": "@nofirstorder",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:09:05.684+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "42b54d6a8f05",
-   "title": "Mike Johnson suggest birthright citizens like US Men's National Team leading scorer Folarin Balogun are trying to \"transplant Sharia Law\" into the country",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp26lz4tis2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:00:46.615+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "928fed3c02d8",
-   "title": "Q: Republicans and the White House are celebrating the US Men's National Team, whose top scorer is a birthright citizen. How should Americans square that with efforts to criminalize birthright citizenship? MIKE JOHNSON: Like all good things it can be abused",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp26erxqhu26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:56:44.194+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a5baa9d11669",
-   "title": "Mike Johnson: \"This economy is gonna take off like a rocket, y'all. Because as Scott Bessent said, 2025 was like setting the table. The feast and the banquet in the economy is in 2026. We were doing that in the first quarter. We had the Iran skirmish. We settled that thing out. We're cooking w/gas.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp266ys3ty2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:53:30.050+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "fab040f781d6",
-   "title": "Mike Johnson talks about President Trump like he's a toddler: \"The president, when we go through the details of the bill, he's gonna understand it's a good product and something that fulfills his promises\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp265wxpn62q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:52:54.578+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "cac2b4c7f091",
    "title": "Trump Congratulates Zohran Mamdani on Getting ‘3 Solid Communists’ Elected in NYC",
    "link": "https://www.mediaite.com/politics/trump-congratulates-zohran-mamdani-on-getting-3-solid-communists-elected-in-nyc/",
@@ -661,26 +761,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T14:52:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2211a5b78d5b",
-   "title": "Q: In the process of this press conference, Trump announces he's canceling the bill signing for the bipartisan housing bill. Your reaction? MIKE JOHNSON: He has expressed his priority and preference of the SAVE America Act. We share that.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp263jgp2t2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:51:32.697+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2f1ad4870657",
-   "title": "The president has the temperament of a toddler.",
-   "link": "https://bsky.app/profile/jpmendelson.bsky.social/post/3mp25uobha222",
-   "summary": "",
-   "source": "@jpmendelson",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:47:43.480+00:00",
    "iran_topic": false
   },
   {
@@ -784,66 +864,6 @@
    "iran_topic": false
   },
   {
-   "id": "2dee22925327",
-   "title": "CNN’s Kaitlan Collins Calls BS on Trump Reflecting Pool ‘Knife’ Claim — With Video Receipt",
-   "link": "https://www.mediaite.com/media/news/cnns-kaitlan-collins-calls-bs-on-trump-reflecting-pool-knife-claim-with-video-receipt/",
-   "summary": "Kaitlan Collins called BS on Trump’s \"unproven\" claim that the Reflecting Pool was \"cut up\" with a \"knife\" — and dropped a fun video receipt for good measure. The post CNN’s Kaitlan Collins Calls BS on Trump Reflecting Pool ‘Knife’ Claim — With Video Receipt first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T12:44:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "30bad3ff9e5c",
-   "title": "Military Reinstates Flu Shot Requirement Amid Air Force Flu Outbreak Just Months After Hegseth Scrapped Mandate",
-   "link": "https://www.mediaite.com/media/news/military-requiring-flu-shots-again-as-air-force-flu-outbreak-grows-following-hegseth-scrapping-mandate/",
-   "summary": "Military branches are reintroducing flu shot requirements as an outbreak has been growing at Lackland Air Force Base, where new recruits are trained. The post Military Reinstates Flu Shot Requirement Amid Air Force Flu Outbreak Just Months After Hegseth Scrapped Mandate first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T12:31:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b3a471f21b86",
-   "title": "NYC Socialist Candidate Angrily Bolts Radio Interview After Being Pressed on Deleted Social Media Posts",
-   "link": "https://www.mediaite.com/politics/nyc-socialist-candidate-angrily-bolts-radio-interview-after-being-pressed-on-deleted-social-media-posts/",
-   "summary": "Socialist Darializa Avila Chevalier ditched a Spanish-language radio interview over questions about her old social media posts, hours before her upset victory The post NYC Socialist Candidate Angrily Bolts Radio Interview After Being Pressed on Deleted Social Media Posts first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T12:12:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6ff3385ba034",
-   "title": "Joe Scarborough Blames Benjamin Netanyahu for Defeat of Pro-Israel Dems in NYC: He’s the Reason ‘Israel is in Such Low Standing in America’",
-   "link": "https://www.mediaite.com/media/news/joe-scarborough-blames-benjamin-netanyahu-for-defeat-of-pro-israel-dems-in-nyc-hes-the-reason-israel-is-in-such-low-standing-in-america/",
-   "summary": "Joe Scarborough believes Netanyahu is responsible for the defeat of pro-Israel Democrats in Tuesday night's primary elections in New York. The post Joe Scarborough Blames Benjamin Netanyahu for Defeat of Pro-Israel Dems in NYC: He’s the Reason ‘Israel is in Such Low Standing in America’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T12:00:38+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6122939a785c",
-   "title": "Trump Blurts ‘No Women in the Crowd, Which is Nice’ In Bonkers Rant on WH UFC Fight Night",
-   "link": "https://www.mediaite.com/media/news/trump-blurts-no-women-in-the-crowd-which-is-nice-in-bonkers-rant-on-wh-ufc-fight-night/",
-   "summary": "Trump blurted out a celebration of the absence of women in the crowd during an over-the-top riff about the White House UFC event. The post Trump Blurts ‘No Women in the Crowd, Which is Nice’ In Bonkers Rant on WH UFC Fight Night first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T11:48:04+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d58677278730",
-   "title": "‘A Travesty!’ Larry David Says Trump’s UFC Fights Made Him ‘Embarrassed to Be an American’",
-   "link": "https://www.mediaite.com/media/entertainment/a-travesty-larry-david-says-trumps-ufc-fights-made-him-embarrassed-to-be-an-american/",
-   "summary": "Larry David had some extremely strong criticism of President Donald Trump's UFC Freedom 250 fight card — which was staged at the White House earlier this month. The post ‘A Travesty!’ Larry David Says Trump’s UFC Fights Made Him ‘Embarrassed to Be an American’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T10:48:28+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "66798f216d4d",
    "title": "Trump's disenfranchisement machine is besieging the courts",
    "link": "https://www.publicnotice.co/p/trump-mail-voting-rule",
@@ -852,16 +872,6 @@
    "category": "rupar_substack",
    "published": "2026-06-24T10:17:58+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "9246e60e8e34",
-   "title": "Trump Rages Against Senate and ‘Four Republican Losers’ for Crossing Him On Iran — Accuses Them of Giving ‘Aid and Comfort to the Enemy’",
-   "link": "https://www.mediaite.com/media/news/trump-rages-against-senate-and-four-republican-losers-for-crossing-him-on-iran-accuses-them-of-giving-aid-and-comfort-to-the-enemy/",
-   "summary": "The president, late Tuesday night, raged against the Senate and \"four Republican losers\" for delivering a stunning rebuke of his war in Iran. The post Trump Rages Against Senate and ‘Four Republican Losers’ for Crossing Him On Iran — Accuses Them of Giving ‘Aid and Comfort to the Enemy’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T10:03:39+00:00",
-   "iran_topic": true
   },
   {
    "id": "9045faa8cf2c",
@@ -962,16 +972,6 @@
    "category": "politico_wh",
    "published": "2026-06-23T21:24:28+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "e43afd10e60d",
-   "title": "BREAKING NYT: Government documents raise new doubts about Trump's unsubstantiated claim that \"vandals\" sabotaged the Reflecting Pool. There's no indication the peeling blue coating and algae blooms were caused intentionally — and the Trump admin knew that.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moycjcxucc2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:05:31.765+00:00",
-   "iran_topic": false
   }
  ]
 }
