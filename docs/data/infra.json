@@ -1,110 +1,110 @@
 {
- "generated": "2026-06-24T18:07:59.103489+00:00",
+ "generated": "2026-06-24T20:06:10.445852+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.96,
-   "change": -3.12,
-   "change_pct": -4.05,
+   "price": 73.35,
+   "change": -3.73,
+   "change_pct": -4.84,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    73.95999908447266
+    73.3499984741211
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.47,
-   "change": -2.74,
-   "change_pct": -3.74,
+   "price": 70.06,
+   "change": -3.15,
+   "change_pct": -4.3,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    70.47000122070312
+    70.05999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3995.1,
-   "change": -134.8,
-   "change_pct": -3.26,
+   "price": 4005.4,
+   "change": -124.5,
+   "change_pct": -3.01,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    3995.10009765625
+    4005.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.63,
-   "change": 0.22,
-   "change_pct": 0.22,
+   "price": 101.6,
+   "change": 0.19,
+   "change_pct": 0.19,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.63400268554688
+    101.5989990234375
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7355.95,
-   "change": -9.51,
-   "change_pct": -0.13,
+   "price": 7358.22,
+   "change": -7.24,
+   "change_pct": -0.1,
    "spark": [
     7420.10009765625,
     7500.580078125,
     7472.7900390625,
     7365.4599609375,
-    7355.9501953125
+    7358.22021484375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 106.8,
-   "change": -4.46,
-   "change_pct": -4.01,
+   "price": 106.26,
+   "change": -5.0,
+   "change_pct": -4.49,
    "spark": [
     114.2300033569336,
     114.87000274658203,
     112.69000244140625,
     111.26000213623047,
-    106.80000305175781
+    106.26000213623047
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.94,
-   "change": 0.45,
-   "change_pct": 2.31,
+   "price": 19.71,
+   "change": 0.22,
+   "change_pct": 1.13,
    "spark": [
     16.399999618530273,
     17.280000686645508,
     19.489999771118164,
-    19.940000534057617
+    19.709999084472656
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.25,
-   "change": 0.11,
-   "change_pct": 3.4,
+   "price": 3.26,
+   "change": 0.12,
+   "change_pct": 3.69,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.253999948501587
+    3.263000011444092
    ]
   }
  },
@@ -218,7 +218,28 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T18:07:22.530645+00:00",
+   "published": "2026-06-24T20:05:26.541591+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
+   "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
+   "source": "Press TV",
+   "published": "2026-06-24T20:05:26.535315+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp2kusyoga2h",
+   "source": "@reuters",
+   "published": "2026-06-24T18:40:26+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
+   "link": "https://www.al-monitor.com/originals/2026/06/chinas-foreign-minister-urges-swift-reopening-strait-hormuz-global-trade-xinhua",
+   "source": "Al-Monitor",
+   "published": "2026-06-24T18:36:38+00:00",
    "severity": "info"
   },
   {
@@ -297,27 +318,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-24T13:24:01+00:00",
    "severity": "info"
-  },
-  {
-   "title": "No plan for access to Iran’s attacked nuclear facilities without final deal, says deputy FM",
-   "link": "https://en.irna.ir/news/86192022/No-plan-for-access-to-Iran-s-attacked-nuclear-facilities-without",
-   "source": "IRNA",
-   "published": "2026-06-24T13:20:01+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-24T12:31:35+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump insists no Hormuz tolls as Iran, US make conflicting claims",
-   "link": "https://www.al-monitor.com/originals/2026/06/trump-insists-no-hormuz-tolls-iran-us-make-conflicting-claims",
-   "source": "Al-Monitor",
-   "published": "2026-06-24T12:24:42+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 12,
    "recent": [
     {
-     "title": "Plan To Evacuate Hundreds Of Ships Still Stranded From Strait Of Hormuz Closure Is Coalescing",
-     "link": "https://www.twz.com/news-features/plan-to-evacuate-hundreds-of-ships-still-stranded-from-strait-of-hormuz-closure-is-coalescing",
-     "source": "The Drive",
-     "published": "2026-06-24T18:06:05+00:00",
+     "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
+     "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
+     "source": "Press TV",
+     "published": "2026-06-24T20:05:26.535315+00:00",
+     "severity": "low"
+    },
+    {
+     "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
+     "link": "https://bsky.app/profile/reuters.com/post/3mp2kusyoga2h",
+     "source": "@reuters",
+     "published": "2026-06-24T18:40:26+00:00",
      "severity": "info"
     },
     {
-     "title": "Iran, Oman push to become administrators of Strait of Hormuz as toll system remains unclear",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-900414",
-     "source": "Jerusalem Post",
-     "published": "2026-06-24T17:59:34+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Has the worst of the Hormuz crisis passed?",
-     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/24/has-the-worst-of-the-hormuz-crisis-passed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-24T16:50:57+00:00",
+     "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
+     "link": "https://www.al-monitor.com/originals/2026/06/chinas-foreign-minister-urges-swift-reopening-strait-hormuz-global-trade-xinhua",
+     "source": "Al-Monitor",
+     "published": "2026-06-24T18:36:38+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,226 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "fda44e6ada2c",
+   "title": "Trump Reportedly Attacks GOP Senator For Missing Key Vote — While Campaigning With Him",
+   "link": "https://www.mediaite.com/media/news/trump-reportedly-attacks-gop-senator-for-missing-key-vote-while-campaigning-with-him/",
+   "summary": "President Trump reportedly targeted a senator during for missing a key vote — though the senator missed the vote because he was campaigning with Trump. The post Trump Reportedly Attacks GOP Senator For Missing Key Vote — While Campaigning With Him first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T20:00:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "61b03a6406f0",
+   "title": "The part I noticed was Thune walking away in the opposite direction at the end.",
+   "link": "https://bsky.app/profile/kristin-wilson.bsky.social/post/3mp2oxudzik2q",
+   "summary": "",
+   "source": "@kristin-wilson",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:53:44.128+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bcf38f1196a4",
+   "title": "CNN reports that Bill Cassidy lost his temper with Trump and \"berated the president for what has transpired in Iran, for not being clear with Congress about his actions in the region\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2oil6eke27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:45:10.992+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "687b1a98bcbc",
+   "title": "‘I Don’t Like a Few People’: Trump Dishes on ‘Really Great Meeting’ With Senate GOP Described as ‘Total Cluster F*ck’",
+   "link": "https://www.mediaite.com/media/news/i-dont-like-a-few-people-trump-dishes-on-really-great-meeting-with-senate-gop-described-as-total-cluster-fck/",
+   "summary": "President Donald Trump called a meeting the Senate GOP caucus \"really great\" shortly after it was described as a \"total cluster f*ck\" by another source. The post ‘I Don’t Like a Few People’: Trump Dishes on ‘Really Great Meeting’ With Senate GOP Described as ‘Total Cluster F*ck’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T19:39:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7c8174b97d79",
+   "title": "totally normal. nothing to see here. just extra handshaking at the lunch probably. (Saul Loeb/AFP and Kevin Dietsch/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2o26ui2k2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:37:08.522+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "72d2e17cbd17",
+   "title": "First to MS NOW: Senate Democrats are calling on the Postal Service not to move ahead with new mail-in ballot regulations that, they say, will \"establish President Trump's control over federal elections.\" Democrats fear the USPS could be transformed \"into a federal election administration agency.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2nxzwgck2d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:35:56.234+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6eea1c355fd0",
+   "title": "Fetterman Busts Out 80s Comedy Line to Slam Larry David’s White House UFC Fight Criticism",
+   "link": "https://www.mediaite.com/politics/fetterman-busts-out-80s-comedy-line-to-slam-larry-davids-white-house-ufc-fight-criticism/",
+   "summary": "John Fetterman busted out an Bill Murray '80s comedy reference as he slammed Larry David's criticism of the UFC fight at the White House. The post Fetterman Busts Out 80s Comedy Line to Slam Larry David’s White House UFC Fight Criticism first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T19:30:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc9e89edf943",
+   "title": "Tommy Tuberville on why he was one of five senators to oppose the bipartisan bill: \"Most of it is probably going to illegals\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2nia4cb62v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:27:05.806+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d3277be0a43d",
+   "title": "UN Ambassador Mike Waltz just makes shit up with impunity on Fox: \"The Iranian regime is absolutely desperate. I think no president has every negotiated from such a position of strength.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2ne2fbk72j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:24:45.304+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "260289c51127",
+   "title": "\"Constitutional lawyer\" Johnson ignores the fact that birthright citizenship is not simply a \"tradition\", but rather was incorporated into the Constitution via the 14th Amendment.",
+   "link": "https://bsky.app/profile/davidrlurie.com/post/3mp2nblesfs2w",
+   "summary": "",
+   "source": "@davidrlurie",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:23:22.779+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c0866a8da4d",
+   "title": "‘She’s Turned on Me’: Tim Dillon Says Bari Weiss Accused Him of Palling Around With Anti-Semites",
+   "link": "https://www.mediaite.com/media/shes-turned-on-me-tim-dillon-says-bari-weiss-accused-him-of-palling-around-with-anti-semites/",
+   "summary": "Comic Tim Dillon said CBS News boss Bari Weiss quit being his friend after she accused him of being part of a \"cultural space of anti-Semitism.\" The post ‘She’s Turned on Me’: Tim Dillon Says Bari Weiss Accused Him of Palling Around With Anti-Semites first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T19:21:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b3ed01959437",
+   "title": "Waltz: \"Those unfrozen funds are going to go into escrow. We control it. And they buy excess farmer crops.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2n6k3s7t2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:21:40.652+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "076308bce0bb",
+   "title": "KEILAR: The Heritage database of confirmed fraud cases shows fewer than 100 examples of noncitizens casting ballots between since 2000 ROSE: Well if it's not a problem, then it shouldn't be a problem to pass it KEILAR: I'm explaining to you why Rs are opposed. They say you are creating a problem",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2n4vic7s2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:20:45.599+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "efef954b9730",
+   "title": "UN Ambassador Mike Waltz: \"The British have a real problem on their hands in terms of their social spending compared to their defense spending. We need allies with real capability.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2mzihz5d2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:18:51.137+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "204369302e62",
+   "title": "Tuberville: \"If we don't do something with the filibuster and we don't get things passed, it'll be the last time we'll have a Republican president, a Republican Senate or a House. That's how fast this country is going down to communism.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2mjskgmo2d",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:10:04.979+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ebe009ba5a48",
+   "title": "\"He called people out\" -- if this Tommy Tuberville interview on Fox is any indication, Trump yelled at Senate Republicans during today's lunch",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2mimhlkn27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:09:24.967+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "47e792893838",
+   "title": "MS NOW Host Compliments Mike Johnson’s Trump Spin Talent After Surprise Bill Signing Cancelled: ‘He’s Very Good’",
+   "link": "https://www.mediaite.com/media/tv/ms-now-host-compliments-mike-johnsons-trump-spin-talent-after-surprise-bill-signing-cancelled-hes-very-good/",
+   "summary": "MS NOW's Katy Tur complimented Mike Johnson's talent for \"making everything seem normal\" after watching him spin President Trump's surprise bill cancellation. The post MS NOW Host Compliments Mike Johnson’s Trump Spin Talent After Surprise Bill Signing Cancelled: ‘He’s Very Good’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T19:06:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b332f4878069",
+   "title": "Marjorie Taylor Greene says she's \"DONE\" with the Republican Party.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2lyuetvk2m",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:00:36.487+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb7970a5540e",
+   "title": "Trump's hand (shown hear next to Rick Scott's) is looking nasty today (Saul Loeb/Getty)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2lycj6wk2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T19:00:17.740+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "52eec178278b",
+   "title": "Trump's message coming out of the Senate Republican lunch: \"We have the hottest country in the world ... Iran is agreeing to everything that I want. And they have to. Otherwise we just go back and do what we have to do.\" (Note how discolored his hand his.)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2lxbw5242y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T18:59:43.435+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "05f02854afdf",
+   "title": "‘A Total Cluster F*ck!’ GOP Senator Was ‘Yelling’ at Trump During Closed-Door Lunch Over Iran Deal",
+   "link": "https://www.mediaite.com/media/tv/gop-senator-was-yelling-at-trump-during-closed-door-lunch-over-iran-deal/",
+   "summary": "\"And apparently — in the words of this source, telling my colleague Mychael Schnell on the Hill — Cassidy was yelling at the president over this deal\" The post ‘A Total Cluster F*ck!’ GOP Senator Was ‘Yelling’ at Trump During Closed-Door Lunch Over Iran Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T18:46:28+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "dc4c901a8be9",
+   "title": "The View’s Sunny Hostin Celebrates Democratic Socialists Winning Big: ‘A Force to Be Reckoned With’",
+   "link": "https://www.mediaite.com/media/the-views-sunny-hostin-celebrates-democratic-socialists-winning-big-a-force-to-be-reckoned-with/",
+   "summary": "The View co-host Sunny Hostin was stoked three Democratic Socialists won in her hometown, saying \"perhaps it was time for change\" in the Democratic Party The post The View’s Sunny Hostin Celebrates Democratic Socialists Winning Big: ‘A Force to Be Reckoned With’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T18:16:18+00:00",
+   "iran_topic": false
+  },
   {
    "id": "907058986463",
    "title": "Awkward! House Republican Hypes Up Housing Bill — Not Realizing Trump Had Already Pulled the Plug",
@@ -564,36 +784,6 @@
    "iran_topic": false
   },
   {
-   "id": "011369b5337d",
-   "title": "pandering to trump's election denialism is such a sure sign that the person is a fucking worm",
-   "link": "https://bsky.app/profile/jamellebouie.net/post/3mp2dpzwgyc2p",
-   "summary": "",
-   "source": "@jamellebouie",
-   "category": "trump_bsky",
-   "published": "2026-06-24T16:32:30.381+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "859aece19bf3",
-   "title": "BLUMENTHAL: Who won the 2020 election? JUDGE BYRNE: Joe Biden was declared the winner BLUMENTHAL: He was declared the winner? The people of America declared him the winner, correct? BRYNE: Um. There was an election.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2dk6sths2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T16:29:14.179+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cd0f07eb1347",
-   "title": "\"That's it?\" -- Durbin confronts a Trump DOJ nominee named Konstantinos Ligris with some of his tweets -- including calling Walz \"tampon Tim,\" Biden officials \"retarded,\" and referring to cops as \"dumb as dirt\" -- and Ligris doesn't even try to defend them, leaving Durbin dumbfounded",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2deryrkk2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T16:26:12.971+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4258512b089b",
    "title": "‘A Strange Thing’: Obama Rips Trump Over ‘Obsession’ With Him",
    "link": "https://www.mediaite.com/politics/a-strange-thing-obama-rips-trump-over-obsession-with-him/",
@@ -601,16 +791,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T16:12:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1cb0662a1640",
-   "title": "He’s already calling it a “national emergency” we won’t let him takeover the elections with the SAVE Act. This is not good.",
-   "link": "https://bsky.app/profile/amandacarpenter.bsky.social/post/3mp2cg7jepk2i",
-   "summary": "",
-   "source": "@amandacarpenter",
-   "category": "trump_bsky",
-   "published": "2026-06-24T16:09:06.959+00:00",
    "iran_topic": false
   },
   {
@@ -624,46 +804,6 @@
    "iran_topic": false
   },
   {
-   "id": "9101f5db04b6",
-   "title": "Authentic frontier gibberish:",
-   "link": "https://bsky.app/profile/hammbear2024.bsky.social/post/3mp2c4pypzk26",
-   "summary": "",
-   "source": "@hammbear2024",
-   "category": "trump_bsky",
-   "published": "2026-06-24T16:03:48.694+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "150a5ddd753c",
-   "title": "Someone send Aaron beer money, today is a rough one.",
-   "link": "https://bsky.app/profile/skittles6.bsky.social/post/3mp2bnvftkk24",
-   "summary": "",
-   "source": "@skittles6",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:55:31.051+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89467d6ab1fd",
-   "title": "Rep. Derrick Van Orden: \"This war cost a tremendous amount of money, but let's remember how much money is wasted when these radical Muslim mullahs can turn on and off the Strait of Hormuz\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2bk6fyyx2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:53:26.252+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "5f5fa8bd0974",
-   "title": "Republican Sen. Jim Banks: \"Quit building ugly monuments and ugly buildings. America is a great country. We should build beautiful buildings that last forever.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2bgralz72q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:51:31.797+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4791674045e3",
    "title": "‘He Didn’t Answer’: NJ Democrat Slams Mamdani Over Response to Coffee Shop Controversy",
    "link": "https://www.mediaite.com/politics/he-didnt-answer-nj-democrat-slams-mamdani-over-response-to-coffee-shop-controversy/",
@@ -674,16 +814,6 @@
    "iran_topic": true
   },
   {
-   "id": "ab2c6eff7497",
-   "title": "hey, the news ain't all bad! I clip all sorts of news moments, some that may even make you feel hopeful, using @snapstream.com, the premier tool for social media video. If you want to clip like me, click the link for more info and to set up a demo.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2axdu4hk2f",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:42:54.447+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3a3a9e272c84",
    "title": "Judge Orders Trump Admin to Explain ‘The Purpose for and Status of the Tarp and Scaffolding’ on the Kennedy Center",
    "link": "https://www.mediaite.com/lawcrime/judge-orders-trump-admin-to-explain-the-purpose-for-and-status-of-the-tarp-and-scaffolding-on-the-kennedy-center/",
@@ -691,16 +821,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T15:40:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "13fea7333a04",
-   "title": "Lander on comparisons between his flank of the Democratic Party and the Tea Party: \"We're joyful about what it looks like to deliver. That is very different energy than what the Tea Party brought. We want to build something, not just break something.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2akj2heq2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:35:43.667+00:00",
    "iran_topic": false
   },
   {
@@ -714,53 +834,13 @@
    "iran_topic": false
   },
   {
-   "id": "39e50efc8f40",
-   "title": "Lander: \"We need to build bridges between more progressive candidates and moderate candidates. I knocked doors for Suozzi and Gillen. I joked that I did it in like a disguise mustache so I wouldn't hurt their chances. But I think part of the reason Goldman didn't win is he couldn't endorse Mamdani\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2aernjob22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:32:31.368+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89d8e3410452",
-   "title": "Lander: \"I look forward to helping elect Hakeem Jeffries to be the Speaker in January. He called to congratulate me and we had a good conversation. Primaries are where we work out the direction of the party ... the line is between fighters and folders\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2a7et63d2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:29:30.152+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "08b477965b45",
-   "title": "Lander: \"I'm more like the Josh Hart of Congress. I hustle after the loose ball and go get those rebounds.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2a4ozzcw2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T15:28:00.196+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "552d4d44d257",
-   "title": "JUST IN: Trump Cancels Signing of Housing Bill at Last Minute to Make Major Demand",
+   "title": "Trump Cancels Signing of Housing Bill at Last Minute to Make Major Demand",
    "link": "https://www.mediaite.com/media/news/just-in-trump-cancels-signing-of-housing-bill-that-would-lower-costs-at-last-minute-with-major-demand/",
-   "summary": "President Donald Trump announced on Wednesday the last-minute cancellation of him signing a housing bill as he demanded the Save America Act be passed. The post JUST IN: Trump Cancels Signing of Housing Bill at Last Minute to Make Major Demand first appeared on Mediaite .",
+   "summary": "President Donald Trump announced on Wednesday the last-minute cancellation of him signing a housing bill as he demanded the Save America Act be passed. The post Trump Cancels Signing of Housing Bill at Last Minute to Make Major Demand first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T15:13:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cac2b4c7f091",
-   "title": "Trump Congratulates Zohran Mamdani on Getting ‘3 Solid Communists’ Elected in NYC",
-   "link": "https://www.mediaite.com/politics/trump-congratulates-zohran-mamdani-on-getting-3-solid-communists-elected-in-nyc/",
-   "summary": "President Donald Trump gave New York City Mayor Zohran Mamdani kudos on getting \"3 solid Communists\" elected on Tuesday night during the Democratic primaries The post Trump Congratulates Zohran Mamdani on Getting ‘3 Solid Communists’ Elected in NYC first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T14:52:18+00:00",
    "iran_topic": false
   },
   {
@@ -771,26 +851,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T14:40:31.776+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ed099961f8a8",
-   "title": "‘Holy Sh*t’: Moderate Dems Reportedly Stunned After Mamdani-Backed Progressives Pull Off Upsets in NYC Primaries",
-   "link": "https://www.mediaite.com/politics/holy-sht-moderate-dems-reportedly-stunned-after-mamdani-backed-progressives-pull-off-upsets-in-nyc-primaries/",
-   "summary": "Moderate Democrats have reportedly been left scrambling following a trio of progressive wins in New York City primaries on Tuesday. The post ‘Holy Sh*t’: Moderate Dems Reportedly Stunned After Mamdani-Backed Progressives Pull Off Upsets in NYC Primaries first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T14:36:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "074c6b084242",
-   "title": "Letitia James ‘Disappointed’ in Mamdani After Progressives Sweep NY Primaries: ‘All of Us Are a Little Frustrated’",
-   "link": "https://www.mediaite.com/media/news/letitia-james-disappointed-in-mamdani-after-progressives-sweep-ny-primaries-all-of-us-are-a-little-frustrated/",
-   "summary": "Letitia James is among the Democratic leaders \"disappointed\" in Zohran Mamdani following candidates he backed knocking out two congressional incumbents. The post Letitia James ‘Disappointed’ in Mamdani After Progressives Sweep NY Primaries: ‘All of Us Are a Little Frustrated’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T14:23:37+00:00",
    "iran_topic": false
   },
   {
@@ -814,26 +874,6 @@
    "iran_topic": false
   },
   {
-   "id": "82ba4796cea7",
-   "title": "Ousted NYC Democrat Warns Anti-Semitism Will Be the ‘Undoing’ of USA — Right After He Was Banned From NYC Coffee Shop Over Israel Support",
-   "link": "https://www.mediaite.com/media/news/ousted-nyc-democrat-warns-anti-semitism-will-be-the-undoing-of-usa-right-after-he-was-banned-from-nyc-coffee-shop-over-israel-support/",
-   "summary": "Newly-ousted Rep. Dan Goldman (D-NY) warned antisemitism will be the \"undoing of our democracy\" during his concession speech on Tuesday night. The post Ousted NYC Democrat Warns Anti-Semitism Will Be the ‘Undoing’ of USA — Right After He Was Banned From NYC Coffee Shop Over Israel Support first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T13:50:29+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "ea5af7387060",
-   "title": "‘So Stupid’: Joe Scarborough Taunts Pete Hegseth After Vaccine Mandate Reversal Amid Flu Outbreak",
-   "link": "https://www.mediaite.com/media/tv/so-stupid-joe-scarborough-taunts-pete-hegseth-after-vaccine-mandate-reversal-amid-flu-outbreak/",
-   "summary": "Joe Scarborough kicked off Morning Joe with some hits to Pete Hegseth over a vaccine requirement reversal amid a flu outbreak at a San Antonio base. The post ‘So Stupid’: Joe Scarborough Taunts Pete Hegseth After Vaccine Mandate Reversal Amid Flu Outbreak first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T13:24:49+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "301c576f726e",
    "title": "First on MS NOW: House Oversight Ranking Member Robert Garcia is demanding answers about the failed reflecting pool renovations — including why the Trump admin pursued the project amid rising costs at home and the war in Iran and the decision-making process behind Trump's use of no-bid contracts.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mozypag2zk2v",
@@ -842,26 +882,6 @@
    "category": "trump_bsky",
    "published": "2026-06-24T13:15:12.471+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "d88c7ac5bcfe",
-   "title": "Dana White Reveals the Republican He’d Consider Staying Involved in Politics For",
-   "link": "https://www.mediaite.com/media/sports/dana-white-reveals-the-republican-hed-consider-staying-involved-in-politics-for/",
-   "summary": "UFC head Dana White revealed one politician other than President Trump could keep him involved in \"disgusting\" politics in 2028. The post Dana White Reveals the Republican He’d Consider Staying Involved in Politics For first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T13:06:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7144eddadaba",
-   "title": "Ro Khanna Vows Elon Musk Will Have to ‘Answer’ for Killing Millions With DOGE Cuts",
-   "link": "https://www.mediaite.com/politics/ro-khanna-vows-elon-musk-will-have-to-answer-for-killing-millions-with-doge-cuts/",
-   "summary": "Rep. Ro Khanna (D-CA) said he still plans on forcing Elon Musk to \"answer\" for his \"unconstitutional DOGE cuts\" once Democrats are back in control of Congress The post Ro Khanna Vows Elon Musk Will Have to ‘Answer’ for Killing Millions With DOGE Cuts first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T12:56:38+00:00",
-   "iran_topic": false
   },
   {
    "id": "66798f216d4d",
@@ -952,26 +972,6 @@
    "category": "trump_bsky",
    "published": "2026-06-23T23:06:34.730+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "2b533a665903",
-   "title": "White House Unveils President Trump’s America First Resilience Strategy",
-   "link": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
-   "summary": "The White House today released “President Trump’s America First Resilience Strategy,” a bold mandate that denies adversaries the ability to hold America and our core interests at risk. Resilience is a strategic capability that preserves our freedom of action, advances American interests, promotes prosperity, deters adversaries, multiplies and enables peace through strength, and reduces consequences [&#8230;] The post White House Unveils President Trump’s America First Resilience Strategy appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-23T21:28:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "401ecfeab958",
-   "title": "‘No one wants to talk about Iran’: White House hopes to pivot back to economy",
-   "link": "https://www.politico.com/news/2026/06/23/no-one-wants-to-talk-about-iran-white-house-hopes-to-pivot-back-to-economy-00972933",
-   "summary": "The administration is trying to reframe the conversation while batting down the critics.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-23T21:24:28+00:00",
-   "iran_topic": true
   }
  ]
 }
