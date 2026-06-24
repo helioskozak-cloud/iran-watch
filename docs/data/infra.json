@@ -1,43 +1,43 @@
 {
- "generated": "2026-06-24T21:44:49.006190+00:00",
+ "generated": "2026-06-24T22:53:55.771478+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.18,
-   "change": -3.9,
-   "change_pct": -5.06,
+   "price": 73.11,
+   "change": -3.97,
+   "change_pct": -5.15,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    73.18000030517578
+    73.11000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.87,
-   "change": -3.34,
-   "change_pct": -4.56,
+   "price": 69.83,
+   "change": -3.38,
+   "change_pct": -4.62,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    69.87000274658203
+    69.83000183105469
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4016.4,
-   "change": -113.5,
-   "change_pct": -2.75,
+   "price": 4020.3,
+   "change": -109.6,
+   "change_pct": -2.65,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4016.39990234375
+    4020.300048828125
    ]
   },
   "DX-Y.NYB": {
@@ -50,7 +50,7 @@
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.58200073242188
+    101.58399963378906
    ]
   },
   "^GSPC": {
@@ -98,13 +98,13 @@
    "label": "Nat Gas",
    "symbol": "NG=F",
    "price": 3.26,
-   "change": 0.12,
-   "change_pct": 3.72,
+   "change": 0.11,
+   "change_pct": 3.56,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2639999389648438
+    3.259000062942505
    ]
   }
  },
@@ -218,15 +218,22 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T21:44:12.934798+00:00",
+   "published": "2026-06-24T22:52:57.790583+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-24T21:44:12.927443+00:00",
+   "published": "2026-06-24T22:52:57.783645+00:00",
    "severity": "low"
+  },
+  {
+   "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
+   "source": "r/worldnews",
+   "published": "2026-06-24T19:59:09+00:00",
+   "severity": "info"
   },
   {
    "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
@@ -311,13 +318,6 @@
    "source": "Al-Monitor",
    "published": "2026-06-24T13:36:44+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Oil falls below $74 as Hormuz traffic recovers after Iran war",
-   "link": "https://www.al-monitor.com/originals/2026/06/oil-falls-below-74-hormuz-traffic-recovers-after-iran-war",
-   "source": "Al-Monitor",
-   "published": "2026-06-24T13:24:01+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,21 +331,21 @@
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-24T21:44:12.927443+00:00",
+     "published": "2026-06-24T22:52:57.783645+00:00",
      "severity": "low"
+    },
+    {
+     "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
+     "source": "r/worldnews",
+     "published": "2026-06-24T19:59:09+00:00",
+     "severity": "info"
     },
     {
      "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
      "link": "https://bsky.app/profile/reuters.com/post/3mp2kusyoga2h",
      "source": "@reuters",
      "published": "2026-06-24T18:40:26+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
-     "link": "https://www.al-monitor.com/originals/2026/06/chinas-foreign-minister-urges-swift-reopening-strait-hormuz-global-trade-xinhua",
-     "source": "Al-Monitor",
-     "published": "2026-06-24T18:36:38+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "e7df645a1005",
+   "title": "‘I’m Done, I’m Not in That F*cking Political Party’: James Carville Freaks Out After Progressives Win Big in Democratic Primaries",
+   "link": "https://www.mediaite.com/media/news/im-done-im-not-in-that-fcking-political-party-james-carville-freaks-out-after-progressives-win-big-in-democratic-primaries/",
+   "summary": "Democratic strategist James Carville called for a \"schism\" in the Democratic Party, stating that he wants nothing to do with the likes of three candidates who won their Democratic primaries in New York. The post ‘I’m Done, I’m Not in That F*cking Political Party’: James Carville Freaks Out After Progressives Win Big in Democratic Primaries first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T22:43:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "58cfc804be3e",
+   "title": "Sean Hannity Addresses Concerns About His Voice in Candid Social Media Post",
+   "link": "https://www.mediaite.com/online/sean-hannity-addresses-concerns-about-his-voice-in-candid-social-media-post/",
+   "summary": "Fox News host Sean Hannity addressed concerns about his recent symptoms — including a \"raspy voice\" and \"puffy face\" — in a Wednesday X post, revealing he suffered a \"painful pinched nerve\" in his neck. The post Sean Hannity Addresses Concerns About His Voice in Candid Social Media Post first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T22:32:13+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f72133a56b1d",
+   "title": "Bessent: \"Remember Baghdad Bob from Iraq? It's kind of Tehran Tim.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2xpd5o7r2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T22:30:01.130+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "853890443b40",
+   "title": "Bessent on removing sanctions on Iranian oil: \"It is a carrot that we can always pull back. We want them to see what it feels like not having the sanctions on.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2xnstjyo2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T22:29:10.664+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "8816ae57ea16",
+   "title": "Trump is not going to like this Fox News graphic",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp2xky7hvi2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T22:27:35.363+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "33c67b3f872f",
+   "title": "GOP Congressional Candidate in Florida Posts Ad Absurdly Calling for Joe Biden to Be Deported",
+   "link": "https://www.mediaite.com/politics/gop-congressional-candidate-in-florida-posts-ad-absurdly-calling-for-joe-biden-to-be-deported/",
+   "summary": "The former president is, as the position constitutionally mandates, a natural-born U.S. citizen and there is no procedure to deport natural-born U.S. citizens. The post GOP Congressional Candidate in Florida Posts Ad Absurdly Calling for Joe Biden to Be Deported first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T22:25:01+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2453dcdc97c4",
+   "title": "House Republican Pressed on Accusations She Used AI to Write a Defense Bill",
+   "link": "https://www.mediaite.com/politics/house-republican-pressed-on-accusations-she-used-ai-to-write-a-defense-bill/",
+   "summary": "\"Okay, so Congresswoman, what do you say to critics who are saying that you are using ChatGPT to write legislative texts?” The post House Republican Pressed on Accusations She Used AI to Write a Defense Bill first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T21:46:31+00:00",
+   "iran_topic": false
+  },
   {
    "id": "93df2719529a",
    "title": "Today was an *extremely* heavy day for clips w/multiple big hearings, pressers, & an Oval Office event. If you appreciate my efforts to bring you the newsiest clips from all of them, pls support what I do by signing up for my newsletter. I think you'll enjoy PN & paid subs make my work possible. Thx",
@@ -644,36 +714,6 @@
    "iran_topic": false
   },
   {
-   "id": "2efb67cbd111",
-   "title": "OMG -- Rutte even brought visual aids to enhance his Trump ass kissing",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2qz73vek2j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:30:16.172+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aeb705662040",
-   "title": "Trump on the new UK incoming prime minster: \"I don't know anything. I hear he's extremely liberal. Extremely. So that means he probably won't open up the North Sea.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2qwbwaam2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:28:37.360+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3dc183d69eb1",
-   "title": "Rutte preposterously claims that NATO \"is so much stronger\" because of Trump",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2qts3bh62c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:27:14.883+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6f5bad99825a",
    "title": "Trump Administration Spent at Least $11 Billion Paying Federal Workers Not to Work",
    "link": "https://www.mediaite.com/media/news/the-trump-administration-spent-at-least-11-billion-paying-federal-workers-not-to-work/",
@@ -814,36 +854,6 @@
    "iran_topic": false
   },
   {
-   "id": "ba00b28254be",
-   "title": "Elizabeth Warren Fires Back After Trump Cancels Signing Housing Bill By Calling Him Desperate: ‘He Is In Trouble’",
-   "link": "https://www.mediaite.com/media/tv/elizabeth-warren-fires-back-after-trump-cancels-signing-housing-bill-by-calling-him-desperate-he-is-in-trouble/",
-   "summary": "Sen. Elizabeth Warren (D-MA) fired back at President Donald Trump and called him desperate after he cancelled at the last minute signing a bill she had co-sponsored. The post Elizabeth Warren Fires Back After Trump Cancels Signing Housing Bill By Calling Him Desperate: ‘He Is In Trouble’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T17:24:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3980f21f3a92",
-   "title": "‘This Is How It Started in Nazi Germany!’ Protester Fumes Over Coffee Shop Banning Pro-Israel Democrat",
-   "link": "https://www.mediaite.com/media/this-is-how-it-started-in-nazi-germany-protester-fumes-over-coffee-shop-banning-pro-israel-democrat/",
-   "summary": "A female protester slammed the New York City coffee shop that banned Rep. Dan Goldman (R-NY) for his Pro-Israel views, saying it was akin to Nazi Germany The post ‘This Is How It Started in Nazi Germany!’ Protester Fumes Over Coffee Shop Banning Pro-Israel Democrat first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T17:10:37+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "f5354cbb7cff",
-   "title": "Obama Calls Out Two-Faced Trump for Being Friendly in Person and Critical From Afar",
-   "link": "https://www.mediaite.com/politics/obama-calls-out-two-faced-trump-for-being-friendly-in-person-and-critical-from-afar/",
-   "summary": "Former President Barack Obama revealed that President Donald Trump's attitude toward him changes drastically when the two are face-to-face. The post Obama Calls Out Two-Faced Trump for Being Friendly in Person and Critical From Afar first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T16:58:26+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "315810b65133",
    "title": "BREAKING: BOSTON (AP) - Federal judge bars Trump from implementing proof of citizenship requirement to vote.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2eyi7ers2s",
@@ -851,16 +861,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T16:55:07.532+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4258512b089b",
-   "title": "‘A Strange Thing’: Obama Rips Trump Over ‘Obsession’ With Him",
-   "link": "https://www.mediaite.com/politics/a-strange-thing-obama-rips-trump-over-obsession-with-him/",
-   "summary": "Ex-President Barack Obama said he finds President Donald Trump's \"obsession\" with him to be a \"strange\" thing during an interview on the All the Smoke podcast The post ‘A Strange Thing’: Obama Rips Trump Over ‘Obsession’ With Him first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T16:12:56+00:00",
    "iran_topic": false
   },
   {
