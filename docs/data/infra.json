@@ -1,17 +1,17 @@
 {
- "generated": "2026-06-23T23:40:59.641855+00:00",
+ "generated": "2026-06-24T01:37:21.323244+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 76.69,
-   "change": -1.21,
-   "change_pct": -1.55,
+   "price": 76.73,
+   "change": -1.17,
+   "change_pct": -1.5,
    "spark": [
     79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    76.69000244140625
+    76.7300033569336
    ]
   },
   "CL=F": {
@@ -30,27 +30,27 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4114.4,
-   "change": -67.5,
-   "change_pct": -1.61,
+   "price": 4113.8,
+   "change": -68.1,
+   "change_pct": -1.63,
    "spark": [
     4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4114.39990234375
+    4113.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.39,
-   "change": 0.37,
-   "change_pct": 0.37,
+   "price": 101.44,
+   "change": 0.42,
+   "change_pct": 0.42,
    "spark": [
     100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.38999938964844
+    101.44000244140625
    ]
   },
   "^GSPC": {
@@ -99,12 +99,12 @@
    "symbol": "NG=F",
    "price": 3.19,
    "change": -0.06,
-   "change_pct": -1.91,
+   "change_pct": -1.81,
    "spark": [
     3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.190999984741211
+    3.194000005722046
    ]
   }
  },
@@ -218,14 +218,35 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-23T23:40:23.938212+00:00",
+   "published": "2026-06-24T01:30:46.079084+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-23T23:40:23.932424+00:00",
+   "published": "2026-06-24T01:30:46.074739+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
+   "link": "https://www.timesofisrael.com/rubio-iran-will-not-be-allowed-to-charge-tolls-in-strait-of-hormuz-under-any-final-deal/",
+   "source": "Times of Israel",
+   "published": "2026-06-24T00:42:57+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-24T00:00:00+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-23T23:49:00+00:00",
    "severity": "info"
   },
   {
@@ -297,27 +318,6 @@
    "source": "IRNA",
    "published": "2026-06-23T15:59:34+00:00",
    "severity": "info"
-  },
-  {
-   "title": "IAEA chief, Trump says Iran agreed to nuclear inspections, Tehran denies deal - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-900265",
-   "source": "Jerusalem Post",
-   "published": "2026-06-23T15:34:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "A United Nations agency said Tuesday that a plan is underway to evacuate 11,000 stranded seafarers through the Strait of Hormuz.",
-   "link": "https://bsky.app/profile/apnews.com/post/3moxpilhi7p2x",
-   "source": "@apnews",
-   "published": "2026-06-23T15:25:05+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-   "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-23T14:55:31+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 12,
    "recent": [
     {
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-23T23:40:23.932424+00:00",
+     "published": "2026-06-24T01:30:46.074739+00:00",
      "severity": "info"
     },
     {
-     "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+     "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
+     "link": "https://www.timesofisrael.com/rubio-iran-will-not-be-allowed-to-charge-tolls-in-strait-of-hormuz-under-any-final-deal/",
+     "source": "Times of Israel",
+     "published": "2026-06-24T00:42:57+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-06-23T21:00:32+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3moxy6eop6k2j",
-     "source": "@warontherocks",
-     "published": "2026-06-23T18:00:25.234+00:00",
+     "published": "2026-06-24T00:00:00+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,66 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "b9fa44c5a5cd",
+   "title": "Hoyer alum Adrian Boafo wins Maryland House primary with help of crypto, pro-Israel money",
+   "link": "https://www.politico.com/news/2026/06/23/boafo-wins-maryland-house-primary-00973131",
+   "summary": "The Democratic state delegate defeated a crowded 24-person field in the race to replace retiring Rep. Steny Hoyer in the 5th District.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-24T01:30:47+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3d864c7a0ebd",
+   "title": "Kaitlan Collins Informs Congressional Candidate on CNN He Just Won: ‘I’m Gonna Do Something Unusual Here…’",
+   "link": "https://www.mediaite.com/media/news/kaitlan-collins-informs-congressional-candidate-on-cnn-he-just-won-im-gonna-do-something-unusual-here/",
+   "summary": "CNN's Kaitlan Collins informed Democrat Brad Lander live that he'd defeated Rep. Dan Goldman in his Tuesday primary in an unusual television moment. The post Kaitlan Collins Informs Congressional Candidate on CNN He Just Won: ‘I’m Gonna Do Something Unusual Here…’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T01:22:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e62c4cd666e",
+   "title": "WASHINGTON (AP) — Brad Lander wins Democratic nomination for U.S. House in New York's 10th Congressional District.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moyq6n774k2k",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-24T01:10:05.778+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c23336615a29",
+   "title": "Trump Invokes ‘The Late, Great Pee-Wee Herman’ to Slam Senator",
+   "link": "https://www.mediaite.com/media/news/trump-invokes-the-late-great-pee-wee-herman-to-slam-senator/",
+   "summary": "President Donald Trump invoked the \"late, great\" Pee-Wee Herman to slam a Democratic senator's looks in a Tuesday Truth Social post. The post Trump Invokes ‘The Late, Great Pee-Wee Herman’ to Slam Senator first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T00:02:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6eb53d01a688",
+   "title": "AOC Dunks on Trump Over Reflecting Pool Debacle: ‘They Turned It Into an Actual Swamp’",
+   "link": "https://www.mediaite.com/politics/aoc-dunks-on-trump-over-reflecting-pool-debacle-they-turned-it-into-an-actual-swamp/",
+   "summary": "Rep. Alexandria Ocasio-Cortez mocked President Donald Trump and his efforts to renovate the Lincoln Memorial Reflecting Pool, which is now very green thanks to algae blooms. The post AOC Dunks on Trump Over Reflecting Pool Debacle: ‘They Turned It Into an Actual Swamp’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T00:01:20+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "07bb23294549",
+   "title": "Trump Brags About Endorsing Winning Candidate After Also Endorsing the Loser in Same Race",
+   "link": "https://www.mediaite.com/politics/trump-brags-about-endorsing-winning-candidate-after-also-endorsing-the-loser-in-same-race/",
+   "summary": "President Donald Trump took credit after a candidate he endorsed won a primary on Tuesday night in a race in which he also endorsed the loser. The post Trump Brags About Endorsing Winning Candidate After Also Endorsing the Loser in Same Race first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-23T23:50:51+00:00",
+   "iran_topic": false
+  },
   {
    "id": "0def8e5448f2",
    "title": "BREAKING: A Trump-endorsed candidate just defeated a Trump-endorsed candidate in the Republican primary for governor in South Carolina.",
@@ -434,16 +494,6 @@
    "iran_topic": false
   },
   {
-   "id": "45138f867579",
-   "title": "wat",
-   "link": "https://bsky.app/profile/sky.skymarchini.net/post/3moyfz5rmlk2x",
-   "summary": "",
-   "source": "@sky",
-   "category": "trump_bsky",
-   "published": "2026-06-23T22:08:04.414+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8bec0b17ead2",
    "title": "Karoline Leavitt Shares Poll Showing ‘Broad Support’ for Trump Iran Peace Deal — But It Also Shows 80% Think It’ll Probably Fall Apart",
    "link": "https://www.mediaite.com/media/news/karoline-leavitt-shares-poll-showing-broad-support-for-trump-iran-peace-deal-but-it-also-shows-80-think-itll-probably-fall-apart/",
@@ -461,36 +511,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T22:01:56+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "31a06d9aaa40",
-   "title": "\"When people lie about Michelle Obama’s gender, they aren’t really trying to convince voters (or UFC fans) of anything. Rather, these smears are deployed to assure an in group of bigots and fascists that they have the right, and the power, to determine whose identity is respected and whose is not.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moyepe2ank2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:44:41.703+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "da9ea78ceda0",
-   "title": "Sen. Tuberville: \"Obama's a crook. Let's put 'em in jail.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moyel4al4s2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:42:19.304+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1f2699d5c022",
-   "title": "Tuberville: \"I would imagine Bill Pulte being over the housing in this country has a little mortgage fraud on some people in New York and maybe even a few congressmen and senators\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moyefzgbn22e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:39:28.572+00:00",
    "iran_topic": false
   },
   {
@@ -534,16 +554,6 @@
    "iran_topic": true
   },
   {
-   "id": "90a366fd0436",
-   "title": "Rep. Jason Smith: \"The Jewish people are welcome in the Republican Party, and they can come here and support us\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moydcsexs62n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:19:46.778+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8d53420a2660",
    "title": "‘I Dare You’: Megyn Kelly Issues Scathing Challenge to The View to Host Austin Metcalf’s Father",
    "link": "https://www.mediaite.com/media/podcasts/i-dare-you-megyn-kelly-issues-scathing-challenge-to-the-view-to-host-austin-metcalfs-father/",
@@ -561,16 +571,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-23T21:05:31.765+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c444098df2ad",
-   "title": "Jeffries: \"When Pete Hegseth comes up to Capitol Hill tomorrow, what he should do is submit his letter of resignation\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moychy54zc2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T21:04:46.849+00:00",
    "iran_topic": false
   },
   {
@@ -594,16 +594,6 @@
    "iran_topic": false
   },
   {
-   "id": "4170767be3b7",
-   "title": "Josh Hawley on Pride hats: \"Let's get back to God and country and playing some baseball and stop all this woke garbage\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moyboadqbo2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:50:23.027+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d000220af887",
    "title": "‘It Hurts My Heart So Much’: Joy Reid Can’t Bear Thought of Knicks Visiting Trump White House",
    "link": "https://www.mediaite.com/politics/it-hurts-my-heart-so-much-joy-reid-cant-bear-thought-of-knicks-visiting-trump-white-house/",
@@ -621,26 +611,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T20:44:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4a2a998cad5",
-   "title": "lollllll -- Ossoff proposes a motion that would ban senators from trading stocks and crypto, prompting Sen. Lummis (who loves crypto) to immediately object",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moybbi4nbt2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:43:14.981+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7e11d5895c1b",
-   "title": "Clearest proof we've seen that he thinks refugees claiming political asylum were refugees from an actual insane asylum. The leader of the United States is dumber than dirt but there's an entire cult enabling him and a corporate media too cowardly to call them out.",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3moyaqixetk2s",
-   "summary": "",
-   "source": "@kevinmkruse",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:33:45.438+00:00",
    "iran_topic": false
   },
   {
@@ -674,16 +644,6 @@
    "iran_topic": false
   },
   {
-   "id": "44eaa3709851",
-   "title": "closing in on 90 minutes into his speech in Pennsylvania, Trump is still ranting and raving incoherently and his audience is totally silent",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy7l4fih527",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:12:50.748+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1feb2c7eb608",
    "title": "Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels",
    "link": "https://www.mediaite.com/media/news/shock-report-shows-factory-layoffs-at-financial-crisis-pandemic-levels/",
@@ -691,56 +651,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-23T20:10:55+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1b7ca4dfa6ca",
-   "title": "Trump: \"Some countries had no mental institutions. The mental institutions were taken -- all of those people were taken to our southern border and allowed to just walk freely into our country under Sleepy Joe Biden.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy7eorro427",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:09:15.142+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d799b216002",
-   "title": "Trump can't remember the name of TrumpRx -- \"Go to Trump dot com\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy77ug4i622",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:06:33.281+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4911a601033",
-   "title": "Trump: \"A friend of man who's extremely fat, sloppy, but very brilliant. He's a brilliant businessman but he's a slob.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy75ae65u2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:05:05.137+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "912bd21227ed",
-   "title": "Trump brags about cutting drug prices by 600 percent",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy747ea4m2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:04:30.536+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8780105552f9",
-   "title": "\"You've got the big strong muscles\" -- Trump has been obsessed with big strong muscular men lately and it's continuing today during his speech in PA",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy72tkbxd2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T20:03:44.597+00:00",
    "iran_topic": false
   },
   {
@@ -754,16 +664,6 @@
    "iran_topic": true
   },
   {
-   "id": "e29f1fd17085",
-   "title": "Trump: \"Thanks as well to the president of the NRA who is here with me. I saved the Second Amendment. The NRA has been with me right from the beginning. How do you feel about national right to carry? We're working on it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy6hfcxbp2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:52:52.144+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "891073f55135",
    "title": "Reuters: U.S. SENATE VOTES TO HALT IRAN WAR UNLESS TRUMP GETS APPROVAL FROM CONGRESS",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moy6cqld6k2k",
@@ -774,26 +674,6 @@
    "iran_topic": true
   },
   {
-   "id": "f33e1939e46b",
-   "title": "Trump: \"They used to call it the Rust Belt. I call it the Money Belt now.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy6av7xf62o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:49:13.938+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9be42db47de0",
-   "title": "The fact that @atrupar.com can listen to this live, type it out verbatim, and not just close his laptop and walk into the ocean is a testament to human endurance.",
-   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3moy5zd4tok2w",
-   "summary": "",
-   "source": "@nofirstorder",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:45:00.089+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "dbacf672b568",
    "title": "Frank Luntz Says Trump’s Endorsement Is So Powerful He Doesn’t Need to Rally for Republicans",
    "link": "https://www.mediaite.com/media/tv/frank-luntz-says-trumps-endorsement-is-so-powerful-he-doesnt-need-to-rally-for-republicans/",
@@ -802,116 +682,6 @@
    "category": "mediaite_all",
    "published": "2026-06-23T19:42:14+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "ddeb020a8400",
-   "title": "‘That Process Is Separate’: Rubio Draws Hard Line Between Israel-Hezbollah War and Iran Negotiations Despite Vance MOU",
-   "link": "https://www.mediaite.com/media/news/that-process-is-separate-rubio-draws-hard-line-between-israel-hezbollah-war-and-iran-negotiations-despite-vance-mou/",
-   "summary": "Secretary of State Marco Rubio argued that the negotiations between the U.S. and Iran and those between Israel and Lebanon are \"separate\" on Tuesday. The post ‘That Process Is Separate’: Rubio Draws Hard Line Between Israel-Hezbollah War and Iran Negotiations Despite Vance MOU first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:39:22+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "5e2c4da024f2",
-   "title": "Trump is just forging ahead with his speech as there's a medical emergency in the crowd directly behind him",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy5ixz5r224",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:35:51.565+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "79ab022d2786",
-   "title": "Trump: \"The ideology of the Mooslims is slightly diferent than the ideology of the Catholics. We have the Catholics and the Mooslims. Slightly different. But Venezuela has been great and Iran has been great.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy5cehxnl25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:32:09.745+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "eb7ac3216822",
-   "title": "Trump claims that Steve Hilton advanced in the California gubernatorial election only after he called a US Attorney and demanded the state stop \"rigging\" the race",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy4zcl3b52a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:27:05.760+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "88201063b89f",
-   "title": "Trump's audience is silent as he rants and raves: \"Hey, did they screw the kid, Pratt? Boy. He's leading and all of the sudden he's lost!\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy4vpry6q22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:25:05.400+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9595ffd3041c",
-   "title": "Trump's audience in Pennsylvania sits in uncomfortable silence as he does his mocking impersonation of transgender weightlifter",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy4vhnmdf2n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:24:56.866+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1ff6c3eb5566",
-   "title": "Trump: \"I won three elections. We did great on the second one. It was a rigged deal.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy4rjcs4y2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:22:44.393+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "81edd7b53a9b",
-   "title": "checking in on the guy with the nuclear codes",
-   "link": "https://bsky.app/profile/atrupar.com/post/3moy4ndm62t2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-23T19:20:24.193+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "4b022a05c159",
-   "title": "CBS’s Ed O’Keefe Demolishes Trump’s Claim the Reflecting Pool Was Vandalized With a ‘Knife’",
-   "link": "https://www.mediaite.com/politics/cbss-ed-okeefe-demolishes-trumps-claim-the-reflecting-pool-was-vandalized-with-a-knife/",
-   "summary": "“So we asked. But neither the White House, Interior Department, nor National Park Service has provided any more proof.\" The post CBS’s Ed O’Keefe Demolishes Trump’s Claim the Reflecting Pool Was Vandalized With a ‘Knife’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:12:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9ff693f8edcb",
-   "title": "‘That Is Insane!’ Paul Manafort Stuns Sean Hannity with Robert Mueller Story",
-   "link": "https://www.mediaite.com/media/podcasts/that-is-insane-paul-manafort-stuns-sean-hannity-with-robert-mueller-story/",
-   "summary": "Paul Manafort blew Sean Hannity away while telling me a story involving former FBI Director Robert Mueller from his time in prison. The post ‘That Is Insane!’ Paul Manafort Stuns Sean Hannity with Robert Mueller Story first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:08:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "412f706cd916",
-   "title": "Trump Lashes Out When NewsNation Reporter Confronts Him Over Billions For War ‘When So Many Are Financially Struggling’",
-   "link": "https://www.mediaite.com/media/news/trump-lashes-out-when-newsnation-reporter-confronts-him-over-billions-for-war-when-so-many-are-financially-struggling/",
-   "summary": "Trump lashed out when NewsNation's Hannah Brandt asked about an additional $80 billion Iran War funding request amid financial struggles for most Americans. The post Trump Lashes Out When NewsNation Reporter Confronts Him Over Billions For War ‘When So Many Are Financially Struggling’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T19:08:08+00:00",
-   "iran_topic": true
   },
   {
    "id": "f135ee48f018",
@@ -971,6 +741,236 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-23T13:30:16.587+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d79d536d20e5",
+   "title": "Breaking MS NOW: Firings are underway at the Office of the Director of National Intelligence. This month, Trump said he planned to ask acting DNI Bill Pulte to \"execute the immediate and needed downsizing of the office, reverting staff to their home agencies.\" www.ms.now/news/directo...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moxhfv4yxc2d",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T13:00:25.562+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "299c0323cbed",
+   "title": "UFC fighter's Michelle Obama smear reveals much about MAGA bigotry",
+   "link": "https://www.publicnotice.co/p/ufc-michelle-obama",
+   "summary": "There's a reason she's been a target for so long.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-23T10:17:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1189d61b3642",
+   "title": "Trump Reportedly Fixated on Ordering Trees at Beginning of Iran War: ‘I Know How To Buy Good Trees’",
+   "link": "https://www.mediaite.com/media/print/trump-reportedly-fixated-on-ordering-trees-at-beginning-of-iran-war-i-know-how-to-buy-good-trees/",
+   "summary": "Trump was reportedly fixated on ordering maple trees for the WH in the early weeks of the Iran War and boasted of his prowess in purchasing \"good trees.\" The post Trump Reportedly Fixated on Ordering Trees at Beginning of Iran War: ‘I Know How To Buy Good Trees’ first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-23T03:18:21+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "406cb9426410",
+   "title": "FLAG: Trump says he's preparing a lawsuit against ABC for \"false reporting\" about the reflecting pool. There's no evidence of false reporting.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mow624o7oc2b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-23T00:40:07.397+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "eec9f5b4494c",
+   "title": "Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’",
+   "link": "https://www.mediaite.com/politics/trump/trump-says-hes-preparing-lawsuits-against-abc-for-false-reporting/",
+   "summary": "President Donald Trump said his administration is about to sue ABC over its reporting on the Lincoln Memorial Reflecting Pool. The post Trump Says He’s ‘Preparing Lawsuits Against ABC for False Reporting’ first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-23T00:37:40+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3228325fa7c2",
+   "title": "David Hearn: I went over and furnished my id and kind of before I knew it, I was being handcuffed and realized I was being arrested.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mow4qezkof25",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-23T00:16:46.729+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0c71515581e9",
+   "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
+   "summary": "On this day 81 years ago, American forces emerged victorious from the Battle of Okinawa, a grueling test of American might, will, and sacrifice that would echo through the ages.&#160; As Imperial Japan mounted one of its final and most ferocious defenses, our Nation’s courageous heroes battled their way across the island and broke the [&#8230;] The post America 250: Presidential Message on the Anniversary of the Battle of Okinawa appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-23T00:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "861b28360878",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy6ukzjc24",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:55:24.225+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f05d80d57ae5",
+   "title": "Warner: Pulte could claim, whether there’s a source of intelligence or not, that China is going to do X. He could claim that there might be a terrorist threat around polling stations. All of it could be used as an excuse to try to shut down the election.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movy3pcszz2l",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:53:37.744+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "64fd69dc9f89",
+   "title": "Full interview and more from MeidasTouch here: www.youtube.com/live/uNpwLGq...",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxsjng7224",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:48:30.117+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d3ee8f7a63c",
+   "title": "Welch: Biden did what they wanted. Biden allowed a blank check for Bibi. He just wouldn’t bomb Iran. And they betrayed that support, and they went and sought refuge with the bigots… I saw this coming all along, but they’re finding out just like the women for Trump are finding out.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movxpa5pzw2p",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T22:46:39.226+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "db9a9c89ce9d",
+   "title": "MacFarlane: You have a smell that's emanating now that is reminiscent of a high school locker room. You have a police force and National Guard presence that is profound. It's like a jewel heist from the muppet caper is going to happen. It seems to be a misappropriation of resources.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movuzqlm4e2h",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T21:58:50.933+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6a53ede70dce",
+   "title": "MacFarlane: The judge said those postings indicate coercion, therefore striking down the subpoenas. It's just the latest example of when Trump says stuff on social media, how it causes him trouble…",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movtm55ibj2c",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T21:33:20.581+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "600c3587052d",
+   "title": "Watters: Is like blind loyalty to an idiot, does that override that? Jessica: Well, you do blind loyalty to an idiot every day.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movt3cnz5d26",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T21:23:55.917+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bb6bc839578f",
+   "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
+   "summary": "DRIVING INNOVATION WHILE DEFENDING DATA:&#160;&#160;Today, President Donald J. Trump signed an Executive Order to safeguard America’s most sensitive data, our critical infrastructure, and the digital economy that drives jobs and growth. PUTTING AMERICA FIRST IN CYBERSECURITY: President Trump is promoting a key technology that will protect American systems in the quantum era, ensuring defense and [&#8230;] The post Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-22T20:39:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "68c5e370fdf2",
+   "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
+   "link": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
+   "summary": "ACCELERATING QUANTUM INNOVATION:&#160;Today, President Donald J. Trump signed an Executive Order to supercharge U.S. innovation in quantum technologies and strengthen our national security in this critical area.&#160;&#160; STRENGTHENING AMERICA’S QUANTUM ADVANTAGE:&#160;President Trump recognizes that quantum technologies are on the verge of a massive commercial breakthrough and require a bold new policy approach to ensure America [&#8230;] The post Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-22T20:39:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ceb85ca2552c",
+   "title": "Ushering in the Next Frontier of Quantum Innovation",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-22T20:38:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ceb85ca2552c",
+   "title": "Ushering in the Next Frontier of Quantum Innovation",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. America stands at the cusp of a quantum revolution. Quantum information science and technology (QIST) will provide transformational capabilities that will drive American innovation, power economic growth, generate [&#8230;] The post Ushering in the Next Frontier of Quantum Innovation appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-22T20:38:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "20d980cc8f3c",
+   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-22T20:37:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "20d980cc8f3c",
+   "title": "Securing the Nation Against Advanced Cryptographic Attacks",
+   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Background and Policy. The advent of large-scale quantum computers, particularly in the hands of adversaries, will pose a significant threat to widely used cryptographic security systems. Ongoing cyber activity [&#8230;] The post Securing the Nation Against Advanced Cryptographic Attacks appeared first on The White House .",
+   "source": "WH Actions",
+   "category": "wh_actions",
+   "published": "2026-06-22T20:37:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ee81eabbd82",
+   "title": "Reuters: US JUDGE BLOCKS TRUMP ADMINISTRATION FROM USING REVAMPED IMMIGRATION DATABASE FOR VOTER ROLL CHECKS",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3movl2ig2ok2o",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-22T19:00:18.617+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9f520fe72789",
+   "title": "Mamdani: When I am speaking about AIPAC, I’m speaking about an organization that has fought any attempt to actually deliver safety to people not just in Palestine but, frankly, throughout much of the region. And it is a status quo of immorality. It is one that I will not accept.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3movkv6t6jk2v",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-22T18:57:20.791+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "332b152c4536",
+   "title": "President Trump Drives Down Rents by Ending Open Borders Disaster",
+   "link": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
+   "summary": "President Donald J. Trump’s decisive enforcement of America’s immigration laws is producing real results for hardworking families — including the nation’s 46 million renters. Rents are falling sharply across the country for the first time in years as the record surge in illegal immigration has been reversed. Rents in major metro areas have dropped significantly [&#8230;] The post President Trump Drives Down Rents by Ending Open Borders Disaster appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-22T18:47:12+00:00",
    "iran_topic": false
   }
  ]
