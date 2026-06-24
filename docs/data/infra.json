@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-24T02:58:19.562296+00:00",
+ "generated": "2026-06-24T06:51:27.396595+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 76.4,
-   "change": -1.5,
-   "change_pct": -1.93,
+   "price": 76.28,
+   "change": -0.8,
+   "change_pct": -1.04,
    "spark": [
-    79.55000305175781,
     79.8499984741211,
     77.9000015258789,
-    76.4000015258789
+    77.08000183105469,
+    76.27999877929688
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 72.45,
-   "change": -2.37,
-   "change_pct": -3.17,
+   "price": 72.52,
+   "change": -0.69,
+   "change_pct": -0.94,
    "spark": [
-    76.79000091552734,
     76.5999984741211,
     74.81999969482422,
-    72.44999694824219
+    73.20999908447266,
+    72.5199966430664
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4075.3,
-   "change": -106.6,
-   "change_pct": -2.55,
+   "price": 4110.8,
+   "change": -19.1,
+   "change_pct": -0.46,
    "spark": [
-    4358.89990234375,
     4224.10009765625,
     4181.89990234375,
-    4075.300048828125
+    4129.89990234375,
+    4110.7998046875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.43,
-   "change": 0.41,
-   "change_pct": 0.41,
+   "price": 101.49,
+   "change": 0.08,
+   "change_pct": 0.08,
    "spark": [
-    100.08999633789062,
     100.8499984741211,
     101.0199966430664,
-    101.43000030517578
+    101.41000366210938,
+    101.49299621582031
    ]
   },
   "^GSPC": {
@@ -88,6 +88,7 @@
    "change": 2.21,
    "change_pct": 12.79,
    "spark": [
+    16.40999984741211,
     18.440000534057617,
     16.399999618530273,
     17.280000686645508,
@@ -97,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.18,
-   "change": -0.07,
-   "change_pct": -2.09,
+   "price": 3.19,
+   "change": 0.04,
+   "change_pct": 1.43,
    "spark": [
-    3.1449999809265137,
     3.2330000400543213,
     3.253000020980835,
-    3.184999942779541
+    3.1470000743865967,
+    3.191999912261963
    ]
   }
  },
@@ -218,14 +219,28 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T02:57:03.721508+00:00",
+   "published": "2026-06-24T06:50:45.401326+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
    "source": "Press TV",
-   "published": "2026-06-24T02:57:03.715993+00:00",
+   "published": "2026-06-24T06:50:45.396713+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ue3k63/rubio_iran_will_not_be_allowed_to_charge_tolls_in/",
+   "source": "r/worldnews",
+   "published": "2026-06-24T04:32:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil extends slide on expectations of smoother crude flows via Hormuz reut.rs/4et1rng",
+   "link": "https://bsky.app/profile/reuters.com/post/3moz2snv2mf2d",
+   "source": "@reuters",
+   "published": "2026-06-24T04:20:14+00:00",
    "severity": "info"
   },
   {
@@ -243,7 +258,7 @@
    "severity": "info"
   },
   {
-   "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+   "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-24T00:00:00+00:00",
@@ -255,6 +270,13 @@
    "source": "Al Jazeera",
    "published": "2026-06-23T23:49:00+00:00",
    "severity": "info"
+  },
+  {
+   "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+   "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-23T21:04:11+00:00",
+   "severity": "medium"
   },
   {
    "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
@@ -297,27 +319,6 @@
    "source": "Press TV",
    "published": "2026-06-23T17:27:37.367478+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Will Iraq finally help protect Kurdistan's oil fields from drone attacks? - analysis",
-   "link": "https://www.jpost.com/middle-east/article-900289",
-   "source": "Jerusalem Post",
-   "published": "2026-06-23T17:00:07+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency say",
-   "link": "https://www.al-monitor.com/originals/2026/06/evacuation-plan-through-hormuz-stranded-ships-gulf-underway-un-agency-say",
-   "source": "Al-Monitor",
-   "published": "2026-06-23T16:01:48+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency say reut.rs/4b4CDj0",
-   "link": "https://bsky.app/profile/reuters.com/post/3moxrjmb46a2m",
-   "source": "@reuters",
-   "published": "2026-06-23T16:01:27+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 13,
    "recent": [
     {
      "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
      "source": "Press TV",
-     "published": "2026-06-24T02:57:03.715993+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ue0sxg/un_starts_evacuating_11000_stranded_sailors_from/",
-     "source": "r/worldnews",
-     "published": "2026-06-24T02:18:29+00:00",
+     "published": "2026-06-24T06:50:45.396713+00:00",
      "severity": "info"
     },
     {
      "title": "Rubio: Iran will not be allowed to charge tolls in Strait of Hormuz under any final deal",
-     "link": "https://www.timesofisrael.com/rubio-iran-will-not-be-allowed-to-charge-tolls-in-strait-of-hormuz-under-any-final-deal/",
-     "source": "Times of Israel",
-     "published": "2026-06-24T00:42:57+00:00",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ue3k63/rubio_iran_will_not_be_allowed_to_charge_tolls_in/",
+     "source": "r/worldnews",
+     "published": "2026-06-24T04:32:51+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Oil extends slide on expectations of smoother crude flows via Hormuz reut.rs/4et1rng",
+     "link": "https://bsky.app/profile/reuters.com/post/3moz2snv2mf2d",
+     "source": "@reuters",
+     "published": "2026-06-24T04:20:14+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +374,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "87155c553147",
+   "title": "Trump Roasts ‘Unattractive’ George Conway for ‘Getting Absolutely CRUSHED’ in Primary",
+   "link": "https://www.mediaite.com/politics/trump-roasts-unattractive-george-conway-for-getting-absolutely-crushed-in-primary/",
+   "summary": "After the primary was called, the president took to Truth Social to comment on Conway, who is the ex-husband of former Trump senior counselor Kellyanne Conway. The post Trump Roasts ‘Unattractive’ George Conway for ‘Getting Absolutely CRUSHED’ in Primary first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T03:41:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "766ae43b6412",
+   "title": "Rep. April McClain Delaney wins bitter primary to keep her Maryland House seat",
+   "link": "https://www.politico.com/news/2026/06/23/mcclain-delaney-wins-maryland-house-primary-00973137",
+   "summary": "Her victory in the Democratic contest for the 6th District blocks former Rep. David Trone from returning to Congress.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-24T03:40:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "59390c0aad85",
+   "title": "‘The Roof Is Collapsing on the Democratic Party Establishment’: Van Jones Stunned After Left-Wing Candidates Trounce Schumer-Backed Opponents",
+   "link": "https://www.mediaite.com/politics/van-jones-stunned-after-left-wing-candidates-trounce-schumer-backed-opponents-the-roof-is-collapsing-on-the-democratic-party-establishment/",
+   "summary": "Mayor Zohrani Mamdani endorsed three leftist candidates vying for congressional seats, all of whom won on Tuesday night. Two of them faced off against sitting members of Congress. The post ‘The Roof Is Collapsing on the Democratic Party Establishment’: Van Jones Stunned After Left-Wing Candidates Trounce Schumer-Backed Opponents first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T03:06:47+00:00",
+   "iran_topic": false
+  },
   {
    "id": "0260f3fb9dbb",
    "title": "Ossoff: \"The other thing that is really bothering people is that while Americans are paying record high prices for just about everything, the first family is becoming billions of dollars wealthier, sweetheart deals all over the world. The president is literally building a monument to himself.\"",
@@ -844,16 +875,6 @@
    "iran_topic": false
   },
   {
-   "id": "62928c9e9edb",
-   "title": "Tucker Carlson Shoots Down Presidential Run as He Teases 2028 Plans After Breaking with Republican Party",
-   "link": "https://www.mediaite.com/media/podcasts/tucker-carlson-shoots-down-presidential-run-as-he-teases-2028-plans-after-breaking-with-republican-party/",
-   "summary": "Tucker Carlson told Alex Jones \"of course\" he doesn't want to run for president, though he he is leaving the door open to be involved in the 2028 election. The post Tucker Carlson Shoots Down Presidential Run as He Teases 2028 Plans After Breaking with Republican Party first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T20:18:28+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "44eaa3709851",
    "title": "closing in on 90 minutes into his speech in Pennsylvania, Trump is still ranting and raving incoherently and his audience is totally silent",
    "link": "https://bsky.app/profile/atrupar.com/post/3moy7l4fih527",
@@ -861,16 +882,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-23T20:12:50.748+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1feb2c7eb608",
-   "title": "Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels",
-   "link": "https://www.mediaite.com/media/news/shock-report-shows-factory-layoffs-at-financial-crisis-pandemic-levels/",
-   "summary": "The latest S&#038;P Global report shows that factory job cuts are approaching the highest levels since the early COVID-19 pandemic and 2008-2009 financial crisis. The post Shock Report Shows Factory Layoffs At Financial Crisis, Pandemic Levels first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-23T20:10:55+00:00",
    "iran_topic": false
   },
   {
@@ -961,16 +972,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-23T16:45:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4971dc36d4b0",
-   "title": "Nominations Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Carl Bednarski, of Michigan, to be a Member of the Farm Credit Administration Board, Farm Credit Administration, for a term expiring May 21, 2028. Michael Chamberlain, of Virginia, to be Director of the Office of Government Ethics for a term of five years. Walter Darr, of Texas, to be Federal [&#8230;] The post Nominations Sent to the Senate appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-23T16:18:27+00:00",
    "iran_topic": false
   }
  ]
