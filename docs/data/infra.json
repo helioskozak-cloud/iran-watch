@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-25T02:57:26.281187+00:00",
+ "generated": "2026-06-25T06:49:36.623106+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
    "price": 72.67,
-   "change": -4.41,
-   "change_pct": -5.72,
+   "change": -1.07,
+   "change_pct": -1.45,
    "spark": [
-    79.8499984741211,
     77.9000015258789,
     77.08000183105469,
+    73.73999786376953,
     72.66999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.44,
-   "change": -3.77,
-   "change_pct": -5.15,
+   "price": 69.63,
+   "change": -0.71,
+   "change_pct": -1.01,
    "spark": [
-    76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    69.44000244140625
+    70.33999633789062,
+    69.62999725341797
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3993.8,
-   "change": -136.1,
-   "change_pct": -3.3,
+   "price": 3995.6,
+   "change": 5.3,
+   "change_pct": 0.13,
    "spark": [
-    4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    3993.800048828125
+    3990.300048828125,
+    3995.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.54,
-   "change": 0.13,
-   "change_pct": 0.13,
+   "price": 101.59,
+   "change": -0.02,
+   "change_pct": -0.02,
    "spark": [
-    100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.53900146484375
+    101.61000061035156,
+    101.58799743652344
    ]
   },
   "^GSPC": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.29,
-   "change": 0.14,
-   "change_pct": 4.51,
+   "price": 3.28,
+   "change": 0.06,
+   "change_pct": 1.83,
    "spark": [
-    3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2890000343322754
+    3.2209999561309814,
+    3.2799999713897705
    ]
   }
  },
@@ -218,15 +218,36 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-25T02:56:40.052266+00:00",
+   "published": "2026-06-25T06:48:55.995069+00:00",
    "severity": "info"
+  },
+  {
+   "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
+   "source": "Press TV",
+   "published": "2026-06-25T06:48:55.988066+00:00",
+   "severity": "medium"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-25T02:56:40.044698+00:00",
+   "published": "2026-06-25T06:48:55.987866+00:00",
    "severity": "low"
+  },
+  {
+   "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ueyufc/iran_declares_new_hormuz_route_unacceptable_and/",
+   "source": "r/worldnews",
+   "published": "2026-06-25T03:33:49+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Iran war live: IRGC says any ships taking new Hormuz route are in danger",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-25T00:00:00+00:00",
+   "severity": "info"
   },
   {
    "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
@@ -236,11 +257,11 @@
    "severity": "info"
   },
   {
-   "title": "Current round of US-led talks between Israel, Lebanon the least productive yet — sources",
+   "title": "IDF reservist killed in truck accident in southern Lebanon",
    "link": "https://www.timesofisrael.com/liveblog-june-25-2026/",
    "source": "Times of Israel",
    "published": "2026-06-24T23:29:47+00:00",
-   "severity": "low"
+   "severity": "critical"
   },
   {
    "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
@@ -297,27 +318,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-24T16:50:57+00:00",
    "severity": "info"
-  },
-  {
-   "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uegevd/us_crude_oil_dips_below_70_as_tankers_transit/",
-   "source": "r/worldnews",
-   "published": "2026-06-24T15:17:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "New today for War on the Rocks members: Adapting to Uncertainty in the Strait of Hormuz What Came Out of the G7 Summit The Critical Intersection of Space and the Polar Regions warontherocks.com/category/mem...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp27hi5cxz2m",
-   "source": "@warontherocks",
-   "published": "2026-06-24T15:16:07.935+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz",
-   "link": "https://www.jpost.com/american-politics/article-900385",
-   "source": "Jerusalem Post",
-   "published": "2026-06-24T14:53:58+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -328,25 +328,25 @@
    "incident_count": 11,
    "recent": [
     {
+     "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
+     "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
+     "source": "Press TV",
+     "published": "2026-06-25T06:48:55.988066+00:00",
+     "severity": "medium"
+    },
+    {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-25T02:56:40.044698+00:00",
+     "published": "2026-06-25T06:48:55.987866+00:00",
      "severity": "low"
     },
     {
-     "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp332xqxnj2r",
-     "source": "@warontherocks",
-     "published": "2026-06-24T23:30:12.631+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
-     "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
+     "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
+     "link": "https://www.reddit.com/r/worldnews/comments/1ueyufc/iran_declares_new_hormuz_route_unacceptable_and/",
      "source": "r/worldnews",
-     "published": "2026-06-24T19:59:09+00:00",
-     "severity": "info"
+     "published": "2026-06-25T03:33:49+00:00",
+     "severity": "medium"
     }
    ]
   },
@@ -373,6 +373,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f3436769c402",
+   "title": "Tucker Carlson Says Trump Has Realized That ‘The Biggest Threat To His Administration Is Israel’",
+   "link": "https://www.mediaite.com/politics/tucker-carlson-says-trump-has-realized-that-the-biggest-threat-to-his-administration-is-israel/",
+   "summary": "Tucker Carlson claimed on Wednesday that President Donald Trump understands that \"the biggest threat\" to the administration is Israel. The post Tucker Carlson Says Trump Has Realized That ‘The Biggest Threat To His Administration Is Israel’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T05:16:05+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "815ce2a9341b",
+   "title": "Full interview and more from MeidasTouch here: youtu.be/da_Q23feOlo",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp3iy52afk2v",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-25T03:39:10.511+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fb58b96b2304",
+   "title": "Moore: Frankly, I think it was the Iranians who actually wrote The Art of the Deal and not Donald Trump, because they have actually gotten everything that they hoped for out of this deal.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp3iy4zjws2v",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-25T03:39:10.510+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f02ffe3a4b54",
+   "title": "Yes it did",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp3hxd4z322u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T03:20:49.620+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99f50a0310a8",
+   "title": "I thought the war was over???",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp3hqp4fnk2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T03:17:07.298+00:00",
+   "iran_topic": false
+  },
   {
    "id": "be6f934f3a09",
    "title": "American Soldiers Claim Pete Hegseth Downplayed Severity of Iran War Wounds",
@@ -804,26 +854,6 @@
    "iran_topic": false
   },
   {
-   "id": "e4140b939a4d",
-   "title": "Q: Will you veto the housing bill? TRUMP: Look, I made billions of dollars with housing. I know housing better than anybody maybe anywhere. It's all about the interest rate. I don't want to hurt people that own houses too.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rp4iiwd2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:42:31.894+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1026571b8bc7",
-   "title": "Trump: \"I asked the US attorney to go look at their votes, and as soon as I did that, they announced that Steve Hilton would be a finalist. We have rigged elections.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rlr2he42k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:40:39.203+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "19b7fd6298e5",
    "title": "Dem Lawmaker Goes Nuts and Smacks Phone Out of Reporter’s Hand When Asked About Graham Platner",
    "link": "https://www.mediaite.com/politics/dem-lawmaker-goes-nuts-and-smacks-phone-out-of-reporters-hand-when-asked-about-graham-platner/",
@@ -881,16 +911,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-24T19:30:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0c0866a8da4d",
-   "title": "‘She’s Turned on Me’: Tim Dillon Says Bari Weiss Accused Him of Palling Around With Anti-Semites",
-   "link": "https://www.mediaite.com/media/shes-turned-on-me-tim-dillon-says-bari-weiss-accused-him-of-palling-around-with-anti-semites/",
-   "summary": "Comic Tim Dillon said CBS News boss Bari Weiss quit being his friend after she accused him of being part of a \"cultural space of anti-Semitism.\" The post ‘She’s Turned on Me’: Tim Dillon Says Bari Weiss Accused Him of Palling Around With Anti-Semites first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T19:21:55+00:00",
    "iran_topic": false
   },
   {
@@ -952,26 +972,6 @@
    "category": "trump_bsky",
    "published": "2026-06-24T13:15:12.471+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "66798f216d4d",
-   "title": "Trump's disenfranchisement machine is besieging the courts",
-   "link": "https://www.publicnotice.co/p/trump-mail-voting-rule",
-   "summary": "They're holding strong &#8212; so far.",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-24T10:17:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9045faa8cf2c",
-   "title": "Democratic socialists are coming for 2028",
-   "link": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
-   "summary": "The group is asking members across all 250 chapters to weigh who they want to back in the next presidential election and why, according to a plan first shared with POLITICO.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-24T08:45:00+00:00",
-   "iran_topic": false
   }
  ]
 }
