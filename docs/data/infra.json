@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-25T08:52:29.978568+00:00",
+ "generated": "2026-06-25T11:36:01.967118+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 72.72,
-   "change": -1.02,
-   "change_pct": -1.38,
+   "price": 73.09,
+   "change": -0.65,
+   "change_pct": -0.88,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
-    72.72000122070312
+    73.08999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.26,
-   "change": -1.08,
-   "change_pct": -1.54,
+   "price": 69.56,
+   "change": -0.78,
+   "change_pct": -1.11,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
-    69.26000213623047
+    69.55999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4016.1,
-   "change": 25.8,
-   "change_pct": 0.65,
+   "price": 3994.7,
+   "change": 4.4,
+   "change_pct": 0.11,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
-    4016.10009765625
+    3994.699951171875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.46,
-   "change": -0.15,
-   "change_pct": -0.15,
+   "price": 101.7,
+   "change": 0.09,
+   "change_pct": 0.09,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.46199798583984
+    101.697998046875
    ]
   },
   "^GSPC": {
@@ -84,27 +84,27 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.0,
-   "change": -0.63,
-   "change_pct": -3.38,
+   "price": 18.05,
+   "change": -0.58,
+   "change_pct": -3.11,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.0
+    18.049999237060547
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.33,
-   "change": 0.11,
-   "change_pct": 3.48,
+   "price": 3.31,
+   "change": 0.09,
+   "change_pct": 2.89,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
-    3.3329999446868896
+    3.313999891281128
    ]
   }
  },
@@ -218,22 +218,57 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-25T08:51:49.204268+00:00",
+   "published": "2026-06-25T11:35:27.684018+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
    "source": "Press TV",
-   "published": "2026-06-25T08:51:49.196807+00:00",
+   "published": "2026-06-25T11:35:27.677034+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-25T08:51:49.196591+00:00",
+   "published": "2026-06-25T11:35:27.676837+00:00",
    "severity": "low"
+  },
+  {
+   "title": "Iran, Oman stress need for coordination on Strait of Hormuz traffic in foreign minister call reut.rs/4xIHyzX",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp4dlcgz3m2i",
+   "source": "@reuters",
+   "published": "2026-06-25T11:35:10+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
+   "link": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-25T11:08:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "France intercepts Russian shadow fleet oil tanker off coast of Sicily",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uf6c7l/france_intercepts_russian_shadow_fleet_oil_tanker/",
+   "source": "r/worldnews",
+   "published": "2026-06-25T10:33:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran warns against Hormuz crossings without authorisation",
+   "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-25T08:49:36+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+   "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-25T08:28:35+00:00",
+   "severity": "medium"
   },
   {
    "title": "IRGC Navy declares Iran-designated channels only safe routes through Strait of Hormuz",
@@ -283,69 +318,34 @@
    "source": "r/geopolitics",
    "published": "2026-06-24T19:18:06+00:00",
    "severity": "info"
-  },
-  {
-   "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
-   "link": "https://bsky.app/profile/reuters.com/post/3mp2kusyoga2h",
-   "source": "@reuters",
-   "published": "2026-06-24T18:40:26+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports",
-   "link": "https://www.al-monitor.com/originals/2026/06/chinas-foreign-minister-urges-swift-reopening-strait-hormuz-global-trade-xinhua",
-   "source": "Al-Monitor",
-   "published": "2026-06-24T18:36:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Plan To Evacuate Hundreds Of Ships Still Stranded From Strait Of Hormuz Closure Is Coalescing",
-   "link": "https://www.twz.com/news-features/plan-to-evacuate-hundreds-of-ships-still-stranded-from-strait-of-hormuz-closure-is-coalescing",
-   "source": "The Drive",
-   "published": "2026-06-24T18:06:05+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran, Oman push to become administrators of Strait of Hormuz as toll system remains unclear",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-900414",
-   "source": "Jerusalem Post",
-   "published": "2026-06-24T17:59:34+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Baltic Exchange defends its tanker rates as reliable during Iran war reut.rs/4xLTH7n",
-   "link": "https://bsky.app/profile/reuters.com/post/3mp2gobf27w2u",
-   "source": "@reuters",
-   "published": "2026-06-24T17:25:12+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
+   "status": "WATCH",
    "incident_count": 11,
    "recent": [
     {
      "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
      "source": "Press TV",
-     "published": "2026-06-25T08:51:49.196807+00:00",
+     "published": "2026-06-25T11:35:27.677034+00:00",
      "severity": "medium"
     },
     {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-25T08:51:49.196591+00:00",
+     "published": "2026-06-25T11:35:27.676837+00:00",
      "severity": "low"
     },
     {
-     "title": "IRGC Navy declares Iran-designated channels only safe routes through Strait of Hormuz",
-     "link": "https://en.irna.ir/news/86192425/IRGC-Navy-declares-Iran-designated-channels-only-safe-routes",
-     "source": "IRNA",
-     "published": "2026-06-25T07:05:07+00:00",
+     "title": "Iran, Oman stress need for coordination on Strait of Hormuz traffic in foreign minister call reut.rs/4xIHyzX",
+     "link": "https://bsky.app/profile/reuters.com/post/3mp4dlcgz3m2i",
+     "source": "@reuters",
+     "published": "2026-06-25T11:35:10+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "e31b666acfe8",
+   "title": "Joe Scarborough Trashes Bill Cassidy for Iran Vote U-Turn After His Closed-Door Throwdown With Trump",
+   "link": "https://www.mediaite.com/media/tv/joe-scarborough-trashes-bill-cassidy-for-iran-vote-u-turn-after-his-closed-door-throwdown-with-trump/",
+   "summary": "\"Same senator that ended up giving you RFK Jr.,” the MS NOW host said on Thursday's Morning Joe — as he denounced Cassidy for \"capitulating\" to Trump. The post Joe Scarborough Trashes Bill Cassidy for Iran Vote U-Turn After His Closed-Door Throwdown With Trump first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T10:58:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "51f92db109e6",
+   "title": "American cesspool",
+   "link": "https://www.publicnotice.co/p/reflecting-pool-trump",
+   "summary": "Green algae, blue shards, and a red-faced megalomaniac.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-25T10:17:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3d7330ec674",
+   "title": "Trump Takes Midnight Victory Lap After Senate GOP Rebels Fall in Line on Iran Vote — After Furious Capitol Hill Clash",
+   "link": "https://www.mediaite.com/media/news/trump-takes-midnight-victory-lap-after-senate-gop-rebels-fall-in-line-on-iran-vote-after-furious-capitol-hill-clash/",
+   "summary": "Paul and Cassidy, two Republicans who had backed the previous day’s effort to limit Trump’s Iran war powers, flipped their votes in Wednesday’s vote. The post Trump Takes Midnight Victory Lap After Senate GOP Rebels Fall in Line on Iran Vote — After Furious Capitol Hill Clash first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T10:14:09+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "18202acdbfb2",
+   "title": "Centrist Democrats are freaking out about progressives’ winning streak",
+   "link": "https://www.politico.com/news/2026/06/25/progressive-moderate-democratic-party-battlegrounds-00975000",
+   "summary": "After romping in New York City, progressives are staring down more key primary tests.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-25T09:40:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f3436769c402",
    "title": "Tucker Carlson Says Trump Has Realized That ‘The Biggest Threat To His Administration Is Israel’",
@@ -884,16 +924,6 @@
    "iran_topic": false
   },
   {
-   "id": "687b1a98bcbc",
-   "title": "‘I Don’t Like a Few People’: Trump Dishes on ‘Really Great Meeting’ With Senate GOP Described as ‘Total Cluster F*ck’",
-   "link": "https://www.mediaite.com/media/news/i-dont-like-a-few-people-trump-dishes-on-really-great-meeting-with-senate-gop-described-as-total-cluster-fck/",
-   "summary": "President Donald Trump called a meeting the Senate GOP caucus \"really great\" shortly after it was described as a \"total cluster f*ck\" by another source. The post ‘I Don’t Like a Few People’: Trump Dishes on ‘Really Great Meeting’ With Senate GOP Described as ‘Total Cluster F*ck’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T19:39:09+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "72d2e17cbd17",
    "title": "First to MS NOW: Senate Democrats are calling on the Postal Service not to move ahead with new mail-in ballot regulations that, they say, will \"establish President Trump's control over federal elections.\" Democrats fear the USPS could be transformed \"into a federal election administration agency.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2nxzwgck2d",
@@ -901,16 +931,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T19:35:56.234+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6eea1c355fd0",
-   "title": "Fetterman Busts Out 80s Comedy Line to Slam Larry David’s White House UFC Fight Criticism",
-   "link": "https://www.mediaite.com/politics/fetterman-busts-out-80s-comedy-line-to-slam-larry-davids-white-house-ufc-fight-criticism/",
-   "summary": "John Fetterman busted out an Bill Murray '80s comedy reference as he slammed Larry David's criticism of the UFC fight at the White House. The post Fetterman Busts Out 80s Comedy Line to Slam Larry David’s White House UFC Fight Criticism first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T19:30:35+00:00",
    "iran_topic": false
   },
   {
@@ -952,26 +972,6 @@
    "category": "wh_news",
    "published": "2026-06-24T14:08:26+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "e4c2f3f046ac",
-   "title": "Nomination Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
-   "summary": "NOMINATION SENT TO THE SENATE: Konstantinos Ligris, of Florida, to be an Assistant Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-24T14:08:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "301c576f726e",
-   "title": "First on MS NOW: House Oversight Ranking Member Robert Garcia is demanding answers about the failed reflecting pool renovations — including why the Trump admin pursued the project amid rising costs at home and the war in Iran and the decision-making process behind Trump's use of no-bid contracts.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mozypag2zk2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-24T13:15:12.471+00:00",
-   "iran_topic": true
   }
  ]
 }
