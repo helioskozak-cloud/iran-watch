@@ -1,84 +1,84 @@
 {
- "generated": "2026-06-25T11:36:01.967118+00:00",
+ "generated": "2026-06-25T13:51:17.463285+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.09,
-   "change": -0.65,
-   "change_pct": -0.88,
+   "price": 73.63,
+   "change": -0.11,
+   "change_pct": -0.15,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
-    73.08999633789062
+    73.62999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.56,
-   "change": -0.78,
-   "change_pct": -1.11,
+   "price": 69.99,
+   "change": -0.35,
+   "change_pct": -0.5,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
-    69.55999755859375
+    69.98999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3994.7,
-   "change": 4.4,
-   "change_pct": 0.11,
+   "price": 4034.8,
+   "change": 44.5,
+   "change_pct": 1.12,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
-    3994.699951171875
+    4034.800048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.7,
-   "change": 0.09,
-   "change_pct": 0.09,
+   "price": 101.49,
+   "change": -0.12,
+   "change_pct": -0.12,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.697998046875
+    101.48500061035156
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7358.22,
-   "change": -7.24,
-   "change_pct": -0.1,
+   "price": 7358.51,
+   "change": 0.29,
+   "change_pct": 0.0,
    "spark": [
-    7420.10009765625,
     7500.580078125,
     7472.7900390625,
     7365.4599609375,
-    7358.22021484375
+    7358.22021484375,
+    7358.509765625
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 106.29,
-   "change": -4.97,
-   "change_pct": -4.47,
+   "price": 106.43,
+   "change": 0.14,
+   "change_pct": 0.13,
    "spark": [
-    114.2300033569336,
     114.87000274658203,
     112.69000244140625,
     111.26000213623047,
-    106.29000091552734
+    106.29000091552734,
+    106.43009948730469
    ]
   },
   "^VIX": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.31,
-   "change": 0.09,
-   "change_pct": 2.89,
+   "price": 3.32,
+   "change": 0.1,
+   "change_pct": 3.17,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
-    3.313999891281128
+    3.322999954223633
    ]
   }
  },
@@ -218,21 +218,56 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-25T11:35:27.684018+00:00",
+   "published": "2026-06-25T13:50:28.315834+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
    "source": "Press TV",
-   "published": "2026-06-25T11:35:27.677034+00:00",
+   "published": "2026-06-25T13:50:28.309688+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-25T11:35:27.676837+00:00",
+   "published": "2026-06-25T13:50:28.309512+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran, Oman FMs discuss Strait of Hormuz, regional issues",
+   "link": "https://en.irna.ir/news/86192670/Iran-Oman-FMs-discuss-Strait-of-Hormuz-regional-issues",
+   "source": "IRNA",
+   "published": "2026-06-25T12:12:44+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies",
+   "link": "https://www.al-monitor.com/originals/2026/06/oil-back-pre-war-levels-hormuz-traffic-rebounds-us-tries-reassure-gulf-allies",
+   "source": "Al-Monitor",
+   "published": "2026-06-25T12:01:45+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran’s IRGC warns against using 'highly dangerous' Hormuz route: What to know",
+   "link": "https://www.al-monitor.com/originals/2026/06/irans-irgc-warns-against-using-highly-dangerous-hormuz-route-what-know",
+   "source": "Al-Monitor",
+   "published": "2026-06-25T11:56:55+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Oil back to pre-war levels as Hormuz traffic rebounds, US tries to reassure Gulf allies reut.rs/43Rgml0",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp4e5hph5i23",
+   "source": "@reuters",
+   "published": "2026-06-25T11:45:20+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Oman stress need for coordination on Strait of Hormuz traffic in foreign minister call",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-oman-stress-need-coordination-strait-hormuz-traffic-foreign-minister-call",
+   "source": "Al-Monitor",
+   "published": "2026-06-25T11:36:40+00:00",
    "severity": "low"
   },
   {
@@ -247,6 +282,13 @@
    "link": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-25T11:08:43+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+   "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-25T10:59:44+00:00",
    "severity": "info"
   },
   {
@@ -276,48 +318,6 @@
    "source": "IRNA",
    "published": "2026-06-25T07:05:07+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ueyufc/iran_declares_new_hormuz_route_unacceptable_and/",
-   "source": "r/worldnews",
-   "published": "2026-06-25T03:33:49+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Iran war live: IRGC says any ships taking new Hormuz route are in danger",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-25T00:00:00+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp332xqxnj2r",
-   "source": "@warontherocks",
-   "published": "2026-06-24T23:30:12.631+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "IDF reservist killed in truck accident in southern Lebanon",
-   "link": "https://www.timesofisrael.com/liveblog-june-25-2026/",
-   "source": "Times of Israel",
-   "published": "2026-06-24T23:29:47+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
-   "source": "r/worldnews",
-   "published": "2026-06-24T19:59:09+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Oil from seized Russian tanker to be sold by UK to benefit Ukraine",
-   "link": "https://www.reddit.com/r/geopolitics/comments/1uen23p/oil_from_seized_russian_tanker_to_be_sold_by_uk/",
-   "source": "r/geopolitics",
-   "published": "2026-06-24T19:18:06+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 11,
+   "incident_count": 13,
    "recent": [
     {
      "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
      "source": "Press TV",
-     "published": "2026-06-25T11:35:27.677034+00:00",
+     "published": "2026-06-25T13:50:28.309688+00:00",
      "severity": "medium"
     },
     {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-25T11:35:27.676837+00:00",
+     "published": "2026-06-25T13:50:28.309512+00:00",
      "severity": "low"
     },
     {
-     "title": "Iran, Oman stress need for coordination on Strait of Hormuz traffic in foreign minister call reut.rs/4xIHyzX",
-     "link": "https://bsky.app/profile/reuters.com/post/3mp4dlcgz3m2i",
-     "source": "@reuters",
-     "published": "2026-06-25T11:35:10+00:00",
+     "title": "Iran, Oman FMs discuss Strait of Hormuz, regional issues",
+     "link": "https://en.irna.ir/news/86192670/Iran-Oman-FMs-discuss-Strait-of-Hormuz-regional-issues",
+     "source": "IRNA",
+     "published": "2026-06-25T12:12:44+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,206 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "9d38e7217913",
+   "title": "Marco Rubio on Trump's much-hyped Alaska summit with Putin: \"There was no agreement in Alaska. There was a proposal, but no agreement.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4l6duoe62x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T13:51:06.239+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ab2b1cfe3b68",
+   "title": "WASHINGTON (AP) - Fed's preferred inflation gauge jumps to 3-year high in latest sign of affordability challenge.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp4l5nf4nk27",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T13:50:42.663+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7e4f158ea150",
+   "title": "clips will be a bit more sporadic today as your truly struggles to come to terms with the Naz-LaMelo trade. i appreciate your patience.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4kak7hb22u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T13:34:26.253+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "93d3dadeda61",
+   "title": "Washington's Department of Energy and the Environment is investigating the deaths of three ducks found near the Lincoln Memorial Reflecting Pool as a wildlife rehab group plans daily checks on the birds dwelling in the algae-bloom-filled water.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp4j7ixzs22a",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T13:15:57.664+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c04b967e229a",
+   "title": "Good morning. Here’s my latest for @atrupar.com fabulous Public Notice, this one about Trump’s unintentionally reflective cesspool of a renovation. Please read and, if you like it, share. Thx so much. open.substack.com/pub/aaronrup...",
+   "link": "https://bsky.app/profile/schaller67.bsky.social/post/3mp4iypottk22",
+   "summary": "",
+   "source": "@schaller67",
+   "category": "trump_bsky",
+   "published": "2026-06-25T13:12:09.821+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2edd24cc6386",
+   "title": "‘Are You Kidding Me?’ Hakeem Jeffries Pushes Back on CNBC Host Pressing Him to ‘Reject’ Progressives Promising He’s ‘Next’",
+   "link": "https://www.mediaite.com/media/tv/are-you-kidding-me-hakeem-jeffries-pushes-back-on-cnbc-host-pressing-him-to-reject-progressives-promising-hes-next/",
+   "summary": "Hakeem Jeffries pushed back on CNBC's Joe Kernen as he pressed him to acknowledge that he may be in serious trouble after New York's recent primaries. The post ‘Are You Kidding Me?’ Hakeem Jeffries Pushes Back on CNBC Host Pressing Him to ‘Reject’ Progressives Promising He’s ‘Next’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T13:11:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5e984841c8f1",
+   "title": "WATCH: Scotland Coach Storms Out of BBC Interview After Crushing World Cup Defeat",
+   "link": "https://www.mediaite.com/media/sports/watch-scotland-coach-storms-out-of-bbc-interview-after-crushing-world-cup-defeat/",
+   "summary": "As the clip went viral Scotland fans began berating the coach’s despairing take and for abandoning the interview. The post WATCH: Scotland Coach Storms Out of BBC Interview After Crushing World Cup Defeat first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T12:53:21+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "58f03a7ffa46",
+   "title": "Tucker Carlson Excoriates Trump: ‘Shut Up, B*tch! I Don’t Take You Seriously’",
+   "link": "https://www.mediaite.com/online/tucker-carlson-excoriates-trump-shut-up-btch-i-dont-take-you-seriously/",
+   "summary": "\"Shut up b*tch! I don't take you seriously,\" Carlson said — dismissing Trump as a barroom blowhard in a splashy commentary. The post Tucker Carlson Excoriates Trump: ‘Shut Up, B*tch! I Don’t Take You Seriously’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T12:45:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "339d84eb2c34",
+   "title": "Official overseas meetings by the State Dept. are always the best places to catch up with your buddies.",
+   "link": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mp4gts6ao22e",
+   "summary": "",
+   "source": "@justinbaragona",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:33:37.169+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0380fcbb56fa",
+   "title": "REPORTER: How is the bilateral relationship with Oman? MARCO RUBIO: Our relationship with Oman is fine REPORTER: Just a few weeks ago Trump threatened to bomb them, so it didn't seem to be okay then RUBIO: I can only talk about today",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4gsxgoz426",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:33:09.124+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d2aaa5d284be",
+   "title": "CNN’s Jake Tapper Roasts Trump For Saying ‘No One Gives a Sh*t About Housing’: Is He ‘Not Aware’ Midterms Are Coming?",
+   "link": "https://www.mediaite.com/media/news/cnns-jake-tapper-roasts-trump-for-saying-no-one-gives-a-sht-about-housing-is-he-not-aware-midterms-are-coming/",
+   "summary": "CNN anchor Jake Tapper roasted Trump for reportedly saying \"no one gives a sh*t about housing,\" askin if Trump is \"not aware\" there are midterms approaching. The post CNN’s Jake Tapper Roasts Trump For Saying ‘No One Gives a Sh*t About Housing’: Is He ‘Not Aware’ Midterms Are Coming? first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T12:32:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4488bed4d18e",
+   "title": "REPORTER: Why does Trump keep blindsiding Republicans on a number of legislative issues, including this morning's signing? MIKE JOHNSON: I wouldn't call it a blindside (a stage had already been set up for the bill signing!)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4glp7xp72m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:29:05.634+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bfd0fc56a727",
+   "title": "an audibly flummoxed John Thune on Trump refusing to sign the housing bill: \"I guess I would say at this point I don't have any observations\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4gig6pan23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:27:15.492+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "31fac40f5b05",
+   "title": "This is completely insane",
+   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3mp4ghyqdis2p",
+   "summary": "",
+   "source": "@grudgie",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:27:01.400+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f6ee7e3b0dbc",
+   "title": "Marco Rubio on why Trump's son in law, Michael Boulos, who has no government role, was in his official meetings in Kuwait: \"He was just here because his brother lives here and I'm a good friend of Michael's, so we had a chance to catch up\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4g6ktqti2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:21:44.828+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2141af562d35",
+   "title": "Hakeem Jeffries as Joe Kernen badgers him to \"reject\" the winners of Democratic primaries in NYC: \"Donald Trump is the president right now. Are you kidding me?\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4feqjoiw2f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:07:18.373+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4a7670109859",
+   "title": "Love this crispness: “Trump is a bad businessman and dealmaker, but a worse public official. He knows little and cares even less about policy. He loves to make huge promises (“we’re signing a healthcare plan within two weeks”) and never follow through.”",
+   "link": "https://bsky.app/profile/sholahoon.bsky.social/post/3mp4f4qjsp22q",
+   "summary": "",
+   "source": "@sholahoon",
+   "category": "trump_bsky",
+   "published": "2026-06-25T12:02:49.957+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ca561bebfc68",
+   "title": "New in PN: American cesspool \"Another $1.7 million slice of the contract to install a filtering system was awarded to — you can’t make this up — a West Palm Beach Trump neighbor who looks like one of the mid-‘70s Philadelphia capos who strong-armed Rocky into making his weekly collections.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp4euaex422c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T11:58:04.585+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f9c60a081ec3",
+   "title": "Jimmy Fallon Mocks Trump State Fair With Imaginary Cabinet Carnival Acts: ‘Drunk Tank with Kash Patel’",
+   "link": "https://www.mediaite.com/media/tv/jimmy-fallon-mocks-trump-state-fair-with-imaginary-cabinet-carnival-acts-drunk-tank-with-kash-patel/",
+   "summary": "Fallon imagined a dunk tank featuring Vice President JD Vance and a “drunk tank” for FBI Director Kash Patel. The post Jimmy Fallon Mocks Trump State Fair With Imaginary Cabinet Carnival Acts: ‘Drunk Tank with Kash Patel’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T11:52:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d1174586471e",
+   "title": "MS NOW Analyst Breaks Out Striking Graphic to Show Why Trump’s Iran Deal ‘Clearly Worse’ Than Obama’s",
+   "link": "https://www.mediaite.com/media/tv/ms-now-analyst-breaks-out-striking-graphic-to-show-why-trumps-iran-deal-clearly-worse-than-obamas/",
+   "summary": "Rattner explained Trump's Iran deal figure is higher than Obama’s and colossally higher when his proposed $300 billion reconstruction fund was folded in. The post MS NOW Analyst Breaks Out Striking Graphic to Show Why Trump’s Iran Deal ‘Clearly Worse’ Than Obama’s first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T11:43:44+00:00",
+   "iran_topic": true
+  },
   {
    "id": "e31b666acfe8",
    "title": "Joe Scarborough Trashes Bill Cassidy for Iran Vote U-Turn After His Closed-Door Throwdown With Trump",
@@ -724,16 +924,6 @@
    "iran_topic": false
   },
   {
-   "id": "319f7cb6e2f9",
-   "title": "‘You’re Smiling and Laughing’: Trump Calls Out Reporter’s Reaction After He Trashed Mayor of London",
-   "link": "https://www.mediaite.com/politics/youre-smiling-and-laughing-trump-calls-out-reporters-reaction-after-he-trashed-mayor-of-london/",
-   "summary": "Trump quipped a British reporter could not contain her laughter after he bashed U.K. Prime Minister Keir Starmer and \"incompetent\" London Mayor Sadiq Khan The post ‘You’re Smiling and Laughing’: Trump Calls Out Reporter’s Reaction After He Trashed Mayor of London first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T21:20:03+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "60d6c04622fb",
    "title": "The White House choreographed a victory lap. Trump veered off script.",
    "link": "https://www.politico.com/news/2026/06/24/hes-getting-pissed-trump-cancels-housing-bill-signing-over-election-bill-frustrations-00974648",
@@ -751,176 +941,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-24T21:09:03.393+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "72101d11905a",
-   "title": "Trump calls for sending federal troops into cities: \"I'd love to do Chicago because Chicago is potentially great city. But you're gonna lose it. It's gotta be done. I'd love to do it in Los Angeles. I'd love to do it in NYC. We remove the bad people from those cities so they never come back\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2t2evawb2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T21:06:43.534+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7797f84fd6c1",
-   "title": "ABC to Finally Air New Season of The Bachelorette After Shelving It Over Controversial Video Involving Show’s Star",
-   "link": "https://www.mediaite.com/media/tv/abc-to-finally-air-new-season-of-the-bachelorette-after-shelving-it-over-controversial-video-involving-shows-star/",
-   "summary": "ABC reportedly plans to air the latest season of The Bachelorette after the initial premiere was derailed due to the controversy around Taylor Frankie Paul. The post ABC to Finally Air New Season of The Bachelorette After Shelving It Over Controversial Video Involving Show’s Star first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T21:06:36+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6b02d1d8b862",
-   "title": "Trump: \"Think of that? You work so hard, you get it open way ahead of July 4. And then somebody is in there with a knife cutting it and ripping the floor out. It's terrible. But the 350 foot gash in the side, it's a terrible thing.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2syq2pch2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T21:05:48.140+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "474586367e32",
-   "title": "Trump: \"Ready? I'm gonna end on this. I'm so proud of Washington DC. It's become one of the hottest ciites in the world. But what is the hottest in the world is the United States of America. We have the hottest city.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2swqt4dv2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T21:04:41.338+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2580ce7d67e0",
-   "title": "Mamdani-Backed Candidate Who Suggested US Brought 9/11 On Itself Wins State Senate Seat",
-   "link": "https://www.mediaite.com/media/news/mamdani-backed-candidate-who-said-us-brought-9-11-on-itself-wins-state-senate-seat/",
-   "summary": "Aber Kawas won the Democratic primary to represent New York in the state Senate after footage of her saying the US brought the 9/11 terror attacks on itself. The post Mamdani-Backed Candidate Who Suggested US Brought 9/11 On Itself Wins State Senate Seat first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T21:01:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "811e28e98b66",
-   "title": "Trump: \"Grass has a life just like people have a life\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2slfs3e22j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:58:21.169+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e8fb6917b68a",
-   "title": "Trump on one of the alleged reflecting pool vandals: \"He's a member or a big payer to ActBlue. He's a big Hillary supporter, a big supporter of sleepy Joe Biden. This is a very political thing.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2sfbndr22l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:54:55.490+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2f1dc4d1bf8",
-   "title": "Trump on \"the reflecting pond\" -- \"We did a beautiful job. It's like a piece of glass. And for some reason this disturbed the radical left lunatics.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2sder6wy2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:53:51.447+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "780c3b32ef33",
-   "title": "Trump: \"We should be in my opinion at $2.25 right now at the pump. And we're higher than that. We are doing a big investigation on it.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2s6m7xq52d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:51:10.787+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e44607d132d9",
-   "title": "Q: Will the fencing around the reflecting pool be down by July 4? TRUMP: Ready? Thugs",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2s6alppr25",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:50:59.463+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "00e5009f74bf",
-   "title": "Trump on Mamdani: \"He's a charming guy, good looking guy\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2s2ujdot2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:49:06.184+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ec913d0468e2",
-   "title": "Trump: \"Schumer has lost his way. He's become, essentially, a Palestinian. I've asked for a beautiful silk outfit to be sent in the Palestinian traditional. Chuck Schumer is Jewish.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rxznzki2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:47:30.918+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ff7e51a44152",
-   "title": "Trump to a British reporter: \"You have the greatest oil field in the world, one of them. It's called the North Sea oil. All you have to do is bid it out to Exxon, Chevron, Shell, British Petroleum. They're begging to go there.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rs4bb6h2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:44:12.304+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "b6fd3b3f7a63",
-   "title": "Q: Would you want to be the first person on the new UK prime minister's list to visit London? TRUMP: No. He's very liberal",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rppnjdb2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:42:51.980+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "19b7fd6298e5",
-   "title": "Dem Lawmaker Goes Nuts and Smacks Phone Out of Reporter’s Hand When Asked About Graham Platner",
-   "link": "https://www.mediaite.com/politics/dem-lawmaker-goes-nuts-and-smacks-phone-out-of-reporters-hand-when-asked-about-graham-platner/",
-   "summary": "Rep. Seth Moulton (D-MA) wigged out and appeared to smack the phone out of a reporter's hand when he was asked whether he endorsed Graham Platner in Maine The post Dem Lawmaker Goes Nuts and Smacks Phone Out of Reporter’s Hand When Asked About Graham Platner first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T20:31:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6f5bad99825a",
-   "title": "Trump Administration Spent at Least $11 Billion Paying Federal Workers Not to Work",
-   "link": "https://www.mediaite.com/media/news/the-trump-administration-spent-at-least-11-billion-paying-federal-workers-not-to-work/",
-   "summary": "\"Based on OPM data, Public Citizen estimates that paying federal employees in the DRP not to work cost between $11.1 billion and $15.1 billion\" The post Trump Administration Spent at Least $11 Billion Paying Federal Workers Not to Work first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T20:24:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fda44e6ada2c",
-   "title": "Trump Reportedly Attacks GOP Senator For Missing Key Vote — While Campaigning With Him",
-   "link": "https://www.mediaite.com/media/news/trump-reportedly-attacks-gop-senator-for-missing-key-vote-while-campaigning-with-him/",
-   "summary": "President Trump reportedly targeted a senator during for missing a key vote — though the senator missed the vote because he was campaigning with Trump. The post Trump Reportedly Attacks GOP Senator For Missing Key Vote — While Campaigning With Him first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T20:00:49+00:00",
    "iran_topic": false
   },
   {
@@ -951,26 +971,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T16:55:07.532+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "304c10d24e92",
-   "title": "BREAKING: Trump just said he's not signing the bipartisan housing bill — to address the housing affordability crisis — until the SAVE America Act is passed. The SAVE Act, designed to help rig elections, does not have the votes to pass.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp25hskvc22m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-24T14:40:31.776+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4c2f3f046ac",
-   "title": "Nomination Sent to the Senate",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
-   "summary": "NOMINATION SENT TO THE SENATE: Konstantinos Ligris, of Florida, to be an Assistant Attorney General. The post Nomination Sent to the Senate appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-24T14:08:26+00:00",
    "iran_topic": false
   }
  ]
