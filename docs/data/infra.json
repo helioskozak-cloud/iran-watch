@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-25T00:04:08.943823+00:00",
+ "generated": "2026-06-25T02:57:26.281187+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.22,
-   "change": -3.86,
-   "change_pct": -5.01,
+   "price": 72.67,
+   "change": -4.41,
+   "change_pct": -5.72,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    73.22000122070312
+    72.66999816894531
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.97,
-   "change": -3.24,
-   "change_pct": -4.43,
+   "price": 69.44,
+   "change": -3.77,
+   "change_pct": -5.15,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    69.97000122070312
+    69.44000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4026.2,
-   "change": -103.7,
-   "change_pct": -2.51,
+   "price": 3993.8,
+   "change": -136.1,
+   "change_pct": -3.3,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4026.199951171875
+    3993.800048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.61,
-   "change": 0.2,
-   "change_pct": 0.2,
+   "price": 101.54,
+   "change": 0.13,
+   "change_pct": 0.13,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.61299896240234
+    101.53900146484375
    ]
   },
   "^GSPC": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.27,
-   "change": 0.12,
-   "change_pct": 3.88,
+   "price": 3.29,
+   "change": 0.14,
+   "change_pct": 4.51,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.2690000534057617
+    3.2890000343322754
    ]
   }
  },
@@ -218,14 +218,14 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-25T00:03:32.578910+00:00",
+   "published": "2026-06-25T02:56:40.052266+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-25T00:03:32.573404+00:00",
+   "published": "2026-06-25T02:56:40.044698+00:00",
    "severity": "low"
   },
   {
@@ -247,6 +247,13 @@
    "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
    "source": "r/worldnews",
    "published": "2026-06-24T19:59:09+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil from seized Russian tanker to be sold by UK to benefit Ukraine",
+   "link": "https://www.reddit.com/r/geopolitics/comments/1uen23p/oil_from_seized_russian_tanker_to_be_sold_by_uk/",
+   "source": "r/geopolitics",
+   "published": "2026-06-24T19:18:06+00:00",
    "severity": "info"
   },
   {
@@ -311,13 +318,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-24T14:53:58+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
-   "link": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-24T14:27:55+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,13 +325,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 12,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-25T00:03:32.573404+00:00",
+     "published": "2026-06-25T02:56:40.044698+00:00",
      "severity": "low"
     },
     {
@@ -373,6 +373,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "be6f934f3a09",
+   "title": "American Soldiers Claim Pete Hegseth Downplayed Severity of Iran War Wounds",
+   "link": "https://www.mediaite.com/media/news/american-soldiers-claim-pete-hegseth-downplayed-severity-of-iran-war-wounds/",
+   "summary": "On Wednesday, CBS News reported that two American soldiers wounded in the Iran war say the Pentagon minimized the severity of their injuries, despite suffering shrapnel wounds, traumatic brain injuries, hearing and vision loss, and requiring months of recovery. The post American Soldiers Claim Pete Hegseth Downplayed Severity of Iran War Wounds first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T02:46:36+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "06223f4fb581",
+   "title": "Maggie Haberman Says Trump Appears To Have Checked Out: ‘He’s Not Behaving Like Somebody Who Cares’",
+   "link": "https://www.mediaite.com/media/tv/maggie-haberman-says-trump-appears-to-have-checked-out-hes-not-behaving-like-somebody-who-cares/",
+   "summary": "New York Times reporter and CNN commentator Maggie Haberman said President Donald Trump does not seem to care if Republicans retain control of Congress. The post Maggie Haberman Says Trump Appears To Have Checked Out: ‘He’s Not Behaving Like Somebody Who Cares’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T02:38:34+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2fcb9964ef0e",
+   "title": "Ossoff: I don’t think many people are tuning in because he’s lost it. But more importantly, what we’re seeing is how destabilized he is by his global humiliation in the Middle East, which he cannot deny or lie away. He has cemented his place in history in disgrace.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp3c7wrmuc2o",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-25T01:38:15.861+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1f8e68a7bc0c",
+   "title": "Ossoff: Well, I think it’s a call to action for patriotic Americans to recognize that, at the 250th anniversary of our country’s founding in rejection of kingdom and monarchy, we have these events being driven by the narcissism of the president, who styles himself most like a king.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp3c4t372h2v",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-25T01:36:31.530+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "787115cb16f2",
+   "title": "Sean Duffy Says Career-Focused Young People Are Following ‘Dumbest Advice That They Could Ever Get’",
+   "link": "https://www.mediaite.com/media/tv/sean-duffy-says-career-focused-young-people-are-following-dumbest-advice-that-they-could-ever-get/",
+   "summary": "During a Wednesday rally in Washington, D.C., to kick off President Donald Trump's 'Great American State Fair,' Transportation Secretary Sean Duffy said that education and career-focused young people are following the \"dumbest advice that they could ever get.\" The post Sean Duffy Says Career-Focused Young People Are Following ‘Dumbest Advice That They Could Ever Get’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T01:28:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cc4fcc131c5a",
+   "title": "Republican Sen. Bill Cassidy confronted Trump over the Iran Memorandum of Understanding — \"yelling\" at him during the Senate GOP luncheon. Trump told Cassidy to sit down. Cassidy refused. He raised his voice even higher. Trump called Cassidy a \"lunatic.\" www.ms.now/news/inside-...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp3bawfqck2u",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T01:20:55.626+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "aeff2c39328e",
+   "title": "dipping into Trump’s big primetime speech and yep, it’s the same rally rant he always does",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp37vwrhwv2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-25T00:56:53.138+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "726fc71e1a7e",
+   "title": "Trump Claims He’s ‘Doing a Big Investigation’ Into Oil Companies Over Gas Prices",
+   "link": "https://www.mediaite.com/media/tv/trump-claims-hes-doing-a-big-investigation-into-oil-companies-over-gas-prices/",
+   "summary": "While taking questions in the Oval Office on Wednesday, President Donald Trump claimed he's \"doing a big investigation\" into oil companies over high gas prices. The post Trump Claims He’s ‘Doing a Big Investigation’ Into Oil Companies Over Gas Prices first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-25T00:53:27+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b156769349b9",
+   "title": "FLAG: The Postmaster General confirmed at a Senate hearing that under a new proposed rule, the Postal Service would not deliver mail-in ballots in states that decline to hand over sensitive data about voters to the federal government. www.ms.now/rachel-maddo...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp37bz6fgk2z",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T00:45:44.603+00:00",
+   "iran_topic": false
+  },
   {
    "id": "682f0ecd44ac",
    "title": "Reuters: US JUDGE TOSSES JUSTICE DEPARTMENT'S LAWSUIT CHALLENGING FOUR NEW JERSEY CITIES' 'SANCTUARY' IMMIGRATION POLICIES",
@@ -734,16 +824,6 @@
    "iran_topic": false
   },
   {
-   "id": "a7c570611044",
-   "title": "Trump on the bombing of the girls' school in Iran: \"I don't think it was us\" (Every credible report has concluded the US was responsible)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2ri3wwh42k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:38:35.263+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "19b7fd6298e5",
    "title": "Dem Lawmaker Goes Nuts and Smacks Phone Out of Reporter’s Hand When Asked About Graham Platner",
    "link": "https://www.mediaite.com/politics/dem-lawmaker-goes-nuts-and-smacks-phone-out-of-reporters-hand-when-asked-about-graham-platner/",
@@ -814,16 +894,6 @@
    "iran_topic": false
   },
   {
-   "id": "47e792893838",
-   "title": "MS NOW Host Compliments Mike Johnson’s Trump Spin Talent After Surprise Bill Signing Cancelled: ‘He’s Very Good’",
-   "link": "https://www.mediaite.com/media/tv/ms-now-host-compliments-mike-johnsons-trump-spin-talent-after-surprise-bill-signing-cancelled-hes-very-good/",
-   "summary": "MS NOW's Katy Tur complimented Mike Johnson's talent for \"making everything seem normal\" after watching him spin President Trump's surprise bill cancellation. The post MS NOW Host Compliments Mike Johnson’s Trump Spin Talent After Surprise Bill Signing Cancelled: ‘He’s Very Good’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T19:06:01+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "b332f4878069",
    "title": "Marjorie Taylor Greene says she's \"DONE\" with the Republican Party.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2lyuetvk2m",
@@ -831,36 +901,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T19:00:36.487+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "05f02854afdf",
-   "title": "‘A Total Cluster F*ck!’ GOP Senator Was ‘Yelling’ at Trump During Closed-Door Lunch Over Iran Deal",
-   "link": "https://www.mediaite.com/media/tv/gop-senator-was-yelling-at-trump-during-closed-door-lunch-over-iran-deal/",
-   "summary": "\"And apparently — in the words of this source, telling my colleague Mychael Schnell on the Hill — Cassidy was yelling at the president over this deal\" The post ‘A Total Cluster F*ck!’ GOP Senator Was ‘Yelling’ at Trump During Closed-Door Lunch Over Iran Deal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T18:46:28+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "dc4c901a8be9",
-   "title": "The View’s Sunny Hostin Celebrates Democratic Socialists Winning Big: ‘A Force to Be Reckoned With’",
-   "link": "https://www.mediaite.com/media/the-views-sunny-hostin-celebrates-democratic-socialists-winning-big-a-force-to-be-reckoned-with/",
-   "summary": "The View co-host Sunny Hostin was stoked three Democratic Socialists won in her hometown, saying \"perhaps it was time for change\" in the Democratic Party The post The View’s Sunny Hostin Celebrates Democratic Socialists Winning Big: ‘A Force to Be Reckoned With’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T18:16:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "907058986463",
-   "title": "Awkward! House Republican Hypes Up Housing Bill — Not Realizing Trump Had Already Pulled the Plug",
-   "link": "https://www.mediaite.com/politics/awkward-house-republican-hypes-up-housing-bill-not-realizing-trump-had-already-pulled-the-plug/",
-   "summary": "A House Republican praised a bill that was set to be signed by President Donald Trump on Wednesday -- not realizing the president had just called it off. The post Awkward! House Republican Hypes Up Housing Bill — Not Realizing Trump Had Already Pulled the Plug first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T18:01:41+00:00",
    "iran_topic": false
   },
   {
@@ -931,46 +971,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-24T08:45:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "766ae43b6412",
-   "title": "Rep. April McClain Delaney wins bitter primary to keep her Maryland House seat",
-   "link": "https://www.politico.com/news/2026/06/23/mcclain-delaney-wins-maryland-house-primary-00973137",
-   "summary": "Her victory in the Democratic contest for the 6th District blocks former Rep. David Trone from returning to Congress.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-24T03:40:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a925614cf5bc",
-   "title": "WASHINGTON (AP) — Micah Lasher wins Democratic nomination for U.S. House in New York's 12th Congressional District.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moyttbdn3c2y",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-24T02:15:19.210+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b9fa44c5a5cd",
-   "title": "Hoyer alum Adrian Boafo wins Maryland House primary with help of crypto, pro-Israel money",
-   "link": "https://www.politico.com/news/2026/06/23/boafo-wins-maryland-house-primary-00973131",
-   "summary": "The Democratic state delegate defeated a crowded 24-person field in the race to replace retiring Rep. Steny Hoyer in the 5th District.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-24T01:30:47+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "2e62c4cd666e",
-   "title": "WASHINGTON (AP) — Brad Lander wins Democratic nomination for U.S. House in New York's 10th Congressional District.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moyq6n774k2k",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-24T01:10:05.778+00:00",
    "iran_topic": false
   }
  ]
