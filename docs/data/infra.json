@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-24T22:53:55.771478+00:00",
+ "generated": "2026-06-25T00:04:08.943823+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.11,
-   "change": -3.97,
-   "change_pct": -5.15,
+   "price": 73.22,
+   "change": -3.86,
+   "change_pct": -5.01,
    "spark": [
     79.8499984741211,
     77.9000015258789,
     77.08000183105469,
-    73.11000061035156
+    73.22000122070312
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.83,
-   "change": -3.38,
-   "change_pct": -4.62,
+   "price": 69.97,
+   "change": -3.24,
+   "change_pct": -4.43,
    "spark": [
     76.5999984741211,
     74.81999969482422,
     73.20999908447266,
-    69.83000183105469
+    69.97000122070312
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4020.3,
-   "change": -109.6,
-   "change_pct": -2.65,
+   "price": 4026.2,
+   "change": -103.7,
+   "change_pct": -2.51,
    "spark": [
     4224.10009765625,
     4181.89990234375,
     4129.89990234375,
-    4020.300048828125
+    4026.199951171875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.58,
-   "change": 0.17,
-   "change_pct": 0.17,
+   "price": 101.61,
+   "change": 0.2,
+   "change_pct": 0.2,
    "spark": [
     100.8499984741211,
     101.0199966430664,
     101.41000366210938,
-    101.58399963378906
+    101.61299896240234
    ]
   },
   "^GSPC": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.26,
-   "change": 0.11,
-   "change_pct": 3.56,
+   "price": 3.27,
+   "change": 0.12,
+   "change_pct": 3.88,
    "spark": [
     3.2330000400543213,
     3.253000020980835,
     3.1470000743865967,
-    3.259000062942505
+    3.2690000534057617
    ]
   }
  },
@@ -218,14 +218,28 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-24T22:52:57.790583+00:00",
+   "published": "2026-06-25T00:03:32.578910+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-24T22:52:57.783645+00:00",
+   "published": "2026-06-25T00:03:32.573404+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
+   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp332xqxnj2r",
+   "source": "@warontherocks",
+   "published": "2026-06-24T23:30:12.631+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Current round of US-led talks between Israel, Lebanon the least productive yet — sources",
+   "link": "https://www.timesofisrael.com/liveblog-june-25-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-24T23:29:47+00:00",
    "severity": "low"
   },
   {
@@ -304,20 +318,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-24T14:27:55+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran, Oman agree to form joint committee on future administration of Hormuz Strait",
-   "link": "https://presstv.ir/Detail/2026/06/23/770967/Iran,-Oman-agree-to-form-joint-committee-on-future-administration-of-Hormuz-Strait",
-   "source": "Press TV",
-   "published": "2026-06-24T13:55:02.558072+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Erdogan says bilateral talks with Trump likely at NATO summit in Turkey",
-   "link": "https://www.al-monitor.com/originals/2026/06/erdogan-says-bilateral-talks-trump-likely-nato-summit-turkey",
-   "source": "Al-Monitor",
-   "published": "2026-06-24T13:36:44+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -331,21 +331,21 @@
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-24T22:52:57.783645+00:00",
+     "published": "2026-06-25T00:03:32.573404+00:00",
      "severity": "low"
+    },
+    {
+     "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
+     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp332xqxnj2r",
+     "source": "@warontherocks",
+     "published": "2026-06-24T23:30:12.631+00:00",
+     "severity": "info"
     },
     {
      "title": "Trump says Iran has told US no tolls being sought from ships travelling through the Strait of Hormuz",
      "link": "https://www.reddit.com/r/worldnews/comments/1ueo6ux/trump_says_iran_has_told_us_no_tolls_being_sought/",
      "source": "r/worldnews",
      "published": "2026-06-24T19:59:09+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "China's foreign minister urges swift reopening of Strait of Hormuz for global trade, Xinhua reports reut.rs/4uSEv5C",
-     "link": "https://bsky.app/profile/reuters.com/post/3mp2kusyoga2h",
-     "source": "@reuters",
-     "published": "2026-06-24T18:40:26+00:00",
      "severity": "info"
     }
    ]
@@ -373,6 +373,86 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "682f0ecd44ac",
+   "title": "Reuters: US JUDGE TOSSES JUSTICE DEPARTMENT'S LAWSUIT CHALLENGING FOUR NEW JERSEY CITIES' 'SANCTUARY' IMMIGRATION POLICIES",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp34sosqbk2e",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T00:01:22.935+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7414b3603568",
+   "title": "GOP Senator Defends Himself After He Was Reported ‘Yelling’ at Trump: ‘I’m Not Gonna Be Bullied Into Silence’",
+   "link": "https://www.mediaite.com/media/news/gop-senator-defends-himself-after-he-was-reported-yelling-at-trump-im-not-gonna-be-bullied-into-silence/",
+   "summary": "Sen. Bill Cassidy (R-LA) defended \"yelling\" at President Donald Trump over lunch, telling ABC News' Rachel Scott on Wednesday, \"I'm not gonna be bullied into silence.\" The post GOP Senator Defends Himself After He Was Reported ‘Yelling’ at Trump: ‘I’m Not Gonna Be Bullied Into Silence’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T23:58:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8122fd2aadec",
+   "title": "Just the President speculating about military takeovers of three of America’s largest cities.",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mp344r5jds2m",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-06-24T23:49:07.188+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "55070bbb798b",
+   "title": "Josh Hawley, common man of the People, (Stanford, Yale, US Senate) literally running from the consequences of his actions",
+   "link": "https://bsky.app/profile/phillipanderson.bsky.social/post/3mp344hj56k2z",
+   "summary": "",
+   "source": "@phillipanderson",
+   "category": "trump_bsky",
+   "published": "2026-06-24T23:48:57.074+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f9ca7d08631b",
+   "title": "The lack of self-awareness in this exchange is incredible",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp33n3nxwh24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T23:40:21.331+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f43e803cf240",
+   "title": "Bret Baier Confronts Bessent About Trump’s Dismal Approval Rating: ‘It’s Upside-Down’",
+   "link": "https://www.mediaite.com/media/tv/bret-baier-confronts-bessent-about-trumps-dismal-approval-rating-its-upside-down/",
+   "summary": "Fox News&#8217;s Bret Baier interviewed Treasury Secretary Scott Bessent and asked the cabinet official why President Donald Trump&#8217;s approval rating on the economy is &#8220;upside-down.&#8221; Bessent spoke at the Economic Club of New York on Tuesday night, where he said, &#8220;The purpose of American economic statecraft is to connect national power with household prosperity.&#8221; Afterward, Baier [&#8230;] The post Bret Baier Confronts Bessent About Trump’s Dismal Approval Rating: ‘It’s Upside-Down’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T23:24:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0d79b4d4e18e",
+   "title": "I will not be clipping Trump’s 250th rally tonight because I am celebrating America’s 250th in my own way by watching Shohei Ohtani pitch.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp32qf5zuk24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-24T23:24:18.226+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7330655ab25e",
+   "title": "Ken Paxton Silent as Reporter Repeatedly Asks Him About Plea Deal With Pedophile",
+   "link": "https://www.mediaite.com/media/news/ken-paxton-silent-as-reporter-repeatedly-asks-him-about-plea-deal-with-pedophile/",
+   "summary": "During a Wednesday on-the-street interview with MeidasTouch, Texas Attorney General Ken Paxton was silent as a reporter repeatedly asked him about his plea deal with pedophile Adam Hoffman. The post Ken Paxton Silent as Reporter Repeatedly Asks Him About Plea Deal With Pedophile first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-24T23:18:33+00:00",
+   "iran_topic": false
+  },
   {
    "id": "e7df645a1005",
    "title": "‘I’m Done, I’m Not in That F*cking Political Party’: James Carville Freaks Out After Progressives Win Big in Democratic Primaries",
@@ -664,46 +744,6 @@
    "iran_topic": true
   },
   {
-   "id": "55202e0b838c",
-   "title": "Q: Have you seen the report into the Iran girls' school attack? TRUMP: I have not seen it Q: Why not? TRUMP: I have to wait for it to be completed. I don't know they're ever gonna solve that problem. You could ask Pete. Maybe it wasn't our missile.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rhfbfns2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:38:12.608+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "88c2a9301a35",
-   "title": "Q: You like winners. Do you think President Zelenskyy is winning right now? TRUMP: He's doing pretty well. Look, you have to say he's courageous. He's got fighters.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2reayd7c2w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:36:27.506+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f9f907cba994",
-   "title": "Q: What do you the allies to do more than what they are doing right now? TRUMP: I just want their loyalty. Just give us a little kiss. We don't want much. They say, 'No, we can't do it.'",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2rcirkn32n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:35:28.317+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5480f163e077",
-   "title": "TRUMP: Except for the fact that the NATO meeting is being held in Turkey by President Erdogan, I don't think I would've gone to it RUTTE: But you would've come for me",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp2raefzng2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-24T20:34:16.227+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "19b7fd6298e5",
    "title": "Dem Lawmaker Goes Nuts and Smacks Phone Out of Reporter’s Hand When Asked About Graham Platner",
    "link": "https://www.mediaite.com/politics/dem-lawmaker-goes-nuts-and-smacks-phone-out-of-reporters-hand-when-asked-about-graham-platner/",
@@ -824,36 +864,6 @@
    "iran_topic": false
   },
   {
-   "id": "c1c789b9320d",
-   "title": "MS NOW’s Psaki and Hayes Bummed Over ‘Dead Ducks’ in Trump Reflecting Pool: ‘Feels Very Bad Here’",
-   "link": "https://www.mediaite.com/media/news/ms-nows-psaki-and-hayes-bummed-over-dead-ducks-in-trump-reflecting-pool-feels-very-bad-here/",
-   "summary": "MS NOW hosts Jen Psaki and Chris Hayes expressed sadness at the dead ducks that have been found amid President Donald Trump's renovation of the Reflecting Pool. The post MS NOW’s Psaki and Hayes Bummed Over ‘Dead Ducks’ in Trump Reflecting Pool: ‘Feels Very Bad Here’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T17:56:59+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46301f309caf",
-   "title": "‘Scary Night for NYC Jews’: Moderate Dems Aghast Over Mamdani Sweep",
-   "link": "https://www.mediaite.com/politics/scary-night-for-nyc-jews-moderate-dems-aghast-over-mamdani-sweep/",
-   "summary": "MS NOW columnist Michael Cohen reacted to the results on X, writing, “This is a genuinely scary night for New York City Jews.” The post ‘Scary Night for NYC Jews’: Moderate Dems Aghast Over Mamdani Sweep first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T17:53:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ccbba6f4025a",
-   "title": "Washington Post Investigation Finds AI Chatbots Have Huge Liberal Bias",
-   "link": "https://www.mediaite.com/media/news/washington-post-investigation-finds-ai-chatbots-have-huge-liberal-bias/",
-   "summary": "The Washington Post tested a number of high-profile AI chatbots and found that all of them -- including Elon Musk's Grok -- leaned to the left. The post Washington Post Investigation Finds AI Chatbots Have Huge Liberal Bias first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-24T17:47:35+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "315810b65133",
    "title": "BREAKING: BOSTON (AP) - Federal judge bars Trump from implementing proof of citizenship requirement to vote.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp2eyi7ers2s",
@@ -961,16 +971,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-24T01:10:05.778+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0def8e5448f2",
-   "title": "BREAKING: A Trump-endorsed candidate just defeated a Trump-endorsed candidate in the Republican primary for governor in South Carolina.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3moyl7aju4c2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-23T23:40:57.342+00:00",
    "iran_topic": false
   }
  ]
