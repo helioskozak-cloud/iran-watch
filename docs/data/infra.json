@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-26T07:50:16.588130+00:00",
+ "generated": "2026-06-26T08:55:02.375985+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.83,
-   "change": -1.43,
-   "change_pct": -1.9,
+   "price": 73.0,
+   "change": -2.26,
+   "change_pct": -3.0,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    73.83000183105469
+    73.0
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.25,
-   "change": -1.67,
-   "change_pct": -2.32,
+   "price": 69.43,
+   "change": -2.49,
+   "change_pct": -3.46,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
-    70.25
+    69.43000030517578
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4051.2,
-   "change": 20.7,
-   "change_pct": 0.51,
+   "price": 4050.6,
+   "change": 20.1,
+   "change_pct": 0.5,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4051.199951171875
+    4050.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.32,
-   "change": -0.11,
-   "change_pct": -0.11,
+   "price": 101.22,
+   "change": -0.21,
+   "change_pct": -0.21,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
-    101.31500244140625
+    101.22000122070312
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.58,
-   "change": 0.69,
-   "change_pct": 3.65,
+   "price": 19.83,
+   "change": 0.94,
+   "change_pct": 4.98,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
-    19.579999923706055
+    19.829999923706055
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.32,
-   "change": -0.02,
-   "change_pct": -0.69,
+   "price": 3.33,
+   "change": -0.01,
+   "change_pct": -0.3,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
-    3.319999933242798
+    3.3329999446868896
    ]
   }
  },
@@ -224,29 +224,36 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-26T07:49:25.051219+00:00",
+   "published": "2026-06-26T08:54:23.319605+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
    "source": "Press TV",
-   "published": "2026-06-26T07:49:25.045496+00:00",
+   "published": "2026-06-26T08:54:23.313958+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-26T07:49:25.045295+00:00",
+   "published": "2026-06-26T08:54:23.313766+00:00",
    "severity": "low"
   },
   {
    "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
    "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-26T07:49:25.043514+00:00",
+   "published": "2026-06-26T08:54:23.311995+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Hormuz oil shock echoes 1973 embargo lessons reut.rs/3QNCgm2",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp6iuqs3sx2g",
+   "source": "@reuters",
+   "published": "2026-06-26T08:15:16+00:00",
+   "severity": "info"
   },
   {
    "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
@@ -317,13 +324,6 @@
    "source": "Times of Israel",
    "published": "2026-06-25T23:58:20+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
-   "link": "https://www.jpost.com/middle-east/article-900574",
-   "source": "Jerusalem Post",
-   "published": "2026-06-25T21:48:21+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 12,
+   "incident_count": 13,
    "recent": [
     {
      "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
      "source": "Press TV",
-     "published": "2026-06-26T07:49:25.045496+00:00",
+     "published": "2026-06-26T08:54:23.313958+00:00",
      "severity": "medium"
     },
     {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-26T07:49:25.045295+00:00",
+     "published": "2026-06-26T08:54:23.313766+00:00",
      "severity": "low"
     },
     {
      "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
      "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-26T07:49:25.043514+00:00",
+     "published": "2026-06-26T08:54:23.311995+00:00",
      "severity": "medium"
     }
    ]
