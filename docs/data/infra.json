@@ -1,116 +1,116 @@
 {
- "generated": "2026-06-26T16:01:03.698034+00:00",
+ "generated": "2026-06-26T17:56:02.303352+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 72.31,
-   "change": -2.95,
-   "change_pct": -3.92,
+   "price": 72.65,
+   "change": -2.61,
+   "change_pct": -3.47,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    72.30999755859375
+    72.6500015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 68.86,
-   "change": -3.06,
-   "change_pct": -4.25,
+   "price": 69.31,
+   "change": -2.61,
+   "change_pct": -3.63,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
-    68.86000061035156
+    69.30999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4108.8,
-   "change": 78.3,
-   "change_pct": 1.94,
+   "price": 4091.5,
+   "change": 61.0,
+   "change_pct": 1.51,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4108.7998046875
+    4091.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.22,
-   "change": -0.21,
-   "change_pct": -0.21,
+   "price": 101.34,
+   "change": -0.09,
+   "change_pct": -0.09,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
-    101.21900177001953
+    101.33599853515625
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7381.42,
-   "change": 23.93,
-   "change_pct": 0.33,
+   "price": 7366.02,
+   "change": 8.53,
+   "change_pct": 0.12,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
     7357.490234375,
-    7381.419921875
+    7366.02001953125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 104.89,
-   "change": -4.42,
-   "change_pct": -4.04,
+   "price": 105.32,
+   "change": -3.99,
+   "change_pct": -3.65,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
     109.30999755859375,
-    104.88999938964844
+    105.31999969482422
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.7,
-   "change": -0.19,
-   "change_pct": -1.01,
+   "price": 18.88,
+   "change": -0.01,
+   "change_pct": -0.05,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
-    18.700000762939453
+    18.8799991607666
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.35,
-   "change": 0.01,
-   "change_pct": 0.18,
+   "price": 3.33,
+   "change": -0.02,
+   "change_pct": -0.54,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
-    3.3489999771118164
+    3.325000047683716
    ]
   }
  },
@@ -221,10 +221,101 @@
  ],
  "incidents": [
   {
+   "title": "Trump accuses Iran of drone attack on ships in Strait of Hormuz",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900620",
+   "source": "Jerusalem Post",
+   "published": "2026-06-26T19:14:15+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900619",
+   "source": "Jerusalem Post",
+   "published": "2026-06-26T18:32:52+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-26T15:59:49.245628+00:00",
+   "published": "2026-06-26T17:55:11.533550+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
+   "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T17:55:11.526921+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
+   "link": "https://presstv.ir/Detail/2026/06/26/771117/Iran-condemns-PGCC-US-statement",
+   "source": "Press TV",
+   "published": "2026-06-26T17:55:11.526708+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
+   "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T17:55:11.525639+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN agency working to restart Hormuz evacuations after ship attack",
+   "link": "https://www.al-monitor.com/originals/2026/06/un-agency-working-restart-hormuz-evacuations-after-ship-attack",
+   "source": "Al-Monitor",
+   "published": "2026-06-26T17:36:43+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "UN agency working to restart Hormuz evacuations after ship attack reut.rs/4b6kjGf",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp7i62h5i527",
+   "source": "@reuters",
+   "published": "2026-06-26T17:35:14+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Iran rejects US-PGCC declaration, defends regional security doctrine",
+   "link": "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine",
+   "source": "Tehran Times",
+   "published": "2026-06-26T17:11:29+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Ships crossing Hormuz use Oman passage despite Iran warnings",
+   "link": "https://www.al-monitor.com/originals/2026/06/ships-crossing-hormuz-use-oman-passage-despite-iran-warnings-0",
+   "source": "Al-Monitor",
+   "published": "2026-06-26T16:30:18+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "BREAKING: President Trump blames Iran for a drone strike on a ship in the Strait of Hormuz and calls it a \"foolish violation\" of ceasefire agreement.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mp7dovjffp2x",
+   "source": "@apnews",
+   "published": "2026-06-26T16:15:10+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Trump calls Iran’s drone attack on cargo ship 'foolish violation' of ceasefire",
+   "link": "https://www.al-monitor.com/originals/2026/06/trump-calls-irans-drone-attack-cargo-ship-foolish-violation-ceasefire",
+   "source": "Al-Monitor",
+   "published": "2026-06-26T16:12:15+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ugb6mn/trump_says_iran_violated_ceasefire_with_drone/",
+   "source": "r/worldnews",
+   "published": "2026-06-26T16:11:48+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UAE stresses Hormuz security in rare call with Iran after war tensions",
+   "link": "https://www.al-monitor.com/originals/2026/06/uae-stresses-hormuz-security-rare-call-iran-after-war-tensions",
+   "source": "Al-Monitor",
+   "published": "2026-06-26T16:01:46+00:00",
    "severity": "info"
   },
   {
@@ -233,97 +324,6 @@
    "source": "Press TV",
    "published": "2026-06-26T15:59:49.240090+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
-   "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-26T15:59:49.238968+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
-   "link": "https://presstv.ir/Detail/2026/06/26/771117/Iran-condemns-PGCC-US-statement",
-   "source": "Press TV",
-   "published": "2026-06-26T15:59:49.238227+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
-   "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-26T15:59:49.237632+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Crew of tanker illegally seized by US released to Iran consulate in Karachi",
-   "link": "https://en.irna.ir/news/86193302/Crew-of-tanker-illegally-seized-by-US-released-to-Iran-consulate",
-   "source": "IRNA",
-   "published": "2026-06-26T15:44:51+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UAE stresses Hormuz security in rare call with Iran after war tensions reut.rs/4v90w0o",
-   "link": "https://bsky.app/profile/reuters.com/post/3mp7bqnp4xp22",
-   "source": "@reuters",
-   "published": "2026-06-26T15:40:22+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Ships crossing Hormuz use Oman passage despite Iran warnings",
-   "link": "https://www.al-monitor.com/originals/2026/06/ships-crossing-hormuz-use-oman-passage-despite-iran-warnings",
-   "source": "Al-Monitor",
-   "published": "2026-06-26T15:30:20+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran slams joint US-PGCC statement as ‘distortion of truth’",
-   "link": "https://en.irna.ir/news/86193312/Iran-slams-joint-US-PGCC-statement-as-distortion-of-truth",
-   "source": "IRNA",
-   "published": "2026-06-26T15:30:09+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
-   "link": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-26T14:59:15+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Dozens of protesters block road in Bnei Brak in demand for ultra-Orthodox military draft",
-   "link": "https://www.timesofisrael.com/dozens-of-protesters-block-road-in-bnei-brak-in-demand-for-ultra-orthodox-military-draft/",
-   "source": "Times of Israel",
-   "published": "2026-06-26T14:48:34+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-   "link": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-26T14:04:34+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "French Seizes 5th Russian Shadow Fleet Tanker",
-   "link": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
-   "source": "USNI News",
-   "published": "2026-06-26T14:02:28+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Amphib USS Fort Lauderdale, LCS USS Billings Headed to Venezuela",
-   "link": "https://news.usni.org/2026/06/26/amphib-uss-fort-lauderdale-lcs-uss-billings-headed-to-venezuela",
-   "source": "USNI News",
-   "published": "2026-06-26T12:56:01+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Iran doubled down on Friday on its claim to being a central authority in managing marine traffic through the Strait of Hormuz, a day after its forces struck a container vessel there, temporarily halting shipping through the critical waterway.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mp6xoalv3i2y",
-   "source": "@nytimes",
-   "published": "2026-06-26T12:40:04.014897+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -331,27 +331,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 7,
+   "incident_count": 11,
    "recent": [
     {
-     "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
-     "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
-     "source": "Press TV",
-     "published": "2026-06-26T15:59:49.240090+00:00",
-     "severity": "medium"
+     "title": "Trump accuses Iran of drone attack on ships in Strait of Hormuz",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900620",
+     "source": "Jerusalem Post",
+     "published": "2026-06-26T19:14:15+00:00",
+     "severity": "critical"
+    },
+    {
+     "title": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900619",
+     "source": "Jerusalem Post",
+     "published": "2026-06-26T18:32:52+00:00",
+     "severity": "low"
     },
     {
      "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
      "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-26T15:59:49.238968+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
-     "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
-     "source": "Press TV",
-     "published": "2026-06-26T15:59:49.237632+00:00",
+     "published": "2026-06-26T17:55:11.526921+00:00",
      "severity": "info"
     }
    ]
@@ -380,6 +380,216 @@
  ],
  "wh_statements": [
   {
+   "id": "187609a1daae",
+   "title": "Alan Dershowitz Predicts Trump Will ‘Mostly’ Lose Birthright Citizenship Case at Supreme Court",
+   "link": "https://www.mediaite.com/media/tv/alan-dershowitz-predicts-trump-will-mostly-lose-birthright-citizenship-case-at-supreme-court/",
+   "summary": "Alan Dershowitz predicted the Supreme Court will \"mostly\" rule against President Donald Trump and his administration on birthright citizenship. The post Alan Dershowitz Predicts Trump Will ‘Mostly’ Lose Birthright Citizenship Case at Supreme Court first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T17:47:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "feadedaced2c",
+   "title": "Mike Johnson warns that some Democrats want to \"establish public ownership of the largest corporations\" (who wants to tell him ... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7irpvvnj22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T17:46:14.376+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "70dda1fcc467",
+   "title": "Trump Threatens European Countries With ‘100% TARIFF’ If They Enact Digital Services Tax on U.S. Companies",
+   "link": "https://www.mediaite.com/media/news/trump-threatens-european-countries-with-100-tariff-if-they-enact-digital-services-tax-on-u-s-companies/",
+   "summary": "Donald Trump is vowing to protect U.S. tech giants by threatening to impose a \"100% TARIFF\" on any European country that implements a digital services tax. The post Trump Threatens European Countries With ‘100% TARIFF’ If They Enact Digital Services Tax on U.S. Companies first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T17:45:12+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "86c9b19da6d0",
+   "title": "Bold thing to say when your party is in control of literally everything.",
+   "link": "https://bsky.app/profile/rexhuppke.bsky.social/post/3mp7ilhdufc2o",
+   "summary": "",
+   "source": "@rexhuppke",
+   "category": "trump_bsky",
+   "published": "2026-06-26T17:42:44.081+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f590f18c4971",
+   "title": "Trump Used $689K in Park Service Taxpayer Funds for White House Walkway: Report",
+   "link": "https://www.mediaite.com/media/news/trump-used-689k-in-park-service-taxpayer-funds-for-white-house-walkway-report/",
+   "summary": "President Donald Trump used $689,232 in taxpayer funds from the National Park Service to fund his White House walkway replacement — after claiming he would pay for the project himself — a Friday report from The Atlantic shows. The post Trump Used $689K in Park Service Taxpayer Funds for White House Walkway: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T17:42:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0ed6831eb8e4",
+   "title": "Mike Johnson: \"Right now the foundations of America are under violent and unprecedented attack\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7iglar732j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T17:40:00.388+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e961c72c7f56",
+   "title": "Billionaire Who Gave Epstein More Than $150 Million Denies Paying for Women in House Oversight Testimony: ‘Baseless Speculation’",
+   "link": "https://www.mediaite.com/media/news/billionaire-who-gave-epstein-more-than-150-million-denies-paying-for-women-in-house-oversight-testimony-baseless-speculation/",
+   "summary": "Billionaire Leon Black gave closed-door testimony where he lashed out at \"ugly and vicious narratives\" about him and his ties to Jeffrey Epstein. The post Billionaire Who Gave Epstein More Than $150 Million Denies Paying for Women in House Oversight Testimony: ‘Baseless Speculation’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T17:09:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ec253f742c80",
+   "title": "Trump Slams Iran’s ‘Foolish Violation’ of Ceasefire After Latest Drone Attacks",
+   "link": "https://www.mediaite.com/media/news/trump-rages-at-irans-foolish-violation-of-ceasefire-after-latest-drone-attacks/",
+   "summary": "The Iranian attacks in the Strait came a day after Trump told reporters in the Oval Office, “We have total control of the strait.” The post Trump Slams Iran’s ‘Foolish Violation’ of Ceasefire After Latest Drone Attacks first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T17:07:12+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "a81bc546bb74",
+   "title": "Johnson: If we lose the midterms, these Democrats will turn every committee of Congress into an investigative body, and they'll go after the president's family, the cabinet, his donors, friends, half of you in this room will be targeted. I run the protection program. We’ll take care of you.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp7girjxvs2d",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-26T17:05:26.409+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89e327547885",
+   "title": "Trump Rages at Fox News Anchor for Reporting His Administration Has Lower ICE Arrest Rate Than Biden or Obama",
+   "link": "https://www.mediaite.com/media/news/trump-rages-at-fox-news-anchor-for-reporting-his-administration-has-lower-ice-arrest-rate-than-biden-or-obama/",
+   "summary": "Donald Trump shaded Shannon Bream for reporting that the number of ICE arrests under former Obama were \"comparable\" to those made under him. The post Trump Rages at Fox News Anchor for Reporting His Administration Has Lower ICE Arrest Rate Than Biden or Obama first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:59:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8ad4390f5033",
+   "title": "‘Vile Sh*t!’ Megyn Kelly Bombarded From All Sides Over ‘Explicitly Racist’ Rant on Trump SCOTUS Win",
+   "link": "https://www.mediaite.com/media/news/vile-sht-megyn-kelly-bombarded-from-all-sides-over-explicitly-racist-rant-on-trump-scotus-win/",
+   "summary": "YouTube and Sirius XM host Megyn Kelly was bombarded from all sides over a rant that was even called \"explicitly racist\" by a longtime White Nationalist. The post ‘Vile Sh*t!’ Megyn Kelly Bombarded From All Sides Over ‘Explicitly Racist’ Rant on Trump SCOTUS Win first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:50:59+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b6b25f0a864c",
+   "title": "CNN’s Wolf Blitzer Hits Hakeem Jeffries with Back-to-Back Clips Calling Out His Leadership: ‘Are You the Right Person?’",
+   "link": "https://www.mediaite.com/media/tv/cnns-wolf-blitzer-hits-hakeem-jeffries-with-back-to-back-clips-calling-out-his-leadership-are-you-the-right-person/",
+   "summary": "CNN's Wolf Blitzer confronted Hakeem Jeffries with back-to-back clips of lawmakers calling out his leadership, including a Democratic member of Congress. The post CNN’s Wolf Blitzer Hits Hakeem Jeffries with Back-to-Back Clips Calling Out His Leadership: ‘Are You the Right Person?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:46:19+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bbde6035be61",
+   "title": "Bessent: \"We can't tell people, 'let them eat flatscreens.' I think people would rather have their communities back, they'd rather have the dignity of work than cheap gadgets.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7f5nhmsv22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:41:19.408+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "095f369a8f50",
+   "title": "Trump: \"Iran shot at least four One Way Attack Drones at Ships transversing the Strait of Hormuz. One of the Drones solidly hit the upper deck of a large and very expensive Cargo Carrying Ship ... Obviously, this is a foolish violation of our Ceasefire\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7exloynk2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:37:56.327+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "9327335b9394",
+   "title": "The Biggest Names in Sports Media Embarrassed Themselves Latching onto the Latest Manufactured Caitlin Clark Outrage",
+   "link": "https://www.mediaite.com/opinion/the-biggest-names-in-sports-media-embarrassed-themselves-latching-onto-the-latest-manufactured-caitlin-clark-outrage/",
+   "summary": "The most prominent figures in sports media were quick to join the latest discourse involving Caitlin Clark. They made themselves look foolish in the process. The post The Biggest Names in Sports Media Embarrassed Themselves Latching onto the Latest Manufactured Caitlin Clark Outrage first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:37:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "114c2da37d18",
+   "title": "Trump: \"The Fourth of July Airshow over DC will be the biggest, by far, in the History of the US. Hundreds of Planes, of different types, sizes, & speeds, will be on display. It goes from 1:15 until 11:30 in the evening. I will be speaking at approximately 9, preceding the Fireworks ... \"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7esp3y4c2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:35:12.126+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dc21bc62b462",
+   "title": "Bessent says Iran was \"two weeks away\" from a nuclear weapon (In other words, they'd get one as soon as Trump released his healthcare plan ... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7eooecjn2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:32:57.117+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "0673e34f4300",
+   "title": "BREAKING on MS NOW: House Oversight just issued two subpoenas to billionaire and Epstein associate Leon Black — after he refused to answer questions about allegations that he signed NDAs with young women. One subpoena is for Black to appear under oath on 7/16. The other is for the NDAs themselves.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp7eaobgbs2i",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:25:07.275+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5dec58b722e1",
+   "title": "Thomas Massie Says He’ll Vote For The SAVE Act Before Trashing Trump’s Election Fraud Claims: ‘We Won All The Damn Elections!’",
+   "link": "https://www.mediaite.com/media/news/thomas-massie-says-hell-vote-for-the-save-act-before-trashing-trumps-election-fraud-claims-we-won-all-the-damn-elections/",
+   "summary": "Leland Vittert confronted Rich McCormick about Donald Trump's attempt to strongarm Senate Republicans into passing the SAVE America Act. The post Thomas Massie Says He’ll Vote For The SAVE Act Before Trashing Trump’s Election Fraud Claims: ‘We Won All The Damn Elections!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:19:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "777077c26848",
+   "title": "going live with @paulwaldman.bsky.social at 12:45pm Eastern to talk about Trump tanking the housing bill and what it says about the death of policy, the New York elections and why primaries are good, and we'll take questions from viewers too. Tune in!",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7dqaotx22l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T16:15:56.164+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2e2a22dbf2cb",
+   "title": "Protestors Screaming Trump ‘IS A PEDOPHILE!’ Live on CNN Force On-Air Disclaimer",
+   "link": "https://www.mediaite.com/media/news/protestors-screaming-trump-is-a-pedophile-live-on-cnn-force-on-air-disclaimer/",
+   "summary": "CNN had to issue a disclaimer after his live reporter remote was disrupted by a Reflecting Pool protester screaming that \"THE PRESIDENT IS A PEDOPHILE!\" The post Protestors Screaming Trump ‘IS A PEDOPHILE!’ Live on CNN Force On-Air Disclaimer first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T16:12:17+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "07374c2e150b",
    "title": "Fox’s Mark Levin Blown Away by Dem Standing in Way of Trump Potentially Helping Russia",
    "link": "https://www.mediaite.com/politics/foxs-mark-levin-blown-away-by-dem-standing-in-way-of-trump-potentially-helping-russia/",
@@ -397,6 +607,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-26T15:25:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f625d13432d4",
+   "title": "...and then you tell her she can never see her parents again and send her back to the cartel",
+   "link": "https://bsky.app/profile/jesseltaylor.bsky.social/post/3mp7ajigcfk2v",
+   "summary": "",
+   "source": "@jesseltaylor",
+   "category": "trump_bsky",
+   "published": "2026-06-26T15:18:28.166+00:00",
    "iran_topic": false
   },
   {
@@ -580,29 +800,9 @@
    "iran_topic": false
   },
   {
-   "id": "7a1cfecf9feb",
-   "title": "Homan: \"We had a record, historic year with deportations. But now we've got 10,000 more agents on board. Wait until next year.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7534zad42h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:16:45.206+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d23c97666cf",
-   "title": "Homan on undocumented people: \"There are some who say we should be arresting everybody. Well, we are.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp752h6gcv2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:16:22.238+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c127cb17e057",
+   "id": "b4f743cfed0b",
    "title": "Norway is pillaging hearts and minds",
-   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/norway-viking-hard-ancestors-soft-power-ambassador-anniken-huitfedt-00977640",
+   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/norway-viking-hard-ancestors-soft-power-ambassador-anniken-huitfedt-00977640",
    "summary": "The Viking Army is conquering America. Their ambassador wants you to know there's a message behind the mayhem.",
    "source": "Politico Politics",
    "category": "politico_pol",
@@ -630,63 +830,13 @@
    "iran_topic": false
   },
   {
-   "id": "5a6191823591",
-   "title": "The October 2024 cover of The Economist:",
-   "link": "https://bsky.app/profile/kevinmkruse.bsky.social/post/3mp74qwfqzk2l",
+   "id": "5799ee192392",
+   "title": "Trump's lawless witch hunt of Tim Walz crashes and burns \"One thing that is becoming increasingly clear as Pres Trump’s second term grinds on is that the lower courts have had enough and aren’t interested in entertaining the admin’s persistent lawlessness.\" www.publicnotice.co/p/walz-frey-...",
+   "link": "https://bsky.app/profile/bjweinman.bsky.social/post/3mp73knbvlk2s",
    "summary": "",
-   "source": "@kevinmkruse",
+   "source": "@bjweinman",
    "category": "trump_bsky",
-   "published": "2026-06-26T14:11:02.719+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d478844bf868",
-   "title": "These ugly, bitter people are getting everything their ugly, bitter hearts have ever wanted thanks to their mad king but they’re still ugly and bitter. The problem isn’t us. It’s you.",
-   "link": "https://bsky.app/profile/tusk81.bsky.social/post/3mp74mvub6s23",
-   "summary": "",
-   "source": "@tusk81",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:08:47.951+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "32c5940c2d49",
-   "title": "REED: A lot of people don't really realize what a horrible economy Trump inherited SEN. DAVE McCORMICK: Terrible",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp74jbpbud22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:06:46.140+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9f7067319102",
-   "title": "\"it’s possible that sanctuary policies or resistance efforts could somehow lead to violent actions... but in and of themselves, those things are simply not crimes. But the federal government really, really wants them to be crimes, and that’s what both the subpoenas and the indictments are about.\"",
-   "link": "https://bsky.app/profile/wendella.bsky.social/post/3mp745reyp22h",
-   "summary": "",
-   "source": "@wendella",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:00:19.941+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5afc9f164561",
-   "title": "“and more!”",
-   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mp73vfxxis2i",
-   "summary": "",
-   "source": "@darthbluesky",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:55:39.544+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4dedf805eaa3",
-   "title": "Trump claims his approval rating is 65 percent 😆😭",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp73s7zstc2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:53:52.649+00:00",
+   "published": "2026-06-26T13:49:38.110+00:00",
    "iran_topic": false
   },
   {
@@ -700,16 +850,6 @@
    "iran_topic": false
   },
   {
-   "id": "c1129c8e45ea",
-   "title": "JD Vance doesn't know his history. Watergate wasn't about covering up a burglary. We now understand that Watergate was about covering up Nixon's attempt at treason and stalling the Paris Peace Talks to end the Vietnam War. www.doomsdayscenario.co/p/jd-vance-a...",
-   "link": "https://bsky.app/profile/vermontgmg.bsky.social/post/3mp73cmsnqs2o",
-   "summary": "",
-   "source": "@vermontgmg",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:45:09.175+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d3cecb36eae0",
    "title": "Blockbuster Authors Reveal Jeff Bezos and Trump Ripped Washington Post Reporters Together",
    "link": "https://www.mediaite.com/media/blockbuster-authors-reveal-jeff-bezos-and-trump-ripped-washington-post-reporters-together/",
@@ -717,16 +857,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-26T13:40:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "db55095621d1",
-   "title": "Rep. Mary Miller: \"I'm afraid that if we don't secure our elections, we'll end up with one party rule\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7327r4xl2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:40:27.047+00:00",
    "iran_topic": false
   },
   {
@@ -740,26 +870,6 @@
    "iran_topic": false
   },
   {
-   "id": "323a60003d90",
-   "title": "If Dr. Phelan cannot be honest about Trump's economy, the American people cannot trust him to help fix it.",
-   "link": "https://bsky.app/profile/warren.senate.gov/post/3mp72fhujps25",
-   "summary": "",
-   "source": "@warren",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:28:50.916+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f9d665588a65",
-   "title": "WNBA Star Sophie Cunningham Pointing Memes Explode All Over X in Gusher of Gags — Good, Bad, and Ugly",
-   "link": "https://www.mediaite.com/media/sports/wnba-star-sophie-cunningham-pointing-memes-explode-all-over-x-in-gusher-of-gags-good-bad-and-ugly/",
-   "summary": "Indiana Fever star Sophie Cunningham has quickly become social media's latest meme obsession thanks to a 22-second finger-pointing moment from a heated game. The post WNBA Star Sophie Cunningham Pointing Memes Explode All Over X in Gusher of Gags — Good, Bad, and Ugly first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T13:23:44+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e4f9617e38ac",
    "title": "The nation’s cartoonists on the week in politics",
    "link": "https://www.politico.com/gallery/2026/06/26/the-nations-cartoonists-on-the-week-in-politics-00977808",
@@ -770,93 +880,13 @@
    "iran_topic": false
   },
   {
-   "id": "dd25fa1be911",
-   "title": "Ex-Trump Spox Gets Called Out For Interrupting in Heated CNN Brawl: ‘Let Other People Speak!’",
-   "link": "https://www.mediaite.com/media/news/ex-trump-spox-gets-called-out-for-interrupting-in-heated-cnn-brawl-let-other-people-speak/",
-   "summary": "CNN anchor Abby Phillip scolded ex-Trump campaign official Caroline Sunshine for persistent interruptions during a heated brawl over race and immigration. The post Ex-Trump Spox Gets Called Out For Interrupting in Heated CNN Brawl: ‘Let Other People Speak!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T12:44:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c4c665e06443",
-   "title": "Maggie Haberman: Trump White House ‘Never Quite Recovered’ From Elon Musk",
-   "link": "https://www.mediaite.com/media/maggie-haberman-trump-white-house-never-quite-recovered-from-elon-musk/",
-   "summary": "Maggie Haberman said President Trump's second administration \"never quite recovered\" from Elon Musk's involvement during the early months of the administration The post Maggie Haberman: Trump White House ‘Never Quite Recovered’ From Elon Musk first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T12:28:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "826aa5c292fb",
-   "title": "Scott Pelley Signs With CAA After His ’60 Minutes’ Ouster",
-   "link": "https://www.mediaite.com/media/news/scott-pelley-signs-with-caa-after-his-60-minutes-ouster/",
-   "summary": "Pelley's new representation places him alongside former 60 Minutes colleague Lesley Stahl, who is also represented by the agency. The post Scott Pelley Signs With CAA After His ’60 Minutes’ Ouster first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T12:13:48+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3cc9926aa0c9",
-   "title": "Dan Bongino Erupts on The View’s Joy Behar for Defending ‘Socialism’: ‘Dunce Cap Wearer’",
-   "link": "https://www.mediaite.com/media/tv/dan-bongino-erupts-on-the-views-joy-behar-for-defending-socialism-dunce-cap-wearer/",
-   "summary": "Behar made the comments on ABC’s The View as the panel discussed a string of Democratic primary victories by congressional candidates endorsed by Mamdani. The post Dan Bongino Erupts on The View’s Joy Behar for Defending ‘Socialism’: ‘Dunce Cap Wearer’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T12:04:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "926d7a35bf46",
-   "title": "CNN’s Jake Tapper Sounds Alarm on Trump Power Grab Amid Maggie Haberman Bombshells",
-   "link": "https://www.mediaite.com/media/news/cnns-jake-tapper-sounds-alarm-on-trump-power-grab-amid-maggie-haberman-bombshells/",
-   "summary": "Jake Tapper sounded the alarm over Trump's potential future abuses of power amid bombshell revelations from the explosive new Maggie Haberman tome. The post CNN’s Jake Tapper Sounds Alarm on Trump Power Grab Amid Maggie Haberman Bombshells first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T11:50:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b0cb4880088b",
-   "title": "Josh Shapiro Throws Down the Gauntlet in Fiery Commentary at MS NOW Event: Midterms a ‘Referendum’ on the ‘Cruelty’ of Trump",
-   "link": "https://www.mediaite.com/media/news/josh-shapiro-throws-down-the-gauntlet-in-fiery-commentary-at-ms-now-event-midterms-a-referendum-on-the-cruelty-of-trump/",
-   "summary": "Shapiro urged voters Thursday night to reject what he described as \"the chaos, the cruelty, and the corruption\" of Trump in the midterm elections. The post Josh Shapiro Throws Down the Gauntlet in Fiery Commentary at MS NOW Event: Midterms a ‘Referendum’ on the ‘Cruelty’ of Trump first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T11:47:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "36fbe52d88bc",
-   "title": "Joe Scarborough Trashes JD Vance’s ‘Stupid’ Nixon ‘Deep State’ Claim: ‘Where Did You Go to School, Man?’",
-   "link": "https://www.mediaite.com/media/tv/joe-scarborough-trashes-jd-vances-stupid-nixon-deep-state-claim-where-did-you-go-to-school-man/",
-   "summary": "Scarborough immediately slapped down Vance's claim Nixon was targetted by the \"deep state\" as “ahistorical” and “stupid.” The post Joe Scarborough Trashes JD Vance’s ‘Stupid’ Nixon ‘Deep State’ Claim: ‘Where Did You Go to School, Man?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T11:12:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1451cba10d90",
-   "title": "CNN Anchor Torpedoes Trump Amid New Attack: Iran Controls Strait ‘Despite What Trump Just Claimed’",
-   "link": "https://www.mediaite.com/media/news/cnn-anchor-torpedoes-trump-amid-new-attack-iran-controls-strait-despite-what-trump-just-claimed/",
-   "summary": "Erin Burnett torpedoed Trump amid a new attack, saying that Tehran is showing they can control the Strait of Hormuz \"despite what Trump just claimed.\" The post CNN Anchor Torpedoes Trump Amid New Attack: Iran Controls Strait ‘Despite What Trump Just Claimed’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T11:02:27+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "ff66a8cfaf1d",
-   "title": "Jimmy Fallon Cracks State Fair Petting Zoo Is Filled With Animals Trump Learned for His Cognitive Test",
-   "link": "https://www.mediaite.com/media/tv/jimmy-fallon-cracks-state-fair-petting-zoo-is-filled-with-animals-trump-learned-for-his-cognitive-test/",
-   "summary": "Trump has repeatedly bragged about passing cognitive tests, arguing they demonstrate his mental sharpness and IQ amid speculation about his health. The post Jimmy Fallon Cracks State Fair Petting Zoo Is Filled With Animals Trump Learned for His Cognitive Test first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T10:44:51+00:00",
+   "id": "1ba1ef9db6af",
+   "title": "excuse me but a guy named markwayne shouldn’t be GRIPPING A STRESS BALL when he’s pissed off like some kind of candy-ass liberal. a guy named markwayne should be getting all hopped up on mountain dew and firing six bullets into the air. and it should be an accident that they only fire into the air",
+   "link": "https://bsky.app/profile/raxkingisdead.bsky.social/post/3mp6rykpzns2q",
+   "summary": "",
+   "source": "@raxkingisdead",
+   "category": "trump_bsky",
+   "published": "2026-06-26T10:58:27.771+00:00",
    "iran_topic": false
   },
   {
@@ -887,16 +917,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-26T04:00:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e3b17d5e60cb",
-   "title": "‘You F*cking Piece of Sh*t!’ Red Sox Coach Goes Ballistic on Umpire",
-   "link": "https://www.mediaite.com/media/sports/you-fcking-piece-of-sht-red-sox-coach-goes-ballistic-on-umpire/",
-   "summary": "Boston Red Sox pitching coach Andrew Bailey was ejected after he went ballistic on an umpire on Thursday night. The post ‘You F*cking Piece of Sh*t!’ Red Sox Coach Goes Ballistic on Umpire first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T03:55:15+00:00",
    "iran_topic": false
   },
   {
@@ -957,26 +977,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-26T00:30:18+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0000404ccf1a",
-   "title": "Australia lost. Its ambassador still won.",
-   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/australia-ambassador-greg-moriarty-soccer-seattle-00975937",
-   "summary": "One of Washington’s newest envoys used a rough afternoon for the Socceroos to build the relationships he needs to navigate Donald Trump’s capital.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T00:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9592948b932d",
-   "title": "BREAKING NYT: A New York City panel just voted to freeze rents for nearly one million rent-stabilized apartments — fulfilling one of Mayor Zohran Mamdani's key campaign promises and handing the mayor a major policy win six months into his tenure.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp5mwr3awk2a",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-25T23:55:18.875+00:00",
    "iran_topic": false
   }
  ]
