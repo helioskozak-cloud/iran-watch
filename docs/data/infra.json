@@ -1,18 +1,18 @@
 {
- "generated": "2026-06-26T21:09:52.820570+00:00",
+ "generated": "2026-06-26T22:36:03.031586+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.53,
-   "change": -1.73,
-   "change_pct": -2.3,
+   "price": 73.57,
+   "change": -1.69,
+   "change_pct": -2.25,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    73.52999877929688
+    73.56999969482422
    ]
   },
   "CL=F": {
@@ -32,15 +32,15 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4102.6,
-   "change": 72.1,
-   "change_pct": 1.79,
+   "price": 4103.0,
+   "change": 72.5,
+   "change_pct": 1.8,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4102.60009765625
+    4103.0
    ]
   },
   "DX-Y.NYB": {
@@ -54,7 +54,7 @@
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
-    101.36699676513672
+    101.36599731445312
    ]
   },
   "^GSPC": {
@@ -221,6 +221,69 @@
  ],
  "incidents": [
   {
+   "title": "US strikes Iran in retaliation for Strait of Hormuz cargo ship attack",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900622",
+   "source": "Jerusalem Post",
+   "published": "2026-06-26T23:45:56+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
+   "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
+   "source": "Press TV",
+   "published": "2026-06-26T22:35:18.238108+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
+   "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T22:35:18.231227+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
+   "link": "https://presstv.ir/Detail/2026/06/26/771117/Iran-condemns-PGCC-US-statement",
+   "source": "Press TV",
+   "published": "2026-06-26T22:35:18.230997+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
+   "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T22:35:18.229955+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US conducts strikes on Iran after attack on cargo ship",
+   "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-26T22:32:53+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "U.S. Carries Out First Strike On Iran Since Peace Memorandum Signed",
+   "link": "https://www.twz.com/news-features/u-s-carries-out-first-strike-on-iran-since-peace-memorandum-signed",
+   "source": "The Drive",
+   "published": "2026-06-26T21:42:42+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ugjvjn/us_strikes_iran_after_trump_accuses_tehran_of/",
+   "source": "r/worldnews",
+   "published": "2026-06-26T21:38:21+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Breaking News: The U.S. military said it launched strikes on Iran in retaliation for an Iranian attack on Thursday in the Strait of Hormuz. Follow live updates. trib.al/EPoLAVv",
+   "link": "https://bsky.app/profile/nytimes.com/post/3mp7uppudoj2j",
+   "source": "@nytimes",
+   "published": "2026-06-26T21:19:51.715041+00:00",
+   "severity": "high"
+  },
+  {
    "title": "BREAKING: The U.S. strikes Iran to respond to drone attack on ship that President Trump said violated the ceasefire, the U.S. military says.",
    "link": "https://bsky.app/profile/apnews.com/post/3mp7u4nf2mm2j",
    "source": "@apnews",
@@ -228,32 +291,11 @@
    "severity": "high"
   },
   {
-   "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
-   "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
-   "source": "Press TV",
-   "published": "2026-06-26T21:09:04.713498+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
-   "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-26T21:09:04.707334+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
-   "link": "https://presstv.ir/Detail/2026/06/26/771117/Iran-condemns-PGCC-US-statement",
-   "source": "Press TV",
-   "published": "2026-06-26T21:09:04.707143+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
-   "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-26T21:09:04.706182+00:00",
-   "severity": "info"
+   "title": "US strikes Iran in response to drone strike on commercial ship",
+   "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-26T21:08:01+00:00",
+   "severity": "high"
   },
   {
    "title": "JUST IN: The US military conducted ‌strikes against Iran, Central Command said in ⁠a statement, adding that US aircraft struck Iranian missile and drone storage locations and ‌coastal ⁠radar sites after Tehran's attack on a ⁠commercial ship in the Strait of ⁠Hormuz reut.rs/4gJqiE",
@@ -282,48 +324,6 @@
    "source": "USNI News",
    "published": "2026-06-26T20:58:14+00:00",
    "severity": "medium"
-  },
-  {
-   "title": "US conducts strikes on Iran after attack on cargo ship",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ugij6f/us_conducts_strikes_on_iran_after_attack_on_cargo/",
-   "source": "r/worldnews",
-   "published": "2026-06-26T20:46:16+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "US carries out strikes in Iran after vessel attack",
-   "link": "https://www.al-monitor.com/originals/2026/06/us-carries-out-strikes-iran-after-vessel-attack",
-   "source": "Al-Monitor",
-   "published": "2026-06-26T20:40:29+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "US military conducted strikes in area of Strait of Hormuz, Axios reports reut.rs/3Strm5D",
-   "link": "https://bsky.app/profile/reuters.com/post/3mp7sj6j4s527",
-   "source": "@reuters",
-   "published": "2026-06-26T20:40:24+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump accuses Iran of ‘foolish’ ceasefire violation by firing on ships in Hormuz",
-   "link": "https://www.timesofisrael.com/trump-accuses-iran-of-foolish-ceasefire-violation-by-firing-on-ships-in-hormuz/",
-   "source": "Times of Israel",
-   "published": "2026-06-26T19:47:57+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-26T19:26:16+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Trump accuses Iran of drone attack on ships in Strait of Hormuz",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-900620",
-   "source": "Jerusalem Post",
-   "published": "2026-06-26T19:14:15+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -331,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 8,
+   "incident_count": 7,
    "recent": [
+    {
+     "title": "US strikes Iran in retaliation for Strait of Hormuz cargo ship attack",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900622",
+     "source": "Jerusalem Post",
+     "published": "2026-06-26T23:45:56+00:00",
+     "severity": "high"
+    },
     {
      "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
      "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-26T21:09:04.707334+00:00",
+     "published": "2026-06-26T22:35:18.231227+00:00",
      "severity": "info"
     },
     {
      "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
      "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-26T21:09:04.706182+00:00",
+     "published": "2026-06-26T22:35:18.229955+00:00",
      "severity": "info"
-    },
-    {
-     "title": "JUST IN: The US military conducted ‌strikes against Iran, Central Command said in ⁠a statement, adding that US aircraft struck Iranian missile and drone storage locations and ‌coastal ⁠radar sites after Tehran's attack on a ⁠commercial ship in the Strait of ⁠Hormuz reut.rs/4gJqiE",
-     "link": "https://bsky.app/profile/reuters.com/post/3mp7tur4s4c2m",
-     "source": "@reuters",
-     "published": "2026-06-26T21:04:47.486+00:00",
-     "severity": "critical"
     }
    ]
   },
@@ -380,6 +380,146 @@
  ],
  "wh_statements": [
   {
+   "id": "754f91980920",
+   "title": "Man Who Faked Death to Escape Rape Charges Dies for Real in Utah Prison",
+   "link": "https://www.mediaite.com/media/news/man-who-faked-death-to-escape-rape-charges-dies-for-real-in-utah-prison/",
+   "summary": "The Utah inmate was serving a sentence of at least 10 years after being convicted in 2025 in two sexual assault cases. The post Man Who Faked Death to Escape Rape Charges Dies for Real in Utah Prison first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T22:33:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "83d4368ce3b3",
+   "title": "Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason",
+   "link": "https://www.mediaite.com/politics/trump/trump-claims-new-u-s-passports-say-welcome-but-be-good-for-some-reason/",
+   "summary": "The image does not indicate that the passport features those words. The more notable takeaway, however, is that a welcome message/admonition would make sense on a U.S.-issued visa, but not a passport The post Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason first appeared on Mediaite .",
+   "source": "Mediaite Trump",
+   "category": "mediaite",
+   "published": "2026-06-26T22:14:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "83d4368ce3b3",
+   "title": "Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason",
+   "link": "https://www.mediaite.com/politics/trump/trump-claims-new-u-s-passports-say-welcome-but-be-good-for-some-reason/",
+   "summary": "The image does not indicate that the passport features those words. The more notable takeaway, however, is that a welcome message/admonition would make sense on a U.S.-issued visa, but not a passport The post Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T22:14:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5d110267592e",
+   "title": "Chuck Todd Warns Trump He Could Be Forcing a Key GOP Senator to Switch Parties",
+   "link": "https://www.mediaite.com/politics/chuck-todd-warns-trump-he-could-be-forcing-a-key-gop-senator-to-switch-parties/",
+   "summary": "The more Trump goes after Murkowski, the more likely the real number Dems will need to take control of the Senate is ‘3’ not 4\" The post Chuck Todd Warns Trump He Could Be Forcing a Key GOP Senator to Switch Parties first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T22:01:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "79a03b144e74",
+   "title": "A drag queen, a rainbow festival and a game FIFA can’t control",
+   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/seattle-iran-egypt-fifa-world-cup-pride-match-00978651",
+   "summary": "Seattle’s “Pride Match” for the Iran-Egypt game is unofficial, unlicensed and entirely the point.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T22:00:48+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1d7b8b9a7af0",
+   "title": "A federal judge has ordered the Trump Justice Department to release more Epstein files — concluding that acting Attorney General Todd Blanche is violating the law Congress passed to make Epstein documents public. www.notus.org/trump-white-...",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp7w5a24gc2n",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-26T21:45:19.045+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4d9022006b3f",
+   "title": "Envoy's pharaoh well party",
+   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/egypt-ambassador-united-states-fifa-world-cup-2026-00978529",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T21:45:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6bce540cd35d",
+   "title": "The world's not big on the US. The World Cup might help.",
+   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/united-states-trump-negative-perception-poll-foreign-policy-00978433",
+   "summary": "Few people globally have confidence in President Donald Trump's leadership, according to a new poll.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T21:35:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f5d2711a3df9",
+   "title": "Welcome to other countries as you enter? 🥴",
+   "link": "https://bsky.app/profile/pauletteparis1.bsky.social/post/3mp7vifwjs22s",
+   "summary": "",
+   "source": "@pauletteparis1",
+   "category": "trump_bsky",
+   "published": "2026-06-26T21:33:40.575+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d43ed2c398c8",
+   "title": "Top Texas Republican Declares Separation of Church and State ‘Should Have No Power’ Over Americans",
+   "link": "https://www.mediaite.com/media/news/top-texas-republican-declares-separation-of-church-and-state-should-have-no-power-over-americans/",
+   "summary": "Texas Lt. Governor Dan Patrick declared that separation of church and state \"should have no power\" over Americans during a Friday appearance from the White House's Oval Office. The post Top Texas Republican Declares Separation of Church and State ‘Should Have No Power’ Over Americans first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T21:29:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ca1df3b0d16b",
+   "title": "Oh my god how is this is real? (a question I seem to ask myself several times a day now)",
+   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mp7v4da7bk25",
+   "summary": "",
+   "source": "@ohnoshetwitnt",
+   "category": "trump_bsky",
+   "published": "2026-06-26T21:26:55.093+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "641f85747c9a",
+   "title": "Angry Spat between Justices Alito And Sotomayor Was Result of a ‘Misunderstanding,’ CNN Reports",
+   "link": "https://www.mediaite.com/media/news/angry-spat-between-justices-alito-and-sotomayor-was-result-of-a-misunderstanding-cnn-reports/",
+   "summary": "The stinging exchanged between Supreme Court Justices Samuel Alito and Sonya Sotomayor was a \"misunderstanding,\" according to CNN. The post Angry Spat between Justices Alito And Sotomayor Was Result of a ‘Misunderstanding,’ CNN Reports first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T21:16:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "97d46de7de02",
+   "title": "Pete Buttigeig targeted by false abuse allegation in Michigan",
+   "link": "https://www.politico.com/news/2026/06/26/pete-buttigeig-false-abuse-allegation-michigan-00978499",
+   "summary": "The former transportation secretary and Indiana mayor was not allowed to have contact with his twins for 24 hours as the investigation unfolded.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T21:13:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4da343f008c",
+   "title": "Kim Jong Un thinks this is a bit much",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mp7udoav7k2n",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-26T21:13:07.786+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "80d7ea7e6c99",
    "title": "The World Cup game the White House cares most about today",
    "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-seattle-fifa-world-cup-2026-us-bombing-raid-00978525",
@@ -397,6 +537,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-26T20:58:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6305b388a0c7",
+   "title": "S. 1003 Signed into Law",
+   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
+   "summary": "On Friday, June 26, 2026, the President signed into law: S. 1003, the &#8220;Lulu&#8217;s Law,&#8221; which requires the Federal Communications Commission to issue an order explicitly permitting the transmission of wireless emergency alerts to mobile phones in the event of a shark attack. The post S. 1003 Signed into Law appeared first on The White House .",
+   "source": "WH News",
+   "category": "wh_news",
+   "published": "2026-06-26T20:55:58+00:00",
    "iran_topic": false
   },
   {
@@ -441,9 +591,9 @@
   },
   {
    "id": "102d6e9a2814",
-   "title": "BREAKING: US Bombs Iranian Targets Following Attacks In Strait of Hormuz",
+   "title": "US Bombs Iranian Targets Following Attacks In Strait of Hormuz",
    "link": "https://www.mediaite.com/media/news/breaking-us-bombs-iranian-targets-following-attacks-in-strait-of-hormuz/",
-   "summary": "The U.S. bombed Iranian targets around the Strait of Hormuz on Friday, according to various reports, in response to Iran attacking commercial vessels in the Strait. Earlier in the day, President Donald Trump condemned Iranian drone attacks in the Strait, calling them a “foolish violation of our Ceasefire Agreement.” Fox News senior national security correspondent [&#8230;] The post BREAKING: US Bombs Iranian Targets Following Attacks In Strait of Hormuz first appeared on Mediaite .",
+   "summary": "\"I don't think either side wants to restart the war, but it shows the U.S. military can still strike at will,\" noted Jennifer Griffin The post US Bombs Iranian Targets Following Attacks In Strait of Hormuz first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-26T20:40:55+00:00",
@@ -790,16 +940,6 @@
    "iran_topic": false
   },
   {
-   "id": "c71239e7ec78",
-   "title": "Trump Attacks GOP Senator For ‘Fighting’ His Voter ID Bill: She’ll ‘Never Win Another Election’",
-   "link": "https://www.mediaite.com/media/news/trump-attacks-gop-senator-for-fighting-his-voter-id-bill-shell-never-win-another-election/",
-   "summary": "Donald Trump attacked Lisa Murkowski by name during remarks at the Faith &#038; Freedom Coalition's 2026 Policy Conference at the Washington Hilton. The post Trump Attacks GOP Senator For ‘Fighting’ His Voter ID Bill: She’ll ‘Never Win Another Election’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T18:47:47+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5476d6443ffb",
    "title": "I love World Cup Hockey!",
    "link": "https://bsky.app/profile/muellershewrote.com/post/3mp7m25e3222b",
@@ -820,46 +960,6 @@
    "iran_topic": false
   },
   {
-   "id": "8144ecfc011b",
-   "title": "Trump Tells Faith Group He’d Be ‘The Greatest Communist In History’ If It Worked",
-   "link": "https://www.mediaite.com/media/news/trump-tells-faith-group-hed-be-the-greatest-communist-in-history-if-it-worked/",
-   "summary": "\"I'm telling you, I'd be the greatest communist in history. It would be so easy. You wouldn't have to work. You could stay home.\" The post Trump Tells Faith Group He’d Be ‘The Greatest Communist In History’ If It Worked first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T18:43:15+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "29d441fcc9bc",
-   "title": "Trump Takes Attacks on Democratic Socialists to Whole New Level: ‘They Will Kill Your People’",
-   "link": "https://www.mediaite.com/media/tv/trump-takes-attacks-on-democratic-socialists-to-whole-new-level-they-will-kill-your-people/",
-   "summary": "President Donald Trump ramped up an attack on progressive Democrats, taking things to a whole new level when he warned they will \"kill your people.\" The post Trump Takes Attacks on Democratic Socialists to Whole New Level: ‘They Will Kill Your People’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T18:41:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4e713757f7a4",
-   "title": "“Watergate pales in comparison to what we’re doing” is quite the thing to imply",
-   "link": "https://bsky.app/profile/ardenthistorian.bsky.social/post/3mp7lril5622f",
-   "summary": "",
-   "source": "@ardenthistorian",
-   "category": "trump_bsky",
-   "published": "2026-06-26T18:39:47.920+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "09a485ac8625",
-   "title": "Trump on the value of fear-mongering: \"You have to say, 'They're gonna get free rent, but -- in two years, everything is going to collapse and you're going to live in squalor.' When you say that, you can beat the free rent.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7lranpgf2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T18:39:39.595+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "7f4e9ff2a1fb",
    "title": "Trump: For the first time in history, the powerful Rent Stabilization Board in NYC, just came out, for the first time ever, with a ruling: zero rent increases for landlords—zero—for the next two years. They’re basically confiscating their property.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp7kwbfxu52h",
@@ -867,26 +967,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-26T18:24:34.323+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "752aa0522d82",
-   "title": "Senate Democrat Warns Party: ‘We Are in Trouble’ if Rubio Is 2028 GOP Nominee",
-   "link": "https://www.mediaite.com/media/news/senate-democrat-warns-party-we-are-in-trouble-if-rubio-is-2028-gop-nominee/",
-   "summary": "Senator Ruben Gallego (D-AZ) is warning Democrats they will be \"in trouble\" if Secretary of State Marco Rubio secures the GOP's 2028 presidential nomination. The post Senate Democrat Warns Party: ‘We Are in Trouble’ if Rubio Is 2028 GOP Nominee first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T18:20:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "32df5a9867c5",
-   "title": "‘Bring On the Communists!’ Fox Guest Crows About DSA Wins In NYC Helping the GOP",
-   "link": "https://www.mediaite.com/media/news/bring-on-the-communists-fox-guest-crows-about-dsa-wins-in-nyc-helping-the-gop/",
-   "summary": "Democratic Socialist victories in this week's NYC primaries are a great sign for Republicans, predicted conservative podcaster Rich Zeoli. The post ‘Bring On the Communists!’ Fox Guest Crows About DSA Wins In NYC Helping the GOP first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T18:16:43+00:00",
    "iran_topic": false
   },
   {
@@ -898,86 +978,6 @@
    "category": "politico_pol",
    "published": "2026-06-26T18:15:00+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "727d15ee7fd6",
-   "title": "President Trump’s America First Agenda Scores Major Supreme Court Win on TPS Termination",
-   "link": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
-   "summary": "The Supreme Court has delivered a major victory for American sovereignty, ruling that the Trump Administration has full authority to terminate Temporary Protected Status (TPS) for Haitian migrants. The Biden Administration weaponized TPS as a backdoor amnesty to flood the country with millions of unvetted migrants — and that loophole is finally closed. This is [&#8230;] The post President Trump’s America First Agenda Scores Major Supreme Court Win on TPS Termination appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-26T18:13:13+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4123224851f",
-   "title": "hey man just letting you know you're on camera",
-   "link": "https://bsky.app/profile/sharonk.bsky.social/post/3mp7hxsqtq22s",
-   "summary": "",
-   "source": "@sharonk",
-   "category": "trump_bsky",
-   "published": "2026-06-26T17:31:44.951+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a81bc546bb74",
-   "title": "Johnson: If we lose the midterms, these Democrats will turn every committee of Congress into an investigative body, and they'll go after the president's family, the cabinet, his donors, friends, half of you in this room will be targeted. I run the protection program. We’ll take care of you.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp7girjxvs2d",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-26T17:05:26.409+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0673e34f4300",
-   "title": "BREAKING on MS NOW: House Oversight just issued two subpoenas to billionaire and Epstein associate Leon Black — after he refused to answer questions about allegations that he signed NDAs with young women. One subpoena is for Black to appear under oath on 7/16. The other is for the NDAs themselves.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp7eaobgbs2i",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T16:25:07.275+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "26665bb16548",
-   "title": "GREENBELT, Md. (AP) — Ex-national security adviser John Bolton pleads guilty to illegally retaining classified information.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp764i4dd22e",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T14:35:24.149+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b4f743cfed0b",
-   "title": "Norway is pillaging hearts and minds",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/norway-viking-hard-ancestors-soft-power-ambassador-anniken-huitfedt-00977640",
-   "summary": "The Viking Army is conquering America. Their ambassador wants you to know there's a message behind the mayhem.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T14:16:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "55d5933b744d",
-   "title": "According to the law, Bill Pulte is not even eligible for the job he occupies. On this matter, the act of Congress that created the DNI seems unambiguous: \"The Principal Deputy Director of National Intelligence shall act for\" the DNI when that position is vacant. Not 'may' serve. Shall.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp72srkg4c2k",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T13:36:17.278+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4f9617e38ac",
-   "title": "The nation’s cartoonists on the week in politics",
-   "link": "https://www.politico.com/gallery/2026/06/26/the-nations-cartoonists-on-the-week-in-politics-00977808",
-   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T13:06:35+00:00",
-   "iran_topic": false
   }
  ]
 }
