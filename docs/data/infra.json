@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-26T08:55:02.375985+00:00",
+ "generated": "2026-06-26T11:42:19.214343+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.0,
-   "change": -2.26,
-   "change_pct": -3.0,
+   "price": 73.21,
+   "change": -2.05,
+   "change_pct": -2.72,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    73.0
+    73.20999908447266
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.43,
-   "change": -2.49,
-   "change_pct": -3.46,
+   "price": 69.76,
+   "change": -2.16,
+   "change_pct": -3.0,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
-    69.43000030517578
+    69.76000213623047
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4050.6,
-   "change": 20.1,
-   "change_pct": 0.5,
+   "price": 4069.1,
+   "change": 38.6,
+   "change_pct": 0.96,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4050.60009765625
+    4069.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.22,
-   "change": -0.21,
+   "price": 101.21,
+   "change": -0.22,
    "change_pct": -0.21,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
-    101.22000122070312
+    101.21299743652344
    ]
   },
   "^GSPC": {
@@ -88,29 +88,29 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 19.83,
-   "change": 0.94,
-   "change_pct": 4.98,
+   "price": 20.05,
+   "change": 1.16,
+   "change_pct": 6.14,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
-    19.829999923706055
+    20.049999237060547
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.33,
-   "change": -0.01,
-   "change_pct": -0.3,
+   "price": 3.34,
+   "change": -0.0,
+   "change_pct": -0.15,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
-    3.3329999446868896
+    3.3380000591278076
    ]
   }
  },
@@ -224,8 +224,57 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-26T08:54:23.319605+00:00",
+   "published": "2026-06-26T11:41:41.945184+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
+   "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T11:41:41.938850+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
+   "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
+   "source": "Press TV",
+   "published": "2026-06-26T11:41:41.937546+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
+   "link": "https://presstv.ir/Detail/2026/06/26/771117/Iran-condemns-PGCC-US-statement",
+   "source": "Press TV",
+   "published": "2026-06-26T11:41:41.937331+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+   "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-26T11:27:59+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman",
+   "link": "https://www.al-monitor.com/originals/2026/06/iran-insists-right-control-shipping-strait-hormuz-after-ship-hit-near-oman",
+   "source": "Al-Monitor",
+   "published": "2026-06-26T11:02:14+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Iran insists on right to control shipping in Strait of Hormuz after ship hit near Oman reut.rs/4xNoO2e",
+   "link": "https://bsky.app/profile/reuters.com/post/3mp6s5g2wvz2g",
+   "source": "@reuters",
+   "published": "2026-06-26T11:01:10+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran slams US-PGCC statement as ‘interventionist, irresponsible, provocative’",
+   "link": "https://en.irna.ir/news/86193070/Iran-slams-US-PGCC-statement-as-interventionist-irresponsible",
+   "source": "IRNA",
+   "published": "2026-06-26T09:47:44+00:00",
+   "severity": "low"
   },
   {
    "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
@@ -242,25 +291,11 @@
    "severity": "low"
   },
   {
-   "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
-   "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-26T08:54:23.311995+00:00",
-   "severity": "medium"
-  },
-  {
    "title": "Hormuz oil shock echoes 1973 embargo lessons reut.rs/3QNCgm2",
    "link": "https://bsky.app/profile/reuters.com/post/3mp6iuqs3sx2g",
    "source": "@reuters",
    "published": "2026-06-26T08:15:16+00:00",
    "severity": "info"
-  },
-  {
-   "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-   "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-26T06:49:22+00:00",
-   "severity": "critical"
   },
   {
    "title": "Oil down 2% amid resumption of Hormuz shipments even as vessel hit near Oman reut.rs/4uWgLgU",
@@ -289,41 +324,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-26T01:47:40+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran strikes vessel pausing UN efforts to evacuate ships from Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ufswai/iran_strikes_vessel_pausing_un_efforts_to/",
-   "source": "r/worldnews",
-   "published": "2026-06-26T01:34:23+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-26T01:20:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp5o2cspyl2o",
-   "source": "@warontherocks",
-   "published": "2026-06-26T00:15:10.446+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Plan To Move Ships Through Strait Of Hormuz Paused After Iran Strikes Cargo Vessel",
-   "link": "https://www.twz.com/news-features/plan-to-move-ships-through-strait-of-hormuz-paused-after-iran-strikes-cargo-vessel",
-   "source": "The Drive",
-   "published": "2026-06-26T00:10:51+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UN says Hormuz evacuation halted after ship struck in Iranian attack",
-   "link": "https://www.timesofisrael.com/un-says-hormuz-evacuation-halted-after-ship-struck-in-iranian-attack/",
-   "source": "Times of Israel",
-   "published": "2026-06-25T23:58:20+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -331,28 +331,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 13,
+   "incident_count": 12,
    "recent": [
-    {
-     "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
-     "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
-     "source": "Press TV",
-     "published": "2026-06-26T08:54:23.313958+00:00",
-     "severity": "medium"
-    },
-    {
-     "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
-     "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
-     "source": "Press TV",
-     "published": "2026-06-26T08:54:23.313766+00:00",
-     "severity": "low"
-    },
     {
      "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
      "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-26T08:54:23.311995+00:00",
+     "published": "2026-06-26T11:41:41.938850+00:00",
      "severity": "medium"
+    },
+    {
+     "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
+     "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
+     "source": "Press TV",
+     "published": "2026-06-26T11:41:41.937546+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+     "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Middle East",
+     "published": "2026-06-26T11:27:59+00:00",
+     "severity": "critical"
     }
    ]
   },
@@ -379,6 +379,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "36fbe52d88bc",
+   "title": "Joe Scarborough Trashes JD Vance’s ‘Stupid’ Nixon ‘Deep State’ Claim: ‘Where Did You Go to School, Man?’",
+   "link": "https://www.mediaite.com/media/tv/joe-scarborough-trashes-jd-vances-stupid-nixon-deep-state-claim-where-did-you-go-to-school-man/",
+   "summary": "Scarborough immediately slapped down Vance's claim Nixon was targetted by the \"deep state\" as “ahistorical” and “stupid.” The post Joe Scarborough Trashes JD Vance’s ‘Stupid’ Nixon ‘Deep State’ Claim: ‘Where Did You Go to School, Man?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T11:12:43+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1451cba10d90",
+   "title": "CNN Anchor Torpedoes Trump Amid New Attack: Iran Controls Strait ‘Despite What Trump Just Claimed’",
+   "link": "https://www.mediaite.com/media/news/cnn-anchor-torpedoes-trump-amid-new-attack-iran-controls-strait-despite-what-trump-just-claimed/",
+   "summary": "Erin Burnett torpedoed Trump amid a new attack, saying that Tehran is showing they can control the Strait of Hormuz \"despite what Trump just claimed.\" The post CNN Anchor Torpedoes Trump Amid New Attack: Iran Controls Strait ‘Despite What Trump Just Claimed’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T11:02:27+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "ff66a8cfaf1d",
+   "title": "Jimmy Fallon Cracks State Fair Petting Zoo Is Filled With Animals Trump Learned for His Cognitive Test",
+   "link": "https://www.mediaite.com/media/tv/jimmy-fallon-cracks-state-fair-petting-zoo-is-filled-with-animals-trump-learned-for-his-cognitive-test/",
+   "summary": "Trump has repeatedly bragged about passing cognitive tests, arguing they demonstrate his mental sharpness and IQ amid speculation about his health. The post Jimmy Fallon Cracks State Fair Petting Zoo Is Filled With Animals Trump Learned for His Cognitive Test first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T10:44:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dfe1680b30a6",
+   "title": "Wes Moore lays out his vision for America",
+   "link": "https://www.politico.com/news/2026/06/26/wes-moore-july-fourth-trump-00977783",
+   "summary": "In an interview with POLITICO, the Maryland governor said the country deserves more than Trump talking about himself for its 250th anniversary.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T10:40:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3d12f7efb580",
+   "title": "Trump's lawless witch hunt of Tim Walz crashes and burns",
+   "link": "https://www.publicnotice.co/p/walz-frey-subpoenas-quashed",
+   "summary": "It's a remarkable setback for the DOJ.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-26T10:18:01+00:00",
+   "iran_topic": false
+  },
   {
    "id": "009aa9317324",
    "title": "Finland's President Stubb on Trump, Putin and the future of NATO",
@@ -927,56 +977,6 @@
    "source": "@leahgreenberg",
    "category": "trump_bsky",
    "published": "2026-06-25T21:58:56.885+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7c7fbd8aebcf",
-   "title": "Meloni allies fail to take over Italian soccer",
-   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/italy-giorgia-meloni-football-failure-fifa-world-cup-2026-00977002",
-   "summary": "Giovanni Malagò has a bulging in-tray as he takes over the troubled Italian soccer association.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-25T21:45:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7fcad6ea4cff",
-   "title": "JD Vance thinks it's no biggie to orchestrate a vast conspiracy to steal an election and then commit obstruction of justice when you get caught.",
-   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mp5f7dxrs226",
-   "summary": "",
-   "source": "@markjacob",
-   "category": "trump_bsky",
-   "published": "2026-06-25T21:36:57.184+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2e53fe256565",
-   "title": "Phang: I have standing to be able to get Todd Blanche to comply with Judge Sullivan’s order, which is now telling him that on or before July 2nd, he either has to put up or shut up. He either has to bring forth unredacted files or show cause as to why he should not or cannot do so.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp5em7h6ee2o",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-25T21:26:14.786+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5b25d7b8c5a7",
-   "title": "\"we do six Watergates before lunch every day\"",
-   "link": "https://bsky.app/profile/jamisonfoser.bsky.social/post/3mp5duddvn226",
-   "summary": "",
-   "source": "@jamisonfoser",
-   "category": "trump_bsky",
-   "published": "2026-06-25T21:12:53.693+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6bbc6e2f1f6f",
-   "title": "Spot the Pol!",
-   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/spot-the-pol-mayor-fairmount-park-00976803",
-   "summary": "Study the photograph carefully. Only the politician is missing. Guess who it is.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-25T20:57:42+00:00",
    "iran_topic": false
   }
  ]
