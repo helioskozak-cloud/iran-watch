@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-25T23:44:21.616768+00:00",
+ "generated": "2026-06-26T01:53:41.845629+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 75.09,
-   "change": 1.35,
-   "change_pct": 1.83,
+   "price": 75.01,
+   "change": 1.27,
+   "change_pct": 1.72,
    "spark": [
     77.9000015258789,
     77.08000183105469,
     73.73999786376953,
-    75.08999633789062
+    75.01000213623047
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 71.52,
-   "change": 1.18,
-   "change_pct": 1.68,
+   "price": 71.46,
+   "change": 1.12,
+   "change_pct": 1.59,
    "spark": [
     74.81999969482422,
     73.20999908447266,
     70.33999633789062,
-    71.5199966430664
+    71.45999908447266
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4039.8,
-   "change": 49.5,
-   "change_pct": 1.24,
+   "price": 4038.6,
+   "change": 48.3,
+   "change_pct": 1.21,
    "spark": [
     4181.89990234375,
     4129.89990234375,
     3990.300048828125,
-    4039.800048828125
+    4038.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.44,
-   "change": -0.17,
-   "change_pct": -0.17,
+   "price": 101.53,
+   "change": -0.08,
+   "change_pct": -0.08,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.44100189208984
+    101.52899932861328
    ]
   },
   "^GSPC": {
@@ -97,14 +97,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.27,
-   "change": 0.05,
-   "change_pct": 1.4,
+   "price": 3.28,
+   "change": 0.06,
+   "change_pct": 1.74,
    "spark": [
     3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
-    3.2660000324249268
+    3.2769999504089355
    ]
   }
  },
@@ -218,29 +218,78 @@
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
-   "published": "2026-06-25T23:43:44.750272+00:00",
+   "published": "2026-06-26T01:52:59.079651+00:00",
    "severity": "info"
   },
   {
    "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
    "source": "Press TV",
-   "published": "2026-06-25T23:43:44.744685+00:00",
+   "published": "2026-06-26T01:52:59.074067+00:00",
    "severity": "medium"
   },
   {
    "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
    "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
    "source": "Press TV",
-   "published": "2026-06-25T23:43:44.744503+00:00",
+   "published": "2026-06-26T01:52:59.073882+00:00",
    "severity": "low"
   },
   {
    "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
    "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-25T23:43:44.742726+00:00",
+   "published": "2026-06-26T01:52:59.072101+00:00",
    "severity": "medium"
+  },
+  {
+   "title": "Iran seeks multibillion-dollar role in Strait of Hormuz reopening as US forbids tolls - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900589",
+   "source": "Jerusalem Post",
+   "published": "2026-06-26T01:47:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran strikes vessel pausing UN efforts to evacuate ships from Hormuz",
+   "link": "https://www.reddit.com/r/worldnews/comments/1ufswai/iran_strikes_vessel_pausing_un_efforts_to/",
+   "source": "r/worldnews",
+   "published": "2026-06-26T01:34:23+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-26T01:20:40+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+   "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-26T00:28:02+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
+   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mp5o2cspyl2o",
+   "source": "@warontherocks",
+   "published": "2026-06-26T00:15:10.446+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Plan To Move Ships Through Strait Of Hormuz Paused After Iran Strikes Cargo Vessel",
+   "link": "https://www.twz.com/news-features/plan-to-move-ships-through-strait-of-hormuz-paused-after-iran-strikes-cargo-vessel",
+   "source": "The Drive",
+   "published": "2026-06-26T00:10:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "UN says Hormuz evacuation halted after ship struck in Iranian attack",
+   "link": "https://www.timesofisrael.com/un-says-hormuz-evacuation-halted-after-ship-struck-in-iranian-attack/",
+   "source": "Times of Israel",
+   "published": "2026-06-25T23:58:20+00:00",
+   "severity": "critical"
   },
   {
    "title": "Gulf countries weigh next steps after Iran war amid Rubio visit to Bahrain, Kuwait, UAE",
@@ -269,55 +318,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-25T20:55:46+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Israel Navy hosts German delegation, vessel at Haifa Naval Base",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-900558",
-   "source": "Jerusalem Post",
-   "published": "2026-06-25T20:32:33+00:00",
-   "severity": "medium"
-  },
-  {
-   "title": "UN pauses Hormuz evacuation plan after ship reports attack",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uflar6/un_pauses_hormuz_evacuation_plan_after_ship/",
-   "source": "r/worldnews",
-   "published": "2026-06-25T20:18:13+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Iran attacks cargo ship off Oman, testing Trump’s Hormuz Strait deal",
-   "link": "https://www.al-monitor.com/originals/2026/06/iran-attacks-cargo-ship-oman-testing-trumps-hormuz-strait-deal",
-   "source": "Al-Monitor",
-   "published": "2026-06-25T20:03:23+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "UN shipping agency pauses Strait of Hormuz evacuation plan in wake of cargo ship attack",
-   "link": "https://www.jpost.com/international/article-900561",
-   "source": "Jerusalem Post",
-   "published": "2026-06-25T19:54:05+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Open Strait, Unsettled Waters",
-   "link": "https://warontherocks.com/open-strait-unsettled-waters/",
-   "source": "War on the Rocks",
-   "published": "2026-06-25T19:45:09+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-   "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-25T19:19:12+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iran fired on cargo ship, US officials tell Reuters reut.rs/4eOKy5r",
-   "link": "https://bsky.app/profile/reuters.com/post/3mp54jtg5a62b",
-   "source": "@reuters",
-   "published": "2026-06-25T19:01:45+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -325,27 +325,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 10,
+   "incident_count": 12,
    "recent": [
     {
      "title": "IRGC Navy warns against use of unauthorized routes for transit through Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/06/25/771050/Iran-Strait-of-Hormuz-IRGC-warning",
      "source": "Press TV",
-     "published": "2026-06-25T23:43:44.744685+00:00",
+     "published": "2026-06-26T01:52:59.074067+00:00",
      "severity": "medium"
     },
     {
      "title": "Iran, Saudi FMs hold phone talks as Persian Gulf states rethink US ties",
      "link": "https://presstv.ir/Detail/2026/06/24/771034/Iran-Saudi-FMs-discuss-diplomatic-push-Persian-Gulf-reconciliation-Hormuz-talks-gather-pace",
      "source": "Press TV",
-     "published": "2026-06-25T23:43:44.744503+00:00",
+     "published": "2026-06-26T01:52:59.073882+00:00",
      "severity": "low"
     },
     {
      "title": "Iran warns ships off unauthorized Hormuz routes amid talk with Oman",
      "link": "https://presstv.ir/Detail/2026/06/25/771093/Iran-Qalibaf-frozen-assets-soybeans-Trump-mistrust-Araghchi-Oman-Strait-of-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-25T23:43:44.742726+00:00",
+     "published": "2026-06-26T01:52:59.072101+00:00",
      "severity": "medium"
     }
    ]
@@ -367,20 +367,102 @@
   {
    "name": "Eastern Mediterranean",
    "description": "Israeli ports + Levantine gas fields. Hezbollah cross-border range.",
-   "status": "ACTIVE",
-   "incident_count": 1,
-   "recent": [
-    {
-     "title": "Israel Navy hosts German delegation, vessel at Haifa Naval Base",
-     "link": "https://www.jpost.com/israel-news/defense-news/article-900558",
-     "source": "Jerusalem Post",
-     "published": "2026-06-25T20:32:33+00:00",
-     "severity": "medium"
-    }
-   ]
+   "status": "QUIET",
+   "incident_count": 0,
+   "recent": []
   }
  ],
  "wh_statements": [
+  {
+   "id": "3973fb421375",
+   "title": "FEMA Official Who Claimed He Teleported To Waffle House Gets Beamed Out of Agency",
+   "link": "https://www.mediaite.com/media/news/fema-official-who-claimed-he-teleported-to-waffle-house-beams-out-of-agency/",
+   "summary": "According to a Thursday CNN report, the FEMA official who claimed he once teleported to a Waffle House has been ousted from the agency, per four sources. The post FEMA Official Who Claimed He Teleported To Waffle House Gets Beamed Out of Agency first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T01:30:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e9d26cedb94f",
+   "title": "World Cup Pride Match Scheduled in Seattle Will Be Iran vs. Egypt, And They’re Both Mad About It",
+   "link": "https://www.mediaite.com/media/news/world-cup-pride-match-scheduled-in-seattle-will-be-iran-vs-egypt-and-theyre-both-mad-about-it/",
+   "summary": "The Seattle World Cup host committee made plans for a \"Pride Match Day.\" And then FIFA drew Iran and Egypt for that spot in the schedule. The post World Cup Pride Match Scheduled in Seattle Will Be Iran vs. Egypt, And They’re Both Mad About It first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T01:15:07+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "627bcf7e442d",
+   "title": "Usha Vance to attend match",
+   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/a-vance-to-cheer-for-usa-00977635",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T01:01:36+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ba815166220c",
+   "title": "Trump administration steps in to limit OpenAI’s latest model launch",
+   "link": "https://www.politico.com/news/2026/06/25/openai-gpt-model-goverment-approval-00977551",
+   "summary": "OpenAI will now make its soon-to-be-released GPT-5.6 model available to a small group of government-approved partners.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-26T00:58:47+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "95502d69e38d",
+   "title": "Democrats grapple uncomfortably with World Cup success",
+   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/democrats-grapple-world-cup-success-00977530",
+   "summary": "A logistically smooth tournament poses a problem for Trump's critics.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T00:30:18+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0ce5757978c0",
+   "title": "Trump Says ‘Iran Wants To Make a Deal With Us Very Badly’ – Right After It Bombs Ship",
+   "link": "https://www.mediaite.com/media/tv/trump-says-iran-wants-to-make-a-deal-with-us-very-badly-right-after-it-bombs-ship/",
+   "summary": "President Donald Trump reiterated his claim that Iran is desperate to make a deal, doing so right after it was reported that the country struck a ship in the Strait of Hormuz. The post Trump Says ‘Iran Wants To Make a Deal With Us Very Badly’ – Right After It Bombs Ship first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T00:21:59+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "553bf16780db",
+   "title": "Trump Tells Farmers They’ll Be Able to Sell Products to ‘The Lovely Country of Iran’",
+   "link": "https://www.mediaite.com/media/news/trump-tells-farmers-theyll-be-able-to-sell-products-to-the-lovely-country-of-iran/",
+   "summary": "President Donald Trump promised American farmers that they'll soon be able to sell products to \"the lovely country of Iran\" during a Thursday dinner at the White House's Rose Garden. The post Trump Tells Farmers They’ll Be Able to Sell Products to ‘The Lovely Country of Iran’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-26T00:15:28+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "0000404ccf1a",
+   "title": "Australia lost. Its ambassador still won.",
+   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/australia-ambassador-greg-moriarty-soccer-seattle-00975937",
+   "summary": "One of Washington’s newest envoys used a rough afternoon for the Socceroos to build the relationships he needs to navigate Donald Trump’s capital.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-26T00:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9592948b932d",
+   "title": "BREAKING NYT: A New York City panel just voted to freeze rents for nearly one million rent-stabilized apartments — fulfilling one of Mayor Zohran Mamdani's key campaign promises and handing the mayor a major policy win six months into his tenure.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp5mwr3awk2a",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-25T23:55:18.875+00:00",
+   "iran_topic": false
+  },
   {
    "id": "5e6c8d5ac16c",
    "title": "‘I’m Gonna Get in Trouble’: JD Vance Quotes ‘Great Christian Theologian P Diddy’",
@@ -889,96 +971,6 @@
    "source": "@dgraham",
    "category": "trump_bsky",
    "published": "2026-06-25T20:10:09.239+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3780896ea17f",
-   "title": "Himes: Every Republican knows that they just spent the last 11 years pounding on Obama’s Iran nuclear deal, which succeeded. They know that they cannot put themselves in a position of having to answer for what they’ve been saying for the last 11 years, given the way Trump has surrendered to Iran.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp5a2zbaqq2w",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-25T20:05:02.905+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "e7ca5beeeb70",
-   "title": "‘Go Back to F*cking Haiti!’ Megyn Kelly Goes on Wild Rant Over Supreme Court Ruling",
-   "link": "https://www.mediaite.com/media/news/go-back-to-fcking-haiti-megyn-kelly-goes-on-wild-rant-over-supreme-court-ruling/",
-   "summary": "Megyn Kelly celebrated the SCOTUS ruling that paved the way for the Trump White House to strip legal protections from Haitian and Syrian immigrants. The post ‘Go Back to F*cking Haiti!’ Megyn Kelly Goes on Wild Rant Over Supreme Court Ruling first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T20:02:22+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e4e704cccb87",
-   "title": "Daily Wire Releases Trailer for Jonathan Majors-Led Movie About Islamic Terrorists Who Create ‘Makeshift Caliphate’ on College Campus",
-   "link": "https://www.mediaite.com/media/daily-wire-releases-trailer-for-jonathan-majors-led-movie-about-islamic-terrorists-who-create-makeshift-caliphate-on-college-campus/",
-   "summary": "The Daily Wire unveiled the first trailer for its upcoming movie about Islamic terrorists who take over a college campus. It stars Jonathan Majors. The post Daily Wire Releases Trailer for Jonathan Majors-Led Movie About Islamic Terrorists Who Create ‘Makeshift Caliphate’ on College Campus first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T19:52:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0733b2d2e07c",
-   "title": "Trump-Backed NY Candidate Says Jewish Dems Want to Be a ‘Camp Guard in the Concentration Camp’ in Shocking Newsmax Hit",
-   "link": "https://www.mediaite.com/politics/trump-backed-ny-candidate-says-jewish-dems-want-to-be-a-camp-guard-in-the-concentration-camp-in-shocking-newsmax-hit/",
-   "summary": "Blakeman’s comments quickly went viral online and received a strong rebuke from outgoing Rep. Jerry Nadler (D-NY), who is also Jewish. The post Trump-Backed NY Candidate Says Jewish Dems Want to Be a ‘Camp Guard in the Concentration Camp’ in Shocking Newsmax Hit first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T19:38:54+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "279e7c109292",
-   "title": "‘Let Others Lead’: Senate Democrat Throws Schumer and Jeffries Under the Bus",
-   "link": "https://www.mediaite.com/media/news/let-others-lead-senate-democrat-throws-schumer-and-jeffries-under-the-bus/",
-   "summary": "Senator Elissa Slotkin (D-MI) threw Senate Minority Leader Chuck Schumer (D-NY) and House Minority Leader Hakeem Jeffries (D-NY) under the bus on Thursday. The post ‘Let Others Lead’: Senate Democrat Throws Schumer and Jeffries Under the Bus first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T19:34:02+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4cc62891f083",
-   "title": "‘Trump Was Right!’ WH Puts Out Bombastic Press Release Praising President’s Vandalism Comments",
-   "link": "https://www.mediaite.com/media/news/trump-was-right-wh-puts-out-bombastic-press-release-praising-presidents-vandalism-comments/",
-   "summary": "The White House put out a bombastic press release praising Donald Trump for being \"right\" about vandals causing the reflecing pool's recent issues. The post ‘Trump Was Right!’ WH Puts Out Bombastic Press Release Praising President’s Vandalism Comments first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T19:28:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a9d314eecb99",
-   "title": "Charlamagne Blasts Obama for Calling Trump Two-Faced: ‘Same Thing Could Be Said for You’",
-   "link": "https://www.mediaite.com/media/news/charlamagne-blasts-obama-for-calling-trump-two-faced-same-thing-could-be-said-for-you/",
-   "summary": "Charlamagne tha God, co-host of The Breakfast Club radio show, blasted former President Barack Obama on-air for calling President Donald Trump two-faced. The post Charlamagne Blasts Obama for Calling Trump Two-Faced: ‘Same Thing Could Be Said for You’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T19:24:22+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5e7c67ac2636",
-   "title": "For South Korean men, there's only one uniform that matters",
-   "link": "https://www.politico.com/live-updates/2026/06/25/world-cup-2026/south-korea-heungmin-son-wear-wrong-uniform-military-00975572",
-   "summary": "The country can't watch a sporting event without arguing about its military service exemption.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-25T19:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "05d9834880d2",
-   "title": "‘Everyone’s Like Wow!’ Trump SCOTUS Case ‘Boiled Over’ When Sotomayor ‘Blindsided’ Alito With Blistering Dissent",
-   "link": "https://www.mediaite.com/media/news/everyones-like-wow-trump-scotus-case-boiled-over-when-sotomayor-blindsided-alito-with-blistering-dissent/",
-   "summary": "CNN revealed the intense scene when Justice Samuel Alito fumed at Justice Sonia Sotomayor over a blistering dissent that \"blindsided\" him The post ‘Everyone’s Like Wow!’ Trump SCOTUS Case ‘Boiled Over’ When Sotomayor ‘Blindsided’ Alito With Blistering Dissent first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-25T18:52:53+00:00",
    "iran_topic": false
   }
  ]
