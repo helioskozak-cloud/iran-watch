@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T14:06:00.070502+00:00",
+ "generated": "2026-06-27T15:38:53.030646+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -217,6 +217,20 @@
  ],
  "incidents": [
   {
+   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+   "source": "Press TV",
+   "published": "2026-06-27T15:38:07.887374+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uh5ctt/tanker_struck_in_hormuz_as_iran_us_trade_attacks/",
+   "source": "r/worldnews",
+   "published": "2026-06-27T15:17:21+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
    "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
    "source": "Press TV",
@@ -306,48 +320,34 @@
    "source": "Press TV",
    "published": "2026-06-27T06:28:18.592441+00:00",
    "severity": "low"
-  },
-  {
-   "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-   "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mpadk7zmnt2z",
-   "source": "@warontherocks",
-   "published": "2026-06-27T01:45:11.940+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US strikes Iran after attack on cargo ship; Vance vows ‘violence will be met with violence’",
-   "link": "https://www.timesofisrael.com/us-strikes-iran-after-attack-on-cargo-ship-vance-vows-violence-will-be-met-with-violence/",
-   "source": "Times of Israel",
-   "published": "2026-06-27T01:32:18+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ACTIVE",
-   "incident_count": 7,
+   "status": "ELEVATED",
+   "incident_count": 8,
    "recent": [
+    {
+     "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+     "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+     "source": "Press TV",
+     "published": "2026-06-27T15:38:07.887374+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
+     "link": "https://www.reddit.com/r/worldnews/comments/1uh5ctt/tanker_struck_in_hormuz_as_iran_us_trade_attacks/",
+     "source": "r/worldnews",
+     "published": "2026-06-27T15:17:21+00:00",
+     "severity": "critical"
+    },
     {
      "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
      "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
      "source": "Press TV",
      "published": "2026-06-27T14:05:07.883921+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
-     "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-27T13:26:56+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran says it hit US targets as tensions over Strait of Hormuz strain agreement",
-     "link": "https://www.reddit.com/r/worldnews/comments/1uh1kwa/iran_says_it_hit_us_targets_as_tensions_over/",
-     "source": "r/worldnews",
-     "published": "2026-06-27T12:31:44+00:00",
      "severity": "info"
     }
    ]
@@ -376,6 +376,76 @@
  ],
  "wh_statements": [
   {
+   "id": "2bbf8cdd3965",
+   "title": "‘They Tried to Kill Him!’ Wild Trump Intro Goes Right Into God Saved Him Territory",
+   "link": "https://www.mediaite.com/media/news/they-tried-to-kill-him-wild-trump-intro-goes-right-into-god-saved-him-territory/",
+   "summary": "Faith and Freedom Coalition Chairman Ralph Reed went over the top in an introduction of Trump that portrayed him as a besieged but divinely protected leader. The post ‘They Tried to Kill Him!’ Wild Trump Intro Goes Right Into God Saved Him Territory first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T15:24:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2a76a9e2e3b5",
+   "title": "The BBC has requested that Donald Trump hand over his phone records from Jan. 6 as part of his defamation lawsuit against the broadcaster.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpbqanznms24",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-27T15:05:11.399+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "203131d8beb8",
+   "title": "Larry David brushes off Barack Obama’s notes on new show: ‘I’m the President of This’",
+   "link": "https://www.mediaite.com/media/entertainment/barack-obama-scolded-larry-david-in-meeting-for-new-show/",
+   "summary": "Former President Barack Obama found himself scolding Larry David during a meeting for David's new show, which Obama is a producer co-creator on. The post Larry David brushes off Barack Obama’s notes on new show: ‘I’m the President of This’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T14:56:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f40576cf5c0",
+   "title": "Bill Maher Roasts JD Vance To His Face For Saying ‘The View’ Was Tougher Than Iran",
+   "link": "https://www.mediaite.com/media/news/bill-maher-roasts-jd-vance-to-his-face-for-saying-the-view-was-tougher-than-iran/",
+   "summary": "Bill Maher roasted Vice President JD Vance to his face over a much-derided remark about the hosts of The View being tougher to handle than Iranian negotiators. The post Bill Maher Roasts JD Vance To His Face For Saying ‘The View’ Was Tougher Than Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T14:43:56+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "0adae659b6bf",
+   "title": "Lara Trump Cheers On Parents in the Midst of Southern Baby Boom: ‘We Need More Good Red Voters!’",
+   "link": "https://www.mediaite.com/media/tv/lara-trump-cheers-on-parents-in-the-midst-of-southern-baby-boom-we-need-more-good-red-voters/",
+   "summary": "Fox News' Lara Trump cheered on a baby boom occurring in the south and encouraged parents to make sure they're producing \"good red voters.\" The post Lara Trump Cheers On Parents in the Midst of Southern Baby Boom: ‘We Need More Good Red Voters!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T14:24:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "89ba6f1e8d1f",
+   "title": "\"But now, the president is openly profiting off the office while destroying and misusing the physical WH as though he owns it.\"👇",
+   "link": "https://bsky.app/profile/kristenmcknight.bsky.social/post/3mpbn72m2vs2z",
+   "summary": "",
+   "source": "@kristenmcknight",
+   "category": "trump_bsky",
+   "published": "2026-06-27T14:10:36.251+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "125c74080b1b",
+   "title": "Kaitlan Collins Calls Out Trump’s ‘Apocalyptic’ Rant on ‘Communists’: ‘Socialism…Is Not Communism’",
+   "link": "https://www.mediaite.com/media/kaitlan-collins-calls-out-trumps-apocalyptic-rant-on-communists-socialism-is-not-communism/",
+   "summary": "CNN's Kaitlan Collins called out President Donald Trump's \"borderline apocalyptic\" rant about socialism at Friday's Faith &#038; Freedom Coalition conference. The post Kaitlan Collins Calls Out Trump’s ‘Apocalyptic’ Rant on ‘Communists’: ‘Socialism…Is Not Communism’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T14:05:32+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "93db6901e877",
    "title": "Wow, thank you so much Anu! I really appreciate it 🍻",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpbmqmp2ps27",
@@ -393,6 +463,16 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-27T14:02:03.583+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b309504bc212",
+   "title": "\"Speaking as an early American historian who spent decades immersed in what the founding generation thought about political power-specifically about executive power-this presidency is entirely out of bounds and beyond anything the founding folk could have conceived of ..\" Read this:",
+   "link": "https://bsky.app/profile/monaburns.bsky.social/post/3mpbmmqrfe22m",
+   "summary": "",
+   "source": "@monaburns",
+   "category": "trump_bsky",
+   "published": "2026-06-27T14:00:21.959+00:00",
    "iran_topic": false
   },
   {
@@ -816,16 +896,6 @@
    "iran_topic": true
   },
   {
-   "id": "86e98b34390f",
-   "title": "NFL and CFL Both Shut Out Texas Tech QB Involved in Massive Betting Scandal",
-   "link": "https://www.mediaite.com/media/sports/nfl-and-cfl-both-shut-out-texas-tech-qb-involved-in-massive-betting-scandal/",
-   "summary": "Both the NFL and the Canadian Football League have announced they will not allow Texas Tech quarterback Brendan Sorsby to enter their leagues in 2026. The post NFL and CFL Both Shut Out Texas Tech QB Involved in Massive Betting Scandal first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:58:11+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "6305b388a0c7",
    "title": "S. 1003 Signed into Law",
    "link": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
@@ -843,46 +913,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-06-26T20:52:07+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "00cf4c598e51",
-   "title": "‘Frustrating to Me’: Ex-Biden Staffer Demands Dem Leaders ‘Stand Up’ to Prevent Far-Left Takeover",
-   "link": "https://www.mediaite.com/media/tv/frustrating-to-me-ex-biden-staffer-demands-dem-leaders-stand-up-to-prevent-far-left-takeover/",
-   "summary": "Meghan Hays, once an advisor to former Presidents Barack Obama and Joe Biden, demanded that Democratic leaders \"stand up\" to prevent a far-left takeover during a Friday appearance on Fox News, emphasizing that the situation is \"frustrating to me.\" The post ‘Frustrating to Me’: Ex-Biden Staffer Demands Dem Leaders ‘Stand Up’ to Prevent Far-Left Takeover first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:49:33+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "62ff3436ca60",
-   "title": "Charlie Kirk Murder Trial Prosecutor Held In Contempt For Speaking To The Press",
-   "link": "https://www.mediaite.com/media/news/charlie-kirk-murder-trial-prosecutor-held-in-contempt-for-speaking-to-the-press/",
-   "summary": "A prosecutor in the Charlie Kirk murder trial has been found in civil contempt for speaking to the media about what he felt was strong evidence. The post Charlie Kirk Murder Trial Prosecutor Held In Contempt For Speaking To The Press first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:49:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8575e78b2be4",
-   "title": "Pete Buttigieg Denounces False Report to CPS About His Family: ‘Cruel, Politically Motivated Hoax’",
-   "link": "https://www.mediaite.com/online/pete-buttigieg-denounces-false-report-to-cps-about-his-family-cruel-politically-motivated-hoax/",
-   "summary": "Former Transportation Secretary Pete Buttigieg published an emotional Substack post Friday describing a \"cruel, politically motivated hoax\" against his family. The post Pete Buttigieg Denounces False Report to CPS About His Family: ‘Cruel, Politically Motivated Hoax’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:44:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "102d6e9a2814",
-   "title": "US Bombs Iranian Targets Following Attacks In Strait of Hormuz",
-   "link": "https://www.mediaite.com/media/news/breaking-us-bombs-iranian-targets-following-attacks-in-strait-of-hormuz/",
-   "summary": "\"I don't think either side wants to restart the war, but it shows the U.S. military can still strike at will,\" noted Jennifer Griffin The post US Bombs Iranian Targets Following Attacks In Strait of Hormuz first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:40:55+00:00",
    "iran_topic": true
   },
   {
@@ -944,36 +974,6 @@
    "category": "trump_bsky",
    "published": "2026-06-26T19:57:32.728+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "5b24a2dc20e2",
-   "title": "Dan Patrick: \"Separation of Church and state is not in the Constitution\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7q3k644k2j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:57:00.090+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a6ec754c0771",
-   "title": "Trump's face is drooping as he wages total war on wokeness",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7pzsvggw2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:56:02.131+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b63e2ba2c6e6",
-   "title": "Fox News cuts away from Trump's unending glaze-fest in the Oval Office",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7py3mpjp2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:55:04.162+00:00",
-   "iran_topic": false
   }
  ]
 }
