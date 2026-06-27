@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T19:11:07.565832+00:00",
+ "generated": "2026-06-27T20:19:58.865317+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,53 +46,57 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.43,
-   "change": -0.18,
-   "change_pct": -0.18,
+   "price": 101.36,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.43000030517578
+    101.43000030517578,
+    101.36000061035156
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7354.02,
+   "change": -3.47,
+   "change_pct": -0.05,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
-    7357.490234375
+    7357.490234375,
+    7354.02001953125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 105.48,
+   "change": -3.83,
+   "change_pct": -3.5,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
-    109.30999755859375
+    109.30999755859375,
+    105.4800033569336
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.89,
-   "change": 0.26,
-   "change_pct": 1.4,
+   "price": 18.41,
+   "change": -0.48,
+   "change_pct": -2.54,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.889999389648438
+    18.889999389648438,
+    18.40999984741211
    ]
   },
   "NG=F": {
@@ -217,17 +221,17 @@
  ],
  "incidents": [
   {
+   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+   "source": "Press TV",
+   "published": "2026-06-27T20:19:20.116718+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
    "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
    "source": "Jerusalem Post",
    "published": "2026-06-27T20:07:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
-   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
-   "source": "Press TV",
-   "published": "2026-06-27T19:10:27.529334+00:00",
    "severity": "info"
   },
   {
@@ -330,17 +334,17 @@
    "incident_count": 9,
    "recent": [
     {
+     "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+     "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+     "source": "Press TV",
+     "published": "2026-06-27T20:19:20.116718+00:00",
+     "severity": "info"
+    },
+    {
      "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
      "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
      "source": "Jerusalem Post",
      "published": "2026-06-27T20:07:20+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
-     "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
-     "source": "Press TV",
-     "published": "2026-06-27T19:10:27.529334+00:00",
      "severity": "info"
     },
     {
@@ -375,6 +379,116 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "562d26f199e1",
+   "title": "The weekend of Andy Burnham’s life",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/andy-burnham-british-prime-minister-england-world-cup-final-00979121",
+   "summary": "If England win the World Cup, one pollster says the new prime minister should call a snap election.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T20:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7cd580e527af",
+   "title": "Trump Announces Pick for Next ICE Director",
+   "link": "https://www.mediaite.com/politics/trump-announces-pick-for-next-ice-director/",
+   "summary": "President Trump on Saturday announced he was nominating veteran Oklahoma State Trooper and \"PATRIOT\" Lance Shroyer to be the next ICE director The post Trump Announces Pick for Next ICE Director first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T20:10:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fdf0601d66f7",
+   "title": "Less than 24 hours after RFK Jr. became health secretary, his press secretary delivered an order from him to the CDC: Take down your ad campaign promoting flu vaccines. That same day, the CDC reported flu-related ailments that season had killed 68 children — 11 that week alone — and 16,000 overall.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpcaq2fspk2w",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-27T20:00:07.567+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a3be02fc1c0b",
+   "title": "Colleagues Shower Alex Witt With Accolades After Anchor Announces MS NOW Departure",
+   "link": "https://www.mediaite.com/media/news/colleagues-shower-alex-witt-with-accolades-after-anchor-announces-ms-now-departure/",
+   "summary": "Longtime anchor Alex Witt has announced her departure from MS NOW, after nearly 30 years with the network -- prompting colleagues to shower her with affection. The post Colleagues Shower Alex Witt With Accolades After Anchor Announces MS NOW Departure first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T19:57:25+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a469f06eee2e",
+   "title": "CNN Boss Draws Line in the Sand with Paramount on ‘Oversight’ of Network: Report",
+   "link": "https://www.mediaite.com/media/cnn-boss-draws-line-in-the-sand-with-paramount-on-oversight-of-network-report/",
+   "summary": "CNN head Mark Thompson reportedly has no interest in sharing \"oversight\" of his network with another executive and he made that clear to Paramount officials. The post CNN Boss Draws Line in the Sand with Paramount on ‘Oversight’ of Network: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T19:34:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "86b56094fca0",
+   "title": "Naming your kid 'Donald' has never been more unpopular. In 2025, the baby name 'Donald' hit its lowest point of popularity in U.S. history, according to data maintained by the Social Security Administration and reviewed by NOTUS.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpc72ekwe22w",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:30:06.280+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "056db1aebb4c",
+   "title": "Ossoff: \"Just think, 250 years on, what the Founders would see if they visited us today. *crowd groans* But wait -- they would see that slavery had been abolished. They would see that Americans without land, and then women, and then the descendants of slaves had secured voting rights ... \"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc6l4fsfa2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:21:34.395+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "29b77c461bc3",
+   "title": "Ossoff: \"When they gathered in Atl to remove Black elected officials not by defeating them at the polls, but by manipulating maps to dilute minority power, they saw you mobilize & they backed down. A wave is building ... let's make sure they hear it down at Mar-a-Lago, that GA will bow to no king!\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc6hnspj72v",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:19:38.394+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c491a3485db8",
+   "title": "Smerconish Throws Cold Water on Harvey Levin’s Nancy Guthrie Informant",
+   "link": "https://www.mediaite.com/media/news/smerconish-throws-cold-water-on-harvey-levins-nancy-guthrie-informant/",
+   "summary": "Michael Smerconish was skeptical that Harvey Levin was dealing with a legitimate source who has been sending TMZ emails since Nancy Guthrie's disappearance. The post Smerconish Throws Cold Water on Harvey Levin’s Nancy Guthrie Informant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T19:17:15+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0daf01550941",
+   "title": "It's getting real in a New Jersey parking lot",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/the-most-ferocious-rivalry-00979089",
+   "summary": "Forget Germany-Netherlands or Brazil-Argentina. The cup's most ferocious rivalry is divided by the Hudson River.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T19:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "73585467bbe2",
+   "title": "the founders did not foresee every problem the nation would face, because they lived hundreds of years ago and also because many of them were awful slaveholders but they knew men like Donald Trump and they were extremely clear that such men should never be President",
+   "link": "https://bsky.app/profile/rincewind.run/post/3mpc65bv4rk2j",
+   "summary": "",
+   "source": "@rincewind",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:13:50.390+00:00",
+   "iran_topic": false
+  },
   {
    "id": "2fe8bc740aa3",
    "title": "Ossoff: \"Citizens United was the most destructive court decision in modern history. It's unleashed a flood of secret money, corporate money, billionaire money. Trump's rise is a symptom of this deeper disease. Our task is not just to contain his wickedness, but to cure the rot that gave rise to it.\"",
@@ -536,10 +650,10 @@
    "iran_topic": false
   },
   {
-   "id": "d6619c0b4f35",
-   "title": "CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: NYT Sources",
-   "link": "https://www.mediaite.com/media/cnn-mainstay-anderson-cooper-bristles-over-bari-weiss-takeover-amid-merger-strife-nyt-sources-say/",
-   "summary": "CNN's Anderson Cooper is reportedly expressing disinterest in working for Bari Weiss, who could have some major oversight over CNN after a merger goes through. The post CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: NYT Sources first appeared on Mediaite .",
+   "id": "8f5823a538cf",
+   "title": "CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: Report",
+   "link": "https://www.mediaite.com/media/cnn-mainstay-anderson-cooper-bristles-over-possible-bari-weiss-takeover-at-cnn-report/",
+   "summary": "CNN's Anderson Cooper is reportedly expressing disinterest in working for Bari Weiss, who could have some major oversight over CNN after a merger goes through. The post CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: Report first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-27T18:31:16+00:00",
@@ -806,46 +920,6 @@
    "iran_topic": false
   },
   {
-   "id": "96a26ad3e007",
-   "title": "Iran Launches Drone Blitz After Overnight US Strikes, Amid New Trump Threat",
-   "link": "https://www.mediaite.com/media/news/iran-launches-drone-blitz-after-overnight-us-strikes-amid-new-trump-threat/",
-   "summary": "Iran unleashed a drone attack on U.S. Navy targets inside Bahrain Saturday, while a ship took fire in the Strait of Hormuz -- testing the shaky ceasefire. The post Iran Launches Drone Blitz After Overnight US Strikes, Amid New Trump Threat first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T13:23:12+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "43b60ae3377f",
-   "title": "Bill Maher Confronts JD Vance Over Trump Iran Deal: ‘Why Is It Not Bullsh*t This Time?’",
-   "link": "https://www.mediaite.com/media/news/bill-maher-confronts-jd-vance-over-trump-iran-deal-why-is-it-not-bullsht-this-time/",
-   "summary": "Bill Maher grilled Vice President JD Vance over President Donald Trump's Iran deal, asking him how we know it's not \"bulsh*t.\" The post Bill Maher Confronts JD Vance Over Trump Iran Deal: ‘Why Is It Not Bullsh*t This Time?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T13:00:54+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "02e19ea208fd",
-   "title": "Trump Lashes Out in Wild Rant About New Dem Winners: ‘They Want to End Religion!’",
-   "link": "https://www.mediaite.com/media/news/trump-lashes-out-in-wild-rant-about-new-dem-winners-they-want-to-end-religion/",
-   "summary": "Trump lashed out at Democrats in a wild rant about the progressive candidates who won surprise primary victories, claiming that \"They want to end religion!\" The post Trump Lashes Out in Wild Rant About New Dem Winners: ‘They Want to End Religion!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T12:42:06+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "030eed31b30f",
-   "title": "Bill Maher Hammers Trump’s Low Ratings Amid Reflecting Pool Debacle: ‘He’s at 25% With Independents and 0% With Ducks’",
-   "link": "https://www.mediaite.com/media/news/bill-maher-hammers-trumps-low-ratings-amid-reflecting-pool-debacle-hes-at-25-with-independents-and-0-with-ducks/",
-   "summary": "Bill Maher hammered President Donald Trump over his low approval ratings in the polls and his difficulties with the Reflecting Pool renovation. The post Bill Maher Hammers Trump’s Low Ratings Amid Reflecting Pool Debacle: ‘He’s at 25% With Independents and 0% With Ducks’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T12:04:47+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "5acdb92796fc",
    "title": "Joanne Freeman on why Trump is an affront to the Founders",
    "link": "https://www.publicnotice.co/p/joanne-freeman-interview-2026",
@@ -903,76 +977,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-27T02:38:43.109+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aec31d358fd7",
-   "title": "Anthony Fauci should sue Peter Navarro for defamation. I’m not saying this hyperbolically, I mean it.",
-   "link": "https://bsky.app/profile/michaeljstern.bsky.social/post/3mpaddwovic26",
-   "summary": "",
-   "source": "@michaeljstern",
-   "category": "trump_bsky",
-   "published": "2026-06-27T01:41:42.766+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "93fad171be8f",
-   "title": "AOC: These are two young, talented, intelligent women who got elected against all odds, against millions of dollars. Perhaps there is something we can learn from them.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpac3mjriv2r",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-27T01:19:09.816+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ebd3c87f1090",
-   "title": "AOC: The Republican Party’s brand is fear. They constantly want Americans in fear of somebody because, if you are not afraid of someone who is your neighbor, you’re going to realize who’s actually pickpocketing you.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpabyhpifk2i",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-27T01:17:24.087+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9bb242e5f01e",
-   "title": "Why Belgium’s prime minister isn’t cheering on the Red Devils",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/belgium-world-cup-bart-de-wever-flemish-nationalism-00978292",
-   "summary": "The World Cup isn’t easy for Bart De Wever.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-27T01:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bfd335b5a314",
-   "title": "Spot the pol!",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/hidden-politician-fifa-world-cup-2026-usha-vance-sofi-stadium-00978441",
-   "summary": "Study the photograph carefully. Only the political figure is missing. Guess who it is.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-27T00:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "14a0d714d11a",
-   "title": "Jacqueline Smith, the Stars and Stripes ombudsman who was fired by Pete Hegseth's Pentagon, has sued the agency — alleging that her dismissal was in retaliation over a critical column she wrote and violated her First Amendment rights.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpa3hwmo2s2j",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T23:20:46.976+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "438bf76da1fe",
-   "title": "World Cup match collides with Florida GOP bash",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/miami-fifa-world-cup-meets-florida-republican-showdown-00978440",
-   "summary": "Florida Republicans are hoping to capitalize on Miami’s moment as global attention converges on South Florida for the World Cup — but logistics may be the real test.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T23:15:00+00:00",
    "iran_topic": false
   }
  ]
