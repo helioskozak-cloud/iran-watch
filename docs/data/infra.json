@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T12:02:26.966604+00:00",
+ "generated": "2026-06-27T14:06:00.070502+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,57 +46,53 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.36,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 101.43,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.43000030517578,
-    101.36000061035156
+    101.43000030517578
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7354.02,
-   "change": -3.47,
-   "change_pct": -0.05,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
-    7357.490234375,
-    7354.02001953125
+    7357.490234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 105.48,
-   "change": -3.83,
-   "change_pct": -3.5,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
-    109.30999755859375,
-    105.4800033569336
+    109.30999755859375
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.41,
-   "change": -0.48,
-   "change_pct": -2.54,
+   "price": 18.89,
+   "change": 0.26,
+   "change_pct": 1.4,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.889999389648438,
-    18.40999984741211
+    18.889999389648438
    ]
   },
   "NG=F": {
@@ -224,8 +220,29 @@
    "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
    "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-27T12:01:36.017819+00:00",
+   "published": "2026-06-27T14:05:07.883921+00:00",
    "severity": "info"
+  },
+  {
+   "title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
+   "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-27T13:26:56+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says it hit US targets as tensions over Strait of Hormuz strain agreement",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uh1kwa/iran_says_it_hit_us_targets_as_tensions_over/",
+   "source": "r/worldnews",
+   "published": "2026-06-27T12:31:44+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran fires drones at Bahrain, oil tanker hit in Hormuz as clashes test deal",
+   "link": "https://www.timesofisrael.com/iran-fires-drones-at-bahrain-oil-tanker-hit-in-hormuz-as-clashes-test-deal/",
+   "source": "Times of Israel",
+   "published": "2026-06-27T12:15:43+00:00",
+   "severity": "high"
   },
   {
    "title": "US strikes Iran after attack on cargo ship",
@@ -263,6 +280,13 @@
    "severity": "info"
   },
   {
+   "title": "Transportation Ministry says it reached deal to clear US jets clogging up Tel Aviv airport",
+   "link": "https://www.timesofisrael.com/transportation-ministry-says-it-reached-deal-to-clear-us-jets-clogging-up-tel-aviv-airport/",
+   "source": "Times of Israel",
+   "published": "2026-06-27T07:03:09+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
    "link": "https://presstv.ir/Detail/2026/06/21/770834/Imam-assaulted-outside-mosque-in-Canada-in-hate-crime-incident-amid-rising-Islamophobia",
    "source": "Press TV",
@@ -296,34 +320,6 @@
    "source": "Times of Israel",
    "published": "2026-06-27T01:32:18+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Iran's IRGC says it targeted US positions after American strikes near Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ugo3np/irans_irgc_says_it_targeted_us_positions_after/",
-   "source": "r/worldnews",
-   "published": "2026-06-27T00:35:33+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump justifies strikes on Iran amid ceasefire",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-27T00:16:58+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "U.S. Carries Out First Strike On Iran Since Peace Memorandum Signed (Updated)",
-   "link": "https://www.twz.com/news-features/u-s-carries-out-first-strike-on-iran-since-peace-memorandum-signed",
-   "source": "The Drive",
-   "published": "2026-06-27T00:07:43+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "US strikes Iran in retaliation for Strait of Hormuz cargo ship attack",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-900622",
-   "source": "Jerusalem Post",
-   "published": "2026-06-26T23:45:56+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -331,27 +327,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
      "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
      "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-27T12:01:36.017819+00:00",
+     "published": "2026-06-27T14:05:07.883921+00:00",
      "severity": "info"
     },
     {
-     "title": "A maritime body overseen by the U.S. Navy said a route through the Strait of Hormuz near Oman's shores is expanding to allow for both inbound and outbound traffic.",
-     "link": "https://bsky.app/profile/apnews.com/post/3mpba2crnxn2w",
-     "source": "@apnews",
-     "published": "2026-06-27T10:15:18+00:00",
+     "title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
+     "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-27T13:26:56+00:00",
      "severity": "info"
     },
     {
-     "title": "Senior official: Hormuz safe passage conditional on Iran's coordination",
-     "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
-     "source": "Press TV",
-     "published": "2026-06-27T06:28:18.592667+00:00",
+     "title": "Iran says it hit US targets as tensions over Strait of Hormuz strain agreement",
+     "link": "https://www.reddit.com/r/worldnews/comments/1uh1kwa/iran_says_it_hit_us_targets_as_tensions_over/",
+     "source": "r/worldnews",
+     "published": "2026-06-27T12:31:44+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +375,96 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "93db6901e877",
+   "title": "Wow, thank you so much Anu! I really appreciate it 🍻",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpbmqmp2ps27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T14:02:31.907+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fe324534225e",
+   "title": "President Obama says he has \"a room\" in Trump's head. \"A suite in his head.\" \"Look, first of all, when I was president, the last thing I had time to do was worry about what somebody said, or what my predecessor did. They're gone. I've got work to do.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpbmpronlk2u",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-27T14:02:03.583+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5756a39d3e85",
+   "title": "This week has been an absolute doozy. If you value unfiltered independent journalism, subscribe to @atrupar.com Public Notice. Then head to his Venmo (@atrupar) to buy him a coffee or a pint. Tracking this daily political circus is heavy lifting, and he deserves a medal for keeping us sane.",
+   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3mpbmatudkc2b",
+   "summary": "",
+   "source": "@nofirstorder",
+   "category": "trump_bsky",
+   "published": "2026-06-27T13:53:42.549+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1012b5462b1a",
+   "title": "CNN’s Jake Tapper Confronts Hilton With Trump Rant on Election: ‘That’s Nonsense, Right?’",
+   "link": "https://www.mediaite.com/media/news/cnns-jake-tapper-confronts-hilton-with-trump-rant-on-election-thats-nonsense-right/",
+   "summary": "CNN anchor Jake Tapper confronted California gubernatorial candidate Steve Hilton over Trump's claims of voter fraud, saying \"That's nonsense, right?\" The post CNN’s Jake Tapper Confronts Hilton With Trump Rant on Election: ‘That’s Nonsense, Right?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T13:52:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "00f81cd5fcdc",
+   "title": "New in PN: @jbf1755.bsky.social on why Trump is an affront to the Founders \"But now, the president is openly profiting off the office while destroying and misusing the physical WH as though he owns it. I am angry, because what we’re watching right now isn’t what a president is supposed to be.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpblckkrzk2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T13:36:46.167+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "96a26ad3e007",
+   "title": "Iran Launches Drone Blitz After Overnight US Strikes, Amid New Trump Threat",
+   "link": "https://www.mediaite.com/media/news/iran-launches-drone-blitz-after-overnight-us-strikes-amid-new-trump-threat/",
+   "summary": "Iran unleashed a drone attack on U.S. Navy targets inside Bahrain Saturday, while a ship took fire in the Strait of Hormuz -- testing the shaky ceasefire. The post Iran Launches Drone Blitz After Overnight US Strikes, Amid New Trump Threat first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T13:23:12+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "43b60ae3377f",
+   "title": "Bill Maher Confronts JD Vance Over Trump Iran Deal: ‘Why Is It Not Bullsh*t This Time?’",
+   "link": "https://www.mediaite.com/media/news/bill-maher-confronts-jd-vance-over-trump-iran-deal-why-is-it-not-bullsht-this-time/",
+   "summary": "Bill Maher grilled Vice President JD Vance over President Donald Trump's Iran deal, asking him how we know it's not \"bulsh*t.\" The post Bill Maher Confronts JD Vance Over Trump Iran Deal: ‘Why Is It Not Bullsh*t This Time?’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T13:00:54+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "02e19ea208fd",
+   "title": "Trump Lashes Out in Wild Rant About New Dem Winners: ‘They Want to End Religion!’",
+   "link": "https://www.mediaite.com/media/news/trump-lashes-out-in-wild-rant-about-new-dem-winners-they-want-to-end-religion/",
+   "summary": "Trump lashed out at Democrats in a wild rant about the progressive candidates who won surprise primary victories, claiming that \"They want to end religion!\" The post Trump Lashes Out in Wild Rant About New Dem Winners: ‘They Want to End Religion!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T12:42:06+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "030eed31b30f",
+   "title": "Bill Maher Hammers Trump’s Low Ratings Amid Reflecting Pool Debacle: ‘He’s at 25% With Independents and 0% With Ducks’",
+   "link": "https://www.mediaite.com/media/news/bill-maher-hammers-trumps-low-ratings-amid-reflecting-pool-debacle-hes-at-25-with-independents-and-0-with-ducks/",
+   "summary": "Bill Maher hammered President Donald Trump over his low approval ratings in the polls and his difficulties with the Reflecting Pool renovation. The post Bill Maher Hammers Trump’s Low Ratings Amid Reflecting Pool Debacle: ‘He’s at 25% With Independents and 0% With Ducks’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T12:04:47+00:00",
+   "iran_topic": false
+  },
   {
    "id": "5acdb92796fc",
    "title": "Joanne Freeman on why Trump is an affront to the Founders",
@@ -421,7 +507,7 @@
   },
   {
    "id": "52bd7a3dab8a",
-   "title": "The “Pride Match” that wasn’t",
+   "title": "The 'Pride Match' that wasn’t",
    "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-pride-match-00979082",
    "summary": "Local organizers hoped rainbow flags would fill Lumen Field. They were largely outnumbered by lion-and-sun banners and tricolor facepaint.",
    "source": "Politico Politics",
@@ -800,26 +886,6 @@
    "iran_topic": true
   },
   {
-   "id": "2cf9f52ae78b",
-   "title": "‘Get the Noose’: Glenn Greenwald Goes Off On John Bolton’s Past Jab At Edward Snowden",
-   "link": "https://www.mediaite.com/media/news/get-the-noose-glenn-greenwald-goes-off-on-john-boltons-past-jab-at-edward-snowden/",
-   "summary": "Greenwald resurrected one of Bolton’s most infamous comments about whistleblower Edward Snowden to ponder what punishment the ex-Trump advisor deserved. The post ‘Get the Noose’: Glenn Greenwald Goes Off On John Bolton’s Past Jab At Edward Snowden first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:35:44+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f87ea02f7819",
-   "title": "Conservative Radio Host Demolishes JD Vance’s Worldview: He Wants America to ‘Retreat’",
-   "link": "https://www.mediaite.com/politics/conservative-radio-host-demolishes-jd-vances-worldview-he-wants-america-to-retreat/",
-   "summary": "\"That vacuum is always filled by someone worse. The Vice President is busy manufacturing that vacuum.\" The post Conservative Radio Host Demolishes JD Vance’s Worldview: He Wants America to ‘Retreat’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:34:17+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "09fba3858035",
    "title": "Himes: I got a little bit more of an up-close-and-personal look at some of the damage that was done. I’ll tell you what: the Iranians hit our embassies. They hit pretty much all of our military facilities in the area.",
    "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp7rlattt327",
@@ -827,26 +893,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-06-26T20:23:40.824+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "789a8fc27178",
-   "title": "Yale Looks to Bend the Knee as Trump Admin Launches Investigation, Reveals The New York Times",
-   "link": "https://www.mediaite.com/media/news/yale-looks-to-bend-the-knee-as-trump-admin-launches-investigation-reveals-the-new-york-times/",
-   "summary": "The Trump Administration is widening its probe of Yale University's admission policies -- and the school is already caving, according to The New York Times. The post Yale Looks to Bend the Knee as Trump Admin Launches Investigation, Reveals The New York Times first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:14:31+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "161c8fb6eac0",
-   "title": "NEW: Texas Officially Becomes First State to Require Public School Students Read the Bible",
-   "link": "https://www.mediaite.com/media/news/new-texas-officially-becomes-first-state-to-require-public-school-students-read-the-bible/",
-   "summary": "Texas will become the first state in the nation to require public school students to read selections from the Bible after the Republican-controlled State Board of Education signed off Friday on a sweeping new statewide reading list. The post NEW: Texas Officially Becomes First State to Require Public School Students Read the Bible first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T20:05:30+00:00",
    "iran_topic": false
   },
   {
@@ -910,16 +956,6 @@
    "iran_topic": false
   },
   {
-   "id": "79375aabda77",
-   "title": "‘Breeds Resentment’: Catholic Priest Tells CNN He’s Against Texas Bible Mandate In Public Schools",
-   "link": "https://www.mediaite.com/media/news/breeds-resentment-catholic-priest-tells-cnn-hes-against-texas-bible-mandate-in-public-schools/",
-   "summary": "A Catholic priest told CNN that he's against the state of Texas's decision to require public school children to read Bible stories and verses in the classroom. The post ‘Breeds Resentment’: Catholic Priest Tells CNN He’s Against Texas Bible Mandate In Public Schools first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-26T19:56:09+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "a6ec754c0771",
    "title": "Trump's face is drooping as he wages total war on wokeness",
    "link": "https://bsky.app/profile/atrupar.com/post/3mp7pzsvggw2x",
@@ -937,46 +973,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-26T19:55:04.162+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6cee2da24c4f",
-   "title": "Every psychiatrist in the world just involuntarily sat bolt upright and screamed.",
-   "link": "https://bsky.app/profile/rexhuppke.bsky.social/post/3mp7pwazaic2o",
-   "summary": "",
-   "source": "@rexhuppke",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:54:02.733+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "979d48008bf6",
-   "title": "PAULA WHITE: Nobody has stood up like you have stood up TRUMP: *sitting* *asleep*",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7pskw55h2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:51:58.887+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f538502ab822",
-   "title": "just unreal how Trump can't stay keep his eyes open even while on camera in the Oval",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7pku5xrr2x",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:47:39.537+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a19e23c71a1c",
-   "title": "Pete Buttigieg says his family was effectively swatted — except, instead of calling the cops, someone called Child Protective Services, lied and said Buttigieg had admitted to 'committing unspeakably violent crimes' and that his kids were at risk. The kids are not and were not at risk.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp7pgfe6os2l",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:45:10.416+00:00",
    "iran_topic": false
   }
  ]
