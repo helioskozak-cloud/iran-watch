@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T21:38:23.329722+00:00",
+ "generated": "2026-06-27T22:43:21.618318+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,57 +46,53 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.36,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 101.43,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.43000030517578,
-    101.36000061035156
+    101.43000030517578
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7354.02,
-   "change": -3.47,
-   "change_pct": -0.05,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
-    7357.490234375,
-    7354.02001953125
+    7357.490234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 105.48,
-   "change": -3.83,
-   "change_pct": -3.5,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
-    109.30999755859375,
-    105.4800033569336
+    109.30999755859375
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.41,
-   "change": -0.48,
-   "change_pct": -2.54,
+   "price": 18.89,
+   "change": 0.26,
+   "change_pct": 1.4,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.889999389648438,
-    18.40999984741211
+    18.889999389648438
    ]
   },
   "NG=F": {
@@ -224,8 +220,36 @@
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-27T21:37:01.978319+00:00",
+   "published": "2026-06-27T22:42:45.581152+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities reut.rs/4eOC3XO",
+   "link": "https://bsky.app/profile/reuters.com/post/3mpcjofrb242a",
+   "source": "@reuters",
+   "published": "2026-06-27T22:40:15+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating",
+   "source": "Al-Monitor",
+   "published": "2026-06-27T22:36:40+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "US forces carry out additional strikes in Iran after tanker attack - CENTCOM",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uhfn6h/us_forces_carry_out_additional_strikes_in_iran/",
+   "source": "r/worldnews",
+   "published": "2026-06-27T22:17:09+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "US launches second night of strikes against Iran after ship struck by drone",
+   "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-27T22:07:03+00:00",
+   "severity": "critical"
   },
   {
    "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
@@ -296,34 +320,6 @@
    "source": "Times of Israel",
    "published": "2026-06-27T12:15:43+00:00",
    "severity": "high"
-  },
-  {
-   "title": "US strikes Iran after attack on cargo ship",
-   "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-27T10:40:38+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Official: Iran, UAE resume trade exchanges",
-   "link": "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
-   "source": "IRNA",
-   "published": "2026-06-27T10:38:02+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm",
-   "link": "https://www.al-monitor.com/originals/2026/06/trumps-iran-deal-falls-short-these-voters-and-some-fear-it-could-cost-republicans",
-   "source": "Al-Monitor",
-   "published": "2026-06-27T10:36:37+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-   "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-27T10:32:24+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,28 +327,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 11,
    "recent": [
     {
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-27T21:37:01.978319+00:00",
+     "published": "2026-06-27T22:42:45.581152+00:00",
      "severity": "info"
     },
     {
-     "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
-     "source": "Jerusalem Post",
-     "published": "2026-06-27T20:07:20+00:00",
-     "severity": "info"
+     "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities reut.rs/4eOC3XO",
+     "link": "https://bsky.app/profile/reuters.com/post/3mpcjofrb242a",
+     "source": "@reuters",
+     "published": "2026-06-27T22:40:15+00:00",
+     "severity": "critical"
     },
     {
-     "title": "Bahrain said it had been targeted on Saturday by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. Hours later, a ship came under attack in the Strait of Hormuz for the second time in recent days. Follow live updates. trib.al/cRbMaop",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mpbu5o7uzx2x",
-     "source": "@nytimes",
-     "published": "2026-06-27T16:15:05.847216+00:00",
-     "severity": "high"
+     "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
+     "link": "https://www.al-monitor.com/originals/2026/06/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating",
+     "source": "Al-Monitor",
+     "published": "2026-06-27T22:36:40+00:00",
+     "severity": "critical"
     }
    ]
   },
@@ -379,6 +375,46 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "dce6e673c7e5",
+   "title": "Spot the pol!",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/missing-politician-friedrich-merz-00979125",
+   "summary": "Study the photograph carefully. Only the political figure is missing. Guess who it is.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T22:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8a0c3ba1e197",
+   "title": "MS NOW Guest Bashes ‘Anti-Black’ Stephen Miller for Deporting Haitians Back to Home Country",
+   "link": "https://www.mediaite.com/media/ms-now-guest-bashes-anti-black-stephen-miller-for-deporting-haitians-back-to-home-country/",
+   "summary": "Guerline Jozef based \"evil\" Stephen Miller for his \"anti-Black\" views that she said are driving the Trump administration's push to deport Haitians. The post MS NOW Guest Bashes ‘Anti-Black’ Stephen Miller for Deporting Haitians Back to Home Country first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T22:04:27+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f9c93b08e0b",
+   "title": "NY Post Calls Out Mayor Mamdani For Wearing a Suit During Playful Pool Stunt",
+   "link": "https://www.mediaite.com/media/news/ny-post-calls-out-mayor-mamdani-for-wearing-a-suit-during-playful-pool-stunt/",
+   "summary": "The New York Post called out Mayor Zohran Mamdani Saturday for breaking the dress code when kicking off the city's summer pool season. The post NY Post Calls Out Mayor Mamdani For Wearing a Suit During Playful Pool Stunt first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T21:56:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "298a5e092843",
+   "title": "Uzbekistan can’t win the World Cup. But it’s already won Washington’s attention.",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/uzbekistan-world-cup-critical-minerals-c5-00979092",
+   "summary": "The soccer team is heading home early. Its diplomats aren't.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T21:45:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "4fbd73de41bf",
    "title": "CNN Host Slams ‘Slur’ in Declaration of Independence Ahead of USA’s 250th Bday",
@@ -840,26 +876,6 @@
    "iran_topic": false
   },
   {
-   "id": "202edc142638",
-   "title": "Elon Musk Pumps Immigrant Crime Vigilante Flick From World’s ‘Worst Director’",
-   "link": "https://www.mediaite.com/media/entertainment/elon-musk-pumps-immigrant-targeting-vigilante-flick-from-worlds-worst-director/",
-   "summary": "Elon Musk really wants you to watch Citizen Vigilante, the new controversial film starring Armie Hammer and centered around illegal migrant-related crime. The post Elon Musk Pumps Immigrant Crime Vigilante Flick From World’s ‘Worst Director’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T16:27:37+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a3ad0495724c",
-   "title": "Up, Up and Away — to the Grave? Iran Floats Flying Funeral for Supreme Leader Ayatollah Khamenei",
-   "link": "https://www.mediaite.com/media/news/up-up-and-away-to-the-grave-iran-floats-flying-funeral-for-supreme-leader-ayatollah-khamenei/",
-   "summary": "Iranian authorities are contemplating holding an \"airborne funeral procession\" for Supreme Leader Ayatollah Ali Khamenei, according to a Saturday report. The post Up, Up and Away — to the Grave? Iran Floats Flying Funeral for Supreme Leader Ayatollah Khamenei first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T16:22:02+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "46f03c71ebbc",
    "title": "It is core to the nature of reactionary politics that its adherents *always* conceive of themselves as aggrieved victims, no matter how much power they amass. It's a permission structure for their own lawlessness & violence.",
    "link": "https://bsky.app/profile/volts.wtf/post/3mpbtzrj3rc2a",
@@ -958,26 +974,6 @@
    "category": "trump_bsky",
    "published": "2026-06-27T13:36:46.167+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "5acdb92796fc",
-   "title": "Joanne Freeman on why Trump is an affront to the Founders",
-   "link": "https://www.publicnotice.co/p/joanne-freeman-interview-2026",
-   "summary": "\"This presidency is beyond anything the founding folk could have conceived of.\"",
-   "source": "Rupar Public Notice",
-   "category": "rupar_substack",
-   "published": "2026-06-27T10:17:27+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "aabb80c2abae",
-   "title": "Iran set to progress at World Cup",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-world-cup-thriller-00979086",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-27T05:35:01+00:00",
-   "iran_topic": true
   }
  ]
 }
