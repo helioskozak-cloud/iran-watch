@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T08:30:21.273349+00:00",
+ "generated": "2026-06-27T10:34:32.198423+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,14 +224,21 @@
    "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
    "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-27T08:29:36.418385+00:00",
+   "published": "2026-06-27T10:33:35.708623+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "A maritime body overseen by the U.S. Navy said a route through the Strait of Hormuz near Oman's shores is expanding to allow for both inbound and outbound traffic.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mpba2crnxn2w",
+   "source": "@apnews",
+   "published": "2026-06-27T10:15:18+00:00",
    "severity": "info"
   },
   {
    "title": "US strikes Iran after attack on cargo ship",
    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Middle East",
-   "published": "2026-06-27T08:25:43+00:00",
+   "published": "2026-06-27T10:06:32+00:00",
    "severity": "critical"
   },
   {
@@ -317,13 +324,6 @@
    "source": "@apnews",
    "published": "2026-06-26T21:09:11+00:00",
    "severity": "high"
-  },
-  {
-   "title": "US strikes Iran in response to drone strike on commercial ship",
-   "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-26T21:08:01+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,20 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 7,
+   "incident_count": 8,
    "recent": [
     {
      "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
      "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-27T08:29:36.418385+00:00",
+     "published": "2026-06-27T10:33:35.708623+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "A maritime body overseen by the U.S. Navy said a route through the Strait of Hormuz near Oman's shores is expanding to allow for both inbound and outbound traffic.",
+     "link": "https://bsky.app/profile/apnews.com/post/3mpba2crnxn2w",
+     "source": "@apnews",
+     "published": "2026-06-27T10:15:18+00:00",
      "severity": "info"
     },
     {
@@ -345,13 +352,6 @@
      "link": "https://presstv.ir/Detail/2026/06/26/771119/Gharibabadi-warns-routes-unapproved-Strait-of-Hormuz",
      "source": "Press TV",
      "published": "2026-06-27T06:28:18.592667+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
-     "link": "https://bsky.app/profile/warontherocks.bsky.social/post/3mpadk7zmnt2z",
-     "source": "@warontherocks",
-     "published": "2026-06-27T01:45:11.940+00:00",
      "severity": "info"
     }
    ]
@@ -379,6 +379,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "5acdb92796fc",
+   "title": "Joanne Freeman on why Trump is an affront to the Founders",
+   "link": "https://www.publicnotice.co/p/joanne-freeman-interview-2026",
+   "summary": "\"This presidency is beyond anything the founding folk could have conceived of.\"",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-27T10:17:27+00:00",
+   "iran_topic": false
+  },
   {
    "id": "aabb80c2abae",
    "title": "Iran set to progress at World Cup",
@@ -967,16 +977,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-26T19:45:10.416+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "601e5c5ec93b",
-   "title": "Trump is starting to count sheep as Dan Patrick goes on and on",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7pfwktt52w",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T19:44:54.892+00:00",
    "iran_topic": false
   }
  ]
