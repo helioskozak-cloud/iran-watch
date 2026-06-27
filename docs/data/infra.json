@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T17:47:53.034387+00:00",
+ "generated": "2026-06-27T19:11:07.565832+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,57 +46,53 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.36,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 101.43,
+   "change": -0.18,
+   "change_pct": -0.18,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.43000030517578,
-    101.36000061035156
+    101.43000030517578
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7354.02,
-   "change": -3.47,
-   "change_pct": -0.05,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
-    7357.490234375,
-    7354.02001953125
+    7357.490234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 105.48,
-   "change": -3.83,
-   "change_pct": -3.5,
+   "price": NaN,
+   "change": NaN,
+   "change_pct": NaN,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
-    109.30999755859375,
-    105.4800033569336
+    109.30999755859375
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.41,
-   "change": -0.48,
-   "change_pct": -2.54,
+   "price": 18.89,
+   "change": 0.26,
+   "change_pct": 1.4,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.889999389648438,
-    18.40999984741211
+    18.889999389648438
    ]
   },
   "NG=F": {
@@ -221,11 +217,25 @@
  ],
  "incidents": [
   {
+   "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
+   "source": "Jerusalem Post",
+   "published": "2026-06-27T20:07:20+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-27T17:47:09.086465+00:00",
+   "published": "2026-06-27T19:10:27.529334+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uh98zj/iranian_drones_attack_bahrain_and_a_ship_is/",
+   "source": "r/worldnews",
+   "published": "2026-06-27T17:54:30+00:00",
+   "severity": "critical"
   },
   {
    "title": "Iranian citizens should not pay for services other countries receive, top adviser says",
@@ -310,20 +320,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-27T10:32:24+00:00",
    "severity": "info"
-  },
-  {
-   "title": "A maritime body overseen by the U.S. Navy said a route through the Strait of Hormuz near Oman's shores is expanding to allow for both inbound and outbound traffic.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mpba2crnxn2w",
-   "source": "@apnews",
-   "published": "2026-06-27T10:15:18+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Transportation Ministry says it reached deal to clear US jets clogging up Tel Aviv airport",
-   "link": "https://www.timesofisrael.com/transportation-ministry-says-it-reached-deal-to-clear-us-jets-clogging-up-tel-aviv-airport/",
-   "source": "Times of Israel",
-   "published": "2026-06-27T07:03:09+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -334,10 +330,17 @@
    "incident_count": 9,
    "recent": [
     {
+     "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
+     "source": "Jerusalem Post",
+     "published": "2026-06-27T20:07:20+00:00",
+     "severity": "info"
+    },
+    {
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-27T17:47:09.086465+00:00",
+     "published": "2026-06-27T19:10:27.529334+00:00",
      "severity": "info"
     },
     {
@@ -346,13 +349,6 @@
      "source": "@nytimes",
      "published": "2026-06-27T16:15:05.847216+00:00",
      "severity": "high"
-    },
-    {
-     "title": "2nd ship struck in Strait of Hormuz as attacks between Iran and U.S. escalate | CBC News",
-     "link": "https://www.reddit.com/r/worldnews/comments/1uh62vi/2nd_ship_struck_in_strait_of_hormuz_as_attacks/",
-     "source": "r/worldnews",
-     "published": "2026-06-27T15:46:49+00:00",
-     "severity": "critical"
     }
    ]
   },
@@ -379,6 +375,186 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "2fe8bc740aa3",
+   "title": "Ossoff: \"Citizens United was the most destructive court decision in modern history. It's unleashed a flood of secret money, corporate money, billionaire money. Trump's rise is a symptom of this deeper disease. Our task is not just to contain his wickedness, but to cure the rot that gave rise to it.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc5wcifym2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:09:56.129+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "61ed34628272",
+   "title": "Ossoff: \"Mike Collins is a bigot and antisemite under federal investigation for the illegal misuse of tax dollars, widely known as a man of poor character who lacks the judgment and integrity to serve in the Senate.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc5qyqfrl2y",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:06:58.133+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f7542a8bce2",
+   "title": "I repeat: Washington would have chased this two-bit huckster off his plantation with a stick.",
+   "link": "https://bsky.app/profile/edgarallandoh.bsky.social/post/3mpc5mkm3uk2u",
+   "summary": "",
+   "source": "@edgarallandoh",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:04:29.107+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "30b7fd6db764",
+   "title": "Ossoff: \"This is what happens when you send your son in law Jared to cosplay as a diplomat. Despite zero qualifications, Prince Jared was tapped to lead Middle East diplomacy. Now remember Jared's slush fund already got $2 billion from the Saudi Crown Prince ... \"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc5l62itj2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:03:42.316+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2bc3f7e770bd",
+   "title": "after detailing the Trump family's corruption, Ossoff says \"if you're involved in any of this, next year you'll be raising your right hand and swearing to tell the truth, the whole truth, and so help you God before Congress.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc5jwyt2w2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:03:01.428+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "114ee1a4f2a5",
+   "title": "holy fuck Jon lmao",
+   "link": "https://bsky.app/profile/clearlyashley.bsky.social/post/3mpc5jj576k2s",
+   "summary": "",
+   "source": "@clearlyashley",
+   "category": "trump_bsky",
+   "published": "2026-06-27T19:02:46.907+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "db73a6d359d8",
+   "title": "Ossoff: On Wednesday of this last week he said the war was \"Done.\" And then on Thursday another ship was struck. On Friday the president was bombing again. This is what happens when you send your son-in-law, Jared, to cosplay as a diplomat",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpc5eihabx2t",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:59:58.277+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "49796c95061c",
+   "title": "Ossoff: \"Illegal tariffs, failed war, healthcare cuts, and unmatched corruption. 34% approval and a presidential legacy cemented in disgrace.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc5bp7zpu2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:58:24.842+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "45ecb61d2fb2",
+   "title": "‘We F*cking Hate You!’ Liberal CA Lawmaker Heckled at San Fran Trans March",
+   "link": "https://www.mediaite.com/politics/we-fcking-hate-you-liberal-ca-lawmaker-heckled-at-san-fran-trans-march/",
+   "summary": "California Senator Scott Wiener was berated by several angry locals at the San Francisco Pride March on Friday for his \"terrible\" policy on the Gaza \"genocide\" The post ‘We F*cking Hate You!’ Liberal CA Lawmaker Heckled at San Fran Trans March first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T18:57:39+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "efa61c28b949",
+   "title": "Ossoff: I never want to hear these two pretend they give a damn about working people again. Because while hundreds of thousands of Georgians lose their health care, Mike Collins builds Trump a ballroom. They worked harder burying the Epstein files than they ever did lowering your grocery bill.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpc5a7mham25",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:57:34.788+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c99540c103b3",
+   "title": "Ossoff: \"While hundreds of thousands of Georgians lose their healthcare, Mike Collins builds Trump a ballroom. They worked harder burying the Epstein files than they ever worked to lower your grocery bill.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc56ex7bq2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:56:33.402+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9308d991c6aa",
+   "title": "Ossoff: \"The president was so humiliated in Hormuz he threw his toys out the stroller & refused to sign the affordable housing bill. That's after he gave some felon donor a no bid contract for the reflecting pool & it filled up with algae, which for some reason required the deployment of the Guard.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc55reopu2x",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:56:12.872+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "1635e8f60f27",
+   "title": "Ossoff: I don’t know if you saw the mess in Washington last week. The president was so humiliated in Hormuz, he threw his toys out of the stroller and refused to sign the affordable housing bill.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpc52e4k3x2e",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:54:18.206+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f71859375845",
+   "title": "The feds are coming for illegal World Cup streams",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/justice-department-fifa-world-cup-illegal-streams-00979120",
+   "summary": "The Justice Department says it seized nearly 400 domains allegedly used to pirate FIFA World Cup matches in a sprawling international enforcement operation.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T18:45:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ae370fb45fdb",
+   "title": "Burgum on the reflecting pool: \"When people are attacking it, it's like an attack on our country. These are our most sacred monuments.\" 🙃",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc4ispobj2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:44:29.640+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5039818f740e",
+   "title": "Burgum on the reflecting pool: \"When people are using boxcutters to do vandalism on this thing it's the same as if they were throwing paint on Lincoln's statue in the eyes of the law. We've had seven arrests.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpc4eiqfjg2i",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-27T18:42:04.953+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6619c0b4f35",
+   "title": "CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: NYT Sources",
+   "link": "https://www.mediaite.com/media/cnn-mainstay-anderson-cooper-bristles-over-bari-weiss-takeover-amid-merger-strife-nyt-sources-say/",
+   "summary": "CNN's Anderson Cooper is reportedly expressing disinterest in working for Bari Weiss, who could have some major oversight over CNN after a merger goes through. The post CNN Mainstay Anderson Cooper Bristles Over Possible Bari Weiss Takeover at CNN: NYT Sources first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T18:31:16+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8610814f6efe",
+   "title": "Never-Trumper Accuses Megyn Kelly of ‘Orgasmic’ Racism in Shock Rant Over Haiti Meltdown",
+   "link": "https://www.mediaite.com/media/news/never-trumper-accuses-megyn-kelly-of-orgasmic-racism-in-shock-rant-over-haiti-meltdown/",
+   "summary": "Steve Schmidt said Megyn Kelly \"just orgasmically screams out the N-word\" when the cameras go off in a shocking rant over Kelly's Haiti meltdown. The post Never-Trumper Accuses Megyn Kelly of ‘Orgasmic’ Racism in Shock Rant Over Haiti Meltdown first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T18:02:39+00:00",
+   "iran_topic": false
+  },
   {
    "id": "b1c3914f8dc1",
    "title": "\"Speaking as an early American historian who spent decades immersed in what the founding generation thought about political power — specifically about executive power — this presidency is entirely out of bounds and beyond anything the founding folk could have conceived of.\" — @jbf1755.bsky.social",
@@ -690,26 +866,6 @@
    "iran_topic": true
   },
   {
-   "id": "11fea16a5cb5",
-   "title": "Bill Maher Scolds JD Vance To His Face Over Trump’s Election Fraud Claims: ‘That Sh*t Has To Stop’",
-   "link": "https://www.mediaite.com/media/tv/bill-maher-scolds-jd-vance-to-his-face-over-trumps-election-fraud-claims-that-sht-has-to-stop/",
-   "summary": "Bill Maher confronted Vice President JD Vance over President Donald Trump's false claims of voter fraud during Friday's Real Time on HBO. The post Bill Maher Scolds JD Vance To His Face Over Trump’s Election Fraud Claims: ‘That Sh*t Has To Stop’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T03:59:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "67b6f24dbbee",
-   "title": "ACLU Wins Settlement for D.C. Resident Detained for Playing Darth Vader Theme at National Guard in Viral TikTok Clips",
-   "link": "https://www.mediaite.com/lawcrime/aclu-wins-settlement-for-d-c-resident-detained-for-playing-darth-vader-theme-at-national-guard-in-viral-tiktok-clips/",
-   "summary": "The Force -- and the First Amendment -- are with a D.C. resident who was detained after following National Guard troops playing the Darth Vader theme. The post ACLU Wins Settlement for D.C. Resident Detained for Playing Darth Vader Theme at National Guard in Viral TikTok Clips first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T03:54:03+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "52bd7a3dab8a",
    "title": "The 'Pride Match' that wasn’t",
    "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-pride-match-00979082",
@@ -737,16 +893,6 @@
    "source": "@mcopelov",
    "category": "trump_bsky",
    "published": "2026-06-27T03:15:13.964+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d8807acafb2",
-   "title": "Kaitlan Collins Confronts Republican Who Compared Jewish Democrat to a ‘Camp Guard’: ‘You’re Likening Him To a Nazi?’",
-   "link": "https://www.mediaite.com/media/tv/kaitlan-collins-confronts-republican-who-compared-jewish-democrat-to-a-camp-guard-youre-likening-him-to-a-nazi/",
-   "summary": "CNN's Kaitlan Collins confronted the Republican nominee for New York governor about comments he made likening a Jewish Democrat to a \"camp guard in the concentration camp.\" The post Kaitlan Collins Confronts Republican Who Compared Jewish Democrat to a ‘Camp Guard’: ‘You’re Likening Him To a Nazi?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T03:02:41+00:00",
    "iran_topic": false
   },
   {
@@ -827,156 +973,6 @@
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-06-26T23:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "da314b4d7226",
-   "title": "Sleepy Joke.",
-   "link": "https://bsky.app/profile/schooley.bsky.social/post/3mp7yv2pt6s2p",
-   "summary": "",
-   "source": "@schooley",
-   "category": "trump_bsky",
-   "published": "2026-06-26T22:34:26.255+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "83d4368ce3b3",
-   "title": "Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason",
-   "link": "https://www.mediaite.com/politics/trump/trump-claims-new-u-s-passports-say-welcome-but-be-good-for-some-reason/",
-   "summary": "The image does not indicate that the passport features those words. The more notable takeaway, however, is that a welcome message/admonition would make sense on a U.S.-issued visa, but not a passport The post Trump Claims New U.S. Passports Say ‘Welcome, But Be Good’ for Some Reason first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-26T22:14:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "79a03b144e74",
-   "title": "A drag queen, a rainbow festival and a game beyond FIFA's control",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/seattle-iran-egypt-fifa-world-cup-pride-match-00978651",
-   "summary": "Seattle’s “Pride Match” for the Iran-Egypt game is unofficial and unlicensed. That's entirely the point.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T22:00:48+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "1d7b8b9a7af0",
-   "title": "A federal judge has ordered the Trump Justice Department to release more Epstein files — concluding that acting Attorney General Todd Blanche is violating the law Congress passed to make Epstein documents public. www.notus.org/trump-white-...",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mp7w5a24gc2n",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T21:45:19.045+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4d9022006b3f",
-   "title": "Envoy's pharaoh well party",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/egypt-ambassador-united-states-fifa-world-cup-2026-00978529",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T21:45:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6bce540cd35d",
-   "title": "The world's not big on the US. The World Cup might help.",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/united-states-trump-negative-perception-poll-foreign-policy-00978433",
-   "summary": "Few people globally have confidence in President Donald Trump's leadership, according to a new poll.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T21:35:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f5d2711a3df9",
-   "title": "Welcome to other countries as you enter? 🥴",
-   "link": "https://bsky.app/profile/pauletteparis1.bsky.social/post/3mp7vifwjs22s",
-   "summary": "",
-   "source": "@pauletteparis1",
-   "category": "trump_bsky",
-   "published": "2026-06-26T21:33:40.575+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ca1df3b0d16b",
-   "title": "Oh my god how is this is real? (a question I seem to ask myself several times a day now)",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mp7v4da7bk25",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-06-26T21:26:55.093+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "97d46de7de02",
-   "title": "Pete Buttigeig targeted by false abuse allegation in Michigan",
-   "link": "https://www.politico.com/news/2026/06/26/pete-buttigeig-false-abuse-allegation-michigan-00978499",
-   "summary": "The former transportation secretary and Indiana mayor was not allowed to have contact with his twins for 24 hours as the investigation unfolded.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T21:13:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4da343f008c",
-   "title": "Kim Jong Un thinks this is a bit much",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7udoav7k2n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T21:13:07.786+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4da343f008c",
-   "title": "Kim Jong Un thinks this is a bit much",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mp7udoav7k2n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-26T21:13:07.786+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "80d7ea7e6c99",
-   "title": "The World Cup game the White House cares most about today",
-   "link": "https://www.politico.com/live-updates/2026/06/26/world-cup-2026/iran-egypt-seattle-fifa-world-cup-2026-us-bombing-raid-00978525",
-   "summary": "Iran sits on the precipice of advancing to the knockout rounds, as the U.S. conducts new strikes.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-26T21:08:07+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6305b388a0c7",
-   "title": "S. 1003 Signed into Law",
-   "link": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
-   "summary": "On Friday, June 26, 2026, the President signed into law: S. 1003, the &#8220;Lulu&#8217;s Law,&#8221; which requires the Federal Communications Commission to issue an order explicitly permitting the transmission of wireless emergency alerts to mobile phones in the event of a shark attack. The post S. 1003 Signed into Law appeared first on The White House .",
-   "source": "WH News",
-   "category": "wh_news",
-   "published": "2026-06-26T20:55:58+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2b73a3cab8b",
-   "title": "US strikes Iran after ship attack",
-   "link": "https://www.politico.com/news/2026/06/26/us-strikes-iran-ceasefire-deal-00978490",
-   "summary": "The president said earlier Friday that the attack on ships passing through the Strait of Hormuz was a “foolish violation” of the ceasefire agreement.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-26T20:52:07+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "09fba3858035",
-   "title": "Himes: I got a little bit more of an up-close-and-personal look at some of the damage that was done. I’ll tell you what: the Iranians hit our embassies. They hit pretty much all of our military facilities in the area.",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mp7rlattt327",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-06-26T20:23:40.824+00:00",
    "iran_topic": false
   }
  ]
