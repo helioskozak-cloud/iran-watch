@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T22:43:21.618318+00:00",
+ "generated": "2026-06-27T23:42:33.815132+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -46,53 +46,57 @@
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.43,
-   "change": -0.18,
-   "change_pct": -0.18,
+   "price": 101.36,
+   "change": -0.07,
+   "change_pct": -0.07,
    "spark": [
     101.0199966430664,
     101.41000366210938,
     101.61000061035156,
-    101.43000030517578
+    101.43000030517578,
+    101.36000061035156
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 7354.02,
+   "change": -3.47,
+   "change_pct": -0.05,
    "spark": [
     7472.7900390625,
     7365.4599609375,
     7358.22021484375,
-    7357.490234375
+    7357.490234375,
+    7354.02001953125
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": NaN,
-   "change": NaN,
-   "change_pct": NaN,
+   "price": 105.48,
+   "change": -3.83,
+   "change_pct": -3.5,
    "spark": [
     112.69000244140625,
     111.26000213623047,
     106.29000091552734,
-    109.30999755859375
+    109.30999755859375,
+    105.4800033569336
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.89,
-   "change": 0.26,
-   "change_pct": 1.4,
+   "price": 18.41,
+   "change": -0.48,
+   "change_pct": -2.54,
    "spark": [
     17.280000686645508,
     19.489999771118164,
     18.6299991607666,
-    18.889999389648438
+    18.889999389648438,
+    18.40999984741211
    ]
   },
   "NG=F": {
@@ -220,7 +224,7 @@
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-27T22:42:45.581152+00:00",
+   "published": "2026-06-27T23:41:52.329888+00:00",
    "severity": "info"
   },
   {
@@ -245,7 +249,7 @@
    "severity": "high"
   },
   {
-   "title": "US launches second night of strikes against Iran after ship struck by drone",
+   "title": "US launches second night of strikes on Iran after ship hit by drone",
    "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
    "source": "Al Jazeera",
    "published": "2026-06-27T22:07:03+00:00",
@@ -333,7 +337,7 @@
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-27T22:42:45.581152+00:00",
+     "published": "2026-06-27T23:41:52.329888+00:00",
      "severity": "info"
     },
     {
@@ -375,6 +379,56 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "f6caa2ae052d",
+   "title": "Trump Warns USA Is Getting ‘Forced’ to Wipe Out Iran, Once and For All",
+   "link": "https://www.mediaite.com/politics/trump-warns-usa-is-getting-forced-to-wipe-out-iran-once-and-for-all/",
+   "summary": "Trump said the US carried out a counter strike against Iran for violating the ceasefire deal yet \"AGAIN!\" — and may have to annihilate the enemy next The post Trump Warns USA Is Getting ‘Forced’ to Wipe Out Iran, Once and For All first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T23:40:18+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "fa33fa4f2aa5",
+   "title": "‘When Is It Enough?’ MS NOW Host Presses Dem Lawmaker on Support for Scandal-Plagued Graham Platner",
+   "link": "https://www.mediaite.com/media/when-is-it-enough-ms-now-host-presses-dem-lawmaker-on-support-for-scandal-plagued-graham-platner/",
+   "summary": "MS NOW's Elise Jordan pressed Rep. Ro Khanna on what it would take for him to finally ditch supporting scandal-riddled Maine Senate candidate Graham Platner The post ‘When Is It Enough?’ MS NOW Host Presses Dem Lawmaker on Support for Scandal-Plagued Graham Platner first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T23:16:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "454638710778",
+   "title": "Where Trump first learned to love soccer",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/trump-cosmos-pele-studio-54-soccer-00979099",
+   "summary": "Fifty years later, the New York Cosmos are still shaping the sport's American future.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T23:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f9afc678521",
+   "title": "Tartan Army party over",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/scotland-knocked-out-fifa-world-cup-2026-tartan-army-party-over-00979143",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T23:00:37+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "553916744085",
+   "title": "US Launches Strikes Against Multiple Targets in Iran",
+   "link": "https://www.mediaite.com/media/news/us-launches-strikes-against-multiple-targets-in-iran/",
+   "summary": "The U.S. launched strikes against multiple targets in Iran on Saturday, \"in direct response to continued Iranian aggression against commercial shipping.\" The post US Launches Strikes Against Multiple Targets in Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-27T22:49:29+00:00",
+   "iran_topic": true
+  },
   {
    "id": "dce6e673c7e5",
    "title": "Spot the pol!",
@@ -846,36 +900,6 @@
    "iran_topic": false
   },
   {
-   "id": "aaacdcbb4672",
-   "title": "Trump Portrays Himself as A God in Latest AI Slop Drop — But Not THAT God",
-   "link": "https://www.mediaite.com/media/news/trump-portrays-himself-as-a-god-in-latest-ai-slop-drop-but-not-that-god/",
-   "summary": "President Donald Trump portrayed himself as a God and posted a doctored Obama image in his latest experimentation with AI images on Truth Social. The post Trump Portrays Himself as A God in Latest AI Slop Drop — But Not THAT God first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T17:12:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bb1169b3ebc2",
-   "title": "Anti-Trump Podcaster Levels Surprising Backhanded Compliment at President on CNN",
-   "link": "https://www.mediaite.com/media/tv/anti-trump-podcaster-levels-surprising-backhanded-compliment-at-president-on-cnn/",
-   "summary": "PoliticsGirl podcast host Leigh McGowan hit President Donald Trump with a backwards compliment in a debate on CNN about the president. The post Anti-Trump Podcaster Levels Surprising Backhanded Compliment at President on CNN first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T17:00:46+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5715ee951937",
-   "title": "Larry Wilmore Torpedoes Trump When Bill Maher Asks if a Pastor Can Be POTUS: ‘You Can Be President And Be A Felon’",
-   "link": "https://www.mediaite.com/media/news/larry-wilmore-torpedoes-trump-when-bill-maher-asks-if-a-pastor-can-be-potus-you-can-be-president-and-be-a-felon/",
-   "summary": "Comedy star Larry Wilmore zinged President Donald Trump when comedian and pundit Bill Maher asked if a pastor could also be president of the United States. The post Larry Wilmore Torpedoes Trump When Bill Maher Asks if a Pastor Can Be POTUS: ‘You Can Be President And Be A Felon’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T16:48:36+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "46f03c71ebbc",
    "title": "It is core to the nature of reactionary politics that its adherents *always* conceive of themselves as aggrieved victims, no matter how much power they amass. It's a permission structure for their own lawlessness & violence.",
    "link": "https://bsky.app/profile/volts.wtf/post/3mpbtzrj3rc2a",
@@ -953,26 +977,6 @@
    "source": "@monaburns",
    "category": "trump_bsky",
    "published": "2026-06-27T14:00:21.959+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5756a39d3e85",
-   "title": "This week has been an absolute doozy. If you value unfiltered independent journalism, subscribe to @atrupar.com Public Notice. Then head to his Venmo (@atrupar) to buy him a coffee or a pint. Tracking this daily political circus is heavy lifting, and he deserves a medal for keeping us sane.",
-   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3mpbmatudkc2b",
-   "summary": "",
-   "source": "@nofirstorder",
-   "category": "trump_bsky",
-   "published": "2026-06-27T13:53:42.549+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "00f81cd5fcdc",
-   "title": "New in PN: @jbf1755.bsky.social on why Trump is an affront to the Founders \"But now, the president is openly profiting off the office while destroying and misusing the physical WH as though he owns it. I am angry, because what we’re watching right now isn’t what a president is supposed to be.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpblckkrzk2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-27T13:36:46.167+00:00",
    "iran_topic": false
   }
  ]
