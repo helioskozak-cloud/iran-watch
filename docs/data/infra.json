@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T10:34:32.198423+00:00",
+ "generated": "2026-06-27T12:02:26.966604+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,7 +224,35 @@
    "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
    "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
    "source": "Press TV",
-   "published": "2026-06-27T10:33:35.708623+00:00",
+   "published": "2026-06-27T12:01:36.017819+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US strikes Iran after attack on cargo ship",
+   "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Middle East",
+   "published": "2026-06-27T10:40:38+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Official: Iran, UAE resume trade exchanges",
+   "link": "https://en.irna.ir/news/86193870/Official-Iran-UAE-resume-trade-exchanges",
+   "source": "IRNA",
+   "published": "2026-06-27T10:38:02+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm",
+   "link": "https://www.al-monitor.com/originals/2026/06/trumps-iran-deal-falls-short-these-voters-and-some-fear-it-could-cost-republicans",
+   "source": "Al-Monitor",
+   "published": "2026-06-27T10:36:37+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+   "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-27T10:32:24+00:00",
    "severity": "info"
   },
   {
@@ -233,13 +261,6 @@
    "source": "@apnews",
    "published": "2026-06-27T10:15:18+00:00",
    "severity": "info"
-  },
-  {
-   "title": "US strikes Iran after attack on cargo ship",
-   "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Middle East",
-   "published": "2026-06-27T10:06:32+00:00",
-   "severity": "critical"
   },
   {
    "title": "Imam assaulted outside mosque in Canada amid rising Islamophobia",
@@ -303,41 +324,20 @@
    "source": "Jerusalem Post",
    "published": "2026-06-26T23:45:56+00:00",
    "severity": "high"
-  },
-  {
-   "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ugjvjn/us_strikes_iran_after_trump_accuses_tehran_of/",
-   "source": "r/worldnews",
-   "published": "2026-06-26T21:38:21+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Breaking News: The U.S. military said it launched strikes on Iran in retaliation for an Iranian attack on Thursday in the Strait of Hormuz. Follow live updates. trib.al/EPoLAVv",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mp7uppudoj2j",
-   "source": "@nytimes",
-   "published": "2026-06-26T21:19:51.715041+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "BREAKING: The U.S. strikes Iran to respond to drone attack on ship that President Trump said violated the ceasefire, the U.S. military says.",
-   "link": "https://bsky.app/profile/apnews.com/post/3mp7u4nf2mm2j",
-   "source": "@apnews",
-   "published": "2026-06-26T21:09:11+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "WATCH",
-   "incident_count": 8,
+   "status": "ACTIVE",
+   "incident_count": 6,
    "recent": [
     {
      "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
      "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
      "source": "Press TV",
-     "published": "2026-06-27T10:33:35.708623+00:00",
+     "published": "2026-06-27T12:01:36.017819+00:00",
      "severity": "info"
     },
     {
