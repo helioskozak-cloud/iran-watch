@@ -1,56 +1,60 @@
 {
- "generated": "2026-06-28T21:58:43.742419+00:00",
+ "generated": "2026-06-28T23:03:38.259916+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 72.6,
-   "change": -2.66,
-   "change_pct": -3.53,
+   "price": 73.35,
+   "change": 1.36,
+   "change_pct": 1.89,
    "spark": [
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    72.5999984741211
+    71.98999786376953,
+    73.3499984741211
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.23,
-   "change": -2.69,
-   "change_pct": -3.74,
+   "price": 70.11,
+   "change": 0.88,
+   "change_pct": 1.27,
    "spark": [
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
-    69.2300033569336
+    69.2300033569336,
+    70.11000061035156
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4096.3,
-   "change": 65.8,
-   "change_pct": 1.63,
+   "price": 4077.9,
+   "change": -0.8,
+   "change_pct": -0.02,
    "spark": [
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4096.2998046875
+    4078.699951171875,
+    4077.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.36,
-   "change": -0.07,
-   "change_pct": -0.07,
+   "price": 101.37,
+   "change": 0.01,
+   "change_pct": 0.01,
    "spark": [
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
-    101.36000061035156
+    101.36000061035156,
+    101.36799621582031
    ]
   },
   "^GSPC": {
@@ -98,14 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.28,
-   "change": -0.06,
-   "change_pct": -1.91,
+   "price": 3.31,
+   "change": 0.08,
+   "change_pct": 2.32,
    "spark": [
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
-    3.2790000438690186
+    3.2309999465942383,
+    3.305999994277954
    ]
   }
  },
@@ -219,7 +224,7 @@
    "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
    "source": "Press TV",
-   "published": "2026-06-28T21:58:03.971123+00:00",
+   "published": "2026-06-28T23:03:02.596788+00:00",
    "severity": "info"
   },
   {
@@ -332,7 +337,7 @@
      "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
      "source": "Press TV",
-     "published": "2026-06-28T21:58:03.971123+00:00",
+     "published": "2026-06-28T23:03:02.596788+00:00",
      "severity": "info"
     },
     {
@@ -374,6 +379,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "3cbfb65f3432",
+   "title": "US and Iran Agree to Stop Attacking Each Other — Yet Again",
+   "link": "https://www.mediaite.com/media/news/us-and-iran-agree-to-stop-attacking-each-other-yet-again/",
+   "summary": "The U.S. and Iran have agreed to stop attacking each other once again, according to new reporting from Axios's Barak Ravid. The post US and Iran Agree to Stop Attacking Each Other — Yet Again first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-28T22:36:29+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "6352e0c98fea",
+   "title": "World Cup attendance: The potential 2028ers",
+   "link": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/2028-us-election-candidates-world-cup-attendance-00979365",
+   "summary": "Josh Shapiro and Marco Rubio have got World Cup fever.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T22:00:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5ad4a0edadc9",
+   "title": "Trump Teases Giant White House Ballroom With Flurry of Pics: ‘Nothing Like It!’",
+   "link": "https://www.mediaite.com/politics/trump-teases-giant-white-house-ballroom-with-flurry-of-pics-nothing-like-it/",
+   "summary": "President Donald Trump shared a sneak preview of the much-publicized and much-maligned White House ballroom he is developing with a series of pictures The post Trump Teases Giant White House Ballroom With Flurry of Pics: ‘Nothing Like It!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-28T21:58:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "02afd036b9af",
    "title": "Senator Chris Coons Recovering After Multi-Car Crash",
@@ -942,36 +977,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-28T15:01:51.024+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "17e328e4089a",
-   "title": "Organizers for the North Carolina booth at Trump's partisan event, the Great American State Fair, had to remove an image of a Confederate flag displayed in the state's pavilion on the National Mall. The state didn't put it up. At least one sponsor has pulled out.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpe674dljk2j",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-28T14:20:11.158+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "54016383d6ac",
-   "title": "Thomas Massie Turns the Camera On Fox Reporter in Wild Confrontation: ‘Is This What You DO for a Living?!’",
-   "link": "https://www.mediaite.com/media/news/thomas-massie-turns-the-camera-on-fox-reporter-in-wild-confrontation-is-this-what-you-do-for-a-living/",
-   "summary": "\"Are you with Fox?!\" Massie said — confronting a reporter asking him about an alleged sexual encounter with Lauren Boebert. \"Is this what you do for a living?\" The post Thomas Massie Turns the Camera On Fox Reporter in Wild Confrontation: ‘Is This What You DO for a Living?!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-28T14:19:45+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e31755450a67",
-   "title": "We’re over halfway through primary season. Here’s what the battlegrounds tell us.",
-   "link": "https://www.politico.com/news/2026/06/28/gop-democrats-battlegrounds-trump-2028-00976940",
-   "summary": "While Republicans close ranks around MAGA, Democrats keep experimenting with a wide array of candidates.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-28T14:00:00+00:00",
    "iran_topic": false
   }
  ]
