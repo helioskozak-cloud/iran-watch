@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T10:55:19.595777+00:00",
+ "generated": "2026-06-28T12:14:11.479103+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,17 +216,24 @@
  ],
  "incidents": [
   {
+   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+   "source": "Press TV",
+   "published": "2026-06-28T12:13:33.040478+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
+   "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
+   "source": "Press TV",
+   "published": "2026-06-28T12:13:33.038721+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Two of CENTCOM's targets in weekend strikes in Hormuz were newly built by Iran, source tells 'Post'",
    "link": "https://www.jpost.com/middle-east/iran-news/article-900685",
    "source": "Jerusalem Post",
    "published": "2026-06-28T11:52:07+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
-   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
-   "source": "Press TV",
-   "published": "2026-06-28T10:54:38.571394+00:00",
    "severity": "info"
   },
   {
@@ -279,6 +286,13 @@
    "severity": "info"
   },
   {
+   "title": "Iran FM warns any challenge to Tehran’s control of Hormuz will ‘increase tensions’",
+   "link": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-28T00:08:52+00:00",
+   "severity": "critical"
+  },
+  {
    "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
    "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
    "source": "Al Jazeera",
@@ -305,20 +319,6 @@
    "source": "r/worldnews",
    "published": "2026-06-27T22:17:09+00:00",
    "severity": "high"
-  },
-  {
-   "title": "US launches second night of strikes on Iran after ship hit by drone",
-   "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-27T22:07:03+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "US, Iran, and Oman butt heads over fine print of Strait of Hormuz deal - analysis",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-900648",
-   "source": "Jerusalem Post",
-   "published": "2026-06-27T20:07:20+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 10,
    "recent": [
+    {
+     "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
+     "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
+     "source": "Press TV",
+     "published": "2026-06-28T12:13:33.040478+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
+     "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
+     "source": "Press TV",
+     "published": "2026-06-28T12:13:33.038721+00:00",
+     "severity": "info"
+    },
     {
      "title": "Two of CENTCOM's targets in weekend strikes in Hormuz were newly built by Iran, source tells 'Post'",
      "link": "https://www.jpost.com/middle-east/iran-news/article-900685",
      "source": "Jerusalem Post",
      "published": "2026-06-28T11:52:07+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
-     "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
-     "source": "Press TV",
-     "published": "2026-06-28T10:54:38.571394+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Araghchi: Solely Iran responsible for reopening Hormuz Strait under deal with US",
-     "link": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
-     "source": "IRNA",
-     "published": "2026-06-28T10:29:49+00:00",
      "severity": "info"
     }
    ]
