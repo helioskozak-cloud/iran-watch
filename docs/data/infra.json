@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T23:42:33.815132+00:00",
+ "generated": "2026-06-28T01:52:48.839426+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -224,8 +224,22 @@
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-27T23:41:52.329888+00:00",
+   "published": "2026-06-28T01:52:06.631971+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US launches fresh strikes on Iran as Trump warns US may be ‘forced to militarily complete the job’",
+   "link": "https://www.timesofisrael.com/liveblog-june-28-2026/",
+   "source": "Times of Israel",
+   "published": "2026-06-28T00:08:52+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-28T00:00:00+00:00",
+   "severity": "high"
   },
   {
    "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities reut.rs/4eOC3XO",
@@ -310,20 +324,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-27T13:26:56+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran says it hit US targets as tensions over Strait of Hormuz strain agreement",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uh1kwa/iran_says_it_hit_us_targets_as_tensions_over/",
-   "source": "r/worldnews",
-   "published": "2026-06-27T12:31:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran fires drones at Bahrain, oil tanker hit in Hormuz as clashes test deal",
-   "link": "https://www.timesofisrael.com/iran-fires-drones-at-bahrain-oil-tanker-hit-in-hormuz-as-clashes-test-deal/",
-   "source": "Times of Israel",
-   "published": "2026-06-27T12:15:43+00:00",
-   "severity": "high"
   }
  ],
  "chokepoints": [
@@ -331,13 +331,13 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 11,
+   "incident_count": 9,
    "recent": [
     {
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-27T23:41:52.329888+00:00",
+     "published": "2026-06-28T01:52:06.631971+00:00",
      "severity": "info"
     },
     {
@@ -379,6 +379,76 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "6a9f6c8cb705",
+   "title": "Trump-backed Letlow wins GOP primary for Sen. Bill Cassidy’s seat",
+   "link": "https://www.politico.com/news/2026/06/27/letlow-wins-louisiana-senate-primary-trump-00979200",
+   "summary": "Rep. Julia Letlow rode the president’s endorsement to victory in the Louisiana Senate runoff over conservative state Treasurer John Fleming.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T01:46:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "44d7496bbd5b",
+   "title": "Biden: Trump wants to give your money to the January 6 insurrectionists. My god. These people don't deserve to be compensated. They deserve to be put in jail for a long, long, long time.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpcqe6s3a22z",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-28T00:39:49.261+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2bb53d93dbc5",
+   "title": "Biden: Putting his name on the Kennedy Center. Building an arch in his own honor. Even hiring his own pool guy to fix the reflecting pool. Whoa. What a loser.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpcqbzquvk2b",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-28T00:38:36.828+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9ebd9209a4c5",
+   "title": "Biden: By the way, have you noticed that Americans today are saying the economy under the Biden administration was a hell of a lot better than under Trump?",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpcqbjf64c2b",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-28T00:38:19.689+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2f4615da5c2e",
+   "title": "The Dallas booboys",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/dallas-politicians-fifa-world-cup-2026-00979126",
+   "summary": "Some Texas politicians are having a World Cup optics problem.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T00:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f20f12fadf75",
+   "title": "CNN Host Reminds Republican Lawmaker The Housing Bill Trump Refused To Sign Has Bipartisan Support",
+   "link": "https://www.mediaite.com/media/news/cnn-host-reminds-republican-lawmaker-the-housing-bill-trump-refused-to-sign-has-bipartisan-support/",
+   "summary": "Omar Jimenez pressed Byron Donalds over why he was prioritizing Donald Trump's SAVE America Act over the bipartisan housing bill that still awaits signature. The post CNN Host Reminds Republican Lawmaker The Housing Bill Trump Refused To Sign Has Bipartisan Support first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-28T00:05:29+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7bfb7c9e8a4a",
+   "title": "Rubio, Patel at Miami match",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/rubio-patel-at-miami-match-00979185",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-27T23:44:47+00:00",
+   "iran_topic": false
+  },
   {
    "id": "f6caa2ae052d",
    "title": "Trump Warns USA Is Getting ‘Forced’ to Wipe Out Iran, Once and For All",
@@ -880,16 +950,6 @@
    "iran_topic": false
   },
   {
-   "id": "504da4396d78",
-   "title": "CNN Table Explodes as Abby Phillip Tries To Explain The Difference Between Antisemitism and Criticism of Israel",
-   "link": "https://www.mediaite.com/media/news/cnn-table-explodes-as-abby-phillip-tries-to-explain-the-difference-between-antisemitism-and-criticism-of-israel/",
-   "summary": "CNN's Table For Five exploded Saturday as host Abby Phillip attempted to explain the difference between blatant antisemitism and everyday criticism of Israel. The post CNN Table Explodes as Abby Phillip Tries To Explain The Difference Between Antisemitism and Criticism of Israel first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-27T17:44:51+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "c1a6823f5ab8",
    "title": "We all know who the better hang is",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpbyvobunk2r",
@@ -917,66 +977,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-27T15:45:18.499+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "324582addd36",
-   "title": "Couldn’t be more true. \"This presidency is beyond anything the founding folk could have conceived of.\" Words from @jbf1755.bsky.social in @atrupar.com’s latest PN: www.publicnotice.co/p/joanne-fre...",
-   "link": "https://bsky.app/profile/susanmcp.bsky.social/post/3mpbr4av3jk2m",
-   "summary": "",
-   "source": "@susanmcp",
-   "category": "trump_bsky",
-   "published": "2026-06-27T15:20:37.139+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2a76a9e2e3b5",
-   "title": "The BBC has requested that Donald Trump hand over his phone records from Jan. 6 as part of his defamation lawsuit against the broadcaster.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpbqanznms24",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-27T15:05:11.399+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "89ba6f1e8d1f",
-   "title": "\"But now, the president is openly profiting off the office while destroying and misusing the physical WH as though he owns it.\"👇",
-   "link": "https://bsky.app/profile/kristenmcknight.bsky.social/post/3mpbn72m2vs2z",
-   "summary": "",
-   "source": "@kristenmcknight",
-   "category": "trump_bsky",
-   "published": "2026-06-27T14:10:36.251+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "93db6901e877",
-   "title": "Wow, thank you so much Anu! I really appreciate it 🍻",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpbmqmp2ps27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-27T14:02:31.907+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fe324534225e",
-   "title": "President Obama says he has \"a room\" in Trump's head. \"A suite in his head.\" \"Look, first of all, when I was president, the last thing I had time to do was worry about what somebody said, or what my predecessor did. They're gone. I've got work to do.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpbmpronlk2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-27T14:02:03.583+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b309504bc212",
-   "title": "\"Speaking as an early American historian who spent decades immersed in what the founding generation thought about political power-specifically about executive power-this presidency is entirely out of bounds and beyond anything the founding folk could have conceived of ..\" Read this:",
-   "link": "https://bsky.app/profile/monaburns.bsky.social/post/3mpbmmqrfe22m",
-   "summary": "",
-   "source": "@monaburns",
-   "category": "trump_bsky",
-   "published": "2026-06-27T14:00:21.959+00:00",
    "iran_topic": false
   }
  ]
