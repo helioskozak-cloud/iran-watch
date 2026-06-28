@@ -1,18 +1,17 @@
 {
- "generated": "2026-06-28T03:33:57.600008+00:00",
+ "generated": "2026-06-28T07:49:39.210135+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 71.99,
-   "change": -3.27,
-   "change_pct": -4.34,
+   "price": 72.6,
+   "change": -2.66,
+   "change_pct": -3.53,
    "spark": [
-    77.9000015258789,
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
-    71.98999786376953
+    72.5999984741211
    ]
   },
   "CL=F": {
@@ -22,7 +21,6 @@
    "change": -2.69,
    "change_pct": -3.74,
    "spark": [
-    74.81999969482422,
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
@@ -32,15 +30,14 @@
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4078.7,
-   "change": 48.2,
-   "change_pct": 1.2,
+   "price": 4096.3,
+   "change": 65.8,
+   "change_pct": 1.63,
    "spark": [
-    4181.89990234375,
     4129.89990234375,
     3990.300048828125,
     4030.5,
-    4078.699951171875
+    4096.2998046875
    ]
   },
   "DX-Y.NYB": {
@@ -50,7 +47,6 @@
    "change": -0.07,
    "change_pct": -0.07,
    "spark": [
-    101.0199966430664,
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
@@ -102,15 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.23,
-   "change": -0.11,
-   "change_pct": -3.35,
+   "price": 3.28,
+   "change": -0.06,
+   "change_pct": -1.91,
    "spark": [
-    3.253000020980835,
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
-    3.2309999465942383
+    3.2790000438690186
    ]
   }
  },
@@ -224,7 +219,35 @@
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-28T03:33:12.112150+00:00",
+   "published": "2026-06-28T07:49:03.817774+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "In photos: Palayesh Naft Bandar Abbas vs. Sanat Naft Abadan",
+   "link": "https://en.irna.ir/photo/86194586/In-photos-Palayesh-Naft-Bandar-Abbas-vs-Sanat-Naft-Abadan",
+   "source": "IRNA",
+   "published": "2026-06-28T07:03:56+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+   "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-28T06:14:45+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Israeli military says it killed Hezbollah militants and attacked a launcher in the Nabatieh area reut.rs/44yAsAJ",
+   "link": "https://bsky.app/profile/reuters.com/post/3mpd6wmdiqz2j",
+   "source": "@reuters",
+   "published": "2026-06-28T05:00:39+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Gulf countries attacked after US launches second round of strikes on Iran",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-28T03:40:58+00:00",
    "severity": "info"
   },
   {
@@ -233,6 +256,13 @@
    "source": "Times of Israel",
    "published": "2026-06-28T03:06:28+00:00",
    "severity": "high"
+  },
+  {
+   "title": "Trump threatens Iran will 'no longer exist' as both sides trade blows in Strait of Hormuz",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900656",
+   "source": "Jerusalem Post",
+   "published": "2026-06-28T00:50:17+00:00",
+   "severity": "info"
   },
   {
    "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
@@ -289,41 +319,6 @@
    "source": "Tehran Times",
    "published": "2026-06-27T17:19:20+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Bahrain said it had been targeted on Saturday by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. Hours later, a ship came under attack in the Strait of Hormuz for the second time in recent days. Follow live updates. trib.al/cRbMaop",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mpbu5o7uzx2x",
-   "source": "@nytimes",
-   "published": "2026-06-27T16:15:05.847216+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "2nd ship struck in Strait of Hormuz as attacks between Iran and U.S. escalate | CBC News",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uh62vi/2nd_ship_struck_in_strait_of_hormuz_as_attacks/",
-   "source": "r/worldnews",
-   "published": "2026-06-27T15:46:49+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uh5ctt/tanker_struck_in_hormuz_as_iran_us_trade_attacks/",
-   "source": "r/worldnews",
-   "published": "2026-06-27T15:17:21+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Exclusive: Iran-US communication line established in Strait of Hormuz to prevent military incidents",
-   "link": "https://presstv.ir/Detail/2026/06/26/771127/Communication-line-Iran-US-Hormuz",
-   "source": "Press TV",
-   "published": "2026-06-27T14:05:07.883921+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
-   "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-27T13:26:56+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -331,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 9,
+   "incident_count": 7,
    "recent": [
     {
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-28T03:33:12.112150+00:00",
+     "published": "2026-06-28T07:49:03.817774+00:00",
      "severity": "info"
     },
     {
-     "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities reut.rs/4eOC3XO",
-     "link": "https://bsky.app/profile/reuters.com/post/3mpcjofrb242a",
-     "source": "@reuters",
-     "published": "2026-06-27T22:40:15+00:00",
-     "severity": "critical"
+     "title": "In photos: Palayesh Naft Bandar Abbas vs. Sanat Naft Abadan",
+     "link": "https://en.irna.ir/photo/86194586/In-photos-Palayesh-Naft-Bandar-Abbas-vs-Sanat-Naft-Abadan",
+     "source": "IRNA",
+     "published": "2026-06-28T07:03:56+00:00",
+     "severity": "info"
     },
     {
-     "title": "US carries out fresh strikes against Iran after tanker struck in Hormuz, escalating hostilities",
-     "link": "https://www.al-monitor.com/originals/2026/06/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating",
-     "source": "Al-Monitor",
-     "published": "2026-06-27T22:36:40+00:00",
-     "severity": "critical"
+     "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+     "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-06-28T06:14:45+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -379,6 +374,26 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1f860199f42e",
+   "title": "How the World Cup became a victory lap for Trump ally El Tigre",
+   "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/el-tigre-colombia-abelardo-de-la-espriella-00979212",
+   "summary": "Colombia's World Cup run has become a celebration of more than just its national team.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T04:42:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8ed4c13bd6d3",
+   "title": "Trump gets the complete domination he wanted in Louisiana",
+   "link": "https://www.politico.com/news/2026/06/28/trump-maga-louisiana-senate-victory-00979205",
+   "summary": "Rep. Julia Letlow, his preferred candidate, won the GOP runoff for his longtime rival Bill Cassidy’s Senate seat.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T04:34:34+00:00",
+   "iran_topic": false
+  },
   {
    "id": "567546446fc6",
    "title": "Palestinian flags fly in Texas",
@@ -957,26 +972,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-27T17:47:06.023+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c1a6823f5ab8",
-   "title": "We all know who the better hang is",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpbyvobunk2r",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-27T17:40:06.241+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46f03c71ebbc",
-   "title": "It is core to the nature of reactionary politics that its adherents *always* conceive of themselves as aggrieved victims, no matter how much power they amass. It's a permission structure for their own lawlessness & violence.",
-   "link": "https://bsky.app/profile/volts.wtf/post/3mpbtzrj3rc2a",
-   "summary": "",
-   "source": "@volts",
-   "category": "trump_bsky",
-   "published": "2026-06-27T16:12:55.137+00:00",
    "iran_topic": false
   }
  ]
