@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T08:45:13.290486+00:00",
+ "generated": "2026-06-28T10:55:19.595777+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
@@ -216,10 +216,24 @@
  ],
  "incidents": [
   {
+   "title": "Two of CENTCOM's targets in weekend strikes in Hormuz were newly built by Iran, source tells 'Post'",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900685",
+   "source": "Jerusalem Post",
+   "published": "2026-06-28T11:52:07+00:00",
+   "severity": "info"
+  },
+  {
    "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
    "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
    "source": "Press TV",
-   "published": "2026-06-28T08:44:33.446723+00:00",
+   "published": "2026-06-28T10:54:38.571394+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Araghchi: Solely Iran responsible for reopening Hormuz Strait under deal with US",
+   "link": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
+   "source": "IRNA",
+   "published": "2026-06-28T10:29:49+00:00",
    "severity": "info"
   },
   {
@@ -305,20 +319,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-27T20:07:20+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uh98zj/iranian_drones_attack_bahrain_and_a_ship_is/",
-   "source": "r/worldnews",
-   "published": "2026-06-27T17:54:30+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Iranian citizens should not pay for services other countries receive, top adviser says",
-   "link": "https://www.tehrantimes.com/news/527680/Iranian-citizens-should-not-pay-for-services-other-countries",
-   "source": "Tehran Times",
-   "published": "2026-06-27T17:19:20+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ELEVATED",
-   "incident_count": 7,
+   "incident_count": 9,
    "recent": [
+    {
+     "title": "Two of CENTCOM's targets in weekend strikes in Hormuz were newly built by Iran, source tells 'Post'",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900685",
+     "source": "Jerusalem Post",
+     "published": "2026-06-28T11:52:07+00:00",
+     "severity": "info"
+    },
     {
      "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
      "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
      "source": "Press TV",
-     "published": "2026-06-28T08:44:33.446723+00:00",
+     "published": "2026-06-28T10:54:38.571394+00:00",
      "severity": "info"
     },
     {
-     "title": "In photos: Palayesh Naft Bandar Abbas vs. Sanat Naft Abadan",
-     "link": "https://en.irna.ir/photo/86194586/In-photos-Palayesh-Naft-Bandar-Abbas-vs-Sanat-Naft-Abadan",
+     "title": "Araghchi: Solely Iran responsible for reopening Hormuz Strait under deal with US",
+     "link": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
      "source": "IRNA",
-     "published": "2026-06-28T07:03:56+00:00",
-     "severity": "info"
-    },
-    {
-     "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-28T06:14:45+00:00",
+     "published": "2026-06-28T10:29:49+00:00",
      "severity": "info"
     }
    ]
