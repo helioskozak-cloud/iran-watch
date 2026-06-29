@@ -1,60 +1,60 @@
 {
- "generated": "2026-06-28T23:03:38.259916+00:00",
+ "generated": "2026-06-29T00:19:25.791399+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.35,
-   "change": 1.36,
-   "change_pct": 1.89,
+   "price": 72.74,
+   "change": 0.75,
+   "change_pct": 1.04,
    "spark": [
     77.08000183105469,
     73.73999786376953,
     75.26000213623047,
     71.98999786376953,
-    73.3499984741211
+    72.73999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.11,
-   "change": 0.88,
-   "change_pct": 1.27,
+   "price": 69.5,
+   "change": 0.27,
+   "change_pct": 0.39,
    "spark": [
     73.20999908447266,
     70.33999633789062,
     71.91999816894531,
     69.2300033569336,
-    70.11000061035156
+    69.5
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4077.9,
-   "change": -0.8,
-   "change_pct": -0.02,
+   "price": 4071.1,
+   "change": -7.6,
+   "change_pct": -0.19,
    "spark": [
     4129.89990234375,
     3990.300048828125,
     4030.5,
     4078.699951171875,
-    4077.89990234375
+    4071.10009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.37,
-   "change": 0.01,
-   "change_pct": 0.01,
+   "price": 101.35,
+   "change": -0.01,
+   "change_pct": -0.01,
    "spark": [
     101.41000366210938,
     101.61000061035156,
     101.43000030517578,
     101.36000061035156,
-    101.36799621582031
+    101.34700012207031
    ]
   },
   "^GSPC": {
@@ -102,15 +102,15 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.31,
-   "change": 0.08,
-   "change_pct": 2.32,
+   "price": 3.29,
+   "change": 0.06,
+   "change_pct": 1.95,
    "spark": [
     3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
     3.2309999465942383,
-    3.305999994277954
+    3.2939999103546143
    ]
   }
  },
@@ -224,8 +224,15 @@
    "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
    "source": "Press TV",
-   "published": "2026-06-28T23:03:02.596788+00:00",
+   "published": "2026-06-29T00:18:48.519413+00:00",
    "severity": "info"
+  },
+  {
+   "title": "US, Iran agree to halt Hormuz attacks, hold talks about strait in Qatar on Tuesday — report",
+   "link": "https://www.timesofisrael.com/us-iran-agree-to-halt-hormuz-attacks-hold-talks-about-strait-in-qatar-on-tuesday-report/",
+   "source": "Times of Israel",
+   "published": "2026-06-29T00:08:53+00:00",
+   "severity": "low"
   },
   {
    "title": "Iran claims sole control of Hormuz, threatening planned US talks after Gulf strikes",
@@ -317,13 +324,6 @@
    "source": "Jerusalem Post",
    "published": "2026-06-28T11:52:07+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Araghchi: Solely Iran responsible for reopening Hormuz Strait under deal with US",
-   "link": "https://en.irna.ir/news/86195023/Araghchi-Solely-Iran-responsible-for-reopening-Hormuz-Strait",
-   "source": "IRNA",
-   "published": "2026-06-28T10:29:49+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -337,8 +337,15 @@
      "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
      "source": "Press TV",
-     "published": "2026-06-28T23:03:02.596788+00:00",
+     "published": "2026-06-29T00:18:48.519413+00:00",
      "severity": "info"
+    },
+    {
+     "title": "US, Iran agree to halt Hormuz attacks, hold talks about strait in Qatar on Tuesday — report",
+     "link": "https://www.timesofisrael.com/us-iran-agree-to-halt-hormuz-attacks-hold-talks-about-strait-in-qatar-on-tuesday-report/",
+     "source": "Times of Israel",
+     "published": "2026-06-29T00:08:53+00:00",
+     "severity": "low"
     },
     {
      "title": "Iran claims sole control of Hormuz, threatening planned US talks after Gulf strikes",
@@ -346,13 +353,6 @@
      "source": "r/worldnews",
      "published": "2026-06-28T17:56:08+00:00",
      "severity": "low"
-    },
-    {
-     "title": "Kayhan: Strait of Hormuz is America’s breathing passage",
-     "link": "https://www.tehrantimes.com/news/527720/Kayhan-Strait-of-Hormuz-is-America-s-breathing-passage",
-     "source": "Tehran Times",
-     "published": "2026-06-28T17:16:44+00:00",
-     "severity": "info"
     }
    ]
   },
@@ -379,6 +379,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "d409a060e5bd",
+   "title": "Tomi Lahren Rips Trump’s DHS Secretary Over Haitians, Warns Republican Voters Will ‘Stay Home’ for Midterms",
+   "link": "https://www.mediaite.com/media/tomi-lahren-rips-trumps-dhs-secretary-over-haitians-warns-republican-voters-will-stay-home-for-midterms/",
+   "summary": "Tomi Lahren warned Trump voters will \"stay home\" during the midterms because they are not getting the mass deportations they want from Republicans. The post Tomi Lahren Rips Trump’s DHS Secretary Over Haitians, Warns Republican Voters Will ‘Stay Home’ for Midterms first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T00:03:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "04857c2174ac",
+   "title": "Dramatic Video Shows The Moment Rescue Crews Carefully Pull A Baby From the Rubble in Venezuela",
+   "link": "https://www.mediaite.com/media/news/dramatic-video-shows-the-moment-rescue-crews-carefully-pull-a-baby-from-the-rubble-in-venezuela/",
+   "summary": "Rescue workers in Venezuela carefully pulled several more people from the rubble — including a small baby — some four days after two earthquakes struck. The post Dramatic Video Shows The Moment Rescue Crews Carefully Pull A Baby From the Rubble in Venezuela first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-28T23:53:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "457a25c95160",
+   "title": "Iranian diplomat blasts ‘pseudo-VAR’ interventions after World Cup exit",
+   "link": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/iranian-diplomat-blasts-var-decisions-00979405",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-06-28T23:50:21+00:00",
+   "iran_topic": true
+  },
   {
    "id": "3cbfb65f3432",
    "title": "US and Iran Agree to Stop Attacking Each Other — Yet Again",
@@ -947,36 +977,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-28T15:03:46.235+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "97ded9679038",
-   "title": "NOBLES: If the US is still bombing Iran 120 days into this conflict, how can the Trump administration credibly say the war is over? ROGER MARSHALL: The major war is over. Think of this as almost just a mop up operation. Let's root for the Trump team for once rather than trying to tear them down.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpeam3mftc2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:03:14.074+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "9da65a432af9",
-   "title": "My number one requirement for Dems: do they know who the real enemy is.",
-   "link": "https://bsky.app/profile/epicciuto.bsky.social/post/3mpeajsdzkc2b",
-   "summary": "",
-   "source": "@epicciuto",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:01:57.268+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1a9816a00fb3",
-   "title": "Chris Murphy on the SAVE Act: \"Donald Trump is the most unpopular president in the recent history of this country, and so he's trying to rig the election in part by creating this national voter ID list.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpeajmftvv2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:01:51.024+00:00",
    "iran_topic": false
   }
  ]
