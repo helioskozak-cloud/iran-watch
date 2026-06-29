@@ -1,43 +1,43 @@
 {
- "generated": "2026-06-29T17:20:32.774668+00:00",
+ "generated": "2026-06-29T19:20:39.584389+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 74.0,
-   "change": 2.01,
-   "change_pct": 2.79,
+   "price": 73.72,
+   "change": 1.73,
+   "change_pct": 2.4,
    "spark": [
     73.73999786376953,
     75.26000213623047,
     71.98999786376953,
-    74.0
+    73.72000122070312
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.82,
-   "change": 1.59,
-   "change_pct": 2.3,
+   "price": 70.53,
+   "change": 1.3,
+   "change_pct": 1.88,
    "spark": [
     70.33999633789062,
     71.91999816894531,
     69.2300033569336,
-    70.81999969482422
+    70.52999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4044.4,
-   "change": -34.3,
-   "change_pct": -0.84,
+   "price": 4025.2,
+   "change": -53.5,
+   "change_pct": -1.31,
    "spark": [
     3990.300048828125,
     4030.5,
     4078.699951171875,
-    4044.39990234375
+    4025.199951171875
    ]
   },
   "DX-Y.NYB": {
@@ -45,67 +45,67 @@
    "symbol": "DX-Y.NYB",
    "price": 101.11,
    "change": -0.25,
-   "change_pct": -0.25,
+   "change_pct": -0.24,
    "spark": [
     101.61000061035156,
     101.43000030517578,
     101.36000061035156,
-    101.10700225830078
+    101.11399841308594
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7430.9,
-   "change": 76.88,
-   "change_pct": 1.05,
+   "price": 7436.9,
+   "change": 82.88,
+   "change_pct": 1.13,
    "spark": [
     7365.4599609375,
     7358.22021484375,
     7357.490234375,
     7354.02001953125,
-    7430.89990234375
+    7436.89990234375
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 107.68,
-   "change": 2.2,
-   "change_pct": 2.09,
+   "price": 106.98,
+   "change": 1.5,
+   "change_pct": 1.42,
    "spark": [
     111.26000213623047,
     106.29000091552734,
     109.30999755859375,
     105.4800033569336,
-    107.68499755859375
+    106.9800033569336
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.84,
-   "change": -0.57,
-   "change_pct": -3.1,
+   "price": 17.6,
+   "change": -0.81,
+   "change_pct": -4.4,
    "spark": [
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
-    17.84000015258789
+    17.600000381469727
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.18,
-   "change": -0.05,
-   "change_pct": -1.55,
+   "price": 3.17,
+   "change": -0.06,
+   "change_pct": -1.76,
    "spark": [
     3.2209999561309814,
     3.3429999351501465,
     3.2309999465942383,
-    3.180999994277954
+    3.1740000247955322
    ]
   }
  },
@@ -219,8 +219,57 @@
    "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
    "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
    "source": "Press TV",
-   "published": "2026-06-29T17:19:48.552541+00:00",
+   "published": "2026-06-29T19:20:03.697496+00:00",
    "severity": "high"
+  },
+  {
+   "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
+   "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
+   "source": "Press TV",
+   "published": "2026-06-29T19:20:03.696962+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Tehran demands US adherence to MoU before any technical discussions begin",
+   "link": "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions",
+   "source": "Tehran Times",
+   "published": "2026-06-29T19:19:12+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
+   "link": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
+   "source": "IRNA",
+   "published": "2026-06-29T18:45:20+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "MQ-25 Stingray Demonstrator Goes Aboard USS Nimitz For 250th U.S. Anniversary Celebrations",
+   "link": "https://www.twz.com/air/mq-25-stingray-demonstrator-goes-aboard-uss-nimitz-for-250th-u-s-anniversary-celebrations",
+   "source": "The Drive",
+   "published": "2026-06-29T18:40:05+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Newly Russian‑flagged LNG tanker starts operations at US-sanctioned project, data shows reut.rs/4v1gUQ8",
+   "link": "https://bsky.app/profile/reuters.com/post/3mph4obb2yj2j",
+   "source": "@reuters",
+   "published": "2026-06-29T18:30:51+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "World War II Wreck Hunter RV Petrel Reborn as Navy Survey Ship Sarah Lynn",
+   "link": "https://news.usni.org/2026/06/29/world-war-ii-wreck-hunter-rv-petrel-reborn-as-navy-survey-ship-sarah-lynn",
+   "source": "USNI News",
+   "published": "2026-06-29T18:13:31+00:00",
+   "severity": "critical"
+  },
+  {
+   "title": "Heavy Machine Guns Appear On Key Russian Commercial Tanker In Baltic",
+   "link": "https://www.twz.com/sea/heavy-machine-guns-appear-on-key-russian-commercial-tanker-in-baltic",
+   "source": "The Drive",
+   "published": "2026-06-29T17:21:47+00:00",
+   "severity": "info"
   },
   {
    "title": "USNI News Fleet and Marine Tracker: June 29, 2026",
@@ -235,6 +284,13 @@
    "source": "Al-Monitor",
    "published": "2026-06-29T16:36:40+00:00",
    "severity": "high"
+  },
+  {
+   "title": "Oman's sultan meets Macron in first France visit since 1989: What to know",
+   "link": "https://www.al-monitor.com/originals/2026/06/omans-sultan-meets-macron-first-france-visit-1989-what-know",
+   "source": "Al-Monitor",
+   "published": "2026-06-29T15:59:28+00:00",
+   "severity": "info"
   },
   {
    "title": "Former U.S. Amphib Sunk in Pacific Maritime Strike Drills",
@@ -263,62 +319,6 @@
    "source": "@nytimes",
    "published": "2026-06-29T13:55:01.950830+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Trump says next US-Iran meeting to be held in Doha Tuesday, amid conflicting reports",
-   "link": "https://www.timesofisrael.com/trump-says-next-us-iran-meeting-to-be-held-in-doha-tuesday-amid-conflicting-reports/",
-   "source": "Times of Israel",
-   "published": "2026-06-29T13:52:49+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Traffic plummets through Strait of Hormuz after Iran, US trade fire",
-   "link": "https://www.al-monitor.com/originals/2026/06/traffic-plummets-through-strait-hormuz-after-iran-us-trade-fire",
-   "source": "Al-Monitor",
-   "published": "2026-06-29T13:21:13+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Saudi Arabia's FM heads to China amid differences with US on Iran war",
-   "link": "https://www.al-monitor.com/originals/2026/06/saudi-arabias-fm-heads-china-amid-differences-us-iran-war",
-   "source": "Al-Monitor",
-   "published": "2026-06-29T13:09:11+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Nassaji and Mes Shahr-e Babak secure promotion to 2026/27 PGPL",
-   "link": "https://www.tehrantimes.com/news/527721/Nassaji-and-Mes-Shahr-e-Babak-secure-promotion-to-2026-27-PGPL",
-   "source": "Tehran Times",
-   "published": "2026-06-29T11:57:55+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "The U.S. and Iran have agreed to halt their attacks in the Strait of Hormuz and allow vessels to move freely through the waterway, according to a U.S. official who spoke on the condition of anonymity to discuss negotiations. Follow live updates.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mpgfpqt4rj2m",
-   "source": "@nytimes",
-   "published": "2026-06-29T11:40:05.130418+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
-   "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
-   "source": "Press TV",
-   "published": "2026-06-29T10:29:54.252891+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Photos reveal Russian gas tanker with heavy machine guns as Baltic tensions rise",
-   "link": "https://www.reddit.com/r/worldnews/comments/1uinayf/photos_reveal_russian_gas_tanker_with_heavy/",
-   "source": "r/worldnews",
-   "published": "2026-06-29T09:09:10+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran, Oman convene first meeting of joint Hormuz committee",
-   "link": "https://en.irna.ir/news/86195778/Iran-Oman-convene-first-meeting-of-joint-Hormuz-committee",
-   "source": "IRNA",
-   "published": "2026-06-29T08:51:36+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -326,27 +326,27 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 7,
+   "incident_count": 5,
    "recent": [
     {
      "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
      "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
      "source": "Press TV",
-     "published": "2026-06-29T17:19:48.552541+00:00",
+     "published": "2026-06-29T19:20:03.697496+00:00",
      "severity": "high"
     },
     {
-     "title": "Strait of Hormuz instability to remain Iranian leverage until final deal signed, experts predict",
-     "link": "https://www.jpost.com/international/article-900844",
-     "source": "Jerusalem Post",
-     "published": "2026-06-29T15:44:42+00:00",
+     "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
+     "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
+     "source": "Press TV",
+     "published": "2026-06-29T19:20:03.696962+00:00",
      "severity": "info"
     },
     {
-     "title": "Traffic through the Strait of Hormuz dropped significantly over the weekend, as a four-day exchange of attacks between Iran and the U.S. left some shipowners deciding it was too risky to transit.",
-     "link": "https://bsky.app/profile/nytimes.com/post/3mpgnb2kfox2g",
-     "source": "@nytimes",
-     "published": "2026-06-29T13:55:01.950830+00:00",
+     "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
+     "link": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
+     "source": "IRNA",
+     "published": "2026-06-29T18:45:20+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,296 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "a80357eaf3e1",
+   "title": "Nate Silver Makes His Prediction on How Likely It Is Dems Will Win the House",
+   "link": "https://www.mediaite.com/politics/nate-silver-makes-his-prediction-on-how-likely-it-is-dems-will-win-the-house/",
+   "summary": "Nate Silver said the predictions markets are underestimating the Democrats in the 2026 midterms, especially when it comes to winning back control of the House The post Nate Silver Makes His Prediction on How Likely It Is Dems Will Win the House first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T19:19:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6e793843669",
+   "title": "Insurance, how does it work?",
+   "link": "https://bsky.app/profile/donmoyn.bsky.social/post/3mph6ykom3s2j",
+   "summary": "",
+   "source": "@donmoyn",
+   "category": "trump_bsky",
+   "published": "2026-06-29T19:12:24.275+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9701c2ad40bd",
+   "title": "BREAKING: Ruben Gallego Under Federal Investigation Over Campaign Spending, Axios Reports",
+   "link": "https://www.mediaite.com/media/news/breaking-ruben-gallego-under-federal-investigation-over-campaign-spending-axios-reports/",
+   "summary": "Ruben Gallego is under federal investigation for alleged campaign finance violations, Axios reported Monday, after the Senate Ethics Committee cleared him. The post BREAKING: Ruben Gallego Under Federal Investigation Over Campaign Spending, Axios Reports first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T19:04:22+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bce7d13ded2b",
+   "title": "‘You Have Good Questions!’ Justice Clarence Thomas Gleefully Laughs Through MS NOW Interrogation",
+   "link": "https://www.mediaite.com/media/news/you-have-good-questions-justice-clarence-thomas-gleefully-laughs-through-ms-now-interrogation/",
+   "summary": "Supreme Court Justice Clarence Thomas jovially chuckled to himself while fielding a barrage of questions from MS NOW's Mychael Schnell The post ‘You Have Good Questions!’ Justice Clarence Thomas Gleefully Laughs Through MS NOW Interrogation first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T18:59:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "04b942f99399",
+   "title": "Full video from Scott MacFarlane here: youtu.be/Ogs4ZV3-v00",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mph6acq2x22u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:58:50.618+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2309f9d24668",
+   "title": "Erin Covey, with the Cook Political Report: We have three Pennsylvania seats rated as toss-ups right now. They are all held by Republicans. I think Democrats are in a pretty decent position to win all three.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mph6acpq7c2u",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:58:50.617+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "50e877d45ee9",
+   "title": "Oh my god we **did not have a president** for the first, we date America's birthday to the signing of the Declaration of Independence, I'm losing my mind.",
+   "link": "https://bsky.app/profile/mattgertz.bsky.social/post/3mph66uv3lk2z",
+   "summary": "",
+   "source": "@mattgertz",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:58:02.559+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a960b81d614c",
+   "title": "Thanks Adam!",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph5zqe62c2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:55:10.037+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e4de77d8d6f4",
+   "title": "\"Trump’s authoritarianism is at the core of his orange, gaseous being, lodged so deep it even outweighs, at times, his all-consuming self-interest. If he has the choice between winning through democratic means & winning through dictatorship, there's question he would choose dictatorship every time.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph5sj7nl22k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:51:07.669+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "47a9518338a1",
+   "title": "‘America, Take Notice’: Lara Trump Warns There Aren’t Enough Dems Like John Fetterman to Save the Party From the DSA",
+   "link": "https://www.mediaite.com/media/news/america-take-notice-lara-trump-warns-there-arent-enough-dems-like-john-fetterman-to-save-the-party-from-the-dsa/",
+   "summary": "Lara Trump warned that there aren't enough \"reasonable\" Democrats like Sen. John Fetterman (D-PA) to save the party from a socialist takeover. The post ‘America, Take Notice’: Lara Trump Warns There Aren’t Enough Dems Like John Fetterman to Save the Party From the DSA first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T18:51:02+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c79c0effc95a",
+   "title": "Dr Oz on ACA \"fraud\" -- \"Of the people who signed up, 40% never use the insurance. Let me ask you, John, you have health insurance -- do you use it once a year? In Obamacare right now 40% of the people ostensibly signed up never use the insurance ... we have a lot of fake people on the policies\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph4uwsyif26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:34:35.284+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a26930dc6dcf",
+   "title": "Dr Oz: \"Walk 20 minutes a day. Just that by itself is $100 billion of savings for the healthcare system.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph4potxcf24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:31:39.157+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "82cbec40a8f9",
+   "title": "Dr Oz: \"Democrats are in a bind -- they promised to the American people they were gonna give everyone insurance. They ended up giving people who don't want the insurance coverage because they were covered elsewhere. They're also now manufacturing people's names ... so we have a crisis on fraud.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph4mi5q3v2g",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:29:51.474+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "78405cd4deab",
+   "title": "Karl Rove Predicts Iran Will Try to Hurt Trump in Midterms",
+   "link": "https://www.mediaite.com/media/news/karl-rove-predicts-iran-will-try-to-hurt-trump-in-midterms/",
+   "summary": "Karl Rove predicted the Iranians would try to hurt President Donald Trump in this fall's midterm elections by creating problems during a weekend Fox News hit. The post Karl Rove Predicts Iran Will Try to Hurt Trump in Midterms first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T18:27:09+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d28f71bc999b",
+   "title": "for the bicentennial we had Dylan’s Rolling Thunder Revue and now Trump just puts some bleachers out in the sun and Fox pretends it’s highway 61",
+   "link": "https://bsky.app/profile/pgourevitch.bsky.social/post/3mph47palgk2e",
+   "summary": "",
+   "source": "@pgourevitch",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:22:42.712+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b0ed88acbfa1",
+   "title": "somebody painted a subtle \"8647\" on a Trump state fair display and Newsmax is on it",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mph44iaoyg2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:20:54.700+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d25286b191db",
+   "title": "JUST IN: Blue State Supreme Court Rejects Dems Redistricting Plan",
+   "link": "https://www.mediaite.com/politics/just-in-blue-state-supreme-court-rejects-dems-redistricting-plan/",
+   "summary": "The Colorado Supreme Court rejected Democrat-backed ballot measures that would have \"asked voters to redraw the state's electoral maps for the 2028 election\" The post JUST IN: Blue State Supreme Court Rejects Dems Redistricting Plan first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T18:15:33+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2c25fe660f61",
+   "title": "I was at a regional harborfest on the north shore of upstate New York last week and there were twice as many people as this",
+   "link": "https://bsky.app/profile/danifroom.bsky.social/post/3mph3hjzsus2b",
+   "summary": "",
+   "source": "@danifroom",
+   "category": "trump_bsky",
+   "published": "2026-06-29T18:09:11.943+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6e4910be9f1d",
+   "title": "‘Irresponsible’: Trump’s Republican Screaming Match Partner Claps Back Over SAVE Act",
+   "link": "https://www.mediaite.com/media/news/irresponsible-trumps-republican-screaming-match-partner-claps-back-over-save-act/",
+   "summary": "Another new week means another new dust-up between President Donald Trump and Senator Bill Cassidy (R-LA), this time over the SAVE Act. The post ‘Irresponsible’: Trump’s Republican Screaming Match Partner Claps Back Over SAVE Act first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T17:58:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f3dd5ac9958d",
+   "title": "Fox Contributor Questions Great American State Fair Food Options for ‘MAHA Monday’: ‘Not to Be a Debbie Downer…’",
+   "link": "https://www.mediaite.com/media/news/fox-contributor-questions-great-american-state-fair-food-options-for-maha-monday-not-to-be-a-debbie-downer/",
+   "summary": "If you headed to President Trump's Great American State Fair for \"MAHA Monday,\" you may have left disappointed with the food options, as one Fox News contributor pointed out. The post Fox Contributor Questions Great American State Fair Food Options for ‘MAHA Monday’: ‘Not to Be a Debbie Downer…’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T17:46:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a2864afb3d8",
+   "title": "this is a level of “what if you threw a party and nobody came” that actually triggers my secondhand embarrassment",
+   "link": "https://bsky.app/profile/rincewind.run/post/3mph22qniqk2r",
+   "summary": "",
+   "source": "@rincewind",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:44:08.930+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f9e78d1bfd9",
+   "title": "This is light traffic for the Mall, not just for this huge special event, but for, like, a normal June day",
+   "link": "https://bsky.app/profile/kwcollins.bsky.social/post/3mpgzvvyeoc2v",
+   "summary": "",
+   "source": "@kwcollins",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:41:26.758+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b8993594dd03",
+   "title": "Ethics Committee Dismisses Misconduct Allegations Against Senate Democrat",
+   "link": "https://www.mediaite.com/media/news/ethics-committee-dismisses-misconduct-allegations-against-senate-democrat/",
+   "summary": "The bipartisan Senate Ethics Committee has dismissed a sexual misconduct complaint against Ruben Gallego, saying it \"did not find evidence\" of wrongdoing. The post Ethics Committee Dismisses Misconduct Allegations Against Senate Democrat first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T17:33:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a3d82efca3b",
+   "title": "NEW POLL: Democrats Leading In Ohio’s Crucial Senate And Gubernatorial Races",
+   "link": "https://www.mediaite.com/media/news/new-poll-democrats-leading-in-ohios-crucial-senate-and-gubernatorial-races/",
+   "summary": "While both races remain very competitive, the poll’s crosstabs carry some particularly worrisome news for Ramaswamy on the question of favorability. The post NEW POLL: Democrats Leading In Ohio’s Crucial Senate And Gubernatorial Races first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T17:28:36+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bea820cc583d",
+   "title": "every Fox News live shot from Trump's fair is hilarious. I've seen more people gathered around our neighborhood Little Free Libraries",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpgz5mtvaf2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:27:51.853+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f64abbeffef",
+   "title": "LMAO",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpgyvykw422a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:23:35.720+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0871e93263c1",
+   "title": "\"the winner was determined by audience applause.\" ok, but shouldn't it be the person who eats the most pancakes? and there's only 8 people there, can the announcer even hear clapping?",
+   "link": "https://bsky.app/profile/chrislongview.bsky.social/post/3mpgyv5jtic2e",
+   "summary": "",
+   "source": "@chrislongview",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:23:07.374+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e3b6b5026ef2",
+   "title": "Steve Bannon Shreds Trump SCOTUS Pick Amy Coney Barrett: ‘Did Anybody Do Any Due Diligence?!’",
+   "link": "https://www.mediaite.com/politics/steve-bannon-shreds-trump-scotus-pick-amy-coney-barrett-did-anybody-do-any-due-diligence/",
+   "summary": "Steve Bannon ripped U.S. Supreme Court Justice Amy Coney Barrett on Monday and Trump's first administration for nominating her, after a major ruling on Monday The post Steve Bannon Shreds Trump SCOTUS Pick Amy Coney Barrett: ‘Did Anybody Do Any Due Diligence?!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T17:23:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3994bc40fa06",
+   "title": "Gotta admit, I'm kinda stuck at \"We had Washington at the 1st.\"",
+   "link": "https://bsky.app/profile/bcdreyer.social/post/3mpgyp6w6z22m",
+   "summary": "",
+   "source": "@bcdreyer",
+   "category": "trump_bsky",
+   "published": "2026-06-29T17:19:47.500+00:00",
+   "iran_topic": false
+  },
   {
    "id": "b797392bd160",
    "title": "Burgum: \"We had Washington at the 1st, we had TR at the 125th, we've got President Trump at the 250. All three of them remarkable change-makers moving our country forward.\"",
@@ -426,9 +716,9 @@
   },
   {
    "id": "2ce61a14df66",
-   "title": "‘Hold On!’ CNN’s Pamela Brown Spars With James Comer Over Lack of Trump Investigations",
+   "title": "CNN’s Pamela Brown Presses James Comer Over Lack of Trump Investigations",
    "link": "https://www.mediaite.com/media/news/hold-on-cnns-pamela-brown-spars-with-james-comer-over-lack-of-trump-investigations/",
-   "summary": "Pamela Brown sparred with James Comer over whether he should investigate allegations that President Donald Trump was profiting off of the presidency. The post ‘Hold On!’ CNN’s Pamela Brown Spars With James Comer Over Lack of Trump Investigations first appeared on Mediaite .",
+   "summary": "Pamela Brown sparred with James Comer over whether he should investigate allegations that President Donald Trump was profiting off of the presidency. The post CNN’s Pamela Brown Presses James Comer Over Lack of Trump Investigations first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-29T16:55:59+00:00",
@@ -515,16 +805,6 @@
    "iran_topic": false
   },
   {
-   "id": "f32a44164353",
-   "title": "Trump's state fair is now open for the day and the crowd remains quite sparse",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgup4aog32n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T16:08:09.706+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "22bf3ddd3eaf",
    "title": "GOP Congressman Flat-Out Admits He Has Zero Interest in Bipartisanship: ‘I Didn’t Come to Washington to Work With Democrats’",
    "link": "https://www.mediaite.com/media/tv/gop-congressman-flat-out-admits-he-has-zero-interest-in-bipartisanship-i-didnt-come-to-washington-to-work-with-democrats/",
@@ -555,53 +835,13 @@
    "iran_topic": false
   },
   {
-   "id": "de95007ace55",
-   "title": "Rescuers Pull a Survivor From The Rubble 5 Days After Devastating Venezuela Earthquakes",
-   "link": "https://www.mediaite.com/media/news/rescuers-pull-a-survivor-from-the-rubble-5-days-after-devastating-venezuela-earthquakes/",
-   "summary": "A miraculous rescue in Venezuela as crews pulled a 21-year-old man alive from the rubble five full days after two earthquakes hit the country. The post Rescuers Pull a Survivor From The Rubble 5 Days After Devastating Venezuela Earthquakes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T15:39:14+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e441603d2293",
-   "title": "Fox’s Jonathan Turley Argues Supreme Court Just Handed Down a ‘Significant Loss for Republicans’ on Voting",
-   "link": "https://www.mediaite.com/media/tv/foxs-jonathan-turley-argues-supreme-court-just-handed-down-a-significant-loss-for-republicans-on-voting/",
-   "summary": "“And just as Alito really lashes out and says this undermines the integrity of the process, the faith in the process of voters — and that is a sentiment that is shared by many\" The post Fox’s Jonathan Turley Argues Supreme Court Just Handed Down a ‘Significant Loss for Republicans’ on Voting first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T15:27:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9fc476b7e7c8",
-   "title": "Trump Spox Leavitt Blurts ‘Americans Need to Vote for This President’ in Fox News Hit",
-   "link": "https://www.mediaite.com/media/news/trump-spox-leavitt-blurts-americans-need-to-vote-for-this-president-in-fox-news-hit/",
-   "summary": "Karoline Leavitt blurted out that \"Americans should vote for\" Trump as she and Fox News hosts fretted about the political influence of Mayor Zohran Mamdani. The post Trump Spox Leavitt Blurts ‘Americans Need to Vote for This President’ in Fox News Hit first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T15:14:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "00784cdf1537",
-   "title": "There’s no proof but 69% of people believe that I’m very hot.",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mpgrkt5evk2j",
+   "id": "d69507f15054",
+   "title": "At Public Notice, I wrote about Trump killing the Housing Bill because he hates democracy and voters. www.publicnotice.co/p/trump-hous...",
+   "link": "https://bsky.app/profile/nberlat.bsky.social/post/3mpgrypdqbk2p",
    "summary": "",
-   "source": "@ohnoshetwitnt",
+   "source": "@nberlat",
    "category": "trump_bsky",
-   "published": "2026-06-29T15:12:04.742+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8d2bffe394bf",
-   "title": "Supreme Court Rules Trump Target Lisa Cook Can Remain at Fed",
-   "link": "https://www.mediaite.com/media/news/supreme-court-rules-trump-target-lisa-cook-can-remain-at-fed/",
-   "summary": "The Supreme Court ruled Monday that President Donald Trump does not have the executive authority to fire a member of the Federal Reserve. The post Supreme Court Rules Trump Target Lisa Cook Can Remain at Fed first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:58:07+00:00",
+   "published": "2026-06-29T15:19:50.518+00:00",
    "iran_topic": false
   },
   {
@@ -615,16 +855,6 @@
    "iran_topic": false
   },
   {
-   "id": "e60db6f6b615",
-   "title": "NBC Host Asks Blockbuster Scribes Haberman, Swan: Was Losing to Biden ‘The Best Thing That Ever Happened to Trump?’",
-   "link": "https://www.mediaite.com/media/news/nbc-host-asks-blockbuster-scribes-haberman-swan-was-losing-to-biden-the-best-thing-that-ever-happened-to-trump/",
-   "summary": "NBC's Ryan Nobles asked Maggie Haberman and co-author Jonathan Swan if losing to Joe Biden in 2020 was \"the best thing that ever happened\" to Trump. The post NBC Host Asks Blockbuster Scribes Haberman, Swan: Was Losing to Biden ‘The Best Thing That Ever Happened to Trump?’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:55:08+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "0270bc22d687",
    "title": "Justice Sotomayor read her dissent from the bench. It reads in part: \"Today, this Court undoes centuries of political practice and concludes that all three branches of Government have been acting in open defiance of the Constitution all this time. Its conclusion is wrong.\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpgqlzktis2x",
@@ -632,16 +862,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-29T14:54:51.288+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4f1f4206c6e2",
-   "title": "Supreme Court Declines to Hear Alan Dershowitz’s $300 Million CNN Defamation Case",
-   "link": "https://www.mediaite.com/media/news/supreme-court-declines-to-hear-alan-dershowitzs-300-million-cnn-defamation-case/",
-   "summary": "A federal judge first dismissed Dershowitz’s claims in 2023, finding he had produced no evidence that CNN acted with “actual malice” required for defamation. The post Supreme Court Declines to Hear Alan Dershowitz’s $300 Million CNN Defamation Case first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:50:07+00:00",
    "iran_topic": false
   },
   {
@@ -655,16 +875,6 @@
    "iran_topic": false
   },
   {
-   "id": "000d9d24d845",
-   "title": "Bill Maher Says Election of 3 ‘Really Crazy’ Democratic Socialists in NYC Shows Dems Are ‘Well on Their Way’ to Blowing 2028 Election",
-   "link": "https://www.mediaite.com/politics/bill-maher-says-election-of-3-really-crazy-democratic-socialists-in-nyc-shows-dems-are-well-on-their-way-to-blowing-2028-election/",
-   "summary": "Bill Maher said the \"crazy\" Democratic Socialists who recently won primaries in New York City are sign the Democratic Party is \"well\" on its way to blowing it The post Bill Maher Says Election of 3 ‘Really Crazy’ Democratic Socialists in NYC Shows Dems Are ‘Well on Their Way’ to Blowing 2028 Election first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:39:46+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3390b70eec7f",
    "title": "\"As the Government concedes, Congress limited the President's power to remove Governors for good reason—'[t]o preserve the independence of the Federal Reserve' and to continue the 'long tradition' of 'monetary policy . . . exercised independent of . . . executive influence.'\"",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpgpk2pmwk2g",
@@ -675,26 +885,6 @@
    "iran_topic": false
   },
   {
-   "id": "07bf65fe814c",
-   "title": "Ex-NFL Star Chris Johnson Reveals ALS Diagnosis on Good Morning America",
-   "link": "https://www.mediaite.com/media/sports/ex-nfl-star-chris-johnson-reveals-als-diagnosis-on-good-morning-america/",
-   "summary": "Retired NFL star Chris Johnson revealed on Monday's episode of Good Morning America that he's been diagnosed with amyotrophic lateral sclerosis (ALS). The post Ex-NFL Star Chris Johnson Reveals ALS Diagnosis on Good Morning America first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:27:46+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5a9dc25f2fa1",
-   "title": "BREAKING: Supreme Court Rejects Trump Bid to Overturn E. Jean Carroll Verdict",
-   "link": "https://www.mediaite.com/media/news/breaking-supreme-court-rejects-trump-bid-to-overturn-e-jean-carroll-verdict/",
-   "summary": "The justices issued a brief order rejecting Trump’s petition, a move that effectively ends his effort to undo the 2023 judgment and leaves the ruling in place. The post BREAKING: Supreme Court Rejects Trump Bid to Overturn E. Jean Carroll Verdict first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:22:56+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "76131fd1fbb7",
    "title": "The Supreme Court just overturned 90 years of precedent to transfer unprecedented new powers to the executive:",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpgoslg3tc2g",
@@ -702,16 +892,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-29T14:22:43.850+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2ea7276c647",
-   "title": "JUST IN: Supreme Court Rules States Can Count Mail-In Ballots Arriving After Election Day",
-   "link": "https://www.mediaite.com/media/news/just-in-supreme-court-rules-states-can-count-mail-in-ballots-arriving-after-election-day/",
-   "summary": "The Supreme Court sided with Mississippi on Monday in a 5-4 ruling that the state can continue to count mail-in ballots that arrive after Election Day. The post JUST IN: Supreme Court Rules States Can Count Mail-In Ballots Arriving After Election Day first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:19:54+00:00",
    "iran_topic": false
   },
   {
@@ -735,46 +915,6 @@
    "iran_topic": false
   },
   {
-   "id": "d203930b5963",
-   "title": "Enten: \"There's no proof, but now 63% of Republicans believe that the 2020 election was stolen\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgohpc5cs2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T14:16:38.784+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1628aeadd6ce",
-   "title": "Politico’s Jonathan Martin Mocks Vance’s Trump Stolen Election Take on Bill Maher Show: ‘That Was Never Trump’s Argument!’",
-   "link": "https://www.mediaite.com/media/tv/politicos-jonathan-martin-mocks-vances-trump-stolen-election-take-on-bill-maher-show-that-was-never-trumps-argument/",
-   "summary": "Jonathan Martin mocked VP JD Vance's take on Trump's stolen election claims during his Bill Maher interview, ridiculing the \"sleight of hand\" response. The post Politico’s Jonathan Martin Mocks Vance’s Trump Stolen Election Take on Bill Maher Show: ‘That Was Never Trump’s Argument!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-29T14:13:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d926add9674",
-   "title": "Friends across the aisle!",
-   "link": "https://bsky.app/profile/schooley.bsky.social/post/3mpgo5cl7622w",
-   "summary": "",
-   "source": "@schooley",
-   "category": "trump_bsky",
-   "published": "2026-06-29T14:10:49.937+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b415c490004a",
-   "title": "Rep. Randy Fine on the housing bill: \"My issue was if Elizabeth Warren thinks a bill is great, it probably isn't. The enthusiasm Democrats had for this bill got me spooked. I didn't come to Washington to work with Democrats. I came to Washington to beat them.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgo276vy32t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T14:09:05.700+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "66653e1f518a",
    "title": "This means the Supreme Court just UPHELD grave periods for mail-in ballots:",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpgnsx346k2n",
@@ -792,26 +932,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-29T14:02:37.099+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "003e5b271a5a",
-   "title": "DHS Secretary Markwayne Mullin on Syrian and Haitian TPS recipients: \"You have to leave. We're going to assist you in doing so, and if you choose not to, then we'll pick you up and force you to leave.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgngms5eu2b",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T13:58:08.883+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7894edd087cf",
-   "title": "incredibly sad stuff on Good Morning America as former NFL running back Chris Johnson shares his ALS diagnosis",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgmmk7yff2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T13:43:33.689+00:00",
    "iran_topic": false
   },
   {
@@ -835,116 +955,6 @@
    "iran_topic": false
   },
   {
-   "id": "fda4cbfcd001",
-   "title": "“Violence will be met with violence” - how all cease fires hold 🙄🤦🏻‍♂️😳",
-   "link": "https://bsky.app/profile/dimitridrekonja.bsky.social/post/3mpglumb7mc2e",
-   "summary": "",
-   "source": "@dimitridrekonja",
-   "category": "trump_bsky",
-   "published": "2026-06-29T13:30:10.621+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c8bf4498ad31",
-   "title": "Leavitt on Iran: \"Special Envoy Witkoff and Jared Kushner will be flying to Doha for high-level meetings with this week as we continue to discuss the MOU ... as far as we're concerned, we're holding up our end of the ceasefire. Violence will be met with violence.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgjftnnh32t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:46:07.538+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "a21c29e4a19f",
-   "title": "Using the military band as a prop for Fox News I see. Totes normal",
-   "link": "https://bsky.app/profile/jamespmanley.bsky.social/post/3mpgjapg7dk2y",
-   "summary": "",
-   "source": "@jamespmanley",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:43:15.358+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a7584e5fe5a3",
-   "title": "Leavitt: \"That's why Americans need to for this president\" (when will people be voting for Trump again?)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgj7h32xe2i",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:42:33.037+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "878531cc0e29",
-   "title": "Not sure people appreciate how difficult it is to literally have NO PEOPLE at the National Mall, especially in the summer time.",
-   "link": "https://bsky.app/profile/scarylawyerguy.bsky.social/post/3mpgiwkozr22a",
-   "summary": "",
-   "source": "@scarylawyerguy",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:37:34.860+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f4bd51e49768",
-   "title": "Kevin Hassett delivers a stern message to the algae.",
-   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mpgivk62ac2l",
-   "summary": "",
-   "source": "@missingthept",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:37:00.749+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "bfee1e839f4d",
-   "title": "there are more Fox & Friends anchors at Trump's fair than actual fairgoers",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgiszrh732n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:35:36.435+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f2818e0fb62e",
-   "title": "Did the rapture happen overnight? Fox & Friends is broadcasting from a completely empty Trump state fair on the National Mall",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgifenvlu2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:27:58.091+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7e35b911907a",
-   "title": "Kevin Hassett: \"Nobody should ever try to test the resolve of Donald Trump\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpgicdn7zg2n",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:26:16.332+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8a0e3820322",
-   "title": "New in PN: Trump hates democracy, housing edition \"Real dictators don’t care about policy; they win by cheating. Trump doesn’t want to be a baby man; he wants to cheat. The SAVE America Act is the way. Any other approach, especially trying to help voters, enrages him. He refuses to sign the bill.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpghysblgs2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:20:56.176+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2a09462b3506",
-   "title": "Trump: “Do you think people appreciate what a fantastic job we did in building & operating the Great American State Fair at the Mall, packed with happy people, & everybody loving it? Ask yourself this simple question, ‘DO YOU THINK OBUMA OR SLEEPY JOE BIDEN COULD HAVE DONE IT?’ THE ANSWER IS NO!”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpghqvso2c2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T12:16:31.444+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "3fa691404693",
    "title": "Donald Trump hates democracy, housing bill edition",
    "link": "https://www.publicnotice.co/p/trump-housing-bill",
@@ -955,23 +965,13 @@
    "iran_topic": false
   },
   {
-   "id": "457a25c95160",
-   "title": "Iranian diplomat blasts ‘pseudo-VAR’ interventions after World Cup exit",
-   "link": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/iranian-diplomat-blasts-var-decisions-00979405",
+   "id": "446f4db4a35c",
+   "title": "The writing is excellent and always on point. Subscribe. You’ll be glad you did.",
+   "link": "https://bsky.app/profile/axidentaliberal.bsky.social/post/3mpfla5mtdk2v",
    "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-28T23:50:21+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "6352e0c98fea",
-   "title": "World Cup attendance: The potential 2028ers",
-   "link": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/2028-us-election-candidates-world-cup-attendance-00979365",
-   "summary": "Josh Shapiro and Marco Rubio have got World Cup fever.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-28T22:00:00+00:00",
+   "source": "@axidentaliberal",
+   "category": "trump_bsky",
+   "published": "2026-06-29T03:46:04.446+00:00",
    "iran_topic": false
   }
  ]
