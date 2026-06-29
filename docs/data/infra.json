@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-29T08:57:15.426272+00:00",
+ "generated": "2026-06-29T10:30:28.768211+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.36,
-   "change": 1.37,
-   "change_pct": 1.9,
+   "price": 73.08,
+   "change": 1.09,
+   "change_pct": 1.51,
    "spark": [
     73.73999786376953,
     75.26000213623047,
     71.98999786376953,
-    73.36000061035156
+    73.08000183105469
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.12,
-   "change": 0.89,
-   "change_pct": 1.29,
+   "price": 69.9,
+   "change": 0.67,
+   "change_pct": 0.97,
    "spark": [
     70.33999633789062,
     71.91999816894531,
     69.2300033569336,
-    70.12000274658203
+    69.9000015258789
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4070.4,
-   "change": -8.3,
-   "change_pct": -0.2,
+   "price": 4048.8,
+   "change": -29.9,
+   "change_pct": -0.73,
    "spark": [
     3990.300048828125,
     4030.5,
     4078.699951171875,
-    4070.39990234375
+    4048.800048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.3,
-   "change": -0.06,
-   "change_pct": -0.06,
+   "price": 101.27,
+   "change": -0.09,
+   "change_pct": -0.09,
    "spark": [
     101.61000061035156,
     101.43000030517578,
     101.36000061035156,
-    101.3010025024414
+    101.26699829101562
    ]
   },
   "^GSPC": {
@@ -84,15 +84,15 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.38,
-   "change": -0.03,
-   "change_pct": -0.16,
+   "price": 18.41,
+   "change": 0.0,
+   "change_pct": 0.0,
    "spark": [
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
-    18.3799991607666
+    18.40999984741211
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.25,
    "change": 0.02,
-   "change_pct": 0.56,
+   "change_pct": 0.59,
    "spark": [
     3.2209999561309814,
     3.3429999351501465,
     3.2309999465942383,
-    3.249000072479248
+    3.25
    ]
   }
  },
@@ -219,15 +219,22 @@
    "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
    "source": "Press TV",
-   "published": "2026-06-29T08:56:39.360883+00:00",
+   "published": "2026-06-29T10:29:54.252891+00:00",
    "severity": "info"
   },
   {
    "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
    "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
    "source": "Press TV",
-   "published": "2026-06-29T08:56:39.358823+00:00",
+   "published": "2026-06-29T10:29:54.250608+00:00",
    "severity": "high"
+  },
+  {
+   "title": "Photos reveal Russian gas tanker with heavy machine guns as Baltic tensions rise",
+   "link": "https://www.reddit.com/r/worldnews/comments/1uinayf/photos_reveal_russian_gas_tanker_with_heavy/",
+   "source": "r/worldnews",
+   "published": "2026-06-29T09:09:10+00:00",
+   "severity": "info"
   },
   {
    "title": "Iran, Oman convene first meeting of joint Hormuz committee",
@@ -312,13 +319,6 @@
    "source": "Times of Israel",
    "published": "2026-06-28T13:43:05+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "Ukraine says it attacked two Russian oil refineries",
-   "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-28T13:36:15+00:00",
-   "severity": "critical"
   }
  ],
  "chokepoints": [
@@ -332,14 +332,14 @@
      "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
      "source": "Press TV",
-     "published": "2026-06-29T08:56:39.360883+00:00",
+     "published": "2026-06-29T10:29:54.252891+00:00",
      "severity": "info"
     },
     {
      "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
      "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
      "source": "Press TV",
-     "published": "2026-06-29T08:56:39.358823+00:00",
+     "published": "2026-06-29T10:29:54.250608+00:00",
      "severity": "high"
     },
     {
@@ -374,6 +374,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "ec68fbc37912",
+   "title": "NY Times Bombshell Details How Trump’s Sons Stand to Gain From $1.6B Kazakhstan Mining Deal",
+   "link": "https://www.mediaite.com/media/news/ny-times-bombshell-details-how-trumps-sons-stand-to-gain-from-1-6b-kazakhstan-mining-deal/",
+   "summary": "Donald Trump Jr. and Eric Trump reportedly became financially linked to the Kazakhstan project while the admin was pursuing a major minerals agreement. The post NY Times Bombshell Details How Trump’s Sons Stand to Gain From $1.6B Kazakhstan Mining Deal first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T10:22:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3fa691404693",
+   "title": "Donald Trump hates democracy, housing bill edition",
+   "link": "https://www.publicnotice.co/p/trump-housing-bill",
+   "summary": "Republicans enraged the president by trying to listen to their constituents.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-29T10:17:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7fac47993d4c",
+   "title": "WATCH: Sniper-Flanked Trump Ogles Latest DC Renovation in Sunday Stop at Federal Golf Course",
+   "link": "https://www.mediaite.com/media/news/watch-sniper-flanked-trump-ogles-latest-dc-renovation-in-sunday-stop-at-federal-golf-course/",
+   "summary": "President Donald Trump checked out renovations at a golf course on federal land on Sunday — flanked by aides, his security detail, and a sniper. The post WATCH: Sniper-Flanked Trump Ogles Latest DC Renovation in Sunday Stop at Federal Golf Course first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-29T10:16:45+00:00",
+   "iran_topic": false
+  },
   {
    "id": "da3555adb20f",
    "title": "quality bocce-ing, felt like it could've went either way and good times",
@@ -942,36 +972,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-28T15:20:44.865+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e74d7665cee8",
-   "title": "NOBLES: Just give me one example of where there was some level of fraud that the SAVE America Act would've prevented that would've altered an election ROGER MARSHALL: Yeah Ryan, I guess we just look at this differently",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpebcpkvax26",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:15:53.195+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fc52bea1029e",
-   "title": "The World Cup's final boss",
-   "link": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/the-world-cups-final-boss-00979218",
-   "summary": "Level unlocked: Trump is coming to hand out the trophy on July 19.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-06-28T15:15:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f103a4b5b54b",
-   "title": "NOBLES: Did Trump break his promise when it comes to housing & affordability? MARSHALL: I'm concerned about the cost of living. We're still reeling from Biden. Real wages are outpacing inflation. This is classic Trump negotiation style NOBLES: Wages are not outpacing inflation. That's not correct.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpeax7eygv2v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:09:27.122+00:00",
    "iran_topic": false
   }
  ]
