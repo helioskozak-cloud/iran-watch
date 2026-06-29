@@ -1,60 +1,56 @@
 {
- "generated": "2026-06-29T03:38:34.940467+00:00",
+ "generated": "2026-06-29T08:57:15.426272+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.17,
-   "change": 1.18,
-   "change_pct": 1.64,
+   "price": 73.36,
+   "change": 1.37,
+   "change_pct": 1.9,
    "spark": [
-    77.08000183105469,
     73.73999786376953,
     75.26000213623047,
     71.98999786376953,
-    73.16999816894531
+    73.36000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.99,
-   "change": 0.76,
-   "change_pct": 1.1,
+   "price": 70.12,
+   "change": 0.89,
+   "change_pct": 1.29,
    "spark": [
-    73.20999908447266,
     70.33999633789062,
     71.91999816894531,
     69.2300033569336,
-    69.98999786376953
+    70.12000274658203
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4087.7,
-   "change": 9.0,
-   "change_pct": 0.22,
+   "price": 4070.4,
+   "change": -8.3,
+   "change_pct": -0.2,
    "spark": [
-    4129.89990234375,
     3990.300048828125,
     4030.5,
     4078.699951171875,
-    4087.699951171875
+    4070.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.34,
-   "change": -0.02,
-   "change_pct": -0.02,
+   "price": 101.3,
+   "change": -0.06,
+   "change_pct": -0.06,
    "spark": [
-    101.41000366210938,
     101.61000061035156,
     101.43000030517578,
     101.36000061035156,
-    101.33699798583984
+    101.3010025024414
    ]
   },
   "^GSPC": {
@@ -88,29 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 18.41,
-   "change": -0.48,
-   "change_pct": -2.54,
+   "price": 18.38,
+   "change": -0.03,
+   "change_pct": -0.16,
    "spark": [
-    17.280000686645508,
     19.489999771118164,
     18.6299991607666,
     18.889999389648438,
-    18.40999984741211
+    18.40999984741211,
+    18.3799991607666
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.31,
-   "change": 0.08,
-   "change_pct": 2.41,
+   "price": 3.25,
+   "change": 0.02,
+   "change_pct": 0.56,
    "spark": [
-    3.1470000743865967,
     3.2209999561309814,
     3.3429999351501465,
     3.2309999465942383,
-    3.309000015258789
+    3.249000072479248
    ]
   }
  },
@@ -224,7 +219,35 @@
    "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
    "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
    "source": "Press TV",
-   "published": "2026-06-29T03:37:59.052358+00:00",
+   "published": "2026-06-29T08:56:39.360883+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
+   "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
+   "source": "Press TV",
+   "published": "2026-06-29T08:56:39.358823+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Iran, Oman convene first meeting of joint Hormuz committee",
+   "link": "https://en.irna.ir/news/86195778/Iran-Oman-convene-first-meeting-of-joint-Hormuz-committee",
+   "source": "IRNA",
+   "published": "2026-06-29T08:51:36+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "In photos: Reshadat; Persian Gulf’s largest oil processing platform",
+   "link": "https://en.irna.ir/photo/86195551/In-photos-Reshadat-Persian-Gulf-s-largest-oil-processing-platform",
+   "source": "IRNA",
+   "published": "2026-06-29T06:04:06+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+   "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-29T03:55:02+00:00",
    "severity": "info"
   },
   {
@@ -296,34 +319,6 @@
    "source": "Al Jazeera",
    "published": "2026-06-28T13:36:15+00:00",
    "severity": "critical"
-  },
-  {
-   "title": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-   "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-28T13:17:40+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "CMA CGM says its Galapagos container ship exits Strait of Hormuz reut.rs/4bdMByC",
-   "link": "https://bsky.app/profile/reuters.com/post/3mpdzstp5ty2e",
-   "source": "@reuters",
-   "published": "2026-06-28T13:01:44+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-06-28T12:38:33+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran-US communication line in Hormuz political, not military; transit rules unchanged: Source",
-   "link": "https://presstv.ir/Detail/2026/06/27/771190/Iran-US-communication-line-in-Strait-of-Hormuz-political,-not-military--transit-rules-unchanged--Source",
-   "source": "Press TV",
-   "published": "2026-06-28T12:13:33.040478+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -337,21 +332,21 @@
      "title": "Only Iran in charge of reopening Hormuz Strait: FM Araghchi",
      "link": "https://presstv.ir/Detail/2026/06/28/771235/Iran-Araghchi-Strait-Hormuz-reopening",
      "source": "Press TV",
-     "published": "2026-06-29T03:37:59.052358+00:00",
+     "published": "2026-06-29T08:56:39.360883+00:00",
      "severity": "info"
     },
     {
-     "title": "US and Iran agree to halt Hormuz attacks, will reportedly hold talks about strait in Qatar on Tuesday",
-     "link": "https://www.timesofisrael.com/us-iran-agree-to-halt-hormuz-attacks-hold-talks-about-strait-in-qatar-on-tuesday-report/",
-     "source": "Times of Israel",
-     "published": "2026-06-29T00:08:53+00:00",
-     "severity": "low"
+     "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
+     "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
+     "source": "Press TV",
+     "published": "2026-06-29T08:56:39.358823+00:00",
+     "severity": "high"
     },
     {
-     "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-06-29T00:00:00+00:00",
+     "title": "Iran, Oman convene first meeting of joint Hormuz committee",
+     "link": "https://en.irna.ir/news/86195778/Iran-Oman-convene-first-meeting-of-joint-Hormuz-committee",
+     "source": "IRNA",
+     "published": "2026-06-29T08:51:36+00:00",
      "severity": "low"
     }
    ]
@@ -380,6 +375,16 @@
  ],
  "wh_statements": [
   {
+   "id": "da3555adb20f",
+   "title": "quality bocce-ing, felt like it could've went either way and good times",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpfnlna2js2l",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-29T04:28:17.388+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "18c38de6bcc5",
    "title": "Bill Maher Doesn’t Mind Trump Bashing Him Before Receiving Mark Twain Award: ‘That’s Just His Way of Talking’",
    "link": "https://www.mediaite.com/media/bill-maher-doesnt-mind-trump-bashing-him-before-receiving-mark-twain-award-thats-just-his-way-of-talking/",
@@ -387,6 +392,16 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-29T00:32:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "10746dd5e15e",
+   "title": "Can’t Hardly Bocce Black Hart Bar summer champs!! Trophy back in its rightful home. @atrupar.com @djgloverepair.bsky.social @blackhartstp.com @wesburdine.bsky.social @normcharlatan.bsky.social",
+   "link": "https://bsky.app/profile/freealonzo.bsky.social/post/3mpf73vplh22y",
+   "summary": "",
+   "source": "@freealonzo",
+   "category": "trump_bsky",
+   "published": "2026-06-29T00:08:57.016+00:00",
    "iran_topic": false
   },
   {
@@ -957,26 +972,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-28T15:09:27.122+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a912206e433f",
-   "title": "might want to look up the definition of detente",
-   "link": "https://bsky.app/profile/sgoodyear.bsky.social/post/3mpeasug7t22k",
-   "summary": "",
-   "source": "@sgoodyear",
-   "category": "trump_bsky",
-   "published": "2026-06-28T15:07:01.429+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f363de4a2159",
-   "title": "‘Is There a Question in That?’ DHS Sec Mullin Battles CNN’s Jake Tapper in Tense Debate Over Haiti Deportations",
-   "link": "https://www.mediaite.com/media/news/is-there-a-question-in-that-dhs-sec-mullin-battles-cnns-jake-tapper-in-tense-debate-over-haiti-deportations/",
-   "summary": "DHS Secretary Markwayne Mullin battled CNN's Jake Tapper, Sunday, over deportations of Haitians with temporary protected status. The post ‘Is There a Question in That?’ DHS Sec Mullin Battles CNN’s Jake Tapper in Tense Debate Over Haiti Deportations first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-28T15:06:35+00:00",
    "iran_topic": false
   }
  ]
