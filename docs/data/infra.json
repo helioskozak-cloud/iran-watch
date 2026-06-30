@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-30T07:52:29.247367+00:00",
+ "generated": "2026-06-30T09:23:24.676371+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.4,
-   "change": 0.25,
-   "change_pct": 0.34,
+   "price": 73.76,
+   "change": 0.61,
+   "change_pct": 0.83,
    "spark": [
     75.26000213623047,
     71.98999786376953,
     73.1500015258789,
-    73.4000015258789
+    73.76000213623047
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.19,
-   "change": -0.56,
-   "change_pct": -0.79,
+   "price": 70.61,
+   "change": -0.14,
+   "change_pct": -0.2,
    "spark": [
     71.91999816894531,
     69.2300033569336,
     70.75,
-    70.19000244140625
+    70.61000061035156
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4043.0,
-   "change": 20.7,
-   "change_pct": 0.51,
+   "price": 4032.7,
+   "change": 10.4,
+   "change_pct": 0.26,
    "spark": [
     4030.5,
     4078.699951171875,
     4022.300048828125,
-    4043.0
+    4032.699951171875
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.26,
-   "change": 0.15,
-   "change_pct": 0.15,
+   "price": 101.34,
+   "change": 0.23,
+   "change_pct": 0.23,
    "spark": [
     101.43000030517578,
     101.36000061035156,
     101.11000061035156,
-    101.25700378417969
+    101.34300231933594
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.48,
-   "change": -0.17,
-   "change_pct": -0.96,
+   "price": 17.64,
+   "change": -0.01,
+   "change_pct": -0.06,
    "spark": [
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
-    17.479999542236328
+    17.639999389648438
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.2,
-   "change": 0.02,
-   "change_pct": 0.69,
+   "price": 3.21,
+   "change": 0.03,
+   "change_pct": 0.94,
    "spark": [
     3.3429999351501465,
     3.2309999465942383,
     3.180999994277954,
-    3.203000068664551
+    3.2109999656677246
    ]
   }
  },
@@ -216,6 +216,13 @@
  ],
  "incidents": [
   {
+   "title": "Exclusive-Turkey says NATO adjusting to security landscape, US not withdrawing",
+   "link": "https://www.al-monitor.com/originals/2026/06/exclusive-turkey-says-nato-adjusting-security-landscape-us-not-withdrawing",
+   "source": "Al-Monitor",
+   "published": "2026-06-30T08:36:41+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Iran, US to resume peace talks in Doha after setbacks due to strikes, Strait of Hormuz tensions",
    "link": "https://www.jpost.com/middle-east/iran-news/article-900900",
    "source": "Jerusalem Post",
@@ -312,13 +319,6 @@
    "source": "The Drive",
    "published": "2026-06-29T18:40:05+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Newly Russian‑flagged LNG tanker starts operations at US-sanctioned project, data shows reut.rs/4v1gUQ8",
-   "link": "https://bsky.app/profile/reuters.com/post/3mph4obb2yj2j",
-   "source": "@reuters",
-   "published": "2026-06-29T18:30:51+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -374,6 +374,16 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "6c0463c6e779",
+   "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
+   "link": "https://www.politico.com/news/2026/06/30/trump-said-gas-prices-would-fall-after-the-war-defying-the-experts-so-far-hes-right-00980674",
+   "summary": "The unexpected drop in gasoline prices has given Trump a political boost, even as energy analysts warn the fragile ceasefire and tightening oil supplies could quickly reverse the trend.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-30T09:05:00+00:00",
+   "iran_topic": true
+  },
   {
    "id": "d727f84c8cf0",
    "title": "Trump’s Post Announcing Shiny New ‘Golden Gift’ for White House Met with Mockery: ‘How F*cking Tacky’",
@@ -962,16 +972,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-06-29T19:39:05.433+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9ebe4f211548",
-   "title": "Q: What are your plans for the housing bill? TRUMP: I don't know. I think it's so unimportant when compared to the SAVE America Act. It's very bipartisan. That means the Democrats like it.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mphagpi3u42v",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T19:38:12.794+00:00",
    "iran_topic": false
   }
  ]
