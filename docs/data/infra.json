@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-30T20:27:29.265611+00:00",
+ "generated": "2026-06-30T21:55:36.930361+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.43,
-   "change": 0.28,
-   "change_pct": 0.38,
+   "price": 73.37,
+   "change": 0.22,
+   "change_pct": 0.3,
    "spark": [
     75.26000213623047,
     71.98999786376953,
     73.1500015258789,
-    73.43000030517578
+    73.37000274658203
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.1,
-   "change": -0.65,
-   "change_pct": -0.92,
+   "price": 70.03,
+   "change": -0.72,
+   "change_pct": -1.02,
    "spark": [
     71.91999816894531,
     69.2300033569336,
     70.75,
-    70.0999984741211
+    70.02999877929688
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4034.0,
-   "change": 11.7,
-   "change_pct": 0.29,
+   "price": 4021.8,
+   "change": -0.5,
+   "change_pct": -0.01,
    "spark": [
     4030.5,
     4078.699951171875,
     4022.300048828125,
-    4034.0
+    4021.800048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.14,
-   "change": 0.03,
-   "change_pct": 0.03,
+   "price": 101.16,
+   "change": 0.05,
+   "change_pct": 0.05,
    "spark": [
     101.43000030517578,
     101.36000061035156,
     101.11000061035156,
-    101.14099884033203
+    101.16000366210938
    ]
   },
   "^GSPC": {
@@ -84,15 +84,15 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.49,
-   "change": -1.16,
-   "change_pct": -6.57,
+   "price": 16.45,
+   "change": -1.2,
+   "change_pct": -6.8,
    "spark": [
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
-    16.489999771118164
+    16.450000762939453
    ]
   },
   "NG=F": {
@@ -100,12 +100,12 @@
    "symbol": "NG=F",
    "price": 3.26,
    "change": 0.08,
-   "change_pct": 2.42,
+   "change_pct": 2.39,
    "spark": [
     3.3429999351501465,
     3.2309999465942383,
     3.180999994277954,
-    3.257999897003174
+    3.256999969482422
    ]
   }
  },
@@ -216,46 +216,46 @@
  ],
  "incidents": [
   {
-   "title": "Trump's envoys head to Doha as Iran pushes toll plan for Strait of Hormuz shipping",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-901001",
-   "source": "Jerusalem Post",
-   "published": "2026-06-30T21:34:00+00:00",
-   "severity": "low"
-  },
-  {
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-06-30T20:26:40.094614+00:00",
+   "published": "2026-06-30T21:54:50.841304+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-06-30T20:26:40.093068+00:00",
+   "published": "2026-06-30T21:54:50.839906+00:00",
    "severity": "info"
   },
   {
    "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
    "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
    "source": "Press TV",
-   "published": "2026-06-30T20:26:40.089163+00:00",
+   "published": "2026-06-30T21:54:50.836490+00:00",
    "severity": "info"
   },
   {
    "title": "Management of Strait of Hormuz solely Iran’s responsibility: Senior MP",
    "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility",
    "source": "Press TV",
-   "published": "2026-06-30T20:26:40.088289+00:00",
+   "published": "2026-06-30T21:54:50.835698+00:00",
    "severity": "info"
   },
   {
    "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
    "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
    "source": "Press TV",
-   "published": "2026-06-30T20:26:40.088031+00:00",
+   "published": "2026-06-30T21:54:50.835432+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Trump's envoys head to Doha as Iran pushes toll plan for Strait of Hormuz shipping",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-901001",
+   "source": "Jerusalem Post",
+   "published": "2026-06-30T21:34:00+00:00",
+   "severity": "low"
   },
   {
    "title": "Families of October 7 victims to march along Gaza border, marking 1,000 days since Hamas invasion",
@@ -329,24 +329,24 @@
    "incident_count": 11,
    "recent": [
     {
-     "title": "Trump's envoys head to Doha as Iran pushes toll plan for Strait of Hormuz shipping",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-901001",
-     "source": "Jerusalem Post",
-     "published": "2026-06-30T21:34:00+00:00",
-     "severity": "low"
-    },
-    {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-06-30T20:26:40.094614+00:00",
+     "published": "2026-06-30T21:54:50.841304+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-06-30T20:26:40.093068+00:00",
+     "published": "2026-06-30T21:54:50.839906+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
+     "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
+     "source": "Press TV",
+     "published": "2026-06-30T21:54:50.836490+00:00",
      "severity": "info"
     }
    ]
@@ -375,6 +375,116 @@
  ],
  "wh_statements": [
   {
+   "id": "e0f2407427f2",
+   "title": "CNN Guest Warns Birthright Debate Isn’t Over: Every ‘GOP Candidate Is Going to Run On’ It",
+   "link": "https://www.mediaite.com/media/news/alex-thompson-birthright-debate-not-over-2026-midterms/",
+   "summary": "Axios' Alex Thompson warned CNN viewers the debate about birthright citizenship is far from over, and that the topic will be a big one during the 2026 midterms. The post CNN Guest Warns Birthright Debate Isn’t Over: Every ‘GOP Candidate Is Going to Run On’ It first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T21:53:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f11eb3b7ffc",
+   "title": "MTG Reveals She’s ‘In Talks’ to Launch ‘True America-Focused’ Third Party",
+   "link": "https://www.mediaite.com/politics/mtg-reveals-shes-in-talks-to-launch-true-america-focused-third-party/",
+   "summary": "Marjorie Taylor Greene revealed she is \"in talks\" to launch a \"true America-Focused\" political party, one week after she announced she was ditching the GOP. The post MTG Reveals She’s ‘In Talks’ to Launch ‘True America-Focused’ Third Party first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T21:42:39+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e488164c2db0",
+   "title": "‘Pure Anti-Semitism’: Progressive Podcaster Goes Off On Activists Who Shouted Down Scott Weiner",
+   "link": "https://www.mediaite.com/media/podcasts/pure-anti-semitism-progressive-podcaster-goes-off-on-activists-who-shouted-down-scott-weiner/",
+   "summary": "“If you're following Scott Wiener around, yelling at him in this park... it is because you are being anti-Semitic. You are an anti-Semite.\" The post ‘Pure Anti-Semitism’: Progressive Podcaster Goes Off On Activists Who Shouted Down Scott Weiner first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T21:21:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6a1afdb8a59e",
+   "title": "\"It's just unbelievable to see people out here!\" -- Trump's fair continues to be an embarrassment, with live shot after live shot showing fewer attendees on the National Mall than a random roadside carnival Here's a supercut from today:",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpjwmvobok2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-30T21:20:42.426+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "897726df2a89",
+   "title": "‘Wow On a Number of Levels’: CNN Plays Supercut of MAGA Influencers Raging At John Roberts",
+   "link": "https://www.mediaite.com/politics/wow-on-a-number-of-levels-cnn-plays-supercut-of-maga-influencers-raging-at-john-roberts/",
+   "summary": "CNN put together a supercut of conservatives bashing the Supreme Court for ruling against President Donald Trump on birthright citizenship on Tuesday The post ‘Wow On a Number of Levels’: CNN Plays Supercut of MAGA Influencers Raging At John Roberts first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T21:11:35+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "307d1c0fd06b",
+   "title": "Mullin says he 'did a happy dance' after Iran's World Cup exit",
+   "link": "https://www.politico.com/news/2026/06/30/mullin-says-he-did-a-happy-dance-after-irans-world-cup-exit-00982171",
+   "summary": "The secretary said no World Cup delegation demanded more attention from U.S. officials than Iran, alleging the country attempted to bring individuals with ties to the IRGC into the country.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-06-30T21:09:15+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "097ff5f8e56a",
+   "title": "House Republican Pitches Bill On Fox News to Ban Pregnant Foreigners From the US",
+   "link": "https://www.mediaite.com/media/tv/house-republican-pitches-bill-on-fox-news-to-ban-pregnant-foreigners-from-the-us/",
+   "summary": "Rep. Andy Ogles (R-TN) is answering President Donald Trump's call to end by birthright citizenship by introducing a bill that would ban pregnant foreigners. The post House Republican Pitches Bill On Fox News to Ban Pregnant Foreigners From the US first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T20:52:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "54a38458c8ed",
+   "title": "JD Vance Trots Out Violent ‘Pulp Fiction’ Story to Explain His Own Religious Experience In Wild Rant",
+   "link": "https://www.mediaite.com/media/podcasts/jd-vance-violent-pulp-fiction-story-religious-rant/",
+   "summary": "Vice President JD Vance quoted a scene from 'Pulp Fiction' to explain his own religious experiences in a bizarre, lengthy conversation with Michael Knowles. The post JD Vance Trots Out Violent ‘Pulp Fiction’ Story to Explain His Own Religious Experience In Wild Rant first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T20:49:55+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d05e2e30fedc",
+   "title": "BREAKING: A federal judge just ordered the Pentagon to temporarily lift the requirement that all journalists visiting the building be accompanied by an official escort. The decision was another rebuke to the Trump admin's efforts to restrict reporters who cover the Department of Defense.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjungyvf22j",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-06-30T20:45:13.116+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9f787202df44",
+   "title": "with a lot of people starting to log off for the long holiday weekend, let me remind you that I make my clips with a lot of help from @snapstream.com, the premier tool for social media video. If you want to clip like me, click the link for more info and to set up a demo.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpjuakotgc2a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-06-30T20:38:00.773+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a0081188f11",
+   "title": "I think I've had better-attended bookstore signings.",
+   "link": "https://bsky.app/profile/tomtomorrow.bsky.social/post/3mpjtiwo5fs24",
+   "summary": "",
+   "source": "@tomtomorrow",
+   "category": "trump_bsky",
+   "published": "2026-06-30T20:24:48.028+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "35b51488acba",
    "title": "Conservative Radio Host Battles MAGA Influencers With ‘Barrett Derangement Syndrome’",
    "link": "https://www.mediaite.com/media/conservative-radio-host-battles-maga-influencers-with-barrett-derangement-syndrome/",
@@ -388,7 +498,7 @@
    "id": "4ff1407172c7",
    "title": "‘You Should be Ashamed of Yourself!’ Lawler And Raskin Absolutely Lose It On Each Other In Jaw-Dropping Hearing Slugfest",
    "link": "https://www.mediaite.com/politics/you-should-be-ashamed-of-yourself-lawler-and-raskin-absolutely-lose-it-on-each-other-in-jaw-dropping-hearing-slugfest/",
-   "summary": "Rep. Mike Lawler (R-NY) and Rep. Jamie Raskin (D-MD) lost it at each other over U.S. immigration policies during an explosive House Judiciary Committee hearing on Tuesday. Lawler, who appeared at the hearing as a guest to introduce a witness, began by making a statement about how cities &#8220;like New York and Chicago blatantly disregard existing law [&#8230;] The post ‘You Should be Ashamed of Yourself!’ Lawler And Raskin Absolutely Lose It On Each Other In Jaw-Dropping Hearing Slugfest first appeared on Mediaite .",
+   "summary": "\"You don't belong on this committee, you should get the hell out of here!\" Raskin yelled back. The post ‘You Should be Ashamed of Yourself!’ Lawler And Raskin Absolutely Lose It On Each Other In Jaw-Dropping Hearing Slugfest first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-30T20:18:10+00:00",
@@ -475,9 +585,9 @@
    "iran_topic": false
   },
   {
-   "id": "a85a5ddb1ce0",
+   "id": "e1b250177656",
    "title": "Democratic Socialist Booster Ro Khanna’s ‘Staggering’ Posh Lifestyle Featured In Scathing Report",
-   "link": "https://www.mediaite.com/media/democratic-socialist-booster-ro-khannas-staggering-posh-lifestyle-featured-in-scathing-report/",
+   "link": "https://www.mediaite.com/opinion/democratic-socialist-booster-ro-khannas-staggering-posh-lifestyle-featured-in-scathing-report/",
    "summary": "Liberal lawmaker Ro Khanna has a $340 million net worth and lives a swanky lifestyle in a huge DC mansion when he is not busy ripping the rich The post Democratic Socialist Booster Ro Khanna’s ‘Staggering’ Posh Lifestyle Featured In Scathing Report first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
@@ -496,9 +606,9 @@
   },
   {
    "id": "e7928edc3a65",
-   "title": "BREAKING: Hazmat Crews Respond to Train Derailment as Pennsylvania Residents Told to Shelter in Place",
+   "title": "Hazmat Crews Respond to Train Derailment as Pennsylvania Residents Told to Shelter in Place",
    "link": "https://www.mediaite.com/media/news/breaking-hazmat-crews-respond-to-train-derailment-as-pennsylvania-residents-told-to-shelter-in-place/",
-   "summary": "Emergency teams are responding to a train derailment in Bensalem, Pennsylvania, with hazmat crews being rushed to the scene. The post BREAKING: Hazmat Crews Respond to Train Derailment as Pennsylvania Residents Told to Shelter in Place first appeared on Mediaite .",
+   "summary": "Emergency teams are responding to a train derailment in Bensalem, Pennsylvania, with hazmat crews being rushed to the scene. The post Hazmat Crews Respond to Train Derailment as Pennsylvania Residents Told to Shelter in Place first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-30T19:50:05+00:00",
@@ -685,16 +795,6 @@
    "iran_topic": false
   },
   {
-   "id": "e3e479afd305",
-   "title": "ACLU Official Says Conservative Supreme Court Saved the Day in Birthright Citizenship Case: ‘All of Us Are Safe’",
-   "link": "https://www.mediaite.com/media/news/aclu-official-says-conservative-supreme-court-saved-the-day-in-birthright-citizenship-case-all-of-us-are-safe/",
-   "summary": "ACLU exec Cecilia Wang crowed over the Supreme Court's birthright citizenship case on MS NOW, proclaiming, \"All of us are safe.\" The post ACLU Official Says Conservative Supreme Court Saved the Day in Birthright Citizenship Case: ‘All of Us Are Safe’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T18:41:48+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "e57430208bab",
    "title": "😂😂😂😂",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpjnpmy6f22e",
@@ -745,16 +845,6 @@
    "iran_topic": false
   },
   {
-   "id": "9bd3ac53dbfe",
-   "title": "Chris Wright: \"Iran has been cooperative at all yet. The flow of oil through the Strait of Hormuz is thanks to the US military. No cooperation from Iran yet.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpjmezo56m2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T18:17:20.745+00:00",
-   "iran_topic": true
-  },
-  {
    "id": "0fe118f0eb7c",
    "title": "this is my new cocaine.",
    "link": "https://bsky.app/profile/chrislongview.bsky.social/post/3mpjmdevovs2z",
@@ -765,16 +855,6 @@
    "iran_topic": false
   },
   {
-   "id": "4a1804c70a18",
-   "title": "FOX NEWS: Is it free enterprise for the president to tell people to lower their prices? CHRIS WRIGHT: He's expressing his passion for low energy prices. This is a bold communicator.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpjmaoezue22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T18:14:54.698+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "931422d8dc51",
    "title": "there's more people than this on a tennis court during a doubles match",
    "link": "https://bsky.app/profile/nameshiv.bsky.social/post/3mpjlzrl4u224",
@@ -782,66 +862,6 @@
    "source": "@nameshiv",
    "category": "trump_bsky",
    "published": "2026-06-30T18:11:03.176+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "caecf34b6c1f",
-   "title": "Gov. Jeff Landry claims SCOTUS' trans sports ruling will result in \"sports going in the toilet\" in blue states because \"nobody wants to sit there and watch a track meet where great male athletes compete against women athletes\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpjlz2ngfq2z",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T18:10:39.118+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fdc9dedf89da",
-   "title": "Maggie Haberman Reveals the Tricks She Thinks Trump Uses to Create the ‘Veneer of Transparency’",
-   "link": "https://www.mediaite.com/media/news/maggie-haberman-reveals-the-tricks-she-thinks-trump-uses-to-create-the-veneer-of-transparency/",
-   "summary": "\"This is not a transparent administration. But so, those calls allow him to maintain that veneer while really dictating the terms\" The post Maggie Haberman Reveals the Tricks She Thinks Trump Uses to Create the ‘Veneer of Transparency’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T18:10:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ccb32f4be61b",
-   "title": "Fox’s John Roberts Admits Trump’s Demand to Change Birthright Citizenship Law Will Be ‘Uphill Challenge’",
-   "link": "https://www.mediaite.com/media/tv/fox-john-roberts-trump-birthright-citizenship-challenge/",
-   "summary": "Donald Trump faces an \"uphill challenge\" if he hopes Congress will challenge the Supreme Court's birthright citizenship decision, Fox News says. The post Fox’s John Roberts Admits Trump’s Demand to Change Birthright Citizenship Law Will Be ‘Uphill Challenge’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T18:04:24+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2ed43fa3a038",
-   "title": "Trump Says Supreme Court Treated the GOP ‘Very Fairly’ — But Then Calls Birthright Decision a Win For China",
-   "link": "https://www.mediaite.com/politics/trump-praises-supreme-court-despite-birthright-citizenship-loss-the-republican-party-was-treated-very-fairly/",
-   "summary": "Trump jumped on Truth Social to give the Supreme Court kudos for its new rulings, even though he was upset with the ruling against him on birthright citizenship The post Trump Says Supreme Court Treated the GOP ‘Very Fairly’ — But Then Calls Birthright Decision a Win For China first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T17:31:52+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d2c16352e97a",
-   "title": "Fox Legal Analyst Defends Amy Coney Barrett After Harris Faulkner Suggests She’s Not ‘a True Conservative’",
-   "link": "https://www.mediaite.com/media/tv/fox-legal-analyst-defends-amy-coney-barrett-after-harris-faulkner-suggests-shes-not-a-true-conservative/",
-   "summary": "Fox News legal analyst Jonathan Turley stood up for Amy Coney Barrett on Tuesday as network host Harris Faulkner questioned whether the Trump-appointed Supreme Court justice was \"a true conservative.\" The post Fox Legal Analyst Defends Amy Coney Barrett After Harris Faulkner Suggests She’s Not ‘a True Conservative’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T17:07:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "072a152c77ba",
-   "title": "‘Apocalyptically and Indefensibly Bad’: Conservative Pundits Melt Down Over Supreme Court Upholding Birthright Citizenship",
-   "link": "https://www.mediaite.com/media/news/apocalyptically-and-indefensibly-bad-conservative-pundits-melt-down-over-supreme-court-upholding-birthright-citizenship/",
-   "summary": "Right-wing pundits were beside themselves in response to the news that the Supreme Court voted to uphold birthright citizenship. The post ‘Apocalyptically and Indefensibly Bad’: Conservative Pundits Melt Down Over Supreme Court Upholding Birthright Citizenship first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T17:03:43+00:00",
    "iran_topic": false
   },
   {
@@ -952,26 +972,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-30T14:34:42.883+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d5f81ddf29a",
-   "title": "The conservative Court just struck down limits on coordinated spending between candidates and political parties — a massive win for Republicans that will fundamentally change how tens of millions of dollars are spent in congressional elections.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpj7ogom5s24",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T14:29:57.756+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ffde466a805f",
-   "title": "Reuters: U.S. SUPREME COURT SIDES WITH REPUBLICAN-LED CHALLENGE TO FEDERAL LIMITS ON SPENDING BY POLITICAL PARTIES IN COORDINATION WITH CANDIDATES",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpj7g4hhu224",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T14:25:18.600+00:00",
    "iran_topic": false
   }
  ]
