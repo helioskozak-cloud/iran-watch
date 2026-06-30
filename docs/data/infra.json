@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-30T09:23:24.676371+00:00",
+ "generated": "2026-06-30T11:58:09.561205+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.76,
-   "change": 0.61,
-   "change_pct": 0.83,
+   "price": 74.23,
+   "change": 1.08,
+   "change_pct": 1.48,
    "spark": [
     75.26000213623047,
     71.98999786376953,
     73.1500015258789,
-    73.76000213623047
+    74.2300033569336
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.61,
-   "change": -0.14,
-   "change_pct": -0.2,
+   "price": 70.98,
+   "change": 0.23,
+   "change_pct": 0.33,
    "spark": [
     71.91999816894531,
     69.2300033569336,
     70.75,
-    70.61000061035156
+    70.9800033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4032.7,
-   "change": 10.4,
-   "change_pct": 0.26,
+   "price": 4046.6,
+   "change": 24.3,
+   "change_pct": 0.6,
    "spark": [
     4030.5,
     4078.699951171875,
     4022.300048828125,
-    4032.699951171875
+    4046.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.34,
-   "change": 0.23,
-   "change_pct": 0.23,
+   "price": 101.37,
+   "change": 0.26,
+   "change_pct": 0.26,
    "spark": [
     101.43000030517578,
     101.36000061035156,
     101.11000061035156,
-    101.34300231933594
+    101.37000274658203
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.64,
-   "change": -0.01,
-   "change_pct": -0.06,
+   "price": 17.44,
+   "change": -0.21,
+   "change_pct": -1.19,
    "spark": [
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
-    17.639999389648438
+    17.440000534057617
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.21,
-   "change": 0.03,
-   "change_pct": 0.94,
+   "price": 3.24,
+   "change": 0.06,
+   "change_pct": 1.92,
    "spark": [
     3.3429999351501465,
     3.2309999465942383,
     3.180999994277954,
-    3.2109999656677246
+    3.242000102996826
    ]
   }
  },
@@ -216,6 +216,55 @@
  ],
  "incidents": [
   {
+   "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
+   "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
+   "source": "Press TV",
+   "published": "2026-06-30T11:57:29.258079+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
+   "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
+   "source": "Press TV",
+   "published": "2026-06-30T11:57:29.251875+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Management of Strait of Hormuz solely Iran’s responsibility: Senior MP",
+   "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility",
+   "source": "Press TV",
+   "published": "2026-06-30T11:57:29.251640+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
+   "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
+   "source": "Press TV",
+   "published": "2026-06-30T11:57:29.251296+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "US envoy Witkoff and Kushner will be in Qatar, no meeting with Iran, Qatari official says",
+   "link": "https://www.al-monitor.com/originals/2026/06/us-envoy-witkoff-and-kushner-will-be-qatar-no-meeting-iran-qatari-official-says",
+   "source": "Al-Monitor",
+   "published": "2026-06-30T11:01:46+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "'A national disgrace': Netanyahu, MKs decry rabbi who hurled abuse at Zamir at anti-draft rally",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900909",
+   "source": "Jerusalem Post",
+   "published": "2026-06-30T10:46:26+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal",
+   "link": "https://www.al-monitor.com/originals/2026/06/uncertainty-over-qatar-diplomacy-clouds-prospects-us-iran-deal",
+   "source": "Al-Monitor",
+   "published": "2026-06-30T10:36:39+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Exclusive-Turkey says NATO adjusting to security landscape, US not withdrawing",
    "link": "https://www.al-monitor.com/originals/2026/06/exclusive-turkey-says-nato-adjusting-security-landscape-us-not-withdrawing",
    "source": "Al-Monitor",
@@ -230,32 +279,11 @@
    "severity": "low"
   },
   {
-   "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
-   "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
-   "source": "Press TV",
-   "published": "2026-06-30T07:51:49.600270+00:00",
-   "severity": "high"
-  },
-  {
    "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
    "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
    "source": "Press TV",
    "published": "2026-06-30T07:51:49.595027+00:00",
    "severity": "high"
-  },
-  {
-   "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
-   "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
-   "source": "Press TV",
-   "published": "2026-06-30T07:51:49.594779+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
-   "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
-   "source": "Press TV",
-   "published": "2026-06-30T07:51:49.594488+00:00",
-   "severity": "info"
   },
   {
    "title": "What is Iran looking for in any upcoming talks with the US?",
@@ -291,34 +319,6 @@
    "source": "Tehran Times",
    "published": "2026-06-29T19:24:15+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran and Oman hold first Hormuz committee talks as sovereignty push intensifies",
-   "link": "https://www.tehrantimes.com/news/527753/Iran-and-Oman-hold-first-Hormuz-committee-talks-as-sovereignty",
-   "source": "Tehran Times",
-   "published": "2026-06-29T19:21:40+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Tehran demands US adherence to MoU before any technical discussions begin",
-   "link": "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions",
-   "source": "Tehran Times",
-   "published": "2026-06-29T19:19:12+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Gharibabadi: Demining Hormuz Strait only to be done by Iran",
-   "link": "https://en.irna.ir/news/86196408/Gharibabadi-Demining-Hormuz-Strait-only-to-be-done-by-Iran",
-   "source": "IRNA",
-   "published": "2026-06-29T18:45:20+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "MQ-25 Stingray Demonstrator Goes Aboard USS Nimitz For 250th U.S. Anniversary Celebrations",
-   "link": "https://www.twz.com/air/mq-25-stingray-demonstrator-goes-aboard-uss-nimitz-for-250th-u-s-anniversary-celebrations",
-   "source": "The Drive",
-   "published": "2026-06-29T18:40:05+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 10,
+   "incident_count": 9,
    "recent": [
-    {
-     "title": "Iran, US to resume peace talks in Doha after setbacks due to strikes, Strait of Hormuz tensions",
-     "link": "https://www.jpost.com/middle-east/iran-news/article-900900",
-     "source": "Jerusalem Post",
-     "published": "2026-06-30T07:56:40+00:00",
-     "severity": "low"
-    },
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-06-30T07:51:49.600270+00:00",
+     "published": "2026-06-30T11:57:29.258079+00:00",
      "severity": "high"
     },
     {
-     "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
-     "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
+     "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
+     "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
      "source": "Press TV",
-     "published": "2026-06-30T07:51:49.595027+00:00",
-     "severity": "high"
+     "published": "2026-06-30T11:57:29.251875+00:00",
+     "severity": "info"
+    },
+    {
+     "title": "Management of Strait of Hormuz solely Iran’s responsibility: Senior MP",
+     "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility",
+     "source": "Press TV",
+     "published": "2026-06-30T11:57:29.251640+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -375,8 +375,58 @@
  ],
  "wh_statements": [
   {
+   "id": "202005224322",
+   "title": "‘Shame of the Nation!’ Don Jr. and Eric Trump Torched Over Ties to $1B Mining Deal in Scathing NY Post Op-Ed",
+   "link": "https://www.mediaite.com/media/news/shame-of-the-nation-don-jr-and-eric-trump-torched-over-ties-to-1b-mining-deal-in-scathing-ny-post-op-ed/",
+   "summary": "The Post argued reports surrounding Donald Trump Jr., Eric Trump and Lutnick's sons amount to \"Hunter Biden-style sleaze.\" The post ‘Shame of the Nation!’ Don Jr. and Eric Trump Torched Over Ties to $1B Mining Deal in Scathing NY Post Op-Ed first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T11:39:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "242cd577203c",
+   "title": "Pete Hegseth and Marco Rubio Stayed on Signal Chats, Records Show, Despite Trump Warning",
+   "link": "https://www.mediaite.com/media/news/pete-hegseth-and-marco-rubio-stayed-on-signal-chats-records-show-despite-trump-warning/",
+   "summary": "The disclosures come following last year's leak when officials mistakenly included a journalist in a separate group chat discussing military operations. The post Pete Hegseth and Marco Rubio Stayed on Signal Chats, Records Show, Despite Trump Warning first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T11:05:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f3f4bfa98fee",
+   "title": "WATCH: Paraguay Fans Erupt as TV Showing World Cup Match Cuts Out at Worst Possible Moment",
+   "link": "https://www.mediaite.com/online/watch-paraguay-fans-erupt-as-tv-showing-world-cup-match-cuts-out-at-worst-possible-moment/",
+   "summary": "As Paraguay's Canale prepared to take his cruicial game-winning penalty the bar’s screen suddenly displayed a \"Sleep Mode\" prompt - hiding the goal line. The post WATCH: Paraguay Fans Erupt as TV Showing World Cup Match Cuts Out at Worst Possible Moment first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T10:42:10+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "040d97dd5a95",
+   "title": "CNN Panel Melts Down as MAGA Podcaster Claims There’s Video Proof of Voter Fraud",
+   "link": "https://www.mediaite.com/media/tv/cnn-panel-melts-down-as-maga-podcaster-claims-theres-video-proof-of-voter-fraud/",
+   "summary": "Phillip challenged pro-Trump podcaster Emily Austin to bring her “evidence” after her claims that she had “videos” showing mail-in voting was “not secure.” The post CNN Panel Melts Down as MAGA Podcaster Claims There’s Video Proof of Voter Fraud first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-06-30T10:25:05+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "66e9ab235270",
+   "title": "The Christian right is emboldened and on the march",
+   "link": "https://www.publicnotice.co/p/faith-and-freedom-trump",
+   "summary": "Beware when they speak of \"tolerance.\"",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-06-30T10:17:01+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "6c0463c6e779",
-   "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
+   "title": "Energy experts said gas prices would stay high. Why were they wrong?",
    "link": "https://www.politico.com/news/2026/06/30/trump-said-gas-prices-would-fall-after-the-war-defying-the-experts-so-far-hes-right-00980674",
    "summary": "The unexpected drop in gasoline prices has given Trump a political boost, even as energy analysts warn the fragile ceasefire and tightening oil supplies could quickly reverse the trend.",
    "source": "Politico WH",
@@ -922,56 +972,6 @@
    "source": "WH News",
    "category": "wh_news",
    "published": "2026-06-29T19:53:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6dc16276c737",
-   "title": "Lowering the Cost of Living by Promoting the Freedom to Fix",
-   "link": "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/",
-   "summary": "MEMORANDUM FOR THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct: Section 1. Purpose. During the previous administration, crushing environmental regulatory burdens caused the average cost of vehicles to soar. My Administration has therefore [&#8230;] The post Lowering the Cost of Living by Promoting the Freedom to Fix appeared first on The White House .",
-   "source": "WH Actions",
-   "category": "wh_actions",
-   "published": "2026-06-29T19:53:41+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4457044bd2a3",
-   "title": "Um…does he know what insurance is? You pay it IN CASE you need it.",
-   "link": "https://bsky.app/profile/jbf1755.bsky.social/post/3mphb6xoanc22",
-   "summary": "",
-   "source": "@jbf1755",
-   "category": "trump_bsky",
-   "published": "2026-06-29T19:51:46.703+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a54c261cdde9",
-   "title": "Trump just said the bipartisan housing bill designed to address the affordable housing crisis is \"so unimportant\" compared to his legislation to rig elections, the SAVE America Act. Trump called the housing bill \"a yawn.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mphaupdbyc2u",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-29T19:46:02.414+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "63d210f3f2ee",
-   "title": "Trump claims \"communism\" is a bigger threat to the nation than the Pearl Harbor attack, and then abruptly boots reporters out of the Oval",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mphanmnykn23",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T19:42:04.723+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9b3c53e3acc6",
-   "title": "Q: Will you sign that housing bill? TRUMP: It hasn't been sent to me yet. It's coming I understand, and then I'll make the determination. Big deal. It's a yawn.",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mphaibok3g2g",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-29T19:39:05.433+00:00",
    "iran_topic": false
   }
  ]
