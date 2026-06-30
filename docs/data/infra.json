@@ -1,56 +1,56 @@
 {
- "generated": "2026-06-30T03:25:24.090964+00:00",
+ "generated": "2026-06-30T07:52:29.247367+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.87,
-   "change": 1.88,
-   "change_pct": 2.61,
+   "price": 73.4,
+   "change": 0.25,
+   "change_pct": 0.34,
    "spark": [
-    73.73999786376953,
     75.26000213623047,
     71.98999786376953,
-    73.87000274658203
+    73.1500015258789,
+    73.4000015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 70.68,
-   "change": 1.45,
-   "change_pct": 2.09,
+   "price": 70.19,
+   "change": -0.56,
+   "change_pct": -0.79,
    "spark": [
-    70.33999633789062,
     71.91999816894531,
     69.2300033569336,
-    70.68000030517578
+    70.75,
+    70.19000244140625
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3981.2,
-   "change": -97.5,
-   "change_pct": -2.39,
+   "price": 4043.0,
+   "change": 20.7,
+   "change_pct": 0.51,
    "spark": [
-    3990.300048828125,
     4030.5,
     4078.699951171875,
-    3981.199951171875
+    4022.300048828125,
+    4043.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.3,
-   "change": -0.06,
-   "change_pct": -0.06,
+   "price": 101.26,
+   "change": 0.15,
+   "change_pct": 0.15,
    "spark": [
-    101.61000061035156,
     101.43000030517578,
     101.36000061035156,
-    101.2979965209961
+    101.11000061035156,
+    101.25700378417969
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 17.65,
-   "change": -0.76,
-   "change_pct": -4.13,
+   "price": 17.48,
+   "change": -0.17,
+   "change_pct": -0.96,
    "spark": [
-    19.489999771118164,
     18.6299991607666,
     18.889999389648438,
     18.40999984741211,
-    17.649999618530273
+    17.649999618530273,
+    17.479999542236328
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.17,
-   "change": -0.06,
-   "change_pct": -1.83,
+   "price": 3.2,
+   "change": 0.02,
+   "change_pct": 0.69,
    "spark": [
-    3.2209999561309814,
     3.3429999351501465,
     3.2309999465942383,
-    3.171999931335449
+    3.180999994277954,
+    3.203000068664551
    ]
   }
  },
@@ -216,32 +216,46 @@
  ],
  "incidents": [
   {
+   "title": "Iran, US to resume peace talks in Doha after setbacks due to strikes, Strait of Hormuz tensions",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-900900",
+   "source": "Jerusalem Post",
+   "published": "2026-06-30T07:56:40+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-06-30T03:24:49.592131+00:00",
+   "published": "2026-06-30T07:51:49.600270+00:00",
    "severity": "high"
   },
   {
    "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
    "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
    "source": "Press TV",
-   "published": "2026-06-30T03:24:49.586845+00:00",
+   "published": "2026-06-30T07:51:49.595027+00:00",
    "severity": "high"
   },
   {
    "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
    "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
    "source": "Press TV",
-   "published": "2026-06-30T03:24:49.586596+00:00",
+   "published": "2026-06-30T07:51:49.594779+00:00",
    "severity": "info"
   },
   {
    "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
    "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
    "source": "Press TV",
-   "published": "2026-06-30T03:24:49.586298+00:00",
+   "published": "2026-06-30T07:51:49.594488+00:00",
    "severity": "info"
+  },
+  {
+   "title": "What is Iran looking for in any upcoming talks with the US?",
+   "link": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-06-30T06:33:28+00:00",
+   "severity": "low"
   },
   {
    "title": "The Strait of Hormuz is open again. Still, the governments that depend on it aren't willing to bet on it staying that way. (Members Only) warontherocks.com/2026/06/adap...",
@@ -305,20 +319,6 @@
    "source": "@reuters",
    "published": "2026-06-29T18:30:51+00:00",
    "severity": "info"
-  },
-  {
-   "title": "World War II Wreck Hunter RV Petrel Reborn as Navy Survey Ship Sarah Lynn",
-   "link": "https://news.usni.org/2026/06/29/world-war-ii-wreck-hunter-rv-petrel-reborn-as-navy-survey-ship-sarah-lynn",
-   "source": "USNI News",
-   "published": "2026-06-29T18:13:31+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "Heavy Machine Guns Appear On Key Russian Commercial Tanker In Baltic",
-   "link": "https://www.twz.com/sea/heavy-machine-guns-appear-on-key-russian-commercial-tanker-in-baltic",
-   "source": "The Drive",
-   "published": "2026-06-29T17:21:47+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 9,
+   "incident_count": 10,
    "recent": [
+    {
+     "title": "Iran, US to resume peace talks in Doha after setbacks due to strikes, Strait of Hormuz tensions",
+     "link": "https://www.jpost.com/middle-east/iran-news/article-900900",
+     "source": "Jerusalem Post",
+     "published": "2026-06-30T07:56:40+00:00",
+     "severity": "low"
+    },
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-06-30T03:24:49.592131+00:00",
+     "published": "2026-06-30T07:51:49.600270+00:00",
      "severity": "high"
     },
     {
      "title": "Iran, Oman launch joint Hormuz committee to discuss strait’s future governance",
      "link": "https://presstv.ir/Detail/2026/06/29/771281/Iran-Oman-first-Hormuz-meeting",
      "source": "Press TV",
-     "published": "2026-06-30T03:24:49.586845+00:00",
+     "published": "2026-06-30T07:51:49.595027+00:00",
      "severity": "high"
-    },
-    {
-     "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
-     "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
-     "source": "Press TV",
-     "published": "2026-06-30T03:24:49.586596+00:00",
-     "severity": "info"
     }
    ]
   },
