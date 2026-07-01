@@ -1,111 +1,111 @@
 {
- "generated": "2026-07-01T12:21:59.583742+00:00",
+ "generated": "2026-07-01T15:19:03.625377+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 72.04,
-   "change": -0.88,
-   "change_pct": -1.21,
+   "price": 71.38,
+   "change": -1.54,
+   "change_pct": -2.11,
    "spark": [
     71.98999786376953,
     73.1500015258789,
     72.91999816894531,
-    72.04000091552734
+    71.37999725341797
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 68.81,
-   "change": -0.69,
-   "change_pct": -0.99,
+   "price": 68.29,
+   "change": -1.21,
+   "change_pct": -1.74,
    "spark": [
     69.2300033569336,
     70.75,
     69.5,
-    68.80999755859375
+    68.29000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4035.4,
-   "change": 12.5,
-   "change_pct": 0.31,
+   "price": 4101.5,
+   "change": 78.6,
+   "change_pct": 1.95,
    "spark": [
     4078.699951171875,
     4022.300048828125,
     4022.89990234375,
-    4035.39990234375
+    4101.5
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.45,
-   "change": 0.26,
-   "change_pct": 0.26,
+   "price": 101.35,
+   "change": 0.16,
+   "change_pct": 0.16,
    "spark": [
     101.36000061035156,
     101.11000061035156,
     101.19000244140625,
-    101.4540023803711
+    101.34700012207031
    ]
   },
   "^GSPC": {
    "label": "S&P 500",
    "symbol": "^GSPC",
-   "price": 7499.36,
-   "change": 58.93,
-   "change_pct": 0.79,
+   "price": 7511.29,
+   "change": 11.93,
+   "change_pct": 0.16,
    "spark": [
-    7358.22021484375,
     7357.490234375,
     7354.02001953125,
     7440.43017578125,
-    7499.35986328125
+    7499.35986328125,
+    7511.2900390625
    ]
   },
   "USO": {
    "label": "USO (Oil ETF)",
    "symbol": "USO",
-   "price": 106.44,
-   "change": -0.64,
-   "change_pct": -0.6,
+   "price": 103.8,
+   "change": -2.64,
+   "change_pct": -2.48,
    "spark": [
-    106.29000091552734,
     109.30999755859375,
     105.4800033569336,
     107.08000183105469,
-    106.44000244140625
+    106.44000244140625,
+    103.80000305175781
    ]
   },
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.78,
-   "change": 0.33,
-   "change_pct": 2.01,
+   "price": 16.3,
+   "change": -0.15,
+   "change_pct": -0.91,
    "spark": [
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
     16.450000762939453,
-    16.780000686645508
+    16.299999237060547
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.24,
-   "change": -0.03,
-   "change_pct": -1.04,
+   "price": 3.21,
+   "change": -0.07,
+   "change_pct": -1.98,
    "spark": [
     3.2309999465942383,
     3.180999994277954,
     3.2750000953674316,
-    3.240999937057495
+    3.2100000381469727
    ]
   }
  },
@@ -219,15 +219,36 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-01T12:21:16.929448+00:00",
+   "published": "2026-07-01T15:18:22.260980+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-01T12:21:16.927748+00:00",
+   "published": "2026-07-01T15:18:22.259334+00:00",
    "severity": "info"
+  },
+  {
+   "title": "How war on Iran changed the global energy sector forever",
+   "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-07-01T14:45:04+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iranian FM: If Trump’s Tel Aviv ‘pets’ aren’t controlled, ‘Iran will school them’",
+   "link": "https://www.timesofisrael.com/iranian-fm-if-trumps-tel-aviv-pets-arent-controlled-iran-will-school-them/",
+   "source": "Times of Israel",
+   "published": "2026-07-01T13:46:41+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Trump says the U.S. and Iran getting along very well",
+   "link": "https://www.al-monitor.com/originals/2026/07/trump-says-us-and-iran-getting-along-very-well",
+   "source": "Al-Monitor",
+   "published": "2026-07-01T13:01:43+00:00",
+   "severity": "low"
   },
   {
    "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
@@ -298,27 +319,6 @@
    "source": "@apnews",
    "published": "2026-07-01T07:30:15+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
-   "link": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
-   "source": "IRNA",
-   "published": "2026-07-01T07:05:16+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Rift between Iranian President Pezeshkian, IRGC grows, threatens to harm US-Iran talks - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-901020",
-   "source": "Jerusalem Post",
-   "published": "2026-07-01T04:05:18+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Indian sailors fear returning to Gulf after Middle East war",
-   "link": "https://www.al-monitor.com/originals/2026/06/indian-sailors-fear-returning-gulf-after-middle-east-war",
-   "source": "Al-Monitor",
-   "published": "2026-07-01T03:00:20+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,20 +326,20 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "ACTIVE",
-   "incident_count": 11,
+   "incident_count": 10,
    "recent": [
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T12:21:16.929448+00:00",
+     "published": "2026-07-01T15:18:22.260980+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T12:21:16.927748+00:00",
+     "published": "2026-07-01T15:18:22.259334+00:00",
      "severity": "info"
     },
     {
@@ -375,33 +375,513 @@
  ],
  "wh_statements": [
   {
-   "id": "e9abf5cad7e4",
-   "title": "This soft-launch of a birth tourism panic is fascinating. It *is* true that some people come to the United States specifically to have a kid. It's just never really affected the average American in any way!",
-   "link": "https://bsky.app/profile/daveweigel.bsky.social/post/3mplivdlox22t",
-   "summary": "",
-   "source": "@daveweigel",
-   "category": "trump_bsky",
-   "published": "2026-07-01T12:20:12.549+00:00",
+   "id": "374135fc14f9",
+   "title": "WaPo Reporter Reveals Legally ‘Dubious’ Way Trump Forced Through a No-Bid Contract for His Ballroom",
+   "link": "https://www.mediaite.com/media/tv/wapo-reporter-reveals-legally-dubious-way-trump-forced-through-a-no-bid-contract-for-his-ballroom/",
+   "summary": "“And they've used this very tiny office to contract the entire demolition and construction of the East Wing, rather than using these agencies that have big contracting operations\" The post WaPo Reporter Reveals Legally ‘Dubious’ Way Trump Forced Through a No-Bid Contract for His Ballroom first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T15:17:51+00:00",
    "iran_topic": false
   },
   {
-   "id": "e135103aea82",
-   "title": "fucking republicans think that scotus (barely) upholding the 14th amend., established and utterly clear constitutional law since 1868, is somehow an immediate crisis that will lead to the downfall of the country",
-   "link": "https://bsky.app/profile/tomtomorrow.bsky.social/post/3mplin5dxs22k",
+   "id": "4e15ef4984fa",
+   "title": "so like....jesus and the apostles?",
+   "link": "https://bsky.app/profile/duckvalentine.bsky.social/post/3mplsr36rxc2b",
    "summary": "",
-   "source": "@tomtomorrow",
+   "source": "@duckvalentine",
    "category": "trump_bsky",
-   "published": "2026-07-01T12:15:37.568+00:00",
+   "published": "2026-07-01T15:16:46.938+00:00",
    "iran_topic": false
   },
   {
-   "id": "99998160b499",
-   "title": "Randy Fine. On Newsmax. Warning against “crazy people” taking over the Republican Party Y’all, I haven’t even had my coffee yet",
-   "link": "https://bsky.app/profile/phillipanderson.bsky.social/post/3mplih2lvz22n",
+   "id": "1b84add4a11f",
+   "title": "The World Cup goalie turned anti-gambling campaigner",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/peter-shilton-anti-gambling-eu-budget-fifa-world-cup-00983548",
+   "summary": "Former England stopper Peter Shilton wants the EU to bring in an online gambling tax.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T15:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a8b9292f5017",
+   "title": "‘You Sound Pretty Angry’: CNBC Anchor Left Stunned as Palantir CEO Blows His Stack During Wild Interview",
+   "link": "https://www.mediaite.com/media/tv/you-sound-pretty-angry-cnbc-anchor-left-stunned-as-palantir-ceo-blows-his-stack-during-wild-interview/",
+   "summary": "Karp launched into a sprawling broadside on the AI industry as he argued that enterprise and government clients had lost confidence in top AI model developers. The post ‘You Sound Pretty Angry’: CNBC Anchor Left Stunned as Palantir CEO Blows His Stack During Wild Interview first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T15:09:54+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fff0e7e76605",
+   "title": "Why does he look like he just came out of the Chernobyl reactor core?",
+   "link": "https://bsky.app/profile/schooley.bsky.social/post/3mplsbb2kns2g",
    "summary": "",
-   "source": "@phillipanderson",
+   "source": "@schooley",
    "category": "trump_bsky",
-   "published": "2026-07-01T12:12:13.355+00:00",
+   "published": "2026-07-01T15:07:56.220+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3f771d224e0b",
+   "title": "Buddy that is the most Catholic demo on earth",
+   "link": "https://bsky.app/profile/gonebabygone.bsky.social/post/3mplrzrhlv22p",
+   "summary": "",
+   "source": "@gonebabygone",
+   "category": "trump_bsky",
+   "published": "2026-07-01T15:03:44.989+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "267b2446eed8",
+   "title": "Trump will skip US match",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/trump-skip-us-match-lutnick-giuliani-00983720",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T15:02:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4e561ec30a80",
+   "title": "Fox’s Stuart Varney Warns Conservatives Socialists Will Win in November With ‘Tax the Rich’ Campaign",
+   "link": "https://www.mediaite.com/media/news/foxs-stuart-varney-warns-conservatives-socialists-will-win-in-november-with-tax-the-rich-campaign/",
+   "summary": "Stuart Varney warns conservative voters that the Democratic Socialists of America will win elections this November on a \"tax the rich\" campaign. The post Fox’s Stuart Varney Warns Conservatives Socialists Will Win in November With ‘Tax the Rich’ Campaign first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T15:01:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "026035a7255d",
+   "title": "People connected to the Trump White House are using their connections to advocate for pardons — in exchange for a fee: \"It is general knowledge in our practice that for $2 million, you can have a pardon,\" one prominent white-collar defense attorney said.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mplrkp22vs2b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:55:19.131+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e2515c158034",
+   "title": "Donald Trump made more money last year than ever before in his life. That's thanks to his failure to separate himself from his business (which is expanding abroad), cryptocurrency schemes and literally selling access to the presidency.",
+   "link": "https://bsky.app/profile/citizensforethics.org/post/3mplrbhbknk26",
+   "summary": "",
+   "source": "@citizensforethics",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:50:08.998+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5892f32a348f",
+   "title": "Adam Carolla Snaps on Biden for Attacking Trump Over Reflecting Pool: ‘You, Old Man, Let in 15 Million People!’",
+   "link": "https://www.mediaite.com/politics/adam-carolla-snaps-on-biden-for-attacking-trump-over-reflecting-pool-you-old-man-let-in-15-million-people/",
+   "summary": "Adam Carolla said he doesn't want to hear a damn thing from ex-President Joe Biden on President Donald Trump's revamp of the Lincoln Memorial Reflecting Pool. The post Adam Carolla Snaps on Biden for Attacking Trump Over Reflecting Pool: ‘You, Old Man, Let in 15 Million People!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:45:58+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8c230cc7f9c6",
+   "title": "OK, totally not the point but this host's makeup artist clearly does not like her very much.",
+   "link": "https://bsky.app/profile/stevemullis.net/post/3mplqzqogzk2h",
+   "summary": "",
+   "source": "@stevemullis",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:45:50.423+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b850ff98895a",
+   "title": "so will every woman now have to pee in a cup at airports?",
+   "link": "https://bsky.app/profile/sarahposner.bsky.social/post/3mplqp4xwlc2g",
+   "summary": "",
+   "source": "@sarahposner",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:39:54.217+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dd11a0b54112",
+   "title": "Trump Chief Hassett Blames Strait of Hormuz Problems on ‘Guys Living in Caves’",
+   "link": "https://www.mediaite.com/media/news/trump-chief-hassett-blames-strait-of-hormuz-problems-on-guys-living-in-caves/",
+   "summary": "Bartiromo asked Kevin Hassett, the U.S. Director of the National Economic Council, for an update on the Strait of Hormuz. The post Trump Chief Hassett Blames Strait of Hormuz Problems on ‘Guys Living in Caves’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:38:46+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "7cd8bda09236",
+   "title": "‘Civilians Are Going to Die’: Bill O’Reilly Predicts Trump Will Launch ‘Big Time’ Attack on Iran",
+   "link": "https://www.mediaite.com/media/civilians-are-going-to-die-bill-oreilly-predicts-trump-will-launch-big-time-attack-on-iran/",
+   "summary": "Bill O'Reilly predicted President Donald Trump will soon launch a \"big time\" military campaign against Iran that will result in the deaths of many civilians. The post ‘Civilians Are Going to Die’: Bill O’Reilly Predicts Trump Will Launch ‘Big Time’ Attack on Iran first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:33:31+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "b2dbf6a14d84",
+   "title": "NEWSNATION: Iran is still firing at us. Do you worry that Iran isn't as decimated as the White House claims? REP. TONY WIED: They really have nothing left militarily NN: But they launched missiles at the beginning of the week, sir WIED: Certainly a difficult situation, but I trust the president",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplqa6kqdt26",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:31:32.551+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "605c5da7bd75",
+   "title": "JD Vance Says Dems Should Work With GOP to Lower Housing, Gas Prices Despite Bipartisan Support of Bill Trump Refuses to Sign",
+   "link": "https://www.mediaite.com/media/news/jd-vance-says-dems-should-work-with-gop-to-lower-housing-gas-prices-despite-bipartisan-support-of-bill-trump-refuses-to-sign/",
+   "summary": "Vice President JD Vance told Fox News' Laura Ingraham he \"would love it\" if Democrats worked with the GOP on affordability instead of pushing \"communism.\" The post JD Vance Says Dems Should Work With GOP to Lower Housing, Gas Prices Despite Bipartisan Support of Bill Trump Refuses to Sign first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:26:46+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f559b8aadce",
+   "title": "NEW: Susan Collins Leads Graham Platner in First Major Poll",
+   "link": "https://www.mediaite.com/politics/new-susan-collins-leads-graham-platner-in-first-major-poll/",
+   "summary": "Polling in the race in May showed Platner with a lead of anywhere between 7 and 9 points, which tightened significantly in late June The post NEW: Susan Collins Leads Graham Platner in First Major Poll first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:26:30+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "30737e3dcd1f",
+   "title": "he's such a bizarre character",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplpszuizs2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:24:11.436+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ae4fd83336df",
+   "title": "Melania Trump senior adviser Marc Beckman: \"This is the most active, the most productive, the most direct vision of a First Lady I think in the history of America\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplpnkn7gs2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:21:07.696+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b664611785ba",
+   "title": "Curtis Sliwa Torches Dave Portnoy for Saying He’d Run Against Mamdani for Mayor: ‘Not Gonna Get One Freakin’ Vote!’",
+   "link": "https://www.mediaite.com/politics/curtis-sliwa-torches-dave-portnoy-for-saying-hed-run-against-mamdani-for-mayor-not-gonna-get-one-freakin-vote/",
+   "summary": "New York politician Curtis Sliwa believes Barstool Sports founder Dave Portnoy would get crushed in an election against Mayor Zohran Mamdani. The post Curtis Sliwa Torches Dave Portnoy for Saying He’d Run Against Mamdani for Mayor: ‘Not Gonna Get One Freakin’ Vote!’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:20:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0826680b9dfe",
+   "title": "1. Mike Collins ad funded with $400,000 of public funds from his House office account",
+   "link": "https://bsky.app/profile/juddlegum.bsky.social/post/3mplpmlz27c2w",
+   "summary": "",
+   "source": "@juddlegum",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:20:35.577+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4c2f0958686e",
+   "title": "CNN Data Guru Dumps Ice Cold Water on Democrats’ Senate Hopes: ‘The Math, Simply Put, Isn’t There’",
+   "link": "https://www.mediaite.com/media/tv/cnn-data-guru-dumps-ice-cold-water-on-democrats-senate-hopes-the-math-simply-put-isnt-there/",
+   "summary": "CNN's Harry Enten dropped bad news on Democrats, breaking down the simple \"math problem\" that could keep them from gaining control of the Senate. The post CNN Data Guru Dumps Ice Cold Water on Democrats’ Senate Hopes: ‘The Math, Simply Put, Isn’t There’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T14:18:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "00744dc485df",
+   "title": "Mullin: I 'danced a happy dance' when Iran got knocked out",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/dhs-mullin-iran-tijuana-happy-dance-00982768",
+   "summary": "Inside Homeland Security's Tijuana gambit to keep a team at arm's length.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T14:16:00+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "f1de1603e8eb",
+   "title": "Trump's lawyers asked for E. Jean Carroll's consent to delay the $5 million awarded to her. Carroll's lawyer, Roberta Kaplan, informed Trump's team that \"Carroll does not consent.\" Kaplan says Carroll wants the immediate disbursement of the funds she has waited years to receive.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mplpdeo3k22y",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:15:25.888+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8076f26ab2c6",
+   "title": "Rep. Sheri Biggs: \"I think Iran is a very complex situation, and I believe their actions speak a lot louder than their words. So I've been kind of sitting on the sidelines waiting to see how this plays out, but I applaud the president.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplpa3tops2s",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:13:35.971+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "660dfa848bd6",
+   "title": "No one - and I mean no one - realistically believes he has no role in how his investments are being handled.",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mplosjw4tc2h",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:06:00.969+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "62140d27a466",
+   "title": "What's the point of even being President if you can't profit off it?",
+   "link": "https://bsky.app/profile/missingthept.bsky.social/post/3mplor2uzqk25",
+   "summary": "",
+   "source": "@missingthept",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:05:11.651+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "450c25dc2669",
+   "title": "FOX NEWS: The money Trump has made while in office -- there's also a story about his sons making money off a deal in Kazakhstan. What's the White House's response? WH SPOX ANNA KELLY: Americans wanted a businessman in office. He's had a tremendously successful career.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplooahou22q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:03:36.827+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e429f1db1610",
+   "title": "Trump Reveals He told Acting DNI Bill Pulte to ‘Declassify Whatever You Want’",
+   "link": "https://www.mediaite.com/media/news/trump-reveals-he-told-acting-dni-bill-pulte-to-declassify-whatever-you-want/",
+   "summary": "Trump signalled he'd given Pulte sweeping authority to decide on declassification while the intelligence chief serves in the role temporarily. The post Trump Reveals He told Acting DNI Bill Pulte to ‘Declassify Whatever You Want’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T13:55:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8e104191b4c7",
+   "title": "WH spox Abigail Jackson: \"Another option we're going to be pursuing is keeping the border closed and ramping up deportations, getting people out of the country who have no legal right to be there before they can have a child that anchors them to this country.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplo2ll7dj2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:52:37.387+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13d4d682808a",
+   "title": "White House spox Abigail Jackson: \"The administration feels that the Supreme Court has fundamentally misinterpreted the intent of the 14th Amendment\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplnux2ahr25",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:49:28.088+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "681e4e633312",
+   "title": "My God. The fear.",
+   "link": "https://bsky.app/profile/jbf1755.bsky.social/post/3mplntgvmds2m",
+   "summary": "",
+   "source": "@jbf1755",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:48:37.618+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5e53ed0d8ad6",
+   "title": "Pride (in the game of love)",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/uk-pride-england-win-politico-poll-00983564",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T13:46:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e0d7edcff746",
+   "title": "Source: It came to him in a dream.",
+   "link": "https://bsky.app/profile/nofirstorder.bsky.social/post/3mplniodckc2v",
+   "summary": "",
+   "source": "@nofirstorder",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:42:36.310+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "811d50af18f2",
+   "title": "John Kennedy Cracks Up Theo Von With Wild Joke: ‘I Might Get in Trouble for Saying That’",
+   "link": "https://www.mediaite.com/media/podcasts/john-kennedy-cracks-up-theo-von-with-wild-joke-i-might-get-in-trouble-for-saying-that/",
+   "summary": "Sen. John Kennedy (R-LA) turned the tables on Theo Von and had the comic/podcast host cracking up on his show on Wednesday morning. The post John Kennedy Cracks Up Theo Von With Wild Joke: ‘I Might Get in Trouble for Saying That’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T13:37:31+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "58877c084f0b",
+   "title": "No. You're not confused. This is abuser speak.",
+   "link": "https://bsky.app/profile/adelpreore.bsky.social/post/3mpln6xf4cc27",
+   "summary": "",
+   "source": "@adelpreore",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:37:10.262+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0dd7677063b5",
+   "title": "Are they gonna make women pee in a cup at the airport? Or just eyeball it based on her body?",
+   "link": "https://bsky.app/profile/lebassett.bsky.social/post/3mpln3vkohs2p",
+   "summary": "",
+   "source": "@lebassett",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:35:27.684+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e2e4f261baf0",
+   "title": "Trump Bluntly Confronted About Financial Dealings After Disclosing $1.4B in Crypto Cash: ‘Critics Say You’re Profiting Off the Presidency’",
+   "link": "https://www.mediaite.com/media/news/trump-bluntly-confronted-about-financial-dealings-after-disclosing-1-4b-in-crypto-cash-critics-say-youre-profiting-off-the-presidency/",
+   "summary": "President Donald Trump was confronted, Wednesday, about the $1.4 billion he raked in from his family’s cryptocurrency businesses last year. The post Trump Bluntly Confronted About Financial Dealings After Disclosing $1.4B in Crypto Cash: ‘Critics Say You’re Profiting Off the Presidency’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T13:32:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9e883ea926f5",
+   "title": "NBC Exclusive: A White House task force has been gathering thousands of pages of documents from intelligence agencies — with plans to declassify some of them — so Trump can amplify new disinformation about past elections, three people familiar with the effort said.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mplmbbhuf22p",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:20:34.204+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dc57b062324a",
+   "title": "Palantir CEO Alex Karp after a TV hit so bonkers he should probably be hauled out of the studio in a straightjacket: \"I feel like I'm gonna get kicked out of the room! We're off camera now?\" (They were still on camera.)",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplm4pnnm52q",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:18:01.287+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99a8be797b66",
+   "title": "\"This is the voice of American business, being channeled through me\" man, we really need to rip up those contracts",
+   "link": "https://bsky.app/profile/jwjones252.bsky.social/post/3mplm42kbps26",
+   "summary": "",
+   "source": "@jwjones252",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:17:39.172+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fc01d233bf5f",
+   "title": "Fox voted into henhouse",
+   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3mpllzeheik2o",
+   "summary": "",
+   "source": "@grudgie",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:16:08.897+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c6f0712f4c92",
+   "title": "In Germany, everything looks like a crisis of governance",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/germany-soccer-institution-crisis-governance-00982868",
+   "summary": "A soccer team is not the only national institution failing to live up to expectations.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T13:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cec277d2b771",
+   "title": "White House Task Force Gathering Thousands of Intelligence Documents to Boost Trump Election Fraud Claims: Report",
+   "link": "https://www.mediaite.com/media/news/white-house-task-force-gathering-thousands-of-intelligence-documents-to-boost-trump-election-fraud-claims-report/",
+   "summary": "A White House task force is reportedly gathering documents from intelligence agencies so President Trump can \"amplify new accusations\" about election fraud. The post White House Task Force Gathering Thousands of Intelligence Documents to Boost Trump Election Fraud Claims: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T13:13:52+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7eb7c719a359",
+   "title": "CNBC host Rebecca Quick to a crazed-sounding, incoherent, ranting Palantir CEO Alex Karp: \"You sound pretty angry\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpllshnkc526",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:12:17.350+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ccccf511e1a7",
+   "title": "Mike Davis Demands Trump Admin Deport Pregnant Women ‘the Hell Out of our Country’ Over Birthright Ruling",
+   "link": "https://www.mediaite.com/media/podcasts/mike-davis-demands-trump-admin-deport-pregnant-women-the-hell-out-of-our-country-over-birthright-ruling/",
+   "summary": "Mike Davis demanded deporting \"pregnant women and women who could be pregnant\" out of the country after the Supreme Court's birthright citizenship ruling. The post Mike Davis Demands Trump Admin Deport Pregnant Women ‘the Hell Out of our Country’ Over Birthright Ruling first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T13:09:29+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b91d8d8617f3",
+   "title": "Palantir CEO Alex Karp: \"Are we really gonna outsource the battlefield of this country to the consensus view in Silicon Valley? That is f'n insane ... it gets outsourced to the neurodivergent crazy person that apparently is on drugs -- the one thing I don't do.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplliff2g52a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T13:06:39.429+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c0cc203c054a",
+   "title": "House Republican Who Vanished for Months on Taxpayer’s Dime Voted Against Paid Sick Leave: Report",
+   "link": "https://www.mediaite.com/media/news/house-republican-who-vanished-for-months-on-taxpayers-dime-voted-against-paid-sick-leave-report/",
+   "summary": "A New Jersey Congressman who claimed he was absent from the job for four months due to depression has voted against paid sick leave, according to a report. The post House Republican Who Vanished for Months on Taxpayer’s Dime Voted Against Paid Sick Leave: Report first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T12:54:56+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a076abafb80c",
+   "title": "Stephen Miller Says U.S. Should ‘Take a Hard Look’ at Banning Pregnant Tourists",
+   "link": "https://www.mediaite.com/media/stephen-miller-says-u-s-should-take-a-hard-look-at-banning-pregnant-tourists/",
+   "summary": "Stephen Miller told Fox News' Jesse Watters the U.S. should \"take a hard look at\" banning pregnant visitors in a bid to end birth tourism. The post Stephen Miller Says U.S. Should ‘Take a Hard Look’ at Banning Pregnant Tourists first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T12:43:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "c15add30acd6",
+   "title": "Trump Mourns Village People Singer While Taking Credit for Making ‘YMCA’ a Hit Again",
+   "link": "https://www.mediaite.com/media/news/trump-mourns-village-people-singer-while-taking-credit-for-making-ymca-a-hit-again/",
+   "summary": "Trump described Willis as an early supporter of his campaign events and said the band's signature anthem found a new audience because of its use at his rallies. The post Trump Mourns Village People Singer While Taking Credit for Making ‘YMCA’ a Hit Again first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T12:36:52+00:00",
    "iran_topic": false
   },
   {
@@ -415,166 +895,6 @@
    "iran_topic": true
   },
   {
-   "id": "d23435a3af72",
-   "title": "Agriculture Secretary Brooke Rollins: \"In all things Donald Trump, everything as we know is better and better\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplica2vtm2j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T12:09:31.305+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3e2b58b85508",
-   "title": "Rep. Randy Fine: \"We gotta fight in my party, in the Republican Party, to not let crazy people take over\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpli76ejmp22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T12:07:48.858+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "be82ab3ace09",
-   "title": "Rep. Randy Fine accuses SCOTUS of \"facilitating the invasion of this country,\" adding that \"we're gonna have to reduce immigration of all kinds, bc if we say that once you get off the plane & hide for a while and you have a baby that baby is American, we're not gonna be able to let people come here\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpli5hzhwx2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T12:06:51.870+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d953bdbbce10",
-   "title": "The federal government was a party in 21 of the 56 merits cases #SCOTUS decided this term. All three Democratic appointees sided with the government in five of those 21 cases, and Justices Kagan and Sotomayor sided with the government in a sixth.",
-   "link": "https://bsky.app/profile/stevevladeck.bsky.social/post/3mplhpy23rs2h",
-   "summary": "",
-   "source": "@stevevladeck",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:59:18.924+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d48b4649eb7c",
-   "title": "There were 2 major defeats of the Confederacy and its pro-slavery rebellion. One was on the battlefield. The other is called the \"Reconstruction Amendments\", 13, 14 & 15, passed to undo the Confederacy's power. The 6 Supes are Neo-Confederates working to reverse those Reconstruction Amendments.",
-   "link": "https://bsky.app/profile/enbuenora.bsky.social/post/3mplhpg6kps25",
-   "summary": "",
-   "source": "@enbuenora",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:59:00.195+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4d9839bfe4a0",
-   "title": "Markwayne Mullin claims Biden is responsible for \"deaths that are happening at an unprecedented pace at the hands of illegals\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplhno4jsw27",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:58:01.394+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ad3979a4b547",
-   "title": "DHS Secretary Markwayne Mullin claims Chinese women are traveling to the United States with \"one week\" left in their pregnancy to give birth",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplhmouht425",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:57:28.624+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "550df883a5c7",
-   "title": "Brian Kilmeade suggests to an agreeing DHS Secretary Markwayne Mulling that pregnant foreign women should be barred from traveling to the United States",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplhkkar6527",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:56:16.676+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "52ffdf916100",
-   "title": "Trump on \"YMCA\": \"It became a 'monster' hit, again, 30 years after its original launch\" (\"YMCA\" was released 48 years ago ... )",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplh6ctdg22a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:49:26.256+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a74e69d69738",
-   "title": "Hassett: \"Once those factories are complete, then they're gonna have to turn on the lights, plug in the machines, and hire the workers. Right now it's just a little bit underway and it'll be roaring by the second half of the year.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplgx4glho2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:45:24.651+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "118f989d49ba",
-   "title": "Hassett on the Supreme Court's three liberal justices: \"It can't be that Trump is always wrong. It can't be that Trump is always wrong, but that's how they voted.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplgv3ahlk24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:44:16.293+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b4df3751e56d",
-   "title": "Kevin Hassett says he expects 4% GDP growth in the second half of 2026",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplgnte3ho2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:40:13.143+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "dcf1bb7865e2",
-   "title": "Hassett: \"One of the ways to think about the straits is that there are a bunch of guys living in caves that live in the straits that may or may not be in steady communication with the people we are negotiating with, who have stuff little better than a rubber band they can shoot at a boat\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplglodtnw2j",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:39:00.783+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7422665f818d",
-   "title": "Birthright Citizenship fight isn’t over. What happened at the Supreme Court yesterday is a harbinger of an intense fight needed to protect our Constitution, Lisa Needham argues in today’s Public Notice. An absolute must read. @atrupar.com",
-   "link": "https://bsky.app/profile/sholahoon.bsky.social/post/3mplg3ve2dc25",
-   "summary": "",
-   "source": "@sholahoon",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:30:11.273+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e674f1dca431",
-   "title": "Abortions for none! Forced transvaginal ultrasounds for all!",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mplfzpibfs23",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:28:58.011+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fa6748863fb8",
-   "title": "New in PN: A vote away from undoing the civil war \"The only role for a functional SCOTUS would have been to deny a cert request by saying, 'Did the lower court stutter?' Instead, we came within one vote of letting the worst people in the country run roughshod over one of America's sacred compacts.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mplfpvxilc2m",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T11:23:29.258+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "0151d1357328",
    "title": "Democratic Socialist Melat Kiros Vows to ‘Take the Fight to Donald Trump’ After Ousting 15-Term Incumbent",
    "link": "https://www.mediaite.com/media/news/democratic-socialist-melat-kiros-vows-to-take-the-fight-to-donald-trump-after-ousting-15-term-incumbent/",
@@ -583,26 +903,6 @@
    "category": "mediaite_all",
    "published": "2026-07-01T11:08:18+00:00",
    "iran_topic": true
-  },
-  {
-   "id": "2e6ff30d843d",
-   "title": "Another 60 Minutes Veteran Exits Show With Apparent Swipe at Bari Weiss",
-   "link": "https://www.mediaite.com/media/news/another-60-minutes-veteran-exits-show-with-apparent-swipe-at-bari-weiss/",
-   "summary": "Schuster, who joined 60 Minutes in 2007 after a 25-year career at CNN, announced his departure in a LinkedIn post on Monday. The post Another 60 Minutes Veteran Exits Show With Apparent Swipe at Bari Weiss first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T10:54:57+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0297afe0526f",
-   "title": "Stephen Miller Rages Over SCOTUS Birthright Citizenship Reading If It Makes You ‘Suicide Your Civilization’",
-   "link": "https://www.mediaite.com/media/tv/stephen-miller-rages-over-scotus-birthright-citizenship-reading-if-it-makes-you-suicide-your-civilization/",
-   "summary": "Miller, a key architect of Trump’s national deportation policy, delivered a scorching tirade, rejecting the ruling outright as \"wrong.\" The post Stephen Miller Rages Over SCOTUS Birthright Citizenship Reading If It Makes You ‘Suicide Your Civilization’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T10:50:57+00:00",
-   "iran_topic": false
   },
   {
    "id": "0a4791152d7b",
@@ -655,76 +955,6 @@
    "iran_topic": false
   },
   {
-   "id": "d6c9f974e6c6",
-   "title": "Ossoff: \"We've see in just the last six months more than 300,000 Georgians lose their health insurance altogether. It's a disaster for health in Georgia. And Mike Collins, just like he voted for war and for tariffs, he voted for these healthcare cuts.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpkmvuivx622",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T03:59:25.494+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9342503b319d",
-   "title": "it's going to rule when he gets denied communion",
-   "link": "https://bsky.app/profile/theophite.bsky.social/post/3mpkmogxbgc2s",
-   "summary": "",
-   "source": "@theophite",
-   "category": "trump_bsky",
-   "published": "2026-07-01T03:55:16.421+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "9146f8e578c0",
-   "title": "Jesus wept.",
-   "link": "https://bsky.app/profile/jkfecke.bsky.social/post/3mpkml2q72s2l",
-   "summary": "",
-   "source": "@jkfecke",
-   "category": "trump_bsky",
-   "published": "2026-07-01T03:53:22.943+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0f0477cb862d",
-   "title": "Jeffrey Toobin Explains How the Supreme Court Allowed Trump To Become a Cryptocurrency Billionaire While President",
-   "link": "https://www.mediaite.com/media/tv/jeffrey-toobin-explains-how-the-supreme-court-allowed-trump-to-become-a-cryptocurrency-billionaire-while-president/",
-   "summary": "Former federal prosecutor Jeffrey Toobin explained that President Donald Trump's wildly profitable cryptocurrency ventures are legal, even as Trump oversees regulation – or lack thereof – of the crypto industry. The post Jeffrey Toobin Explains How the Supreme Court Allowed Trump To Become a Cryptocurrency Billionaire While President first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T03:41:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4badaaaf705",
-   "title": "there are very few religiously-related occurrences i want more than JD Vance's excommunication",
-   "link": "https://bsky.app/profile/snipy.bsky.social/post/3mpklm4f5az2k",
-   "summary": "",
-   "source": "@snipy",
-   "category": "trump_bsky",
-   "published": "2026-07-01T03:36:04.403+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "48164c01201d",
-   "title": "Thanks much!",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpklew456s2a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T03:32:03.024+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1af6f3c7b491",
-   "title": "JB Pritzker Claims Trump Is ‘Suffering From Dementia’ and Doesn’t ‘Really Understand What He’s Saying’",
-   "link": "https://www.mediaite.com/media/tv/jb-pritzker-claims-trump-is-suffering-from-dementia-and-doesnt-really-understand-what-hes-saying/",
-   "summary": "Illinois Governor JB Pritzker insisted that President Donald Trump is \"suffering from dementia\" and does not comprehend his own statements. The post JB Pritzker Claims Trump Is ‘Suffering From Dementia’ and Doesn’t ‘Really Understand What He’s Saying’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T02:52:26+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f3ff24248eca",
    "title": "WASHINGTON (AP) — Phil Weiser wins Democratic nomination for governor in Colorado.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpkgalvoqs24",
@@ -742,236 +972,6 @@
    "source": "@acyn",
    "category": "trump_bsky",
    "published": "2026-07-01T01:51:31.388+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5e9c89559e57",
-   "title": "CNN’s Paula Reid To Exit Ahead of Paramount Takeover: Report",
-   "link": "https://www.mediaite.com/media/news/cnns-paula-reid-to-exit-ahead-of-paramount-takeover-report/",
-   "summary": "CNN chief legal affairs correspondent Paula Reid will be exiting from the network ahead of a Paramount-Skydance takeover, according to new reports. The post CNN’s Paula Reid To Exit Ahead of Paramount Takeover: Report first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T01:49:40+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c572c916f0a7",
-   "title": "WASHINGTON (AP) — John Hickenlooper wins Democratic nomination for U.S. Senate in Colorado.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpkffrbgjc2h",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T01:45:09.057+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cef0634715c9",
-   "title": "Progressive Manny Rutinel wins primary in battleground Colorado House district",
-   "link": "https://www.politico.com/news/2026/06/30/rutinel-wins-colorado-house-primary-00983300",
-   "summary": "Rutinel bested moderate former state Rep. Shannon Bird and will take on GOP Rep. Gabe Evans in the 8th District in November.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-07-01T01:40:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eba860ac9e15",
-   "title": "WASHINGTON (AP) — Jena Griswold wins Democratic nomination for attorney general in Colorado.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpkf4qrkls2h",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T01:40:06.547+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "366ec1b10ae5",
-   "title": "Brawl Breaks Out at Fenway After White Pitcher Tells Venezuelan Batter, ‘Sit Down, Boy!’",
-   "link": "https://www.mediaite.com/media/sports/brawl-breaks-out-at-fenway-after-white-pitcher-tells-venezuelan-batter-sit-down-boy/",
-   "summary": "There was drama at Fenway Park on Tuesday after a Washington Nationals pitcher jawed at Boston Red Sox first baseman Willson Contreras, calling him \"boy.\" The post Brawl Breaks Out at Fenway After White Pitcher Tells Venezuelan Batter, ‘Sit Down, Boy!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T01:21:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "152614ac9bca",
-   "title": "All told, Trump pulled in at least $2.2 billion in 2025. That compares to a minimum of $622 million for all of 2024 — before he returned to the presidency.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpkce4zaac2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:50:33.038+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5161a6d4df16",
-   "title": "Vance Tells Fox News Viewers That Despite Ruling Against Trump, ‘We Have an Opportunity to Reverse This Decision’",
-   "link": "https://www.mediaite.com/media/tv/vance-tells-fox-news-viewers-that-despite-ruling-against-trump-we-have-an-opportunity-to-reverse-this-decision/",
-   "summary": "JD Vance claimed birthright citizenship is \"hanging by a thread\" and could still be reversed despite the Supreme Court ruling against President Trump. The post Vance Tells Fox News Viewers That Despite Ruling Against Trump, ‘We Have an Opportunity to Reverse This Decision’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T00:46:52+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2024a101085d",
-   "title": "Trump Discloses $1.4 Billion From His Cryptocurrency Businesses",
-   "link": "https://www.mediaite.com/media/news/trump-discloses-1-4-billion-from-his-cryptocurrency-businesses/",
-   "summary": "President Donald Trump brought in more than $1 billion from his family's crypto businesses last year, a new federal filing revealed this week. The post Trump Discloses $1.4 Billion From His Cryptocurrency Businesses first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T00:03:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "872a3e5f6e6c",
-   "title": "House Republican Brags About Eating Lobster Tail on July 4th and Tells Struggling Americans That ‘Maybe’ They ‘Don’t Work as Hard’ as Him",
-   "link": "https://www.mediaite.com/media/news/house-republican-brags-about-eating-lobster-tail-on-july-4th-and-tells-struggling-americans-that-maybe-they-dont-work-as-hard-as-him/",
-   "summary": "Troy Nehls bragged about the July 4 feast awaiting him and suggested Americans who can't afford such perks might just not be working as hard as him. The post House Republican Brags About Eating Lobster Tail on July 4th and Tells Struggling Americans That ‘Maybe’ They ‘Don’t Work as Hard’ as Him first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T23:30:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7e49aeabc63d",
-   "title": "‘I Am So, So Sorry’: NPR Reporter Apologizes to Samuel Alito Over Retracted Retirement Story",
-   "link": "https://www.mediaite.com/media/i-am-so-so-sorry-npr-reporter-apologizes-to-samuel-alito-over-retracted-retirement-story/",
-   "summary": "NPR legal affairs correspondent Nina Totenberg wrote an apology to Justice Samuel Alito after she published a report about his alleged retirement, which has since been retracted. On Tuesday, NPR briefly sent shockwaves through Washington, D.C., when it ran a story about Alito retiring. The piece was up for only a few minutes before being [&#8230;] The post ‘I Am So, So Sorry’: NPR Reporter Apologizes to Samuel Alito Over Retracted Retirement Story first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T23:27:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e949346b3e36",
-   "title": "BREAKING: Trump reported more than $1.4 billion in income from crypto, digital tokens and related partnerships in 2025 — appearing to have substantially increased his income after reentering the White House. www.washingtonpost.com/politics/202...",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpk4qtk4ec2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:10:16.862+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0eff9f1f2e79",
-   "title": "Federalist Co-Founder Floats ‘Dissolution of the Union’ in Unhinged Post After Trump Loses Birthright Citizenship Case",
-   "link": "https://www.mediaite.com/online/federalist-co-founder-floats-dissolution-of-the-union-in-unhinged-post-after-trump-loses-birthright-citizenship-case/",
-   "summary": "The Supreme Court's ruling in the birthright citizenship case sparked a notable reaction from the co-founder of a conservative website. The post Federalist Co-Founder Floats ‘Dissolution of the Union’ in Unhinged Post After Trump Loses Birthright Citizenship Case first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T22:57:05+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d4532d440a93",
-   "title": "NEW: A federal judge just ruled that the National Park Service cannot interfere with a protest group's ongoing demonstration featuring signs accusing Trump of sexual abuse and a flag with the caption '8647.'",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpk3oefp3c2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T22:51:00.137+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f717f1b4aee3",
-   "title": "Dan Abrams Calls Out Liberals Who Have Attacked Supreme Court as Illegitimate: They Again Showed They’re ‘Not in the Tank!’",
-   "link": "https://www.mediaite.com/politics/trump/dan-abrams-calls-out-liberals-who-have-attacked-supreme-court-as-illegitimate-they-again-showed-theyre-not-in-the-tank/",
-   "summary": "Mediaite founder Dan Abrams called out liberals who have attacked the Supreme Court as illegitimate after it dealt multiple blows to the Trump administration. The post Dan Abrams Calls Out Liberals Who Have Attacked Supreme Court as Illegitimate: They Again Showed They’re ‘Not in the Tank!’ first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-30T22:24:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f717f1b4aee3",
-   "title": "Dan Abrams Calls Out Liberals Who Have Attacked Supreme Court as Illegitimate: They Again Showed They’re ‘Not in the Tank!’",
-   "link": "https://www.mediaite.com/politics/trump/dan-abrams-calls-out-liberals-who-have-attacked-supreme-court-as-illegitimate-they-again-showed-theyre-not-in-the-tank/",
-   "summary": "Mediaite founder Dan Abrams called out liberals who have attacked the Supreme Court as illegitimate after it dealt multiple blows to the Trump administration. The post Dan Abrams Calls Out Liberals Who Have Attacked Supreme Court as Illegitimate: They Again Showed They’re ‘Not in the Tank!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T22:24:17+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a0ec1329d499",
-   "title": "Boebert Slams Fellow Republican Who Missed Months of Votes Due to Depression: ‘It’s Embarrassing’",
-   "link": "https://www.mediaite.com/politics/boebert-slams-fellow-republican-who-missed-months-of-votes-due-to-depression-its-embarrassing/",
-   "summary": "\"If you're depressed, okay, come in the back door, put your card in, vote, and leave. You don't have to talk to anybody.\" The post Boebert Slams Fellow Republican Who Missed Months of Votes Due to Depression: ‘It’s Embarrassing’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T22:01:59+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5163c41c3ed0",
-   "title": "Mike Lawler Brands Democratic Lawmakers ‘F*cking A**holes’ After Explosive Hearing Fight",
-   "link": "https://www.mediaite.com/media/tv/mike-lawler-brands-democratic-lawmakers-fcking-aholes-after-explosive-hearing-fight/",
-   "summary": "Rep. Mike Lawler (R-NY) let loose after an explosive hearing battle, calling Reps. Jamie Raskin (D-MD) and Pramila Jayapal (D-WA) \"f*cking a**holes\" afterwards. The post Mike Lawler Brands Democratic Lawmakers ‘F*cking A**holes’ After Explosive Hearing Fight first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T21:55:28+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e0f2407427f2",
-   "title": "CNN Guest Warns Birthright Debate Isn’t Over: Every ‘GOP Candidate Is Going to Run On’ It",
-   "link": "https://www.mediaite.com/media/news/alex-thompson-birthright-debate-not-over-2026-midterms/",
-   "summary": "Axios' Alex Thompson warned CNN viewers the debate about birthright citizenship is far from over, and that the topic will be a big one during the 2026 midterms. The post CNN Guest Warns Birthright Debate Isn’t Over: Every ‘GOP Candidate Is Going to Run On’ It first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T21:53:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3f11eb3b7ffc",
-   "title": "MTG Reveals She’s ‘In Talks’ to Launch ‘True America-Focused’ Third Party",
-   "link": "https://www.mediaite.com/politics/mtg-reveals-shes-in-talks-to-launch-true-america-focused-third-party/",
-   "summary": "Marjorie Taylor Greene revealed she is \"in talks\" to launch a \"true America-Focused\" political party, one week after she announced she was ditching the GOP. The post MTG Reveals She’s ‘In Talks’ to Launch ‘True America-Focused’ Third Party first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T21:42:39+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e488164c2db0",
-   "title": "‘Pure Anti-Semitism’: Progressive Podcaster Goes Off On Activists Who Shouted Down Scott Weiner",
-   "link": "https://www.mediaite.com/media/podcasts/pure-anti-semitism-progressive-podcaster-goes-off-on-activists-who-shouted-down-scott-weiner/",
-   "summary": "“If you're following Scott Wiener around, yelling at him in this park... it is because you are being anti-Semitic. You are an anti-Semite.\" The post ‘Pure Anti-Semitism’: Progressive Podcaster Goes Off On Activists Who Shouted Down Scott Weiner first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T21:21:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "897726df2a89",
-   "title": "‘Wow On a Number of Levels’: CNN Plays Supercut of MAGA Influencers Raging At John Roberts",
-   "link": "https://www.mediaite.com/politics/wow-on-a-number-of-levels-cnn-plays-supercut-of-maga-influencers-raging-at-john-roberts/",
-   "summary": "CNN put together a supercut of conservatives bashing the Supreme Court for ruling against President Donald Trump on birthright citizenship on Tuesday The post ‘Wow On a Number of Levels’: CNN Plays Supercut of MAGA Influencers Raging At John Roberts first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T21:11:35+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "307d1c0fd06b",
-   "title": "Mullin says he 'did a happy dance' after Iran's World Cup exit",
-   "link": "https://www.politico.com/news/2026/06/30/mullin-says-he-did-a-happy-dance-after-irans-world-cup-exit-00982171",
-   "summary": "The secretary said no World Cup delegation demanded more attention from U.S. officials than Iran, alleging the country attempted to bring individuals with ties to the IRGC into the country.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-06-30T21:09:15+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d05e2e30fedc",
-   "title": "BREAKING: A federal judge just ordered the Pentagon to temporarily lift the requirement that all journalists visiting the building be accompanied by an official escort. The decision was another rebuke to the Trump admin's efforts to restrict reporters who cover the Department of Defense.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjungyvf22j",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T20:45:13.116+00:00",
    "iran_topic": false
   }
  ]
