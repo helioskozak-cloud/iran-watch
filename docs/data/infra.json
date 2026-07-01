@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-01T03:34:13.782093+00:00",
+ "generated": "2026-07-01T08:10:23.323758+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 73.26,
-   "change": 0.11,
-   "change_pct": 0.15,
+   "price": 72.93,
+   "change": 0.01,
+   "change_pct": 0.01,
    "spark": [
-    75.26000213623047,
     71.98999786376953,
     73.1500015258789,
-    73.26000213623047
+    72.91999816894531,
+    72.93000030517578
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 69.82,
-   "change": -0.93,
-   "change_pct": -1.31,
+   "price": 69.39,
+   "change": -0.11,
+   "change_pct": -0.16,
    "spark": [
-    71.91999816894531,
     69.2300033569336,
     70.75,
-    69.81999969482422
+    69.5,
+    69.38999938964844
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3995.4,
-   "change": -26.9,
-   "change_pct": -0.67,
+   "price": 3987.8,
+   "change": -35.1,
+   "change_pct": -0.87,
    "spark": [
-    4030.5,
     4078.699951171875,
     4022.300048828125,
-    3995.39990234375
+    4022.89990234375,
+    3987.800048828125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.32,
-   "change": 0.21,
-   "change_pct": 0.21,
+   "price": 101.33,
+   "change": 0.14,
+   "change_pct": 0.14,
    "spark": [
-    101.43000030517578,
     101.36000061035156,
     101.11000061035156,
-    101.3239974975586
+    101.19000244140625,
+    101.3270034790039
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.45,
-   "change": -1.2,
-   "change_pct": -6.8,
+   "price": 17.08,
+   "change": 0.63,
+   "change_pct": 3.83,
    "spark": [
-    18.6299991607666,
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
-    16.450000762939453
+    16.450000762939453,
+    17.079999923706055
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.25,
-   "change": 0.07,
-   "change_pct": 2.04,
+   "price": 3.24,
+   "change": -0.04,
+   "change_pct": -1.13,
    "spark": [
-    3.3429999351501465,
     3.2309999465942383,
     3.180999994277954,
-    3.246000051498413
+    3.2750000953674316,
+    3.23799991607666
    ]
   }
  },
@@ -216,53 +216,67 @@
  ],
  "incidents": [
   {
-   "title": "Rift between Iranian President and IRGC grows, threatens to harm US-Iran talks - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-901020",
-   "source": "Jerusalem Post",
-   "published": "2026-07-01T04:05:18+00:00",
-   "severity": "low"
-  },
-  {
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.162304+00:00",
+   "published": "2026-07-01T08:09:43.635780+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.160640+00:00",
+   "published": "2026-07-01T08:09:43.634202+00:00",
    "severity": "info"
   },
   {
    "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
    "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.157112+00:00",
+   "published": "2026-07-01T08:09:43.630981+00:00",
    "severity": "info"
   },
   {
    "title": "Management of Strait of Hormuz solely Iran’s responsibility: Senior MP",
    "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.156424+00:00",
+   "published": "2026-07-01T08:09:43.630347+00:00",
    "severity": "info"
   },
   {
    "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
    "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.155659+00:00",
+   "published": "2026-07-01T08:09:43.629652+00:00",
    "severity": "info"
   },
   {
    "title": "Strait of Hormuz Iran's greatest source of leverage; no retreat on sovereign rights: Parl. speaker",
    "link": "https://presstv.ir/Detail/2026/06/30/771383/Iran-Strait-of-Hormuz-United-States-talks-Qalibaf-Israel-Lebanon-nuclear-military",
    "source": "Press TV",
-   "published": "2026-07-01T03:33:38.154905+00:00",
+   "published": "2026-07-01T08:09:43.628951+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Asian shares are trading mixed, as uncertainty remained about the war in Iran and access to the crucial Strait of Hormuz despite an initial U.S.-Iran deal.",
+   "link": "https://bsky.app/profile/apnews.com/post/3mpkyou53oa2s",
+   "source": "@apnews",
+   "published": "2026-07-01T07:30:15+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
+   "link": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
+   "source": "IRNA",
+   "published": "2026-07-01T07:05:16+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Rift between Iranian President Pezeshkian, IRGC grows, threatens to harm US-Iran talks - report",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-901020",
+   "source": "Jerusalem Post",
+   "published": "2026-07-01T04:05:18+00:00",
+   "severity": "low"
   },
   {
    "title": "Indian sailors fear returning to Gulf after Middle East war",
@@ -286,6 +300,13 @@
    "severity": "high"
   },
   {
+   "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-07-01T00:00:09+00:00",
+   "severity": "low"
+  },
+  {
    "title": "Trump's envoys head to Doha as Iran pushes toll plan for Strait of Hormuz shipping",
    "link": "https://www.jpost.com/middle-east/iran-news/article-901001",
    "source": "Jerusalem Post",
@@ -298,55 +319,34 @@
    "source": "Jerusalem Post",
    "published": "2026-06-30T18:20:04+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iran and U.S.-allied Oman are moving forward with plans to collect payment for ships transiting the Strait of Hormuz, despite public U.S. objections, according to an Iranian official and four diplomats with knowledge of the matter.",
-   "link": "https://bsky.app/profile/nytimes.com/post/3mpjmjthgor24",
-   "source": "@nytimes",
-   "published": "2026-06-30T18:20:01.974601+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Setting the rules of ownership in the Strait of Hormuz",
-   "link": "https://www.tehrantimes.com/news/527793/Setting-the-rules-of-ownership-in-the-Strait-of-Hormuz",
-   "source": "Tehran Times",
-   "published": "2026-06-30T17:31:00+00:00",
-   "severity": "critical"
-  },
-  {
-   "title": "The twilight of American empire in Persian Gulf",
-   "link": "https://www.tehrantimes.com/news/527792/The-twilight-of-American-empire-in-Persian-Gulf",
-   "source": "Tehran Times",
-   "published": "2026-06-30T17:27:23+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "ELEVATED",
+   "status": "WATCH",
    "incident_count": 12,
    "recent": [
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T03:33:38.162304+00:00",
+     "published": "2026-07-01T08:09:43.635780+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T03:33:38.160640+00:00",
+     "published": "2026-07-01T08:09:43.634202+00:00",
      "severity": "info"
     },
     {
      "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
      "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
      "source": "Press TV",
-     "published": "2026-07-01T03:33:38.157112+00:00",
+     "published": "2026-07-01T08:09:43.630981+00:00",
      "severity": "info"
     }
    ]
@@ -374,6 +374,86 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "9b531e56b1da",
+   "title": "Kiros: We will not wait to take the fight to Donald Trump and the oligarchy. We will not wait to abolish ICE and pass medicare for all. We will not wait to reject corporate pac's like AIPAC. No, we will not wait to end the genocide in Palestine",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpkotyhghv2r",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-07-01T04:34:09.908+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6bf8ed3a335f",
+   "title": "WASHINGTON (AP) — Melat Kiros wins Democratic nomination for U.S. House in Colorado's 1st Congressional District.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpkneq7nck2s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T04:07:44.329+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "adf9276d4998",
+   "title": "Democratic socialist Melat Kiros topples a nearly 30-year incumbent to win Colorado House primary",
+   "link": "https://www.politico.com/news/2026/07/01/kiros-wins-colorado-house-primary-00983237",
+   "summary": "The 29-year-old DSA-backed challenger ousted Rep. Diana DeGette, one of Colorado’s longest-serving Democrats, in the primary for the 1st District.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T04:04:45+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6c9f974e6c6",
+   "title": "Ossoff: \"We've see in just the last six months more than 300,000 Georgians lose their health insurance altogether. It's a disaster for health in Georgia. And Mike Collins, just like he voted for war and for tariffs, he voted for these healthcare cuts.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpkmvuivx622",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T03:59:25.494+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9342503b319d",
+   "title": "it's going to rule when he gets denied communion",
+   "link": "https://bsky.app/profile/theophite.bsky.social/post/3mpkmogxbgc2s",
+   "summary": "",
+   "source": "@theophite",
+   "category": "trump_bsky",
+   "published": "2026-07-01T03:55:16.421+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9146f8e578c0",
+   "title": "Jesus wept.",
+   "link": "https://bsky.app/profile/jkfecke.bsky.social/post/3mpkml2q72s2l",
+   "summary": "",
+   "source": "@jkfecke",
+   "category": "trump_bsky",
+   "published": "2026-07-01T03:53:22.943+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0f0477cb862d",
+   "title": "Jeffrey Toobin Explains How the Supreme Court Allowed Trump To Become a Cryptocurrency Billionaire While President",
+   "link": "https://www.mediaite.com/media/tv/jeffrey-toobin-explains-how-the-supreme-court-allowed-trump-to-become-a-cryptocurrency-billionaire-while-president/",
+   "summary": "Former federal prosecutor Jeffrey Toobin explained that President Donald Trump's wildly profitable cryptocurrency ventures are legal, even as Trump oversees regulation – or lack thereof – of the crypto industry. The post Jeffrey Toobin Explains How the Supreme Court Allowed Trump To Become a Cryptocurrency Billionaire While President first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T03:41:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d4badaaaf705",
+   "title": "there are very few religiously-related occurrences i want more than JD Vance's excommunication",
+   "link": "https://bsky.app/profile/snipy.bsky.social/post/3mpklm4f5az2k",
+   "summary": "",
+   "source": "@snipy",
+   "category": "trump_bsky",
+   "published": "2026-07-01T03:36:04.403+00:00",
+   "iran_topic": false
+  },
   {
    "id": "48164c01201d",
    "title": "Thanks much!",
@@ -665,16 +745,6 @@
    "iran_topic": false
   },
   {
-   "id": "7c67ef0ce9dc",
-   "title": "JD Vance criticizes Dems for not working on bipartisan housing legislation as Trump tanks bipartisan housing legislation",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpk5yq35hd2q",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:32:35.388+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "fb0fdb7a4614",
    "title": "Trump posted a picture of himself as Jesus. Not 100% sane.",
    "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mpk5wpfdvs2s",
@@ -692,36 +762,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-06-30T23:30:34+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3096248c92de",
-   "title": "JD Vance: “The only sane party left is the Republican Party”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpk5uhhzdc22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:30:12.144+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5f605e784f27",
-   "title": "🚨",
-   "link": "https://bsky.app/profile/erinmayequade.bsky.social/post/3mpk5s7g7722p",
-   "summary": "",
-   "source": "@erinmayequade",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:28:56.612+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3def131f9148",
-   "title": "Vance says Senate Republicans are too committed to norms to overturn the filibuster 🙃",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpk5qwmn7d24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:28:13.819+00:00",
    "iran_topic": false
   },
   {
@@ -905,16 +945,6 @@
    "iran_topic": false
   },
   {
-   "id": "319883d54552",
-   "title": "‘Stupid, Stupid, Stupid!’ Dershowitz Unloads on Birthright Citizenship Ruling, Still Believes It Could End",
-   "link": "https://www.mediaite.com/media/podcasts/stupid-stupid-stupid-dershowitz-unloads-on-birthright-citizenship-ruling-still-believes-it-could-end/",
-   "summary": "Alan Dershowitz called birthright citizenship \"stupid\" in response to the Supreme Court upholding the 14th Amendment with Tuesday's ruling. The post ‘Stupid, Stupid, Stupid!’ Dershowitz Unloads on Birthright Citizenship Ruling, Still Believes It Could End first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T20:16:42+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1a71ecffe6c9",
    "title": "Trump just met with election denier and convicted felon Tina Peters in the oval office.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjsymdl722w",
@@ -942,36 +972,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-06-30T18:45:18.551+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "253a13420fcd",
-   "title": "Sen. Jim Banks on banning birthright citizenship: \"President Trump said already today that we can do it through simple legislation, not a constitutional amendment.\" (Who wants to tell him ... )",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpjmwq53ok2e",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T18:27:14.747+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d92c6d88f56d",
-   "title": "BREAKING: The Supreme Court has agreed to decide whether states and local governments can ban semiautomatic rifles like the AR-15.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjhsaz57c2v",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T16:55:15.961+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b9b5949a6337",
-   "title": "Trump Demands Congress Overturn Birthright Citizenship ‘TODAY’ After Supreme Court Loss",
-   "link": "https://www.mediaite.com/politics/trump/trump-demands-congress-overturn-birthright-citizenship-today-after-supreme-court-loss/",
-   "summary": "President Donald Trump reacted to the Supreme Court striking down his executive order on birthright citizenship by demanding that Congress take action \"TODAY.\" The post Trump Demands Congress Overturn Birthright Citizenship ‘TODAY’ After Supreme Court Loss first appeared on Mediaite .",
-   "source": "Mediaite Trump",
-   "category": "mediaite",
-   "published": "2026-06-30T16:53:24+00:00",
    "iran_topic": false
   }
  ]
