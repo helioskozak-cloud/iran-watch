@@ -1,43 +1,43 @@
 {
- "generated": "2026-07-01T22:39:56.205434+00:00",
+ "generated": "2026-07-01T23:55:01.829291+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 71.09,
-   "change": -1.83,
-   "change_pct": -2.51,
+   "price": 71.15,
+   "change": -1.77,
+   "change_pct": -2.43,
    "spark": [
     71.98999786376953,
     73.1500015258789,
     72.91999816894531,
-    71.08999633789062
+    71.1500015258789
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 67.98,
-   "change": -1.52,
-   "change_pct": -2.19,
+   "price": 68.04,
+   "change": -1.46,
+   "change_pct": -2.1,
    "spark": [
     69.2300033569336,
     70.75,
     69.5,
-    67.9800033569336
+    68.04000091552734
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4050.6,
-   "change": 27.7,
-   "change_pct": 0.69,
+   "price": 4047.8,
+   "change": 24.9,
+   "change_pct": 0.62,
    "spark": [
     4078.699951171875,
     4022.300048828125,
     4022.89990234375,
-    4050.60009765625
+    4047.800048828125
    ]
   },
   "DX-Y.NYB": {
@@ -219,14 +219,21 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-01T22:39:18.813208+00:00",
+   "published": "2026-07-01T23:54:20.592375+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-01T22:39:18.811826+00:00",
+   "published": "2026-07-01T23:54:20.590686+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "From Breakingviews - Breakingviews - Tanker data is better Hormuz gauge than oil prices reut.rs/3QOutEO",
+   "link": "https://bsky.app/profile/reuters.com/post/3mpmp6erzjz2k",
+   "source": "@reuters",
+   "published": "2026-07-01T23:45:17+00:00",
    "severity": "info"
   },
   {
@@ -312,13 +319,6 @@
    "source": "Times of Israel",
    "published": "2026-07-01T13:46:41+00:00",
    "severity": "low"
-  },
-  {
-   "title": "Trump says the U.S. and Iran getting along very well",
-   "link": "https://www.al-monitor.com/originals/2026/07/trump-says-us-and-iran-getting-along-very-well",
-   "source": "Al-Monitor",
-   "published": "2026-07-01T13:01:43+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 6,
+   "incident_count": 7,
    "recent": [
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T22:39:18.813208+00:00",
+     "published": "2026-07-01T23:54:20.592375+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T22:39:18.811826+00:00",
+     "published": "2026-07-01T23:54:20.590686+00:00",
      "severity": "info"
     },
     {
-     "title": "While Iran's tactics in the Strait of Hormuz have captured global attention, this analysis shows that the stakes are even higher in the South China Sea, where $6.4 trillion in goods passed through its major straits in 2024. New CSIS data reveals reliance on key chokepoints: https",
-     "link": "https://bsky.app/profile/csis.org/post/3mpmdij5ygn2r",
-     "source": "@csis",
-     "published": "2026-07-01T20:16:13.197340432+00:00",
-     "severity": "high"
+     "title": "From Breakingviews - Breakingviews - Tanker data is better Hormuz gauge than oil prices reut.rs/3QOutEO",
+     "link": "https://bsky.app/profile/reuters.com/post/3mpmp6erzjz2k",
+     "source": "@reuters",
+     "published": "2026-07-01T23:45:17+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -374,6 +374,106 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "d5dc68bbc2d4",
+   "title": "VARGAS: Trump revealed that he and family raked in $2b. Does that make it harder for Republicans like you to argue that he has their affordability in mind? MIKE LAWLER: I can tell you one-party Democratic rule in NY has not resulted in affordability VARGAS: You didn't answer my question",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpmovcufkw2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T23:40:13.959+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ea2a62ff6204",
+   "title": "The University of Tennessee at Knoxville has reached a $1.9 million settlement with a former professor who was fired after she criticized Charlie Kirk.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpmomc4bwk2r",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T23:35:11.195+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b849229c52e1",
+   "title": "WSJ Editorial Board Accuses Trump Family of ‘Cashing In on the Presidency in Big and Sketchy Ways’",
+   "link": "https://www.mediaite.com/media/news/wsj-editorial-board-accuses-trump-family-of-cashing-in-on-the-presidency-in-big-and-sketchy-ways/",
+   "summary": "President Donald Trump and his family's financial dealings drew sharp criticism from The Wall Street Journal's editorial board on Wednesday, with the conservative newspaper accusing the Trumps of \"cashing in on the Presidency in big and sketchy ways.\" The post WSJ Editorial Board Accuses Trump Family of ‘Cashing In on the Presidency in Big and Sketchy Ways’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T23:24:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "8a09429c5807",
+   "title": "still ranting about the algae",
+   "link": "https://bsky.app/profile/darthbluesky.bsky.social/post/3mpmnv23owk23",
+   "summary": "",
+   "source": "@darthbluesky",
+   "category": "trump_bsky",
+   "published": "2026-07-01T23:22:11.034+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ff18b3c304fb",
+   "title": "There is a room with a TR avatar. There’s footage out there of Trump having this conversation with him as though he’s real.",
+   "link": "https://bsky.app/profile/gailhelt.bsky.social/post/3mpmnj7wcs22q",
+   "summary": "",
+   "source": "@gailhelt",
+   "category": "trump_bsky",
+   "published": "2026-07-01T23:15:34.496+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a1acade8d172",
+   "title": "Why the World Cup is a royal affair",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/european-royals-attending-fifa-world-cup-2026-00983717",
+   "summary": "One elected European leader was accused by the opposition of going on a taxpayer-funded “World Cup jolly.\"",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T23:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "941976bd0625",
+   "title": "CNN montage of Trump attacking others claiming they have profited from being in office.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpmna333v72m",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-07-01T23:10:27.312+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e2968d79f6dd",
+   "title": "Jake Tapper Confronts Comer About ‘Eye-Popping $2.2 Billion’ Trump Made Last Year: ‘You Investigated the Biden Family…’",
+   "link": "https://www.mediaite.com/media/tv/jake-tapper-confronts-james-comer-about-eye-popping-2-2-billion-trump-made-last-year-you-investigated-the-biden-family/",
+   "summary": "CNN's Jake Tapper questioned Rep. James Comer about the staggering amounts of money President Donald Trump made last year, about $2.2 billion to be exact. The post Jake Tapper Confronts Comer About ‘Eye-Popping $2.2 Billion’ Trump Made Last Year: ‘You Investigated the Biden Family…’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T22:55:51+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fa8b4f60c188",
+   "title": "Trump Recalls ‘Conversation’ With Theodore Roosevelt — Who Died 27 Years Before He Was Born",
+   "link": "https://www.mediaite.com/media/tv/trump-recalls-conversation-with-theodore-roosevelt-who-died-27-years-before-he-was-born/",
+   "summary": "President Donald Trump claimed Wednesday that he once had a \"conversation\" with former President Theodore Roosevelt about the Panama Canal, even though Roosevelt died in 1919 — nearly three decades before Trump was born in 1946. The post Trump Recalls ‘Conversation’ With Theodore Roosevelt — Who Died 27 Years Before He Was Born first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T22:51:04+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "bc8980eb8569",
+   "title": "‘It's not very often that you get, like, really great news from Bosnia’",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/world-cup-bosnian-americans-st-louis-00984932",
+   "summary": "Why Bosnian Americans in the Bosnian capital of the U.S. are rooting for their homeland.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T22:45:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "acf8677f0a90",
    "title": "Bosnia's starting lineup is also a map of its war",
@@ -765,46 +865,6 @@
    "iran_topic": false
   },
   {
-   "id": "19b0d6a00309",
-   "title": "Trump: \"Speaking of Cuba, after many many decades, it's coming our way\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmd4dbifq2k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:09:24.369+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "08d3f7ad975d",
-   "title": "Trump: \"The Rough Riders victory at San Juan Heights led directly to the collapse of the Spanish line. Ahhh, the Spanish. They are members of NATO. But not very good members of NATO. What are we doing, huh?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmd3p44zu2o",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:09:03.214+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "de676f4958ea",
-   "title": "Trump: \"'I'm right here in front of you. How do you want to begin the killing?' That's a little different kind of a guy.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmcy5noa722",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:07:04.259+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e7f9d9fe08b3",
-   "title": "Trump: \"He tracked a 1,200 pound grizzly. My boys know all about that. I say, 'Are grizzlies dangerous? Are grizzly bears dangerous?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmcvino4y2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:05:35.130+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4497ce57ef98",
    "title": "Fox News Programming Dominates the Competition As Cable News Sees Quarterly Ratings Drop",
    "link": "https://www.mediaite.com/media/news/fox-news-programming-dominates-the-competition-as-cable-news-sees-quarterly-ratings-drop/",
@@ -912,66 +972,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-07-01T18:51:08+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d8741ba700e8",
-   "title": "Courts just blocked the Trump DOJ from accessing state voter rolls for the 10th time — this time in New Hampshire. A federal judge dismissed the Justice Department effort — saying it didn't comply with a section of the Civil Rights Act of 1960 pertaining to federal election records.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpm64tia2s2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T18:40:12.672+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c49c75ab32cd",
-   "title": "‘Be Worried About Everything’: Hillary Clinton Sounds Alarm Over Trump’s National Security Chief",
-   "link": "https://www.mediaite.com/media/podcasts/be-worried-about-everything-hillary-clinton-sounds-alarm-over-trumps-national-security-chief/",
-   "summary": "Hillary Clinton warned people should be \"worried about everything when it comes to Acting Director of National Intelligence Bill Pulte. The post ‘Be Worried About Everything’: Hillary Clinton Sounds Alarm Over Trump’s National Security Chief first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:38:12+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "24aa3494fc02",
-   "title": "DSA Winner Calls to ‘Vote Out Any’ Incumbent Taking PAC Money, Including Hakeem Jeffries",
-   "link": "https://www.mediaite.com/politics/dsa-winner-calls-to-vote-out-any-incumbent-taking-pac-money-including-hakeem-jeffries/",
-   "summary": "The socialist revolution inside the Democratic party will not tolerate candidates who accept money from corporate PACs, Melat Kiros declared The post DSA Winner Calls to ‘Vote Out Any’ Incumbent Taking PAC Money, Including Hakeem Jeffries first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:34:23+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "84eaebb90c1e",
-   "title": "‘I Can’t Commit to Anything’: JD Vance Leaves Return to All-Out War in Iran on the Table",
-   "link": "https://www.mediaite.com/media/news/i-cant-commit-to-anything-jd-vance-leaves-return-to-all-out-war-in-iran-on-the-table/",
-   "summary": "Vice President JD Vance left open the possibility the United States could return to war with Iran if the 60-day ceasefire expires without a peace deal in place. The post ‘I Can’t Commit to Anything’: JD Vance Leaves Return to All-Out War in Iran on the Table first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:29:43+00:00",
-   "iran_topic": true
-  },
-  {
-   "id": "d042c0239f7b",
-   "title": "Bar pregnant foreigners from entering US? Trump allies considering all options after Supreme Court defeat.",
-   "link": "https://www.politico.com/news/2026/07/01/after-supreme-court-loss-on-birthright-citizenship-white-house-eyes-crackdown-on-pregnant-foreigners-00984187",
-   "summary": "In the hours after the Supreme Court defeat, White House aides and allies discussed a number of policy options.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-07-01T18:29:16+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4a70535b74a7",
-   "title": "A group of farmers walked into the Oval Office. A policy fight broke out.",
-   "link": "https://www.politico.com/news/2026/07/01/trump-oval-maha-policy-live-debate-00983992",
-   "summary": "A group of Trump advisers, Cabinet secretaries and MAHA farmers came to the Oval Office for a signing ceremony on an executive order they championed. A deep-pocketed opponent was waiting to argue them down.",
-   "source": "Politico WH",
-   "category": "politico_wh",
-   "published": "2026-07-01T18:25:21+00:00",
    "iran_topic": false
   }
  ]
