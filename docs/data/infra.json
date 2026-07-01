@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-01T21:03:21.870610+00:00",
+ "generated": "2026-07-01T22:39:56.205434+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 71.17,
-   "change": -1.75,
-   "change_pct": -2.4,
+   "price": 71.09,
+   "change": -1.83,
+   "change_pct": -2.51,
    "spark": [
     71.98999786376953,
     73.1500015258789,
     72.91999816894531,
-    71.16999816894531
+    71.08999633789062
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 68.09,
-   "change": -1.41,
-   "change_pct": -2.03,
+   "price": 67.98,
+   "change": -1.52,
+   "change_pct": -2.19,
    "spark": [
     69.2300033569336,
     70.75,
     69.5,
-    68.08999633789062
+    67.9800033569336
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4046.8,
-   "change": 23.9,
-   "change_pct": 0.59,
+   "price": 4050.6,
+   "change": 27.7,
+   "change_pct": 0.69,
    "spark": [
     4078.699951171875,
     4022.300048828125,
     4022.89990234375,
-    4046.800048828125
+    4050.60009765625
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.42,
-   "change": 0.23,
-   "change_pct": 0.23,
+   "price": 101.41,
+   "change": 0.22,
+   "change_pct": 0.22,
    "spark": [
     101.36000061035156,
     101.11000061035156,
     101.19000244140625,
-    101.4229965209961
+    101.41300201416016
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.2,
+   "price": 3.21,
    "change": -0.07,
-   "change_pct": -2.14,
+   "change_pct": -2.08,
    "spark": [
     3.2309999465942383,
     3.180999994277954,
     3.2750000953674316,
-    3.2049999237060547
+    3.2070000171661377
    ]
   }
  },
@@ -216,6 +216,20 @@
  ],
  "incidents": [
   {
+   "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
+   "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
+   "source": "Press TV",
+   "published": "2026-07-01T22:39:18.813208+00:00",
+   "severity": "high"
+  },
+  {
+   "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
+   "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
+   "source": "Press TV",
+   "published": "2026-07-01T22:39:18.811826+00:00",
+   "severity": "info"
+  },
+  {
    "title": "US Navy service member missing after helicopter lands in Arabian Sea",
    "link": "https://www.jpost.com/international/article-901158",
    "source": "Jerusalem Post",
@@ -227,20 +241,6 @@
    "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-901153",
    "source": "Jerusalem Post",
    "published": "2026-07-01T21:13:33+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
-   "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
-   "source": "Press TV",
-   "published": "2026-07-01T21:02:27.650380+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
-   "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
-   "source": "Press TV",
-   "published": "2026-07-01T21:02:27.648830+00:00",
    "severity": "info"
   },
   {
@@ -332,14 +332,14 @@
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T21:02:27.650380+00:00",
+     "published": "2026-07-01T22:39:18.813208+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T21:02:27.648830+00:00",
+     "published": "2026-07-01T22:39:18.811826+00:00",
      "severity": "info"
     },
     {
@@ -375,6 +375,86 @@
  ],
  "wh_statements": [
   {
+   "id": "acf8677f0a90",
+   "title": "Bosnia's starting lineup is also a map of its war",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-starting-xi-vs-usmnt-refugees-map-war-00983578",
+   "summary": "From Austria to Wisconsin, the squad's roster traces the paths refugees took fleeing genocide in the 1990s.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T22:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a9b433031673",
+   "title": "John Brennan to MS NOW: \"I told my lawyers I don't want to sit on our hands — because if he gets away with me, he's going to continue to do this against other individuals.\" \"That's why enough is enough and that's why today's lawsuit, I think, sends a clear signal that I'm willing to fight.\"",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpmjuyw62c25",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T22:10:34.837+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2ee99169ee7d",
+   "title": "Less Than Half of Democrats Are Proud Americans, New America 250 Poll Shows",
+   "link": "https://www.mediaite.com/politics/less-than-half-of-democrats-are-proud-americans-new-america-250-poll-shows/",
+   "summary": "Are you proud to be an American? If so, the odds are you are not a Democrat, according to a new Marist poll that showed only 45% of Democrats are proud citizens The post Less Than Half of Democrats Are Proud Americans, New America 250 Poll Shows first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T21:50:50+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6d4b0891854d",
+   "title": "U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘The Bill Must Come Due’",
+   "link": "https://www.mediaite.com/media/news/u-s-air-force-officer-arrested-on-capitol-steps-for-call-to-impeach-trump-the-bill-must-come-due/",
+   "summary": "Air Force Major Jason Watson was arrested after he joined others to call for the impeachment and removal from office of President Donald Trump and Vice President JD Vance. The post U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘The Bill Must Come Due’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T21:47:26+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e31f8370a25e",
+   "title": "Belgium's Congolese heartland sees victory in defeat",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/congo-england-fifa-world-cup-brussels-matonge-00984256",
+   "summary": "“At the end of the day Congo was better than England because they overperformed and England underperformed,” a fan in Brussels said.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T21:45:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e9538157b716",
+   "title": "Bosnia vs. America, on and off the pitch",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-vs-america-trump-bosnian-serb-nationalism-00984742",
+   "summary": "Rudy Giuliani, Michael Flynn and Rod Blagojevich have found a receptive audience among Bosnian Serb nationalists, alarming those who credit the U.S. with saving the country in the first place.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T21:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d7e43a8ab2e",
+   "title": "Reminder that if you appreciate my coverage of Trump speeches like the one he just gave in North Dakota - and lord knows I've watched too many of them - you can show support by signing up for my newsletter. I'm proud of our political coverage at PN and paid subscribers make my work possible. Thanks.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpmg7iuj3c2c",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T21:04:52.138+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0576ad665f24",
+   "title": "‘3 WHITE DUDES?!’ Stephen A. Smith Gobsmacked by LA Lakers’ Top Players All Being White",
+   "link": "https://www.mediaite.com/media/sports/3-white-dudes-stephen-a-smith-gobsmacked-by-la-lakers-top-players-all-being-white/",
+   "summary": "Stephen A. Smith was stunned by the fact that three of the Los Angles Lakers' top players in the 2026 season were all going to be white. The post ‘3 WHITE DUDES?!’ Stephen A. Smith Gobsmacked by LA Lakers’ Top Players All Being White first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T21:04:24+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "8d6e591c37e6",
    "title": "Inside FEMA’s World Cup nerve center",
    "link": "https://www.politico.com/news/2026/07/01/inside-femas-world-cup-nerve-center-00984975",
@@ -385,10 +465,20 @@
    "iran_topic": false
   },
   {
+   "id": "8485d640ff70",
+   "title": "Go for it. Full sun. Dark suit. No AC. Show everyone how real men handle the heat.",
+   "link": "https://bsky.app/profile/jeffgoodell.bsky.social/post/3mpmfqqigac2p",
+   "summary": "",
+   "source": "@jeffgoodell",
+   "category": "trump_bsky",
+   "published": "2026-07-01T20:56:36.813+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "cf18b33fca7c",
-   "title": "Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons Medals",
+   "title": "Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons the Medal of Honor ‘For Something’",
    "link": "https://www.mediaite.com/media/news/trump-drops-wild-rant-about-giving-his-sons-medals/",
-   "summary": "While delivering a speech at the opening of the Theodore Roosevelt Presidential Library, Donald Trump joked about having \"a threesome\" with his oldest sons. The post Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons Medals first appeared on Mediaite .",
+   "summary": "While delivering a speech at the opening of the Theodore Roosevelt Presidential Library, Donald Trump joked about having \"a threesome\" with his oldest sons. The post Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons the Medal of Honor ‘For Something’ first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-07-01T20:54:28+00:00",
@@ -715,26 +805,6 @@
    "iran_topic": false
   },
   {
-   "id": "bb1573d4cb0e",
-   "title": "Trump: \"As TR once put it, 'Freedom is not a gift that lasts long in the hands of cowards.' How about that? What a great statement. I want to use that. I would've used that statement and I wouldn't have attributed it to TR.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmcu42fcf24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:04:48.358+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "87b4cc0cdb97",
-   "title": "Trump is struggling to read: \"But he was a man who could get crushed beneath a horse. He was crushed. Get up and he kept riding. People said, 'You gotta get back! We gotta get you.' 'No no no I'm gonna keep riding.' He could take a bullet to the chest stand up and keep speaking!\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmcpwnond2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:02:28.482+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4497ce57ef98",
    "title": "Fox News Programming Dominates the Competition As Cable News Sees Quarterly Ratings Drop",
    "link": "https://www.mediaite.com/media/news/fox-news-programming-dominates-the-competition-as-cable-news-sees-quarterly-ratings-drop/",
@@ -895,26 +965,6 @@
    "iran_topic": false
   },
   {
-   "id": "db35ca49910e",
-   "title": "See the Pulse Pounding Images Captured by Lovesick Daredevils on Top of the Empire State Building",
-   "link": "https://www.mediaite.com/media/news/see-the-pulse-pounding-images-captured-by-lovesick-daredevils-on-top-of-the-empire-state-building/",
-   "summary": "He got down on bended knee &#8212; and took the world&#8217;s breath away. These are the stunning images captured atop the Empire State Building by daredevils Angela Nikolau and Ivan &#8220;Vanya&#8221; Beerkus Wednesday after the pair&#8217;s bizarre, viral stunt that saw them climb to the very top of the iconic 1,454 foot skyscraper. Nikolau posted [&#8230;] The post See the Pulse Pounding Images Captured by Lovesick Daredevils on Top of the Empire State Building first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:28:47+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c7aab04ff26f",
-   "title": "TMZ’s Harvey Levin Doubles Down After FBI Deems Nancy Guthrie Ransom Notes He Ran With Were Fakes: ‘Not What We Had Heard’",
-   "link": "https://www.mediaite.com/media/news/tmzs-harvey-levin-doubles-down-after-fbi-deems-nancy-guthrie-ransom-notes-he-ran-with-were-fakes-not-what-we-had-heard/",
-   "summary": "TMZ's founder Harvey Levin does not buy into reports that the FBI believes two ransom letters sent in the disappearance of Nancy Guthrie are fake. The post TMZ’s Harvey Levin Doubles Down After FBI Deems Nancy Guthrie Ransom Notes He Ran With Were Fakes: ‘Not What We Had Heard’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:26:12+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4a70535b74a7",
    "title": "A group of farmers walked into the Oval Office. A policy fight broke out.",
    "link": "https://www.politico.com/news/2026/07/01/trump-oval-maha-policy-live-debate-00983992",
@@ -922,56 +972,6 @@
    "source": "Politico WH",
    "category": "politico_wh",
    "published": "2026-07-01T18:25:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "486640bea25c",
-   "title": "Yugoslavia is still playing",
-   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/former-yugoslavia-players-bosnia-croatia-descent-00983571",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-07-01T18:16:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "57e153ba0cb8",
-   "title": "Sister Leticia \"Letty\" Ugboaja was walking to Sunday Mass in McAllen, Texas, when federal immigration officers stopped her, confiscated her rosary, and put her in handcuffs. DHS would not respond to requests for comment. The Catholic nun from Nigeria is a nurse who entered the country legally.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpm3vdmqic2s",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T18:00:13.677+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5b41ebfe6910",
-   "title": "House Democrat Tells CNN Her Side Is Missing ‘Nuance’ in Its ‘Rush to Moralize’ on Transgender Athletes",
-   "link": "https://www.mediaite.com/politics/house-democrat-tells-cnn-her-side-is-missing-nuance-in-its-rush-to-moralize-on-transgender-athletes/",
-   "summary": "Dem. Rep Marie Gluesenkamp Perez says the party is missing \"nuance\" in the \"rush to moralize\" the conversation about transgender athletes in girls' sports. The post House Democrat Tells CNN Her Side Is Missing ‘Nuance’ in Its ‘Rush to Moralize’ on Transgender Athletes first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T17:59:32+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "14ed431e0f5a",
-   "title": "Why isn't Donald Trump at the US match against Bosnia?",
-   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/sophia-cai-video-why-trump-missing-world-cup-00983889",
-   "summary": "He's been following the World Cup via social media clips. Here's one of his favorites.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-07-01T17:55:00+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7ef5f6dc02e2",
-   "title": "Priorities, priorities",
-   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/reform-uk-ai-policy-during-world-cup-england-congo-00984012",
-   "summary": "",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-07-01T17:40:11+00:00",
    "iran_topic": false
   }
  ]
