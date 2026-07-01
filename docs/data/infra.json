@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-01T09:35:41.754012+00:00",
+ "generated": "2026-07-01T12:21:59.583742+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 71.85,
-   "change": -1.07,
-   "change_pct": -1.47,
+   "price": 72.04,
+   "change": -0.88,
+   "change_pct": -1.21,
    "spark": [
     71.98999786376953,
     73.1500015258789,
     72.91999816894531,
-    71.8499984741211
+    72.04000091552734
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 68.44,
-   "change": -1.06,
-   "change_pct": -1.53,
+   "price": 68.81,
+   "change": -0.69,
+   "change_pct": -0.99,
    "spark": [
     69.2300033569336,
     70.75,
     69.5,
-    68.44000244140625
+    68.80999755859375
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 3990.5,
-   "change": -32.4,
-   "change_pct": -0.81,
+   "price": 4035.4,
+   "change": 12.5,
+   "change_pct": 0.31,
    "spark": [
     4078.699951171875,
     4022.300048828125,
     4022.89990234375,
-    3990.5
+    4035.39990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.38,
-   "change": 0.19,
-   "change_pct": 0.19,
+   "price": 101.45,
+   "change": 0.26,
+   "change_pct": 0.26,
    "spark": [
     101.36000061035156,
     101.11000061035156,
     101.19000244140625,
-    101.38400268554688
+    101.4540023803711
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.93,
-   "change": 0.48,
-   "change_pct": 2.92,
+   "price": 16.78,
+   "change": 0.33,
+   "change_pct": 2.01,
    "spark": [
     18.889999389648438,
     18.40999984741211,
     17.649999618530273,
     16.450000762939453,
-    16.93000030517578
+    16.780000686645508
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.23,
-   "change": -0.04,
-   "change_pct": -1.25,
+   "price": 3.24,
+   "change": -0.03,
+   "change_pct": -1.04,
    "spark": [
     3.2309999465942383,
     3.180999994277954,
     3.2750000953674316,
-    3.2339999675750732
+    3.240999937057495
    ]
   }
  },
@@ -219,14 +219,56 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-01T09:35:04.179646+00:00",
+   "published": "2026-07-01T12:21:16.929448+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-01T09:35:04.178361+00:00",
+   "published": "2026-07-01T12:21:16.927748+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
+   "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
+   "source": "Press TV",
+   "published": "2026-07-01T12:21:16.923743+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Strait of Hormuz Iran's greatest source of leverage; no retreat on sovereign rights: Parl. speaker",
+   "link": "https://presstv.ir/Detail/2026/06/30/771383/Iran-Strait-of-Hormuz-United-States-talks-Qalibaf-Israel-Lebanon-nuclear-military",
+   "source": "Press TV",
+   "published": "2026-07-01T12:21:16.923500+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel",
+   "link": "https://www.al-monitor.com/originals/2026/07/iran-warns-immediate-response-any-threat-cites-us-commitment-restrain-israel",
+   "source": "Al-Monitor",
+   "published": "2026-07-01T11:36:38+00:00",
+   "severity": "medium"
+  },
+  {
+   "title": "US and Iran enter technical talks to secure peace deal, restart shipping",
+   "link": "https://www.al-monitor.com/originals/2026/07/us-and-iran-enter-technical-talks-secure-peace-deal-restart-shipping",
+   "source": "Al-Monitor",
+   "published": "2026-07-01T10:36:38+00:00",
+   "severity": "low"
+  },
+  {
+   "title": "Iran insists on keeping control over Hormuz, senior Iranian sources say",
+   "link": "https://www.al-monitor.com/originals/2026/07/iran-insists-keeping-control-over-hormuz-senior-iranian-sources-say",
+   "source": "Al-Monitor",
+   "published": "2026-07-01T10:01:57+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Iran insists on keeping control over Hormuz, senior Iranian sources say reut.rs/4eRypfI",
+   "link": "https://bsky.app/profile/reuters.com/post/3mpl7xf6imq2v",
+   "source": "@reuters",
+   "published": "2026-07-01T09:40:17+00:00",
    "severity": "info"
   },
   {
@@ -241,20 +283,6 @@
    "link": "https://presstv.ir/Detail/2026/06/30/771345/Iranian-lawmaker--Management-Strait-Hormuz-solely-Tehran-s-responsibility",
    "source": "Press TV",
    "published": "2026-07-01T09:35:04.174574+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
-   "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
-   "source": "Press TV",
-   "published": "2026-07-01T09:35:04.173953+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "Strait of Hormuz Iran's greatest source of leverage; no retreat on sovereign rights: Parl. speaker",
-   "link": "https://presstv.ir/Detail/2026/06/30/771383/Iran-Strait-of-Hormuz-United-States-talks-Qalibaf-Israel-Lebanon-nuclear-military",
-   "source": "Press TV",
-   "published": "2026-07-01T09:35:04.173368+00:00",
    "severity": "info"
   },
   {
@@ -291,62 +319,34 @@
    "source": "Al-Monitor",
    "published": "2026-07-01T03:00:20+00:00",
    "severity": "info"
-  },
-  {
-   "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf reut.rs/4vHyoT9",
-   "link": "https://bsky.app/profile/reuters.com/post/3mpkiicsidx2s",
-   "source": "@reuters",
-   "published": "2026-07-01T02:40:15+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf",
-   "link": "https://www.al-monitor.com/originals/2026/06/south-korea-cargo-ship-namu-exit-strait-hormuz-after-attack-gulf",
-   "source": "Al-Monitor",
-   "published": "2026-07-01T02:36:37+00:00",
-   "severity": "high"
-  },
-  {
-   "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-07-01T00:00:09+00:00",
-   "severity": "low"
-  },
-  {
-   "title": "Trump's envoys head to Doha as Iran pushes toll plan for Strait of Hormuz shipping",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-901001",
-   "source": "Jerusalem Post",
-   "published": "2026-06-30T21:34:00+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
   {
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
-   "status": "WATCH",
-   "incident_count": 13,
+   "status": "ACTIVE",
+   "incident_count": 11,
    "recent": [
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T09:35:04.179646+00:00",
+     "published": "2026-07-01T12:21:16.929448+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T09:35:04.178361+00:00",
+     "published": "2026-07-01T12:21:16.927748+00:00",
      "severity": "info"
     },
     {
-     "title": "Oman backs Iran’s plan to charge Strait of Hormuz ‘service fees’",
-     "link": "https://presstv.ir/Detail/2026/06/29/771320/Oman-backs-Iran-plan-Strait-of-Hormuz-service-fee-",
+     "title": "Iran says only it can demine Strait of Hormuz under MoU with US",
+     "link": "https://presstv.ir/Detail/2026/06/29/771321/Iran-Strait-Hormuz-demine",
      "source": "Press TV",
-     "published": "2026-07-01T09:35:04.175122+00:00",
+     "published": "2026-07-01T12:21:16.923743+00:00",
      "severity": "info"
     }
    ]
@@ -375,10 +375,250 @@
  ],
  "wh_statements": [
   {
+   "id": "e9abf5cad7e4",
+   "title": "This soft-launch of a birth tourism panic is fascinating. It *is* true that some people come to the United States specifically to have a kid. It's just never really affected the average American in any way!",
+   "link": "https://bsky.app/profile/daveweigel.bsky.social/post/3mplivdlox22t",
+   "summary": "",
+   "source": "@daveweigel",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:20:12.549+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e135103aea82",
+   "title": "fucking republicans think that scotus (barely) upholding the 14th amend., established and utterly clear constitutional law since 1868, is somehow an immediate crisis that will lead to the downfall of the country",
+   "link": "https://bsky.app/profile/tomtomorrow.bsky.social/post/3mplin5dxs22k",
+   "summary": "",
+   "source": "@tomtomorrow",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:15:37.568+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "99998160b499",
+   "title": "Randy Fine. On Newsmax. Warning against “crazy people” taking over the Republican Party Y’all, I haven’t even had my coffee yet",
+   "link": "https://bsky.app/profile/phillipanderson.bsky.social/post/3mplih2lvz22n",
+   "summary": "",
+   "source": "@phillipanderson",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:12:13.355+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3104bba166a0",
+   "title": "Iran’s Religious Leaders Call to Murder ‘Evil’ Trump and Netanyahu Amid Peace Deal Talks",
+   "link": "https://www.mediaite.com/media/news/irans-religious-leaders-call-to-murder-evil-trump-and-netanyahu-amid-peace-deal-talks/",
+   "summary": "Iran's top clerics called for the assassination of \"evil\" President Trump and \"wicked\" Benjamin Netanyahu, saying it is the \"religious duty\" of Muslims The post Iran’s Religious Leaders Call to Murder ‘Evil’ Trump and Netanyahu Amid Peace Deal Talks first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T12:10:11+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "d23435a3af72",
+   "title": "Agriculture Secretary Brooke Rollins: \"In all things Donald Trump, everything as we know is better and better\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplica2vtm2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:09:31.305+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "3e2b58b85508",
+   "title": "Rep. Randy Fine: \"We gotta fight in my party, in the Republican Party, to not let crazy people take over\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpli76ejmp22",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:07:48.858+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "be82ab3ace09",
+   "title": "Rep. Randy Fine accuses SCOTUS of \"facilitating the invasion of this country,\" adding that \"we're gonna have to reduce immigration of all kinds, bc if we say that once you get off the plane & hide for a while and you have a baby that baby is American, we're not gonna be able to let people come here\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpli5hzhwx2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T12:06:51.870+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d953bdbbce10",
+   "title": "The federal government was a party in 21 of the 56 merits cases #SCOTUS decided this term. All three Democratic appointees sided with the government in five of those 21 cases, and Justices Kagan and Sotomayor sided with the government in a sixth.",
+   "link": "https://bsky.app/profile/stevevladeck.bsky.social/post/3mplhpy23rs2h",
+   "summary": "",
+   "source": "@stevevladeck",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:59:18.924+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d48b4649eb7c",
+   "title": "There were 2 major defeats of the Confederacy and its pro-slavery rebellion. One was on the battlefield. The other is called the \"Reconstruction Amendments\", 13, 14 & 15, passed to undo the Confederacy's power. The 6 Supes are Neo-Confederates working to reverse those Reconstruction Amendments.",
+   "link": "https://bsky.app/profile/enbuenora.bsky.social/post/3mplhpg6kps25",
+   "summary": "",
+   "source": "@enbuenora",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:59:00.195+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "4d9839bfe4a0",
+   "title": "Markwayne Mullin claims Biden is responsible for \"deaths that are happening at an unprecedented pace at the hands of illegals\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplhno4jsw27",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:58:01.394+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "ad3979a4b547",
+   "title": "DHS Secretary Markwayne Mullin claims Chinese women are traveling to the United States with \"one week\" left in their pregnancy to give birth",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplhmouht425",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:57:28.624+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "550df883a5c7",
+   "title": "Brian Kilmeade suggests to an agreeing DHS Secretary Markwayne Mulling that pregnant foreign women should be barred from traveling to the United States",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplhkkar6527",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:56:16.676+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "52ffdf916100",
+   "title": "Trump on \"YMCA\": \"It became a 'monster' hit, again, 30 years after its original launch\" (\"YMCA\" was released 48 years ago ... )",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplh6ctdg22a",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:49:26.256+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "a74e69d69738",
+   "title": "Hassett: \"Once those factories are complete, then they're gonna have to turn on the lights, plug in the machines, and hire the workers. Right now it's just a little bit underway and it'll be roaring by the second half of the year.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplgx4glho2e",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:45:24.651+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "118f989d49ba",
+   "title": "Hassett on the Supreme Court's three liberal justices: \"It can't be that Trump is always wrong. It can't be that Trump is always wrong, but that's how they voted.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplgv3ahlk24",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:44:16.293+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b4df3751e56d",
+   "title": "Kevin Hassett says he expects 4% GDP growth in the second half of 2026",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplgnte3ho2u",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:40:13.143+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "dcf1bb7865e2",
+   "title": "Hassett: \"One of the ways to think about the straits is that there are a bunch of guys living in caves that live in the straits that may or may not be in steady communication with the people we are negotiating with, who have stuff little better than a rubber band they can shoot at a boat\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplglodtnw2j",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:39:00.783+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7422665f818d",
+   "title": "Birthright Citizenship fight isn’t over. What happened at the Supreme Court yesterday is a harbinger of an intense fight needed to protect our Constitution, Lisa Needham argues in today’s Public Notice. An absolute must read. @atrupar.com",
+   "link": "https://bsky.app/profile/sholahoon.bsky.social/post/3mplg3ve2dc25",
+   "summary": "",
+   "source": "@sholahoon",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:30:11.273+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e674f1dca431",
+   "title": "Abortions for none! Forced transvaginal ultrasounds for all!",
+   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mplfzpibfs23",
+   "summary": "",
+   "source": "@ohnoshetwitnt",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:28:58.011+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "fa6748863fb8",
+   "title": "New in PN: A vote away from undoing the civil war \"The only role for a functional SCOTUS would have been to deny a cert request by saying, 'Did the lower court stutter?' Instead, we came within one vote of letting the worst people in the country run roughshod over one of America's sacred compacts.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mplfpvxilc2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-01T11:23:29.258+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0151d1357328",
+   "title": "Democratic Socialist Melat Kiros Vows to ‘Take the Fight to Donald Trump’ After Ousting 15-Term Incumbent",
+   "link": "https://www.mediaite.com/media/news/democratic-socialist-melat-kiros-vows-to-take-the-fight-to-donald-trump-after-ousting-15-term-incumbent/",
+   "summary": "Kiros made opposition to U.S. support for Israel's war in Gaza a central campaign issue, accusing Israel of committing genocide and calling for an arms embargo. The post Democratic Socialist Melat Kiros Vows to ‘Take the Fight to Donald Trump’ After Ousting 15-Term Incumbent first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T11:08:18+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "2e6ff30d843d",
+   "title": "Another 60 Minutes Veteran Exits Show With Apparent Swipe at Bari Weiss",
+   "link": "https://www.mediaite.com/media/news/another-60-minutes-veteran-exits-show-with-apparent-swipe-at-bari-weiss/",
+   "summary": "Schuster, who joined 60 Minutes in 2007 after a 25-year career at CNN, announced his departure in a LinkedIn post on Monday. The post Another 60 Minutes Veteran Exits Show With Apparent Swipe at Bari Weiss first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T10:54:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0297afe0526f",
+   "title": "Stephen Miller Rages Over SCOTUS Birthright Citizenship Reading If It Makes You ‘Suicide Your Civilization’",
+   "link": "https://www.mediaite.com/media/tv/stephen-miller-rages-over-scotus-birthright-citizenship-reading-if-it-makes-you-suicide-your-civilization/",
+   "summary": "Miller, a key architect of Trump’s national deportation policy, delivered a scorching tirade, rejecting the ruling outright as \"wrong.\" The post Stephen Miller Rages Over SCOTUS Birthright Citizenship Reading If It Makes You ‘Suicide Your Civilization’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-01T10:50:57+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "0a4791152d7b",
+   "title": "A vote away from undoing the civil war",
+   "link": "https://www.publicnotice.co/p/birthright-citizenship-ruling",
+   "summary": "The birthright citizenship ruling was a wake-up call, not a victory.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-07-01T10:17:00+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "cb712465799f",
-   "title": "Colorado's insurgent wave proves Democrats want fighters",
+   "title": "Anti-establishment avalanche buries a pair of Colorado Democratic stalwarts",
    "link": "https://www.politico.com/news/2026/07/01/colorado-primaries-democrats-fighters-trump-00983521",
-   "summary": "Tuesday’s results reveal the depth of Democratic voters’ frustrations with Washington, on the heels of insurgent wins in New York.",
+   "summary": "Tuesday’s results reveal the depth of Democratic voters’ frustrations with Washington.",
    "source": "Politico Politics",
    "category": "politico_pol",
    "published": "2026-07-01T08:45:00+00:00",
@@ -475,16 +715,6 @@
    "iran_topic": false
   },
   {
-   "id": "4bfa4a1957f0",
-   "title": "Jesus, famous for his income based doctrine",
-   "link": "https://bsky.app/profile/owillis.bsky.social/post/3mpkjgtm5fs25",
-   "summary": "",
-   "source": "@owillis",
-   "category": "trump_bsky",
-   "published": "2026-07-01T02:57:20.028+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "1af6f3c7b491",
    "title": "JB Pritzker Claims Trump Is ‘Suffering From Dementia’ and Doesn’t ‘Really Understand What He’s Saying’",
    "link": "https://www.mediaite.com/media/tv/jb-pritzker-claims-trump-is-suffering-from-dementia-and-doesnt-really-understand-what-hes-saying/",
@@ -555,16 +785,6 @@
    "iran_topic": false
   },
   {
-   "id": "1b6e015a03f7",
-   "title": "The most corrupt president in history and it's not close: \"Trump reaped a stunning windfall in his first year back in the White House, including about $1.4 billion from his family’s cryptocurrency businesses, a new filing shows\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpkeyzzvq22a",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T01:38:02.040+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "366ec1b10ae5",
    "title": "Brawl Breaks Out at Fenway After White Pitcher Tells Venezuelan Batter, ‘Sit Down, Boy!’",
    "link": "https://www.mediaite.com/media/sports/brawl-breaks-out-at-fenway-after-white-pitcher-tells-venezuelan-batter-sit-down-boy/",
@@ -572,26 +792,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-07-01T01:21:07+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e12ca557fa4f",
-   "title": "just as jesus said, \"i don't like low wage foreigners.\" READ the bible bsky.app/profile/atru...",
-   "link": "https://bsky.app/profile/adamserwer.bsky.social/post/3mpkdzodio22e",
-   "summary": "",
-   "source": "@adamserwer",
-   "category": "trump_bsky",
-   "published": "2026-07-01T01:20:29.585+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5de4e6a52c34",
-   "title": "Nothing about this sounds fascist.",
-   "link": "https://bsky.app/profile/sifill.bsky.social/post/3mpkceqjkqs2k",
-   "summary": "",
-   "source": "@sifill",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:50:53.496+00:00",
    "iran_topic": false
   },
   {
@@ -615,56 +815,6 @@
    "iran_topic": false
   },
   {
-   "id": "6a8261aabfdf",
-   "title": "So . . . how are these Nazis going to know if a woman is pregnant or not?",
-   "link": "https://bsky.app/profile/brandonfriedman.bsky.social/post/3mpkbuvtfac2d",
-   "summary": "",
-   "source": "@brandonfriedman",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:42:02.188+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1172f3d21581",
-   "title": "Tim Walz had it right when he said these people are weird",
-   "link": "https://bsky.app/profile/davidryanmiller.com/post/3mpkbe32yu22u",
-   "summary": "",
-   "source": "@davidryanmiller",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:32:37.257+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b72a77337545",
-   "title": "Unless they are white and South African.",
-   "link": "https://bsky.app/profile/davidrlurie.com/post/3mpkb5apuxk2j",
-   "summary": "",
-   "source": "@davidrlurie",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:28:48.303+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "649817f46455",
-   "title": "Stephen Miller says the Trump administration will take “a hard look” at banning foreign pregnant women from the country",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpkazjiuyc2u",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:26:43.277+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6a93ab06fcc7",
-   "title": "This chyron sent me",
-   "link": "https://bsky.app/profile/ohnoshetwitnt.bsky.social/post/3mpkaxs5lak23",
-   "summary": "",
-   "source": "@ohnoshetwitnt",
-   "category": "trump_bsky",
-   "published": "2026-07-01T00:25:45.246+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "2024a101085d",
    "title": "Trump Discloses $1.4 Billion From His Cryptocurrency Businesses",
    "link": "https://www.mediaite.com/media/news/trump-discloses-1-4-billion-from-his-cryptocurrency-businesses/",
@@ -672,96 +822,6 @@
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-07-01T00:03:09+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3f6078eebac0",
-   "title": "Everyone knows that Jesus hated the poors. Also, minorities. Blech. Not to mention those retched war widows. Again, this is all common knowledge if you’re an actual believer.",
-   "link": "https://bsky.app/profile/jkarsh.bsky.social/post/3mpk7dgeais2k",
-   "summary": "",
-   "source": "@jkarsh",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:56:28.055+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8ca2936aac60",
-   "title": "Just like Jesus Christ, famous hater of the poor",
-   "link": "https://bsky.app/profile/ryanmarino.bsky.social/post/3mpk7aijimc2p",
-   "summary": "",
-   "source": "@ryanmarino",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:54:49.662+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "eb8e5f349f85",
-   "title": "\"I... I guess I'll just go back to Galilee then :(\" --Joseph",
-   "link": "https://bsky.app/profile/elienyc.bsky.social/post/3mpk6zwmibk2z",
-   "summary": "",
-   "source": "@elienyc",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:51:09.559+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c064b663a81e",
-   "title": "this is my favorite from the replies section over on twitter for this post",
-   "link": "https://bsky.app/profile/britculpsapp.bsky.social/post/3mpk6qjidtc2p",
-   "summary": "",
-   "source": "@britculpsapp",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:45:53.797+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "5da02e2877e2",
-   "title": "Too many of us forget how much Jesus hated foreigners and the meek and the persecuted.",
-   "link": "https://bsky.app/profile/seancasten.bsky.social/post/3mpk6plnpy227",
-   "summary": "",
-   "source": "@seancasten",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:45:22.521+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7a0d18244895",
-   "title": "JD Vance says he hopes the Pope has “learned” from what he and Trump have said about immigration",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpk6mx6iip22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:43:53.927+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "c8b865e58346",
-   "title": "JD Vance says his faith makes him averse to “low wage foreigners”",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpk6hlgt3o24",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:40:53.845+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6523f1a1a49e",
-   "title": "😶",
-   "link": "https://bsky.app/profile/jbf1755.bsky.social/post/3mpk6g6ay5c2k",
-   "summary": "",
-   "source": "@jbf1755",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:40:06.482+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fb0fdb7a4614",
-   "title": "Trump posted a picture of himself as Jesus. Not 100% sane.",
-   "link": "https://bsky.app/profile/markjacob.bsky.social/post/3mpk5wpfdvs2s",
-   "summary": "",
-   "source": "@markjacob",
-   "category": "trump_bsky",
-   "published": "2026-06-30T23:31:27.580+00:00",
    "iran_topic": false
   },
   {
@@ -905,26 +965,6 @@
    "iran_topic": true
   },
   {
-   "id": "097ff5f8e56a",
-   "title": "House Republican Pitches Bill On Fox News to Ban Pregnant Foreigners From the US",
-   "link": "https://www.mediaite.com/media/tv/house-republican-pitches-bill-on-fox-news-to-ban-pregnant-foreigners-from-the-us/",
-   "summary": "Rep. Andy Ogles (R-TN) is answering President Donald Trump's call to end by birthright citizenship by introducing a bill that would ban pregnant foreigners. The post House Republican Pitches Bill On Fox News to Ban Pregnant Foreigners From the US first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T20:52:42+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "54a38458c8ed",
-   "title": "JD Vance Trots Out Violent ‘Pulp Fiction’ Story to Explain His Own Religious Experience In Wild Rant",
-   "link": "https://www.mediaite.com/media/podcasts/jd-vance-violent-pulp-fiction-story-religious-rant/",
-   "summary": "Vice President JD Vance quoted a scene from 'Pulp Fiction' to explain his own religious experiences in a bizarre, lengthy conversation with Michael Knowles. The post JD Vance Trots Out Violent ‘Pulp Fiction’ Story to Explain His Own Religious Experience In Wild Rant first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T20:49:55+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "d05e2e30fedc",
    "title": "BREAKING: A federal judge just ordered the Pentagon to temporarily lift the requirement that all journalists visiting the building be accompanied by an official escort. The decision was another rebuke to the Trump admin's efforts to restrict reporters who cover the Department of Defense.",
    "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjungyvf22j",
@@ -933,46 +973,6 @@
    "category": "trump_bsky",
    "published": "2026-06-30T20:45:13.116+00:00",
    "iran_topic": false
-  },
-  {
-   "id": "35b51488acba",
-   "title": "Conservative Radio Host Battles MAGA Influencers With ‘Barrett Derangement Syndrome’",
-   "link": "https://www.mediaite.com/media/conservative-radio-host-battles-maga-influencers-with-barrett-derangement-syndrome/",
-   "summary": "Conservative radio host Erick Erickson tussled with MAGA influencers, defending Supreme Court Justice Amy Coney Barrett from wave of conservative attacks. The post Conservative Radio Host Battles MAGA Influencers With ‘Barrett Derangement Syndrome’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T20:24:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4ff1407172c7",
-   "title": "‘You Should be Ashamed of Yourself!’ Lawler And Raskin Absolutely Lose It On Each Other In Jaw-Dropping Hearing Slugfest",
-   "link": "https://www.mediaite.com/politics/you-should-be-ashamed-of-yourself-lawler-and-raskin-absolutely-lose-it-on-each-other-in-jaw-dropping-hearing-slugfest/",
-   "summary": "\"You don't belong on this committee, you should get the hell out of here!\" Raskin yelled back. The post ‘You Should be Ashamed of Yourself!’ Lawler And Raskin Absolutely Lose It On Each Other In Jaw-Dropping Hearing Slugfest first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-06-30T20:18:10+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1a71ecffe6c9",
-   "title": "Trump just met with election denier and convicted felon Tina Peters in the oval office.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjsymdl722w",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T20:15:40.325+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3e3788f45039",
-   "title": "In the first six months of 2025, top Trump officials used at least 13 Signal chats with names like \"Iran/Ukraine Planning\" and \"State USAID.\" Dan Caine was the admin of a Signal group with Pete Hegseth and Marco Rubio that was set to automatically delete messages after 8 hours.",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpjqa4qgkk2m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-06-30T19:26:11.179+00:00",
-   "iran_topic": true
   }
  ]
 }
