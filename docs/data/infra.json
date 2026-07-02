@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-02T11:29:40.370626+00:00",
+ "generated": "2026-07-02T13:18:46.571068+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 70.49,
-   "change": -1.08,
-   "change_pct": -1.51,
+   "price": 70.64,
+   "change": -0.93,
+   "change_pct": -1.3,
    "spark": [
     73.1500015258789,
     72.91999816894531,
     71.56999969482422,
-    70.48999786376953
+    70.63999938964844
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 67.43,
-   "change": -1.15,
-   "change_pct": -1.68,
+   "price": 67.64,
+   "change": -0.94,
+   "change_pct": -1.37,
    "spark": [
     70.75,
     69.5,
     68.58000183105469,
-    67.43000030517578
+    67.63999938964844
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4077.9,
-   "change": 9.6,
-   "change_pct": 0.24,
+   "price": 4132.2,
+   "change": 63.9,
+   "change_pct": 1.57,
    "spark": [
     4022.300048828125,
     4022.89990234375,
     4068.300048828125,
-    4077.89990234375
+    4132.2001953125
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.04,
-   "change": -0.35,
-   "change_pct": -0.35,
+   "price": 100.77,
+   "change": -0.62,
+   "change_pct": -0.61,
    "spark": [
     101.11000061035156,
     101.19000244140625,
     101.38999938964844,
-    101.03900146484375
+    100.77400207519531
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.62,
-   "change": 0.03,
-   "change_pct": 0.18,
+   "price": 16.18,
+   "change": -0.41,
+   "change_pct": -2.47,
    "spark": [
     18.40999984741211,
     17.649999618530273,
     16.450000762939453,
     16.59000015258789,
-    16.6200008392334
+    16.18000030517578
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.17,
-   "change": -0.05,
-   "change_pct": -1.46,
+   "price": 3.16,
+   "change": -0.06,
+   "change_pct": -1.99,
    "spark": [
     3.180999994277954,
     3.2750000953674316,
     3.2200000286102295,
-    3.1730000972747803
+    3.1559998989105225
    ]
   }
  },
@@ -219,22 +219,29 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-02T11:28:57.901205+00:00",
+   "published": "2026-07-02T13:18:08.979070+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-02T11:28:57.899582+00:00",
+   "published": "2026-07-02T13:18:08.977536+00:00",
    "severity": "info"
   },
   {
    "title": "Iran’s armed forces vow swift response to any US violation in Strait of Hormuz",
    "link": "https://presstv.ir/Detail/2026/07/02/771478/Iran-Khatam-al-Anbiya-Strait-of-Hormuz-US-interference-tankers-ceasefire-MoU-Trump",
    "source": "Press TV",
-   "published": "2026-07-02T11:28:57.894357+00:00",
+   "published": "2026-07-02T13:18:08.972422+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran warns US, Israel against attacks ahead of long-delayed Khamenei funeral",
+   "link": "https://www.timesofisrael.com/iran-warns-us-israel-against-attacks-ahead-of-long-delayed-khamenei-funeral/",
+   "source": "Times of Israel",
+   "published": "2026-07-02T12:18:33+00:00",
+   "severity": "medium"
   },
   {
    "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
@@ -312,13 +319,6 @@
    "source": "@reuters",
    "published": "2026-07-01T16:57:32.614+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Next indirect US-Iran talks after Khamenei funeral: mediators",
-   "link": "https://www.al-monitor.com/originals/2026/07/next-indirect-us-iran-talks-after-khamenei-funeral-mediators",
-   "source": "Al-Monitor",
-   "published": "2026-07-01T15:30:20+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -332,21 +332,21 @@
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-02T11:28:57.901205+00:00",
+     "published": "2026-07-02T13:18:08.979070+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-02T11:28:57.899582+00:00",
+     "published": "2026-07-02T13:18:08.977536+00:00",
      "severity": "info"
     },
     {
      "title": "Iran’s armed forces vow swift response to any US violation in Strait of Hormuz",
      "link": "https://presstv.ir/Detail/2026/07/02/771478/Iran-Khatam-al-Anbiya-Strait-of-Hormuz-US-interference-tankers-ceasefire-MoU-Trump",
      "source": "Press TV",
-     "published": "2026-07-02T11:28:57.894357+00:00",
+     "published": "2026-07-02T13:18:08.972422+00:00",
      "severity": "info"
     }
    ]
@@ -375,6 +375,206 @@
  ],
  "wh_statements": [
   {
+   "id": "82ef8a127d3e",
+   "title": "Ro Khanna Sends Blunt Message to Democratic ‘Old Guard’ After Progressive Wave: ‘Step Aside’",
+   "link": "https://www.mediaite.com/media/news/ro-khanna-sends-blunt-message-to-democratic-old-guard-after-progressive-wave-step-aside/",
+   "summary": "Khanna called on the Democratic Party's \"old guard\" to \"step aside\", warning their “era of cliches” is “over” and that voters are demanding “courage.” The post Ro Khanna Sends Blunt Message to Democratic ‘Old Guard’ After Progressive Wave: ‘Step Aside’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T13:16:09+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6297003ab6ed",
+   "title": "‘I’m Not Sure I Agree’: Stephen A. Smith Pushes Back on Birthright Citizenship Ruling",
+   "link": "https://www.mediaite.com/media/podcasts/im-not-sure-i-agree-stephen-a-smith-pushes-back-on-birthright-citizenship-ruling/",
+   "summary": "Stephen A. Smith pushed back on the Supreme Court's ruling on birthright citizenship, which rejected an executive order from President Donald Trump. The post ‘I’m Not Sure I Agree’: Stephen A. Smith Pushes Back on Birthright Citizenship Ruling first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T13:09:08+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "e14404470fb0",
+   "title": "WASHINGTON (AP) - US hiring falls to just 57,000 in June as employers pull back amid elevated inflation, global turmoil.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpo3vlkcys2v",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-02T13:05:41.463+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "34d69dbd0da8",
+   "title": "John Fetterman Reveals ‘the One Thing’ That Would Make Him Leave Democratic Party",
+   "link": "https://www.mediaite.com/media/tv/john-fetterman-reveals-the-one-thing-that-would-make-him-leave-democratic-party/",
+   "summary": "Fetterman previously shrugged off ideas of quitting his party but admitted to Hannity there was one line that if crossed would prompt him to leave. The post John Fetterman Reveals ‘the One Thing’ That Would Make Him Leave Democratic Party first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T12:56:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1c76437a0701",
+   "title": "\"The verdict finding Trump sexually abused & defamed Carroll is now final. He's out of courts to shop this to, & he’ll get no more appeals. And since he had to prepay the judgment & deposit it w/the court — along w/interest! — she won’t have to wait for him to cut the check.\" — @lizdye.bsky.social",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpo2uvx4o22h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:47:25.073+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "2d4cf257a1b9",
+   "title": "North Korean anchors are taking notes on Maria Bartiromo's response to weak economic data: \"President Trump has been calling it the golden age, and I gotta tell you, it certainly is feeling that way\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpo2rdxc7t23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:45:25.526+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1d40faf30f04",
+   "title": "It's giving \"this parking lot is the heart of the community\" vibes",
+   "link": "https://bsky.app/profile/jm-mcgrath.bsky.social/post/3mpo2ioem422e",
+   "summary": "",
+   "source": "@jm-mcgrath",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:40:34.472+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "88b7e6986a76",
+   "title": "DUN DUN DUN! 😱 Maria Bartiromo and company cope with an underwhelming June jobs report \"We came in underneath expectations ... I'm a little disappointed in this, frankly\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpo2gddlju2p",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:39:15.782+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "b485d3f966bf",
+   "title": "BREAKING MS NOW: The FBI is surging resources into what it calls a \"priority\" investigation related to the 2020 election in Georgia — an extraordinary effort to find nonexistent evidence to support Trump's election lies.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpo27wksmk2u",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:35:41.075+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "13da9314c50c",
+   "title": "Social Media Mocks Phony Collection of Books on New Air Force One, Including Ones Labeled ‘Library’",
+   "link": "https://www.mediaite.com/media/news/social-media-mocks-phony-collection-of-books-on-new-air-force-one-including-ones-labeled-library/",
+   "summary": "A sharp-eyed social media user called out the \"library\" on the new, $400-million Air Force One: a shelf full of apparently fake books. The post Social Media Mocks Phony Collection of Books on New Air Force One, Including Ones Labeled ‘Library’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T12:35:07+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "cdaa51fc19cd",
+   "title": "UN Ambassador Matt Whitaker: \"People are enjoying the United States of America because it's an awesome place. We have extraordinary things like Buc-ee's and Chick-fil-A, very convenient to eat in your car while you're having a phone call. It's an amazing country.\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpo227jgbx2m",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:32:29.123+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "d6520f54da7f",
+   "title": "You might not like how President Trump is running things. But if Harris had won, she’d be forcing you to live in a hippie commune and have a sex change under Sharia Law.",
+   "link": "https://bsky.app/profile/prchovanec.bsky.social/post/3mpnzwntkxk2z",
+   "summary": "",
+   "source": "@prchovanec",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:30:29.934+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "198a8b0ddf1e",
+   "title": "Chris Wright makes shit up: \"President Biden's goal for the United States was to be France -- tear everyone's air conditioners out\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpnzogb4sz23",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:25:53.540+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "24f42f7fe183",
+   "title": "Chris Wright: \"If we had President Harris right now, we'd be dealing with blackouts and massive economic disruption because they would've continued to close all the coal plants\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpnzl5vu7j2k",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:24:04.104+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "25cffbe4a1bf",
+   "title": "As Republican politicians cower in fear...one incredibly brave woman stood up to the man who assaulted her. She did this with full knowledge that he would use every bit of firepower he could muster to destroy her. And she won. YES! By @lizdye.bsky.social in @atrupar.com's PN:",
+   "link": "https://bsky.app/profile/susanmcp.bsky.social/post/3mpnyxst4ss2q",
+   "summary": "",
+   "source": "@susanmcp",
+   "category": "trump_bsky",
+   "published": "2026-07-02T12:13:14.974+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "246609be1379",
+   "title": "Thanks!",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpnxzwxrvc2h",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T11:56:32.689+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5dfec4b97ceb",
+   "title": "@lizdye.bsky.social makes the challenge by E. Jean Carroll visceral for all of us. Can we stand up against a tyrant?",
+   "link": "https://bsky.app/profile/sholahoon.bsky.social/post/3mpnxe4vip22u",
+   "summary": "",
+   "source": "@sholahoon",
+   "category": "trump_bsky",
+   "published": "2026-07-02T11:44:20.707+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "117dcc22814f",
+   "title": "MAGA Voters Rip Trump for Making $2B While in Office During Searing MS NOW Vox Pop: ‘I Don’t Think He Can Make Up for It’",
+   "link": "https://www.mediaite.com/media/tv/maga-voters-rip-trump-for-making-2b-while-in-office-during-searing-ms-now-vox-pop-i-dont-think-he-can-make-up-for-it/",
+   "summary": "Several Florida residents who had voted for Trump were asked about the disclosures and every one was unhappy with how much the president had made. The post MAGA Voters Rip Trump for Making $2B While in Office During Searing MS NOW Vox Pop: ‘I Don’t Think He Can Make Up for It’ first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T11:43:32+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "233c65d98e74",
+   "title": "New in PN: E. Jean Carroll Beat Trump. Again. \"As Republican politicians cower in fear, one incredibly brave woman stood up to the man who assaulted her. She did this with full knowledge that he would use every bit of firepower he could muster to destroy her. *And she won.*\"",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpnx5jwbn223",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T11:40:39.484+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "75688e980769",
+   "title": "E. Jean Carroll Beat Trump. Again.",
+   "link": "https://www.publicnotice.co/p/e-jean-carroll-case",
+   "summary": "As the cowards in Congress prostrate themselves, an 82-year-old woman took on the president and won.",
+   "source": "Rupar Public Notice",
+   "category": "rupar_substack",
+   "published": "2026-07-02T11:38:56+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "1d4e3b8cb445",
    "title": "CNN’s Laura Coates Airs Supercut of Trump Trashing Politicians for ‘Getting Rich’ While in Office",
    "link": "https://www.mediaite.com/media/tv/cnns-laura-coates-airs-supercut-of-trump-trashing-politicians-for-getting-rich-while-in-office/",
@@ -386,9 +586,9 @@
   },
   {
    "id": "f7a1adc1799e",
-   "title": "‘Doctor Trump’ Cures Celebrity Critics of ‘TDS’ in Bizarre Late-Night AI Video Post by Prez",
+   "title": "Trump Posts Bonkers AI Video of Himself as a Doctor Curing Celebs of ‘TDS’",
    "link": "https://www.mediaite.com/online/doctor-trump-cures-celebrity-critics-of-tds-in-bizarre-late-night-ai-video-post-by-prez/",
-   "summary": "The roughly 90-second clip comes with fake AI testimonials from The View’s Whoopi Goldberg, comedian Rosie O'Donnell and Hollywood stars, like Robert De Niro. The post ‘Doctor Trump’ Cures Celebrity Critics of ‘TDS’ in Bizarre Late-Night AI Video Post by Prez first appeared on Mediaite .",
+   "summary": "The roughly 90-second clip comes with fake AI testimonials from The View’s Whoopi Goldberg, comedian Rosie O'Donnell and Hollywood stars, like Robert De Niro. The post Trump Posts Bonkers AI Video of Himself as a Doctor Curing Celebs of ‘TDS’ first appeared on Mediaite .",
    "source": "Mediaite (all)",
    "category": "mediaite_all",
    "published": "2026-07-02T10:16:03+00:00",
@@ -772,206 +972,6 @@
    "source": "@nofirstorder",
    "category": "trump_bsky",
    "published": "2026-07-01T20:50:26.005+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "d82768560548",
-   "title": "European officials accuse FIFA chief of reopening door to Russia",
-   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/eu-vs-infantino-fifa-u-15-world-cup-russia-00984763",
-   "summary": "Inclusion of Russian teenagers in FIFA's new U-15 World Cup has reignited debate over Moscow's return to global competition.",
-   "source": "Politico Politics",
-   "category": "politico_pol",
-   "published": "2026-07-01T20:43:49+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "565a87cd5899",
-   "title": "Trump's head and neck are merging as one (Andrew Harnik/Getty)",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmeyqlja22c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:43:11.606+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4f333f2b956f",
-   "title": "House Republican Calls Out Top Trump Officials Over New Revelations of Continued Signal Chats",
-   "link": "https://www.mediaite.com/media/news/house-republican-calls-out-top-trump-officials-over-new-revelations-of-continued-signal-chats/",
-   "summary": "\"I was notified by law enforcement and House cyber experts that Russia hacked my Signal months ago.” The post House Republican Calls Out Top Trump Officials Over New Revelations of Continued Signal Chats first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:41:21+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6589f4574d3a",
-   "title": "Trump pays tribute to Teddy Roosevelt with some double jerk dancing",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmeffcugz2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:32:22.235+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3ef524e57aab",
-   "title": "Trump: \"If John or Kevin were crooked, I'd say, 'They're crooked pols!' But they're honest. Maybe they're too honest. We gotta get a little action going here, fellas!\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmedhtggc2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:31:17.769+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "20dfb911a9f1",
-   "title": "www.politico.com/newsletters/...",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpmedhk2m22m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:31:17.480+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8ed100c9fbac",
-   "title": "Trump purchased stock worth between $1 million and $5 million each across a suite of tech companies — Broadcom, Meta, Amazon, Apple, Microsoft and Nvidia — on July 23, 2025, the same day the White House rolled out its \"AI Action Plan.\"",
-   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpmedcof5s2m",
-   "summary": "",
-   "source": "@kylegriffin1",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:31:12.380+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "8e0915317442",
-   "title": "Trump: \"This is a big, strong guy. But the women. You know the women rule? All the guys know. This guy is a big, powerful guy, and he was petrified of his wife. But he said, 'My wife now respects me again.'\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmebvoupt2d",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:30:25.191+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "1fad5c3bd458",
-   "title": "Trump calls Darializa Chevalier a \"disgusting pig\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmebn2e4b2c",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:30:16.135+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2d7864e1f30c",
-   "title": "US Navy Scrambling to Rescue Troop After Helicopter Makes Emergency Landing in Arabian Sea",
-   "link": "https://www.mediaite.com/media/news/us-navy-scrambling-to-rescue-troop-after-helicopter-makes-emergency-landing-in-arabian-sea/",
-   "summary": "The U.S. Navy is scouring the Arabian Sea for a missing aircrewman after the helicopter he was on made an emergency landing on Wednesday The post US Navy Scrambling to Rescue Troop After Helicopter Makes Emergency Landing in Arabian Sea first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:29:30+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "7aa7b3a04ad6",
-   "title": "Trump: \"Total control. We have total control of everything. This is just the beginning of the golden age of America. We're in the golden age of America.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpme7trbnn2l",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:29:16.065+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "de50e8c5950b",
-   "title": "NPR Got the Most Important Part Right in How They Handled the Alito Story Screw Up",
-   "link": "https://www.mediaite.com/opinion/npr-got-the-most-important-part-right-in-how-they-handled-the-alito-story-screw-up/",
-   "summary": "How NPR and Nina Totenberg responded to her erroneous report that Justice Samuel Alito was retiring presents a helpful, ethical, and strategic model for journalists to follow. The post NPR Got the Most Important Part Right in How They Handled the Alito Story Screw Up first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:28:43+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "46e6af1b934e",
-   "title": "TRUMP: Who has a 401k? CROWD: *three people clap* TRUMP: Big percentage of the audience",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpme2kqood22",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:26:18.840+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "28a8a96e207b",
-   "title": "Straight back to the nursing home",
-   "link": "https://bsky.app/profile/grudgie.bsky.social/post/3mpmdys5lls2f",
-   "summary": "",
-   "source": "@grudgie",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:25:19.508+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "95b124c37e12",
-   "title": "ok just skimming these posts, so far trump's TR library dedication speech has been about the fictional 350 foot gash in the pool, the fictional algae saboteurs, his own (\"just joking hahahah\") pathetic desire for a congressional medal of honor, and his own vote count.",
-   "link": "https://bsky.app/profile/tomtomorrow.bsky.social/post/3mpmdy7t4yk2b",
-   "summary": "",
-   "source": "@tomtomorrow",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:25:00.291+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2e6872398417",
-   "title": "Trump's crowd in North Dakota is totally silent as Trump struggles to catch his breath and rants incoherently an hour into this speech",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmdxcd42s2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:24:29.341+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3b988a6fe582",
-   "title": "Trump's tribute speech to TR: \"I refuse to tell you -- my son says, 'Dad don't say that,' so I won't -- I refuse to tell you who got more votes, me or the legendary, and he was great, Theodore Roosevelt. I refuse to say. Because you'll say, 'He's a braggart! He's a terrible human being!'\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmds6mefx2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:21:37.678+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "41afcec527b5",
-   "title": "Trump on Reflecting Pool: We got rid of the algae which they put in. They put in algae. Who the hell put in algae????",
-   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpmdrsxyhc2b",
-   "summary": "",
-   "source": "@acyn",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:21:25.361+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "a29a018ecf69",
-   "title": "Trump Quips He’s Going to Make a ‘Really Long Speech’ As Temps Set to Hit 107 On July 4th",
-   "link": "https://www.mediaite.com/media/news/donald-trump-really-long-speech-fourth-of-july/",
-   "summary": "Donald Trump joked he's planning to deliver \"a really long speech\" in Washington, D.C., as the temperatures are expected to reach approximately 107 degrees. The post Trump Quips He’s Going to Make a ‘Really Long Speech’ As Temps Set to Hit 107 On July 4th first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:20:53+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "f2a71cd0ea07",
-   "title": "Trump: \"We have the reflecting pond, which we did the best job of all, and they came and with boxcutters and they cut it up. But it's working fine. We're gonna let the water out. Redo it a little bit ... 350 foot gash. They got caught. We'll see what happens with them.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmdpm43442s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:20:11.161+00:00",
    "iran_topic": false
   }
  ]
