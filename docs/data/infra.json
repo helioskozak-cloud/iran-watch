@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-02T08:46:38.810079+00:00",
+ "generated": "2026-07-02T11:29:40.370626+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 70.86,
-   "change": -0.71,
-   "change_pct": -0.99,
+   "price": 70.49,
+   "change": -1.08,
+   "change_pct": -1.51,
    "spark": [
     73.1500015258789,
     72.91999816894531,
     71.56999969482422,
-    70.86000061035156
+    70.48999786376953
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 67.94,
-   "change": -0.64,
-   "change_pct": -0.93,
+   "price": 67.43,
+   "change": -1.15,
+   "change_pct": -1.68,
    "spark": [
     70.75,
     69.5,
     68.58000183105469,
-    67.94000244140625
+    67.43000030517578
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4086.3,
-   "change": 18.0,
-   "change_pct": 0.44,
+   "price": 4077.9,
+   "change": 9.6,
+   "change_pct": 0.24,
    "spark": [
     4022.300048828125,
     4022.89990234375,
     4068.300048828125,
-    4086.300048828125
+    4077.89990234375
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 100.96,
-   "change": -0.43,
-   "change_pct": -0.43,
+   "price": 101.04,
+   "change": -0.35,
+   "change_pct": -0.35,
    "spark": [
     101.11000061035156,
     101.19000244140625,
     101.38999938964844,
-    100.95899963378906
+    101.03900146484375
    ]
   },
   "^GSPC": {
@@ -84,28 +84,28 @@
   "^VIX": {
    "label": "VIX",
    "symbol": "^VIX",
-   "price": 16.73,
-   "change": 0.14,
-   "change_pct": 0.84,
+   "price": 16.62,
+   "change": 0.03,
+   "change_pct": 0.18,
    "spark": [
     18.40999984741211,
     17.649999618530273,
     16.450000762939453,
     16.59000015258789,
-    16.729999542236328
+    16.6200008392334
    ]
   },
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.18,
-   "change": -0.04,
-   "change_pct": -1.34,
+   "price": 3.17,
+   "change": -0.05,
+   "change_pct": -1.46,
    "spark": [
     3.180999994277954,
     3.2750000953674316,
     3.2200000286102295,
-    3.177000045776367
+    3.1730000972747803
    ]
   }
  },
@@ -219,15 +219,29 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-02T08:45:59.694484+00:00",
+   "published": "2026-07-02T11:28:57.901205+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-02T08:45:59.692937+00:00",
+   "published": "2026-07-02T11:28:57.899582+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Iran’s armed forces vow swift response to any US violation in Strait of Hormuz",
+   "link": "https://presstv.ir/Detail/2026/07/02/771478/Iran-Khatam-al-Anbiya-Strait-of-Hormuz-US-interference-tankers-ceasefire-MoU-Trump",
+   "source": "Press TV",
+   "published": "2026-07-02T11:28:57.894357+00:00",
+   "severity": "info"
+  },
+  {
+   "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-07-02T08:19:11+00:00",
+   "severity": "medium"
   },
   {
    "title": "Gharibabadi: Hormuz defined under Iran’s command, not Washington’s",
@@ -305,20 +319,6 @@
    "source": "Al-Monitor",
    "published": "2026-07-01T15:30:20+00:00",
    "severity": "low"
-  },
-  {
-   "title": "“This Is a Russian Warship—Stay Away: ” Russian Corvette Forces Greenpeace Back From a Shadow Fleet Tanker",
-   "link": "https://www.reddit.com/r/worldnews/comments/1ukod7s/this_is_a_russian_warshipstay_away_russian/",
-   "source": "r/worldnews",
-   "published": "2026-07-01T15:09:38+00:00",
-   "severity": "info"
-  },
-  {
-   "title": "‘Never the same’: How war on Iran changed the global energy sector",
-   "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-07-01T14:45:04+00:00",
-   "severity": "info"
   }
  ],
  "chokepoints": [
@@ -326,28 +326,28 @@
    "name": "Strait of Hormuz",
    "description": "20% of global oil + LNG transit. Iran-controlled north shore.",
    "status": "WATCH",
-   "incident_count": 7,
+   "incident_count": 9,
    "recent": [
     {
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-02T08:45:59.694484+00:00",
+     "published": "2026-07-02T11:28:57.901205+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-02T08:45:59.692937+00:00",
+     "published": "2026-07-02T11:28:57.899582+00:00",
      "severity": "info"
     },
     {
-     "title": "Gharibabadi: Hormuz defined under Iran’s command, not Washington’s",
-     "link": "https://en.irna.ir/news/86198728/Gharibabadi-Hormuz-defined-under-Iran-s-command-not-Washington-s",
-     "source": "IRNA",
-     "published": "2026-07-02T06:43:47+00:00",
-     "severity": "low"
+     "title": "Iran’s armed forces vow swift response to any US violation in Strait of Hormuz",
+     "link": "https://presstv.ir/Detail/2026/07/02/771478/Iran-Khatam-al-Anbiya-Strait-of-Hormuz-US-interference-tankers-ceasefire-MoU-Trump",
+     "source": "Press TV",
+     "published": "2026-07-02T11:28:57.894357+00:00",
+     "severity": "info"
     }
    ]
   },
@@ -374,6 +374,36 @@
   }
  ],
  "wh_statements": [
+  {
+   "id": "1d4e3b8cb445",
+   "title": "CNN’s Laura Coates Airs Supercut of Trump Trashing Politicians for ‘Getting Rich’ While in Office",
+   "link": "https://www.mediaite.com/media/tv/cnns-laura-coates-airs-supercut-of-trump-trashing-politicians-for-getting-rich-while-in-office/",
+   "summary": "Coates aired a supercut to contrast Trump’s old rhetoric, trashing politicians for “getting rich” in office, after reports of “billion dollar windfall.” The post CNN’s Laura Coates Airs Supercut of Trump Trashing Politicians for ‘Getting Rich’ While in Office first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T10:31:49+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f7a1adc1799e",
+   "title": "‘Doctor Trump’ Cures Celebrity Critics of ‘TDS’ in Bizarre Late-Night AI Video Post by Prez",
+   "link": "https://www.mediaite.com/online/doctor-trump-cures-celebrity-critics-of-tds-in-bizarre-late-night-ai-video-post-by-prez/",
+   "summary": "The roughly 90-second clip comes with fake AI testimonials from The View’s Whoopi Goldberg, comedian Rosie O'Donnell and Hollywood stars, like Robert De Niro. The post ‘Doctor Trump’ Cures Celebrity Critics of ‘TDS’ in Bizarre Late-Night AI Video Post by Prez first appeared on Mediaite .",
+   "source": "Mediaite (all)",
+   "category": "mediaite_all",
+   "published": "2026-07-02T10:16:03+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "9c0197b9943b",
+   "title": "'The old politics are gone': Steve Bannon on the democratic socialist wave",
+   "link": "https://www.politico.com/news/2026/07/02/the-old-politics-are-gone-steve-bannon-on-the-democratic-socialist-wave-00985060",
+   "summary": "Trump's former White House chief strategist argues the U.S. is in a transformational political moment — and leadership in both parties are way behind.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-07-02T09:55:00+00:00",
+   "iran_topic": false
+  },
   {
    "id": "3b36fccaca38",
    "title": "White House Officials Reportedly Deleted Photos of Trump Rally After President Became ‘Enraged’ by Poor Attendance",
@@ -942,36 +972,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-07-01T20:20:11.161+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b8bc9c709a1a",
-   "title": "Trump: \"They put in algae! Who the hell puts in algae?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmdpiihvb2h",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:20:07.375+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "0e8b941deb82",
-   "title": "Trump says the 14th Amendment, which was ratified in 1868, was ratified \"a month after the Civil War ended\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmdhdc73h2s",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:15:33.488+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "45134d09378a",
-   "title": "Shock Report Says Mitch McConnell Was Found ‘Unconscious’ After Possible Heart Attack Last Month",
-   "link": "https://www.mediaite.com/media/news/shock-report-says-mitch-mcconnell-was-found-unconscious-after-possible-heart-attack-last-month/",
-   "summary": "Mitch McConnell (R-KY) was found unconscious in his home in Washington D.C. last month after a possible heart attack, according to a report. The post Shock Report Says Mitch McConnell Was Found ‘Unconscious’ After Possible Heart Attack Last Month first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:13:19+00:00",
    "iran_topic": false
   }
  ]
