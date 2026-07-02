@@ -1,56 +1,56 @@
 {
- "generated": "2026-07-01T23:55:01.829291+00:00",
+ "generated": "2026-07-02T02:59:11.140227+00:00",
  "prices": {
   "BZ=F": {
    "label": "Brent Crude",
    "symbol": "BZ=F",
-   "price": 71.15,
-   "change": -1.77,
-   "change_pct": -2.43,
+   "price": 70.86,
+   "change": -2.06,
+   "change_pct": -2.83,
    "spark": [
     71.98999786376953,
     73.1500015258789,
     72.91999816894531,
-    71.1500015258789
+    70.86000061035156
    ]
   },
   "CL=F": {
    "label": "WTI Crude",
    "symbol": "CL=F",
-   "price": 68.04,
-   "change": -1.46,
-   "change_pct": -2.1,
+   "price": 67.74,
+   "change": -1.76,
+   "change_pct": -2.53,
    "spark": [
     69.2300033569336,
     70.75,
     69.5,
-    68.04000091552734
+    67.73999786376953
    ]
   },
   "GC=F": {
    "label": "Gold",
    "symbol": "GC=F",
-   "price": 4047.8,
-   "change": 24.9,
-   "change_pct": 0.62,
+   "price": 4067.0,
+   "change": 44.1,
+   "change_pct": 1.1,
    "spark": [
     4078.699951171875,
     4022.300048828125,
     4022.89990234375,
-    4047.800048828125
+    4067.0
    ]
   },
   "DX-Y.NYB": {
    "label": "USD Index",
    "symbol": "DX-Y.NYB",
-   "price": 101.41,
-   "change": 0.22,
-   "change_pct": 0.22,
+   "price": 101.35,
+   "change": 0.16,
+   "change_pct": 0.16,
    "spark": [
     101.36000061035156,
     101.11000061035156,
     101.19000244140625,
-    101.41300201416016
+    101.35299682617188
    ]
   },
   "^GSPC": {
@@ -98,14 +98,14 @@
   "NG=F": {
    "label": "Nat Gas",
    "symbol": "NG=F",
-   "price": 3.21,
-   "change": -0.07,
-   "change_pct": -2.08,
+   "price": 3.2,
+   "change": -0.08,
+   "change_pct": -2.38,
    "spark": [
     3.2309999465942383,
     3.180999994277954,
     3.2750000953674316,
-    3.2070000171661377
+    3.197000026702881
    ]
   }
  },
@@ -219,15 +219,22 @@
    "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
    "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
    "source": "Press TV",
-   "published": "2026-07-01T23:54:20.592375+00:00",
+   "published": "2026-07-02T02:58:05.785201+00:00",
    "severity": "high"
   },
   {
    "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
    "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
    "source": "Press TV",
-   "published": "2026-07-01T23:54:20.590686+00:00",
+   "published": "2026-07-02T02:58:05.783532+00:00",
    "severity": "info"
+  },
+  {
+   "title": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+   "link": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-07-02T02:15:06+00:00",
+   "severity": "medium"
   },
   {
    "title": "From Breakingviews - Breakingviews - Tanker data is better Hormuz gauge than oil prices reut.rs/3QOutEO",
@@ -312,13 +319,6 @@
    "source": "@ewong",
    "published": "2026-07-01T14:36:25.148+00:00",
    "severity": "info"
-  },
-  {
-   "title": "Iranian FM: If Trump’s Tel Aviv ‘pets’ aren’t controlled, ‘Iran will school them’",
-   "link": "https://www.timesofisrael.com/iranian-fm-if-trumps-tel-aviv-pets-arent-controlled-iran-will-school-them/",
-   "source": "Times of Israel",
-   "published": "2026-07-01T13:46:41+00:00",
-   "severity": "low"
   }
  ],
  "chokepoints": [
@@ -332,14 +332,14 @@
      "title": "Tensions flare in Washington as Vance, Rubio clash over Persian Gulf policy, 2028 ambitions: Report",
      "link": "https://presstv.ir/Detail/2026/06/29/771323/tensions-flare-inside-trump-admin-vance-rubio-clash-persian-gulf-policy-2028-ambitiions-report",
      "source": "Press TV",
-     "published": "2026-07-01T23:54:20.592375+00:00",
+     "published": "2026-07-02T02:58:05.785201+00:00",
      "severity": "high"
     },
     {
      "title": "Mission unaccomplished – Part VII: US sought Iran's collapse but settled for reopening Hormuz Strait",
      "link": "https://presstv.ir/Detail/2026/06/30/771346/mission-unaccomplished-partvii-us-war-goal-shrank-ending-iran-civilization-reopening-strait-hormuz",
      "source": "Press TV",
-     "published": "2026-07-01T23:54:20.590686+00:00",
+     "published": "2026-07-02T02:58:05.783532+00:00",
      "severity": "info"
     },
     {
@@ -375,6 +375,66 @@
  ],
  "wh_statements": [
   {
+   "id": "8ef623454abe",
+   "title": "Fetterman: You know every time you tell voters to say oh it’s ok, no problem here, no problem here, people—people though they have eyes, they have ears, they’re appalled by it to across you know people then you lose your credibility.",
+   "link": "https://bsky.app/profile/acyn.bsky.social/post/3mpmwecucge2t",
+   "summary": "",
+   "source": "@acyn",
+   "category": "trump_bsky",
+   "published": "2026-07-02T01:53:52.538+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "076d25b8a780",
+   "title": "It goes without saying that folks like Stephen Miller are banned from rooting on Team USA at the World Cup.",
+   "link": "https://bsky.app/profile/bradmossesq.bsky.social/post/3mpmthqmkg22y",
+   "summary": "",
+   "source": "@bradmossesq",
+   "category": "trump_bsky",
+   "published": "2026-07-02T01:02:07.345+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7e72c6f06396",
+   "title": "A federal judge in Washington just blocked the U.S. Postal Service from carrying out changes to its delivery of mail-in ballots — writing that recent policies directed by Trump ran afoul of legal terms the agency accepted more than four years ago to ensure timely delivery of mail ballots.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpmtf55uis2r",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-02T01:00:39.831+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1e396c1dee7f",
+   "title": "Birthright citizens score",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/big-week-birthright-citizens-folarin-balogun-supreme-court-00985309",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-02T00:59:48+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "719866f199cb",
+   "title": "USMNT > SCOTUS",
+   "link": "https://bsky.app/profile/prasad.bsky.social/post/3mpmstbcpb227",
+   "summary": "",
+   "source": "@prasad",
+   "category": "trump_bsky",
+   "published": "2026-07-02T00:50:40.205+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "f031723bb628",
+   "title": "Folarin Balogun, who is a US citizen because he was born here, scores a go-ahead goal for the US team in a knockout game. Score one for birthright citizenship.",
+   "link": "https://bsky.app/profile/atrupar.com/post/3mpmsq5ta622f",
+   "summary": "",
+   "source": "@atrupar",
+   "category": "trump_bsky",
+   "published": "2026-07-02T00:48:55.889+00:00",
+   "iran_topic": false
+  },
+  {
    "id": "d5dc68bbc2d4",
    "title": "VARGAS: Trump revealed that he and family raked in $2b. Does that make it harder for Republicans like you to argue that he has their affordability in mind? MIKE LAWLER: I can tell you one-party Democratic rule in NY has not resulted in affordability VARGAS: You didn't answer my question",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpmovcufkw2p",
@@ -392,16 +452,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-07-01T23:35:11.195+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "b849229c52e1",
-   "title": "WSJ Editorial Board Accuses Trump Family of ‘Cashing In on the Presidency in Big and Sketchy Ways’",
-   "link": "https://www.mediaite.com/media/news/wsj-editorial-board-accuses-trump-family-of-cashing-in-on-the-presidency-in-big-and-sketchy-ways/",
-   "summary": "President Donald Trump and his family's financial dealings drew sharp criticism from The Wall Street Journal's editorial board on Wednesday, with the conservative newspaper accusing the Trumps of \"cashing in on the Presidency in big and sketchy ways.\" The post WSJ Editorial Board Accuses Trump Family of ‘Cashing In on the Presidency in Big and Sketchy Ways’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T23:24:51+00:00",
    "iran_topic": false
   },
   {
@@ -445,26 +495,6 @@
    "iran_topic": false
   },
   {
-   "id": "e2968d79f6dd",
-   "title": "Jake Tapper Confronts Comer About ‘Eye-Popping $2.2 Billion’ Trump Made Last Year: ‘You Investigated the Biden Family…’",
-   "link": "https://www.mediaite.com/media/tv/jake-tapper-confronts-james-comer-about-eye-popping-2-2-billion-trump-made-last-year-you-investigated-the-biden-family/",
-   "summary": "CNN's Jake Tapper questioned Rep. James Comer about the staggering amounts of money President Donald Trump made last year, about $2.2 billion to be exact. The post Jake Tapper Confronts Comer About ‘Eye-Popping $2.2 Billion’ Trump Made Last Year: ‘You Investigated the Biden Family…’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T22:55:51+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fa8b4f60c188",
-   "title": "Trump Recalls ‘Conversation’ With Theodore Roosevelt — Who Died 27 Years Before He Was Born",
-   "link": "https://www.mediaite.com/media/tv/trump-recalls-conversation-with-theodore-roosevelt-who-died-27-years-before-he-was-born/",
-   "summary": "President Donald Trump claimed Wednesday that he once had a \"conversation\" with former President Theodore Roosevelt about the Panama Canal, even though Roosevelt died in 1919 — nearly three decades before Trump was born in 1946. The post Trump Recalls ‘Conversation’ With Theodore Roosevelt — Who Died 27 Years Before He Was Born first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T22:51:04+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "bc8980eb8569",
    "title": "‘It's not very often that you get, like, really great news from Bosnia’",
    "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/world-cup-bosnian-americans-st-louis-00984932",
@@ -492,26 +522,6 @@
    "source": "@kylegriffin1",
    "category": "trump_bsky",
    "published": "2026-07-01T22:10:34.837+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "2ee99169ee7d",
-   "title": "Less Than Half of Democrats Are Proud Americans, New America 250 Poll Shows",
-   "link": "https://www.mediaite.com/politics/less-than-half-of-democrats-are-proud-americans-new-america-250-poll-shows/",
-   "summary": "Are you proud to be an American? If so, the odds are you are not a Democrat, according to a new Marist poll that showed only 45% of Democrats are proud citizens The post Less Than Half of Democrats Are Proud Americans, New America 250 Poll Shows first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T21:50:50+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "6d4b0891854d",
-   "title": "U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘The Bill Must Come Due’",
-   "link": "https://www.mediaite.com/media/news/u-s-air-force-officer-arrested-on-capitol-steps-for-call-to-impeach-trump-the-bill-must-come-due/",
-   "summary": "Air Force Major Jason Watson was arrested after he joined others to call for the impeachment and removal from office of President Donald Trump and Vice President JD Vance. The post U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘The Bill Must Come Due’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T21:47:26+00:00",
    "iran_topic": false
   },
   {
@@ -545,18 +555,8 @@
    "iran_topic": false
   },
   {
-   "id": "0576ad665f24",
-   "title": "‘3 WHITE DUDES?!’ Stephen A. Smith Gobsmacked by LA Lakers’ Top Players All Being White",
-   "link": "https://www.mediaite.com/media/sports/3-white-dudes-stephen-a-smith-gobsmacked-by-la-lakers-top-players-all-being-white/",
-   "summary": "Stephen A. Smith was stunned by the fact that three of the Los Angles Lakers' top players in the 2026 season were all going to be white. The post ‘3 WHITE DUDES?!’ Stephen A. Smith Gobsmacked by LA Lakers’ Top Players All Being White first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T21:04:24+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "8d6e591c37e6",
-   "title": "Inside FEMA’s World Cup nerve center",
+   "title": "Inside the DHS World Cup nerve center",
    "link": "https://www.politico.com/news/2026/07/01/inside-femas-world-cup-nerve-center-00984975",
    "summary": "The 24/7 command center offers a rare window into the machinery and threat assessments that underpin the largest sporting event ever staged in North America.",
    "source": "Politico WH",
@@ -572,16 +572,6 @@
    "source": "@jeffgoodell",
    "category": "trump_bsky",
    "published": "2026-07-01T20:56:36.813+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "cf18b33fca7c",
-   "title": "Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons the Medal of Honor ‘For Something’",
-   "link": "https://www.mediaite.com/media/news/trump-drops-wild-rant-about-giving-his-sons-medals/",
-   "summary": "While delivering a speech at the opening of the Theodore Roosevelt Presidential Library, Donald Trump joked about having \"a threesome\" with his oldest sons. The post Trump Goes On Wild Rant About Wanting to Give Himself And Two Sons the Medal of Honor ‘For Something’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:54:28+00:00",
    "iran_topic": false
   },
   {
@@ -612,16 +602,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-07-01T20:43:11.606+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4f333f2b956f",
-   "title": "House Republican Calls Out Top Trump Officials Over New Revelations of Continued Signal Chats",
-   "link": "https://www.mediaite.com/media/news/house-republican-calls-out-top-trump-officials-over-new-revelations-of-continued-signal-chats/",
-   "summary": "\"I was notified by law enforcement and House cyber experts that Russia hacked my Signal months ago.” The post House Republican Calls Out Top Trump Officials Over New Revelations of Continued Signal Chats first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:41:21+00:00",
    "iran_topic": false
   },
   {
@@ -685,16 +665,6 @@
    "iran_topic": false
   },
   {
-   "id": "2d7864e1f30c",
-   "title": "US Navy Scrambling to Rescue Troop After Helicopter Makes Emergency Landing in Arabian Sea",
-   "link": "https://www.mediaite.com/media/news/us-navy-scrambling-to-rescue-troop-after-helicopter-makes-emergency-landing-in-arabian-sea/",
-   "summary": "The U.S. Navy is scouring the Arabian Sea for a missing aircrewman after the helicopter he was on made an emergency landing on Wednesday The post US Navy Scrambling to Rescue Troop After Helicopter Makes Emergency Landing in Arabian Sea first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:29:30+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "7aa7b3a04ad6",
    "title": "Trump: \"Total control. We have total control of everything. This is just the beginning of the golden age of America. We're in the golden age of America.\"",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpme7trbnn2l",
@@ -702,16 +672,6 @@
    "source": "@atrupar",
    "category": "trump_bsky",
    "published": "2026-07-01T20:29:16.065+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "de50e8c5950b",
-   "title": "NPR Got the Most Important Part Right in How They Handled the Alito Story Screw Up",
-   "link": "https://www.mediaite.com/opinion/npr-got-the-most-important-part-right-in-how-they-handled-the-alito-story-screw-up/",
-   "summary": "How NPR and Nina Totenberg responded to her erroneous report that Justice Samuel Alito was retiring presents a helpful, ethical, and strategic model for journalists to follow. The post NPR Got the Most Important Part Right in How They Handled the Alito Story Screw Up first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:28:43+00:00",
    "iran_topic": false
   },
   {
@@ -775,16 +735,6 @@
    "iran_topic": false
   },
   {
-   "id": "a29a018ecf69",
-   "title": "Trump Quips He’s Going to Make a ‘Really Long Speech’ As Temps Set to Hit 107 On July 4th",
-   "link": "https://www.mediaite.com/media/news/donald-trump-really-long-speech-fourth-of-july/",
-   "summary": "Donald Trump joked he's planning to deliver \"a really long speech\" in Washington, D.C., as the temperatures are expected to reach approximately 107 degrees. The post Trump Quips He’s Going to Make a ‘Really Long Speech’ As Temps Set to Hit 107 On July 4th first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:20:53+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "f2a71cd0ea07",
    "title": "Trump: \"We have the reflecting pond, which we did the best job of all, and they came and with boxcutters and they cut it up. But it's working fine. We're gonna let the water out. Redo it a little bit ... 350 foot gash. They got caught. We'll see what happens with them.\"",
    "link": "https://bsky.app/profile/atrupar.com/post/3mpmdpm43442s",
@@ -815,36 +765,6 @@
    "iran_topic": false
   },
   {
-   "id": "b3dae03608a7",
-   "title": "Trump on Democrats: \"They're nasty people, but they're losers. We'll teach 'em. We're gonna teach 'em. They're not gonna hurt our country.\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmddmjvoj2t",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:13:28.963+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "45134d09378a",
-   "title": "Shock Report Says Mitch McConnell Was Found ‘Unconscious’ After Possible Heart Attack Last Month",
-   "link": "https://www.mediaite.com/media/news/shock-report-says-mitch-mcconnell-was-found-unconscious-after-possible-heart-attack-last-month/",
-   "summary": "Mitch McConnell (R-KY) was found unconscious in his home in Washington D.C. last month after a possible heart attack, according to a report. The post Shock Report Says Mitch McConnell Was Found ‘Unconscious’ After Possible Heart Attack Last Month first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:13:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "3758d9b8ecf3",
-   "title": "Trump jokes he's going to award himself and one of his sons Medals of Honor for \"taking on Russia Russia Russia\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmdd3krz32k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:13:11.163+00:00",
-   "iran_topic": false
-  },
-  {
    "id": "4c6a0fdf8093",
    "title": "if your 80yr old parent was talking about having conversations with someone who died ~27 years before they were even born, you'd be getting power-of-attorney in place bsky.app/profile/atru...",
    "link": "https://bsky.app/profile/sky.skymarchini.net/post/3mpmdcp7iek2z",
@@ -852,56 +772,6 @@
    "source": "@sky",
    "category": "trump_bsky",
    "published": "2026-07-01T20:12:58.227+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "e06d2ec94739",
-   "title": "Trump: \"His son was brave. It's genetics. It's like the race horse theory, right?\"",
-   "link": "https://bsky.app/profile/atrupar.com/post/3mpmd6sfb622k",
-   "summary": "",
-   "source": "@atrupar",
-   "category": "trump_bsky",
-   "published": "2026-07-01T20:10:47.330+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "4497ce57ef98",
-   "title": "Fox News Programming Dominates the Competition As Cable News Sees Quarterly Ratings Drop",
-   "link": "https://www.mediaite.com/media/news/fox-news-programming-dominates-the-competition-as-cable-news-sees-quarterly-ratings-drop/",
-   "summary": "Fox News had a dominant showing despite the cable news industry as a whole seeing a slight dip in viewership in the second quarter of 2026. The post Fox News Programming Dominates the Competition As Cable News Sees Quarterly Ratings Drop first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T20:00:19+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "fcd3781398c9",
-   "title": "NBC’s Steve Kornacki Goes Viral for His Bewildered Read of GOP Candidate’s Utterly Bonkers Bio: ‘Alluded to Having Killed’ People",
-   "link": "https://www.mediaite.com/politics/nbcs-steve-kornacki-goes-viral-for-his-bewildered-read-of-gop-candidates-utterly-bonkers-bio-alluded-to-having-killed-people/",
-   "summary": "“If Victor Marx loses the primary for Colorado governor, we may never find how many people he’s killed. And I am still really curious.” The post NBC’s Steve Kornacki Goes Viral for His Bewildered Read of GOP Candidate’s Utterly Bonkers Bio: ‘Alluded to Having Killed’ People first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T19:49:36+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "ea734551d6ab",
-   "title": "‘They’re Not Journalists!’ Bill O’Reilly Disses Tucker Carlson and Megyn Kelly After Being Asked About Anti-Trump Turn",
-   "link": "https://www.mediaite.com/media/news/theyre-not-journalists-bill-oreilly-disses-tucker-carlson-and-megyn-kelly-after-being-asked-about-anti-trump-turn/",
-   "summary": "Bill O'Reilly dissed his former Fox News colleagues Tucker Carlson and Megyn Kelly after being asked about their anti-Trump turn by Piers Morgan on Tuesday. The post ‘They’re Not Journalists!’ Bill O’Reilly Disses Tucker Carlson and Megyn Kelly After Being Asked About Anti-Trump Turn first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T19:40:26+00:00",
-   "iran_topic": false
-  },
-  {
-   "id": "790f654dca78",
-   "title": "Jonathan Swan Slams Trump-Hitler Comparisons: ‘They’re Just Totally Invalid’",
-   "link": "https://www.mediaite.com/media/podcasts/jonathan-swan-slams-trump-hitler-comparisons-theyre-just-totally-invalid/",
-   "summary": "Reporter and \"Regime Change\" co-author Jonathan Swan dismissed comparisons between President Donald Trump and Adolf Hitler as \"totally invalid.\" The post Jonathan Swan Slams Trump-Hitler Comparisons: ‘They’re Just Totally Invalid’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T19:33:16+00:00",
    "iran_topic": false
   },
   {
@@ -935,43 +805,173 @@
    "iran_topic": false
   },
   {
-   "id": "7f54326964e9",
-   "title": "Dave Portnoy Gives Blunt Reaction After Learning of SCOTUS Trans Sports Ruling on Live TV: ‘Duh!’",
-   "link": "https://www.mediaite.com/media/news/dave-portnoy-gives-blunt-reaction-after-learning-of-scotus-trans-sports-ruling-on-live-tv-duh/",
-   "summary": "Barstool Sports founder Dave Portnoy had a predictably blunt response when told the Supreme Court ruled in favor of Idaho and West Virginia's laws against transgender athletes. The post Dave Portnoy Gives Blunt Reaction After Learning of SCOTUS Trans Sports Ruling on Live TV: ‘Duh!’ first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T19:04:54+00:00",
+   "id": "d8741ba700e8",
+   "title": "Courts just blocked the Trump DOJ from accessing state voter rolls for the 10th time — this time in New Hampshire. A federal judge dismissed the Justice Department effort — saying it didn't comply with a section of the Civil Rights Act of 1960 pertaining to federal election records.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpm64tia2s2s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T18:40:12.672+00:00",
    "iran_topic": false
   },
   {
-   "id": "5fabc830a1d8",
-   "title": "Tucker Carlson Is Building a New Political Party After Ditching the Republicans",
-   "link": "https://www.mediaite.com/media/tucker-carlson-is-building-a-new-political-party-after-ditching-the-republicans/",
-   "summary": "Tucker Carlson on Wednesday said he is working to \"help build\" a new third party, shortly after he publicly announced he was done supporting Republicans The post Tucker Carlson Is Building a New Political Party After Ditching the Republicans first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T19:00:59+00:00",
+   "id": "d042c0239f7b",
+   "title": "Bar pregnant foreigners from entering US? Trump allies considering all options after Supreme Court defeat.",
+   "link": "https://www.politico.com/news/2026/07/01/after-supreme-court-loss-on-birthright-citizenship-white-house-eyes-crackdown-on-pregnant-foreigners-00984187",
+   "summary": "In the hours after the Supreme Court defeat, White House aides and allies discussed a number of policy options.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-07-01T18:29:16+00:00",
    "iran_topic": false
   },
   {
-   "id": "6887198f8895",
-   "title": "Chuck Todd Says Trump’s Midterm Convention Will Only Boost Democrats",
-   "link": "https://www.mediaite.com/media/news/chuck-todd-says-trumps-midterm-convention-will-only-boost-democrats/",
-   "summary": "Chuck Todd argued that the GOP convention being held in Dallas this September at President Donald Trump's behest will only help buoy Democrats in the midterms. The post Chuck Todd Says Trump’s Midterm Convention Will Only Boost Democrats first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:56:20+00:00",
+   "id": "4a70535b74a7",
+   "title": "A group of farmers walked into the Oval Office. A policy fight broke out.",
+   "link": "https://www.politico.com/news/2026/07/01/trump-oval-maha-policy-live-debate-00983992",
+   "summary": "A group of Trump advisers, Cabinet secretaries and MAHA farmers came to the Oval Office for a signing ceremony on an executive order they championed. A deep-pocketed opponent was waiting to argue them down.",
+   "source": "Politico WH",
+   "category": "politico_wh",
+   "published": "2026-07-01T18:25:21+00:00",
    "iran_topic": false
   },
   {
-   "id": "1ee0746ec162",
-   "title": "‘So No Answer?’ CNN Anchor Grills Progressive Candidate Over Hasan Piker Embrace",
-   "link": "https://www.mediaite.com/media/tv/so-no-answer-cnn-anchor-grills-progressive-candidate-over-hasan-piker-embrace/",
-   "summary": "“So no answer about this embrace of him. Do you think people are making too much or too little of this?” The post ‘So No Answer?’ CNN Anchor Grills Progressive Candidate Over Hasan Piker Embrace first appeared on Mediaite .",
-   "source": "Mediaite (all)",
-   "category": "mediaite_all",
-   "published": "2026-07-01T18:51:08+00:00",
+   "id": "486640bea25c",
+   "title": "Yugoslavia is still playing",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/former-yugoslavia-players-bosnia-croatia-descent-00983571",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T18:16:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "57e153ba0cb8",
+   "title": "Sister Leticia \"Letty\" Ugboaja was walking to Sunday Mass in McAllen, Texas, when federal immigration officers stopped her, confiscated her rosary, and put her in handcuffs. DHS would not respond to requests for comment. The Catholic nun from Nigeria is a nurse who entered the country legally.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpm3vdmqic2s",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T18:00:13.677+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "14ed431e0f5a",
+   "title": "Why isn't Donald Trump at the US match against Bosnia?",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/sophia-cai-video-why-trump-missing-world-cup-00983889",
+   "summary": "He's been following the World Cup via social media clips. Here's one of his favorites.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T17:55:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7ef5f6dc02e2",
+   "title": "Priorities, priorities",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/reform-uk-ai-policy-during-world-cup-england-congo-00984012",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T17:40:11+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "aab659ab91e8",
+   "title": "Bay Area transit systems can't afford to park the bus",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bay-area-transit-world-cup-bart-muni-caltrain-ballot-measure-00983840",
+   "summary": "BART, Caltrain and Muni are playing for a win today, counting on soccer fans to help win over local voters ahead of a transit-funding tax vote.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T17:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6bc13502dfbb",
+   "title": "BREAKING NYT: John Brennan's lawyers are asking a judge to force Trump and top DOJ officials to preserve records and comms related to the inquiries into Brennan — saying that, if prosecutors bring charges, they intend to fight them by claiming vindictive retribution.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mplykhwums2t",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T17:00:27.879+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "5f793b9f8b72",
+   "title": "A polite England-Congo encounter",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/england-congo-encounter-00983891",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T16:51:42+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "50130b5bb88c",
+   "title": "Why Bosnia’s fans also cheer for Palestine",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-palestine-cheer-israel-genocide-gaza-00983579",
+   "summary": "A nation that spent 25 years prosecuting its own genocide sees its history playing out in Israel’s war — while its leaders cozy up to Netanyahu.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T16:16:00+00:00",
+   "iran_topic": true
+  },
+  {
+   "id": "3b951c385b5a",
+   "title": "Mamdani's howler",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/zohran-mamdani-howler-tisch-france-norway-00983804",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T16:15:14+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "6f8d9c0d9334",
+   "title": "The Cook Political Report just shifted the Alaska Senate Race from Lean R to Tossup.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mpltrusrf22z",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T15:35:07.548+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "7c9a15f5700a",
+   "title": "Westminster catches World Cup fever",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/westminster-england-congo-world-cup-fever-00983750",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T15:34:41+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "1b84add4a11f",
+   "title": "The World Cup goalie turned anti-gambling campaigner",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/peter-shilton-anti-gambling-eu-budget-fifa-world-cup-00983548",
+   "summary": "Former England stopper Peter Shilton wants the EU to bring in an online gambling tax.",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T15:15:00+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "267b2446eed8",
+   "title": "Trump will skip US match",
+   "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/trump-skip-us-match-lutnick-giuliani-00983720",
+   "summary": "",
+   "source": "Politico Politics",
+   "category": "politico_pol",
+   "published": "2026-07-01T15:02:24+00:00",
+   "iran_topic": false
+  },
+  {
+   "id": "026035a7255d",
+   "title": "People connected to the Trump White House are using their connections to advocate for pardons — in exchange for a fee: \"It is general knowledge in our practice that for $2 million, you can have a pardon,\" one prominent white-collar defense attorney said.",
+   "link": "https://bsky.app/profile/kylegriffin1.bsky.social/post/3mplrkp22vs2b",
+   "summary": "",
+   "source": "@kylegriffin1",
+   "category": "trump_bsky",
+   "published": "2026-07-01T14:55:19.131+00:00",
    "iran_topic": false
   }
  ]
